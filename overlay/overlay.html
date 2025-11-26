@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>IIIF overlay</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    html, body { height: 100%; margin: 0; }
+    header { padding: 8px 12px; background: #f6f6f6; border-bottom: 1px solid #ddd; }
+    .row { display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin:6px 0; }
+    input[type="text"] { padding:4px 6px; width:120px; }
+    input[type="range"] { width:300px; }
+    input[type="number"] { width:64px; }
+    button { padding:6px 10px; }
+    #stage { position: relative; height: calc(100vh - 152px); }
+    #mapBase, #mapOverlay {
+      position: absolute; inset: 0; /* 重ねる */
+    }
+    /* 上の地図は操作させず、クリックは下へ透過 */
+    #mapOverlay { pointer-events: none; }
+    code { background:#eee; padding:2px 4px; border-radius:4px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="row">
+      <label>下（ベース）ID</label><input id="idBase" type="text" value="LAJ_018">
+      <label>上（オーバーレイ）ID</label><input id="idOverlay" type="text" value="LAJ_019">
+      <button id="load">読み込む</button>
+      <button id="resetOffset" title="オーバーレイの平行移動をリセット">位置リセット</button>
+    </div>
+    <div class="row">
+      <label>ブレンド</label>
+      <input id="blend" type="range" min="0" max="1" step="0.01" value="0.5">
+      <span><code id="labelBase">LAJ_018</code>: <b id="valBase">0.50</b></span>
+      <span><code id="labelOverlay">LAJ_019</code>: <b id="valOverlay">0.50</b></span>
+      <small style="color:#666">（下=v、上=1−v）</small>
+    </div>
+    <div class="row">
+      <label>微調整（px）</label>
+      <input id="step" type="number" value="2" min="1" step="1">
+      <button id="nUp">↑</button>
+      <button id="nLeft">←</button>
+      <button id="nRight">→</button>
+      <button id="nDown">↓</button>
+      <small style="color:#666">※ 上（オーバーレイ）全体を移動</small>
+    </div>
+  </header>
+
+  <div id="stage">
+    <div id="mapBase"></div>
+    <div id="mapOverlay"></div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet-iiif@3.0.0/leaflet-iiif.min.js"></script>
+<script>
+  // ===== ユーティリティ =====
+  const $ = (id) => document.getElementById(id);
+
+  // プロキシ無しで直接 NIHU IIIF を叩く
+  function buildManifestUrl(id) {
+    return `https://iiif.nihu.jp/iiif/archives/${encodeURIComponent(id)}/manifest.json`;
+  }
+
+  function infoFromManifest(man) {
+    // IIIF v3
+    try {
+      const body = man?.items?.[0]?.items?.[0]?.items?.[0]?.body;
+      const svc  = Array.isArray(body?.service) ? body.service[0] : body?.service;
+      const id   = svc?.["@id"] || svc?.id;
+      if (id) return (id.endsWith("/info.json") ? id : id.replace(/\/info\.json$/, "") + "/info.json");
+    } catch {}
+    // IIIF v2
+    try {
+      const img = man?.sequences?.[0]?.canvases?.[0]?.images?.[0]?.resource;
+      const svc = img?.service;
+      const id  = svc?.["@id"] || svc?.id;
+      if (id) return (id.endsWith("/info.json") ? id : id.replace(/\/info\.json$/, "") + "/info.json");
+    } catch {}
+    return null;
+  }
+
+  const stripInfo = (infoUrl) => infoUrl.replace(/\/info\.json(\?.*)?$/, "");
+
+  // ===== 2つの地図（ベース／オーバーレイ） =====
+  const mapBase    = L.map('mapBase',    { crs: L.CRS.Simple, center:[0,0], zoom:0 });
+  const mapOverlay = L.map('mapOverlay', { crs: L.CRS.Simple, center:[0,0], zoom:0,
+    zoomControl:false, attributionControl:false
+  });
+
+  // ベースの動きにオーバーレイを追従
+  function syncOverlayView() {
+    mapOverlay.setView(mapBase.getCenter(), mapBase.getZoom(), { animate:false });
+  }
+  mapBase.on("move zoom", syncOverlayView);
+
+  let layerBase = null, layerOverlay = null;
+
+  // ===== ブレンド（合計=1） =====
+  function applyBlend(v) {
+    if (layerBase)    layerBase.setOpacity(v);
+    if (layerOverlay) layerOverlay.setOpacity(1 - v);
+    $('valBase').textContent = v.toFixed(2);
+    $('valOverlay').textContent = (1 - v).toFixed(2);
+  }
+  $('blend').addEventListener('input', (e) => applyBlend(parseFloat(e.target.value)));
+
+  // ===== オーバーレイの平行移動（mapOverlay コンテナに transform を当てる） =====
+  let overlayOffset = { x: 0, y: 0 }; // px
+  function applyOverlayOffset() {
+    const el = $('mapOverlay');
+    el.style.transform = `translate(${overlayOffset.x}px, ${overlayOffset.y}px)`;
+  }
+  const step = () => parseInt($('step').value || '1', 10);
+  $('nUp').addEventListener('click',   () => { overlayOffset.y -= step(); applyOverlayOffset(); });
+  $('nDown').addEventListener('click', () => { overlayOffset.y += step(); applyOverlayOffset(); });
+  $('nLeft').addEventListener('click', () => { overlayOffset.x -= step(); applyOverlayOffset(); });
+  $('nRight').addEventListener('click',() => { overlayOffset.x += step(); applyOverlayOffset(); });
+  $('resetOffset').addEventListener('click', () => { overlayOffset = {x:0,y:0}; applyOverlayOffset(); });
+
+  // ---- leaflet-iiif レイヤ追加（load まで待つ）----
+  function addIiifLayer(map, infoUrl, opts) {
+    return new Promise((resolve, reject) => {
+      const layer = L.tileLayer.iiif(infoUrl, opts)
+        .on('load', () => resolve(layer))
+        .on('tileerror', (e) => console.warn('tileerror', e))
+        .on('error', (e) => reject(e))
+        .addTo(map);
+    });
+  }
+
+  // ===== クリック → フル解像度 px で 80×80 を出力（より不透明な方を自動選択） =====
+  const REGION = 80; // 一辺の長さ（px, フル解像度基準）
+  let svcBase = null, svcOverlay = null;     // “…/iiif/2/…tif”
+  let dimBase = null, dimOverlay = null;     // {width, height}（フル解像度）
+
+  // container px → 現在ビュー内部座標を経由 → フル解像度 px へ線形変換
+  function containerToFullPx(map, dims, containerPoint) {
+    const fullW = dims.width  ?? dims['@width'];
+    const fullH = dims.height ?? dims['@height'];
+    const z = map.getZoom();
+
+    // 画像の (0,0) と (fullW,fullH) を現在ズームに投影（= この CRS 上の絶対座標）
+    const originLL = map.unproject(L.point(0, 0), z);                 // 左上
+    const maxLL    = map.unproject(L.point(fullW, fullH), z);         // 右下
+
+    // クリック位置の CRS 座標
+    const ll = map.containerPointToLatLng(containerPoint);
+
+    // 画像全体に対する相対位置（0..1）
+    let rx = (ll.lng - originLL.lng) / (maxLL.lng - originLL.lng);
+    let ry = (ll.lat - originLL.lat) / (maxLL.lat - originLL.lat);
+    rx = Math.min(1, Math.max(0, rx));
+    ry = Math.min(1, Math.max(0, ry));
+
+    // フル解像度 px に戻す
+    return { x: rx * fullW, y: ry * fullH };
+  }
+
+  // 中心（フル解像度）→ 固定サイズの領域（端はクランプ）
+  function centerToPixelRegion(fullPt, dims, size) {
+    const fullW = dims.width  ?? dims['@width'];
+    const fullH = dims.height ?? dims['@height'];
+    let x = Math.round(fullPt.x - size / 2);
+    let y = Math.round(fullPt.y - size / 2);
+    x = Math.max(0, Math.min(x, Math.max(0, fullW - size)));
+    y = Math.max(0, Math.min(y, Math.max(0, fullH - size)));
+    return { x, y, w: size, h: size };
+  }
+
+  function buildPixelUrl(serviceBase, r) {
+    // 例）https://iiif.nihu.jp/iiif/2/laj_map%2FLAJ_019.tif/7610,4730,80,80/full/0/default.jpg
+    return `${serviceBase}/${r.x},${r.y},${r.w},${r.h}/full/0/default.jpg`;
+  }
+
+  function moreOpaqueLayer() {
+    const v = parseFloat(document.getElementById('blend').value || '0.5'); // 下= v, 上= 1-v
+    if (v > 0.5) return 'base';
+    if (v < 0.5) return 'overlay';
+    return 'both';
+  }
+
+  // 下の地図をクリック（上は pointer-events: none）
+  mapBase.on('click', (e) => {
+    const which = moreOpaqueLayer();
+
+    if ((which === 'base' || which === 'both') && svcBase && dimBase) {
+      const fullPtB = containerToFullPx(mapBase, dimBase, e.containerPoint);
+      const rB = centerToPixelRegion(fullPtB, dimBase, REGION);
+      console.log(`[${$('labelBase').textContent}]`, buildPixelUrl(svcBase, rB));
+    }
+
+    if ((which === 'overlay' || which === 'both') && svcOverlay && dimOverlay) {
+      // オーバーレイは CSS translate 分を補正してから同じ変換
+      const pOver = L.point(e.containerPoint.x - overlayOffset.x, e.containerPoint.y - overlayOffset.y);
+      const fullPtO = containerToFullPx(mapOverlay, dimOverlay, pOver);
+      const rO = centerToPixelRegion(fullPtO, dimOverlay, REGION);
+      console.log(`[${$('labelOverlay').textContent}]`, buildPixelUrl(svcOverlay, rO));
+    }
+  });
+
+  // ===== 読み込み =====
+  async function loadPair() {
+    $('labelBase').textContent    = $('idBase').value.trim();
+    $('labelOverlay').textContent = $('idOverlay').value.trim();
+
+    // 既存レイヤ除去・オフセット初期化
+    if (layerBase)    mapBase.removeLayer(layerBase);
+    if (layerOverlay) mapOverlay.removeLayer(layerOverlay);
+    overlayOffset = {x:0,y:0}; applyOverlayOffset();
+
+    // マニフェスト → info.json（プロキシなしで直接取得）
+    const [manB, manO] = await Promise.all([
+      fetch(buildManifestUrl($('idBase').value.trim())).then(r=>r.json()),
+      fetch(buildManifestUrl($('idOverlay').value.trim())).then(r=>r.json()),
+    ]);
+    let infoB = infoFromManifest(manB);
+    let infoO = infoFromManifest(manO);
+    if (!infoB || !infoO) { alert("info.json を抽出できませんでした"); return; }
+
+    // service base とフル解像度寸法
+    svcBase    = stripInfo(infoB);
+    svcOverlay = stripInfo(infoO);
+    const [iB, iO] = await Promise.all([ fetch(infoB).then(r=>r.json()), fetch(infoO).then(r=>r.json()) ]);
+    dimBase    = { width: iB.width  || iB['@width'],  height: iB.height  || iB['@height'] };
+    dimOverlay = { width: iO.width  || iO['@width'],  height: iO.height  || iO['@height'] };
+
+    const v = parseFloat($('blend').value);
+
+    // 下：fitBounds / setMaxBounds / noWrap
+    layerBase = await addIiifLayer(mapBase, infoB, {
+      fitBounds:true, setMaxBounds:true, noWrap:true, opacity:v
+    });
+
+    // 上：一旦 fitBounds（重要）/ noWrap
+    layerOverlay = await addIiifLayer(mapOverlay, infoO, {
+      fitBounds:true, setMaxBounds:false, noWrap:true, opacity:1-v
+    });
+
+    // 直後にビューを完全同期
+    syncOverlayView();
+  }
+
+  $('load').addEventListener('click', () => {
+    loadPair().catch(e => {
+      console.error('loadPair failed:', e);
+      alert(e?.message || e);
+    });
+  });
+
+  // 初回ロード
+  loadPair().catch(()=>{});
+</script>
+
+</body>
+</html>
