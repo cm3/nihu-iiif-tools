@@ -10,10 +10,11 @@
     header { padding: 8px 12px; background: #f6f6f6; border-bottom: 1px solid #ddd; }
     .row { display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin:6px 0; }
     input[type="text"] { padding:4px 6px; width:120px; }
+    select { padding:4px 6px; max-width:320px; }
     input[type="range"] { width:300px; }
     input[type="number"] { width:64px; }
     button { padding:6px 10px; }
-    #stage { position: relative; height: calc(100vh - 152px); }
+    #stage { position: relative; height: calc(100vh - 190px); }
     #mapBase, #mapOverlay {
       position: absolute; inset: 0; /* 重ねる */
     }
@@ -25,8 +26,12 @@
 <body>
   <header>
     <div class="row">
-      <label>下（ベース）ID</label><input id="idBase" type="text" value="LAJ_018">
-      <label>上（オーバーレイ）ID</label><input id="idOverlay" type="text" value="LAJ_019">
+      <label>下（ベース）</label>
+      <select id="selectBase"><option value="">-- 候補を読み込み中 --</option></select>
+      <input id="idBase" type="text" value="LAJ_018">
+      <label>上（オーバーレイ）</label>
+      <select id="selectOverlay"><option value="">-- 候補を読み込み中 --</option></select>
+      <input id="idOverlay" type="text" value="LAJ_019">
       <button id="load">読み込む</button>
       <button id="resetOffset" title="オーバーレイの平行移動をリセット">位置リセット</button>
     </div>
@@ -46,6 +51,14 @@
       <button id="nDown">↓</button>
       <small style="color:#666">※ 上（オーバーレイ）全体を移動</small>
     </div>
+    <div class="row">
+      <label>キャリブレーション</label>
+      <span>記録: <b id="pointCount">0</b>点</span>
+      <button id="recordPoint">記録</button>
+      <button id="clearPoints">クリア</button>
+      <button id="downloadJson">ダウンロード</button>
+      <small id="lastRecorded" style="color:#666"></small>
+    </div>
   </header>
 
   <div id="stage">
@@ -58,6 +71,47 @@
 <script>
   // ===== ユーティリティ =====
   const $ = (id) => document.getElementById(id);
+
+  // ===== 候補リストの読み込み =====
+  let mapCandidates = [];
+
+  async function loadCandidates() {
+    try {
+      const res = await fetch('data/laj_maps.json');
+      mapCandidates = await res.json();
+      populateSelect($('selectBase'), mapCandidates, $('idBase').value);
+      populateSelect($('selectOverlay'), mapCandidates, $('idOverlay').value);
+    } catch (e) {
+      console.error('候補リストの読み込みに失敗:', e);
+      $('selectBase').innerHTML = '<option value="">-- 読み込み失敗 --</option>';
+      $('selectOverlay').innerHTML = '<option value="">-- 読み込み失敗 --</option>';
+    }
+  }
+
+  function populateSelect(selectEl, items, currentValue) {
+    selectEl.innerHTML = '<option value="">-- 選択してください --</option>';
+    items.forEach(item => {
+      const opt = document.createElement('option');
+      opt.value = item.id;
+      opt.textContent = `${item.id}: ${item.title}`;
+      if (item.id === currentValue) opt.selected = true;
+      selectEl.appendChild(opt);
+    });
+  }
+
+  // セレクトボックスの変更を入力欄に反映
+  $('selectBase').addEventListener('change', (e) => {
+    if (e.target.value) $('idBase').value = e.target.value;
+  });
+  $('selectOverlay').addEventListener('change', (e) => {
+    if (e.target.value) $('idOverlay').value = e.target.value;
+  });
+
+  // 初回読み込み
+  loadCandidates();
+
+  // キャリブレーション記録（loadPair より前に定義）
+  let calibrationPoints = [];
 
   // プロキシ無しで直接 NIHU IIIF を叩く
   function buildManifestUrl(id) {
@@ -211,6 +265,11 @@
     if (layerOverlay) mapOverlay.removeLayer(layerOverlay);
     overlayOffset = {x:0,y:0}; applyOverlayOffset();
 
+    // キャリブレーション記録をクリア
+    calibrationPoints = [];
+    $('pointCount').textContent = '0';
+    $('lastRecorded').textContent = '';
+
     // マニフェスト → info.json（プロキシなしで直接取得）
     const [manB, manO] = await Promise.all([
       fetch(buildManifestUrl($('idBase').value.trim())).then(r=>r.json()),
@@ -252,6 +311,81 @@
 
   // 初回ロード
   loadPair().catch(()=>{});
+
+  // ===== キャリブレーション記録 =====
+  // 画面中央の containerPoint を取得
+  function getContainerCenter() {
+    const container = $('mapBase');
+    return L.point(container.clientWidth / 2, container.clientHeight / 2);
+  }
+
+  // 記録ボタン
+  $('recordPoint').addEventListener('click', () => {
+    if (!dimBase || !dimOverlay) {
+      alert('画像を先に読み込んでください');
+      return;
+    }
+
+    // 画面中央の containerPoint
+    const centerPt = getContainerCenter();
+
+    // ベース画像：画面中央そのまま
+    const baseCenter = containerToFullPx(mapBase, dimBase, centerPt);
+
+    // オーバーレイ画像：CSS offset を補正（オーバーレイが右にずれている場合、実際の画像上では左側を見ている）
+    const overlayPt = L.point(centerPt.x - overlayOffset.x, centerPt.y - overlayOffset.y);
+    const overlayCenter = containerToFullPx(mapOverlay, dimOverlay, overlayPt);
+
+    if (!baseCenter || !overlayCenter) {
+      alert('座標の取得に失敗しました');
+      return;
+    }
+
+    const point = {
+      base: { x: Math.round(baseCenter.x), y: Math.round(baseCenter.y) },
+      overlay: { x: Math.round(overlayCenter.x), y: Math.round(overlayCenter.y) },
+      offset: { x: overlayOffset.x, y: overlayOffset.y }
+    };
+
+    calibrationPoints.push(point);
+    $('pointCount').textContent = calibrationPoints.length;
+    $('lastRecorded').textContent = `base(${point.base.x}, ${point.base.y}) / overlay(${point.overlay.x}, ${point.overlay.y})`;
+  });
+
+  // クリアボタン
+  $('clearPoints').addEventListener('click', () => {
+    if (calibrationPoints.length === 0) return;
+    if (!confirm(`${calibrationPoints.length}点の記録をクリアしますか？`)) return;
+    calibrationPoints = [];
+    $('pointCount').textContent = '0';
+    $('lastRecorded').textContent = '';
+  });
+
+  // ダウンロードボタン
+  $('downloadJson').addEventListener('click', () => {
+    if (calibrationPoints.length === 0) {
+      alert('記録がありません');
+      return;
+    }
+
+    const data = {
+      baseId: $('idBase').value.trim(),
+      overlayId: $('idOverlay').value.trim(),
+      timestamp: new Date().toISOString(),
+      points: calibrationPoints
+    };
+
+    const json = JSON.stringify(data, null, 2);
+    const blob = new Blob([json], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${data.baseId}_${data.overlayId}.json`;
+    a.click();
+
+    URL.revokeObjectURL(url);
+  });
 </script>
 
 </body>
