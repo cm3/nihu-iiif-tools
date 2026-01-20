@@ -130,8 +130,8 @@
   const stripInfo = (infoUrl) => infoUrl.replace(/\/info\.json(\?.*)?$/, "");
 
   // ===== 2つの地図（ベース／オーバーレイ） =====
-  const mapBase    = L.map('mapBase',    { crs: L.CRS.Simple, center:[0,0], zoom:0, zoomAnimation:false });
-  const mapOverlay = L.map('mapOverlay', { crs: L.CRS.Simple, center:[0,0], zoom:0, zoomAnimation:false,
+  const mapBase    = L.map('mapBase',    { crs: L.CRS.Simple, center:[0,0], zoom:0 });
+  const mapOverlay = L.map('mapOverlay', { crs: L.CRS.Simple, center:[0,0], zoom:0,
     zoomControl:false, attributionControl:false
   });
 
@@ -153,16 +153,34 @@
   $('blend').addEventListener('input', (e) => applyBlend(parseFloat(e.target.value)));
 
   // ===== オーバーレイの平行移動（mapOverlay コンテナに transform を当てる） =====
-  let overlayOffset = { x: 0, y: 0 }; // px
+  // offset は「最大ズーム時のピクセル数」として保存し、現在のズームに応じてスケーリング
+  let overlayOffset = { x: 0, y: 0 }; // 最大ズーム基準の px
   function applyOverlayOffset() {
     const el = $('mapOverlay');
-    el.style.transform = `translate(${overlayOffset.x}px, ${overlayOffset.y}px)`;
+    const maxZoom = mapBase.getMaxZoom();
+    const currentZoom = mapBase.getZoom();
+    const scale = Math.pow(2, currentZoom - maxZoom);
+    const scaledX = overlayOffset.x * scale;
+    const scaledY = overlayOffset.y * scale;
+    el.style.transform = `translate(${scaledX}px, ${scaledY}px)`;
   }
+  // ズーム変更時にも offset を再適用
+  mapBase.on('zoom', applyOverlayOffset);
+
   const step = () => parseInt($('step').value || '1', 10);
-  $('nUp').addEventListener('click',   () => { overlayOffset.y -= step(); applyOverlayOffset(); });
-  $('nDown').addEventListener('click', () => { overlayOffset.y += step(); applyOverlayOffset(); });
-  $('nLeft').addEventListener('click', () => { overlayOffset.x -= step(); applyOverlayOffset(); });
-  $('nRight').addEventListener('click',() => { overlayOffset.x += step(); applyOverlayOffset(); });
+  // 矢印ボタンは「最大ズーム基準」で offset を更新
+  function adjustOffset(dx, dy) {
+    const maxZoom = mapBase.getMaxZoom();
+    const currentZoom = mapBase.getZoom();
+    const scale = Math.pow(2, currentZoom - maxZoom);
+    overlayOffset.x += dx / scale;
+    overlayOffset.y += dy / scale;
+    applyOverlayOffset();
+  }
+  $('nUp').addEventListener('click',   () => adjustOffset(0, -step()));
+  $('nDown').addEventListener('click', () => adjustOffset(0, step()));
+  $('nLeft').addEventListener('click', () => adjustOffset(-step(), 0));
+  $('nRight').addEventListener('click',() => adjustOffset(step(), 0));
   $('resetOffset').addEventListener('click', () => { overlayOffset = {x:0,y:0}; applyOverlayOffset(); });
 
   // ---- leaflet-iiif レイヤ追加（load まで待つ）----
