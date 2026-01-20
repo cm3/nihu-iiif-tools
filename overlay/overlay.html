@@ -9,7 +9,6 @@
     html, body { height: 100%; margin: 0; }
     header { padding: 8px 12px; background: #f6f6f6; border-bottom: 1px solid #ddd; }
     .row { display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin:6px 0; }
-    input[type="text"] { padding:4px 6px; width:120px; }
     select { padding:4px 6px; max-width:320px; }
     input[type="range"] { width:300px; }
     input[type="number"] { width:64px; }
@@ -28,28 +27,23 @@
     <div class="row">
       <label>下（ベース）</label>
       <select id="selectBase"><option value="">-- 候補を読み込み中 --</option></select>
-      <input id="idBase" type="text" value="LAJ_018">
       <label>上（オーバーレイ）</label>
       <select id="selectOverlay"><option value="">-- 候補を読み込み中 --</option></select>
-      <input id="idOverlay" type="text" value="LAJ_019">
-      <button id="load">読み込む</button>
-      <button id="resetOffset" title="オーバーレイの平行移動をリセット">位置リセット</button>
     </div>
     <div class="row">
       <label>ブレンド</label>
       <input id="blend" type="range" min="0" max="1" step="0.01" value="0.5">
       <span><code id="labelBase">LAJ_018</code>: <b id="valBase">0.50</b></span>
       <span><code id="labelOverlay">LAJ_019</code>: <b id="valOverlay">0.50</b></span>
-      <small style="color:#666">（下=v、上=1−v）</small>
     </div>
     <div class="row">
-      <label>微調整（px）</label>
+      <label>調整幅（px）</label>
       <input id="step" type="number" value="2" min="1" step="1">
       <button id="nUp">↑</button>
       <button id="nLeft">←</button>
       <button id="nRight">→</button>
       <button id="nDown">↓</button>
-      <small style="color:#666">※ 上（オーバーレイ）全体を移動</small>
+      <button id="resetOffset" title="オーバーレイの平行移動をリセット">位置リセット</button>
     </div>
     <div class="row">
       <label>キャリブレーション</label>
@@ -75,12 +69,17 @@
   // ===== 候補リストの読み込み =====
   let mapCandidates = [];
 
+  const defaultBase = 'LAJ_018';
+  const defaultOverlay = 'LAJ_019';
+
   async function loadCandidates() {
     try {
       const res = await fetch('data/laj_maps.json');
       mapCandidates = await res.json();
-      populateSelect($('selectBase'), mapCandidates, $('idBase').value);
-      populateSelect($('selectOverlay'), mapCandidates, $('idOverlay').value);
+      populateSelect($('selectBase'), mapCandidates, defaultBase);
+      populateSelect($('selectOverlay'), mapCandidates, defaultOverlay);
+      // 候補ロード後に初回画像ロード
+      loadPair().catch(e => console.error('初回loadPair失敗:', e));
     } catch (e) {
       console.error('候補リストの読み込みに失敗:', e);
       $('selectBase').innerHTML = '<option value="">-- 読み込み失敗 --</option>';
@@ -98,14 +97,6 @@
       selectEl.appendChild(opt);
     });
   }
-
-  // セレクトボックスの変更を入力欄に反映
-  $('selectBase').addEventListener('change', (e) => {
-    if (e.target.value) $('idBase').value = e.target.value;
-  });
-  $('selectOverlay').addEventListener('change', (e) => {
-    if (e.target.value) $('idOverlay').value = e.target.value;
-  });
 
   // 初回読み込み
   loadCandidates();
@@ -139,8 +130,8 @@
   const stripInfo = (infoUrl) => infoUrl.replace(/\/info\.json(\?.*)?$/, "");
 
   // ===== 2つの地図（ベース／オーバーレイ） =====
-  const mapBase    = L.map('mapBase',    { crs: L.CRS.Simple, center:[0,0], zoom:0 });
-  const mapOverlay = L.map('mapOverlay', { crs: L.CRS.Simple, center:[0,0], zoom:0,
+  const mapBase    = L.map('mapBase',    { crs: L.CRS.Simple, center:[0,0], zoom:0, zoomAnimation:false });
+  const mapOverlay = L.map('mapOverlay', { crs: L.CRS.Simple, center:[0,0], zoom:0, zoomAnimation:false,
     zoomControl:false, attributionControl:false
   });
 
@@ -257,8 +248,8 @@
 
   // ===== 読み込み =====
   async function loadPair() {
-    $('labelBase').textContent    = $('idBase').value.trim();
-    $('labelOverlay').textContent = $('idOverlay').value.trim();
+    $('labelBase').textContent    = $('selectBase').value.trim();
+    $('labelOverlay').textContent = $('selectOverlay').value.trim();
 
     // 既存レイヤ除去・オフセット初期化
     if (layerBase)    mapBase.removeLayer(layerBase);
@@ -272,8 +263,8 @@
 
     // マニフェスト → info.json（プロキシなしで直接取得）
     const [manB, manO] = await Promise.all([
-      fetch(buildManifestUrl($('idBase').value.trim())).then(r=>r.json()),
-      fetch(buildManifestUrl($('idOverlay').value.trim())).then(r=>r.json()),
+      fetch(buildManifestUrl($('selectBase').value.trim())).then(r=>r.json()),
+      fetch(buildManifestUrl($('selectOverlay').value.trim())).then(r=>r.json()),
     ]);
     let infoB = infoFromManifest(manB);
     let infoO = infoFromManifest(manO);
@@ -302,15 +293,17 @@
     syncOverlayView();
   }
 
-  $('load').addEventListener('click', () => {
-    loadPair().catch(e => {
-      console.error('loadPair failed:', e);
-      alert(e?.message || e);
-    });
-  });
-
-  // 初回ロード
-  loadPair().catch(()=>{});
+  // プルダウン変更で自動読み込み
+  function onSelectChange() {
+    if ($('selectBase').value && $('selectOverlay').value) {
+      loadPair().catch(e => {
+        console.error('loadPair failed:', e);
+        alert(e?.message || e);
+      });
+    }
+  }
+  $('selectBase').addEventListener('change', onSelectChange);
+  $('selectOverlay').addEventListener('change', onSelectChange);
 
   // ===== キャリブレーション記録 =====
   // 画面中央の containerPoint を取得
@@ -369,8 +362,8 @@
     }
 
     const data = {
-      baseId: $('idBase').value.trim(),
-      overlayId: $('idOverlay').value.trim(),
+      baseId: $('selectBase').value.trim(),
+      overlayId: $('selectOverlay').value.trim(),
       timestamp: new Date().toISOString(),
       points: calibrationPoints
     };
