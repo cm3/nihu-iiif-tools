@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+pip-log.txt
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local environment
+.envrc
+.env
+.vite/
+.history/
+
+# local working files (not committed)
+_local/
+
+# Logs
+log.txt
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Office documents
+*.ods
+*.~lock.*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+

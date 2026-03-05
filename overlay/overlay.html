@@ -44,6 +44,7 @@
       <button id="nRight">→</button>
       <button id="nDown">↓</button>
       <button id="resetOffset" title="オーバーレイの平行移動をリセット">位置リセット</button>
+      <label><input id="tintBase" type="checkbox"> 左図を赤色調</label>
     </div>
     <div class="row">
       <label>キャリブレーション</label>
@@ -69,8 +70,8 @@
   // ===== 候補リストの読み込み =====
   let mapCandidates = [];
 
-  const defaultBase = 'LAJ_018';
-  const defaultOverlay = 'LAJ_019';
+  const defaultBase = 'LAJ_017';
+  const defaultOverlay = 'LAJ_018';
 
   async function loadCandidates() {
     try {
@@ -182,6 +183,10 @@
   $('nLeft').addEventListener('click', () => adjustOffset(-step(), 0));
   $('nRight').addEventListener('click',() => adjustOffset(step(), 0));
   $('resetOffset').addEventListener('click', () => { overlayOffset = {x:0,y:0}; applyOverlayOffset(); });
+  $('tintBase').addEventListener('change', (e) => {
+    const f = e.target.checked ? 'hue-rotate(240deg)' : '';
+    mapBase.getContainer().querySelectorAll('.leaflet-tile-pane').forEach(el => el.style.filter = f);
+  });
 
   // ---- leaflet-iiif レイヤ追加（load まで待つ）----
   function addIiifLayer(map, infoUrl, opts) {

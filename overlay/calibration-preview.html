@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>キャリブレーションプレビュー</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    html, body { height: 100%; margin: 0; font-family: sans-serif; }
+    header { padding: 8px 12px; background: #f6f6f6; border-bottom: 1px solid #ddd; }
+    .row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin: 4px 0; }
+    input[type="range"] { width: 200px; }
+    label { display: flex; align-items: center; gap: 4px; cursor: pointer; }
+    #map { height: calc(100vh - 72px); }
+    #status { color: #555; font-size: 0.85em; }
+    .gcp-tooltip { font-size: 11px; }
+    #legendPanel {
+      display: none;
+      position: fixed;
+      bottom: 16px;
+      right: 16px;
+      width: min(700px, 55vw);
+      max-height: 85vh;
+      background: #fff;
+      border: 2px solid #888;
+      border-radius: 4px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.35);
+      z-index: 1000;
+      overflow: auto;
+    }
+    #legendPanel.visible { display: block; }
+    #legendPanel img { display: block; width: 100%; }
+    #legendHint {
+      position: fixed; bottom: 16px; left: 50%; transform: translateX(-50%);
+      background: rgba(0,0,0,0.55); color: #fff;
+      padding: 3px 10px; border-radius: 12px; font-size: 0.78em;
+      pointer-events: none; z-index: 999;
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="row">
+    <strong>キャリブレーションプレビュー</strong>
+    <code id="mapLabel">LAJ_017</code>
+    <span id="status">読み込み中…</span>
+  </div>
+  <div class="row">
+    <label>方言地図の不透明度</label>
+    <input id="opacity" type="range" min="0" max="1" step="0.01" value="0.7">
+    <span id="opacityVal">0.70</span>
+    <label><input id="showGcps" type="checkbox" checked> GCP表示</label>
+    <label><input id="showLines" type="checkbox" checked> 残差ライン</label>
+  </div>
+</header>
+<div id="map"></div>
+<div id="legendPanel"><img id="legendImg" src="" alt="凡例"></div>
+<div id="legendHint">Space キーで凡例表示</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+// ===== 設定 =====
+const TSV_URL    = 'data/017-mapping.tsv';
+const HK_TSV_URL = 'data/017-mapping-hk.tsv';
+const RK_TSV_URL = 'data/017-mapping-rk.tsv';
+const SK_TSV_URL = 'data/017-mapping-sk.tsv';
+const MAP_ID     = 'LAJ_017';
+
+// ===== ユーティリティ =====
+const $ = id => document.getElementById(id);
+
+// --- TSV パース: "px py lon lat" ---
+function parseTSV(text) {
+  return text.trim().split('\n')
+    .filter(l => l.trim())
+    .map(line => {
+      const [px, py, lon, lat] = line.trim().split(/\s+/).map(Number);
+      return { px, py, lon, lat };
+    });
+}
+
+// --- IIIF manifest → info.json URL ---
+function buildManifestUrl(id) {
+  return `https://iiif.nihu.jp/iiif/archives/${encodeURIComponent(id)}/manifest.json`;
+}
+function infoFromManifest(man) {
+  try {
+    const body = man?.items?.[0]?.items?.[0]?.items?.[0]?.body;
+    const svc  = Array.isArray(body?.service) ? body.service[0] : body?.service;
+    const id   = svc?.['@id'] || svc?.id;
+    if (id) return id.endsWith('/info.json') ? id : id.replace(/\/info\.json$/, '') + '/info.json';
+  } catch {}
+  try {
+    const img = man?.sequences?.[0]?.canvases?.[0]?.images?.[0]?.resource;
+    const svc = img?.service;
+    const id  = svc?.['@id'] || svc?.id;
+    if (id) return id.endsWith('/info.json') ? id : id.replace(/\/info\.json$/, '') + '/info.json';
+  } catch {}
+  return null;
+}
+const stripInfo = u => u.replace(/\/info\.json(\?.*)?$/, '');
+
+// ===== アフィン最小二乗フィット: GCP全体から (px,py)→{lon,lat} を推定 =====
+function fitAffine(gcps) {
+  const n = gcps.length;
+  // AtA (3×3), AtbLon, AtbLat
+  const AtA = [[0,0,0],[0,0,0],[0,0,0]];
+  const AtbLon = [0,0,0], AtbLat = [0,0,0];
+  for (const g of gcps) {
+    const row = [g.px, g.py, 1];
+    for (let j = 0; j < 3; j++) {
+      for (let k = 0; k < 3; k++) AtA[j][k] += row[j] * row[k];
+      AtbLon[j] += row[j] * g.lon;
+      AtbLat[j] += row[j] * g.lat;
+    }
+  }
+  function solve3(M, b) {
+    const det = m =>
+      m[0][0]*(m[1][1]*m[2][2]-m[1][2]*m[2][1])
+     -m[0][1]*(m[1][0]*m[2][2]-m[1][2]*m[2][0])
+     +m[0][2]*(m[1][0]*m[2][1]-m[1][1]*m[2][0]);
+    const d = det(M);
+    if (Math.abs(d) < 1e-15) return [0,0,0];
+    const col = (m, i, v) => m.map((r, ri) => r.map((c, ci) => ci === i ? v[ri] : c));
+    return [0,1,2].map(i => det(col(M, i, b)) / d);
+  }
+  const [aL, bL, cL] = solve3(AtA, AtbLon);
+  const [aT, bT, cT] = solve3(AtA, AtbLat);
+  return (px, py) => ({ lon: aL*px + bL*py + cL, lat: aT*px + bT*py + cT });
+}
+
+// ===== 三角形2組の対応点からアフィン変換行列を計算 =====
+// imgPts → scrPts: canvas の setTransform(a,b,c,d,e,f) 用
+function affineFromTriangles(imgPts, scrPts) {
+  const ix = imgPts.map(p => p.x), iy = imgPts.map(p => p.y);
+  const sx = scrPts.map(p => p.x), sy = scrPts.map(p => p.y);
+  const detM = ix[0]*(iy[1]-iy[2]) - ix[1]*(iy[0]-iy[2]) + ix[2]*(iy[0]-iy[1]);
+  if (Math.abs(detM) < 0.5) return null;
+  // invM: 3×3 逆行列の各行
+  const invM = [
+    [(iy[1]-iy[2])/detM, (ix[2]-ix[1])/detM, (ix[1]*iy[2]-ix[2]*iy[1])/detM],
+    [(iy[2]-iy[0])/detM, (ix[0]-ix[2])/detM, (ix[2]*iy[0]-ix[0]*iy[2])/detM],
+    [(iy[0]-iy[1])/detM, (ix[1]-ix[0])/detM, (ix[0]*iy[1]-ix[1]*iy[0])/detM]
+  ];
+  const a = sx[0]*invM[0][0] + sx[1]*invM[1][0] + sx[2]*invM[2][0];
+  const c = sx[0]*invM[0][1] + sx[1]*invM[1][1] + sx[2]*invM[2][1];
+  const e = sx[0]*invM[0][2] + sx[1]*invM[1][2] + sx[2]*invM[2][2];
+  const b = sy[0]*invM[0][0] + sy[1]*invM[1][0] + sy[2]*invM[2][0];
+  const d = sy[0]*invM[0][1] + sy[1]*invM[1][1] + sy[2]*invM[2][1];
+  const f = sy[0]*invM[0][2] + sy[1]*invM[1][2] + sy[2]*invM[2][2];
+  return [a, b, c, d, e, f];
+}
+
+// ===== SVG polygon → 画像ピクセル座標配列 =====
+function parseSvgPolygon(svgStr) {
+  const m = svgStr.match(/points="([^"]+)"/);
+  if (!m) return [];
+  return m[1].trim().split(/\s+/).map(pair => {
+    const [px, py] = pair.split(',').map(Number);
+    return { px, py };
+  });
+}
+
+// ===== ポリゴン辺を step px 以下に細分化 =====
+// TPS が非線形なので直線辺を密にしてから変換する
+function densifyPolygon(pts, step) {
+  const result = [];
+  for (let i = 0; i < pts.length; i++) {
+    const a = pts[i], b = pts[(i + 1) % pts.length];
+    const dx = b.px - a.px, dy = b.py - a.py;
+    const n = Math.max(1, Math.ceil(Math.sqrt(dx*dx + dy*dy) / step));
+    for (let j = 0; j < n; j++) {
+      result.push({ px: a.px + dx*j/n, py: a.py + dy*j/n });
+    }
+  }
+  return result;
+}
+
+// ===== ガウス消去法（部分ピボット付き、非破壊）=====
+function gaussianElimination(A, b) {
+  const n = b.length;
+  // 拡大係数行列を内部コピー
+  const M = A.map((row, i) => [...row, b[i]]);
+  for (let col = 0; col < n; col++) {
+    // 部分ピボット選択
+    let maxRow = col;
+    for (let row = col + 1; row < n; row++) {
+      if (Math.abs(M[row][col]) > Math.abs(M[maxRow][col])) maxRow = row;
+    }
+    [M[col], M[maxRow]] = [M[maxRow], M[col]];
+    if (Math.abs(M[col][col]) < 1e-12) continue;
+    for (let row = col + 1; row < n; row++) {
+      const f = M[row][col] / M[col][col];
+      for (let k = col; k <= n; k++) M[row][k] -= f * M[col][k];
+    }
+  }
+  const x = new Array(n).fill(0);
+  for (let i = n - 1; i >= 0; i--) {
+    x[i] = M[i][n];
+    for (let j = i + 1; j < n; j++) x[i] -= M[i][j] * x[j];
+    x[i] /= M[i][i];
+  }
+  return x;
+}
+
+// ===== TPS カーネル: U(r²) = r² log(r²),  U(0) = 0 =====
+function tpsU(r2) { return r2 < 1e-10 ? 0 : r2 * Math.log(r2); }
+
+// ===== Thin Plate Spline ソルバー =====
+// gcps: {px, py, lon, lat}[]
+// 返り値: (px, py) → {lon, lat}  ※GCP点で厳密一致
+function solveTPS(gcps) {
+  const n = gcps.length;
+  const N = n + 3; // n個のTPS重み + アフィン3項 (1, x, y)
+
+  // 行列 A を構築 (N×N)
+  const A = Array.from({length: N}, () => new Array(N).fill(0));
+
+  // K ブロック (n×n): A[i][j] = U(||gcp_i - gcp_j||²)
+  for (let i = 0; i < n; i++) {
+    for (let j = 0; j < n; j++) {
+      const dx = gcps[i].px - gcps[j].px;
+      const dy = gcps[i].py - gcps[j].py;
+      A[i][j] = tpsU(dx*dx + dy*dy);
+    }
+  }
+  // P ブロック (n×3) と Pᵀ ブロック (3×n)
+  for (let i = 0; i < n; i++) {
+    A[i][n]   = A[n][i]   = 1;
+    A[i][n+1] = A[n+1][i] = gcps[i].px;
+    A[i][n+2] = A[n+2][i] = gcps[i].py;
+  }
+  // 右下 3×3 ブロックはゼロ（スムージング制約）
+
+  const bLon = [...gcps.map(g => g.lon), 0, 0, 0];
+  const bLat = [...gcps.map(g => g.lat), 0, 0, 0];
+  // 同じ A で2回解く（gaussianElimination は非破壊）
+  const wLon = gaussianElimination(A, bLon);
+  const wLat = gaussianElimination(A, bLat);
+
+  // 評価関数: (px, py) → {lon, lat}
+  return (px, py) => {
+    let lon = wLon[n] + wLon[n+1]*px + wLon[n+2]*py;
+    let lat = wLat[n] + wLat[n+1]*px + wLat[n+2]*py;
+    for (let i = 0; i < n; i++) {
+      const dx = px - gcps[i].px, dy = py - gcps[i].py;
+      const u = tpsU(dx*dx + dy*dy);
+      lon += wLon[i] * u;
+      lat += wLat[i] * u;
+    }
+    return { lon, lat };
+  };
+}
+
+// ===== カスタム Leaflet レイヤ: 三角分割ワープ描画 + IIIF 高解像度領域取得 =====
+const WarpedImageLayer = L.Layer.extend({
+  initialize(gcps, svc, fullW, fullH, options) {
+    this._gcps  = gcps;
+    this._svc   = svc;
+    this._fullW = fullW;
+    this._fullH = fullH;
+    this._opacity  = (options && options.opacity != null) ? options.opacity : 0.7;
+    // マスク: SVG polygon 文字列の配列 [{svg, label}]
+    this._maskDefs = (options && options.masks) ? options.masks : [];
+    this._maskGeos = []; // TPS変換後の地理座標列（_buildTriangulation で設定）
+    // 高解像度領域キャッシュ
+    this._regionImg  = null;
+    this._regionRect = null;
+    this._loadedUrl  = null;
+    this._regionTimer = null;
+  },
+
+  onAdd(map) {
+    this._map = map;
+    this._canvas = document.createElement('canvas');
+    Object.assign(this._canvas.style, {
+      position: 'absolute', top: '0', left: '0', pointerEvents: 'none',
+      zIndex: '450'
+    });
+    map.getContainer().appendChild(this._canvas);
+
+    this._buildTriangulation();
+
+    // 初回はフル画像を低解像度で読み込んでおく（即時表示用）
+    this._img = new Image();
+    this._img.crossOrigin = 'anonymous';
+    this._img.onload  = () => {
+      this._imgLoaded = true;
+      this._render();
+      this._scheduleRegionLoad(); // 低解像度表示後にすぐ高解像度取得
+    };
+    this._img.onerror = () => $('status').textContent = '方言地図の読み込み失敗';
+    this._img.src = `${this._svc}/full/1024,/0/default.jpg`;
+
+    map.on('viewreset zoom move resize', this._render, this);
+    map.on('moveend zoomend', this._scheduleRegionLoad, this);
+    const sz = map.getSize();
+    this._canvas.width  = sz.x;
+    this._canvas.height = sz.y;
+    return this;
+  },
+
+  onRemove(map) {
+    this._canvas.remove();
+    map.off('viewreset zoom move resize', this._render, this);
+    map.off('moveend zoomend', this._scheduleRegionLoad, this);
+    clearTimeout(this._regionTimer);
+  },
+
+  setOpacity(v) { this._opacity = v; this._render(); },
+
+  // マスクを再設定（後から呼び出し可能）
+  // masks: [{svg: '<svg…>', label: '本州'}] など
+  setMasks(masks) {
+    this._maskDefs = masks;
+    if (this._tps) {
+      this._maskGeos = this._computeMaskGeos(this._tps);
+      this._render();
+    }
+  },
+
+  _computeMaskGeos(tps) {
+    return this._maskDefs.map(({ svg }) => {
+      const raw    = parseSvgPolygon(svg);
+      const dense  = densifyPolygon(raw, 400); // 400px 間隔で細分化
+      return dense.map(p => tps(p.px, p.py));  // 画像 px → {lon, lat}
+    });
+  },
+
+  _buildTriangulation() {
+    // TPS を解いて評価関数を取得
+    const tps = solveTPS(this._gcps);
+    this._tps = tps; // _geoToImage や setMasks でも使う
+
+    // 均等グリッドを TPS で展開: 各格子点の (px,py) → (lon,lat) を計算
+    // 画像縦横比に近い格子を選択（11000×8000 ≈ 50×37）
+    const COLS = 50, ROWS = 37;
+    const pts = [];
+    for (let row = 0; row <= ROWS; row++) {
+      for (let col = 0; col <= COLS; col++) {
+        const px = this._fullW * col / COLS;
+        const py = this._fullH * row / ROWS;
+        const { lon, lat } = tps(px, py);
+        pts.push({ px, py, lon, lat });
+      }
+    }
+    this._pts = pts;
+
+    // マスクポリゴンを地理座標に変換
+    this._maskGeos = this._computeMaskGeos(tps);
+
+    // 均等グリッドは Delaunay 不要：直接セル→三角形に分割
+    // (col, row) の格子点インデックス = col + row*(COLS+1)
+    const W = COLS + 1;
+    this._tris = [];
+    for (let row = 0; row < ROWS; row++) {
+      for (let col = 0; col < COLS; col++) {
+        const tl = col     + row*W,  tr = (col+1) + row*W;
+        const bl = col     + (row+1)*W, br = (col+1) + (row+1)*W;
+        this._tris.push([tl, tr, bl]);
+        this._tris.push([tr, br, bl]);
+      }
+    }
+  },
+
+  // 地理座標 → 画像ピクセル座標（三角形内の重心座標補間）
+  _geoToImage(lon, lat) {
+    for (const [i0, i1, i2] of this._tris) {
+      const A = this._pts[i0], B = this._pts[i1], C = this._pts[i2];
+      const denom = (B.lat - C.lat)*(A.lon - C.lon) + (C.lon - B.lon)*(A.lat - C.lat);
+      if (Math.abs(denom) < 1e-15) continue;
+      const s = ((B.lat - C.lat)*(lon - C.lon) + (C.lon - B.lon)*(lat - C.lat)) / denom;
+      const t = ((C.lat - A.lat)*(lon - C.lon) + (A.lon - C.lon)*(lat - C.lat)) / denom;
+      const u = 1 - s - t;
+      if (s >= -0.01 && t >= -0.01 && u >= -0.01) {
+        return { px: s*A.px + t*B.px + u*C.px, py: s*A.py + t*B.py + u*C.py };
+      }
+    }
+    return null;
+  },
+
+  // 現在のビューに対応する画像上の矩形領域を計算
+  _viewToImageRect() {
+    const bounds = this._map.getBounds();
+    const N = bounds.getNorth(), S = bounds.getSouth();
+    const W = bounds.getWest(), E = bounds.getEast();
+    const pxs = [], pys = [];
+    for (let i = 0; i <= 5; i++) {
+      for (let j = 0; j <= 5; j++) {
+        const pt = this._geoToImage(
+          W + (E - W) * j / 5,
+          S + (N - S) * i / 5
+        );
+        if (pt) { pxs.push(pt.px); pys.push(pt.py); }
+      }
+    }
+    if (!pxs.length) return null;
+    const pad = 200;
+    const x  = Math.max(0, Math.floor(Math.min(...pxs)) - pad);
+    const y  = Math.max(0, Math.floor(Math.min(...pys)) - pad);
+    const x2 = Math.min(this._fullW, Math.ceil(Math.max(...pxs)) + pad);
+    const y2 = Math.min(this._fullH, Math.ceil(Math.max(...pys)) + pad);
+    if (x2 <= x || y2 <= y) return null;
+    return { x, y, w: x2 - x, h: y2 - y };
+  },
+
+  _scheduleRegionLoad() {
+    clearTimeout(this._regionTimer);
+    this._regionTimer = setTimeout(() => this._loadRegion(), 350);
+  },
+
+  _loadRegion() {
+    const rect = this._viewToImageRect();
+    if (!rect) return;
+
+    // 出力サイズ: 画面サイズ × DPR を上限に、元解像度を超えない
+    const sz  = this._map.getSize();
+    const dpr = window.devicePixelRatio || 1;
+    const outW = Math.max(256, Math.min(Math.ceil(Math.max(sz.x, sz.y) * dpr), rect.w, 4096));
+    const outH = Math.round(outW * rect.h / rect.w);
+
+    const url = `${this._svc}/${rect.x},${rect.y},${rect.w},${rect.h}/${outW},/0/default.jpg`;
+    if (url === this._loadedUrl) return;
+    this._loadedUrl = url;
+
+    $('status').textContent = `高解像度取得中 (${outW}×${outH}px)…`;
+
+    const img = new Image();
+    img.crossOrigin = 'anonymous';
+    img.onload = () => {
+      if (url !== this._loadedUrl) return; // stale
+      this._regionImg  = img;
+      this._regionRect = rect;
+      $('status').textContent = `高解像度表示中 ${outW}×${outH}px (領域: ${rect.w}×${rect.h}px)`;
+      this._render();
+    };
+    img.onerror = () => { $('status').textContent = 'IIIF 高解像度取得失敗'; };
+    img.src = url;
+  },
+
+  _render() {
+    if (!this._imgLoaded) return;
+    const map = this._map;
+    const canvas = this._canvas;
+    const sz = map.getSize();
+    if (canvas.width !== sz.x || canvas.height !== sz.y) {
+      canvas.width = sz.x; canvas.height = sz.y;
+    }
+
+    const ctx = canvas.getContext('2d');
+    ctx.clearRect(0, 0, sz.x, sz.y);
+
+    // マスクポリゴンがあれば clip（複数は union: even-odd rule）
+    if (this._maskGeos.length > 0) {
+      ctx.save();
+      ctx.beginPath();
+      for (const geo of this._maskGeos) {
+        geo.forEach(({ lon, lat }, i) => {
+          const s = map.latLngToContainerPoint([lat, lon]);
+          i === 0 ? ctx.moveTo(s.x, s.y) : ctx.lineTo(s.x, s.y);
+        });
+        ctx.closePath();
+      }
+      ctx.clip('evenodd');
+    }
+
+    // 高解像度領域画像があれば優先使用
+    const useRegion = this._regionImg && this._regionRect;
+    const imgRef = useRegion ? this._regionImg : this._img;
+    const r      = useRegion ? this._regionRect : null;
+    // 画像ピクセル座標 → imgRef 上のピクセル座標への変換係数
+    const scaleX = useRegion ? imgRef.naturalWidth  / r.w : imgRef.naturalWidth  / this._fullW;
+    const scaleY = useRegion ? imgRef.naturalHeight / r.h : imgRef.naturalHeight / this._fullH;
+    const offX   = useRegion ? -r.x * scaleX : 0;
+    const offY   = useRegion ? -r.y * scaleY : 0;
+
+    for (const [i0, i1, i2] of this._tris) {
+      const p0 = this._pts[i0], p1 = this._pts[i1], p2 = this._pts[i2];
+
+      // 地理座標 → スクリーン座標
+      const s0 = map.latLngToContainerPoint([p0.lat, p0.lon]);
+      const s1 = map.latLngToContainerPoint([p1.lat, p1.lon]);
+      const s2 = map.latLngToContainerPoint([p2.lat, p2.lon]);
+
+      // 画像座標 → imgRef 上の座標
+      const i0s = { x: p0.px*scaleX + offX, y: p0.py*scaleY + offY };
+      const i1s = { x: p1.px*scaleX + offX, y: p1.py*scaleY + offY };
+      const i2s = { x: p2.px*scaleX + offX, y: p2.py*scaleY + offY };
+
+      // 高解像度領域を使う場合、領域外の三角形は低解像度フォールバック
+      if (useRegion) {
+        const inRegion = (p) =>
+          p.px >= r.x && p.px <= r.x + r.w && p.py >= r.y && p.py <= r.y + r.h;
+        if (!inRegion(p0) || !inRegion(p1) || !inRegion(p2)) {
+          // 低解像度フォールバック
+          const fbScaleX = this._img.naturalWidth  / this._fullW;
+          const fbScaleY = this._img.naturalHeight / this._fullH;
+          const fb0 = { x: p0.px*fbScaleX, y: p0.py*fbScaleY };
+          const fb1 = { x: p1.px*fbScaleX, y: p1.py*fbScaleY };
+          const fb2 = { x: p2.px*fbScaleX, y: p2.py*fbScaleY };
+          const fbTf = affineFromTriangles([fb0, fb1, fb2], [s0, s1, s2]);
+          if (fbTf) {
+            ctx.save();
+            ctx.globalAlpha = this._opacity;
+            ctx.beginPath(); ctx.moveTo(s0.x, s0.y); ctx.lineTo(s1.x, s1.y); ctx.lineTo(s2.x, s2.y); ctx.closePath(); ctx.clip();
+            ctx.setTransform(...fbTf);
+            ctx.drawImage(this._img, 0, 0);
+            ctx.restore();
+          }
+          continue;
+        }
+      }
+
+      const tf = affineFromTriangles([i0s, i1s, i2s], [s0, s1, s2]);
+      if (!tf) continue;
+
+      ctx.save();
+      ctx.globalAlpha = this._opacity;
+      ctx.beginPath();
+      ctx.moveTo(s0.x, s0.y);
+      ctx.lineTo(s1.x, s1.y);
+      ctx.lineTo(s2.x, s2.y);
+      ctx.closePath();
+      ctx.clip();
+      ctx.setTransform(...tf);
+      ctx.drawImage(imgRef, 0, 0);
+      ctx.restore();
+    }
+
+    if (this._maskGeos.length > 0) ctx.restore(); // マスク clip を解除
+  }
+});
+
+// ===== 地域マスク定義 =====
+// SVG は元画像のピクセル座標系（11764×8386px）で定義
+// 各地図のレイアウト上の「別図枠」の頂点座標
+const REGION_DEFS = {
+  // 本州・四国・九州（ユーザー提供）
+  honshu: '<svg><polygon points="151,3568 138,7752 7554,7661 7341,8308 7940,8304 8229,7070 10120,5559 10866,4697 11563,4851 11559,914 9256,903 8702,2847 6556,3489 4430,3539"/></svg>',
+  // 北海道インセット枠（画像上部 y=0〜3400、x=4300〜8800）
+  // 右端: 根室東沖（px≈8650）のすぐ東 x=8800 で切断（北方領土除外）
+  // 下端: 十勝を含むよう y=3400 まで延長（最南GCP py=3293）
+  hokkaido: '<svg><polygon points="4300,0 8800,0 8800,3400 4300,3400"/></svg>',
+  // 琉球・奄美インセット枠（ユーザー提供頂点座標）
+  ryukyu: '<svg><polygon points="8259,7038 7868,8312 11608,8303 11576,4881 10830,4715 10263,5443"/></svg>',
+  // 先島諸島インセット枠（ユーザー提供頂点座標）
+  sakishima: '<svg><polygon points="5308,7762 5304,8329 7383,8329 7548,7683 5395,7684"/></svg>',
+  // 凡例枠（スペースキー表示用）
+  legend: '<svg><polygon points="123,45 141,3573 4442,3565 4428,39"/></svg>',
+};
+
+// 各レイヤに渡すマスク（1レイヤ = 1地域）
+const MASK_HONSHU    = [{ label: '本州',     svg: REGION_DEFS.honshu    }];
+const MASK_HOKKAIDO  = [{ label: '北海道',   svg: REGION_DEFS.hokkaido  }];
+const MASK_RYUKYU    = [{ label: '琉球・奄美', svg: REGION_DEFS.ryukyu  }];
+const MASK_SAKISHIMA = [{ label: '先島諸島', svg: REGION_DEFS.sakishima }];
+
+// ===== メイン処理 =====
+const map = L.map('map').setView([36, 137], 6);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  maxZoom: 18
+}).addTo(map);
+
+let warpLayer   = null;
+let warpLayerHK = null;
+let warpLayerRK = null;
+let warpLayerSK = null;
+let iiifSvc     = null; // 凡例表示用に保持
+
+// 凡例ポリゴンの bounding box（画像ピクセル座標）
+const LEGEND_BBOX = { x: 123, y: 39, w: 4319, h: 3534 };
+
+(function setupLegendKey() {
+  let loaded = false;
+  function show() {
+    if (!iiifSvc) return;
+    if (!loaded) {
+      const { x, y, w, h } = LEGEND_BBOX;
+      $('legendImg').src = `${iiifSvc}/${x},${y},${w},${h}/1400,/0/default.jpg`;
+      loaded = true;
+    }
+    $('legendPanel').classList.add('visible');
+    $('legendHint').style.display = 'none';
+  }
+  function hide() {
+    $('legendPanel').classList.remove('visible');
+    $('legendHint').style.display = '';
+  }
+  document.addEventListener('keydown', e => { if (e.code === 'Space' && !e.repeat) { e.preventDefault(); show(); } });
+  document.addEventListener('keyup',   e => { if (e.code === 'Space') hide(); });
+})();
+let gcpMarkers  = L.layerGroup().addTo(map);
+let lineMarkers = L.layerGroup().addTo(map);
+
+async function main() {
+  try {
+    // 1. TSV 読み込み（本州・北海道を並行取得）
+    $('status').textContent = 'TSV 読み込み中…';
+    const [tsvText, hkTsvText, rkTsvText, skTsvText] = await Promise.all([
+      fetch(TSV_URL).then(r => r.text()),
+      fetch(HK_TSV_URL).then(r => r.text()),
+      fetch(RK_TSV_URL).then(r => r.text()),
+      fetch(SK_TSV_URL).then(r => r.text()),
+    ]);
+    const gcps   = parseTSV(tsvText);
+    const hkGcps = parseTSV(hkTsvText);
+    const rkGcps = parseTSV(rkTsvText);
+    const skGcps = parseTSV(skTsvText);
+
+    // 2. IIIF マニフェスト → info.json（画像は共通）
+    $('status').textContent = 'IIIF マニフェスト取得中…';
+    const man = await fetch(buildManifestUrl(MAP_ID)).then(r => r.json());
+    const infoUrl = infoFromManifest(man);
+    if (!infoUrl) throw new Error('info.json を抽出できませんでした');
+    const info  = await fetch(infoUrl).then(r => r.json());
+    const fullW = info.width  || info['@width'];
+    const fullH = info.height || info['@height'];
+    const svc   = stripInfo(infoUrl);
+    iiifSvc = svc;
+
+    $('status').textContent = `方言地図を読み込み中 (${fullW}×${fullH}px)…`;
+    const opacity = parseFloat($('opacity').value);
+
+    // 3. 本州レイヤ
+    warpLayer = new WarpedImageLayer(gcps, svc, fullW, fullH, { opacity, masks: MASK_HONSHU });
+    warpLayer.addTo(map);
+
+    // 4. 北海道レイヤ（別 TPS・別マスク）
+    warpLayerHK = new WarpedImageLayer(hkGcps, svc, fullW, fullH, { opacity, masks: MASK_HOKKAIDO });
+    warpLayerHK.addTo(map);
+
+    // 5. 琉球・奄美レイヤ（別 TPS・別マスク）
+    warpLayerRK = new WarpedImageLayer(rkGcps, svc, fullW, fullH, { opacity, masks: MASK_RYUKYU });
+    warpLayerRK.addTo(map);
+
+    // 6. 先島諸島レイヤ（別 TPS・別マスク）
+    warpLayerSK = new WarpedImageLayer(skGcps, svc, fullW, fullH, { opacity, masks: MASK_SAKISHIMA });
+    warpLayerSK.addTo(map);
+
+    // 7. GCP マーカー（本州: 赤、北海道: 青、琉球: 緑、先島: 橙）
+    drawGcpMarkers(gcps,   { dotColor: '#f44', lineColor: '#f80' });
+    drawGcpMarkers(hkGcps, { dotColor: '#48f', lineColor: '#08f', add: true });
+    drawGcpMarkers(rkGcps, { dotColor: '#4c4', lineColor: '#0a0', add: true });
+    drawGcpMarkers(skGcps, { dotColor: '#f90', lineColor: '#c60', add: true });
+
+    // 8. 初期ビューを全 GCP 範囲に合わせる
+    const allLats = [...gcps, ...hkGcps, ...rkGcps, ...skGcps].map(g => g.lat);
+    const allLons = [...gcps, ...hkGcps, ...rkGcps, ...skGcps].map(g => g.lon);
+    map.fitBounds([
+      [Math.min(...allLats), Math.min(...allLons)],
+      [Math.max(...allLats), Math.max(...allLons)]
+    ], { padding: [40, 40] });
+
+    $('status').textContent =
+      `本州 ${gcps.length}点 / 北海道 ${hkGcps.length}点 / 琉球 ${rkGcps.length}点 / 先島 ${skGcps.length}点 のGCPでワープ表示中`;
+    $('mapLabel').textContent = MAP_ID;
+
+  } catch (e) {
+    console.error(e);
+    $('status').textContent = `エラー: ${e.message}`;
+  }
+}
+
+// GCPマーカーと「残差ライン」（アフィン推定との差を可視化）
+// opts: { dotColor, lineColor, add } add=true のとき既存マーカーをクリアしない
+function drawGcpMarkers(gcps, opts = {}) {
+  const dotColor  = opts.dotColor  || '#f44';
+  const lineColor = opts.lineColor || '#f80';
+  if (!opts.add) { gcpMarkers.clearLayers(); lineMarkers.clearLayers(); }
+  const affine = fitAffine(gcps);
+
+  gcps.forEach((g, idx) => {
+    // 実測点
+    const actual = L.circleMarker([g.lat, g.lon], {
+      radius: 6, color: dotColor, weight: 2, fillColor: dotColor, fillOpacity: 0.9
+    });
+    actual.bindTooltip(
+      `GCP ${idx+1}<br>img: (${g.px.toFixed(0)}, ${g.py.toFixed(0)})<br>` +
+      `lon: ${g.lon.toFixed(5)}<br>lat: ${g.lat.toFixed(5)}`,
+      { className: 'gcp-tooltip' }
+    );
+    gcpMarkers.addLayer(actual);
+
+    // アフィン推定点（青丸）＋残差ライン
+    const est = affine(g.px, g.py);
+    const estimated = L.circleMarker([est.lat, est.lon], {
+      radius: 4, color: '#06f', weight: 1.5, fillColor: '#8af', fillOpacity: 0.7
+    });
+    estimated.bindTooltip(
+      `GCP ${idx+1} (アフィン推定)<br>lon: ${est.lon.toFixed(5)}<br>lat: ${est.lat.toFixed(5)}`,
+      { className: 'gcp-tooltip' }
+    );
+    gcpMarkers.addLayer(estimated);
+
+    // 残差ライン (実測 ↔ アフィン推定)
+    const line = L.polyline([[g.lat, g.lon], [est.lat, est.lon]], {
+      color: lineColor, weight: 1.5, dashArray: '4 3', opacity: 0.8
+    });
+    lineMarkers.addLayer(line);
+  });
+}
+
+// ===== コントロール =====
+$('opacity').addEventListener('input', e => {
+  const v = parseFloat(e.target.value);
+  $('opacityVal').textContent = v.toFixed(2);
+  if (warpLayer)   warpLayer.setOpacity(v);
+  if (warpLayerHK) warpLayerHK.setOpacity(v);
+  if (warpLayerRK) warpLayerRK.setOpacity(v);
+  if (warpLayerSK) warpLayerSK.setOpacity(v);
+});
+
+$('showGcps').addEventListener('change', e => {
+  if (e.target.checked) gcpMarkers.addTo(map);
+  else gcpMarkers.remove();
+});
+
+$('showLines').addEventListener('change', e => {
+  if (e.target.checked) lineMarkers.addTo(map);
+  else lineMarkers.remove();
+});
+
+main();
+</script>
+</body>
+</html>
