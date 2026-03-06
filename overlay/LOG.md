@@ -1,6 +1,28 @@
 # 開発ログ
 
-## 2026-03 セッション3（現セッション）
+## 2026-03 セッション4（現セッション）
+
+### リファクタリング: calibration-preview.html のスクリプト分離
+
+**TPS ライブラリ検討**
+ブラウザ向け TPS ライブラリ（thinplate npm、2d-thin-plate-spline、numeric.js 等）を調査したが、
+いずれもメンテナンス停止・CDN 非対応・API 非同期などの問題があり採用見送り。
+自前実装（約60行）は正確・依存なし・最小であり現状維持が最適と判断。
+
+**ファイル分離**（calibration-preview.html: 855行 → 344行）
+
+| ファイル | 内容 | 行数 |
+|---------|------|------|
+| `scripts/iiif-utils.js` | `$`・`buildManifestUrl`・`infoFromManifest`・`stripInfo`（両HTMLで共通） | 27行 |
+| `scripts/tps-warp.js` | `fitAffine`・`affineFromTriangles`・`parseSvgPolygon`・`densifyPolygon`・`gaussianElimination`・`solveTPS` | 142行 |
+| `scripts/warped-image-layer.js` | `WarpedImageLayer`（Leaflet カスタムレイヤ） | 255行 |
+| `scripts/map-configs.js` | `REGION_DEFS`・`MASK_*`・`MAP_CONFIGS`・`defaultMapConfig` | 46行 |
+
+- `overlay.html` も `iiif-utils.js` に切り替え、重複していた IIIF 関数3つを削除（524行）
+
+---
+
+## 2026-03 セッション3
 
 ### scripts/json-to-mapping.py（新規作成）
 - overlay.html のキャリブレーション JSON から各 LAJ 地図用 GCP TSV を生成するスクリプト

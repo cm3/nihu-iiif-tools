@@ -78,9 +78,8 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/leaflet-iiif@3.0.0/leaflet-iiif.min.js"></script>
+  <script src="scripts/iiif-utils.js"></script>
 <script>
-  // ===== ユーティリティ =====
-  const $ = (id) => document.getElementById(id);
 
   // ===== 候補リストの読み込み =====
   let mapCandidates = [];
@@ -122,31 +121,6 @@
 
   // キャリブレーション記録（loadPair より前に定義）
   let calibrationPoints = [];
-
-  // プロキシ無しで直接 NIHU IIIF を叩く
-  function buildManifestUrl(id) {
-    return `https://iiif.nihu.jp/iiif/archives/${encodeURIComponent(id)}/manifest.json`;
-  }
-
-  function infoFromManifest(man) {
-    // IIIF v3
-    try {
-      const body = man?.items?.[0]?.items?.[0]?.items?.[0]?.body;
-      const svc  = Array.isArray(body?.service) ? body.service[0] : body?.service;
-      const id   = svc?.["@id"] || svc?.id;
-      if (id) return (id.endsWith("/info.json") ? id : id.replace(/\/info\.json$/, "") + "/info.json");
-    } catch {}
-    // IIIF v2
-    try {
-      const img = man?.sequences?.[0]?.canvases?.[0]?.images?.[0]?.resource;
-      const svc = img?.service;
-      const id  = svc?.["@id"] || svc?.id;
-      if (id) return (id.endsWith("/info.json") ? id : id.replace(/\/info\.json$/, "") + "/info.json");
-    } catch {}
-    return null;
-  }
-
-  const stripInfo = (infoUrl) => infoUrl.replace(/\/info\.json(\?.*)?$/, "");
 
   // ===== 2つの地図（ベース／オーバーレイ） =====
   const mapBase    = L.map('mapBase',    { crs: L.CRS.Simple, center:[0,0], zoom:0, keyboard:false });
