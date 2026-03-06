@@ -55,7 +55,7 @@
 </header>
 <div id="map"></div>
 <div id="legendPanel"><img id="legendImg" src="" alt="凡例"></div>
-<div id="legendHint">Space キーで凡例表示 &nbsp;／&nbsp; M キーで調査地点表示</div>
+<div id="legendHint">Space キーで凡例表示 &nbsp;／&nbsp; M キーで調査地点ON/OFF</div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
@@ -629,10 +629,7 @@ let legendLoaded     = false;
       loadMap(sel.value);
     }
   });
-  document.addEventListener('keyup', e => {
-    if (e.code === 'Space') hide();
-    if (e.code === 'KeyM')  hideSurvey();
-  });
+  document.addEventListener('keyup', e => { if (e.code === 'Space') hide(); });
 })();
 
 // ===== 調査地点（M キーで表示） =====
@@ -658,11 +655,14 @@ async function ensureSurveyLoaded() {
   }
 }
 
-function showSurvey() { ensureSurveyLoaded().then(() => surveyLayer.addTo(map)); }
-function hideSurvey() { surveyLayer.remove(); }
+let surveyVisible = false;
+function toggleSurvey() {
+  if (surveyVisible) { surveyLayer.remove(); surveyVisible = false; }
+  else { ensureSurveyLoaded().then(() => { surveyLayer.addTo(map); surveyVisible = true; }); }
+}
 
 document.addEventListener('keydown', e => {
-  if (e.code === 'KeyM' && !e.repeat) showSurvey();
+  if (e.code === 'KeyM' && !e.repeat) toggleSurvey();
 });
 
 let gcpMarkers  = L.layerGroup().addTo(map);
