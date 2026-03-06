@@ -31,6 +31,11 @@
 - **Leaflet キーボード操作を無効化**（`keyboard: false`）：地図にフォーカスがある状態で矢印キーが地図ビューを動かしてしまう問題を修正
 - **パン範囲を拡張**：`setMaxBounds` を画像サイズ分の余白付き（`pad(1)`）に変更し、地図の端を画面中央まで持ち込めるように
   - 座標計算（`containerToFullPx`）は画像 `fullW`/`fullH` 基準のまま変更なし。JSON 出力への影響なし
+  - `L.TileLayer.Iiif` は `getBounds()` を持たないため `dimBase` から `L.latLngBounds` を手動構築
+- **点チェック機能追加**
+  - 起動時に `data/LAJ_017_LAJ_027.json` を自動読み込み
+  - `Z` キーで前の点、`X` キーで次の点に最大ズームでジャンプ（base 座標のみ使用、overlay オフセットは維持）
+  - ヘッダーに現在点番号と base 座標を表示
 
 ---
 

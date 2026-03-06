@@ -60,8 +60,14 @@
         <kbd>Enter</kbd> DL &nbsp;
         <kbd>A</kbd>/<kbd>S</kbd> 前/次 &nbsp;
         <kbd>←→↑↓</kbd> 移動 &nbsp;
-        <kbd>Shift</kbd> ブレンド切替
+        <kbd>Shift</kbd> ブレンド切替 &nbsp;
+        <kbd>Z</kbd>/<kbd>X</kbd> 点チェック前/次
       </span>
+    </div>
+    <div class="row">
+      <label>点チェック</label>
+      <span id="checkStatus" style="color:#666; min-width:6em"></span>
+      <small id="checkCoords" style="color:#888"></small>
     </div>
   </header>
 
@@ -81,6 +87,7 @@
 
   const defaultBase = 'LAJ_017';
   const defaultOverlay = 'LAJ_018';
+  const defaultCheckJson = 'data/LAJ_017_LAJ_027.json';
 
   async function loadCandidates() {
     try {
@@ -110,6 +117,8 @@
 
   // 初回読み込み
   loadCandidates();
+  // 点チェック JSON を規定パスから自動読み込み（失敗は無視）
+  fetchCheckPoints(defaultCheckJson, /*silent=*/true);
 
   // キャリブレーション記録（loadPair より前に定義）
   let calibrationPoints = [];
@@ -240,6 +249,52 @@
     onSelectChange();
   }
 
+  // ===== 点チェック =====
+  let checkPoints = [];
+  let checkIndex  = -1;
+
+  function updateCheckStatus() {
+    if (!checkPoints.length) {
+      $('checkStatus').textContent = '';
+      $('checkCoords').textContent = '';
+      return;
+    }
+    const pt = checkPoints[checkIndex];
+    $('checkStatus').textContent = `${checkIndex + 1} / ${checkPoints.length}点`;
+    $('checkCoords').textContent = `base(${pt.base.x}, ${pt.base.y})`;
+  }
+
+  function goToCheckPoint(i) {
+    if (!checkPoints.length || !dimBase) return;
+    const pt = checkPoints[i];
+    const maxZoom = mapBase.getMaxZoom();
+    const ll = mapBase.unproject(L.point(pt.base.x, pt.base.y), maxZoom);
+    mapBase.setView(ll, maxZoom, { animate: true });
+    updateCheckStatus();
+  }
+
+  function navigateCheckPoint(delta) {
+    if (!checkPoints.length) return;
+    checkIndex = (checkIndex + delta + checkPoints.length) % checkPoints.length;
+    goToCheckPoint(checkIndex);
+  }
+
+  async function fetchCheckPoints(url, silent = false) {
+    try {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`${url} が見つかりません (${res.status})`);
+      const data = await res.json();
+      checkPoints = data.points || [];
+      checkIndex  = checkPoints.length > 0 ? 0 : -1;
+      updateCheckStatus();
+      // 自動ジャンプは地図ロード後に行うため dimBase が揃っていれば実行
+      if (checkIndex >= 0 && dimBase) goToCheckPoint(checkIndex);
+    } catch (e) {
+      if (!silent) alert(e.message);
+    }
+  }
+
+
   document.addEventListener('keydown', (e) => {
     if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
     const s = step();
@@ -253,6 +308,8 @@
       const cur = parseFloat($('blend').value);
       animateBlend(Math.abs(cur - BLEND_A) >= Math.abs(cur - BLEND_B) ? BLEND_A : BLEND_B);
     }
+    else if (e.key === 'z' || e.key === 'Z') { e.preventDefault(); navigateCheckPoint(-1); }
+    else if (e.key === 'x' || e.key === 'X') { e.preventDefault(); navigateCheckPoint(+1); }
     else if (e.key === ' ')     { e.preventDefault(); $('recordPoint').click(); }
     else if (e.key === 'Escape'){ e.preventDefault(); $('clearPoints').click(); }
     else if (e.key === 'Enter') { e.preventDefault(); $('downloadJson').click(); }
@@ -382,8 +439,12 @@
     });
 
     // 地図の端が画面中央まで来られるよう、bounds を画像サイズ分だけ拡張する
+    // L.TileLayer.Iiif は getBounds() を持たないので dimBase から手動構築
     // pad(1) = 各辺に画像縦横幅と同じ余白を追加
-    mapBase.setMaxBounds(layerBase.getBounds().pad(1));
+    const maxZoom = mapBase.getMaxZoom();
+    const imgSW = mapBase.unproject(L.point(0,             dimBase.height), maxZoom);
+    const imgNE = mapBase.unproject(L.point(dimBase.width, 0),              maxZoom);
+    mapBase.setMaxBounds(L.latLngBounds(imgSW, imgNE).pad(1));
 
     // 上：一旦 fitBounds（重要）/ noWrap
     layerOverlay = await addIiifLayer(mapOverlay, infoO, {
@@ -392,6 +453,9 @@
 
     // 直後にビューを完全同期
     syncOverlayView();
+
+    // 地図ロード完了後、点チェックが読み込み済みなら先頭点にジャンプ
+    if (checkIndex >= 0) goToCheckPoint(checkIndex);
   }
 
   // プルダウン変更で自動読み込み
