@@ -140,7 +140,7 @@
   const stripInfo = (infoUrl) => infoUrl.replace(/\/info\.json(\?.*)?$/, "");
 
   // ===== 2つの地図（ベース／オーバーレイ） =====
-  const mapBase    = L.map('mapBase',    { crs: L.CRS.Simple, center:[0,0], zoom:0 });
+  const mapBase    = L.map('mapBase',    { crs: L.CRS.Simple, center:[0,0], zoom:0, keyboard:false });
   const mapOverlay = L.map('mapOverlay', { crs: L.CRS.Simple, center:[0,0], zoom:0,
     zoomControl:false, attributionControl:false
   });
@@ -205,10 +205,26 @@
     overlayOffset.y += dy / scale;
     applyOverlayOffset();
   }
-  $('nUp').addEventListener('click',   () => adjustOffset(0, -step()));
-  $('nDown').addEventListener('click', () => adjustOffset(0, step()));
-  $('nLeft').addEventListener('click', () => adjustOffset(-step(), 0));
-  $('nRight').addEventListener('click',() => adjustOffset(step(), 0));
+  // 押しっぱなしで連続移動（初回 300ms 後、以降 50ms 間隔）
+  function holdButton(el, dx, dy) {
+    let timer;
+    function fire() { adjustOffset(dx(), dy()); }
+    function start() {
+      fire();
+      timer = setTimeout(() => { fire(); timer = setInterval(fire, 50); }, 300);
+    }
+    function stop() { clearTimeout(timer); clearInterval(timer); }
+    el.addEventListener('mousedown',   start);
+    el.addEventListener('mouseup',     stop);
+    el.addEventListener('mouseleave',  stop);
+    el.addEventListener('touchstart',  e => { e.preventDefault(); start(); }, { passive: false });
+    el.addEventListener('touchend',    stop);
+    el.addEventListener('touchcancel', stop);
+  }
+  holdButton($('nUp'),    () => 0,       () => -step());
+  holdButton($('nDown'),  () => 0,       () =>  step());
+  holdButton($('nLeft'),  () => -step(), () => 0);
+  holdButton($('nRight'), () =>  step(), () => 0);
   $('resetOffset').addEventListener('click', () => { overlayOffset = {x:0,y:0}; applyOverlayOffset(); });
 
   function navigateOverlay(delta) {
@@ -360,10 +376,14 @@
 
     const v = parseFloat($('blend').value);
 
-    // 下：fitBounds / setMaxBounds / noWrap
+    // 下：fitBounds / noWrap（setMaxBounds は後で余白付きで上書き）
     layerBase = await addIiifLayer(mapBase, infoB, {
-      fitBounds:true, setMaxBounds:true, noWrap:true, opacity:v
+      fitBounds:true, setMaxBounds:false, noWrap:true, opacity:v
     });
+
+    // 地図の端が画面中央まで来られるよう、bounds を画像サイズ分だけ拡張する
+    // pad(1) = 各辺に画像縦横幅と同じ余白を追加
+    mapBase.setMaxBounds(layerBase.getBounds().pad(1));
 
     // 上：一旦 fitBounds（重要）/ noWrap
     layerOverlay = await addIiifLayer(mapOverlay, infoO, {
