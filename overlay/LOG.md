@@ -1,6 +1,30 @@
 # 開発ログ
 
-## 2026-03 セッション2（現セッション）
+## 2026-03 セッション3（現セッション）
+
+### scripts/json-to-mapping.py（新規作成）
+- overlay.html のキャリブレーション JSON から各 LAJ 地図用 GCP TSV を生成するスクリプト
+- **手法**: JSON の対応点から「基準地図px → 対象地図px」のクロスマップ変換を推定し、
+  基準地図（LAJ_017）の GCP TSV のピクセル座標を変換。地理座標は LAJ_017 から継承。
+- 点数 ≥ 8 なら TPS（scipy `RBFInterpolator`）、< 8 ならアフィン最小二乗にフォールバック
+- 本州・北海道・琉球・先島の 4 種 TSV を一括生成
+  - `data/{NNN}-mapping.tsv`（22点）
+  - `data/{NNN}-mapping-hk.tsv`（15点）
+  - `data/{NNN}-mapping-rk.tsv`（30点）
+  - `data/{NNN}-mapping-sk.tsv`（20点）
+- `--base-id`・`--ref-dir` オプションで LAJ_018 基準など他の基準地図にも対応
+- `data/LAJ_017_LAJ_001〜004.json` を処理済み（001〜003 はアフィン、004 は TPS）
+
+### calibration-preview.html
+- `<select id="selectMap">` を追加し `data/laj_maps.json` から候補を読み込む
+- `MAP_CONFIGS`（例外設定）＋ `defaultMapConfig(id)`（命名規約ベース）に分離
+  - LAJ_017：従来どおり 4 地域＋マスク＋凡例 bbox を明示
+  - その他：`NNN-mapping*.tsv` が存在すれば 4 地域で自動表示
+- `loadMap(id)` で地図切り替え時に既存レイヤ・マーカー・凡例をすべてリセット
+
+---
+
+## 2026-03 セッション2
 
 ### overlay.html
 - デフォルト表示を LAJ_018/LAJ_019 → **LAJ_017（左）/ LAJ_018（右）** に変更

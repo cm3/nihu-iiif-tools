@@ -42,7 +42,7 @@
 <header>
   <div class="row">
     <strong>キャリブレーションプレビュー</strong>
-    <code id="mapLabel">LAJ_017</code>
+    <select id="selectMap"><option value="">読み込み中…</option></select>
     <span id="status">読み込み中…</span>
   </div>
   <div class="row">
@@ -60,11 +60,7 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 // ===== 設定 =====
-const TSV_URL    = 'data/017-mapping.tsv';
-const HK_TSV_URL = 'data/017-mapping-hk.tsv';
-const RK_TSV_URL = 'data/017-mapping-rk.tsv';
-const SK_TSV_URL = 'data/017-mapping-sk.tsv';
-const MAP_ID     = 'LAJ_017';
+const DEFAULT_MAP_ID = 'LAJ_017';
 
 // ===== ユーティリティ =====
 const $ = id => document.getElementById(id);
@@ -555,6 +551,41 @@ const MASK_HOKKAIDO  = [{ label: '北海道',   svg: REGION_DEFS.hokkaido  }];
 const MASK_RYUKYU    = [{ label: '琉球・奄美', svg: REGION_DEFS.ryukyu  }];
 const MASK_SAKISHIMA = [{ label: '先島諸島', svg: REGION_DEFS.sakishima }];
 
+// ===== 地図別設定 =====
+// 命名規約: data/{NNN}-mapping.tsv, data/{NNN}-mapping-hk.tsv, ...
+// NNN = LAJ_NNN の3桁数字部分（例: LAJ_001 → 001）
+
+// 規約に従ったデフォルト設定（4地域）
+// json-to-mapping.py が 017 の GCP をクロスマップ変換して
+// NNN-mapping*.tsv を生成済みであることを前提とする
+function defaultMapConfig(id) {
+  const m = id.match(/(\d+)$/);
+  if (!m) return null;
+  const nnn = m[1].padStart(3, '0');
+  return {
+    regions: [
+      { label: '本州・四国・九州', tsv: `data/${nnn}-mapping.tsv`,    masks: MASK_HONSHU,    dotColor: '#f44', lineColor: '#f80' },
+      { label: '北海道',           tsv: `data/${nnn}-mapping-hk.tsv`, masks: MASK_HOKKAIDO,  dotColor: '#48f', lineColor: '#08f' },
+      { label: '琉球・奄美',       tsv: `data/${nnn}-mapping-rk.tsv`, masks: MASK_RYUKYU,    dotColor: '#4c4', lineColor: '#0a0' },
+      { label: '先島諸島',         tsv: `data/${nnn}-mapping-sk.tsv`, masks: MASK_SAKISHIMA, dotColor: '#f90', lineColor: '#c60' },
+    ]
+  };
+}
+
+// 例外設定のみ記載（複数地域・マスク・凡例bbox）
+const MAP_CONFIGS = {
+  'LAJ_017': {
+    regions: [
+      { label: '本州・四国・九州', tsv: 'data/017-mapping.tsv',    masks: MASK_HONSHU,    dotColor: '#f44', lineColor: '#f80' },
+      { label: '北海道',           tsv: 'data/017-mapping-hk.tsv', masks: MASK_HOKKAIDO,  dotColor: '#48f', lineColor: '#08f' },
+      { label: '琉球・奄美',       tsv: 'data/017-mapping-rk.tsv', masks: MASK_RYUKYU,    dotColor: '#4c4', lineColor: '#0a0' },
+      { label: '先島諸島',         tsv: 'data/017-mapping-sk.tsv', masks: MASK_SAKISHIMA, dotColor: '#f90', lineColor: '#c60' },
+    ],
+    legendBbox: { x: 123, y: 39, w: 4319, h: 3534 },
+  },
+  // 将来: 'LAJ_NNN': { regions: [...], legendBbox: {...} }
+};
+
 // ===== メイン処理 =====
 const map = L.map('map').setView([36, 137], 6);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -562,23 +593,18 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 18
 }).addTo(map);
 
-let warpLayer   = null;
-let warpLayerHK = null;
-let warpLayerRK = null;
-let warpLayerSK = null;
-let iiifSvc     = null; // 凡例表示用に保持
-
-// 凡例ポリゴンの bounding box（画像ピクセル座標）
-const LEGEND_BBOX = { x: 123, y: 39, w: 4319, h: 3534 };
+let warpLayers       = [];
+let iiifSvc          = null; // 凡例表示用に保持
+let currentLegendBbox = null;
+let legendLoaded     = false;
 
 (function setupLegendKey() {
-  let loaded = false;
   function show() {
-    if (!iiifSvc) return;
-    if (!loaded) {
-      const { x, y, w, h } = LEGEND_BBOX;
+    if (!iiifSvc || !currentLegendBbox) return;
+    if (!legendLoaded) {
+      const { x, y, w, h } = currentLegendBbox;
       $('legendImg').src = `${iiifSvc}/${x},${y},${w},${h}/1400,/0/default.jpg`;
-      loaded = true;
+      legendLoaded = true;
     }
     $('legendPanel').classList.add('visible');
     $('legendHint').style.display = 'none';
@@ -593,24 +619,53 @@ const LEGEND_BBOX = { x: 123, y: 39, w: 4319, h: 3534 };
 let gcpMarkers  = L.layerGroup().addTo(map);
 let lineMarkers = L.layerGroup().addTo(map);
 
-async function main() {
+// ===== 候補リスト読み込み =====
+async function loadCandidates() {
   try {
-    // 1. TSV 読み込み（本州・北海道を並行取得）
-    $('status').textContent = 'TSV 読み込み中…';
-    const [tsvText, hkTsvText, rkTsvText, skTsvText] = await Promise.all([
-      fetch(TSV_URL).then(r => r.text()),
-      fetch(HK_TSV_URL).then(r => r.text()),
-      fetch(RK_TSV_URL).then(r => r.text()),
-      fetch(SK_TSV_URL).then(r => r.text()),
-    ]);
-    const gcps   = parseTSV(tsvText);
-    const hkGcps = parseTSV(hkTsvText);
-    const rkGcps = parseTSV(rkTsvText);
-    const skGcps = parseTSV(skTsvText);
+    const res = await fetch('data/laj_maps.json');
+    const candidates = await res.json();
+    const sel = $('selectMap');
+    sel.innerHTML = '';
+    candidates.forEach(item => {
+      const opt = document.createElement('option');
+      opt.value = item.id;
+      opt.textContent = `${item.id}: ${item.title}`;
+      if (item.id === DEFAULT_MAP_ID) opt.selected = true;
+      sel.appendChild(opt);
+    });
+  } catch (e) {
+    $('selectMap').innerHTML = '<option value="">読み込み失敗</option>';
+  }
+}
 
-    // 2. IIIF マニフェスト → info.json（画像は共通）
+// ===== 地図読み込み =====
+async function loadMap(id) {
+  // 既存レイヤを除去
+  warpLayers.forEach(l => l.remove());
+  warpLayers = [];
+  gcpMarkers.clearLayers();
+  lineMarkers.clearLayers();
+  iiifSvc = null;
+  currentLegendBbox = null;
+  legendLoaded = false;
+  $('legendImg').src = '';
+  $('legendPanel').classList.remove('visible');
+
+  const config = MAP_CONFIGS[id] ?? defaultMapConfig(id);
+  if (!config) {
+    $('status').textContent = `${id}: 地図IDを解析できません`;
+    return;
+  }
+
+  try {
+    // 1. TSV 読み込み（全地域並行）
+    $('status').textContent = 'TSV 読み込み中…';
+    const tsvTexts = await Promise.all(config.regions.map(r => fetch(r.tsv).then(t => t.text())));
+    const gcpSets  = tsvTexts.map(t => parseTSV(t));
+
+    // 2. IIIF マニフェスト → info.json
     $('status').textContent = 'IIIF マニフェスト取得中…';
-    const man = await fetch(buildManifestUrl(MAP_ID)).then(r => r.json());
+    const man = await fetch(buildManifestUrl(id)).then(r => r.json());
     const infoUrl = infoFromManifest(man);
     if (!infoUrl) throw new Error('info.json を抽出できませんでした');
     const info  = await fetch(infoUrl).then(r => r.json());
@@ -618,43 +673,36 @@ async function main() {
     const fullH = info.height || info['@height'];
     const svc   = stripInfo(infoUrl);
     iiifSvc = svc;
+    currentLegendBbox = config.legendBbox || null;
 
     $('status').textContent = `方言地図を読み込み中 (${fullW}×${fullH}px)…`;
     const opacity = parseFloat($('opacity').value);
 
-    // 3. 本州レイヤ
-    warpLayer = new WarpedImageLayer(gcps, svc, fullW, fullH, { opacity, masks: MASK_HONSHU });
-    warpLayer.addTo(map);
+    // 3. 地域レイヤを順次追加
+    gcpSets.forEach((gcps, i) => {
+      const r = config.regions[i];
+      const layer = new WarpedImageLayer(gcps, svc, fullW, fullH, { opacity, masks: r.masks });
+      layer.addTo(map);
+      warpLayers.push(layer);
+    });
 
-    // 4. 北海道レイヤ（別 TPS・別マスク）
-    warpLayerHK = new WarpedImageLayer(hkGcps, svc, fullW, fullH, { opacity, masks: MASK_HOKKAIDO });
-    warpLayerHK.addTo(map);
+    // 4. GCP マーカー
+    gcpSets.forEach((gcps, i) => {
+      const r = config.regions[i];
+      drawGcpMarkers(gcps, { dotColor: r.dotColor, lineColor: r.lineColor, add: i > 0 });
+    });
 
-    // 5. 琉球・奄美レイヤ（別 TPS・別マスク）
-    warpLayerRK = new WarpedImageLayer(rkGcps, svc, fullW, fullH, { opacity, masks: MASK_RYUKYU });
-    warpLayerRK.addTo(map);
-
-    // 6. 先島諸島レイヤ（別 TPS・別マスク）
-    warpLayerSK = new WarpedImageLayer(skGcps, svc, fullW, fullH, { opacity, masks: MASK_SAKISHIMA });
-    warpLayerSK.addTo(map);
-
-    // 7. GCP マーカー（本州: 赤、北海道: 青、琉球: 緑、先島: 橙）
-    drawGcpMarkers(gcps,   { dotColor: '#f44', lineColor: '#f80' });
-    drawGcpMarkers(hkGcps, { dotColor: '#48f', lineColor: '#08f', add: true });
-    drawGcpMarkers(rkGcps, { dotColor: '#4c4', lineColor: '#0a0', add: true });
-    drawGcpMarkers(skGcps, { dotColor: '#f90', lineColor: '#c60', add: true });
-
-    // 8. 初期ビューを全 GCP 範囲に合わせる
-    const allLats = [...gcps, ...hkGcps, ...rkGcps, ...skGcps].map(g => g.lat);
-    const allLons = [...gcps, ...hkGcps, ...rkGcps, ...skGcps].map(g => g.lon);
+    // 5. 初期ビューを全 GCP 範囲に合わせる
+    const allGcps = gcpSets.flat();
+    const allLats = allGcps.map(g => g.lat);
+    const allLons = allGcps.map(g => g.lon);
     map.fitBounds([
       [Math.min(...allLats), Math.min(...allLons)],
       [Math.max(...allLats), Math.max(...allLons)]
     ], { padding: [40, 40] });
 
-    $('status').textContent =
-      `本州 ${gcps.length}点 / 北海道 ${hkGcps.length}点 / 琉球 ${rkGcps.length}点 / 先島 ${skGcps.length}点 のGCPでワープ表示中`;
-    $('mapLabel').textContent = MAP_ID;
+    const summary = config.regions.map((r, i) => `${r.label} ${gcpSets[i].length}点`).join(' / ');
+    $('status').textContent = `${summary} のGCPでワープ表示中`;
 
   } catch (e) {
     console.error(e);
@@ -705,10 +753,11 @@ function drawGcpMarkers(gcps, opts = {}) {
 $('opacity').addEventListener('input', e => {
   const v = parseFloat(e.target.value);
   $('opacityVal').textContent = v.toFixed(2);
-  if (warpLayer)   warpLayer.setOpacity(v);
-  if (warpLayerHK) warpLayerHK.setOpacity(v);
-  if (warpLayerRK) warpLayerRK.setOpacity(v);
-  if (warpLayerSK) warpLayerSK.setOpacity(v);
+  warpLayers.forEach(l => l.setOpacity(v));
+});
+
+$('selectMap').addEventListener('change', e => {
+  if (e.target.value) loadMap(e.target.value);
 });
 
 $('showGcps').addEventListener('change', e => {
@@ -721,7 +770,7 @@ $('showLines').addEventListener('change', e => {
   else lineMarkers.remove();
 });
 
-main();
+loadCandidates().then(() => loadMap(DEFAULT_MAP_ID));
 </script>
 </body>
 </html>

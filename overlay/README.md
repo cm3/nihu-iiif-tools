@@ -12,14 +12,16 @@ overlay/
 ├── overlay.html              # 2枚の地図を重ねて比較するツール
 ├── calibration-preview.html  # GCP ベースのワープ＋OSM オーバーレイ
 ├── data/
-│   ├── laj_maps.json         # 地図候補リスト（LAJ_001〜LAJ_300, S01〜S06）
-│   ├── 017-mapping.tsv       # LAJ_017 本州用 GCP（23点）
-│   ├── 017-mapping-hk.tsv    # LAJ_017 北海道インセット用 GCP（15点）
-│   ├── 017-mapping-rk.tsv    # LAJ_017 琉球・奄美インセット用 GCP（30点）
-│   ├── 017-mapping-sk.tsv    # LAJ_017 先島諸島インセット用 GCP（20点）
-│   └── *.json                # キャリブレーション記録（overlay.html で出力）
+│   ├── laj_maps.json              # 地図候補リスト（LAJ_001〜LAJ_300, S01〜S06）
+│   ├── 017-mapping.tsv            # LAJ_017 本州用 GCP（22点）    ┐ 手動作成
+│   ├── 017-mapping-hk.tsv         # LAJ_017 北海道インセット用 GCP（15点）│ 基準データ
+│   ├── 017-mapping-rk.tsv         # LAJ_017 琉球・奄美インセット用 GCP（30点）│
+│   ├── 017-mapping-sk.tsv         # LAJ_017 先島諸島インセット用 GCP（20点）┘
+│   ├── LAJ_017_LAJ_NNN.json       # overlay.html で記録したキャリブレーション対応点
+│   └── NNN-mapping*.tsv           # json-to-mapping.py で自動生成した GCP TSV
 └── scripts/
-    └── csv-to-json.js        # laj_maps.json 生成スクリプト
+    ├── csv-to-json.js             # laj_maps.json 生成スクリプト
+    └── json-to-mapping.py         # キャリブレーション JSON → GCP TSV 生成
 ```
 
 ---
@@ -74,19 +76,24 @@ GCP（地上基準点）TSV を元に LAJ 地図を **Thin Plate Spline でワ�
 ### 使い方
 
 1. ブラウザで `calibration-preview.html` を開く（ローカルサーバー必須）
-2. 地図が自動読み込みされ、OSM 上に方言地図がオーバーレイ表示される
-3. スライダーで不透明度を調整
-4. GCP・残差ラインの表示切替が可能
-5. **スペースキー**押下中：右下に凡例を拡大表示
+2. プルダウンで表示する地図を選択（デフォルト：LAJ_017）
+3. OSM 上に方言地図がオーバーレイ表示される
+4. スライダーで不透明度を調整
+5. GCP・残差ラインの表示切替が可能
+6. **スペースキー**押下中：右下に凡例を拡大表示（LAJ_017 のみ）
 
-### 対応地域（LAJ_017）
+### 対応地域
 
-| 地域 | TSV | GCP数 | マーカー色 |
-|------|-----|-------|----------|
-| 本州・四国・九州 | `017-mapping.tsv` | 23点 | 赤 |
+各地図は本州・北海道・琉球・先島の 4 地域マスクで表示される。
+
+| 地域 | TSV（LAJ_017） | GCP数 | マーカー色 |
+|------|---------------|-------|----------|
+| 本州・四国・九州 | `017-mapping.tsv` | 22点 | 赤 |
 | 北海道 | `017-mapping-hk.tsv` | 15点 | 青 |
 | 琉球・奄美 | `017-mapping-rk.tsv` | 30点 | 緑 |
 | 先島諸島 | `017-mapping-sk.tsv` | 20点 | 橙 |
+
+LAJ_017 以外は `json-to-mapping.py` で生成した `NNN-mapping*.tsv` を使用。
 
 ### 技術
 
@@ -107,6 +114,38 @@ GCP（地上基準点）TSV を元に LAJ 地図を **Thin Plate Spline でワ�
 ```
 
 `px`/`py` は IIIF 画像のピクセル座標（LAJ_017 は 11764×8386px）。
+
+---
+
+## scripts/json-to-mapping.py
+
+overlay.html のキャリブレーション JSON から calibration-preview.html 用 GCP TSV を生成するスクリプト。
+
+### 手法
+
+1. JSON の対応点から「基準地図px → 対象地図px」のクロスマップ変換を推定
+   - 対応点 ≥ 8：Thin Plate Spline（scipy `RBFInterpolator`）
+   - 対応点 < 8：アフィン最小二乗（numpy）
+2. 基準地図（LAJ_017）の `*-mapping*.tsv` のピクセル座標を変換
+3. 地理座標は LAJ_017 のものをそのまま継承
+
+### 使い方
+
+```bash
+# data/ 内の LAJ_017_LAJ_*.json を一括処理
+python scripts/json-to-mapping.py
+
+# 個別指定
+python scripts/json-to-mapping.py data/LAJ_017_LAJ_001.json
+
+# LAJ_018 基準で処理する場合
+python scripts/json-to-mapping.py --base-id LAJ_018 data/LAJ_018_LAJ_*.json
+```
+
+### 出力
+
+`data/{NNN}-mapping.tsv`、`data/{NNN}-mapping-hk.tsv`、`-rk.tsv`、`-sk.tsv` の 4 ファイル。
+フォーマットは `017-mapping*.tsv` と同一（`px py lon lat`）。
 
 ---
 
