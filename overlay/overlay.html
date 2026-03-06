@@ -20,6 +20,7 @@
     /* 上の地図は操作させず、クリックは下へ透過 */
     #mapOverlay { pointer-events: none; }
     code { background:#eee; padding:2px 4px; border-radius:4px; }
+    kbd  { background:#eee; border:1px solid #bbb; border-radius:3px; padding:1px 4px; font-size:0.9em; }
   </style>
 </head>
 <body>
@@ -53,6 +54,14 @@
       <button id="clearPoints">クリア</button>
       <button id="downloadJson">ダウンロード</button>
       <small id="lastRecorded" style="color:#666"></small>
+      <span style="margin-left:auto; color:#888; font-size:0.82em; white-space:nowrap">
+        <kbd>Space</kbd> 記録 &nbsp;
+        <kbd>Esc</kbd> クリア &nbsp;
+        <kbd>Enter</kbd> DL &nbsp;
+        <kbd>A</kbd>/<kbd>S</kbd> 前/次 &nbsp;
+        <kbd>←→↑↓</kbd> 移動 &nbsp;
+        <kbd>Shift</kbd> ブレンド切替
+      </span>
     </div>
   </header>
 
@@ -148,10 +157,28 @@
   function applyBlend(v) {
     if (layerBase)    layerBase.setOpacity(v);
     if (layerOverlay) layerOverlay.setOpacity(1 - v);
+    $('blend').value = v;
     $('valBase').textContent = v.toFixed(2);
     $('valOverlay').textContent = (1 - v).toFixed(2);
   }
   $('blend').addEventListener('input', (e) => applyBlend(parseFloat(e.target.value)));
+
+  // Shift でブレンドを A(0.7) / B(0.3) にアニメーション移動
+  const BLEND_A = 0.7, BLEND_B = 0.3, BLEND_DURATION = 300;
+  let blendAnim = null;
+  function animateBlend(target) {
+    if (blendAnim) cancelAnimationFrame(blendAnim);
+    const start = parseFloat($('blend').value);
+    if (Math.abs(target - start) < 0.001) return;
+    const t0 = performance.now();
+    function step(now) {
+      const t = Math.min((now - t0) / BLEND_DURATION, 1);
+      const ease = t < 0.5 ? 2*t*t : -1+(4-2*t)*t; // ease-in-out
+      applyBlend(start + (target - start) * ease);
+      if (t < 1) blendAnim = requestAnimationFrame(step);
+    }
+    blendAnim = requestAnimationFrame(step);
+  }
 
   // ===== オーバーレイの平行移動（mapOverlay コンテナに transform を当てる） =====
   // offset は「最大ズーム時のピクセル数」として保存し、現在のズームに応じてスケーリング
@@ -183,6 +210,37 @@
   $('nLeft').addEventListener('click', () => adjustOffset(-step(), 0));
   $('nRight').addEventListener('click',() => adjustOffset(step(), 0));
   $('resetOffset').addEventListener('click', () => { overlayOffset = {x:0,y:0}; applyOverlayOffset(); });
+
+  function navigateOverlay(delta) {
+    const sel = $('selectOverlay');
+    const idx = mapCandidates.findIndex(c => c.id === sel.value);
+    if (idx < 0) return;
+    const next = idx + delta;
+    if (next < 0 || next >= mapCandidates.length) return;
+    if (calibrationPoints.length > 0) {
+      if (!confirm(`${calibrationPoints.length}点の記録が失われます。続けますか？`)) return;
+    }
+    sel.value = mapCandidates[next].id;
+    onSelectChange();
+  }
+
+  document.addEventListener('keydown', (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+    const s = step();
+    if      (e.key === 'ArrowUp')    { e.preventDefault(); adjustOffset(0, -s); }
+    else if (e.key === 'ArrowDown')  { e.preventDefault(); adjustOffset(0,  s); }
+    else if (e.key === 'ArrowLeft')  { e.preventDefault(); adjustOffset(-s, 0); }
+    else if (e.key === 'ArrowRight') { e.preventDefault(); adjustOffset( s, 0); }
+    else if (e.key === 'a' || e.key === 'A') { e.preventDefault(); navigateOverlay(-1); }
+    else if (e.key === 's' || e.key === 'S') { e.preventDefault(); navigateOverlay(+1); }
+    else if (e.key === 'Shift') { e.preventDefault();
+      const cur = parseFloat($('blend').value);
+      animateBlend(Math.abs(cur - BLEND_A) >= Math.abs(cur - BLEND_B) ? BLEND_A : BLEND_B);
+    }
+    else if (e.key === ' ')     { e.preventDefault(); $('recordPoint').click(); }
+    else if (e.key === 'Escape'){ e.preventDefault(); $('clearPoints').click(); }
+    else if (e.key === 'Enter') { e.preventDefault(); $('downloadJson').click(); }
+  });
   $('tintBase').addEventListener('change', (e) => {
     const f = e.target.checked ? 'hue-rotate(240deg)' : '';
     mapBase.getContainer().querySelectorAll('.leaflet-tile-pane').forEach(el => el.style.filter = f);
