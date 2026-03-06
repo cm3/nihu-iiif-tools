@@ -55,7 +55,7 @@
 </header>
 <div id="map"></div>
 <div id="legendPanel"><img id="legendImg" src="" alt="凡例"></div>
-<div id="legendHint">Space キーで凡例表示</div>
+<div id="legendHint">Space キーで凡例表示 &nbsp;／&nbsp; M キーで調査地点表示</div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
@@ -568,7 +568,8 @@ function defaultMapConfig(id) {
       { label: '北海道',           tsv: `data/${nnn}-mapping-hk.tsv`, masks: MASK_HOKKAIDO,  dotColor: '#48f', lineColor: '#08f' },
       { label: '琉球・奄美',       tsv: `data/${nnn}-mapping-rk.tsv`, masks: MASK_RYUKYU,    dotColor: '#4c4', lineColor: '#0a0' },
       { label: '先島諸島',         tsv: `data/${nnn}-mapping-sk.tsv`, masks: MASK_SAKISHIMA, dotColor: '#f90', lineColor: '#c60' },
-    ]
+    ],
+    legendBbox: { x: 123, y: 39, w: 4319, h: 3534 },
   };
 }
 
@@ -613,9 +614,57 @@ let legendLoaded     = false;
     $('legendPanel').classList.remove('visible');
     $('legendHint').style.display = '';
   }
-  document.addEventListener('keydown', e => { if (e.code === 'Space' && !e.repeat) { e.preventDefault(); show(); } });
-  document.addEventListener('keyup',   e => { if (e.code === 'Space') hide(); });
+  document.addEventListener('keydown', e => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+    if (e.code === 'Space' && !e.repeat) { e.preventDefault(); show(); return; }
+    if (e.key === 'a' || e.key === 'A' || e.key === 's' || e.key === 'S') {
+      e.preventDefault();
+      const sel = $('selectMap');
+      const opts = [...sel.options].filter(o => o.value);
+      const idx  = opts.findIndex(o => o.value === sel.value);
+      if (idx < 0) return;
+      const next = idx + (e.key === 'a' || e.key === 'A' ? -1 : 1);
+      if (next < 0 || next >= opts.length) return;
+      sel.value = opts[next].value;
+      loadMap(sel.value);
+    }
+  });
+  document.addEventListener('keyup', e => {
+    if (e.code === 'Space') hide();
+    if (e.code === 'KeyM')  hideSurvey();
+  });
 })();
+
+// ===== 調査地点（M キーで表示） =====
+const surveyRenderer = L.canvas({ padding: 0.5 });
+const surveyLayer    = L.layerGroup();
+let surveyLoaded     = false;
+
+async function ensureSurveyLoaded() {
+  if (surveyLoaded) return;
+  surveyLoaded = true;
+  try {
+    const pts = await fetch('data/survey-points.json').then(r => r.json());
+    pts.forEach(({ lat, lon, id, pref, name, note }) => {
+      const tip = `${id}　${pref}　${name}${note ? '\n' + note : ''}`;
+      L.circleMarker([lat, lon], {
+        radius: 4, renderer: surveyRenderer,
+        color: '#b36', weight: 1, fillColor: '#e06', fillOpacity: 0.7
+      }).bindTooltip(tip, { className: 'gcp-tooltip' }).addTo(surveyLayer);
+    });
+  } catch (e) {
+    console.warn('調査地点の読み込み失敗:', e);
+    surveyLoaded = false;
+  }
+}
+
+function showSurvey() { ensureSurveyLoaded().then(() => surveyLayer.addTo(map)); }
+function hideSurvey() { surveyLayer.remove(); }
+
+document.addEventListener('keydown', e => {
+  if (e.code === 'KeyM' && !e.repeat) showSurvey();
+});
+
 let gcpMarkers  = L.layerGroup().addTo(map);
 let lineMarkers = L.layerGroup().addTo(map);
 
