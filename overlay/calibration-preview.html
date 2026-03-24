@@ -7,12 +7,30 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
     html, body { height: 100%; margin: 0; font-family: sans-serif; }
+    body { display: flex; flex-direction: column; }
     header { padding: 8px 12px; background: #f6f6f6; border-bottom: 1px solid #ddd; }
     .row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin: 4px 0; }
     input[type="range"] { width: 200px; }
     label { display: flex; align-items: center; gap: 4px; cursor: pointer; }
-    #map { height: calc(100vh - 72px); }
-    #status { color: #555; font-size: 0.85em; }
+    kbd  { background:#eee; border:1px solid #bbb; border-radius:3px; padding:1px 4px; font-size:0.9em; }
+    #mapWrap { position: relative; flex: 1; min-height: 0; }
+    #map { height: 100%; }
+    #status {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      max-width: min(420px, calc(100vw - 32px));
+      padding: 6px 10px;
+      background: rgba(255,255,255,0.82);
+      border: 1px solid rgba(0,0,0,0.12);
+      border-radius: 6px;
+      color: #555;
+      font-size: 0.85em;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+      pointer-events: none;
+      z-index: 700;
+    }
+    #shortcutHint { margin-left: auto; color: #888; font-size: 0.82em; white-space: nowrap; }
     .gcp-tooltip { font-size: 11px; }
     #legendPanel {
       display: none;
@@ -30,12 +48,6 @@
     }
     #legendPanel.visible { display: block; }
     #legendPanel img { display: block; width: 100%; }
-    #legendHint {
-      position: fixed; bottom: 16px; left: 50%; transform: translateX(-50%);
-      background: rgba(0,0,0,0.55); color: #fff;
-      padding: 3px 10px; border-radius: 12px; font-size: 0.78em;
-      pointer-events: none; z-index: 999;
-    }
   </style>
 </head>
 <body>
@@ -43,19 +55,28 @@
   <div class="row">
     <strong>キャリブレーションプレビュー</strong>
     <select id="selectMap"><option value="">読み込み中…</option></select>
-    <span id="status">読み込み中…</span>
   </div>
   <div class="row">
     <label>方言地図の不透明度</label>
     <input id="opacity" type="range" min="0" max="1" step="0.01" value="0.7">
     <span id="opacityVal">0.70</span>
-    <label><input id="showGcps" type="checkbox" checked> GCP表示</label>
-    <label><input id="showLines" type="checkbox" checked> 残差ライン</label>
+    <span id="shortcutHint">
+      <kbd>Space</kbd> 凡例 &nbsp;
+      <kbd>A</kbd>/<kbd>S</kbd> 前/次 &nbsp;
+      <kbd>U</kbd> 本州マスク統合/分割 &nbsp;
+      <kbd>G</kbd> GCP/残差 &nbsp;
+      <kbd>T</kbd> 三角形メッシュ &nbsp;
+      <kbd>I</kbd> メッセージ &nbsp;
+      <kbd>M</kbd> 調査地点 &nbsp;
+      <kbd>Shift</kbd> 不透明度切替
+    </span>
   </div>
 </header>
-<div id="map"></div>
+<div id="mapWrap">
+  <div id="map"></div>
+  <div id="status">読み込み中…</div>
+</div>
 <div id="legendPanel"><img id="legendImg" src="" alt="凡例"></div>
-<div id="legendHint">Space キーで凡例表示 &nbsp;／&nbsp; M キーで調査地点ON/OFF</div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="scripts/iiif-utils.js"></script>
@@ -87,6 +108,103 @@ let warpLayers       = [];
 let iiifSvc          = null; // 凡例表示用に保持
 let currentLegendBbox = null;
 let legendLoaded     = false;
+let preferSplit      = true;
+let splitToggleAvailable = true;
+let diagnosticsVisible = true;
+let statusVisible = true;
+let meshVisible = false;
+const OPACITY_A = 0.7;
+const OPACITY_B = 0.3;
+const OPACITY_DURATION = 300;
+let opacityAnim = null;
+const splitAvailability = new Map();
+
+function isFormTarget(target) {
+  const tag = target?.tagName;
+  return tag === 'INPUT' || tag === 'SELECT' || tag === 'TEXTAREA';
+}
+
+function applyOpacity(v) {
+  $('opacity').value = v;
+  $('opacityVal').textContent = v.toFixed(2);
+  warpLayers.forEach(l => l.setOpacity(v));
+}
+
+function animateOpacity(target) {
+  if (opacityAnim) cancelAnimationFrame(opacityAnim);
+  const start = parseFloat($('opacity').value);
+  if (Math.abs(target - start) < 0.001) return;
+  const t0 = performance.now();
+  function step(now) {
+    const t = Math.min((now - t0) / OPACITY_DURATION, 1);
+    const ease = t < 0.5 ? 2*t*t : -1 + (4 - 2*t)*t;
+    applyOpacity(start + (target - start) * ease);
+    if (t < 1) opacityAnim = requestAnimationFrame(step);
+  }
+  opacityAnim = requestAnimationFrame(step);
+}
+
+function setSplitAvailability(available) {
+  splitToggleAvailable = available;
+}
+
+function applyDiagnosticsVisibility() {
+  if (diagnosticsVisible) {
+    gcpMarkers.addTo(map);
+    lineMarkers.addTo(map);
+  } else {
+    gcpMarkers.remove();
+    lineMarkers.remove();
+  }
+}
+
+function toggleDiagnostics() {
+  diagnosticsVisible = !diagnosticsVisible;
+  applyDiagnosticsVisibility();
+}
+
+function applyMeshVisibility() {
+  warpLayers.forEach(l => l.setMeshVisible(meshVisible));
+}
+
+function toggleMeshVisibility() {
+  meshVisible = !meshVisible;
+  applyMeshVisibility();
+}
+
+function applyStatusVisibility() {
+  $('status').style.display = statusVisible ? '' : 'none';
+}
+
+function toggleStatusVisibility() {
+  statusVisible = !statusVisible;
+  applyStatusVisibility();
+}
+
+async function hasSplitConfig(nnn) {
+  if (splitAvailability.has(nnn)) return splitAvailability.get(nnn);
+  if (nnn === '017') {
+    splitAvailability.set(nnn, true);
+    return true;
+  }
+  const ok = await fetch(`data/${nnn}-mapping-h1.tsv`, { cache: 'no-store' }).then(r => r.ok).catch(() => false);
+  splitAvailability.set(nnn, ok);
+  return ok;
+}
+
+async function resolveMapConfig(id) {
+  const fallback = MAP_CONFIGS[id] ?? defaultMapConfig(id);
+  const m = id.match(/(\d+)$/);
+  if (!m) {
+    setSplitAvailability(false);
+    return fallback;
+  }
+  const nnn = m[1].padStart(3, '0');
+  const splitAvailable = await hasSplitConfig(nnn);
+  setSplitAvailability(splitAvailable);
+  if (splitAvailable && preferSplit) return splitMapConfigFromNnn(nnn);
+  return legacyMapConfigFromNnn(nnn) ?? fallback;
+}
 
 (function setupLegendKey() {
   function show() {
@@ -97,14 +215,12 @@ let legendLoaded     = false;
       legendLoaded = true;
     }
     $('legendPanel').classList.add('visible');
-    $('legendHint').style.display = 'none';
   }
   function hide() {
     $('legendPanel').classList.remove('visible');
-    $('legendHint').style.display = '';
   }
   document.addEventListener('keydown', e => {
-    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+    if (isFormTarget(e.target)) return;
     if (e.code === 'Space' && !e.repeat) { e.preventDefault(); show(); return; }
     if (e.key === 'a' || e.key === 'A' || e.key === 's' || e.key === 'S') {
       e.preventDefault();
@@ -115,7 +231,7 @@ let legendLoaded     = false;
       const next = idx + (e.key === 'a' || e.key === 'A' ? -1 : 1);
       if (next < 0 || next >= opts.length) return;
       sel.value = opts[next].value;
-      loadMap(sel.value);
+      loadMap(sel.value, { preserveView: true });
     }
   });
   document.addEventListener('keyup', e => { if (e.code === 'Space') hide(); });
@@ -179,13 +295,43 @@ function toggleSurvey() {
   if (surveyVisible) { surveyLayer.remove(); surveyVisible = false; }
   else { ensureSurveyLoaded().then(() => { surveyLayer.addTo(map); surveyVisible = true; }); }
 }
+toggleSurvey();
+
+function toggleSplitMode() {
+  if (!splitToggleAvailable) return;
+  preferSplit = !preferSplit;
+  if ($('selectMap').value) loadMap($('selectMap').value, { preserveView: true });
+}
 
 document.addEventListener('keydown', e => {
+  if (isFormTarget(e.target)) return;
   if (e.code === 'KeyM' && !e.repeat) toggleSurvey();
+  if (e.code === 'KeyG' && !e.repeat) {
+    e.preventDefault();
+    toggleDiagnostics();
+  }
+  if (e.code === 'KeyT' && !e.repeat) {
+    e.preventDefault();
+    toggleMeshVisibility();
+  }
+  if (e.code === 'KeyI' && !e.repeat) {
+    e.preventDefault();
+    toggleStatusVisibility();
+  }
+  if (e.code === 'KeyU' && !e.repeat) {
+    e.preventDefault();
+    toggleSplitMode();
+  }
+  if (e.key === 'Shift' && !e.repeat) {
+    e.preventDefault();
+    const cur = parseFloat($('opacity').value);
+    animateOpacity(Math.abs(cur - OPACITY_A) >= Math.abs(cur - OPACITY_B) ? OPACITY_A : OPACITY_B);
+  }
 });
 
 let gcpMarkers  = L.layerGroup().addTo(map);
 let lineMarkers = L.layerGroup().addTo(map);
+applyStatusVisibility();
 
 // ===== 候補リスト読み込み =====
 async function loadCandidates() {
@@ -207,7 +353,8 @@ async function loadCandidates() {
 }
 
 // ===== 地図読み込み =====
-async function loadMap(id) {
+async function loadMap(id, options = {}) {
+  const preserveView = !!options.preserveView;
   // 既存レイヤを除去
   warpLayers.forEach(l => l.remove());
   warpLayers = [];
@@ -219,13 +366,18 @@ async function loadMap(id) {
   $('legendImg').src = '';
   $('legendPanel').classList.remove('visible');
 
-  const config = MAP_CONFIGS[id] ?? defaultMapConfig(id);
+  let config = null;
   if (!config) {
-    $('status').textContent = `${id}: 地図IDを解析できません`;
-    return;
+    $('status').textContent = '設定を確認中…';
   }
 
   try {
+    config = await resolveMapConfig(id);
+    if (!config) {
+      $('status').textContent = `${id}: 地図IDを解析できません`;
+      return;
+    }
+
     // 1. TSV 読み込み（全地域並行）
     $('status').textContent = 'TSV 読み込み中…';
     const tsvTexts = await Promise.all(config.regions.map(r => fetch(r.tsv).then(t => t.text())));
@@ -243,13 +395,18 @@ async function loadMap(id) {
     iiifSvc = svc;
     currentLegendBbox = config.legendBbox || null;
 
-    $('status').textContent = `方言地図を読み込み中 (${fullW}×${fullH}px)…`;
+    $('status').textContent = '方言地図を読み込み中…';
     const opacity = parseFloat($('opacity').value);
 
     // 3. 地域レイヤを順次追加
     gcpSets.forEach((gcps, i) => {
       const r = config.regions[i];
-      const layer = new WarpedImageLayer(gcps, svc, fullW, fullH, { opacity, masks: r.masks });
+      const layer = new WarpedImageLayer(gcps, svc, fullW, fullH, {
+        opacity,
+        masks: r.masks,
+        showMesh: meshVisible,
+        meshColor: r.lineColor,
+      });
       layer.addTo(map);
       warpLayers.push(layer);
     });
@@ -264,10 +421,12 @@ async function loadMap(id) {
     const allGcps = gcpSets.flat();
     const allLats = allGcps.map(g => g.lat);
     const allLons = allGcps.map(g => g.lon);
-    map.fitBounds([
-      [Math.min(...allLats), Math.min(...allLons)],
-      [Math.max(...allLats), Math.max(...allLons)]
-    ], { padding: [40, 40] });
+    if (!preserveView) {
+      map.fitBounds([
+        [Math.min(...allLats), Math.min(...allLons)],
+        [Math.max(...allLats), Math.max(...allLons)]
+      ], { padding: [40, 40] });
+    }
 
     const summary = config.regions.map((r, i) => `${r.label} ${gcpSets[i].length}点`).join(' / ');
     $('status').textContent = `${summary} のGCPでワープ表示中`;
@@ -319,23 +478,11 @@ function drawGcpMarkers(gcps, opts = {}) {
 
 // ===== コントロール =====
 $('opacity').addEventListener('input', e => {
-  const v = parseFloat(e.target.value);
-  $('opacityVal').textContent = v.toFixed(2);
-  warpLayers.forEach(l => l.setOpacity(v));
+  applyOpacity(parseFloat(e.target.value));
 });
 
 $('selectMap').addEventListener('change', e => {
-  if (e.target.value) loadMap(e.target.value);
-});
-
-$('showGcps').addEventListener('change', e => {
-  if (e.target.checked) gcpMarkers.addTo(map);
-  else gcpMarkers.remove();
-});
-
-$('showLines').addEventListener('change', e => {
-  if (e.target.checked) lineMarkers.addTo(map);
-  else lineMarkers.remove();
+  if (e.target.value) loadMap(e.target.value, { preserveView: true });
 });
 
 loadCandidates().then(() => loadMap(DEFAULT_MAP_ID));

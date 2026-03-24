@@ -9,6 +9,8 @@ const WarpedImageLayer = L.Layer.extend({
     this._fullH = fullH;
     this._opacity  = (options && options.opacity != null) ? options.opacity : 0.7;
     this._maskDefs = (options && options.masks) ? options.masks : [];
+    this._showMesh = !!(options && options.showMesh);
+    this._meshColor = (options && options.meshColor) ? options.meshColor : '#666';
     this._maskGeos = [];
     this._regionImg  = null;
     this._regionRect = null;
@@ -54,6 +56,11 @@ const WarpedImageLayer = L.Layer.extend({
 
   setOpacity(v) { this._opacity = v; this._render(); },
 
+  setMeshVisible(v) {
+    this._showMesh = !!v;
+    this._render();
+  },
+
   setMasks(masks) {
     this._maskDefs = masks;
     if (this._tps) {
@@ -63,10 +70,13 @@ const WarpedImageLayer = L.Layer.extend({
   },
 
   _computeMaskGeos(tps) {
-    return this._maskDefs.map(({ svg }) => {
-      const raw   = parseSvgPolygon(svg);
-      const dense = densifyPolygon(raw, 400);
-      return dense.map(p => tps(p.px, p.py));
+    return this._maskDefs.map(def => {
+      const svgs = def.svgs || [def.svg];
+      return svgs.map(svg => {
+        const raw   = parseSvgPolygon(svg);
+        const dense = densifyPolygon(raw, 400);
+        return dense.map(p => tps(p.px, p.py));
+      });
     });
   },
 
@@ -75,6 +85,8 @@ const WarpedImageLayer = L.Layer.extend({
     this._tps = tps;
 
     const COLS = 50, ROWS = 37;
+    this._cols = COLS;
+    this._rows = ROWS;
     const pts = [];
     for (let row = 0; row <= ROWS; row++) {
       for (let col = 0; col <= COLS; col++) {
@@ -154,15 +166,12 @@ const WarpedImageLayer = L.Layer.extend({
     if (url === this._loadedUrl) return;
     this._loadedUrl = url;
 
-    $('status').textContent = `高解像度取得中 (${outW}×${outH}px)…`;
-
     const img = new Image();
     img.crossOrigin = 'anonymous';
     img.onload = () => {
       if (url !== this._loadedUrl) return;
       this._regionImg  = img;
       this._regionRect = rect;
-      $('status').textContent = `高解像度表示中 ${outW}×${outH}px (領域: ${rect.w}×${rect.h}px)`;
       this._render();
     };
     img.onerror = () => { $('status').textContent = 'IIIF 高解像度取得失敗'; };
@@ -183,15 +192,17 @@ const WarpedImageLayer = L.Layer.extend({
 
     if (this._maskGeos.length > 0) {
       ctx.save();
-      ctx.beginPath();
-      for (const geo of this._maskGeos) {
-        geo.forEach(({ lon, lat }, i) => {
-          const s = map.latLngToContainerPoint([lat, lon]);
-          i === 0 ? ctx.moveTo(s.x, s.y) : ctx.lineTo(s.x, s.y);
-        });
-        ctx.closePath();
+      for (const clipGroup of this._maskGeos) {
+        for (const geo of clipGroup) {
+          ctx.beginPath();
+          geo.forEach(({ lon, lat }, i) => {
+            const s = map.latLngToContainerPoint([lat, lon]);
+            i === 0 ? ctx.moveTo(s.x, s.y) : ctx.lineTo(s.x, s.y);
+          });
+          ctx.closePath();
+          ctx.clip();
+        }
       }
-      ctx.clip('evenodd');
     }
 
     const useRegion = this._regionImg && this._regionRect;
@@ -250,6 +261,57 @@ const WarpedImageLayer = L.Layer.extend({
       ctx.restore();
     }
 
+    if (this._showMesh) {
+      this._drawMesh(ctx, map);
+    }
+
     if (this._maskGeos.length > 0) ctx.restore();
+  },
+
+  _drawMesh(ctx, map) {
+    const cols = this._cols;
+    const rows = this._rows;
+    const pts  = this._pts;
+    const W = cols + 1;
+
+    ctx.save();
+    ctx.strokeStyle = this._meshColor;
+    ctx.lineWidth = 1;
+    ctx.globalAlpha = 0.32;
+
+    for (let row = 0; row <= rows; row++) {
+      ctx.beginPath();
+      for (let col = 0; col <= cols; col++) {
+        const p = pts[col + row * W];
+        const s = map.latLngToContainerPoint([p.lat, p.lon]);
+        col === 0 ? ctx.moveTo(s.x, s.y) : ctx.lineTo(s.x, s.y);
+      }
+      ctx.stroke();
+    }
+
+    for (let col = 0; col <= cols; col++) {
+      ctx.beginPath();
+      for (let row = 0; row <= rows; row++) {
+        const p = pts[col + row * W];
+        const s = map.latLngToContainerPoint([p.lat, p.lon]);
+        row === 0 ? ctx.moveTo(s.x, s.y) : ctx.lineTo(s.x, s.y);
+      }
+      ctx.stroke();
+    }
+
+    for (let row = 0; row < rows; row++) {
+      for (let col = 0; col < cols; col++) {
+        const tr = pts[(col + 1) + row * W];
+        const bl = pts[col + (row + 1) * W];
+        const s1 = map.latLngToContainerPoint([tr.lat, tr.lon]);
+        const s2 = map.latLngToContainerPoint([bl.lat, bl.lon]);
+        ctx.beginPath();
+        ctx.moveTo(s1.x, s1.y);
+        ctx.lineTo(s2.x, s2.y);
+        ctx.stroke();
+      }
+    }
+
+    ctx.restore();
   }
 });

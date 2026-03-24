@@ -2,6 +2,44 @@
 
 ## 2026-03 セッション4（現セッション）
 
+### calibration-preview.html / WarpedImageLayer の確認・操作改善
+
+- `Shift` で方言地図不透明度を `0.7 / 0.3` に ease-in-out アニメーション切替
+- キー説明をヘッダ上部へ固定表示し、下部の凡例ヒントは廃止
+- `#status` をヘッダから地図右上の半透明オーバーレイへ移動
+- パン・ズーム中に `WarpedImageLayer` が `高解像度取得中 / 表示中` を `#status` に出し続ける挙動を抑止
+- `U` キーで本州マスクの `統合 / 4分割` を切替
+  - 切替時は `fitBounds` せず、現在のズーム・中心を維持
+  - 17図以外も `*-mapping-h1.tsv` が存在すれば split config を自動利用
+- `G` キーで `GCP + 残差ライン` を一括表示/非表示
+- `I` キーで右上メッセージ欄の表示/非表示
+- `T` キーで三角形メッシュの表示/非表示
+- `M` キーの調査地点は維持しつつ、起動時デフォルト表示に変更
+- UI 簡素化のため以下のチェックボックスを廃止
+  - `本州4分割`
+  - `GCP表示`
+  - `残差ライン`
+  - `三角形メッシュ`
+
+### map-configs.js / json-to-mapping.py の拡張
+
+- LAJ_017 本州を `h1〜h4` の 4 分割 TSV で扱う構成へ整理
+- `scripts/json-to-mapping.py` は `main/h1/h2/h3/h4/hk/rk/sk` を生成するよう拡張
+- `scripts/json-to-mapping.py` 冒頭説明を実装に合わせて更新
+  - `8点以上なら TPS`
+  - 特異行列等で解けない場合は `affine(fallback)`
+- 127件の `LAJ_017_LAJ_*.json` を一括再生成
+  - `012`, `035` は `affine(fallback)`
+  - `015`, `144` は要確認候補として把握
+
+### データ点検
+
+- `LAJ_017_LAJ_015.json` に末尾重複点が 1 件あることを確認し、重複除去後に `015-mapping*.tsv` を再生成
+  - ただし `015` はなお表示崩れが残り、TPS 外挿の問題が疑われる
+- `LAJ_041`〜`LAJ_062` は `laj_maps.json` には存在するが、`overlay/data` に JSON が存在しないことを確認
+  - そのため `041-mapping*.tsv`〜`062-mapping*.tsv` は未生成
+  - 続きの対応は `issues/open` に整理
+
 ### リファクタリング: calibration-preview.html のスクリプト分離
 
 **TPS ライブラリ検討**

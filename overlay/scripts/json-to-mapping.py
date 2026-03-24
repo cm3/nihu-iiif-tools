@@ -6,11 +6,15 @@ overlay.html で記録したキャリブレーション JSON から
 calibration-preview.html 用の GCP TSV を生成する。
 
 【手法】
-  JSON の対応点から「基準地図px → 対象地図px」のアフィン変換を推定し、
+  JSON の対応点から「基準地図px → 対象地図px」のクロスマップ変換を推定し、
   基準地図の GCP TSV（017-mapping*.tsv）のピクセル座標をすべて変換する。
   地理座標は基準地図のものをそのまま継承する。
 
-  本州・北海道・琉球・先島の各 TSV を一括生成する。
+  対応点が 8 点以上なら Thin Plate Spline（scipy `RBFInterpolator`）を使い、
+  8 点未満ならアフィン最小二乗にフォールバックする。
+
+  LAJ_017 基準では本州系を 4 分割（h1〜h4）した TSV と、
+  統合版 main、北海道・琉球・先島の各 TSV を一括生成する。
 
 【使用法】
   python scripts/json-to-mapping.py                         # data/ 内の全 JSON を処理
@@ -26,6 +30,7 @@ from pathlib import Path
 
 import numpy as np
 from scipy.interpolate import RBFInterpolator
+from numpy.linalg import LinAlgError
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 
@@ -35,6 +40,10 @@ TPS_MIN_POINTS = 8
 # 基準 GCP ファイル定義（サフィックス → ファイル名）
 REF_TSVS = {
     "":   "017-mapping.tsv",
+    "h1": "017-mapping-h1.tsv",
+    "h2": "017-mapping-h2.tsv",
+    "h3": "017-mapping-h3.tsv",
+    "h4": "017-mapping-h4.tsv",
     "hk": "017-mapping-hk.tsv",
     "rk": "017-mapping-rk.tsv",
     "sk": "017-mapping-sk.tsv",
@@ -77,7 +86,10 @@ def build_cross_map_transform(src: np.ndarray, dst: np.ndarray):
     """点数に応じて TPS / アフィンを選択"""
     n = src.shape[0]
     if n >= TPS_MIN_POINTS:
-        return build_tps(src, dst), "TPS"
+        try:
+            return build_tps(src, dst), "TPS"
+        except (ValueError, LinAlgError):
+            return build_affine(src, dst), "affine(fallback)"
     else:
         return build_affine(src, dst), "affine"
 

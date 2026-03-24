@@ -13,10 +13,14 @@ overlay/
 ├── calibration-preview.html  # GCP ベースのワープ＋OSM オーバーレイ
 ├── data/
 │   ├── laj_maps.json              # 地図候補リスト（LAJ_001〜LAJ_300, S01〜S06）
-│   ├── 017-mapping.tsv            # LAJ_017 本州用 GCP（22点）    ┐ 手動作成
-│   ├── 017-mapping-hk.tsv         # LAJ_017 北海道インセット用 GCP（15点）│ 基準データ
-│   ├── 017-mapping-rk.tsv         # LAJ_017 琉球・奄美インセット用 GCP（30点）│
-│   ├── 017-mapping-sk.tsv         # LAJ_017 先島諸島インセット用 GCP（20点）┘
+│   ├── 017-mapping.tsv            # LAJ_017 本州系 GCP の統合版（基準データ）
+│   ├── 017-mapping-h1.tsv         # LAJ_017 本州-1 用 GCP
+│   ├── 017-mapping-h2.tsv         # LAJ_017 本州-2 用 GCP
+│   ├── 017-mapping-h3.tsv         # LAJ_017 本州-3 用 GCP
+│   ├── 017-mapping-h4.tsv         # LAJ_017 本州-4 用 GCP
+│   ├── 017-mapping-hk.tsv         # LAJ_017 北海道インセット用 GCP
+│   ├── 017-mapping-rk.tsv         # LAJ_017 琉球・奄美インセット用 GCP
+│   ├── 017-mapping-sk.tsv         # LAJ_017 先島諸島インセット用 GCP
 │   ├── LAJ_017_LAJ_NNN.json       # overlay.html で記録したキャリブレーション対応点
 │   └── NNN-mapping*.tsv           # json-to-mapping.py で自動生成した GCP TSV
 └── scripts/
@@ -86,15 +90,19 @@ GCP（地上基準点）TSV を元に LAJ 地図を **Thin Plate Spline でワ�
 
 ### 対応地域
 
-各地図は本州・北海道・琉球・先島の 4 地域マスクで表示される。
+各地図は地域マスクごとに別ワープで表示される。LAJ_017 は本州系を X 方向の直線境界で 4 分割し、北海道、琉球、先島を加えた 7 地域。
 
 | 地域 | TSV（LAJ_017） | GCP数 | マーカー色 |
 |------|---------------|-------|----------|
-| 本州・四国・九州 | `017-mapping.tsv` | 22点 | 赤 |
+| 本州-1 | `017-mapping-h1.tsv` | 23点 | 赤 |
+| 本州-2 | `017-mapping-h2.tsv` | 23点 | 橙 |
+| 本州-3 | `017-mapping-h3.tsv` | 22点 | えんじ |
+| 本州-4 | `017-mapping-h4.tsv` | 23点 | 濃赤 |
 | 北海道 | `017-mapping-hk.tsv` | 15点 | 青 |
 | 琉球・奄美 | `017-mapping-rk.tsv` | 30点 | 緑 |
 | 先島諸島 | `017-mapping-sk.tsv` | 20点 | 橙 |
 
+`017-mapping.tsv` は LAJ_017 の統合基準データとして残し、プレビュー表示では `017-mapping-h1.tsv`〜`017-mapping-h4.tsv` を使い分ける。
 LAJ_017 以外は `json-to-mapping.py` で生成した `NNN-mapping*.tsv` を使用。
 
 ### 技術
@@ -146,7 +154,8 @@ python scripts/json-to-mapping.py --base-id LAJ_018 data/LAJ_018_LAJ_*.json
 
 ### 出力
 
-`data/{NNN}-mapping.tsv`、`data/{NNN}-mapping-hk.tsv`、`-rk.tsv`、`-sk.tsv` の 4 ファイル。
+`data/{NNN}-mapping.tsv`、`data/{NNN}-mapping-h1.tsv`〜`-h4.tsv`、
+`data/{NNN}-mapping-hk.tsv`、`-rk.tsv`、`-sk.tsv` を生成する。
 フォーマットは `017-mapping*.tsv` と同一（`px py lon lat`）。
 
 ---
