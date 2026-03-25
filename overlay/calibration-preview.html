@@ -86,6 +86,41 @@
 <script>
 // ===== 設定 =====
 const DEFAULT_MAP_ID = 'LAJ_017';
+window.DEBUG_WARP = true;
+window.__warpCurrentLoadSeq = 0;
+let loadMapSeq = 0;
+
+function warpDebug(...args) {
+  if (!window.DEBUG_WARP) return;
+  console.log('[calibration-preview]', ...args);
+}
+
+function countWarpCanvases() {
+  return map.getContainer().querySelectorAll('canvas[data-warp-debug-id]').length;
+}
+
+class StaleLoadError extends Error {
+  constructor(seq, id, stage) {
+    super(`stale load ignored: ${id} @ ${stage}`);
+    this.name = 'StaleLoadError';
+    this.seq = seq;
+    this.id = id;
+    this.stage = stage;
+  }
+}
+
+function ensureCurrentLoad(seq, id, stage) {
+  if (seq !== window.__warpCurrentLoadSeq) {
+    warpDebug('loadMap:staleAbort', {
+      seq,
+      id,
+      stage,
+      activeSeq: window.__warpCurrentLoadSeq,
+      warpCanvases: countWarpCanvases(),
+    });
+    throw new StaleLoadError(seq, id, stage);
+  }
+}
 
 // --- TSV パース: "px py lon lat" ---
 function parseTSV(text) {
@@ -355,6 +390,15 @@ async function loadCandidates() {
 // ===== 地図読み込み =====
 async function loadMap(id, options = {}) {
   const preserveView = !!options.preserveView;
+  const seq = ++loadMapSeq;
+  window.__warpCurrentLoadSeq = seq;
+  warpDebug('loadMap:start', {
+    seq,
+    id,
+    preserveView,
+    existingWarpLayers: warpLayers.length,
+    existingWarpCanvases: countWarpCanvases(),
+  });
   // 既存レイヤを除去
   warpLayers.forEach(l => l.remove());
   warpLayers = [];
@@ -365,6 +409,11 @@ async function loadMap(id, options = {}) {
   legendLoaded = false;
   $('legendImg').src = '';
   $('legendPanel').classList.remove('visible');
+  warpDebug('loadMap:cleared', {
+    seq,
+    id,
+    remainingWarpCanvases: countWarpCanvases(),
+  });
 
   let config = null;
   if (!config) {
@@ -373,39 +422,81 @@ async function loadMap(id, options = {}) {
 
   try {
     config = await resolveMapConfig(id);
+    ensureCurrentLoad(seq, id, 'resolveMapConfig');
     if (!config) {
       $('status').textContent = `${id}: 地図IDを解析できません`;
       return;
     }
+    warpDebug('loadMap:config', {
+      seq,
+      id,
+      activeSeq: window.__warpCurrentLoadSeq,
+      stale: seq !== window.__warpCurrentLoadSeq,
+      regions: config.regions.map(r => r.label),
+      preferSplit,
+      splitToggleAvailable,
+    });
 
     // 1. TSV 読み込み（全地域並行）
     $('status').textContent = 'TSV 読み込み中…';
     const tsvTexts = await Promise.all(config.regions.map(r => fetch(r.tsv).then(t => t.text())));
+    ensureCurrentLoad(seq, id, 'tsv');
     const gcpSets  = tsvTexts.map(t => parseTSV(t));
+    warpDebug('loadMap:tsvLoaded', {
+      seq,
+      id,
+      activeSeq: window.__warpCurrentLoadSeq,
+      stale: seq !== window.__warpCurrentLoadSeq,
+      counts: config.regions.map((r, i) => `${r.label}:${gcpSets[i].length}`),
+    });
 
     // 2. IIIF マニフェスト → info.json
     $('status').textContent = 'IIIF マニフェスト取得中…';
     const man = await fetch(buildManifestUrl(id)).then(r => r.json());
+    ensureCurrentLoad(seq, id, 'manifest');
     const infoUrl = infoFromManifest(man);
     if (!infoUrl) throw new Error('info.json を抽出できませんでした');
     const info  = await fetch(infoUrl).then(r => r.json());
+    ensureCurrentLoad(seq, id, 'info');
     const fullW = info.width  || info['@width'];
     const fullH = info.height || info['@height'];
     const svc   = stripInfo(infoUrl);
     iiifSvc = svc;
     currentLegendBbox = config.legendBbox || null;
+    warpDebug('loadMap:iiifReady', {
+      seq,
+      id,
+      activeSeq: window.__warpCurrentLoadSeq,
+      stale: seq !== window.__warpCurrentLoadSeq,
+      fullW,
+      fullH,
+      warpCanvasesBeforeAdd: countWarpCanvases(),
+    });
 
     $('status').textContent = '方言地図を読み込み中…';
     const opacity = parseFloat($('opacity').value);
+    ensureCurrentLoad(seq, id, 'beforeAddLayers');
 
     // 3. 地域レイヤを順次追加
     gcpSets.forEach((gcps, i) => {
+      ensureCurrentLoad(seq, id, `addLayer:${i}`);
       const r = config.regions[i];
+      warpDebug('loadMap:addLayer', {
+        seq,
+        id,
+        activeSeq: window.__warpCurrentLoadSeq,
+        stale: seq !== window.__warpCurrentLoadSeq,
+        region: r.label,
+        gcps: gcps.length,
+        warpCanvasesBeforeAdd: countWarpCanvases(),
+      });
       const layer = new WarpedImageLayer(gcps, svc, fullW, fullH, {
         opacity,
         masks: r.masks,
         showMesh: meshVisible,
         meshColor: r.lineColor,
+        debugLabel: `${id}:${r.label}`,
+        debugLoadSeq: seq,
       });
       layer.addTo(map);
       warpLayers.push(layer);
@@ -430,10 +521,26 @@ async function loadMap(id, options = {}) {
 
     const summary = config.regions.map((r, i) => `${r.label} ${gcpSets[i].length}点`).join(' / ');
     $('status').textContent = `${summary} のGCPでワープ表示中`;
+    warpDebug('loadMap:done', {
+      seq,
+      id,
+      activeSeq: window.__warpCurrentLoadSeq,
+      stale: seq !== window.__warpCurrentLoadSeq,
+      warpLayers: warpLayers.length,
+      warpCanvases: countWarpCanvases(),
+    });
 
   } catch (e) {
+    if (e instanceof StaleLoadError) return;
     console.error(e);
     $('status').textContent = `エラー: ${e.message}`;
+    warpDebug('loadMap:error', {
+      seq,
+      id,
+      activeSeq: window.__warpCurrentLoadSeq,
+      stale: seq !== window.__warpCurrentLoadSeq,
+      message: e.message,
+    });
   }
 }
 

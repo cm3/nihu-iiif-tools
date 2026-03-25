@@ -51,11 +51,13 @@
       <label>キャリブレーション</label>
       <span>記録: <b id="pointCount">0</b>点</span>
       <button id="recordPoint">記録</button>
+      <button id="undoPoint">1個戻す</button>
       <button id="clearPoints">クリア</button>
       <button id="downloadJson">ダウンロード</button>
       <small id="lastRecorded" style="color:#666"></small>
       <span style="margin-left:auto; color:#888; font-size:0.82em; white-space:nowrap">
-        <kbd>Space</kbd> 記録 &nbsp;
+        <kbd>Space↑</kbd> 記録 &nbsp;
+        <kbd>Backspace</kbd> 1個戻す &nbsp;
         <kbd>Esc</kbd> クリア &nbsp;
         <kbd>Enter</kbd> DL &nbsp;
         <kbd>A</kbd>/<kbd>S</kbd> 前/次 &nbsp;
@@ -284,9 +286,17 @@
     }
     else if (e.key === 'z' || e.key === 'Z') { e.preventDefault(); navigateCheckPoint(-1); }
     else if (e.key === 'x' || e.key === 'X') { e.preventDefault(); navigateCheckPoint(+1); }
-    else if (e.key === ' ')     { e.preventDefault(); $('recordPoint').click(); }
+    else if (e.code === 'Space') { e.preventDefault(); }
+    else if (e.key === 'Backspace') { e.preventDefault(); $('undoPoint').click(); }
     else if (e.key === 'Escape'){ e.preventDefault(); $('clearPoints').click(); }
     else if (e.key === 'Enter') { e.preventDefault(); $('downloadJson').click(); }
+  });
+  document.addEventListener('keyup', (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+    if (e.code === 'Space') {
+      e.preventDefault();
+      $('recordPoint').click();
+    }
   });
   $('tintBase').addEventListener('change', (e) => {
     const f = e.target.checked ? 'hue-rotate(240deg)' : '';
@@ -441,14 +451,32 @@
       });
     }
   }
+  function blockSelectArrowNavigation(e) {
+    if (e.key === 'ArrowUp' || e.key === 'ArrowDown' || e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
+      e.preventDefault();
+      e.stopPropagation();
+    }
+  }
   $('selectBase').addEventListener('change', onSelectChange);
   $('selectOverlay').addEventListener('change', onSelectChange);
+  $('selectBase').addEventListener('keydown', blockSelectArrowNavigation);
+  $('selectOverlay').addEventListener('keydown', blockSelectArrowNavigation);
 
   // ===== キャリブレーション記録 =====
   // 画面中央の containerPoint を取得
   function getContainerCenter() {
     const container = $('mapBase');
     return L.point(container.clientWidth / 2, container.clientHeight / 2);
+  }
+
+  function updateCalibrationSummary() {
+    $('pointCount').textContent = calibrationPoints.length;
+    if (calibrationPoints.length === 0) {
+      $('lastRecorded').textContent = '';
+      return;
+    }
+    const point = calibrationPoints[calibrationPoints.length - 1];
+    $('lastRecorded').textContent = `base(${point.base.x}, ${point.base.y}) / overlay(${point.overlay.x}, ${point.overlay.y})`;
   }
 
   // 記録ボタン
@@ -480,8 +508,16 @@
     };
 
     calibrationPoints.push(point);
-    $('pointCount').textContent = calibrationPoints.length;
-    $('lastRecorded').textContent = `base(${point.base.x}, ${point.base.y}) / overlay(${point.overlay.x}, ${point.overlay.y})`;
+    updateCalibrationSummary();
+  });
+
+  // 1個戻すボタン
+  $('undoPoint').addEventListener('click', () => {
+    if (calibrationPoints.length === 0) return;
+    const point = calibrationPoints[calibrationPoints.length - 1];
+    if (!confirm(`直前の記録を削除しますか？\nbase(${point.base.x}, ${point.base.y}) / overlay(${point.overlay.x}, ${point.overlay.y})`)) return;
+    calibrationPoints.pop();
+    updateCalibrationSummary();
   });
 
   // クリアボタン
@@ -489,8 +525,7 @@
     if (calibrationPoints.length === 0) return;
     if (!confirm(`${calibrationPoints.length}点の記録をクリアしますか？`)) return;
     calibrationPoints = [];
-    $('pointCount').textContent = '0';
-    $('lastRecorded').textContent = '';
+    updateCalibrationSummary();
   });
 
   // ダウンロードボタン

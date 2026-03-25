@@ -1,6 +1,12 @@
 // ===== カスタム Leaflet レイヤ: 三角分割ワープ描画 + IIIF 高解像度領域取得 =====
 // 依存: tps-warp.js (solveTPS, parseSvgPolygon, densifyPolygon, affineFromTriangles)
 //       iiif-utils.js ($)
+let warpedImageLayerNextId = 1;
+function warpLayerDebug(...args) {
+  if (!window.DEBUG_WARP) return;
+  console.log('[WarpedImageLayer]', ...args);
+}
+
 const WarpedImageLayer = L.Layer.extend({
   initialize(gcps, svc, fullW, fullH, options) {
     this._gcps  = gcps;
@@ -16,6 +22,9 @@ const WarpedImageLayer = L.Layer.extend({
     this._regionRect = null;
     this._loadedUrl  = null;
     this._regionTimer = null;
+    this._debugId = warpedImageLayerNextId++;
+    this._debugLabel = (options && options.debugLabel) ? options.debugLabel : `layer-${this._debugId}`;
+    this._debugLoadSeq = (options && options.debugLoadSeq != null) ? options.debugLoadSeq : null;
   },
 
   onAdd(map) {
@@ -25,13 +34,29 @@ const WarpedImageLayer = L.Layer.extend({
       position: 'absolute', top: '0', left: '0', pointerEvents: 'none',
       zIndex: '450'
     });
+    this._canvas.dataset.warpDebugId = String(this._debugId);
     map.getContainer().appendChild(this._canvas);
+    warpLayerDebug('onAdd', {
+      id: this._debugId,
+      label: this._debugLabel,
+      loadSeq: this._debugLoadSeq,
+      activeLoadSeq: window.__warpCurrentLoadSeq,
+      stale: this._debugLoadSeq != null && this._debugLoadSeq !== window.__warpCurrentLoadSeq,
+      warpCanvasCount: map.getContainer().querySelectorAll('canvas[data-warp-debug-id]').length,
+    });
 
     this._buildTriangulation();
 
     this._img = new Image();
     this._img.crossOrigin = 'anonymous';
     this._img.onload  = () => {
+      warpLayerDebug('baseImageLoaded', {
+        id: this._debugId,
+        label: this._debugLabel,
+        loadSeq: this._debugLoadSeq,
+        activeLoadSeq: window.__warpCurrentLoadSeq,
+        stale: this._debugLoadSeq != null && this._debugLoadSeq !== window.__warpCurrentLoadSeq,
+      });
       this._imgLoaded = true;
       this._render();
       this._scheduleRegionLoad();
@@ -48,10 +73,21 @@ const WarpedImageLayer = L.Layer.extend({
   },
 
   onRemove(map) {
+    warpLayerDebug('onRemove', {
+      id: this._debugId,
+      label: this._debugLabel,
+      loadSeq: this._debugLoadSeq,
+      warpCanvasCountBefore: map.getContainer().querySelectorAll('canvas[data-warp-debug-id]').length,
+    });
     this._canvas.remove();
     map.off('viewreset zoom move resize', this._render, this);
     map.off('moveend zoomend', this._scheduleRegionLoad, this);
     clearTimeout(this._regionTimer);
+    warpLayerDebug('onRemove:done', {
+      id: this._debugId,
+      label: this._debugLabel,
+      warpCanvasCountAfter: map.getContainer().querySelectorAll('canvas[data-warp-debug-id]').length,
+    });
   },
 
   setOpacity(v) { this._opacity = v; this._render(); },
@@ -165,6 +201,16 @@ const WarpedImageLayer = L.Layer.extend({
     const url = `${this._svc}/${rect.x},${rect.y},${rect.w},${rect.h}/${outW},/0/default.jpg`;
     if (url === this._loadedUrl) return;
     this._loadedUrl = url;
+    warpLayerDebug('loadRegion:start', {
+      id: this._debugId,
+      label: this._debugLabel,
+      loadSeq: this._debugLoadSeq,
+      activeLoadSeq: window.__warpCurrentLoadSeq,
+      stale: this._debugLoadSeq != null && this._debugLoadSeq !== window.__warpCurrentLoadSeq,
+      rect,
+      outW,
+      outH,
+    });
 
     const img = new Image();
     img.crossOrigin = 'anonymous';
@@ -172,6 +218,16 @@ const WarpedImageLayer = L.Layer.extend({
       if (url !== this._loadedUrl) return;
       this._regionImg  = img;
       this._regionRect = rect;
+      warpLayerDebug('loadRegion:done', {
+        id: this._debugId,
+        label: this._debugLabel,
+        loadSeq: this._debugLoadSeq,
+        activeLoadSeq: window.__warpCurrentLoadSeq,
+        stale: this._debugLoadSeq != null && this._debugLoadSeq !== window.__warpCurrentLoadSeq,
+        rect,
+        outW,
+        outH,
+      });
       this._render();
     };
     img.onerror = () => { $('status').textContent = 'IIIF 高解像度取得失敗'; };
