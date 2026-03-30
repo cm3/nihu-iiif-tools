@@ -30,6 +30,7 @@
       <select id="selectBase"><option value="">-- 候補を読み込み中 --</option></select>
       <label>上（オーバーレイ）</label>
       <select id="selectOverlay"><option value="">-- 候補を読み込み中 --</option></select>
+      <a id="noteViewerLink" href="notes-viewer.html" target="_blank" rel="noopener">注記ビューア</a>
     </div>
     <div class="row">
       <label>ブレンド</label>
@@ -58,7 +59,8 @@
       <span style="margin-left:auto; color:#888; font-size:0.82em; white-space:nowrap">
         <kbd>Space↑</kbd> 記録 &nbsp;
         <kbd>Backspace</kbd> 1個戻す &nbsp;
-        <kbd>Esc</kbd> クリア &nbsp;
+        <kbd>Shift</kbd>+<kbd>Backspace</kbd> クリア &nbsp;
+        <kbd>Esc</kbd> 地図へ戻る &nbsp;
         <kbd>Enter</kbd> DL &nbsp;
         <kbd>A</kbd>/<kbd>S</kbd> 前/次 &nbsp;
         <kbd>←→↑↓</kbd> 移動 &nbsp;
@@ -74,13 +76,14 @@
   </header>
 
   <div id="stage">
-    <div id="mapBase"></div>
+    <div id="mapBase" tabindex="0"></div>
     <div id="mapOverlay"></div>
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/leaflet-iiif@3.0.0/leaflet-iiif.min.js"></script>
   <script src="scripts/iiif-utils.js"></script>
+  <script src="scripts/note-sync.js"></script>
 <script>
 
   // ===== 候補リストの読み込み =====
@@ -89,6 +92,25 @@
   const defaultBase = 'LAJ_017';
   const defaultOverlay = 'LAJ_018';
   const defaultCheckJson = 'data/LAJ_017_LAJ_027.json';
+  const noteBroadcaster = createLajNoteBroadcaster(() => ({
+    page: 'overlay',
+    mapId: $('selectOverlay')?.value?.trim() || defaultOverlay,
+    baseId: $('selectBase')?.value?.trim() || defaultBase,
+    overlayId: $('selectOverlay')?.value?.trim() || defaultOverlay,
+    ocrSet: noteOcrSetForMapId($('selectOverlay')?.value?.trim() || defaultOverlay),
+  }));
+
+  function noteOcrSetForMapId(id) {
+    const n = extractLajMapNumber(id);
+    if (n && ['017', '018', '019'].includes(n)) return '017-019';
+    return null;
+  }
+
+  function updateNoteViewerLink() {
+    const id = $('selectOverlay')?.value?.trim() || defaultOverlay;
+    const set = noteOcrSetForMapId(id);
+    $('noteViewerLink').href = set ? `notes-viewer.html?set=${encodeURIComponent(set)}` : 'notes-viewer.html';
+  }
 
   async function loadCandidates() {
     try {
@@ -129,6 +151,12 @@
   const mapOverlay = L.map('mapOverlay', { crs: L.CRS.Simple, center:[0,0], zoom:0,
     zoomControl:false, attributionControl:false
   });
+
+  function focusMapInteraction() {
+    const active = document.activeElement;
+    if (active && typeof active.blur === 'function' && active !== document.body) active.blur();
+    mapBase.getContainer().focus({ preventScroll: true });
+  }
 
   // ベースの動きにオーバーレイを追従
   function syncOverlayView() {
@@ -272,6 +300,11 @@
 
 
   document.addEventListener('keydown', (e) => {
+    if (e.code === 'Escape' && !e.repeat) {
+      e.preventDefault();
+      focusMapInteraction();
+      return;
+    }
     if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
     const s = step();
     if      (e.key === 'ArrowUp')    { e.preventDefault(); adjustOffset(0, -s); }
@@ -287,8 +320,8 @@
     else if (e.key === 'z' || e.key === 'Z') { e.preventDefault(); navigateCheckPoint(-1); }
     else if (e.key === 'x' || e.key === 'X') { e.preventDefault(); navigateCheckPoint(+1); }
     else if (e.code === 'Space') { e.preventDefault(); }
+    else if (e.key === 'Backspace' && e.shiftKey) { e.preventDefault(); $('clearPoints').click(); }
     else if (e.key === 'Backspace') { e.preventDefault(); $('undoPoint').click(); }
-    else if (e.key === 'Escape'){ e.preventDefault(); $('clearPoints').click(); }
     else if (e.key === 'Enter') { e.preventDefault(); $('downloadJson').click(); }
   });
   document.addEventListener('keyup', (e) => {
@@ -440,6 +473,8 @@
 
     // 地図ロード完了後、点チェックが読み込み済みなら先頭点にジャンプ
     if (checkIndex >= 0) goToCheckPoint(checkIndex);
+    updateNoteViewerLink();
+    noteBroadcaster?.publish();
   }
 
   // プルダウン変更で自動読み込み

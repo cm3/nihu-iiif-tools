@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>LAJ 分割ビュー</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      --bg: #e9e5dc;
+      --panel: #f7f4ec;
+      --line: #cfc6b6;
+      --text: #2f2b25;
+    }
+    html, body {
+      margin: 0;
+      height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Hiragino Sans", sans-serif;
+    }
+    body {
+      display: grid;
+      grid-template-rows: auto 1fr;
+      min-height: 100vh;
+    }
+    header {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(247,244,236,0.92);
+      backdrop-filter: blur(8px);
+    }
+    .muted {
+      color: #6c665d;
+      font-size: 0.9rem;
+    }
+    .links {
+      margin-left: auto;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    a {
+      color: #7d371c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    #layout {
+      min-height: 0;
+      display: grid;
+      grid-template-columns: minmax(480px, 1.35fr) minmax(360px, 0.95fr);
+      gap: 8px;
+      padding: 8px;
+      box-sizing: border-box;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      min-height: 0;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: white;
+    }
+    @media (max-width: 1100px) {
+      #layout {
+        grid-template-columns: 1fr;
+        grid-template-rows: minmax(55vh, 1fr) minmax(35vh, 0.8fr);
+      }
+      .links {
+        margin-left: 0;
+      }
+    }
+  </style>
+</head>
+<body tabindex="0">
+  <header>
+    <strong>LAJ 分割ビュー</strong>
+    <span class="muted">左: 地図プレビュー / 右: 注記ビューア</span>
+    <span id="state" class="muted"></span>
+    <div class="links">
+      <a id="openMap" href="calibration-preview.html" target="_blank" rel="noopener">地図を単独で開く</a>
+      <a id="openNotes" href="notes-viewer.html" target="_blank" rel="noopener">注記を単独で開く</a>
+    </div>
+  </header>
+  <div id="layout">
+    <iframe id="mapFrame" title="地図プレビュー" loading="eager"></iframe>
+    <iframe id="notesFrame" title="注記ビューア" loading="eager"></iframe>
+  </div>
+
+  <script>
+    const FORWARDED_KEYS = new Set([
+      'a', 'A', 's', 'S', 'g', 'G', 't', 'T', 'i', 'I', 'm', 'M', 'l', 'L', 'u', 'U',
+      'Shift', 'Escape', ' ',
+    ]);
+
+    function deriveOcrSet(mapId) {
+      const m = String(mapId || '').match(/(\d+)$/);
+      if (!m) return '';
+      const nnn = m[1].padStart(3, '0');
+      if (['017', '018', '019'].includes(nnn)) return '017-019';
+      return '';
+    }
+
+    const params = new URLSearchParams(window.location.search);
+    const mapId = params.get('map') || 'LAJ_017';
+    const ocrSet = params.get('set') || deriveOcrSet(mapId);
+
+    const mapUrl = new URL('calibration-preview.html', window.location.href);
+    mapUrl.searchParams.set('map', mapId);
+
+    const notesUrl = new URL('notes-viewer.html', window.location.href);
+    if (ocrSet) notesUrl.searchParams.set('set', ocrSet);
+    const mapNum = mapId.match(/(\d+)$/)?.[1];
+    if (mapNum) notesUrl.searchParams.set('map', mapNum.padStart(3, '0'));
+
+    document.getElementById('mapFrame').src = mapUrl.toString();
+    document.getElementById('notesFrame').src = notesUrl.toString();
+    document.getElementById('openMap').href = mapUrl.toString();
+    document.getElementById('openNotes').href = notesUrl.toString();
+    document.getElementById('state').textContent = ocrSet ? `${mapId} / OCR set ${ocrSet}` : mapId;
+
+    function shouldForwardKey(e) {
+      if (e.metaKey || e.ctrlKey || e.altKey) return false;
+      return FORWARDED_KEYS.has(e.key);
+    }
+
+    function forwardKeyEvent(type, originalEvent) {
+      const frame = document.getElementById('mapFrame');
+      const doc = frame.contentWindow?.document;
+      if (!doc || !shouldForwardKey(originalEvent)) return false;
+      const evt = new KeyboardEvent(type, {
+        key: originalEvent.key,
+        code: originalEvent.code,
+        location: originalEvent.location,
+        repeat: originalEvent.repeat,
+        shiftKey: originalEvent.shiftKey,
+        bubbles: true,
+        cancelable: true,
+      });
+      return doc.dispatchEvent(evt);
+    }
+
+    document.addEventListener('mousedown', e => {
+      if (e.target === document.body || e.target.closest('header')) {
+        document.body.focus({ preventScroll: true });
+      }
+    });
+
+    document.addEventListener('keydown', e => {
+      if (e.target.closest('a')) return;
+      if (!shouldForwardKey(e)) return;
+      e.preventDefault();
+      forwardKeyEvent('keydown', e);
+      document.getElementById('mapFrame').contentWindow?.focus();
+    });
+
+    document.addEventListener('keyup', e => {
+      if (!shouldForwardKey(e)) return;
+      e.preventDefault();
+      forwardKeyEvent('keyup', e);
+    });
+  </script>
+</body>
+</html>

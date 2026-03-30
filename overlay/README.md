@@ -11,8 +11,10 @@ NIHU IIIF サーバー（`https://iiif.nihu.jp`）の画像を直接参照しま
 overlay/
 ├── overlay.html              # 2枚の地図を重ねて比較するツール
 ├── calibration-preview.html  # GCP ベースのワープ＋OSM オーバーレイ
+├── notes-viewer.html         # 現在地図に対応する注記画像を別タブ表示
 ├── data/
 │   ├── laj_maps.json              # 地図候補リスト（LAJ_001〜LAJ_300, S01〜S06）
+│   ├── laj_note_index.json        # 地図番号 → 注記一覧の対応辞書
 │   ├── 017-mapping.tsv            # LAJ_017 本州系 GCP の統合版（基準データ）
 │   ├── 017-mapping-h1.tsv         # LAJ_017 本州-1 用 GCP
 │   ├── 017-mapping-h2.tsv         # LAJ_017 本州-2 用 GCP
@@ -25,7 +27,9 @@ overlay/
 │   └── NNN-mapping*.tsv           # json-to-mapping.py で自動生成した GCP TSV
 └── scripts/
     ├── csv-to-json.js             # laj_maps.json 生成スクリプト
-    └── json-to-mapping.py         # キャリブレーション JSON → GCP TSV 生成
+    ├── json-to-mapping.py         # キャリブレーション JSON → GCP TSV 生成
+    ├── note-sync.js               # 地図タブと注記タブの BroadcastChannel 連携
+    └── notes-csv-to-json.py       # 注記一覧 CSV → laj_note_index.json
 ```
 
 ---
@@ -87,6 +91,25 @@ GCP（地上基準点）TSV を元に LAJ 地図を **Thin Plate Spline でワ�
 4. スライダーで不透明度を調整
 5. GCP・残差ラインの表示切替が可能
 6. **スペースキー**押下中：右下に凡例を拡大表示（LAJ_017 のみ）
+7. `注記ビューア` を別タブで開くと、現在の地図番号に対応する注記画像一覧が連動表示される
+
+---
+
+## notes-viewer.html
+
+現在の地図番号に対応する注記画像を、別タブで自動更新表示するビューア。
+
+### 使い方
+
+1. `calibration-preview.html` または `overlay.html` を開く
+2. ヘッダの `注記ビューア` を別タブで開く
+3. 地図側で対象地図を切り替えると、`BroadcastChannel` 経由で注記タブが追従する
+
+### 補足
+
+- 対応辞書は `data/laj_note_index.json` を参照する
+- `BroadcastChannel` が使える同一オリジン内タブで動作する
+- 該当注記がない地図番号では「該当注記なし」を表示する
 
 ### 対応地域
 
@@ -150,6 +173,9 @@ python scripts/json-to-mapping.py data/LAJ_017_LAJ_001.json
 
 # LAJ_018 基準で処理する場合
 python scripts/json-to-mapping.py --base-id LAJ_018 data/LAJ_018_LAJ_*.json
+
+# 注記一覧 CSV から地図番号対応辞書を生成
+python scripts/notes-csv-to-json.py
 ```
 
 ### 出力

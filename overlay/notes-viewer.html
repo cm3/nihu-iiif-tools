@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>LAJ 注記ビューア</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      --bg: #f7f5ef;
+      --panel: #fffdf8;
+      --line: #d8d0c0;
+      --text: #2d2a24;
+      --muted: #7b7468;
+      --accent: #8b3f1f;
+      --image-columns: 3;
+      --focus: #d95f02;
+      --focus-bg: rgba(217,95,2,0.12);
+      --image-surface: #d5d5d5;
+    }
+    html, body { margin: 0; background: var(--bg); color: var(--text); font-family: "Hiragino Sans", sans-serif; }
+    body { min-height: 100vh; }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      padding: 12px 16px;
+      background: rgba(247,245,239,0.94);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--line);
+    }
+    .row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+    main { padding: 16px; }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 12px 14px;
+      box-shadow: 0 3px 12px rgba(0,0,0,0.05);
+    }
+    #noteList { display: grid; gap: 16px; }
+    .note-card h2 { margin: 0 0 8px; font-size: 1.05rem; }
+    .meta { color: var(--muted); font-size: 0.92rem; display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px; }
+    .images {
+      display: grid;
+      gap: 12px;
+      grid-template-columns: repeat(var(--image-columns), minmax(0, 1fr));
+      padding: 12px;
+      border: 1px solid #c7c7c7;
+      border-radius: 12px;
+      background:
+        radial-gradient(circle at 18% 22%, rgba(255,255,255,0.22) 0, rgba(255,255,255,0.22) 1px, transparent 1.5px),
+        radial-gradient(circle at 72% 68%, rgba(255,255,255,0.16) 0, rgba(255,255,255,0.16) 1px, transparent 1.5px),
+        linear-gradient(180deg, #d7d7d7 0%, var(--image-surface) 100%);
+      background-size: 24px 24px, 28px 28px, auto;
+    }
+    figure { margin: 0; }
+    .page-figure {
+      padding: 8px;
+      border: 1px solid transparent;
+      border-radius: 10px;
+      transition: background 120ms ease, border-color 120ms ease, box-shadow 120ms ease;
+    }
+    figure img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #f1ede3;
+    }
+    figure figcaption { margin-top: 4px; color: var(--muted); font-size: 0.86rem; }
+    .caption-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .ocr-button {
+      padding: 2px 7px;
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      background: #fff7f1;
+      color: var(--accent);
+      font-size: 0.78rem;
+      cursor: pointer;
+    }
+    a { color: var(--accent); }
+    code { background: #eee7da; padding: 2px 4px; border-radius: 4px; }
+    .muted { color: var(--muted); }
+    .focus-hit {
+      border-color: var(--focus) !important;
+      background: rgba(217,95,2,0.18);
+      box-shadow: 0 0 0 4px rgba(217,95,2,0.28), 0 8px 24px rgba(217,95,2,0.18);
+    }
+    #ocrModal {
+      position: fixed;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      background: rgba(30, 24, 18, 0.55);
+      z-index: 2000;
+      padding: 24px;
+    }
+    #ocrModal.visible { display: flex; }
+    .ocr-modal-card {
+      width: min(920px, calc(100vw - 32px));
+      max-height: calc(100vh - 48px);
+      overflow: auto;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      box-shadow: 0 18px 48px rgba(0,0,0,0.28);
+      padding: 16px;
+    }
+    .ocr-modal-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .ocr-modal-head button {
+      padding: 6px 10px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      cursor: pointer;
+    }
+    #ocrRaw {
+      margin: 0;
+      padding: 12px;
+      background: #2a241e;
+      color: #f6efe5;
+      border-radius: 10px;
+      overflow: auto;
+      font-size: 0.82rem;
+      line-height: 1.45;
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="row">
+    <strong>LAJ 注記ビューア</strong>
+    <span id="currentMap" class="muted">地図待機中</span>
+    <span id="status" class="muted">対応辞書を読み込み中…</span>
+    <label style="margin-left:auto">画像列数
+      <select id="imageColumns">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3" selected>3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+      </select>
+    </label>
+  </div>
+</header>
+<main>
+  <div id="summary" class="panel muted">地図側タブから通知待ちです。</div>
+  <div id="noteList"></div>
+</main>
+<div id="ocrModal">
+  <div class="ocr-modal-card">
+    <div class="ocr-modal-head">
+      <strong id="ocrModalTitle">OCR 生データ</strong>
+      <button id="ocrModalClose" type="button">閉じる</button>
+    </div>
+    <pre id="ocrRaw"></pre>
+  </div>
+</div>
+
+<script src="scripts/iiif-utils.js"></script>
+<script src="scripts/note-sync.js"></script>
+<script>
+const noteIndexUrl = 'data/laj_note_index.json';
+const manifestCache = new Map();
+const ocrPagesCache = new Map();
+let noteIndex = null;
+let activeMapNumber = null;
+let activeLocationNumber = null;
+let activeNoteEntries = [];
+let activeOcrPages = [];
+
+function currentUrl() {
+  return new URL(window.location.href);
+}
+
+function currentHashParams() {
+  const hash = window.location.hash.startsWith('#') ? window.location.hash.slice(1) : window.location.hash;
+  return new URLSearchParams(hash);
+}
+
+function updateViewerUrl({ mapNumber = null, locationNumber = null, ocrSet = undefined } = {}) {
+  const url = currentUrl();
+  if (mapNumber) url.searchParams.set('map', mapNumber);
+  if (ocrSet !== undefined) {
+    if (ocrSet) url.searchParams.set('set', ocrSet);
+    else url.searchParams.delete('set');
+  }
+  if (locationNumber) {
+    const hash = currentHashParams();
+    hash.set('loc', locationNumber);
+    url.hash = hash.toString();
+  } else if (locationNumber === null && currentHashParams().has('loc')) {
+    const hash = currentHashParams();
+    hash.delete('loc');
+    url.hash = hash.toString();
+  }
+  history.replaceState(null, '', url);
+}
+
+function ocrSetFromUrl() {
+  const url = currentUrl();
+  return url.searchParams.get('set');
+}
+
+function ocrPagesUrlFromUrl() {
+  const url = currentUrl();
+  if (url.searchParams.get('ocr')) return url.searchParams.get('ocr');
+  const set = url.searchParams.get('set');
+  if (!set) return null;
+  return `data/note-ocr/${encodeURIComponent(set)}/pages.json`;
+}
+
+function applyImageColumns(value) {
+  const n = Math.max(1, Math.min(6, parseInt(value, 10) || 3));
+  document.documentElement.style.setProperty('--image-columns', String(n));
+  $('imageColumns').value = String(n);
+}
+
+function setStatus(text) {
+  $('status').textContent = text;
+}
+
+function setSummary(html) {
+  $('summary').innerHTML = html;
+}
+
+function openOcrModal(page) {
+  $('ocrModalTitle').textContent = `OCR 生データ: ${page.source_title || page.source_ljc_id || page.source_image}`;
+  $('ocrRaw').textContent = JSON.stringify(page, null, 2);
+  $('ocrModal').classList.add('visible');
+}
+
+function closeOcrModal() {
+  $('ocrModal').classList.remove('visible');
+}
+
+function clearFocusHighlights() {
+  document.querySelectorAll('.focus-hit').forEach(el => el.classList.remove('focus-hit'));
+}
+
+function labelText(label, fallback) {
+  if (!label) return fallback;
+  if (typeof label === 'string') return label;
+  if (Array.isArray(label)) return label[0] || fallback;
+  if (typeof label === 'object') {
+    const first = Object.values(label)[0];
+    if (Array.isArray(first)) return first[0] || fallback;
+    if (typeof first === 'string') return first;
+  }
+  return fallback;
+}
+
+function imageFromBody(body) {
+  if (!body) return null;
+  const service = Array.isArray(body.service) ? body.service[0] : body.service;
+  const serviceId = service?.id || service?.['@id'];
+  if (serviceId) {
+    const base = serviceId.replace(/\/info\.json$/, '').replace(/\/$/, '');
+    return `${base}/full/900,/0/default.jpg`;
+  }
+  const direct = body.id || body['@id'];
+  if (direct && /\.(jpg|jpeg|png|webp)(\?.*)?$/i.test(direct)) return direct;
+  return null;
+}
+
+function imagesFromManifest(manifest) {
+  const canvases = manifest?.items || manifest?.sequences?.[0]?.canvases || [];
+  return canvases.map((canvas, index) => {
+    const thumb = Array.isArray(canvas.thumbnail) ? canvas.thumbnail[0] : canvas.thumbnail;
+    const bodyV3 = canvas?.items?.[0]?.items?.[0]?.body;
+    const bodyV2 = canvas?.images?.[0]?.resource;
+    const src = (thumb && (thumb.id || thumb['@id'])) || imageFromBody(bodyV3) || imageFromBody(bodyV2);
+    const serviceV3 = Array.isArray(bodyV3?.service) ? bodyV3?.service?.[0] : bodyV3?.service;
+    const serviceV2 = Array.isArray(bodyV2?.service) ? bodyV2?.service?.[0] : bodyV2?.service;
+    return {
+      label: labelText(canvas.label, `画像 ${index + 1}`),
+      src,
+      canvasId: canvas?.id || canvas?.['@id'] || null,
+      serviceId: serviceV3?.id || serviceV3?.['@id'] || serviceV2?.id || serviceV2?.['@id'] || null,
+    };
+  }).filter(item => item.src);
+}
+
+async function loadManifest(url) {
+  if (!manifestCache.has(url)) {
+    manifestCache.set(url, fetch(url).then(r => {
+      if (!r.ok) throw new Error(`manifest fetch failed: ${r.status}`);
+      return r.json();
+    }));
+  }
+  return manifestCache.get(url);
+}
+
+function renderImages(container, images, entryPages = []) {
+  if (!images.length) {
+    container.innerHTML = '<p class="muted">画像を抽出できませんでした。</p>';
+    return;
+  }
+  const pagesByServiceId = new Map(entryPages.filter(p => p.source_service_id).map(p => [p.source_service_id, p]));
+  const pagesByCanvasId = new Map(entryPages.filter(p => p.source_canvas_id).map(p => [p.source_canvas_id, p]));
+  container.innerHTML = '';
+  images.forEach(image => {
+    const matchedPage = (image.serviceId && pagesByServiceId.get(image.serviceId))
+      || (image.canvasId && pagesByCanvasId.get(image.canvasId))
+      || null;
+    const figure = document.createElement('figure');
+    figure.className = 'page-figure';
+    if (image.canvasId) figure.dataset.canvasId = image.canvasId;
+    if (image.serviceId) figure.dataset.serviceId = image.serviceId;
+    figure.dataset.canvasLabel = image.label;
+    const img = document.createElement('img');
+    img.loading = 'lazy';
+    img.src = image.src;
+    img.alt = image.label;
+    const figcaption = document.createElement('figcaption');
+    const row = document.createElement('div');
+    row.className = 'caption-row';
+    const label = document.createElement('span');
+    label.textContent = image.label;
+    row.appendChild(label);
+    if (matchedPage) {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'ocr-button';
+      btn.textContent = 'OCR';
+      btn.addEventListener('click', () => openOcrModal(matchedPage));
+      row.appendChild(btn);
+    }
+    figcaption.appendChild(row);
+    figure.appendChild(img);
+    figure.appendChild(figcaption);
+    container.appendChild(figure);
+  });
+}
+
+async function ensureOcrPages() {
+  const ocrPagesUrl = ocrPagesUrlFromUrl();
+  if (!ocrPagesUrl) return [];
+  if (!ocrPagesCache.has(ocrPagesUrl)) {
+    ocrPagesCache.set(ocrPagesUrl, fetch(ocrPagesUrl).then(r => {
+      if (!r.ok) throw new Error(`OCR pages fetch failed: ${r.status}`);
+      return r.json();
+    }));
+  }
+  return ocrPagesCache.get(ocrPagesUrl);
+}
+
+function pagesForEntry(entry, pages) {
+  return pages.filter(page => page.source_ljc_id === entry.ljcId || page.source_manifest === entry.manifestUrl);
+}
+
+function focusLocation(locationNumber) {
+  if (!locationNumber) return;
+  clearFocusHighlights();
+  activeLocationNumber = locationNumber;
+  updateViewerUrl({ locationNumber });
+  const match = activeOcrPages.find(page => (page.location_numbers || []).includes(locationNumber));
+  if (!match) {
+    setSummary(`現在の地図番号 <strong>${activeMapNumber ?? ''}</strong> に対応する注記を表示中。地点番号 <code>${locationNumber}</code> は OCR データで未検出です。`);
+    return;
+  }
+  const card = document.querySelector(`.note-card[data-ljc-id="${CSS.escape(match.source_ljc_id || '')}"]`);
+  const figure = match.source_service_id
+    ? document.querySelector(`.page-figure[data-service-id="${CSS.escape(match.source_service_id)}"]`)
+    : document.querySelector(`.page-figure[data-canvas-id="${CSS.escape(match.source_canvas_id || '')}"]`);
+  if (card) card.classList.add('focus-hit');
+  if (figure) figure.classList.add('focus-hit');
+  (figure || card)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  setSummary(
+    `地点番号 <code>${locationNumber}</code> は <strong>${match.source_title || match.source_ljc_id}</strong> のページ <strong>${match.source_canvas_label || '?'}</strong> にあります。`
+  );
+}
+
+async function renderNoteCard(entry, pages) {
+  const article = document.createElement('article');
+  article.className = 'panel note-card';
+  article.dataset.ljcId = entry.ljcId;
+  const entryPages = pagesForEntry(entry, pages);
+  article.innerHTML = `
+    <h2>${entry.title}</h2>
+    <div class="meta">
+      <span><code>${entry.ljcId}</code></span>
+      <span>質問番号 ${entry.questionNumber}</span>
+      <span>地図番号 ${entry.mapNumbers.join(', ')}</span>
+      <span>カード ${entry.cardCount ?? '?'}枚</span>
+      <span>OCRページ ${entryPages.length}枚</span>
+      <a href="${entry.manifestUrl}" target="_blank" rel="noopener">manifest</a>
+    </div>
+    <div class="images"><p class="muted">画像を読み込み中…</p></div>
+  `;
+  const imagesEl = article.querySelector('.images');
+  try {
+    const manifest = await loadManifest(entry.manifestUrl);
+    renderImages(imagesEl, imagesFromManifest(manifest), entryPages);
+  } catch (e) {
+    imagesEl.innerHTML = `<p class="muted">manifest 読み込み失敗: ${e.message}</p>`;
+  }
+  return article;
+}
+
+async function renderMap(mapNumber, payload = {}) {
+  const previousMapNumber = activeMapNumber;
+  activeMapNumber = mapNumber;
+  if (payload.locationNumber) activeLocationNumber = payload.locationNumber;
+  else if (previousMapNumber && previousMapNumber !== mapNumber) activeLocationNumber = null;
+  updateViewerUrl({ mapNumber, locationNumber: activeLocationNumber, ocrSet: payload.ocrSet });
+  $('currentMap').textContent = `地図 ${mapNumber}`;
+  if (!noteIndex) {
+    setStatus('対応辞書の読み込み待ち…');
+    return;
+  }
+  let ocrPages = [];
+  try {
+    ocrPages = await ensureOcrPages();
+  } catch (e) {
+    setStatus(`OCR データ読み込み失敗: ${e.message}`);
+  }
+  activeOcrPages = ocrPages;
+  const entries = noteIndex.maps?.[mapNumber] || [];
+  activeNoteEntries = entries;
+  const source = payload.page ? ` / 受信元: ${payload.page}` : '';
+  setStatus(entries.length ? `${entries.length}件の注記を表示中${source}` : `該当注記なし${source}`);
+  const ocrState = ocrPagesUrlFromUrl() ? ` / OCR: ${ocrPages.length}ページ` : ' / OCR未指定';
+  setSummary(`現在の地図番号 <strong>${mapNumber}</strong> に対応する注記を表示します。${ocrState}`);
+  const list = $('noteList');
+  list.innerHTML = '';
+  if (!entries.length) {
+    list.innerHTML = '<div class="panel muted">この地図番号に対応する注記は対応辞書に見つかりませんでした。</div>';
+    return;
+  }
+  const cards = await Promise.all(entries.map(entry => renderNoteCard(entry, ocrPages)));
+  if (activeMapNumber !== mapNumber) return;
+  cards.forEach(card => list.appendChild(card));
+  if (activeLocationNumber) focusLocation(activeLocationNumber);
+}
+
+async function init() {
+  applyImageColumns($('imageColumns').value);
+  $('imageColumns').addEventListener('change', e => applyImageColumns(e.target.value));
+  noteIndex = await fetch(noteIndexUrl).then(r => {
+    if (!r.ok) throw new Error(`対応辞書の取得に失敗: ${r.status}`);
+    return r.json();
+  });
+  setStatus(`対応辞書読込済み: ${noteIndex.mapCount}地図`);
+  if (!window.BroadcastChannel) {
+    setSummary('このブラウザでは BroadcastChannel が使えません。');
+    return;
+  }
+  const channel = new BroadcastChannel(LAJ_NOTE_CHANNEL_NAME);
+  channel.addEventListener('message', event => {
+    const data = event.data;
+    if (data?.type !== 'current-map' || !data.mapNumber) return;
+    renderMap(data.mapNumber, data);
+  });
+  const initialUrl = currentUrl();
+  const initialMap = initialUrl.searchParams.get('map');
+  const initialLoc = currentHashParams().get('loc');
+  if (initialLoc) activeLocationNumber = initialLoc;
+  if (initialMap) {
+    renderMap(initialMap, { page: 'url', locationNumber: initialLoc });
+  }
+  channel.postMessage({ type: 'request-current-map' });
+}
+
+$('ocrModalClose').addEventListener('click', closeOcrModal);
+$('ocrModal').addEventListener('click', e => {
+  if (e.target === $('ocrModal')) closeOcrModal();
+});
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape' && $('ocrModal').classList.contains('visible')) closeOcrModal();
+});
+
+init().catch(e => {
+  console.error(e);
+  setStatus(`エラー: ${e.message}`);
+  setSummary('初期化に失敗しました。');
+});
+</script>
+</body>
+</html>

@@ -33,6 +33,7 @@ ENV/
 
 # local working files (not committed)
 _local/
+iiif-image-cache/
 
 # Logs
 log.txt
@@ -51,4 +52,3 @@ log.txt
 .pytest_cache/
 .coverage
 htmlcov/
-

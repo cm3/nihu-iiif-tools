@@ -32,6 +32,29 @@
     }
     #shortcutHint { margin-left: auto; color: #888; font-size: 0.82em; white-space: nowrap; }
     .gcp-tooltip { font-size: 11px; }
+    .survey-label-icon {
+      background: transparent;
+      border: 0;
+      pointer-events: none;
+    }
+    .survey-label {
+      display: inline-block;
+      padding: 1px 5px;
+      border-radius: 4px;
+      border: 1px solid rgba(0,0,0,0.18);
+      background: rgba(255,255,255,0.82);
+      color: #333;
+      font-size: 10px;
+      line-height: 1.25;
+      white-space: nowrap;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.14);
+      transform: translate(6px, -10px);
+    }
+    .survey-label.has-note {
+      background: rgba(227, 255, 246, 0.92);
+      border-color: rgba(10,102,68,0.32);
+      color: #054b33;
+    }
     #legendPanel {
       display: none;
       position: fixed;
@@ -55,6 +78,7 @@
   <div class="row">
     <strong>キャリブレーションプレビュー</strong>
     <select id="selectMap"><option value="">読み込み中…</option></select>
+    <a id="noteViewerLink" href="notes-viewer.html" target="_blank" rel="noopener">注記ビューア</a>
   </div>
   <div class="row">
     <label>方言地図の不透明度</label>
@@ -68,12 +92,13 @@
       <kbd>T</kbd> 三角形メッシュ &nbsp;
       <kbd>I</kbd> メッセージ &nbsp;
       <kbd>M</kbd> 調査地点 &nbsp;
+      <kbd>L</kbd> 地名ラベル &nbsp;
       <kbd>Shift</kbd> 不透明度切替
     </span>
   </div>
 </header>
 <div id="mapWrap">
-  <div id="map"></div>
+  <div id="map" tabindex="0"></div>
   <div id="status">読み込み中…</div>
 </div>
 <div id="legendPanel"><img id="legendImg" src="" alt="凡例"></div>
@@ -83,9 +108,10 @@
 <script src="scripts/tps-warp.js"></script>
 <script src="scripts/warped-image-layer.js"></script>
 <script src="scripts/map-configs.js"></script>
+<script src="scripts/note-sync.js"></script>
 <script>
 // ===== 設定 =====
-const DEFAULT_MAP_ID = 'LAJ_017';
+const DEFAULT_MAP_ID = new URLSearchParams(window.location.search).get('map') || 'LAJ_017';
 window.DEBUG_WARP = true;
 window.__warpCurrentLoadSeq = 0;
 let loadMapSeq = 0;
@@ -153,10 +179,33 @@ const OPACITY_B = 0.3;
 const OPACITY_DURATION = 300;
 let opacityAnim = null;
 const splitAvailability = new Map();
+const noteBroadcaster = createLajNoteBroadcaster(() => ({
+  page: 'calibration-preview',
+  mapId: $('selectMap')?.value || DEFAULT_MAP_ID,
+  ocrSet: noteOcrSetForMapId($('selectMap')?.value || DEFAULT_MAP_ID),
+}));
+
+function noteOcrSetForMapId(id) {
+  const n = extractLajMapNumber(id);
+  if (n && ['017', '018', '019'].includes(n)) return '017-019';
+  return null;
+}
+
+function updateNoteViewerLink() {
+  const id = $('selectMap')?.value || DEFAULT_MAP_ID;
+  const set = noteOcrSetForMapId(id);
+  $('noteViewerLink').href = set ? `notes-viewer.html?set=${encodeURIComponent(set)}` : 'notes-viewer.html';
+}
 
 function isFormTarget(target) {
   const tag = target?.tagName;
   return tag === 'INPUT' || tag === 'SELECT' || tag === 'TEXTAREA';
+}
+
+function focusMapInteraction() {
+  const active = document.activeElement;
+  if (active && typeof active.blur === 'function' && active !== document.body) active.blur();
+  map.getContainer().focus({ preventScroll: true });
 }
 
 function applyOpacity(v) {
@@ -275,7 +324,13 @@ async function resolveMapConfig(id) {
 // ===== 調査地点（M キーで表示） =====
 const surveyRenderer = L.canvas({ padding: 0.5 });
 const surveyLayer    = L.layerGroup();
+const surveyLabelLayer = L.layerGroup();
+const SURVEY_LABEL_MIN_ZOOM = 8;
 let surveyLoaded     = false;
+let surveyPointsData = null;
+const surveyNoteIdsCache = new Map();
+let currentSurveyNoteIds = new Set();
+let surveyLabelsVisible = false;
 
 // 調査地点ホバー用ツールチップ
 // bindTooltip は leaflet-map-pane の stacking context に閉じ込められ
@@ -289,6 +344,107 @@ Object.assign(surveyTipEl.style, {
 map.getContainer().appendChild(surveyTipEl);
 let surveyTipLL = null;
 
+function surveyMarkerStyle(hasNote) {
+  if (hasNote) {
+    return {
+      radius: 5,
+      renderer: surveyRenderer,
+      color: '#0a6',
+      weight: 1.5,
+      fillColor: '#2fd1a3',
+      fillOpacity: 0.9,
+    };
+  }
+  return {
+    radius: 4,
+    renderer: surveyRenderer,
+    color: '#b36',
+    weight: 1,
+    fillColor: '#e06',
+    fillOpacity: 0.7,
+  };
+}
+
+function renderSurveyMarkers() {
+  if (!surveyPointsData) return;
+  surveyLayer.clearLayers();
+  surveyPointsData.forEach(({ lat, lon, id, pref, name, note }) => {
+    const hasNote = currentSurveyNoteIds.has(id);
+    const marker = L.circleMarker([lat, lon], surveyMarkerStyle(hasNote));
+    marker.on('mouseover', e => {
+      surveyTipLL = e.latlng;
+      surveyTipEl.textContent = `${id}　${pref}　${name}${note ? '　' + note : ''}${hasNote ? '　[OCR注記あり]' : ''}`;
+      surveyTipEl.style.display = '';
+      updateSurveyTipPos();
+    });
+    marker.on('mouseout', () => {
+      surveyTipEl.style.display = 'none';
+      surveyTipLL = null;
+    });
+    marker.on('click', () => {
+      noteBroadcaster?.publish({ locationNumber: id });
+    });
+    marker.addTo(surveyLayer);
+  });
+  renderSurveyLabels();
+}
+
+function surveyLabelText(id, name) {
+  return `${id} ${name}`;
+}
+
+function renderSurveyLabels() {
+  surveyLabelLayer.clearLayers();
+  if (!surveyVisible || !surveyLabelsVisible || !surveyPointsData || map.getZoom() < SURVEY_LABEL_MIN_ZOOM) {
+    surveyLabelLayer.remove();
+    return;
+  }
+  const bounds = map.getBounds().pad(0.08);
+  surveyPointsData.forEach(({ lat, lon, id, pref, name }) => {
+    const ll = L.latLng(lat, lon);
+    if (!bounds.contains(ll)) return;
+    const hasNote = currentSurveyNoteIds.has(id);
+    L.marker(ll, {
+      interactive: false,
+      keyboard: false,
+      icon: L.divIcon({
+        className: 'survey-label-icon',
+        html: `<span class="survey-label${hasNote ? ' has-note' : ''}">${surveyLabelText(id, name)}</span>`,
+      }),
+    }).addTo(surveyLabelLayer);
+  });
+  if (!map.hasLayer(surveyLabelLayer)) surveyLabelLayer.addTo(map);
+}
+
+async function noteLocationIdsForMapId(id) {
+  const set = noteOcrSetForMapId(id);
+  if (!set) return new Set();
+  if (surveyNoteIdsCache.has(set)) return surveyNoteIdsCache.get(set);
+  const promise = fetch(`data/note-ocr/${set}/pages.json`)
+    .then(r => {
+      if (!r.ok) throw new Error(`note OCR pages not found for ${set}`);
+      return r.json();
+    })
+    .then(pages => {
+      const ids = new Set();
+      pages.forEach(page => {
+        (page.location_numbers || []).forEach(id => ids.add(id));
+      });
+      return ids;
+    })
+    .catch(err => {
+      console.warn('注記OCR地点一覧の読み込み失敗:', err);
+      return new Set();
+    });
+  surveyNoteIdsCache.set(set, promise);
+  return promise;
+}
+
+async function updateSurveyMarkersForMapId(id) {
+  currentSurveyNoteIds = await noteLocationIdsForMapId(id);
+  renderSurveyMarkers();
+}
+
 function updateSurveyTipPos() {
   if (!surveyTipLL) return;
   const pt = map.latLngToContainerPoint(surveyTipLL);
@@ -296,29 +452,14 @@ function updateSurveyTipPos() {
   surveyTipEl.style.top  = (pt.y - 28) + 'px';
 }
 map.on('move zoom viewreset', updateSurveyTipPos);
+map.on('moveend zoomend viewreset', renderSurveyLabels);
 
 async function ensureSurveyLoaded() {
   if (surveyLoaded) return;
   surveyLoaded = true;
   try {
-    const pts = await fetch('data/survey-points.json').then(r => r.json());
-    pts.forEach(({ lat, lon, id, pref, name, note }) => {
-      const marker = L.circleMarker([lat, lon], {
-        radius: 4, renderer: surveyRenderer,
-        color: '#b36', weight: 1, fillColor: '#e06', fillOpacity: 0.7,
-      });
-      marker.on('mouseover', e => {
-        surveyTipLL = e.latlng;
-        surveyTipEl.textContent = `${id}　${pref}　${name}${note ? '　' + note : ''}`;
-        surveyTipEl.style.display = '';
-        updateSurveyTipPos();
-      });
-      marker.on('mouseout', () => {
-        surveyTipEl.style.display = 'none';
-        surveyTipLL = null;
-      });
-      marker.addTo(surveyLayer);
-    });
+    surveyPointsData = await fetch('data/survey-points.json').then(r => r.json());
+    renderSurveyMarkers();
   } catch (e) {
     console.warn('調査地点の読み込み失敗:', e);
     surveyLoaded = false;
@@ -327,10 +468,36 @@ async function ensureSurveyLoaded() {
 
 let surveyVisible = false;
 function toggleSurvey() {
-  if (surveyVisible) { surveyLayer.remove(); surveyVisible = false; }
-  else { ensureSurveyLoaded().then(() => { surveyLayer.addTo(map); surveyVisible = true; }); }
+  if (surveyVisible) {
+    surveyLayer.remove();
+    surveyLabelLayer.remove();
+    surveyVisible = false;
+    surveyTipEl.style.display = 'none';
+    surveyTipLL = null;
+  } else {
+    ensureSurveyLoaded().then(() => {
+      surveyLayer.addTo(map);
+      surveyVisible = true;
+      renderSurveyLabels();
+    });
+  }
 }
 toggleSurvey();
+
+function toggleSurveyLabels() {
+  surveyLabelsVisible = !surveyLabelsVisible;
+  if (surveyLabelsVisible && !surveyVisible) {
+    ensureSurveyLoaded().then(() => {
+      if (!surveyVisible) {
+        surveyLayer.addTo(map);
+        surveyVisible = true;
+      }
+      renderSurveyLabels();
+    });
+    return;
+  }
+  renderSurveyLabels();
+}
 
 function toggleSplitMode() {
   if (!splitToggleAvailable) return;
@@ -339,8 +506,17 @@ function toggleSplitMode() {
 }
 
 document.addEventListener('keydown', e => {
+  if (e.code === 'Escape' && !e.repeat) {
+    e.preventDefault();
+    focusMapInteraction();
+    return;
+  }
   if (isFormTarget(e.target)) return;
   if (e.code === 'KeyM' && !e.repeat) toggleSurvey();
+  if (e.code === 'KeyL' && !e.repeat) {
+    e.preventDefault();
+    toggleSurveyLabels();
+  }
   if (e.code === 'KeyG' && !e.repeat) {
     e.preventDefault();
     toggleDiagnostics();
@@ -521,6 +697,9 @@ async function loadMap(id, options = {}) {
 
     const summary = config.regions.map((r, i) => `${r.label} ${gcpSets[i].length}点`).join(' / ');
     $('status').textContent = `${summary} のGCPでワープ表示中`;
+    updateNoteViewerLink();
+    updateSurveyMarkersForMapId(id);
+    noteBroadcaster?.publish();
     warpDebug('loadMap:done', {
       seq,
       id,

@@ -1,0 +1,1751 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0747.70",
+      "0779.03",
+      "0840.33",
+      "0896.22",
+      "1699.14",
+      "1706.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-72\n質問番号 地図番号 158 017〜19 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (1)\n項目名 オオキイ\n\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n0747.70 dekkai 〈多〉\nokkii 〈少〉\n\n0779.03 dekai 〈古,多〉\no:kii 〈今,多〉\n\n0840.33 dekkai 〈古〉\nokkii 〈今〉\n\n0896.22 デッカイ、下、      オオキイ\n\n1699.14 オッケ、 デッケとは言わない、\nオッキ、\n\n1706.82 デッカイ〈古〉      オオキイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00272.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00272",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00272.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1708.05",
+      "1739.85",
+      "1745.54",
+      "1754.16",
+      "1755.53",
+      "1756.32",
+      "1762.10",
+      "1763.60",
+      "1770.18"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-73\n資 料 番号 158　地図番号 017～19　項目名 オオキイ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）［］は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n1708.05 dekkai <特別大きい時>　おkii\n1739.85 o'kii <福島の人か、zunaiという人がある。>\n1745.54 デッカイ (特別に大きいもの)　オオキイ\n1754.16 デッカイ (差がはげしい時)　オオキイ\n1755.53 デッカイ (とびぬけて大きい時)　オオキイ\n1756.32 オオキイ〈くよほど大きいものに言う〉　デカイ\n1762.10 デッカイ <少し>　オッキイ\n1763.60 オッキイ <多>　デッカイ\n1770.18 デッカイ・・・〈魚には、デッカイ魚丸、というか、オッケ　普通は大きい。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00273.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00273",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00273.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "1770.18",
+      "1786.13",
+      "1791.33",
+      "1848.24",
+      "1854.24",
+      "2619.28",
+      "2700.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-74\n質問番号 地図番号 158 017〜19 項目名 オオキイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) (3)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nオオキイ（普通）\nデッカイ＜魚には、一魚だというが、普通は大きい。＞\nオッケ\n\nデッカイ＜巨大な意味を含めて＞　オキイ\nデッカイ（少）　オオキイ\no:kii＜多＞　dekai (dekkai)\ndekai＜少＞　o:kii\nケッケー　特に大きいもの　オッキ\nデッカイ＜希＞　ホッキイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00274.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00274",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00274.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2712.33",
+      "2722.67",
+      "2750.43",
+      "2751.10",
+      "4597.66",
+      "4597.72",
+      "4598.33",
+      "4628.28",
+      "4629.43",
+      "3704.42",
+      "3781.49"
+    ],
+    "other_text": "3704.42 dekoi\n3781.49 okki, okkeに近い\n\n日本言語地図資料用紙 注記一覧 2-75\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n資料番号 地区番号\n158 017～19\n項目名 オオキイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語)\n(4)\n\n地点番号欄見出し: 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形【B・C 残した語形とその注】\n\nデッカイ <非常に大きい>    オッキイ\nデッカイ (子供の頃使った。今でも子供は使う。)    オッキイ\nデッケ <古>    オッキ\nオッキタ <上>    デッカイ\nデッカイ, (イカイ＝沢山)\ndekai <新>    ikai\ndekai <下>\nde kkai <被調査者が普通に使う>\nfuutte (大きいも、身丈の高いのも)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00275.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00275",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00275.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4638.22",
+      "4663.49",
+      "4663.92",
+      "4666.17",
+      "4678.71",
+      "4687.37",
+      "4689.62",
+      "4648.59",
+      "4688.45"
+    ],
+    "other_text": "4648.59 oki: 4688.45 o:kee: dzune: 日本言語地図資料用紙注記一覧 2-76 資問番号 地図番号 158 012219 項目名 オオキイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] (5) A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の<>()[]は厳密にする。 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） フッテというそうである。 4638.22 Emutte <古>, o:ke: ... e は非常に狭い e o:ke 4663.49 o:ki: (φute: は大い意) 4663.92 o:ki <というと子どもらしい感じ> 亜uttoi 4666.17 Emutte: {古} o:ki: 4678.71 dekke: [新] okk(φ)i: 4687.37 okki: (これが常の言い方だろう) dekkæ -「外に言い方」はありませんか に対する答え。 o:ki: 4689.62 o:kki: <dzune は特に大きい。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00276.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00276",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00276.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4689.86",
+      "4694.26",
+      "4699.07",
+      "4700.78",
+      "4713.02",
+      "4716.20",
+      "4695.21",
+      "4711.41",
+      "4711.82"
+    ],
+    "other_text": "4695.21  deke\n4711.41  Lokkşi:? \n4711.82  okke? 半長 e をみて OKKEE に入れる\n\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 2-77\n資料番号 158  地図番号 017〜19\n項目名 オオキイ\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (6)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\ndekke:(dekkae)    o:kki:; dekke: は\ndzune:(dzunae)    同じ. >\n\n4689.86  ziünaï <古>    o:kşi:\n4694.26  o:ki: <多>    dekke:\n4699.07  dekke: <普通>\n4700.78  okkji <古>    o:gii\n4713.02  okke <古>    o:ki::\n4716.20  dekkae <古> <特に魚をとったとき、その魚を形容して言うときにだけ使った>    o:gi:\n\n特に魚をとったとき、その魚を形容して言うときにだけ使った.\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00277.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00277",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00277.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4732.86",
+      "4761.57",
+      "4762.56",
+      "4771.58",
+      "4772.48",
+      "4781.86",
+      "4721.36",
+      "4725.92",
+      "4731.42",
+      "4743.95",
+      "4760.64"
+    ],
+    "other_text": "4721.36 Lo:kiv], [okke]\n4725.92 o:kke\n4731.42 (crossed out)\n4743.95 o:kki:\n4760.64 Lokksi?\n\n日本言語地図資料用紙 注記一覧 2-78\n質問番号 158   地図番号 817〜19\n項目名 オオキイ\n(A) 普通注記  (B) 除いた共通語  (C) 除いた特殊語  ページ (9)\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n4732.86   okke <古>                                   okki\n4761.57   dzünai <労?>                                o:ki:\n4762.56   deke: <ぞんざーい>\n          dzüne: <　\"　>\n          dzünne: <　\"　>\n4771.58   okki: (dzünnae は特に大きい\n          dzunae 場合, okki:, degae は\n          degae 全く同じ)\n4772.48   o:gi: <少>                                  dzunae\n4781.86   okki: <okki:, degae は同じよ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00278.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00278",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00278.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4782.96",
+      "4790.74",
+      "5472.91",
+      "5499.98",
+      "4783.74"
+    ],
+    "other_text": "4783.74 *okki:\n日本言語地図資料利用紙 注記一覧    2-79\n資料番号 158   地図番号 012-19   A 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (8)\n項目名 オオキイ\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\ndegae うに使う。dzunaeはすまに大き\ndzunae い場合に使う>\n\n4782.96  dziine: 〈昔から使う〉\n         o:ki: 〈これも使う〉\n\n4790.74  degae. {〈非常に大きいという意に\n         dzunae〉 使う}\n         o:ki:\n\n5472.91  o:kena〈多〉        Φte:\n\n5499.98  オーケー。て〜ぬいな発音では o- oke (オオケ) であるが、\n         一般には オーケーである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00279.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00279",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00279.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5557.48",
+      "5566.95",
+      "5568.57",
+      "5586.56",
+      "5586.70",
+      "5588.78",
+      "5595.89",
+      "5603.35",
+      "5606.83",
+      "5574.84",
+      "5575.93",
+      "5585.09",
+      "5604.65"
+    ],
+    "other_text": "5574.84 ikai\n5575.93 Ikai\n5585.09 ikai\n5604.65 デッカエ , カエはKに近い\n\n日本言語地図資料用紙 注記一覧 2-80\n資料番号 158 017219\n項目名 オオキイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) (9)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n5557.48  ikai <古>\n       dakai <新> -- DEKAI に成っている\n5566.95  イイカエ <古>\n5568.57  ドォデカイ（非常に大きい、という意）\n5586.56  ikai <多>\n5586.70  ikai <多>\n5588.78  デカイ <幼>\n5595.89  ドイカイ <非常に大きい>\n5603.35  dekai <下>  o:ki\n5666.83  dekkoe 多。  dekkae",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00280.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00280",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00280.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5611.39",
+      "5613.53",
+      "5614.68",
+      "5618.43",
+      "5619.67",
+      "5623.27",
+      "5625.91",
+      "5612.39",
+      "5614.24"
+    ],
+    "other_text": "(handwritten, top margin) 5612.39 5613.57 (crossed) 5614.24 56 22.48\nオオキ\noki:〈共〉\ndekke: - 「外に言い方はありませんか」に対する返\ndekke: 半長音とみる\n日本語語彙資料用紙 注記一覧 2-81\n質問番号 地図番号 158 017〜19\n項目名 オオキイ\n(printed bullets) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >〈〉〔〕は厳密にする。\n(表の見出し) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n5611.39    dekae 〈今も相当使う〉\n5613.53.   oki: 〈共〉\n5614.68.   dekkae 〈子〉\n5618.43.   dzunnae 〈特に大きい〉\n5619.67    ズナイ 〈古〉 o:ki:\n5623.27    dekai 〔〈dekai〈古〉〉〕\n5625.91    o:ki: 〈家庭内でも共通語場面でも何れも使う〉\ndekae 〈古くも今も使う〉 [dekkae]\n(right column notes) o:ki: 〈新〉 (crossed)\ndekke\notke:\n(footer/other small handwritten) dekke",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00281.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00281",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00281.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5629.17",
+      "5629.98",
+      "5632.28",
+      "5638.67",
+      "5639.13",
+      "5641.99"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞＜（）[]は厳密にする。 日本官話地区資料用紙 注記一覧 2-82 資料番号 158 地図番号 012719 項目名 オオキイ 通注記 A [B 除いた共通語] [C 除いた特殊語] (1) 地点番号欄省略 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] オオキイ <多> デッカイ デカイ <古> okii <新> dekkai <このことばの方が悪い> デカイ [古] 子供の時、使った オオキイ． デッカイ [古] デカイ <雑に言う時使う> オオキイ o:ki: <普通> de(ck)ke: -> 図19では dekke: に分類し、TOK シルス",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00282.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00282",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00282.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5644.74",
+      "5648.53",
+      "5648.96",
+      "5652.22",
+      "5655.41",
+      "5655.57",
+      "5657.73",
+      "5658.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-83\n資問番号 地図番号 158 017~19 (A)普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2)\n項目名 オオキイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n\n地点番号  A 語形とその注記（B・C除いた語形とその注）  A 注のない語形（B・C残した語形とその注）\n5644.74  デケエ <共>\n         デッカイく共>\n5648.53  デカイ <古>                         オオキイ\n5648.96  デカイ…普通の言い方                イカイ\n5652.22  dekke: <俗に言うことば>             o:ki:\n5655.41  デカイ <多>                          オオキイ\n5655.57  デッケエ <異>\n5657.73  オオキイ（共）                      オオキイ\n5658.07  オオキイ <ろく使う>                 \n         デッカイ <この方が: 大きい感じがする>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00283.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00283",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00283.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5659.46",
+      "5666.10",
+      "5666.18",
+      "5666.22",
+      "5667.24",
+      "5667.41",
+      "5667.81",
+      "5668.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-84\n質問番号 地図番号\n158 017219\n項目名 オオキイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(13)\n\n地点番号 | A語形とその注記 [B・C除いた語形とその注] | A注のない語形 [B・C 残した語形とその注]\n\nイカイ…普通の言い方\nデカイ…特別に大きい時使う\nオオキイ、デカイ、デッカイ\n\nデケェ〈下〉\n\nデッカイ〈下〉\nオオキイ\n\nデッカイ〈児〉\nオオキイ\n\nデッカイ〈多〉\n.\n\nデカイ〈古〉\nオオキイ、オッキイ\n\nデケエ〈多〉\nデカイ\n\nデカイ…普通の言い方\nオオキイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00284.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00284",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00284.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5670.47",
+      "5674.06",
+      "5675.87",
+      "5676.10",
+      "5676.84",
+      "5677.28",
+      "5677.60",
+      "5678.33",
+      "5678.59",
+      "5679.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）は厳密にする。 日本言語地図資料用紙 注記一覧 2-85 質問番号 地図番号 158 017~19 項目名 オオキイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] (14) 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] dekkai 〈この方がふつうに使う〉　　　o:ki: デッケエ 〈多〉　　　　オオキイ デケェ …普通　　　　オオキイ dekai 〈希〉　　　　o:ki: デッカイ 〈普〉　　　　オオキイ デカイ 〈普通〉　　　　デッ、カイ オオキイ 〈め〉　　　　デッカイ デカイ 〈普〉　　　　オオキイ dekka i 〈古〉　　　　o:ki: o:k+i: , dekkae　(3)(荒)degae",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00285.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00285",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00285.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5681.47",
+      "5684.11",
+      "5684.26",
+      "5686.15",
+      "5686.31",
+      "5687.32",
+      "5680.34"
+    ],
+    "other_text": "5680.34 deke: , II デゲ, デッケ\n\n日本言語地図資料用紙 注記一覧 2-86\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n\n(枠内) 質問番号 258 地図番号 017219\n項目名 オオキイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (45)\n\n(表ヘッダ) A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\no:ki: <物によって dekaiと言ったり dekai o:ki:と言ったりする>\no:kii <共>    (右欄) eke:, deke:\ndekai (leke:とも言っているはず)\no:ki: <多>    (右欄) dekai\ndekai, dekkai, (ズナイ, スネー)\nde ke:, dekke:, <蛇の大きさをいう時使う>\nデッカイ <普通>    オオキイ\n(次の159〜162と系統するようだ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00286.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00286",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00286.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5687.60",
+      "5688.01",
+      "5689.43",
+      "5696.68",
+      "5697.53",
+      "5698.19",
+      "5698.91"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　2-87\n• A・[B]・[C]ごとに別紙を使用する。\n• その中での情報は地点番号順に並べる。\n• 注記の＜＞［］は厳密にする。\n\n質問番号　地図番号　158 012119\n項目名　オオキイ\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (16)\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C 残した語形とその注）\n5687.60　　デカイ〈普〉　　　　　　　　　　　　　　　　オオキイ\n5688.01　　デカイ〈普〉　　　　　　　　　　　　　　　　オオキイ\n5689.43　　dekkai〈普通〉　ikai〈希〉（目幼会話の中では、被説明者が使っていた。）　　okkii:\n\n5696.68　　dekai　〈多〉\n　　　　　deke:　〈下〉\n5697.53　　dekai　〈古〉　　　　　　　　　　　　　　　o:ki:\n5698.19　　dekai　〈下〉\n5698.91　　dekai〈多〉, deke:〈サ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00287.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00287",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00287.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5703.03",
+      "5703.70",
+      "5710.29",
+      "5710.84",
+      "5712.17",
+      "5712.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-88\n質問番号 158 地図番号 017219\n項目名 オオキイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (47)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\ndzünaɪ (<多>)                                  okki\no:ki: <dekkae は越後…>  okki: それなが使う. dzunne: dzanne: は特に大きい.>\ndeke: … 図19では deke: で 分類, Tok シルス           o:ki:\nデカイ <古>／ズナイ <古>                           オオキイ\no:ki: <多>                                        dzünne:\no:ki: [dekke <多>]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00288.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00288",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00288.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5720.34",
+      "5722.37",
+      "5730.57",
+      "5741.25",
+      "5750.31",
+      "5750.8",
+      "5741.66"
+    ],
+    "other_text": "5741.66  eke: , cf.162\n日本言語地図資料用紙 注記一覧 2-89\n質問番号 地図番号 158 017/19\n項目名 オオキイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  (18)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n[ dzüne: / 変味上\n  o:ki: / 足別引し ]\n\n5720.34  デカイ … 普通の言い方                オオキイ\n5722.37  dege <く古>\n         dzune: <古>                         okke:\n5730.57  イカイク <普通の言い方>\n5741.25  deke: <多少>\n         o:ti: <希>                          eke:\n5750.31  イガイ … 普通の言い方                 オオギイ\n5750.80  オオキイ <昔はデカイを多く使った。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00289.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00289",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00289.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5752.94",
+      "5760.24",
+      "5782.25",
+      "5782.94",
+      "5782.19",
+      "5791.23",
+      "5791.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は略称にする。\n\n日本言語地図資料用紙注記一覧　2-90\n質問番号　地図番号\n158　012219\n項目名　オオキイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(19)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n(手書き)\nもデカイ 今は同程度に使う。>\nイカイ… ＜時に使用する。＞\n\n5752.94　語 dekkai <昔>　 o:ki:\n5760.24　deke: <タ>　 eg e:\n5782.25　dekae <非常に大きくておどろいた時>　 o:ki:\n5782.94　eke: <サ>　 o:ki:\n5782.19　eye: <タ> , dekke: <タ>\n5791.23　dekke: <非常に大きい時は>　egai\n　　dekke: と答えか?\n5791.68　ike・<古>\n\n(右欄に o:ki: / eg e: 等のメモ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00290.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00290",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00290.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5792.62",
+      "6287.71",
+      "6348.71",
+      "6349.80",
+      "6384.25",
+      "6413.29",
+      "6419.09",
+      "6439.77",
+      "6442.84",
+      "5792.02",
+      "5793.20",
+      "6395.61",
+      "6436.98",
+      "6442.08"
+    ],
+    "other_text": "5792.02  ėke:; éはすれしe\n5793.20  ėke:; éは非常に狭いe, eはやや広い\n6395.61  ika e ① o:ki:\n6436.98  オケエ\n6442.08  o:ke: o:ke:~o:kel\n\n日本言語地図資料用紙 注記一覧  2-91\n(枠内)  資問番号   地区番号\n158   0172-19\n項目名  オオキイ\nページ (20)\n\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）は厳密にする。\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\nikai ＜古＞\no:ki:（古くかりある）\nイカイ＜古＞\no:ki: ＜多＞\nikai ＜自然＞\nφutoi ＜多＞\nφutoi ＜古＞\nオオケエ ＜古＞\nオオキョイ ＜昔はこの字多し＞\nデッカイ＜非常に大きい＞\n\n右欄手書き注記:\no:ki:\nFutoi, Fgte:\nオオケナ\nφutoi\no:ki:\no:ki:\nオオキイ\nオオキナ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00291.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00291",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00291.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6448.61",
+      "6455.62",
+      "6456.57",
+      "6457.18",
+      "6457.61",
+      "6469.19",
+      "6470.11",
+      "6479.57",
+      "6484.43",
+      "6456.23",
+      "6466.41"
+    ],
+    "other_text": "6456.23　オケエ\n6466.41　オケエ\n\n日本言語地図資料用紙注記一覧　2-92\n質問番号　158　地図番号　017219　A 普通注記　ページ (21)\n項目名　オオキイ\n[B] 除いた共通語　[C] 除いた特殊語\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）[]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nオオケエ　<古>\nオオキイ　<オオケエという人もある>\nオオケエ　(普通)　　オオキイ\nデカイ　<非常に大きい>\nゴツイ　<古>\no:ke:　<古>　　o:ki:\nオッケエ　<古>　　オッキイ\nphutoi　<古>　　o:ki:\ngotsui　特別に大きければ?　　okkjoi\nオッキョイ　<希>　　オオケナ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00292.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00292",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00292.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6485.14",
+      "6485.30",
+      "6486.93",
+      "6492.6",
+      "6494.21",
+      "6495.18"
+    ],
+    "other_text": "6495.18 okena> (連体形としてしか聞きんせまかった,) o:kena?\n日本言語地図資料用紙 注記一覧    2-93\n資料番号 158    地図番号 012219\n項目名 オオキイ    (22)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくく( )[ ]は厳密にする。\n\n地点番号    A語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n6485.14  オッキョイ <古>\n6485.30  オッキョイ <宴会の席で: 料理の魚の大きいところをとって、オッキョイトユニスワレ、などと言ったものである。>\n\n6486.93  オッキョイ <希>    オオキイ\n6492.60  o:ki: <多?>    o:kei, Futoi\n6494.21  オッケナイ (但し、オッケナという副詞形の方が多く使われるらしい。)    オッキョイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00293.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00293",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00293.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6497.77",
+      "6501.92",
+      "6506.03",
+      "6506.55",
+      "6507.98",
+      "6571.33",
+      "6572.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-94\n\n質問番号 地図番号 158 617219\n項目名 オオキイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (23)\n\n地点番号 | A 語形とその注記 (B・C除いた語形とその注) | A 注のない語形 (B・C 残した語形とその注）\n\ntejikoi <巨大の意・他>      o:ki:\nオキー。 (オッキー、オーキーとはまらぬ)\nドイカイ <大そう大きいこと>    イカイ\nデカイ <稀>\nオオキイ <二つのものを比較した場合>\nドエライ その差がはなはだしく、一方が大きい場合、大きい方のものをドエライと言う。>\n\nオキイ <多>    オオキイ\nikai <古>    oo ki:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00294.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00294",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00294.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6577.7",
+      "6519.67",
+      "6525.30",
+      "6529.23",
+      "6529.63",
+      "6532.30",
+      "6532.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-95\n(No.) 資問番号 158 地図番号 017/19 項目名 オオキイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語]\n\n地 点 番 号   A 語形とその注記 [B・C除いた語形とその注]\n6577.70    デケァ <希>                      オオキイ\n6519.67    デカイ <古、希>                 オオキイ\n6525.30    ikai <昔>                        o:kii\n6529.23    okki: <多い、土くさい感じがする>\n           oki: <ごく普通に使う>\n6529.63    dekai <新>                       ikai\n6532.30    オッキイ <タフ>    注記入      オオキイ、ゴツイ\n           36-5-264付け、はがきで訂正あり。\n6532.93    オーキイ。ていねいな発音ではオオキイと２重母音となるが、一般にはオーキイ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00295.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00295",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00295.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6533.31",
+      "6534.37",
+      "6540.52",
+      "6541.52",
+      "6542.27",
+      "6542.32",
+      "6543.56",
+      "6544.26",
+      "6551.77",
+      "6550.96",
+      "6557.36"
+    ],
+    "other_text": "6550.96 オオキイーく主にこの方(?)  6557.36 [o:ki:]\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　） は厳密にする。\n日本言語地図資料用紙注記一覧 2-96\n質問番号 158  地図番号 012~19  項目名 オオキイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (25)\n地点番号  A 語形とその注記（B・C除いた語形とその注）  A 注のない語形（B・C 残した語形とその注）\n6533.31  イッカイ <希>    オオキイ\n6534.37  o:kii  <イカイは「多」の意>    オオキイ\n6540.52  デッカイ <希>    オオキイ\n6541.52  オッキイ <古>    オオキイ\n6542.27  イッカイ <やや古>    オッキイ, オオキイ\n6542.32  オオキイ <多>    オッキイ\n6543.56  イカイ <古>    オオキイ\n6544.26  ikai 多.    okki:\n6551.77  okki: <共>  gottsui <普>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00296.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00296",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00296.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6553.47",
+      "6558.09",
+      "6561.49",
+      "6563.83",
+      "6564.51",
+      "6565.17"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n日本言語地図資料用紙注記一覧 2-97\n質問番号 158  地図番号 017〜019\n項目名 オオキイ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  (26)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n6553.47  okki ＜ふつう＞\ngottsui ＜少＞ 下品\ndoterai ＜非常に大きい意＞\n6558.09  dekke: ＜古＞＜希＞＜強調をした場合＞  o:ki:\n6561.49  デッカイ ＜非常に大きい時＞  オッキイ\n6563.83  okki ＜多＞\n6564.51  okki （どちらも使う。もちろん、非常）\ndoirai に大きい、暑にも用いる。\ndekai ＜稀＞\n6565.17  okki: ＜普通＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00297.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00297",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00297.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6571.15",
+      "6571.63",
+      "6572.97",
+      "6574.06",
+      "6582.12",
+      "6583.19",
+      "6584.90",
+      "6601.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本語言語地図資料用紙注記一覧    2-98\n質問番号 158  地図番号 012419\n項目名 オオキイ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (27)\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6571.15  コッツイく〈非常に大きい〉    オッキイ\n6571.63  o:ki: 〈希〉    o:kki:\n6572.97  gottsui 〈総称的に大きいもの、太いものをいう。小さいもの、細かいものはせつび?と言う。〉    okki\n6574.06  okki 〈多〉    o:ki\n6582.12  オキ 〈くずれた言い方〉    オキイ\n6583.19  gottsui (非常に大きい場合に言う)    o:ki\n6584.90  oki: 〈多〉    o:ki:\n6601.93  dekai 〈倍に〉    o:ki:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00298.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00298",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00298.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6602.62",
+      "6607.67",
+      "6610.00",
+      "6617.15",
+      "6617.99",
+      "6623.53",
+      "6624.13",
+      "6624.65",
+      "6604.98",
+      "6606.38"
+    ],
+    "other_text": "6604.98 デキィィ (dki:と発音する) 6606.38 o:ki: [dekai]とも (このアクセントの型は個人的なものか?)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 3-1\n質問番号 地図番号 項目名 オオキイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (28)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\ndekzi 〈普通〉はこのことばが多い　　　o:ji:\ndekai 〈よく使いことば〉　　　　　　o:ki:\nドデカイ 〈卑〉×〈特別大きい場合に語〉　デカイ\nデッケェ 〈普通〉　　　　　　　　　　オッケェ\ndekkai … 非常に大きい場合。　　　　　o:ki:\nikai 〈巨大なとき〉　　　　　　　　　o:ki:\ndekai - 非常に大きいこと、　　　　　 o:ki:\nikai 、古。\nikai / dekai 同じ程度に使う。 大きさの度は良い。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00301.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00301",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00301.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6625.17",
+      "6626.06",
+      "6626.30",
+      "6631.60",
+      "6633.33",
+      "6633.89",
+      "6635.54",
+      "6635.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-2\n質問番号 158 地図番号 017〜19\n項目名 オオキイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (29)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\ndekae: - かなり大きいとき\nde'kæ: - 非常に大きい時\ndekkai ＜特に大きいのを言う＞\ndekai ＜昔＞\ndekai - 特に大きい時\nikai - 多く使う\ndodekai - 特に大きなとき\nde'kai 甲\ndodekæ - 特に大きなとき\nde'kai , de'kai の反対語は ti:sai\n\n右欄（注のない語形等）: ikæ:  o:ki:  o:ki:  o:ki:  dekai  j'kai, dodekai  dekææ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00302.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00302",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00302.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6641.43",
+      "6641.97",
+      "6643.72",
+      "6645.37",
+      "6645.62",
+      "6646.23",
+      "6650.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-3\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n資料番号 158    地図番号 017219\n項目名 オオキイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] (30ページ)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6641.43    dekai  <く?>\n           dodekai  <特に大きなとき>\n           o:ki:\n           dekai は使わない\n\n6641.97    dodekai - 特に大きいこと。\n           o:ki:\n\n6643.72    dodekai - 特に大きい時\n           ikai, dekai\n\n6645.37    de'kai <巨大のもの>\n           ikai\n\n6645.62    ika e . IKAIに分類\n           de'kae\n\n6646.23    de'kea <巨大の時>\n           o:ki:\n\n6650.94    dekai - 巨大の時\n           o:ki:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00303.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00303",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00303.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6652.06",
+      "6653.30",
+      "6655.57",
+      "6655.87",
+      "6655.97",
+      "6667.81",
+      "6697.39",
+      "6697.49",
+      "6697.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　3-4\n\n質問番号　地図番号\n158 017219\n項目名　オオキイ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (3)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ndoikazi - 特に大きなとき、\t\tikai\n\ndoikazi - 特に巨大なときに言う\t\tikai\n\nde'kai <卵?>\t\tikai\n\nde ke: <特に大ききもののとき>\t\tike:\n\nde'kai … 巨大の意にも使う\t\to:ki:\n\ndoerai - 巨大なものに言う\t\tikai\n\nwo:ki:\t, ikaiとは言わない\n\nikai <普通に使うことば>\n\nokki: <最近のことば>\t\tikai\n\nikac <古>\t\tokki:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00304.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00304",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00304.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6698.20",
+      "6700.98",
+      "6711.60",
+      "6721.33",
+      "6730.33",
+      "7303.29",
+      "7239.24"
+    ],
+    "other_text": "7239.24 [futoka]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 3-5\n質問番号 158 地図番号 017〜19\n項目名 オオキイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (32)\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n6698.20    dekkai <普通に使うことば>\n           okki: <普通に使うことば>\n           ikai <古>\n           dekai <新>\n6700.98    ikke <普通>\n6711.60    okki: <希>    o:ki:\n6721.33    ike: <海岸の近くの人達がよく使う>    o:ki:, okki:\n6730.33    o:ki: , 左記よりも促音化して [okki:] と言う方がさらに大きい感じ。\n7303.29    futoi (昔)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00305.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00305",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00305.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7303.37",
+      "7309.61",
+      "7321.93",
+      "7322.21",
+      "7323.84",
+      "7324.24",
+      "7324.96",
+      "7326.41",
+      "7332.46"
+    ],
+    "other_text": "futoi (自然会話中で)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n日本言語地図資料用紙注記一覧 3-6\n質問番号 地図番号 158 617219\n項目名 オオキイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (33)\n（表ヘッダ） 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\nfutoi (但し、少し)    o:kii\no:kei <この方が古い>    Futoi\nフトイ (普)\nφutoi [古]    o:ki:\nok:ii (o:ki:にあらず)    futoi\nok:ii (o:ki:では多い)    Eutoi / futoi\nfutoi (上品なことば)    o:kii\nEu:ti: <多>    okki:\no:kii (多い)\nfutoi (少)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00306.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00306",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00306.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "2338.55",
+      "7339.27",
+      "7355.81",
+      "7359.78",
+      "7365.67",
+      "7366.87",
+      "7372.27",
+      "7374.15",
+      "7377.72",
+      "7343.76",
+      "7375.01",
+      "7375.96"
+    ],
+    "other_text": "7339.27 o:ke: (普通には o:ke-na という) o:kena <くろ>\n7343.76 okine: , 大きさをあは okine:ne:\n7375.01 Futswi: (Futji:と Futswi との中間の様な語音)\n7375.96 okkene: ë..説明書\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n\n質問番号 158 地区番号 017219\n項目名 オオキイ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (34)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n2338.55 Futoi <新>  ->  okei\n7339.27 o:ke-na <多>    o:ke:\n7355.81 okki: <オッキイという方が普通>    futsi:\n7359.78 Fuutoi <古>    φtoi:\n7365.67 o:ki: <多>    φtoi:\n7366.87 okki: <多>    重ゑtsi:\n7372.27 フェェ <親近語>  フトカ <上>\n7374.15 フトカ <新>    フテエ\n7377.72 okken (しれだ、これは非常に大きい)  Futsi:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00307.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00307",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00307.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7383.98",
+      "7394.60",
+      "7396.16",
+      "7403.16",
+      "7412.31",
+      "7385.38",
+      "7385.61",
+      "7386.55",
+      "2386.56",
+      "7395.09"
+    ],
+    "other_text": "7385.38 7385.61 7386.55 2386.56 ►その中での情報は地点番号で記すべし ►7395.09 注記の<>()[]は厳格にしない (handwriting)\n日本言語地図資料用紙 注記一覧 3-8\n質問番号 158 地図番号 017-19\n項目 (オオキイ?) ページ (35)\n地点番号 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注)\n場合に言うようである。\n7383.98 フトイ <共>  フトカ\n7394.60 フトカ <フテエという人もいるが、これは宮崎の椎葉あたりのことばであろう>\n7396.16 Eutsi: (互utj:ではない)\n7403.16 Futo i (人とその体の大きいのにも使う) こともかつ成長したのを Futo:nat:2 n2:という.)\n7412.31 o:kina (終止形 o:kii に当たるところ)\n(手書き注記や読みの試案が多数あり、一部判読困難)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00308.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00308",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00308.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7395.63"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< [] は厳密にする。\n\n日本言語地図資料用紙 注記一覧    3-9\n資料番号 158.   地図番号 0172019\n（A） 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語  (35)\n項目名　オオギイ\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n7395.63.    Eutsu; (オイ連母音にはu:が対応する。\nウイ連母音も同じくu:が対応する。\n日向方言は、オイ、ウイ共に:i:と転化するのが一般である。)\n\n83.35.11    okkene",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00309.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00309",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00309.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7427.90",
+      "7431.13",
+      "7432.95",
+      "7436.68",
+      "7570.18",
+      "7514.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-10\n質問番号 158 地図番号 017219\n項目名 オオキイ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  (36)\n\ne. o:kinaという言い方をするのは、県内で相当広い地域に及ぶ。)  kire:na )\n\n7427.90  okkjui 〈古〉\n    o:ki: , futoi\n7431.13  o:kena2  ((普通に言う>と言っていた)\n    Futo i\n7432.95  futoi 〈多〉\n7436.68  ok:joi. 音はオッキョイを多く使ね\n    Futo i\n7570.18  オッキイ 〈程度のひどい時、強調した言い方〉\n    オキイ\n7514.21  kusodai 〈下〉\n    da'irokuna\n    (da'irokunahako (大きな箱)のように使用するらしい)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00310.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00310",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00310.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7521.16",
+      "8302.91",
+      "8313.84",
+      "8325.56",
+      "8345.74",
+      "8363.51",
+      "0228.96",
+      "0275.97",
+      "8306.42",
+      "8316.20",
+      "8323.59",
+      "8324.83",
+      "8325.03"
+    ],
+    "other_text": "8306.42 ϕutsi: (亜utsi:と表記するのかもしれない)\n8316.20 Futi:\n8323.59 Fute. (単独にとりだしていうので・半長音が附くと思う)\nFutji. われる。以下163まで同じ。\n8324.83 Eutsi: (亜utsiではなく、亜utiよりはEutsiに近い)\n8325.03 Futuj: okkene: Fute: はFuti:とFutji: との中間のような言い方、或は Futi: と表記するのがよいかもしれない\n\n日本言語地図資料 用紙 注記一覧 3-11\n質問番号 158   地図番号 017719\n(A) 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (37)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\nオキイ  <オッキイという人もある。>\nフトカ  <フテエは言わず>\nEutoka  <クタ>\nokki:  <今は、普通これを言う>\nEutji:  { <以前は、この方を多く使われた>  Eute: }\nFutji:  <多>\nFutji <多い>\nmageka <多>\nFuihan <Fuihariという人もある>\n\n右欄注記: Eute:\n右下注記: okken  Fute  makika",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00311.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00311",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00311.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "0294.66",
+      "0294.93",
+      "1213.76",
+      "2141.71",
+      "1271.05"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 3-12\n質問番号 158　地図番号 017~19\n項目名　オオキイ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (38)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n0294.66　Fuisa <Fuisanという人もある>\n0294.93　Fuisan , Fuis aで終止することが多い\n1213.76　uFisaji , uFisaで終止することも多い\n2141.71　upukam (upukam 又は upukan)\n1271.05　magiθan θ = !",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00312.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00312",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00312.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "4598.33",
+      "4628.28",
+      "4628.61",
+      "4643.47",
+      "4648.04",
+      "4648.82",
+      "4695.87",
+      "4697.92",
+      "0789.95"
+    ],
+    "other_text": "0789.95 o:kina~ (連体) o:kii\n日本語語地図資料用紙 注記一覧 3-13\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n質問番号 158 地図番号 017219\n項目名 オオキイ\nA 普通注記  B 除いた共通語  C 除いた特殊語\n項目名 オオキイ\nA 注のない語形 [B・C 残した語形とその注]\no:kii <上>    dekai <下>\noki <一般には使っているが被調調査者は使わない>    dekkai <被調査者が普通に使う>\no:kii <上>    o'gi\no:tsubui <棒の太いもの、果実の大きいものなどに言う>    o:ki:\no:ki: <新,共>    ɸutoi\nokki: <共>    dekke:\no:ki: <共>    deTkoe\no:ki: <新>    dzunne:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00313.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00313",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00313.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "4762.56",
+      "4780.64",
+      "5568.57",
+      "5579.42",
+      "5588.78",
+      "5598.67"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 3-14\n質問番号 地図番号 158 017219\n項目名 オオキイ\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ (2)\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n4762.56  okki: <くていねい>    deke: <ぞんさい>  dzünne: < 〃 >  dzünnne: < 〃 >\n4780.64  dzunne: <使用しない>    o:ki:\n5568.57  オオキイ <共>    テッカイ, デッカイ  ドォテガイ (非常に大きい意)\n5579.42  o:ki: <上品>    dekai\n5588.78  オオキイ <共,新>    デッカイ,\n5598.67  オオキイ <共,丁>    デカイ <方か>  イカイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00314.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00314",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00314.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "5599.41",
+      "5604.28",
+      "5605.70",
+      "5609.26",
+      "5611.39",
+      "5611.81",
+      "5614.24",
+      "5614.68",
+      "5615.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 3-15\n質問番号 158　地図番号 017219\n項目名 オオキイ\nA 普通注記　B（除いた共通語）　C（除いた特殊語）　ページ (3)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n[デッカイ]　〈デッカイは特に強調していうとき使う。〉　デカイ\no:ki:　〈共〉　dekke:\no:ki:　〈共、希〉　deTke:\ndekkē:　〈という人もあるが少ずか〉　okkē:\no:ki:　〈新〉　dekæe〈今も相当使〉\no:ki:　(共)　dekkai\no:ki:　〈上〉　dekke:　「外に言い方はありません／んかに対する返事」\no:ki:　〈共〉　dekkae〈子〉\no:ki:　〈共〉　dekkoe",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00315.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00315",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00315.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "5615.65",
+      "5615.04",
+      "5615.28",
+      "5619.67",
+      "5622.48",
+      "5623.42",
+      "5628.70",
+      "5629.98",
+      "5631.16",
+      "5631.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    3-16\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n資料番号　地図番号　158 01??-19　項目名　オオキイ\nA　普通注記　B（除いた共通語）　C（除いた特殊語）　ページ（φ）\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n5615.65  o:ki: <共>      dekāe\n5615.04  o:ki: <上>      dekoe\n5615.28  o:ki: <共>      doko e\n5619.67  オオキイ <新>    スナイク〈古〉\n5622.48  o:ki: <共>      deke.\n5623.42  o:kii <共>      dekke\n5628.70  オオキイ <共>    ホッケエ\n5629.98  オオキイ <新>    デカイ〈古〉\n5631.16  o:ki: <共>      dekai\n5631.26  o:ki: <共>      dekkai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00316.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00316",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00316.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "5631.75",
+      "5632.83",
+      "5633.45",
+      "5633.87",
+      "5633.96",
+      "5635.48",
+      "5641.07",
+      "5641.13",
+      "5641.73",
+      "5642.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-17\n質問番号 地図番号 158 617-19\n項目名 オオキイ\nA 普通注記 B (除いた共通語) C (除いた特殊語) ページ (5)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）は厳密にする。\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n5631.75  o:kii 〈共〉     dekai\n5632.83  o:kii 共.       dekai\n5633.45  o:ki: 〈上〉     dekai\n5633.87  o:kii 〈上〉     dekkai\n5633.96  o:ki: 〈共〉     dekke\n5635.48  デカイ 〈新〉    デッケエ\n5641.07  o:kii 〈共〉     dekai\n5641.13  o:kii 共        dekai\n5641.73  o:ki: 〈新〉     dekai\n5642.31  o:ki: 〈共〉     dekkai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00317.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00317",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00317.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "5642.67",
+      "5643.33",
+      "5644.74",
+      "5646.71",
+      "5651.45",
+      "5651.95",
+      "5652.06",
+      "5652.37",
+      "5652.87"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 3-18 質問番号 地図番号 158 017〜19 項目名 オオキイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) (6) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5642.67 o:ki: <共> dekkae 5643.33 o:ki: <ていねい> dekkai 5644.74 オオキイ <上> デケェ＜共＞ / デッカイ＜共＞ 5646.71 オオキイ＜上＞ デッケエ, デッカイ 5651.45 o:ki: <共> dekai 5651.95 o:ki: <共> dekai, dekkai 5652.06 o:ki: <上> dekkai 5652.37 o:ki: <共> dekae 5652.87 o:kii <共> dek kai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00318.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00318",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00318.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "5652.96",
+      "5653.08",
+      "5653.60",
+      "5653.65",
+      "5659.42",
+      "5659.46",
+      "5661.34",
+      "5661.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 3-19 質問番号 地図番号 158 017219 項目名 オオキイ A 普通注記 B (除いた共通語) C (除いた特殊語) ページ (7) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5652.96 o:kii <上> dekkai 5653.08 o:kii <共> dekke: 5653.60 o:kii <上> dekkae 5653.65 o:kii <上> dekkae 5659.42 オオキイ <新> デカイ(古) 5659.46 オオキイ ->改まった言い方 イカイ…普通の言い方 デカイ…特別に大きい時使う 5661.34 o:ki: <上> dekkai 5661.68 o:kii <共> dekkai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00319.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00319",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00319.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "5663.64",
+      "5663.68",
+      "5664.57",
+      "5665.46",
+      "5667.24",
+      "5669.96",
+      "5671.00",
+      "5671.36",
+      "5671.38",
+      "5671.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-20\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〔〕（ ）は厳密にする。\n\n質問番号　地図番号\n158 01?7-19\n項目名　オオキイ\nA　普通注記　B（除いた共通語）　C（除いた特殊語）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5663.64    o:ki: 〈共〉    dekae\n5663.68    o:ki: 〈共〉    dekae\n5664.57    o:ki: 〈改ま,れとき〉    dekae\n5665.46    オオキイ〈業〉    デッケエ\n5667.24    オオキイ〈ク〉    デッカイク〈タ〉\n5669.96    o:ki: 〈希〉    egae, degae\n5671.00    o:kii 〈共〉    dekkai, dekke\n5671.36    o:ki: 〈上〉    dekke:\n5671.38    o:kii 〈共〉    dekkai, dekai\n5671.94    o:kii 〈共〉    dekkai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00320.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00320",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00320.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "5672.67",
+      "5674.54",
+      "5674.59",
+      "5677.28",
+      "5681.41",
+      "5682.34",
+      "5682.37",
+      "5682.92",
+      "5684.26",
+      "5673.28"
+    ],
+    "other_text": "5673.28 [eke:]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 3-21\n質問番号 158  地図番号 017219\n項目名 オオキイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9)\n地点番号　A 語形とその注記 [B･C 除いた語形とその注]　A 注のない語形 [B･C 残した語形とその注]\n5672.67　o:kii <共>　deka:\n5674.54　o:kii <共>　deke;\n5674.59　オオキイ <上>　デカイ\n5677.28　オオキイ <子供が使う>　デカイ <普通>\n5681.41　o:ki: <上>　dekai\n5682.34　okii <共>　dekai, deke:\n5682.37　o:ki: <上>　dekkai\n5682.92　o:ki: <共>　dekai\n5684.26　o:ki: <上>　dekai (deke:とも言っているはず)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00321.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00321",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00321.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "5685.02",
+      "5685.37",
+      "5690.12",
+      "5692.53",
+      "5694.31",
+      "5696.68",
+      "5898.19",
+      "5898.91"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 3-22\n質問番号 地図番号 158 01219\n項目名 オオキイ\nA 普通注記 (B を除いた共通語) (C 除いた特殊語) ページ (10)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )( )は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n5685.02  dekai 〈共〉    deke:\n5685.37  o:ki: 〈共〉    dekai\n5690.12  o:kii 〈上〉    dekkai\n5692.53  o:k i i 〈新〉   dekai\n5694.31  オオキイ 〈共〉  デカイ\n5696.68  o:ki: 〈共〉    dekai 〈夕〉\n\n5898.19  o:ki: 〈上〉    deke: 〈下〉\n5898.91  o:ki: 〈いいことば〉  dekai 〈夕〉  deke: 〈夕〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00322.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00322",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00322.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "5701.25",
+      "5723.36",
+      "5730.57",
+      "5741.66",
+      "5782.79",
+      "5782.94"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　3-23\n資料番号　地図番号　158　017219　項目名　オオキイ　A 普通注記　B 除いた共通語　C 除いた特殊語　(11)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5701.25　okke: <他、古><年よりが使う。使ったことはまれ>　okki: dzunne:\n5723.36　o:ki: <新>　okke: dekkae: <同様に使う>\n(取り消し線) 5730.57　イカイ <普通の言い方>\n5730.57　オオキイ <少し改まった時に使う>　イカイく普通の言い方\n5741.66　o:ki: <共>　eke:\n5782.79　o:ki: <ややあらたまり>　とりε: <少>　dekke: <少>\n5782.94　dekke: <農村の子ども>　o:ki; eke: <少>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00323.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00323",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00323.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "5790.03",
+      "6419.09",
+      "6429.65",
+      "6444.62",
+      "6448.61",
+      "6458.91",
+      "6469.77",
+      "6485.14",
+      "6486.50",
+      "6487.93",
+      "6413.29"
+    ],
+    "other_text": "6413.29 [gaina]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉〈〉は厳密にする。\n日本言語地図資料用紙 注記一覧 3-24\n(小さなボックス) 資問番号 158  地図番号 017219  項目名 オオキイ  A 普通注記  B (除いた共通語)  C (除いた特殊語) ページ (12)\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\nA欄（手書き）: o:ki: 共\t右欄: ike:\nオオキイ〈今〉\tオオケエく古〉\nオオキイく新,上,希〉\tオケエ\nオオキイく〈共〉\tオオケエ\nオオキイ〈新〉\tオオケエ〈古〉\nオオキイ〈新,共上〉\tオッケエ\nオオキイく共〉\tオッキョイ\nオオキイ〈共〉\tオッキョイ〈古〉\nオオキイ〈新〉\tオッキョイ\nオオキイく共〉\tオッキィ, オッキョイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00324.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00324",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00324.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6506.55",
+      "6507.72",
+      "6509.91",
+      "6576.1",
+      "6576.15",
+      "6518.30",
+      "6578.87",
+      "6523.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　3-25\n（右上欄）質問番号 158　地図番号 017?219\n項目名　オオキイ\nA 普通注記　B（除いた共通語）　C（除いた特殊語）　ページ（13）\n\n表見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（各行、地点番号は除く）\nオオキイ〈共〉　　　　　　　デカイ〈…〉\nデカイ〈他の人〉、イカイ〈他の人〉　　　オオキイ\nオオキイ〈共〉　　　　　　　イカイ\nオオキイ〈共、J〉　　　　　　イカイ\nイカイ〈朱希、他〉　　　　　ドデカイ〈大そう大きい〉　デカイ、オオキイ\nオオキイ〈共〉　　　　　　　イキャ（イキャ）\nオオキイ〈共〉　　　　　　　イカイ\no:ki:〈新〉　　　　　　　　　ikai:〈よそでこのことはもう使うと笑われる〉\n\n（下部に小書き）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00325.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00325",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00325.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6529.15",
+      "6529.63",
+      "6530.58",
+      "6534.41",
+      "6542.58",
+      "6545.88",
+      "6557.2",
+      "6559.22",
+      "6560.40"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 3-26\n質問番号　地図番号　158　01219\n項目名　オオキイ\nA　普通注記　B（除いた共通語）　C（除いた特殊語）　ページ (40)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形【B・C 残した語形とその注】\n6529.15　オオキイ〈共．上〉　イカイ\n6529.63　o:ki:〈上〉　ik2i\n6530.58　オオキイ〈共〉　オッキョイ\n6534.41　o:kii〈上〉　ikai\n6542.58　オーキイ・ややあらたまった言い方　デッカイ\n6545.88　okki:〈子供の言い方〉　o:ki:\n6557.20　オオキイ〈新〉　オオケエ\n6559.22　dekai〈他〉　o:ki:\n6560.40　オオキイ〈新〉　オッケエ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00326.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00326",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00326.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6585.17",
+      "6581.61",
+      "6600.53",
+      "6600.97",
+      "6603.82",
+      "6604.15",
+      "6604.38",
+      "6605.37",
+      "6611.61",
+      "6583.93"
+    ],
+    "other_text": "6583.93, doirai, 第三者の模様長はこれをあげる。 o:ki:\n日本言語地図資料用紙 注記一覧    3-27\n質問番号 158   地図番号 017219   ページ (15)\n項目名 オオキイ\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6585.17    o:ki:, <気のきいた言い方>    okki: <普通>\n6581.61    オオキイ <共>    オオキイ\n6600.53    o:ki: <共>    dekai;\n6600.97    o:kii <共>    dekai\n[dondekai] <かより大きいもののとき>\n6603.82    オオキイ <共>    イカイ\n6604.15    オオキイ <共>    デカイ\n6604.38    オオキイ <共>    デカイ\n6605.37    オオキイ <共,上>    デッカイ\n6611.61    o:ki: <共>    deke:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00327.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00327",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00327.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6611.68",
+      "6613.87",
+      "6615.02",
+      "6620.49",
+      "6620.53",
+      "6623.28",
+      "6624.65",
+      "6625.66"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 3-28\n\n質問番号 158　地図番号 017-19\n項目名　オオキイ\nA 普通注記　B（除いた共通語）　C（除いた特殊語）　ページ (6)\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\no:kii <共>　　　　　　dekai\no:ki: <…>　　　　　　ikai\nオオキイ <共、上>　　 デカイ\no:kii <共>　　　　　　dekai\no:kii <共>　　　　　　dekai\nオオキイ <共、上>　　 デーカイ\no:ki:　上　　　　　　ikai, dekai\n　　　　　　　　　　　両者、同じ程度に使う。\n　　　　　　　　　　　大きさの違いは少し。\n\no:ki: <上>　　　　　　de kze:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00328.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00328",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00328.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "6631.53",
+      "6631.69",
+      "6632.88",
+      "6633.89",
+      "6634.07",
+      "6634.32",
+      "6634.33",
+      "6635.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 3-29 資料番号 158 地図番号 017~19 項目名 オオキイ A 普通注記 B (除いた共通語) C (除いた特殊語) ページ (17) 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] o:ki: 上. dekai o:ki: 上 ikai, dakai o:ki: 上 ikai - 多く使う dekai o:ki: 上 i'kai, 単 dekai dodekai o:ki: 上 ikai o:ki: 希 ikai o:ki: 上 ikai o:ki: 新 de'kai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00329.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00329",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00329.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "6635.36",
+      "6635.49",
+      "6635.87",
+      "6636.62",
+      "6641.39",
+      "6642.33",
+      "6642.58",
+      "6643.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧   3-30\n(欄内) 158  0.7〜19\n項目名　オオキイ\nA 普通注記   (B)除いた共通語   (C)除いた特殊語   (18)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6635.36　o:ki:　上　　　deke:\n6635.49　o:ki:　上　　　dekai\n6635.87　ooki:　上　　　de'kzi  tʃi:sai\n　　　　　(de'kzi の反対語は)\n6636.62　o:ki:　<上>　　de'keə\n6641.39　o:ki:　上　　　ikai\n6642.33　o:ki:　上　　　ikai\n6642.58　o:ki:　中(?)　　ikai  \n　　　　(dekai - 字に大きい意?)\n6643.16　ooki:　上　　　ikai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00330.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00330",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00330.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "6643.72",
+      "6645.01",
+      "6645.37",
+      "6645.62",
+      "6646.74",
+      "6650.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧    3-31\n質問番号　地図番号\n158   017219\n項目名　オオキイ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (19)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nde'kai - 非常に大きなものの時\no:ki: 上\t\tikai, dekai\ndodekai - さらに大きい時\n\no:ki: 新\t\tikai, de'kai\n\no:ki: <上>\t\tikai\n\no:ki: <上>\t\tde'kai <巨大なta>\n\t\tikae, de'kae\n\t\t(↓ 1KAIに分裂)\n\no:ki: <上>\t\tdekai\n\no:ki: <上>\t\tdekai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00331.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00331",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00331.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "6652.30",
+      "6652.77",
+      "6653.30",
+      "6655.38",
+      "6656.31",
+      "6662.01"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <> () [] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 3-32\n質問番号　地図番号\n158　017～19\n項目名　オオキイ\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (20)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形【B・C 残した語形とその注】\n\nA: o:ki: 新.\t\tikai\ndekai - 特に大きな事\n\nA: o:ki: 上\t\tbaka dekai - 巨大。周に???（小書き注記）\tikai, dekai\n\nA: o:ki: 上\t\tikai, （きに言う）\tdoikai - 特れ巨大をと\n\nA: o:ki: 上\t\tikae:\tdekai - 特れ巨大をと\n\nA: o:ki: <上>\t\tikai\n\nA: o:ki: 上\t\tikai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00332.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00332",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00332.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "6662.38",
+      "6697.39",
+      "6700.98",
+      "7303.29",
+      "7321.93",
+      "7329.57",
+      "7357.64",
+      "7359.78",
+      "7394.95",
+      "7309.37"
+    ],
+    "other_text": "7309.37\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n日本言語地図資料用紙 注記一覧 3-33\n質問番号 158　地図番号 01219\n項目名　オオキイ\nA 普通注記　B 除いた共通語　C 除いた特殊語　(2/1)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6662.38　o:ki: 上\t\tdoerazi - 巨大のに言う?\n6697.39　o:ki: <上>\t\tikai\n6700.98　o'ki: <ていねいな感じ>\tikke <普通>\n7303.29　o:kii (今)\t\tfuto i (昔)\n7321.93　オオキイ (新)(共)\tフトイ(普)\n7329.57　o:kii 上\t\tFutoi\n7357.64　o:ki: <上>\t\tfu t e i:\n7359.78　o:ki: <新>\t\tFutoi <古>\n7394.95　o:ki: <今>\t\tFutji:\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00333.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00333",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00333.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "7402.42",
+      "7402.47",
+      "7404.12",
+      "7421.38",
+      "7430.75",
+      "7431.08"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 日本言語地図資料用紙注記一覧 3-34 質問番号 158 地図番号 017~19 項目名 オオキ A 普通注記 B 除いた共通語 C 除いた特殊語 (22) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7402.42 Futoi <Futoi mikan まどのように 果物などの大きいのには 使う?> o:kei 7402.47 ooki:〈新〉 Futoi 7403,16 o:ki:〈上〉 (こともが成長したのを Futo nata:na: という) Futoi (人をとの体の 大きいのにも使う。) 7404.12 o:ki::〈上〉 Futoi 7421.38 o:ki:〈上〉 Futoi 7430.75 o:kii:上 Futoi 7431.08 o:kii〈上〉 Futoi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00334.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00334",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00334.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "7574.21",
+      "7521.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙注記一覧 3-35 質問番号　地図番号　158　017219 項目名　オオキイ A　普通注記 (B) 除いた共通語 (C) 除いた特殊語 (23) 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 7574.21　o:ki:〈上〉　dairokuna kusodzi〈下〉 7521.16　オオキイ〈共〉〈くすくない〉　オキイ〈ホッキイという人もある。〉 (dairokunahahako（大きさ著のように使用するらしい。）)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00335.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00335",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00335.tif",
+    "source_ljc_id": "LJC-M017Q158",
+    "source_map_numbers": [
+      "017",
+      "018",
+      "019"
+    ],
+    "source_title": "おおきい (大きい)"
+  }
+]

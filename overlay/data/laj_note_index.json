@@ -1,0 +1,4169 @@
+{
+  "generatedFrom": "注記一覧metadata_1.csv",
+  "mapCount": 273,
+  "noteCount": 243,
+  "linkCount": 273,
+  "maps": {
+    "001": [
+      {
+        "ljcId": "LJC-M001Q280",
+        "title": "カガミ (鏡)",
+        "questionNumber": "280",
+        "mapNumbers": [
+          "001"
+        ],
+        "cardCount": 9,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M001Q280/manifest.json"
+      }
+    ],
+    "002": [
+      {
+        "ljcId": "LJC-M002Q279",
+        "title": "カゲ (蔭)",
+        "questionNumber": "279",
+        "mapNumbers": [
+          "002"
+        ],
+        "cardCount": 11,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M002Q279/manifest.json"
+      }
+    ],
+    "003": [
+      {
+        "ljcId": "LJC-M003Q277",
+        "title": "カジ (火事)",
+        "questionNumber": "277",
+        "mapNumbers": [
+          "003",
+          "015"
+        ],
+        "cardCount": 15,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json"
+      }
+    ],
+    "004": [
+      {
+        "ljcId": "LJC-M004Q281",
+        "title": "スイカ (西瓜)",
+        "questionNumber": "281",
+        "mapNumbers": [
+          "004"
+        ],
+        "cardCount": 14,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M004Q281/manifest.json"
+      }
+    ],
+    "005": [
+      {
+        "ljcId": "LJC-M005Q275",
+        "title": "ガンジツ (元日)",
+        "questionNumber": "275",
+        "mapNumbers": [
+          "005"
+        ],
+        "cardCount": 22,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json"
+      }
+    ],
+    "006": [
+      {
+        "ljcId": "LJC-M006Q274",
+        "title": "ショウガツ (正月)",
+        "questionNumber": "274",
+        "mapNumbers": [
+          "006"
+        ],
+        "cardCount": 16,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M006Q274/manifest.json"
+      }
+    ],
+    "007": [
+      {
+        "ljcId": "LJC-M007Q260",
+        "title": "セナカ (背中)",
+        "questionNumber": "260",
+        "mapNumbers": [
+          "007"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M007Q260/manifest.json"
+      }
+    ],
+    "008": [
+      {
+        "ljcId": "LJC-M008Q259",
+        "title": "アセ (汗)",
+        "questionNumber": "259",
+        "mapNumbers": [
+          "008"
+        ],
+        "cardCount": 5,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M008Q259/manifest.json"
+      }
+    ],
+    "009": [
+      {
+        "ljcId": "LJC-M009Q278",
+        "title": "ゼイキン (税金)",
+        "questionNumber": "278",
+        "mapNumbers": [
+          "009"
+        ],
+        "cardCount": 11,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json"
+      }
+    ],
+    "010": [
+      {
+        "ljcId": "LJC-M010Q272",
+        "title": "カゼ (風)",
+        "questionNumber": "272",
+        "mapNumbers": [
+          "010"
+        ],
+        "cardCount": 10,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json"
+      }
+    ],
+    "011": [
+      {
+        "ljcId": "LJC-M011Q273",
+        "title": "ヒガシ (東)",
+        "questionNumber": "273",
+        "mapNumbers": [
+          "011",
+          "013"
+        ],
+        "cardCount": 12,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json"
+      }
+    ],
+    "012": [
+      {
+        "ljcId": "LJC-M012Q258",
+        "title": "ヒゲ (鬚)",
+        "questionNumber": "258",
+        "mapNumbers": [
+          "012"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json"
+      }
+    ],
+    "013": [
+      {
+        "ljcId": "LJC-M011Q273",
+        "title": "ヒガシ (東)",
+        "questionNumber": "273",
+        "mapNumbers": [
+          "011",
+          "013"
+        ],
+        "cardCount": 12,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json"
+      }
+    ],
+    "014": [
+      {
+        "ljcId": "LJC-M014Q276",
+        "title": "シチガツ (七月)",
+        "questionNumber": "276",
+        "mapNumbers": [
+          "014",
+          "016"
+        ],
+        "cardCount": 18,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json"
+      }
+    ],
+    "015": [
+      {
+        "ljcId": "LJC-M003Q277",
+        "title": "カジ (火事)",
+        "questionNumber": "277",
+        "mapNumbers": [
+          "003",
+          "015"
+        ],
+        "cardCount": 15,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json"
+      }
+    ],
+    "016": [
+      {
+        "ljcId": "LJC-M014Q276",
+        "title": "シチガツ (七月)",
+        "questionNumber": "276",
+        "mapNumbers": [
+          "014",
+          "016"
+        ],
+        "cardCount": 18,
+        "sourceTitle": "日本言語地図注記一覧1",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json"
+      }
+    ],
+    "017": [
+      {
+        "ljcId": "LJC-M017Q158",
+        "title": "おおきい (大きい)",
+        "questionNumber": "158",
+        "mapNumbers": [
+          "017",
+          "018",
+          "019"
+        ],
+        "cardCount": 62,
+        "sourceTitle": "日本言語地図注記一覧2",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json"
+      }
+    ],
+    "018": [
+      {
+        "ljcId": "LJC-M017Q158",
+        "title": "おおきい (大きい)",
+        "questionNumber": "158",
+        "mapNumbers": [
+          "017",
+          "018",
+          "019"
+        ],
+        "cardCount": 62,
+        "sourceTitle": "日本言語地図注記一覧2",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json"
+      }
+    ],
+    "019": [
+      {
+        "ljcId": "LJC-M017Q158",
+        "title": "おおきい (大きい)",
+        "questionNumber": "158",
+        "mapNumbers": [
+          "017",
+          "018",
+          "019"
+        ],
+        "cardCount": 62,
+        "sourceTitle": "日本言語地図注記一覧2",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M017Q158/manifest.json"
+      }
+    ],
+    "020": [
+      {
+        "ljcId": "LJC-M020Q160",
+        "title": "ふとい (太い)",
+        "questionNumber": "160",
+        "mapNumbers": [
+          "020"
+        ],
+        "cardCount": 28,
+        "sourceTitle": "日本言語地図注記一覧2",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json"
+      }
+    ],
+    "021": [
+      {
+        "ljcId": "LJC-M021Q162",
+        "title": "あらい (粗い)",
+        "questionNumber": "162",
+        "mapNumbers": [
+          "021"
+        ],
+        "cardCount": 36,
+        "sourceTitle": "日本言語地図注記一覧2",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json"
+      }
+    ],
+    "022": [
+      {
+        "ljcId": "LJC-M022Q159",
+        "title": "ちいさい (小さい)",
+        "questionNumber": "159",
+        "mapNumbers": [
+          "022",
+          "023"
+        ],
+        "cardCount": 57,
+        "sourceTitle": "日本言語地図注記一覧2",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json"
+      }
+    ],
+    "023": [
+      {
+        "ljcId": "LJC-M022Q159",
+        "title": "ちいさい (小さい)",
+        "questionNumber": "159",
+        "mapNumbers": [
+          "022",
+          "023"
+        ],
+        "cardCount": 57,
+        "sourceTitle": "日本言語地図注記一覧2",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json"
+      }
+    ],
+    "024": [
+      {
+        "ljcId": "LJC-M024Q161",
+        "title": "ほそい (細い)",
+        "questionNumber": "161",
+        "mapNumbers": [
+          "024"
+        ],
+        "cardCount": 26,
+        "sourceTitle": "日本言語地図注記一覧2",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json"
+      }
+    ],
+    "025": [
+      {
+        "ljcId": "LJC-M025Q163",
+        "title": "こまかい (細かい)",
+        "questionNumber": "163",
+        "mapNumbers": [
+          "025"
+        ],
+        "cardCount": 37,
+        "sourceTitle": "日本言語地図注記一覧3",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json"
+      }
+    ],
+    "026": [
+      {
+        "ljcId": "LJC-M026Q283",
+        "title": "しかくい (四角い)",
+        "questionNumber": "283",
+        "mapNumbers": [
+          "026"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧3",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json"
+      }
+    ],
+    "027": [
+      {
+        "ljcId": "LJC-M027Q017",
+        "title": "きいろい (黄色い)",
+        "questionNumber": "17",
+        "mapNumbers": [
+          "027"
+        ],
+        "cardCount": 68,
+        "sourceTitle": "日本言語地図注記一覧3",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M027Q017/manifest.json"
+      }
+    ],
+    "028": [
+      {
+        "ljcId": "LJC-M028Q018",
+        "title": "あかい (赤い)",
+        "questionNumber": "18",
+        "mapNumbers": [
+          "028"
+        ],
+        "cardCount": 38,
+        "sourceTitle": "日本言語地図注記一覧3",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json"
+      }
+    ],
+    "029": [
+      {
+        "ljcId": "LJC-M029Q019",
+        "title": "アカイを“明かるい”の意味で使うか",
+        "questionNumber": "19",
+        "mapNumbers": [
+          "029"
+        ],
+        "cardCount": 41,
+        "sourceTitle": "日本言語地図注記一覧3",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json"
+      }
+    ],
+    "030": [
+      {
+        "ljcId": "LJC-M030Q115",
+        "title": "まぶしい (眩しい)",
+        "questionNumber": "115",
+        "mapNumbers": [
+          "030",
+          "031"
+        ],
+        "cardCount": 45,
+        "sourceTitle": "日本言語地図注記一覧4",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M030Q115/manifest.json"
+      }
+    ],
+    "031": [
+      {
+        "ljcId": "LJC-M030Q115",
+        "title": "まぶしい (眩しい)",
+        "questionNumber": "115",
+        "mapNumbers": [
+          "030",
+          "031"
+        ],
+        "cardCount": 45,
+        "sourceTitle": "日本言語地図注記一覧4",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M030Q115/manifest.json"
+      }
+    ],
+    "032": [
+      {
+        "ljcId": "LJC-M032Q070",
+        "title": "くすぐったい (擽ったい)",
+        "questionNumber": "70",
+        "mapNumbers": [
+          "032",
+          "033"
+        ],
+        "cardCount": 44,
+        "sourceTitle": "日本言語地図注記一覧4",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json"
+      }
+    ],
+    "033": [
+      {
+        "ljcId": "LJC-M032Q070",
+        "title": "くすぐったい (擽ったい)",
+        "questionNumber": "70",
+        "mapNumbers": [
+          "032",
+          "033"
+        ],
+        "cardCount": 44,
+        "sourceTitle": "日本言語地図注記一覧4",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json"
+      }
+    ],
+    "034": [
+      {
+        "ljcId": "LJC-M034Q040",
+        "title": "きなくさい (きな臭い)",
+        "questionNumber": "40",
+        "mapNumbers": [
+          "034",
+          "035"
+        ],
+        "cardCount": 71,
+        "sourceTitle": "日本言語地図注記一覧4",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M034Q040/manifest.json"
+      }
+    ],
+    "035": [
+      {
+        "ljcId": "LJC-M034Q040",
+        "title": "きなくさい (きな臭い)",
+        "questionNumber": "40",
+        "mapNumbers": [
+          "034",
+          "035"
+        ],
+        "cardCount": 71,
+        "sourceTitle": "日本言語地図注記一覧4",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M034Q040/manifest.json"
+      }
+    ],
+    "036": [
+      {
+        "ljcId": "LJC-M036Q041",
+        "title": "こげくさい (焦げ臭い)",
+        "questionNumber": "41",
+        "mapNumbers": [
+          "036"
+        ],
+        "cardCount": 39,
+        "sourceTitle": "日本言語地図注記一覧4",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json"
+      }
+    ],
+    "037": [
+      {
+        "ljcId": "LJC-M037Q052",
+        "title": "あまい (甘い)",
+        "questionNumber": "52",
+        "mapNumbers": [
+          "037"
+        ],
+        "cardCount": 24,
+        "sourceTitle": "日本言語地図注記一覧5",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json"
+      }
+    ],
+    "038": [
+      {
+        "ljcId": "LJC-M038Q051",
+        "title": "〈塩味が〉うすい",
+        "questionNumber": "51",
+        "mapNumbers": [
+          "038"
+        ],
+        "cardCount": 49,
+        "sourceTitle": "日本言語地図注記一覧5",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json"
+      }
+    ],
+    "039": [
+      {
+        "ljcId": "LJC-M039Q049",
+        "title": "しおからい (鹹い)",
+        "questionNumber": "49",
+        "mapNumbers": [
+          "039"
+        ],
+        "cardCount": 36,
+        "sourceTitle": "日本言語地図注記一覧5",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json"
+      }
+    ],
+    "040": [
+      {
+        "ljcId": "LJC-M040Q050",
+        "title": "からい (辛い)",
+        "questionNumber": "50",
+        "mapNumbers": [
+          "040"
+        ],
+        "cardCount": 18,
+        "sourceTitle": "日本言語地図注記一覧5",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json"
+      }
+    ],
+    "041": [
+      {
+        "ljcId": "LJC-M041Q053",
+        "title": "すっぱい (酸っぱい)",
+        "questionNumber": "53",
+        "mapNumbers": [
+          "041"
+        ],
+        "cardCount": 44,
+        "sourceTitle": "日本言語地図注記一覧5",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M041Q053/manifest.json"
+      }
+    ],
+    "043": [
+      {
+        "ljcId": "LJC-M043Q206",
+        "title": "コワイを“恐ろしい”の意味で使うか",
+        "questionNumber": "206",
+        "mapNumbers": [
+          "043"
+        ],
+        "cardCount": 61,
+        "sourceTitle": "日本言語地図注記一覧5",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M043Q206/manifest.json"
+      }
+    ],
+    "044": [
+      {
+        "ljcId": "LJC-M044Q204",
+        "title": "コワイを“疲れた”の意味で使うか",
+        "questionNumber": "204",
+        "mapNumbers": [
+          "044"
+        ],
+        "cardCount": 45,
+        "sourceTitle": "日本言語地図注記一覧6",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M044Q204/manifest.json"
+      }
+    ],
+    "045": [
+      {
+        "ljcId": "LJC-M045Q270",
+        "title": "いい〈天気だ〉",
+        "questionNumber": "270",
+        "mapNumbers": [
+          "045",
+          "046"
+        ],
+        "cardCount": 12,
+        "sourceTitle": "日本言語地図注記一覧6",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json"
+      }
+    ],
+    "046": [
+      {
+        "ljcId": "LJC-M045Q270",
+        "title": "いい〈天気だ〉",
+        "questionNumber": "270",
+        "mapNumbers": [
+          "045",
+          "046"
+        ],
+        "cardCount": 12,
+        "sourceTitle": "日本言語地図注記一覧6",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json"
+      }
+    ],
+    "047": [
+      {
+        "ljcId": "LJC-M047Q250",
+        "title": "〈虹が〉きれいだ",
+        "questionNumber": "250",
+        "mapNumbers": [
+          "047"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧6",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json"
+      }
+    ],
+    "048": [
+      {
+        "ljcId": "LJC-M048Q249",
+        "title": "きれいに〈掃除する〉",
+        "questionNumber": "249",
+        "mapNumbers": [
+          "048"
+        ],
+        "cardCount": 18,
+        "sourceTitle": "日本言語地図注記一覧6",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M048Q249/manifest.json"
+      }
+    ],
+    "049": [
+      {
+        "ljcId": "LJC-M049Q016",
+        "title": "いくつ (個数)",
+        "questionNumber": "16",
+        "mapNumbers": [
+          "049"
+        ],
+        "cardCount": 33,
+        "sourceTitle": "日本言語地図注記一覧6",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json"
+      }
+    ],
+    "050": [
+      {
+        "ljcId": "LJC-M050Q015",
+        "title": "いくら (値段)",
+        "questionNumber": "15",
+        "mapNumbers": [
+          "050"
+        ],
+        "cardCount": 38,
+        "sourceTitle": "日本言語地図注記一覧6",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json"
+      }
+    ],
+    "052": [
+      {
+        "ljcId": "LJC-M052Q071",
+        "title": "あぐら (胡座) をかく",
+        "questionNumber": "71",
+        "mapNumbers": [
+          "052"
+        ],
+        "cardCount": 62,
+        "sourceTitle": "日本言語地図注記一覧7",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json"
+      }
+    ],
+    "053": [
+      {
+        "ljcId": "LJC-M053Q268",
+        "title": "いる (居る)",
+        "questionNumber": "268",
+        "mapNumbers": [
+          "053"
+        ],
+        "cardCount": 9,
+        "sourceTitle": "日本言語地図注記一覧7",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M053Q268/manifest.json"
+      }
+    ],
+    "054": [
+      {
+        "ljcId": "LJC-M054Q087",
+        "title": "かたあしとび (片足跳び) をする",
+        "questionNumber": "87",
+        "mapNumbers": [
+          "054",
+          "055"
+        ],
+        "cardCount": 40,
+        "sourceTitle": "日本言語地図注記一覧7",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json"
+      }
+    ],
+    "055": [
+      {
+        "ljcId": "LJC-M054Q087",
+        "title": "かたあしとび (片足跳び) をする",
+        "questionNumber": "87",
+        "mapNumbers": [
+          "054",
+          "055"
+        ],
+        "cardCount": 40,
+        "sourceTitle": "日本言語地図注記一覧7",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json"
+      }
+    ],
+    "056": [
+      {
+        "ljcId": "LJC-M056Q023",
+        "title": "つくる (作る)",
+        "questionNumber": "23",
+        "mapNumbers": [
+          "056"
+        ],
+        "cardCount": 44,
+        "sourceTitle": "日本言語地図注記一覧7",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json"
+      }
+    ],
+    "059": [
+      {
+        "ljcId": "LJC-M059Q171",
+        "title": "センタクスルを“裁縫する”の意味で使うか",
+        "questionNumber": "171",
+        "mapNumbers": [
+          "059"
+        ],
+        "cardCount": 42,
+        "sourceTitle": "日本言語地図注記一覧7",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json"
+      }
+    ],
+    "060": [
+      {
+        "ljcId": "LJC-M060Q212",
+        "title": "ハソンスルを“修繕する”の意味で使うか",
+        "questionNumber": "212",
+        "mapNumbers": [
+          "060"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧7",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M060Q212/manifest.json"
+      }
+    ],
+    "061": [
+      {
+        "ljcId": "LJC-M061Q026",
+        "title": "ナオスを“片付ける・しまう”の意味で使うか",
+        "questionNumber": "26",
+        "mapNumbers": [
+          "061"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧8",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json"
+      }
+    ],
+    "062": [
+      {
+        "ljcId": "LJC-M062Q235",
+        "title": "すてる (捨てる)",
+        "questionNumber": "235",
+        "mapNumbers": [
+          "062"
+        ],
+        "cardCount": 21,
+        "sourceTitle": "日本言語地図注記一覧8",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json"
+      }
+    ],
+    "063": [
+      {
+        "ljcId": "LJC-M063Q202",
+        "title": "ステルを“紛失する”の意味で使うか",
+        "questionNumber": "202",
+        "mapNumbers": [
+          "063"
+        ],
+        "cardCount": 52,
+        "sourceTitle": "日本言語地図注記一覧8",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json"
+      }
+    ],
+    "064": [
+      {
+        "ljcId": "LJC-M064Q261",
+        "title": "おんぶする (幼児を負う)",
+        "questionNumber": "261",
+        "mapNumbers": [
+          "064"
+        ],
+        "cardCount": 21,
+        "sourceTitle": "日本言語地図注記一覧8",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json"
+      }
+    ],
+    "065": [
+      {
+        "ljcId": "LJC-M065Q262",
+        "title": "しょう (包を背負う)",
+        "questionNumber": "262",
+        "mapNumbers": [
+          "065"
+        ],
+        "cardCount": 11,
+        "sourceTitle": "日本言語地図注記一覧8",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json"
+      }
+    ],
+    "066": [
+      {
+        "ljcId": "LJC-M066Q264",
+        "title": "かつぐ (材木を担ぐ)",
+        "questionNumber": "264",
+        "mapNumbers": [
+          "066"
+        ],
+        "cardCount": 9,
+        "sourceTitle": "日本言語地図注記一覧8",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M066Q264/manifest.json"
+      }
+    ],
+    "067": [
+      {
+        "ljcId": "LJC-M067Q265",
+        "title": "かつぐ (天秤棒を担ぐ)",
+        "questionNumber": "265",
+        "mapNumbers": [
+          "067"
+        ],
+        "cardCount": 9,
+        "sourceTitle": "日本言語地図注記一覧8",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M067Q265/manifest.json"
+      }
+    ],
+    "068": [
+      {
+        "ljcId": "LJC-M068Q266",
+        "title": "かつぐ (二人で担ぐ)",
+        "questionNumber": "266",
+        "mapNumbers": [
+          "068"
+        ],
+        "cardCount": 14,
+        "sourceTitle": "日本言語地図注記一覧8",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json"
+      }
+    ],
+    "070": [
+      {
+        "ljcId": "LJC-M070Q100",
+        "title": "かす (貸す)",
+        "questionNumber": "100",
+        "mapNumbers": [
+          "070"
+        ],
+        "cardCount": 18,
+        "sourceTitle": "日本言語地図注記一覧8",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json"
+      }
+    ],
+    "071": [
+      {
+        "ljcId": "LJC-M071Q099",
+        "title": "かりる (借りる)",
+        "questionNumber": "99",
+        "mapNumbers": [
+          "071"
+        ],
+        "cardCount": 22,
+        "sourceTitle": "日本言語地図注記一覧8",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json"
+      }
+    ],
+    "072": [
+      {
+        "ljcId": "LJC-M072Q101",
+        "title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか",
+        "questionNumber": "101",
+        "mapNumbers": [
+          "072"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧9",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json"
+      }
+    ],
+    "077": [
+      {
+        "ljcId": "LJC-M077Q236",
+        "title": "びっくりする (驚く)",
+        "questionNumber": "236",
+        "mapNumbers": [
+          "077"
+        ],
+        "cardCount": 15,
+        "sourceTitle": "日本言語地図注記一覧9",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json"
+      }
+    ],
+    "078": [
+      {
+        "ljcId": "LJC-M078Q030",
+        "title": "オドロクを“驚く”の意味で使うか",
+        "questionNumber": "30",
+        "mapNumbers": [
+          "078"
+        ],
+        "cardCount": 57,
+        "sourceTitle": "日本言語地図注記一覧9",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json"
+      }
+    ],
+    "079": [
+      {
+        "ljcId": "LJC-M079Q028",
+        "title": "オドロクを“目覚める”の意味で使うか",
+        "questionNumber": "28",
+        "mapNumbers": [
+          "079"
+        ],
+        "cardCount": 24,
+        "sourceTitle": "日本言語地図注記一覧9",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json"
+      }
+    ],
+    "080": [
+      {
+        "ljcId": "LJC-M080Q059",
+        "title": "あざ (痣) になる",
+        "questionNumber": "59",
+        "mapNumbers": [
+          "080"
+        ],
+        "cardCount": 91,
+        "sourceTitle": "日本言語地図注記一覧9",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json"
+      }
+    ],
+    "081": [
+      {
+        "ljcId": "LJC-M081Q234",
+        "title": "くすぐる (擽る)",
+        "questionNumber": "234",
+        "mapNumbers": [
+          "081",
+          "082"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧10",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json"
+      }
+    ],
+    "082": [
+      {
+        "ljcId": "LJC-M081Q234",
+        "title": "くすぐる (擽る)",
+        "questionNumber": "234",
+        "mapNumbers": [
+          "081",
+          "082"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧10",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json"
+      }
+    ],
+    "083": [
+      {
+        "ljcId": "LJC-M083Q022",
+        "title": "きゅう (灸) をすえる",
+        "questionNumber": "22",
+        "mapNumbers": [
+          "083",
+          "084"
+        ],
+        "cardCount": 56,
+        "sourceTitle": "日本言語地図注記一覧10",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M083Q022/manifest.json"
+      }
+    ],
+    "084": [
+      {
+        "ljcId": "LJC-M083Q022",
+        "title": "きゅう (灸) をすえる",
+        "questionNumber": "22",
+        "mapNumbers": [
+          "083",
+          "084"
+        ],
+        "cardCount": 56,
+        "sourceTitle": "日本言語地図注記一覧10",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M083Q022/manifest.json"
+      }
+    ],
+    "085": [
+      {
+        "ljcId": "LJC-M085Q042",
+        "title": "におい (匂) をかぐ (嗅ぐ)",
+        "questionNumber": "42",
+        "mapNumbers": [
+          "085",
+          "086"
+        ],
+        "cardCount": 45,
+        "sourceTitle": "日本言語地図注記一覧10",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json"
+      }
+    ],
+    "086": [
+      {
+        "ljcId": "LJC-M085Q042",
+        "title": "におい (匂) をかぐ (嗅ぐ)",
+        "questionNumber": "42",
+        "mapNumbers": [
+          "085",
+          "086"
+        ],
+        "cardCount": 45,
+        "sourceTitle": "日本言語地図注記一覧10",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json"
+      }
+    ],
+    "087": [
+      {
+        "ljcId": "LJC-M087Q055",
+        "title": "せき (咳) をする",
+        "questionNumber": "55",
+        "mapNumbers": [
+          "087",
+          "088"
+        ],
+        "cardCount": 85,
+        "sourceTitle": "日本言語地図注記一覧10",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json"
+      }
+    ],
+    "088": [
+      {
+        "ljcId": "LJC-M087Q055",
+        "title": "せき (咳) をする",
+        "questionNumber": "55",
+        "mapNumbers": [
+          "087",
+          "088"
+        ],
+        "cardCount": 85,
+        "sourceTitle": "日本言語地図注記一覧10",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json"
+      }
+    ],
+    "089": [
+      {
+        "ljcId": "LJC-M089Q054",
+        "title": "いびき (鼾) をかく",
+        "questionNumber": "54",
+        "mapNumbers": [
+          "089",
+          "090"
+        ],
+        "cardCount": 47,
+        "sourceTitle": "日本言語地図注記一覧10",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json"
+      }
+    ],
+    "090": [
+      {
+        "ljcId": "LJC-M089Q054",
+        "title": "いびき (鼾) をかく",
+        "questionNumber": "54",
+        "mapNumbers": [
+          "089",
+          "090"
+        ],
+        "cardCount": 47,
+        "sourceTitle": "日本言語地図注記一覧10",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json"
+      }
+    ],
+    "091": [
+      {
+        "ljcId": "LJC-M091Q021",
+        "title": "うそ (嘘言) をつく",
+        "questionNumber": "21",
+        "mapNumbers": [
+          "091",
+          "092"
+        ],
+        "cardCount": 70,
+        "sourceTitle": "日本言語地図注記一覧11",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M091Q021/manifest.json"
+      }
+    ],
+    "092": [
+      {
+        "ljcId": "LJC-M091Q021",
+        "title": "うそ (嘘言) をつく",
+        "questionNumber": "21",
+        "mapNumbers": [
+          "091",
+          "092"
+        ],
+        "cardCount": 70,
+        "sourceTitle": "日本言語地図注記一覧11",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M091Q021/manifest.json"
+      }
+    ],
+    "093": [
+      {
+        "ljcId": "LJC-M093Q172",
+        "title": "クサルを“濡れる”の意味で使うか",
+        "questionNumber": "172",
+        "mapNumbers": [
+          "093"
+        ],
+        "cardCount": 28,
+        "sourceTitle": "日本言語地図注記一覧11",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M093Q172/manifest.json"
+      }
+    ],
+    "094": [
+      {
+        "ljcId": "LJC-M094Q201",
+        "title": "オチルを“下車する”の意味で使うか",
+        "questionNumber": "201",
+        "mapNumbers": [
+          "094"
+        ],
+        "cardCount": 18,
+        "sourceTitle": "日本言語地図注記一覧11",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M094Q201/manifest.json"
+      }
+    ],
+    "096": [
+      {
+        "ljcId": "LJC-M096Q127",
+        "title": "こおる (水が凍る)",
+        "questionNumber": "127",
+        "mapNumbers": [
+          "096"
+        ],
+        "cardCount": 34,
+        "sourceTitle": "日本言語地図注記一覧11",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json"
+      }
+    ],
+    "097": [
+      {
+        "ljcId": "LJC-M097Q128",
+        "title": "こおる (手拭が凍る)",
+        "questionNumber": "128",
+        "mapNumbers": [
+          "097"
+        ],
+        "cardCount": 51,
+        "sourceTitle": "日本言語地図注記一覧11",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M097Q128/manifest.json"
+      }
+    ],
+    "101": [
+      {
+        "ljcId": "LJC-M101Q031",
+        "title": "あたま (頭)",
+        "questionNumber": "31",
+        "mapNumbers": [
+          "101"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧12",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json"
+      }
+    ],
+    "102": [
+      {
+        "ljcId": "LJC-M102Q032",
+        "title": "つむじ (旋毛)",
+        "questionNumber": "32",
+        "mapNumbers": [
+          "102"
+        ],
+        "cardCount": 30,
+        "sourceTitle": "日本言語地図注記一覧12",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json"
+      }
+    ],
+    "103": [
+      {
+        "ljcId": "LJC-M103Q033",
+        "title": "はげあたま (禿げ頭)",
+        "questionNumber": "33",
+        "mapNumbers": [
+          "103"
+        ],
+        "cardCount": 98,
+        "sourceTitle": "日本言語地図注記一覧12",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json"
+      }
+    ],
+    "104": [
+      {
+        "ljcId": "LJC-M104Q231",
+        "title": "はげる (禿げる)",
+        "questionNumber": "231",
+        "mapNumbers": [
+          "104"
+        ],
+        "cardCount": 10,
+        "sourceTitle": "日本言語地図注記一覧12",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M104Q231/manifest.json"
+      }
+    ],
+    "105": [
+      {
+        "ljcId": "LJC-M105Q075",
+        "title": "ふけ (雲脂)",
+        "questionNumber": "75",
+        "mapNumbers": [
+          "105"
+        ],
+        "cardCount": 16,
+        "sourceTitle": "日本言語地図注記一覧12",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M105Q075/manifest.json"
+      }
+    ],
+    "106": [
+      {
+        "ljcId": "LJC-M106Q057",
+        "title": "かお (顔)",
+        "questionNumber": "57",
+        "mapNumbers": [
+          "106"
+        ],
+        "cardCount": 85,
+        "sourceTitle": "日本言語地図注記一覧13",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json"
+      }
+    ],
+    "107": [
+      {
+        "ljcId": "LJC-M107Q056",
+        "title": "ほほ (頬)",
+        "questionNumber": "56",
+        "mapNumbers": [
+          "107"
+        ],
+        "cardCount": 51,
+        "sourceTitle": "日本言語地図注記一覧13",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M107Q056/manifest.json"
+      }
+    ],
+    "108": [
+      {
+        "ljcId": "LJC-M108Q232",
+        "title": "あご (顎)",
+        "questionNumber": "232",
+        "mapNumbers": [
+          "108",
+          "109"
+        ],
+        "cardCount": 73,
+        "sourceTitle": "日本言語地図注記一覧13",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M108Q232/manifest.json"
+      }
+    ],
+    "109": [
+      {
+        "ljcId": "LJC-M108Q232",
+        "title": "あご (顎)",
+        "questionNumber": "232",
+        "mapNumbers": [
+          "108",
+          "109"
+        ],
+        "cardCount": 73,
+        "sourceTitle": "日本言語地図注記一覧13",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M108Q232/manifest.json"
+      }
+    ],
+    "110": [
+      {
+        "ljcId": "LJC-M110Q034",
+        "title": "め (目)",
+        "questionNumber": "34",
+        "mapNumbers": [
+          "110"
+        ],
+        "cardCount": 39,
+        "sourceTitle": "日本言語地図注記一覧14",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M110Q034/manifest.json"
+      }
+    ],
+    "111": [
+      {
+        "ljcId": "LJC-M111Q035",
+        "title": "まゆげ (眉毛)",
+        "questionNumber": "35",
+        "mapNumbers": [
+          "111"
+        ],
+        "cardCount": 48,
+        "sourceTitle": "日本言語地図注記一覧14",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json"
+      }
+    ],
+    "112": [
+      {
+        "ljcId": "LJC-M112Q036",
+        "title": "ものもらい (麦粒腫)",
+        "questionNumber": "36",
+        "mapNumbers": [
+          "112"
+        ],
+        "cardCount": 104,
+        "sourceTitle": "日本言語地図注記一覧14",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json"
+      }
+    ],
+    "113": [
+      {
+        "ljcId": "LJC-M113Q037",
+        "title": "はな (鼻)",
+        "questionNumber": "37",
+        "mapNumbers": [
+          "113"
+        ],
+        "cardCount": 5,
+        "sourceTitle": "日本言語地図注記一覧14",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M113Q037/manifest.json"
+      }
+    ],
+    "114": [
+      {
+        "ljcId": "LJC-M114Q043",
+        "title": "みみ (耳)",
+        "questionNumber": "43",
+        "mapNumbers": [
+          "114"
+        ],
+        "cardCount": 7,
+        "sourceTitle": "日本言語地図注記一覧14",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M114Q043/manifest.json"
+      }
+    ],
+    "115": [
+      {
+        "ljcId": "LJC-M115Q044",
+        "title": "くち (口)",
+        "questionNumber": "44",
+        "mapNumbers": [
+          "115"
+        ],
+        "cardCount": 7,
+        "sourceTitle": "日本言語地図注記一覧14",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M115Q044/manifest.json"
+      }
+    ],
+    "116": [
+      {
+        "ljcId": "LJC-M116Q047",
+        "title": "くちびる (唇)",
+        "questionNumber": "47",
+        "mapNumbers": [
+          "116"
+        ],
+        "cardCount": 43,
+        "sourceTitle": "日本言語地図注記一覧15",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M116Q047/manifest.json"
+      }
+    ],
+    "117": [
+      {
+        "ljcId": "LJC-M117Q048",
+        "title": "した (舌)",
+        "questionNumber": "47",
+        "mapNumbers": [
+          "117"
+        ],
+        "cardCount": 75,
+        "sourceTitle": "日本言語地図注記一覧15",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M117Q048/manifest.json"
+      }
+    ],
+    "118": [
+      {
+        "ljcId": "LJC-M118Q046",
+        "title": "つば (唾)",
+        "questionNumber": "46",
+        "mapNumbers": [
+          "118"
+        ],
+        "cardCount": 48,
+        "sourceTitle": "日本言語地図注記一覧15",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json"
+      }
+    ],
+    "119": [
+      {
+        "ljcId": "LJC-M119Q045",
+        "title": "よだれ (涎)",
+        "questionNumber": "45",
+        "mapNumbers": [
+          "119"
+        ],
+        "cardCount": 35,
+        "sourceTitle": "日本言語地図注記一覧15",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json"
+      }
+    ],
+    "121": [
+      {
+        "ljcId": "LJC-M121Q063",
+        "title": "おやゆび (親指)",
+        "questionNumber": "63",
+        "mapNumbers": [
+          "121"
+        ],
+        "cardCount": 21,
+        "sourceTitle": "日本言語地図注記一覧15",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json"
+      }
+    ],
+    "122": [
+      {
+        "ljcId": "LJC-M122Q064",
+        "title": "ひとさしゆび (人差し指)",
+        "questionNumber": "64",
+        "mapNumbers": [
+          "122"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧16",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M122Q064/manifest.json"
+      }
+    ],
+    "123": [
+      {
+        "ljcId": "LJC-M123Q065",
+        "title": "なかゆび (中指)",
+        "questionNumber": "65",
+        "mapNumbers": [
+          "123"
+        ],
+        "cardCount": 33,
+        "sourceTitle": "日本言語地図注記一覧16",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json"
+      }
+    ],
+    "124": [
+      {
+        "ljcId": "LJC-M124Q066",
+        "title": "くすりゆび (薬指)",
+        "questionNumber": "66",
+        "mapNumbers": [
+          "124"
+        ],
+        "cardCount": 43,
+        "sourceTitle": "日本言語地図注記一覧16",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json"
+      }
+    ],
+    "125": [
+      {
+        "ljcId": "LJC-M125Q067",
+        "title": "こゆび (小指)",
+        "questionNumber": "67",
+        "mapNumbers": [
+          "125"
+        ],
+        "cardCount": 18,
+        "sourceTitle": "日本言語地図注記一覧16",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json"
+      }
+    ],
+    "127": [
+      {
+        "ljcId": "LJC-M127Q068",
+        "title": "しもやけ (凍傷)",
+        "questionNumber": "68",
+        "mapNumbers": [
+          "127"
+        ],
+        "cardCount": 66,
+        "sourceTitle": "日本言語地図注記一覧16",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json"
+      }
+    ],
+    "128": [
+      {
+        "ljcId": "LJC-M128Q233",
+        "title": "くるぶし (踝)",
+        "questionNumber": "233",
+        "mapNumbers": [
+          "128"
+        ],
+        "cardCount": 51,
+        "sourceTitle": "日本言語地図注記一覧16",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json"
+      }
+    ],
+    "129": [
+      {
+        "ljcId": "LJC-M129Q069",
+        "title": "かかと (踵)",
+        "questionNumber": "69",
+        "mapNumbers": [
+          "129"
+        ],
+        "cardCount": 69,
+        "sourceTitle": "日本言語地図注記一覧17",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M129Q069/manifest.json"
+      }
+    ],
+    "130": [
+      {
+        "ljcId": "LJC-M130Q073",
+        "title": "みずおち (鳩尾)",
+        "questionNumber": "73",
+        "mapNumbers": [
+          "130"
+        ],
+        "cardCount": 35,
+        "sourceTitle": "日本言語地図注記一覧17",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json"
+      }
+    ],
+    "131": [
+      {
+        "ljcId": "LJC-M131Q074",
+        "title": "あか (垢)",
+        "questionNumber": "74",
+        "mapNumbers": [
+          "131"
+        ],
+        "cardCount": 21,
+        "sourceTitle": "日本言語地図注記一覧17",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json"
+      }
+    ],
+    "132": [
+      {
+        "ljcId": "LJC-M132Q058",
+        "title": "あざ (痣)",
+        "questionNumber": "58",
+        "mapNumbers": [
+          "132"
+        ],
+        "cardCount": 71,
+        "sourceTitle": "日本言語地図注記一覧17",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json"
+      }
+    ],
+    "133": [
+      {
+        "ljcId": "LJC-M133Q060",
+        "title": "ほくろ (黒子) ―小さいもの",
+        "questionNumber": "60",
+        "mapNumbers": [
+          "133"
+        ],
+        "cardCount": 63,
+        "sourceTitle": "日本言語地図注記一覧17",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M133Q060/manifest.json"
+      }
+    ],
+    "134": [
+      {
+        "ljcId": "LJC-M134Q061",
+        "title": "ほくろ (黒子) ―大きいもの",
+        "questionNumber": "61",
+        "mapNumbers": [
+          "134"
+        ],
+        "cardCount": 51,
+        "sourceTitle": "日本言語地図注記一覧18",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json"
+      }
+    ],
+    "136": [
+      {
+        "ljcId": "LJC-M136Q080",
+        "title": "おとこ (男)",
+        "questionNumber": "80",
+        "mapNumbers": [
+          "136"
+        ],
+        "cardCount": 43,
+        "sourceTitle": "日本言語地図注記一覧18",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json"
+      }
+    ],
+    "137": [
+      {
+        "ljcId": "LJC-M137Q081",
+        "title": "おんな (女)",
+        "questionNumber": "81",
+        "mapNumbers": [
+          "137",
+          "138"
+        ],
+        "cardCount": 118,
+        "sourceTitle": "日本言語地図注記一覧18",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json"
+      }
+    ],
+    "138": [
+      {
+        "ljcId": "LJC-M137Q081",
+        "title": "おんな (女)",
+        "questionNumber": "81",
+        "mapNumbers": [
+          "137",
+          "138"
+        ],
+        "cardCount": 118,
+        "sourceTitle": "日本言語地図注記一覧18",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json"
+      }
+    ],
+    "139": [
+      {
+        "ljcId": "LJC-M139Q140",
+        "title": "ひまご (曾孫)",
+        "questionNumber": "140",
+        "mapNumbers": [
+          "139"
+        ],
+        "cardCount": 8,
+        "sourceTitle": "日本言語地図注記一覧19",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M139Q140/manifest.json"
+      }
+    ],
+    "140": [
+      {
+        "ljcId": "LJC-M140Q241",
+        "title": "やしゃご (玄孫)",
+        "questionNumber": "241",
+        "mapNumbers": [
+          "140"
+        ],
+        "cardCount": 26,
+        "sourceTitle": "日本言語地図注記一覧19",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json"
+      }
+    ],
+    "141": [
+      {
+        "ljcId": "LJC-M141Q242",
+        "title": "おじいさん (祖父)",
+        "questionNumber": "242",
+        "mapNumbers": [
+          "141"
+        ],
+        "cardCount": 54,
+        "sourceTitle": "日本言語地図注記一覧19",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json"
+      }
+    ],
+    "142": [
+      {
+        "ljcId": "LJC-M142Q243",
+        "title": "ひいおじいさん (曾祖父)",
+        "questionNumber": "243",
+        "mapNumbers": [
+          "142"
+        ],
+        "cardCount": 35,
+        "sourceTitle": "日本言語地図注記一覧19",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M142Q243/manifest.json"
+      }
+    ],
+    "143": [
+      {
+        "ljcId": "LJC-M143Q082",
+        "title": "たこ (凧)",
+        "questionNumber": "82",
+        "mapNumbers": [
+          "143"
+        ],
+        "cardCount": 74,
+        "sourceTitle": "日本言語地図注記一覧19",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json"
+      }
+    ],
+    "144": [
+      {
+        "ljcId": "LJC-M144Q083",
+        "title": "たけうま (竹馬)",
+        "questionNumber": "83",
+        "mapNumbers": [
+          "144"
+        ],
+        "cardCount": 45,
+        "sourceTitle": "日本言語地図注記一覧19",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json"
+      }
+    ],
+    "145": [
+      {
+        "ljcId": "LJC-M145Q085",
+        "title": "おてだま (お手玉)",
+        "questionNumber": "85",
+        "mapNumbers": [
+          "145"
+        ],
+        "cardCount": 36,
+        "sourceTitle": "日本言語地図注記一覧20",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json"
+      }
+    ],
+    "146": [
+      {
+        "ljcId": "LJC-M146Q084",
+        "title": "おてだまあそび (お手玉遊び)",
+        "questionNumber": "84",
+        "mapNumbers": [
+          "146"
+        ],
+        "cardCount": 63,
+        "sourceTitle": "日本言語地図注記一覧20",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M146Q084/manifest.json"
+      }
+    ],
+    "147": [
+      {
+        "ljcId": "LJC-M147Q088",
+        "title": "おにごっこ (鬼ごっこ)",
+        "questionNumber": "88",
+        "mapNumbers": [
+          "147"
+        ],
+        "cardCount": 60,
+        "sourceTitle": "日本言語地図注記一覧20",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json"
+      }
+    ],
+    "148": [
+      {
+        "ljcId": "LJC-M148Q089",
+        "title": "かくれんぼ (隠れん坊)",
+        "questionNumber": "89",
+        "mapNumbers": [
+          "148"
+        ],
+        "cardCount": 39,
+        "sourceTitle": "日本言語地図注記一覧20",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json"
+      }
+    ],
+    "149": [
+      {
+        "ljcId": "LJC-M149Q086",
+        "title": "かたぐるま (肩車)",
+        "questionNumber": "86",
+        "mapNumbers": [
+          "149",
+          "150"
+        ],
+        "cardCount": 52,
+        "sourceTitle": "日本言語地図注記一覧20",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json"
+      }
+    ],
+    "150": [
+      {
+        "ljcId": "LJC-M149Q086",
+        "title": "かたぐるま (肩車)",
+        "questionNumber": "86",
+        "mapNumbers": [
+          "149",
+          "150"
+        ],
+        "cardCount": 52,
+        "sourceTitle": "日本言語地図注記一覧20",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json"
+      }
+    ],
+    "151": [
+      {
+        "ljcId": "LJC-M151Q090",
+        "title": "おかね (貨幣)",
+        "questionNumber": "90",
+        "mapNumbers": [
+          "151"
+        ],
+        "cardCount": 91,
+        "sourceTitle": "日本言語地図注記一覧21",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json"
+      }
+    ],
+    "152": [
+      {
+        "ljcId": "LJC-M152Q091",
+        "title": "おつり (釣銭)",
+        "questionNumber": "91",
+        "mapNumbers": [
+          "152"
+        ],
+        "cardCount": 26,
+        "sourceTitle": "日本言語地図注記一覧21",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json"
+      }
+    ],
+    "153": [
+      {
+        "ljcId": "LJC-M153Q166",
+        "title": "いと (糸)",
+        "questionNumber": "166",
+        "mapNumbers": [
+          "153"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧21",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json"
+      }
+    ],
+    "155": [
+      {
+        "ljcId": "LJC-M155Q167",
+        "title": "きぬいと (絹糸)",
+        "questionNumber": "167",
+        "mapNumbers": [
+          "155"
+        ],
+        "cardCount": 12,
+        "sourceTitle": "日本言語地図注記一覧21",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json"
+      }
+    ],
+    "156": [
+      {
+        "ljcId": "LJC-M156Q169",
+        "title": "もめんいと (木綿糸)",
+        "questionNumber": "169",
+        "mapNumbers": [
+          "156"
+        ],
+        "cardCount": 19,
+        "sourceTitle": "日本言語地図注記一覧21",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M156Q169/manifest.json"
+      }
+    ],
+    "157": [
+      {
+        "ljcId": "LJC-M157Q168",
+        "title": "はたいと (機糸)",
+        "questionNumber": "168",
+        "mapNumbers": [
+          "157"
+        ],
+        "cardCount": 66,
+        "sourceTitle": "日本言語地図注記一覧21",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M157Q168/manifest.json"
+      }
+    ],
+    "158": [
+      {
+        "ljcId": "LJC-M158Q164",
+        "title": "わた (綿)",
+        "questionNumber": "164",
+        "mapNumbers": [
+          "158"
+        ],
+        "cardCount": 4,
+        "sourceTitle": "日本言語地図注記一覧22",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M158Q164/manifest.json"
+      }
+    ],
+    "159": [
+      {
+        "ljcId": "LJC-M159Q165",
+        "title": "まわた (真綿)",
+        "questionNumber": "165",
+        "mapNumbers": [
+          "159"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧22",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json"
+      }
+    ],
+    "160": [
+      {
+        "ljcId": "LJC-M160Q251",
+        "title": "せんたく (洗濯)",
+        "questionNumber": "251",
+        "mapNumbers": [
+          "160"
+        ],
+        "cardCount": 14,
+        "sourceTitle": "日本言語地図注記一覧22",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json"
+      }
+    ],
+    "161": [
+      {
+        "ljcId": "LJC-M161Q157",
+        "title": "せともの (陶磁器)",
+        "questionNumber": "157",
+        "mapNumbers": [
+          "161"
+        ],
+        "cardCount": 47,
+        "sourceTitle": "日本言語地図注記一覧22",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json"
+      }
+    ],
+    "162": [
+      {
+        "ljcId": "LJC-M162Q155",
+        "title": "すりばち (擂鉢)",
+        "questionNumber": "155",
+        "mapNumbers": [
+          "162"
+        ],
+        "cardCount": 18,
+        "sourceTitle": "日本言語地図注記一覧22",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json"
+      }
+    ],
+    "163": [
+      {
+        "ljcId": "LJC-M163Q156",
+        "title": "すりこぎ (擂粉木)",
+        "questionNumber": "156",
+        "mapNumbers": [
+          "163"
+        ],
+        "cardCount": 22,
+        "sourceTitle": "日本言語地図注記一覧22",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json"
+      }
+    ],
+    "164": [
+      {
+        "ljcId": "LJC-M164Q154",
+        "title": "まないた (俎板)",
+        "questionNumber": "154",
+        "mapNumbers": [
+          "164"
+        ],
+        "cardCount": 108,
+        "sourceTitle": "日本言語地図注記一覧22",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json"
+      }
+    ],
+    "165": [
+      {
+        "ljcId": "LJC-M165Q177",
+        "title": "こめびつ (米櫃)",
+        "questionNumber": "177",
+        "mapNumbers": [
+          "165",
+          "166"
+        ],
+        "cardCount": 157,
+        "sourceTitle": "日本言語地図注記一覧23",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M165Q177/manifest.json"
+      }
+    ],
+    "166": [
+      {
+        "ljcId": "LJC-M165Q177",
+        "title": "こめびつ (米櫃)",
+        "questionNumber": "177",
+        "mapNumbers": [
+          "165",
+          "166"
+        ],
+        "cardCount": 157,
+        "sourceTitle": "日本言語地図注記一覧23",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M165Q177/manifest.json"
+      }
+    ],
+    "167": [
+      {
+        "ljcId": "LJC-M167Q173",
+        "title": "こめ (米)",
+        "questionNumber": "173",
+        "mapNumbers": [
+          "167"
+        ],
+        "cardCount": 8,
+        "sourceTitle": "日本言語地図注記一覧23",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M167Q173/manifest.json"
+      }
+    ],
+    "168": [
+      {
+        "ljcId": "LJC-M168Q174",
+        "title": "うるち (粳米)",
+        "questionNumber": "174",
+        "mapNumbers": [
+          "168"
+        ],
+        "cardCount": 50,
+        "sourceTitle": "日本言語地図注記一覧24",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json"
+      }
+    ],
+    "169": [
+      {
+        "ljcId": "LJC-M169Q175",
+        "title": "もちごめ (糯米)",
+        "questionNumber": "175",
+        "mapNumbers": [
+          "169"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧24",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json"
+      }
+    ],
+    "170": [
+      {
+        "ljcId": "LJC-M170Q176",
+        "title": "はんまい (飯米)",
+        "questionNumber": "176",
+        "mapNumbers": [
+          "170"
+        ],
+        "cardCount": 73,
+        "sourceTitle": "日本言語地図注記一覧24",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json"
+      }
+    ],
+    "171": [
+      {
+        "ljcId": "LJC-M171Q178",
+        "title": "もみがら (籾殻)",
+        "questionNumber": "178",
+        "mapNumbers": [
+          "171",
+          "173"
+        ],
+        "cardCount": 44,
+        "sourceTitle": "日本言語地図注記一覧24",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json"
+      }
+    ],
+    "172": [
+      {
+        "ljcId": "LJC-M172Q179",
+        "title": "ぬか (糠)",
+        "questionNumber": "179",
+        "mapNumbers": [
+          "172"
+        ],
+        "cardCount": 26,
+        "sourceTitle": "日本言語地図注記一覧24",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json"
+      }
+    ],
+    "173": [
+      {
+        "ljcId": "LJC-M171Q178",
+        "title": "もみがら (籾殻)",
+        "questionNumber": "178",
+        "mapNumbers": [
+          "171",
+          "173"
+        ],
+        "cardCount": 44,
+        "sourceTitle": "日本言語地図注記一覧24",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json"
+      }
+    ],
+    "174": [
+      {
+        "ljcId": "LJC-M174Q186",
+        "title": "じゃがいも (馬鈴薯)",
+        "questionNumber": "186",
+        "mapNumbers": [
+          "174",
+          "175"
+        ],
+        "cardCount": 115,
+        "sourceTitle": "日本言語地図注記一覧25",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json"
+      }
+    ],
+    "175": [
+      {
+        "ljcId": "LJC-M174Q186",
+        "title": "じゃがいも (馬鈴薯)",
+        "questionNumber": "186",
+        "mapNumbers": [
+          "174",
+          "175"
+        ],
+        "cardCount": 115,
+        "sourceTitle": "日本言語地図注記一覧25",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json"
+      }
+    ],
+    "176": [
+      {
+        "ljcId": "LJC-M176Q188",
+        "title": "さつまいも (甘藷)",
+        "questionNumber": "188",
+        "mapNumbers": [
+          "176"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧25",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json"
+      }
+    ],
+    "177": [
+      {
+        "ljcId": "LJC-M177Q187",
+        "title": "さといも (里芋)",
+        "questionNumber": "187",
+        "mapNumbers": [
+          "177"
+        ],
+        "cardCount": 86,
+        "sourceTitle": "日本言語地図注記一覧25",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json"
+      }
+    ],
+    "179": [
+      {
+        "ljcId": "LJC-M179Q189",
+        "title": "イモの意味",
+        "questionNumber": "189",
+        "mapNumbers": [
+          "179"
+        ],
+        "cardCount": 63,
+        "sourceTitle": "日本言語地図注記一覧26",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json"
+      }
+    ],
+    "180": [
+      {
+        "ljcId": "LJC-M180Q191",
+        "title": "かぼちゃ (南瓜)",
+        "questionNumber": "191",
+        "mapNumbers": [
+          "180"
+        ],
+        "cardCount": 74,
+        "sourceTitle": "日本言語地図注記一覧26",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json"
+      }
+    ],
+    "181": [
+      {
+        "ljcId": "LJC-M181Q282",
+        "title": "なす (茄子)",
+        "questionNumber": "282",
+        "mapNumbers": [
+          "181"
+        ],
+        "cardCount": 8,
+        "sourceTitle": "日本言語地図注記一覧26",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M181Q282/manifest.json"
+      }
+    ],
+    "182": [
+      {
+        "ljcId": "LJC-M182Q190",
+        "title": "とうもろこし (玉蜀黍)",
+        "questionNumber": "190",
+        "mapNumbers": [
+          "182"
+        ],
+        "cardCount": 49,
+        "sourceTitle": "日本言語地図注記一覧26",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M182Q190/manifest.json"
+      }
+    ],
+    "183": [
+      {
+        "ljcId": "LJC-M183Q252",
+        "title": "とうがらし (蕃椒)",
+        "questionNumber": "252",
+        "mapNumbers": [
+          "183"
+        ],
+        "cardCount": 16,
+        "sourceTitle": "日本言語地図注記一覧26",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json"
+      }
+    ],
+    "185": [
+      {
+        "ljcId": "LJC-M185Q180",
+        "title": "た (水田) ―一区画",
+        "questionNumber": "180",
+        "mapNumbers": [
+          "185"
+        ],
+        "cardCount": 69,
+        "sourceTitle": "日本言語地図注記一覧27",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M185Q180/manifest.json"
+      }
+    ],
+    "186": [
+      {
+        "ljcId": "LJC-M186Q181",
+        "title": "た (水田) ―集合",
+        "questionNumber": "181",
+        "mapNumbers": [
+          "186"
+        ],
+        "cardCount": 55,
+        "sourceTitle": "日本言語地図注記一覧27",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json"
+      }
+    ],
+    "187": [
+      {
+        "ljcId": "LJC-M187Q182",
+        "title": "あぜ (畦畔)",
+        "questionNumber": "182",
+        "mapNumbers": [
+          "187"
+        ],
+        "cardCount": 72,
+        "sourceTitle": "日本言語地図注記一覧27",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json"
+      }
+    ],
+    "188": [
+      {
+        "ljcId": "LJC-M188Q183",
+        "title": "はたけ (畑)",
+        "questionNumber": "183",
+        "mapNumbers": [
+          "188"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧27",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json"
+      }
+    ],
+    "189": [
+      {
+        "ljcId": "LJC-M189Q184",
+        "title": "とりおどし (鳥威)",
+        "questionNumber": "184",
+        "mapNumbers": [
+          "189"
+        ],
+        "cardCount": 45,
+        "sourceTitle": "日本言語地図注記一覧28",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M189Q184/manifest.json"
+      }
+    ],
+    "190": [
+      {
+        "ljcId": "LJC-M190Q185",
+        "title": "かかし (案山子)",
+        "questionNumber": "185",
+        "mapNumbers": [
+          "190"
+        ],
+        "cardCount": 64,
+        "sourceTitle": "日本言語地図注記一覧28",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json"
+      }
+    ],
+    "191": [
+      {
+        "ljcId": "LJC-M191Q244",
+        "title": "いえ (家屋)",
+        "questionNumber": "244",
+        "mapNumbers": [
+          "191"
+        ],
+        "cardCount": 17,
+        "sourceTitle": "日本言語地図注記一覧28",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json"
+      }
+    ],
+    "192": [
+      {
+        "ljcId": "LJC-M192Q248",
+        "title": "ふすま (襖障子)",
+        "questionNumber": "248",
+        "mapNumbers": [
+          "192"
+        ],
+        "cardCount": 23,
+        "sourceTitle": "日本言語地図注記一覧28",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json"
+      }
+    ],
+    "193": [
+      {
+        "ljcId": "LJC-M193Q247",
+        "title": "にわ (庭園)",
+        "questionNumber": "247",
+        "mapNumbers": [
+          "193"
+        ],
+        "cardCount": 80,
+        "sourceTitle": "日本言語地図注記一覧28",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json"
+      }
+    ],
+    "194": [
+      {
+        "ljcId": "LJC-M194Q142",
+        "title": "ニワを“土間”の意味で使うか",
+        "questionNumber": "142",
+        "mapNumbers": [
+          "194"
+        ],
+        "cardCount": 57,
+        "sourceTitle": "日本言語地図注記一覧29",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json"
+      }
+    ],
+    "195": [
+      {
+        "ljcId": "LJC-M195Q143",
+        "title": "ニワを“前庭―仕事場”の意味で使うか",
+        "questionNumber": "143",
+        "mapNumbers": [
+          "195"
+        ],
+        "cardCount": 121,
+        "sourceTitle": "日本言語地図注記一覧29",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M195Q143/manifest.json"
+      }
+    ],
+    "196": [
+      {
+        "ljcId": "LJC-M196Q146",
+        "title": "カドを“前庭―仕事場”の意味で使うか",
+        "questionNumber": "146",
+        "mapNumbers": [
+          "196"
+        ],
+        "cardCount": 50,
+        "sourceTitle": "日本言語地図注記一覧29",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json"
+      }
+    ],
+    "197": [
+      {
+        "ljcId": "LJC-M197Q147",
+        "title": "いど (井戸)",
+        "questionNumber": "147",
+        "mapNumbers": [
+          "197"
+        ],
+        "cardCount": 61,
+        "sourceTitle": "日本言語地図注記一覧30",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json"
+      }
+    ],
+    "198": [
+      {
+        "ljcId": "LJC-M198Q138",
+        "title": "もり (森)",
+        "questionNumber": "138",
+        "mapNumbers": [
+          "198"
+        ],
+        "cardCount": 61,
+        "sourceTitle": "日本言語地図注記一覧30",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M198Q138/manifest.json"
+      }
+    ],
+    "199": [
+      {
+        "ljcId": "LJC-M199Q136",
+        "title": "はやし (林)",
+        "questionNumber": "136",
+        "mapNumbers": [
+          "199"
+        ],
+        "cardCount": 84,
+        "sourceTitle": "日本言語地図注記一覧30",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M199Q136/manifest.json"
+      }
+    ],
+    "200": [
+      {
+        "ljcId": "LJC-M200Q137",
+        "title": "ハヤシ・ヤマの意味",
+        "questionNumber": "137",
+        "mapNumbers": [
+          "200"
+        ],
+        "cardCount": 44,
+        "sourceTitle": "日本言語地図注記一覧30",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M200Q137/manifest.json"
+      }
+    ],
+    "201": [
+      {
+        "ljcId": "LJC-M201Q213",
+        "title": "うま (馬)",
+        "questionNumber": "213",
+        "mapNumbers": [
+          "201"
+        ],
+        "cardCount": 27,
+        "sourceTitle": "日本言語地図注記一覧31",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M201Q213/manifest.json"
+      }
+    ],
+    "202": [
+      {
+        "ljcId": "LJC-M202Q214",
+        "title": "おうま (牡馬)",
+        "questionNumber": "214",
+        "mapNumbers": [
+          "202"
+        ],
+        "cardCount": 41,
+        "sourceTitle": "日本言語地図注記一覧31",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M202Q214/manifest.json"
+      }
+    ],
+    "203": [
+      {
+        "ljcId": "LJC-M203Q215",
+        "title": "めうま (牝馬)",
+        "questionNumber": "215",
+        "mapNumbers": [
+          "203"
+        ],
+        "cardCount": 36,
+        "sourceTitle": "日本言語地図注記一覧31",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M203Q215/manifest.json"
+      }
+    ],
+    "204": [
+      {
+        "ljcId": "LJC-M204Q216",
+        "title": "こうま (子馬)",
+        "questionNumber": "216",
+        "mapNumbers": [
+          "204"
+        ],
+        "cardCount": 46,
+        "sourceTitle": "日本言語地図注記一覧31",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M204Q216/manifest.json"
+      }
+    ],
+    "205": [
+      {
+        "ljcId": "LJC-M205Q217",
+        "title": "たてがみ (鬣)",
+        "questionNumber": "217",
+        "mapNumbers": [
+          "205"
+        ],
+        "cardCount": 34,
+        "sourceTitle": "日本言語地図注記一覧31",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M205Q217/manifest.json"
+      }
+    ],
+    "206": [
+      {
+        "ljcId": "LJC-M206Q218",
+        "title": "うし (牛)",
+        "questionNumber": "218",
+        "mapNumbers": [
+          "206"
+        ],
+        "cardCount": 68,
+        "sourceTitle": "日本言語地図注記一覧32",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M206Q218/manifest.json"
+      }
+    ],
+    "207": [
+      {
+        "ljcId": "LJC-M207Q219",
+        "title": "おうし (牡牛)",
+        "questionNumber": "219",
+        "mapNumbers": [
+          "207"
+        ],
+        "cardCount": 67,
+        "sourceTitle": "日本言語地図注記一覧32",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M207Q219/manifest.json"
+      }
+    ],
+    "208": [
+      {
+        "ljcId": "LJC-M208Q220",
+        "title": "めうし (牝牛)",
+        "questionNumber": "220",
+        "mapNumbers": [
+          "208"
+        ],
+        "cardCount": 46,
+        "sourceTitle": "日本言語地図注記一覧32",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M208Q220/manifest.json"
+      }
+    ],
+    "209": [
+      {
+        "ljcId": "LJC-M209Q221",
+        "title": "こうし (子牛)",
+        "questionNumber": "221",
+        "mapNumbers": [
+          "209"
+        ],
+        "cardCount": 54,
+        "sourceTitle": "日本言語地図注記一覧33",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M209Q221/manifest.json"
+      }
+    ],
+    "210": [
+      {
+        "ljcId": "LJC-M210Q222",
+        "title": "もうもう (牛の鳴き声)",
+        "questionNumber": "222",
+        "mapNumbers": [
+          "210"
+        ],
+        "cardCount": 88,
+        "sourceTitle": "日本言語地図注記一覧33",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M210Q222/manifest.json"
+      }
+    ],
+    "211": [
+      {
+        "ljcId": "LJC-M211Q223",
+        "title": "もぐら (土竜・〓鼠)",
+        "questionNumber": "223",
+        "mapNumbers": [
+          "211"
+        ],
+        "cardCount": 39,
+        "sourceTitle": "日本言語地図注記一覧33",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M211Q223/manifest.json"
+      }
+    ],
+    "212": [
+      {
+        "ljcId": "LJC-M212Q224",
+        "title": "ふくろう (梟)",
+        "questionNumber": "224",
+        "mapNumbers": [
+          "212"
+        ],
+        "cardCount": 50,
+        "sourceTitle": "日本言語地図注記一覧33",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M212Q224/manifest.json"
+      }
+    ],
+    "213": [
+      {
+        "ljcId": "LJC-M213Q226",
+        "title": "せきれい (鶺鴒)",
+        "questionNumber": "226",
+        "mapNumbers": [
+          "213"
+        ],
+        "cardCount": 84,
+        "sourceTitle": "日本言語地図注記一覧34",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M213Q226/manifest.json"
+      }
+    ],
+    "214": [
+      {
+        "ljcId": "LJC-M214Q228",
+        "title": "すずめ (雀)",
+        "questionNumber": "228",
+        "mapNumbers": [
+          "214"
+        ],
+        "cardCount": 15,
+        "sourceTitle": "日本言語地図注記一覧34",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M214Q228/manifest.json"
+      }
+    ],
+    "215": [
+      {
+        "ljcId": "LJC-M215Q230",
+        "title": "とさか (鶏冠)",
+        "questionNumber": "230",
+        "mapNumbers": [
+          "215"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧34",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M215Q230/manifest.json"
+      }
+    ],
+    "216": [
+      {
+        "ljcId": "LJC-M216Q254",
+        "title": "さかな (魚)",
+        "questionNumber": "254",
+        "mapNumbers": [
+          "216"
+        ],
+        "cardCount": 124,
+        "sourceTitle": "日本言語地図注記一覧34",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M216Q254/manifest.json"
+      }
+    ],
+    "217": [
+      {
+        "ljcId": "LJC-M217Q076",
+        "title": "うろこ (鱗)",
+        "questionNumber": "76",
+        "mapNumbers": [
+          "217"
+        ],
+        "cardCount": 47,
+        "sourceTitle": "日本言語地図注記一覧35",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M217Q076/manifest.json"
+      }
+    ],
+    "218": [
+      {
+        "ljcId": "LJC-M218Q008",
+        "title": "かえる (蛙)",
+        "questionNumber": "8",
+        "mapNumbers": [
+          "218"
+        ],
+        "cardCount": 59,
+        "sourceTitle": "日本言語地図注記一覧35",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M218Q008/manifest.json"
+      }
+    ],
+    "219": [
+      {
+        "ljcId": "LJC-M219Q009",
+        "title": "ひきがえる (蟇・蟾蜍)",
+        "questionNumber": "9",
+        "mapNumbers": [
+          "219",
+          "220"
+        ],
+        "cardCount": 60,
+        "sourceTitle": "日本言語地図注記一覧35",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M219Q009/manifest.json"
+      }
+    ],
+    "220": [
+      {
+        "ljcId": "LJC-M219Q009",
+        "title": "ひきがえる (蟇・蟾蜍)",
+        "questionNumber": "9",
+        "mapNumbers": [
+          "219",
+          "220"
+        ],
+        "cardCount": 60,
+        "sourceTitle": "日本言語地図注記一覧35",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M219Q009/manifest.json"
+      }
+    ],
+    "221": [
+      {
+        "ljcId": "LJC-M221Q007",
+        "title": "おたまじゃくし (蝌蚪)",
+        "questionNumber": "7",
+        "mapNumbers": [
+          "221",
+          "222",
+          "223"
+        ],
+        "cardCount": 86,
+        "sourceTitle": "日本言語地図注記一覧35",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M221Q007/manifest.json"
+      }
+    ],
+    "222": [
+      {
+        "ljcId": "LJC-M221Q007",
+        "title": "おたまじゃくし (蝌蚪)",
+        "questionNumber": "7",
+        "mapNumbers": [
+          "221",
+          "222",
+          "223"
+        ],
+        "cardCount": 86,
+        "sourceTitle": "日本言語地図注記一覧35",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M221Q007/manifest.json"
+      }
+    ],
+    "223": [
+      {
+        "ljcId": "LJC-M221Q007",
+        "title": "おたまじゃくし (蝌蚪)",
+        "questionNumber": "7",
+        "mapNumbers": [
+          "221",
+          "222",
+          "223"
+        ],
+        "cardCount": 86,
+        "sourceTitle": "日本言語地図注記一覧35",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M221Q007/manifest.json"
+      }
+    ],
+    "224": [
+      {
+        "ljcId": "LJC-M224Q012",
+        "title": "とかげ (蜥蜴)",
+        "questionNumber": "12",
+        "mapNumbers": [
+          "224"
+        ],
+        "cardCount": 78,
+        "sourceTitle": "日本言語地図注記一覧36",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M224Q012/manifest.json"
+      }
+    ],
+    "225": [
+      {
+        "ljcId": "LJC-M225Q013",
+        "title": "かなへび (金蛇)",
+        "questionNumber": "13",
+        "mapNumbers": [
+          "225"
+        ],
+        "cardCount": 105,
+        "sourceTitle": "日本言語地図注記一覧36",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M225Q013/manifest.json"
+      }
+    ],
+    "226": [
+      {
+        "ljcId": "LJC-M226Q010",
+        "title": "へび (蛇)",
+        "questionNumber": "10",
+        "mapNumbers": [
+          "226"
+        ],
+        "cardCount": 55,
+        "sourceTitle": "日本言語地図注記一覧37",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M226Q010/manifest.json"
+      }
+    ],
+    "228": [
+      {
+        "ljcId": "LJC-M228Q011",
+        "title": "まむし (蝮)",
+        "questionNumber": "11",
+        "mapNumbers": [
+          "228"
+        ],
+        "cardCount": 46,
+        "sourceTitle": "日本言語地図注記一覧37",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M228Q011/manifest.json"
+      }
+    ],
+    "229": [
+      {
+        "ljcId": "LJC-M229Q001",
+        "title": "かまきり (蟷螂)",
+        "questionNumber": "1",
+        "mapNumbers": [
+          "229",
+          "230"
+        ],
+        "cardCount": 75,
+        "sourceTitle": "日本言語地図注記一覧37",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M229Q001/manifest.json"
+      }
+    ],
+    "230": [
+      {
+        "ljcId": "LJC-M229Q001",
+        "title": "かまきり (蟷螂)",
+        "questionNumber": "1",
+        "mapNumbers": [
+          "229",
+          "230"
+        ],
+        "cardCount": 75,
+        "sourceTitle": "日本言語地図注記一覧37",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M229Q001/manifest.json"
+      }
+    ],
+    "231": [
+      {
+        "ljcId": "LJC-M231Q284",
+        "title": "とんぼ (蜻蛉)",
+        "questionNumber": "284",
+        "mapNumbers": [
+          "231"
+        ],
+        "cardCount": 23,
+        "sourceTitle": "日本言語地図注記一覧37",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M231Q284/manifest.json"
+      }
+    ],
+    "232": [
+      {
+        "ljcId": "LJC-M232Q257",
+        "title": "はえ (蝿)",
+        "questionNumber": "257",
+        "mapNumbers": [
+          "232"
+        ],
+        "cardCount": 13,
+        "sourceTitle": "日本言語地図注記一覧37",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M232Q257/manifest.json"
+      }
+    ],
+    "233": [
+      {
+        "ljcId": "LJC-M233Q002",
+        "title": "くも (蜘蛛)",
+        "questionNumber": "2",
+        "mapNumbers": [
+          "233"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧38",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M233Q002/manifest.json"
+      }
+    ],
+    "234": [
+      {
+        "ljcId": "LJC-M234Q004",
+        "title": "くものす (蜘蛛の巣)",
+        "questionNumber": "4",
+        "mapNumbers": [
+          "234"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧38",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M234Q004/manifest.json"
+      }
+    ],
+    "235": [
+      {
+        "ljcId": "LJC-M235Q003",
+        "title": "くものいと (蜘蛛の糸)",
+        "questionNumber": "3",
+        "mapNumbers": [
+          "235"
+        ],
+        "cardCount": 37,
+        "sourceTitle": "日本言語地図注記一覧38",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M235Q003/manifest.json"
+      }
+    ],
+    "236": [
+      {
+        "ljcId": "LJC-M236Q005",
+        "title": "かたつむり (蝸牛)",
+        "questionNumber": "5",
+        "mapNumbers": [
+          "236",
+          "237",
+          "238"
+        ],
+        "cardCount": 115,
+        "sourceTitle": "日本言語地図注記一覧38",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M236Q005/manifest.json"
+      }
+    ],
+    "237": [
+      {
+        "ljcId": "LJC-M236Q005",
+        "title": "かたつむり (蝸牛)",
+        "questionNumber": "5",
+        "mapNumbers": [
+          "236",
+          "237",
+          "238"
+        ],
+        "cardCount": 115,
+        "sourceTitle": "日本言語地図注記一覧38",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M236Q005/manifest.json"
+      }
+    ],
+    "238": [
+      {
+        "ljcId": "LJC-M236Q005",
+        "title": "かたつむり (蝸牛)",
+        "questionNumber": "5",
+        "mapNumbers": [
+          "236",
+          "237",
+          "238"
+        ],
+        "cardCount": 115,
+        "sourceTitle": "日本言語地図注記一覧38",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M236Q005/manifest.json"
+      }
+    ],
+    "239": [
+      {
+        "ljcId": "LJC-M239Q006",
+        "title": "なめくじ (蛞蝓)",
+        "questionNumber": "6",
+        "mapNumbers": [
+          "239"
+        ],
+        "cardCount": 30,
+        "sourceTitle": "日本言語地図注記一覧39",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M239Q006/manifest.json"
+      }
+    ],
+    "240": [
+      {
+        "ljcId": "LJC-M240Q192",
+        "title": "すみれ (菫)",
+        "questionNumber": "192",
+        "mapNumbers": [
+          "240"
+        ],
+        "cardCount": 46,
+        "sourceTitle": "日本言語地図注記一覧39",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M240Q192/manifest.json"
+      }
+    ],
+    "241": [
+      {
+        "ljcId": "LJC-M241Q193",
+        "title": "たんぽぽ (蒲公英)",
+        "questionNumber": "193",
+        "mapNumbers": [
+          "241"
+        ],
+        "cardCount": 43,
+        "sourceTitle": "日本言語地図注記一覧39",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M241Q193/manifest.json"
+      }
+    ],
+    "242": [
+      {
+        "ljcId": "LJC-M242Q196",
+        "title": "どくだみ (蕺菜)",
+        "questionNumber": "196",
+        "mapNumbers": [
+          "242"
+        ],
+        "cardCount": 47,
+        "sourceTitle": "日本言語地図注記一覧39",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M242Q196/manifest.json"
+      }
+    ],
+    "243": [
+      {
+        "ljcId": "LJC-M243Q195",
+        "title": "すぎな (杉菜・間荊)",
+        "questionNumber": "195",
+        "mapNumbers": [
+          "243"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧39",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M243Q195/manifest.json"
+      }
+    ],
+    "244": [
+      {
+        "ljcId": "LJC-M244Q194",
+        "title": "つくし (土筆)",
+        "questionNumber": "194",
+        "mapNumbers": [
+          "244"
+        ],
+        "cardCount": 44,
+        "sourceTitle": "日本言語地図注記一覧40",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M244Q194/manifest.json"
+      }
+    ],
+    "245": [
+      {
+        "ljcId": "LJC-M245Q079",
+        "title": "きのこ (茸・蕈)",
+        "questionNumber": "79",
+        "mapNumbers": [
+          "245"
+        ],
+        "cardCount": 68,
+        "sourceTitle": "日本言語地図注記一覧40",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M245Q079/manifest.json"
+      }
+    ],
+    "247": [
+      {
+        "ljcId": "LJC-M247Q197",
+        "title": "まつかさ (松毬)",
+        "questionNumber": "197",
+        "mapNumbers": [
+          "247"
+        ],
+        "cardCount": 26,
+        "sourceTitle": "日本言語地図注記一覧40",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M247Q197/manifest.json"
+      }
+    ],
+    "248": [
+      {
+        "ljcId": "LJC-M248Q198",
+        "title": "たけ (竹)",
+        "questionNumber": "198",
+        "mapNumbers": [
+          "248"
+        ],
+        "cardCount": 9,
+        "sourceTitle": "日本言語地図注記一覧40",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M248Q198/manifest.json"
+      }
+    ],
+    "249": [
+      {
+        "ljcId": "LJC-M249Q199",
+        "title": "とげ (裂片)",
+        "questionNumber": "199",
+        "mapNumbers": [
+          "249"
+        ],
+        "cardCount": 53,
+        "sourceTitle": "日本言語地図注記一覧40",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M249Q199/manifest.json"
+      }
+    ],
+    "250": [
+      {
+        "ljcId": "LJC-M250Q200",
+        "title": "とげ (刺・棘)",
+        "questionNumber": "200",
+        "mapNumbers": [
+          "250"
+        ],
+        "cardCount": 31,
+        "sourceTitle": "日本言語地図注記一覧40",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M250Q200/manifest.json"
+      }
+    ],
+    "251": [
+      {
+        "ljcId": "LJC-M251Q114",
+        "title": "たいよう (太陽)",
+        "questionNumber": "114",
+        "mapNumbers": [
+          "251"
+        ],
+        "cardCount": 68,
+        "sourceTitle": "日本言語地図注記一覧41",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M251Q114/manifest.json"
+      }
+    ],
+    "252": [
+      {
+        "ljcId": "LJC-M252Q116",
+        "title": "つき (月)",
+        "questionNumber": "116",
+        "mapNumbers": [
+          "252"
+        ],
+        "cardCount": 41,
+        "sourceTitle": "日本言語地図注記一覧41",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M252Q116/manifest.json"
+      }
+    ],
+    "253": [
+      {
+        "ljcId": "LJC-M253Q117",
+        "title": "あめ (雨)",
+        "questionNumber": "117",
+        "mapNumbers": [
+          "253"
+        ],
+        "cardCount": 1,
+        "sourceTitle": "日本言語地図注記一覧42",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M253Q117/manifest.json"
+      }
+    ],
+    "254": [
+      {
+        "ljcId": "LJC-M254Q118",
+        "title": "つゆ (梅雨)",
+        "questionNumber": "118",
+        "mapNumbers": [
+          "254"
+        ],
+        "cardCount": 161,
+        "sourceTitle": "日本言語地図注記一覧43",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M254Q118/manifest.json"
+      }
+    ],
+    "255": [
+      {
+        "ljcId": "LJC-M255Q119",
+        "title": "ゆうだち (夕立雨)",
+        "questionNumber": "119",
+        "mapNumbers": [
+          "255"
+        ],
+        "cardCount": 71,
+        "sourceTitle": "日本言語地図注記一覧43",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M255Q119/manifest.json"
+      }
+    ],
+    "256": [
+      {
+        "ljcId": "LJC-M256Q120",
+        "title": "かみなり (雷)",
+        "questionNumber": "120",
+        "mapNumbers": [
+          "256"
+        ],
+        "cardCount": 69,
+        "sourceTitle": "日本言語地図注記一覧43",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M256Q120/manifest.json"
+      }
+    ],
+    "258": [
+      {
+        "ljcId": "LJC-M258Q122",
+        "title": "いなずま (稲妻・電光)",
+        "questionNumber": "122",
+        "mapNumbers": [
+          "258"
+        ],
+        "cardCount": 74,
+        "sourceTitle": "日本言語地図注記一覧43",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M258Q122/manifest.json"
+      }
+    ],
+    "259": [
+      {
+        "ljcId": "LJC-M259Q124",
+        "title": "にじ (虹)",
+        "questionNumber": "124",
+        "mapNumbers": [
+          "259"
+        ],
+        "cardCount": 54,
+        "sourceTitle": "日本言語地図注記一覧44",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M259Q124/manifest.json"
+      }
+    ],
+    "260": [
+      {
+        "ljcId": "LJC-M260Q125",
+        "title": "ゆき (雪)",
+        "questionNumber": "125",
+        "mapNumbers": [
+          "260"
+        ],
+        "cardCount": 15,
+        "sourceTitle": "日本言語地図注記一覧44",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M260Q125/manifest.json"
+      }
+    ],
+    "261": [
+      {
+        "ljcId": "LJC-M261Q126",
+        "title": "こおり (氷)",
+        "questionNumber": "126",
+        "mapNumbers": [
+          "261"
+        ],
+        "cardCount": 51,
+        "sourceTitle": "日本言語地図注記一覧44",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M261Q126/manifest.json"
+      }
+    ],
+    "262": [
+      {
+        "ljcId": "LJC-M262Q129",
+        "title": "つらら (氷柱)",
+        "questionNumber": "129",
+        "mapNumbers": [
+          "262"
+        ],
+        "cardCount": 70,
+        "sourceTitle": "日本言語地図注記一覧44",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M262Q129/manifest.json"
+      }
+    ],
+    "263": [
+      {
+        "ljcId": "LJC-M263Q135",
+        "title": "じしん (地震)",
+        "questionNumber": "135",
+        "mapNumbers": [
+          "263"
+        ],
+        "cardCount": 26,
+        "sourceTitle": "日本言語地図注記一覧44",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M263Q135/manifest.json"
+      }
+    ],
+    "264": [
+      {
+        "ljcId": "LJC-M264Q130",
+        "title": "つむじかぜ (旋風)",
+        "questionNumber": "130",
+        "mapNumbers": [
+          "264"
+        ],
+        "cardCount": 86,
+        "sourceTitle": "日本言語地図注記一覧45",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M264Q130/manifest.json"
+      }
+    ],
+    "265": [
+      {
+        "ljcId": "LJC-M265Q271",
+        "title": "けむり (煙)",
+        "questionNumber": "271",
+        "mapNumbers": [
+          "265"
+        ],
+        "cardCount": 19,
+        "sourceTitle": "日本言語地図注記一覧45",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M265Q271/manifest.json"
+      }
+    ],
+    "266": [
+      {
+        "ljcId": "LJC-M266Q152",
+        "title": "ゆげ (蒸気―湯の場合)",
+        "questionNumber": "152",
+        "mapNumbers": [
+          "266"
+        ],
+        "cardCount": 42,
+        "sourceTitle": "日本言語地図注記一覧45",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M266Q152/manifest.json"
+      }
+    ],
+    "267": [
+      {
+        "ljcId": "LJC-M267Q153",
+        "title": "ゆげ (蒸気―飯の場合)",
+        "questionNumber": "153",
+        "mapNumbers": [
+          "267"
+        ],
+        "cardCount": 51,
+        "sourceTitle": "日本言語地図注記一覧45",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M267Q153/manifest.json"
+      }
+    ],
+    "268": [
+      {
+        "ljcId": "LJC-M268Q038",
+        "title": "におい (芳香)",
+        "questionNumber": "38",
+        "mapNumbers": [
+          "268"
+        ],
+        "cardCount": 91,
+        "sourceTitle": "日本言語地図注記一覧46",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M268Q038/manifest.json"
+      }
+    ],
+    "269": [
+      {
+        "ljcId": "LJC-M269Q039",
+        "title": "におい (悪臭)",
+        "questionNumber": "39",
+        "mapNumbers": [
+          "269"
+        ],
+        "cardCount": 57,
+        "sourceTitle": "日本言語地図注記一覧46",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M269Q039/manifest.json"
+      }
+    ],
+    "270": [
+      {
+        "ljcId": "LJC-M270Q150",
+        "title": "はい (灰)",
+        "questionNumber": "150",
+        "mapNumbers": [
+          "270"
+        ],
+        "cardCount": 39,
+        "sourceTitle": "日本言語地図注記一覧46",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M270Q150/manifest.json"
+      }
+    ],
+    "271": [
+      {
+        "ljcId": "LJC-M271Q133",
+        "title": "ほこり (埃)",
+        "questionNumber": "133",
+        "mapNumbers": [
+          "271"
+        ],
+        "cardCount": 23,
+        "sourceTitle": "日本言語地図注記一覧46",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M271Q133/manifest.json"
+      }
+    ],
+    "272": [
+      {
+        "ljcId": "LJC-M272Q131",
+        "title": "ごみ (目にはいるもの―塵)",
+        "questionNumber": "131",
+        "mapNumbers": [
+          "272"
+        ],
+        "cardCount": 29,
+        "sourceTitle": "日本言語地図注記一覧47",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M272Q131/manifest.json"
+      }
+    ],
+    "273": [
+      {
+        "ljcId": "LJC-M273Q132",
+        "title": "ごみ (掃除の対象―塵芥)",
+        "questionNumber": "132",
+        "mapNumbers": [
+          "273"
+        ],
+        "cardCount": 30,
+        "sourceTitle": "日本言語地図注記一覧47",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M273Q132/manifest.json"
+      }
+    ],
+    "274": [
+      {
+        "ljcId": "LJC-M274Q134",
+        "title": "ごみ (川のごみ―塵芥)",
+        "questionNumber": "134",
+        "mapNumbers": [
+          "274"
+        ],
+        "cardCount": 33,
+        "sourceTitle": "日本言語地図注記一覧47",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M274Q134/manifest.json"
+      }
+    ],
+    "275": [
+      {
+        "ljcId": "LJC-M275Q105",
+        "title": "さきおととい (一昨昨日)",
+        "questionNumber": "105",
+        "mapNumbers": [
+          "275"
+        ],
+        "cardCount": 38,
+        "sourceTitle": "日本言語地図注記一覧47",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M275Q105/manifest.json"
+      }
+    ],
+    "276": [
+      {
+        "ljcId": "LJC-M276Q104",
+        "title": "おととい (一昨日)",
+        "questionNumber": "104",
+        "mapNumbers": [
+          "276"
+        ],
+        "cardCount": 41,
+        "sourceTitle": "日本言語地図注記一覧47",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M276Q104/manifest.json"
+      }
+    ],
+    "277": [
+      {
+        "ljcId": "LJC-M277Q107",
+        "title": "おとといのばん (一昨晩)",
+        "questionNumber": "107",
+        "mapNumbers": [
+          "277"
+        ],
+        "cardCount": 38,
+        "sourceTitle": "日本言語地図注記一覧47",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M277Q107/manifest.json"
+      }
+    ],
+    "278": [
+      {
+        "ljcId": "LJC-M278Q103",
+        "title": "きのう (昨日)",
+        "questionNumber": "103",
+        "mapNumbers": [
+          "278"
+        ],
+        "cardCount": 47,
+        "sourceTitle": "日本言語地図注記一覧48",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M278Q103/manifest.json"
+      }
+    ],
+    "279": [
+      {
+        "ljcId": "LJC-M279Q106",
+        "title": "さくばん (昨晩)",
+        "questionNumber": "106",
+        "mapNumbers": [
+          "279"
+        ],
+        "cardCount": 61,
+        "sourceTitle": "日本言語地図注記一覧48",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M279Q106/manifest.json"
+      }
+    ],
+    "280": [
+      {
+        "ljcId": "LJC-M280Q102",
+        "title": "きょう (今日)",
+        "questionNumber": "102",
+        "mapNumbers": [
+          "280"
+        ],
+        "cardCount": 11,
+        "sourceTitle": "日本言語地図注記一覧48",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M280Q102/manifest.json"
+      }
+    ],
+    "281": [
+      {
+        "ljcId": "LJC-M281Q112",
+        "title": "こんばん (今晩)",
+        "questionNumber": "112",
+        "mapNumbers": [
+          "281"
+        ],
+        "cardCount": 56,
+        "sourceTitle": "日本言語地図注記一覧48",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M281Q112/manifest.json"
+      }
+    ],
+    "282": [
+      {
+        "ljcId": "LJC-M282Q108",
+        "title": "あした (明日)",
+        "questionNumber": "108",
+        "mapNumbers": [
+          "282"
+        ],
+        "cardCount": 27,
+        "sourceTitle": "日本言語地図注記一覧48",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M282Q108/manifest.json"
+      }
+    ],
+    "283": [
+      {
+        "ljcId": "LJC-M283Q113",
+        "title": "あしたのばん (明晩)",
+        "questionNumber": "113",
+        "mapNumbers": [
+          "283"
+        ],
+        "cardCount": 20,
+        "sourceTitle": "日本言語地図注記一覧49",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M283Q113/manifest.json"
+      }
+    ],
+    "284": [
+      {
+        "ljcId": "LJC-M284Q109",
+        "title": "あさって (明後日)",
+        "questionNumber": "109",
+        "mapNumbers": [
+          "284"
+        ],
+        "cardCount": 3,
+        "sourceTitle": "日本言語地図注記一覧49",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M284Q109/manifest.json"
+      }
+    ],
+    "285": [
+      {
+        "ljcId": "LJC-M285Q110",
+        "title": "しあさって (明明後日)",
+        "questionNumber": "110",
+        "mapNumbers": [
+          "285"
+        ],
+        "cardCount": 16,
+        "sourceTitle": "日本言語地図注記一覧49",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M285Q110/manifest.json"
+      }
+    ],
+    "286": [
+      {
+        "ljcId": "LJC-M286Q111",
+        "title": "やのあさって (明明明後日)",
+        "questionNumber": "111",
+        "mapNumbers": [
+          "286"
+        ],
+        "cardCount": 94,
+        "sourceTitle": "日本言語地図注記一覧49",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M286Q111/manifest.json"
+      }
+    ],
+    "287": [
+      {
+        "ljcId": "LJC-M287Q238",
+        "title": "なのか (七日)",
+        "questionNumber": "238",
+        "mapNumbers": [
+          "287"
+        ],
+        "cardCount": 5,
+        "sourceTitle": "日本言語地図注記一覧49",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M287Q238/manifest.json"
+      }
+    ],
+    "288": [
+      {
+        "ljcId": "LJC-M288Q239",
+        "title": "ここのか (九日)",
+        "questionNumber": "239",
+        "mapNumbers": [
+          "288"
+        ],
+        "cardCount": 4,
+        "sourceTitle": "日本言語地図注記一覧49",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M288Q239/manifest.json"
+      }
+    ],
+    "291": [
+      {
+        "ljcId": "LJC-M291Q253",
+        "title": "おいしい (美味しい)",
+        "questionNumber": "253",
+        "mapNumbers": [
+          "291"
+        ],
+        "cardCount": 18,
+        "sourceTitle": "日本言語地図注記一覧49",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M291Q253/manifest.json"
+      }
+    ],
+    "293": [
+      {
+        "ljcId": "LJC-M293Q014",
+        "title": "いくつ (何歳)",
+        "questionNumber": "14",
+        "mapNumbers": [
+          "293"
+        ],
+        "cardCount": 46,
+        "sourceTitle": "日本言語地図注記一覧50",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M293Q014/manifest.json"
+      }
+    ],
+    "294": [
+      {
+        "ljcId": "LJC-M294Q263",
+        "title": "かつぐ (片方の肩で包を担ぐ)",
+        "questionNumber": "263",
+        "mapNumbers": [
+          "294"
+        ],
+        "cardCount": 19,
+        "sourceTitle": "日本言語地図注記一覧50",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M294Q263/manifest.json"
+      }
+    ],
+    "296": [
+      {
+        "ljcId": "LJC-M296Q092",
+        "title": "かぞえる (お金を数える)",
+        "questionNumber": "92",
+        "mapNumbers": [
+          "296"
+        ],
+        "cardCount": 28,
+        "sourceTitle": "日本言語地図注記一覧50",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M296Q092/manifest.json"
+      }
+    ],
+    "298": [
+      {
+        "ljcId": "LJC-M298Q225",
+        "title": "ほうほう (梟の鳴き声)",
+        "questionNumber": "225",
+        "mapNumbers": [
+          "298",
+          "299"
+        ],
+        "cardCount": 46,
+        "sourceTitle": "日本言語地図注記一覧50",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M298Q225/manifest.json"
+      }
+    ],
+    "299": [
+      {
+        "ljcId": "LJC-M298Q225",
+        "title": "ほうほう (梟の鳴き声)",
+        "questionNumber": "225",
+        "mapNumbers": [
+          "298",
+          "299"
+        ],
+        "cardCount": 46,
+        "sourceTitle": "日本言語地図注記一覧50",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M298Q225/manifest.json"
+      }
+    ],
+    "300": [
+      {
+        "ljcId": "LJC-M300Q229",
+        "title": "ちゅんちゅん (雀の鳴き声)",
+        "questionNumber": "229",
+        "mapNumbers": [
+          "300"
+        ],
+        "cardCount": 10,
+        "sourceTitle": "日本言語地図注記一覧50",
+        "creator": "国立国語研究所言語変化研究部第一研究室",
+        "year": "1966",
+        "manifestUrl": "https://iiif.nihu.jp/iiif/archives/LJC-M300Q229/manifest.json"
+      }
+    ]
+  }
+}

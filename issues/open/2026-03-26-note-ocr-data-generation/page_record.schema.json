@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "source_image": { "type": "string" },
+    "page_index": { "type": "integer" },
+    "source_id": { "type": ["string", "null"] },
+    "source_manifest": { "type": ["string", "null"] },
+    "source_canvas_id": { "type": ["string", "null"] },
+    "source_canvas_label": { "type": ["string", "null"] },
+    "source_service_id": { "type": ["string", "null"] },
+    "source_ljc_id": { "type": ["string", "null"] },
+    "source_map_numbers": {
+      "type": ["array", "null"],
+      "items": { "type": "string" }
+    },
+    "source_title": { "type": ["string", "null"] },
+    "location_numbers": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "other_text": { "type": "string" },
+    "model": { "type": "string" },
+    "error": { "type": "string" }
+  },
+  "required": [
+    "source_image",
+    "page_index",
+    "source_id",
+    "location_numbers",
+    "other_text",
+    "model"
+  ]
+}
