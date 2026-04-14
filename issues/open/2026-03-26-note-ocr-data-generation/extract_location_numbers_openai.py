@@ -282,9 +282,12 @@ def main() -> int:
         out_path = out_dir / f"{image_path.stem}.json"
 
         if out_path.exists() and not args.overwrite:
-            print(f"[SKIP] {image_path.name} -> {out_path.name}", flush=True)
-            summary.append(json.loads(out_path.read_text(encoding="utf-8")))
-            continue
+            existing = json.loads(out_path.read_text(encoding="utf-8"))
+            if "error" not in existing:
+                print(f"[SKIP] {image_path.name} -> {out_path.name}", flush=True)
+                summary.append(existing)
+                continue
+            print(f"[RETRY] {image_path.name} — previous error: {existing.get('error', '')[:80]}", flush=True)
 
         print(
             f"[{len(summary) + 1}/{len(image_paths)}] processing {image_path.name}",
@@ -331,6 +334,15 @@ def main() -> int:
                     file=sys.stderr,
                     flush=True,
                 )
+                if "insufficient_quota" in str(exc):
+                    print("[FATAL] OpenAI quota exhausted — stopping.", file=sys.stderr, flush=True)
+                    # pages.json は途中まで書いておく
+                    summary_path = out_dir / "pages.json"
+                    summary_path.write_text(
+                        json.dumps(summary, ensure_ascii=False, indent=2),
+                        encoding="utf-8",
+                    )
+                    return 4  # 呼び出し元 (run_all_batches.py) が検知して停止
                 time.sleep(2.0 * attempt)
         else:
             failed = {
