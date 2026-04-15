@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ページ画像から地点番号配列とその他テキストを OpenAI API で抽出し、
-ページ単位 JSON と pages.json を保存する共有用スクリプト。
+ページ画像から地点番号配列とその他テキストを Anthropic Claude API で抽出し、
+ページ単位 JSON と pages.json を保存する。
 
 前提:
-  - OPENAI_API_KEY が環境変数に設定されていること
+  - ANTHROPIC_API_KEY が環境変数に設定されていること
   - page_000.jpg, page_001.jpg, ... のような画像があること
   - ids.txt があれば、画像順と同じ順で 1 行 1 ID を並べること
   - metadata.json があれば、各ページの manifest / canvas / service 情報を引き継げること
+
+extract_location_numbers_openai.py とほぼ同じインタフェース。
+--model のデフォルトが claude-sonnet-4-6 になっている点が異なる。
 """
 
 from __future__ import annotations
@@ -24,7 +27,7 @@ from io import BytesIO
 from pathlib import Path
 from typing import Any
 
-from openai import OpenAI
+import anthropic
 from PIL import Image
 
 from ocr_location_numbers import load_canonical_location_number_map, merge_location_numbers
@@ -33,7 +36,7 @@ from ocr_location_numbers import load_canonical_location_number_map, merge_locat
 SYSTEM_PROMPT = """\
 You are extracting text from scanned Japanese document pages.
 
-Return JSON only.
+Return your result by calling the record_page_transcription tool — do not output any free text.
 
 Tasks:
 1. Read the page image and the left-column crop.
@@ -49,23 +52,28 @@ Rules:
 - If a number is uncertain, still include your best guess as a string.
 - If none are readable, return an empty array.
 - other_text should be rough transcription; it does not need to be perfect.
-- Do not include explanations outside the JSON.
 """
 
 
-MODEL_OUTPUT_SCHEMA: dict[str, Any] = {
-    "type": "object",
-    "additionalProperties": False,
-    "properties": {
-        "location_numbers": {
-            "type": "array",
-            "items": {"type": "string"},
+TOOL_SCHEMA: dict[str, Any] = {
+    "name": "record_page_transcription",
+    "description": "Record the extracted location numbers and other text from the scanned page.",
+    "input_schema": {
+        "type": "object",
+        "additionalProperties": False,
+        "properties": {
+            "location_numbers": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "Location numbers (地点番号) found on the page, in reading order.",
+            },
+            "other_text": {
+                "type": "string",
+                "description": "All other readable text from the page.",
+            },
         },
-        "other_text": {
-            "type": "string",
-        },
+        "required": ["location_numbers", "other_text"],
     },
-    "required": ["location_numbers", "other_text"],
 }
 
 
@@ -90,7 +98,7 @@ def parse_args() -> argparse.Namespace:
     ap.add_argument("--out-dir", default="./out_openai_pages", help="Directory for JSON outputs")
     ap.add_argument("--limit", type=int, default=None, help="How many pages to process")
     ap.add_argument("--offset", type=int, default=0, help="How many pages to skip first")
-    ap.add_argument("--model", default="gpt-5-mini", help="OpenAI model name")
+    ap.add_argument("--model", default="claude-sonnet-4-6", help="Anthropic model name")
     ap.add_argument("--image-glob", default="page_*.jpg", help="Glob for page images")
     ap.add_argument(
         "--left-ratio",
@@ -110,17 +118,18 @@ def parse_args() -> argparse.Namespace:
         default=0.0,
         help="Optional fraction to trim from the bottom before making the left crop",
     )
-    ap.add_argument("--sleep-sec", type=float, default=0.5, help="Pause between requests")
+    ap.add_argument("--sleep-sec", type=float, default=1.0, help="Pause between requests")
     ap.add_argument("--overwrite", action="store_true", help="Overwrite existing JSON files")
     return ap.parse_args()
 
 
-def image_to_data_url(img: Image.Image, fmt: str = "JPEG") -> str:
+def image_to_base64(img: Image.Image, fmt: str = "JPEG") -> tuple[str, str]:
+    """Return (base64_data, media_type)."""
     buf = BytesIO()
     img.save(buf, format=fmt, quality=92)
-    b64 = base64.b64encode(buf.getvalue()).decode("ascii")
-    mime = "image/jpeg" if fmt.upper() == "JPEG" else "image/png"
-    return f"data:{mime};base64,{b64}"
+    b64 = base64.standard_b64encode(buf.getvalue()).decode("ascii")
+    media_type = "image/jpeg" if fmt.upper() == "JPEG" else "image/png"
+    return b64, media_type
 
 
 def load_image(image_path: Path) -> Image.Image:
@@ -202,7 +211,7 @@ def build_source_fields(
 
 
 def extract_page(
-    client: OpenAI,
+    client: anthropic.Anthropic,
     image_path: Path,
     model: str,
     left_ratio: float,
@@ -212,46 +221,73 @@ def extract_page(
     page_img = load_image(image_path)
     left_crop = build_left_crop(page_img, left_ratio, top_ratio, bottom_ratio)
 
-    full_data_url = image_to_data_url(page_img, fmt="JPEG")
-    crop_data_url = image_to_data_url(left_crop, fmt="JPEG")
+    full_b64, full_mime = image_to_base64(page_img, fmt="JPEG")
+    crop_b64, crop_mime = image_to_base64(left_crop, fmt="JPEG")
 
-    user_prompt = (
+    user_text = (
         f"Source file: {image_path.name}\n"
         "Extract the location numbers and the remaining page text.\n"
         "The second image is a left-side crop to help read the location-number column."
     )
 
-    response = client.responses.create(
+    response = client.messages.create(
         model=model,
-        instructions=SYSTEM_PROMPT,
-        input=[
+        max_tokens=2048,
+        system=SYSTEM_PROMPT,
+        tools=[TOOL_SCHEMA],
+        tool_choice={"type": "any"},
+        messages=[
             {
                 "role": "user",
                 "content": [
-                    {"type": "input_text", "text": user_prompt},
-                    {"type": "input_image", "image_url": full_data_url, "detail": "high"},
-                    {"type": "input_image", "image_url": crop_data_url, "detail": "high"},
+                    {"type": "text", "text": user_text},
+                    {
+                        "type": "image",
+                        "source": {
+                            "type": "base64",
+                            "media_type": full_mime,
+                            "data": full_b64,
+                        },
+                    },
+                    {
+                        "type": "image",
+                        "source": {
+                            "type": "base64",
+                            "media_type": crop_mime,
+                            "data": crop_b64,
+                        },
+                    },
                 ],
             }
         ],
-        text={
-            "format": {
-                "type": "json_schema",
-                "name": "page_transcription",
-                "strict": True,
-                "schema": MODEL_OUTPUT_SCHEMA,
-            }
-        },
     )
 
-    return json.loads(response.output_text)
+    # Extract tool_use block
+    for block in response.content:
+        if block.type == "tool_use" and block.name == "record_page_transcription":
+            return block.input  # type: ignore[return-value]
+
+    raise ValueError(f"No tool_use block in response: {response.content}")
+
+
+def is_quota_error(exc: Exception) -> bool:
+    if isinstance(exc, anthropic.APIStatusError):
+        # 529 = overloaded; credit_balance errors come as 400 with specific message
+        if exc.status_code in (529,):
+            return True
+        msg = str(exc).lower()
+        if "credit" in msg and "balance" in msg:
+            return True
+        if "quota" in msg or "billing" in msg:
+            return True
+    return False
 
 
 def main() -> int:
     args = parse_args()
 
-    if not os.environ.get("OPENAI_API_KEY"):
-        print("ERROR: OPENAI_API_KEY is not set", file=sys.stderr)
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        print("ERROR: ANTHROPIC_API_KEY is not set", file=sys.stderr)
         return 2
 
     images_dir = Path(args.images_dir)
@@ -270,11 +306,12 @@ def main() -> int:
     canonical_map = load_canonical_location_number_map(args.survey_points)
     if ids and len(ids) != len(sorted(images_dir.glob(args.image_glob))):
         print(
-            f"[WARN] ids count ({len(ids)}) does not match full image count ({len(sorted(images_dir.glob(args.image_glob)))})",
+            f"[WARN] ids count ({len(ids)}) does not match full image count"
+            f" ({len(sorted(images_dir.glob(args.image_glob)))})",
             file=sys.stderr,
         )
 
-    client = OpenAI()
+    client = anthropic.Anthropic()
     summary: list[dict[str, Any]] = []
 
     for image_order_index, image_path in enumerate(image_paths, start=args.offset):
@@ -336,15 +373,14 @@ def main() -> int:
                     file=sys.stderr,
                     flush=True,
                 )
-                if "insufficient_quota" in str(exc):
-                    print("[FATAL] OpenAI quota exhausted — stopping.", file=sys.stderr, flush=True)
-                    # pages.json は途中まで書いておく
+                if is_quota_error(exc):
+                    print("[FATAL] Anthropic quota/credit exhausted — stopping.", file=sys.stderr, flush=True)
                     summary_path = out_dir / "pages.json"
                     summary_path.write_text(
                         json.dumps(summary, ensure_ascii=False, indent=2),
                         encoding="utf-8",
                     )
-                    return 4  # 呼び出し元 (run_all_batches.py) が検知して停止
+                    return 4  # 呼び出し元 (rerun_pages.py 等) が検知して停止
                 time.sleep(2.0 * attempt)
         else:
             failed = {

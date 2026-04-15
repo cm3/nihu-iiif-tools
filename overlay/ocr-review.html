@@ -49,7 +49,17 @@
       cursor: pointer; user-select: none;
     }
     #status { color: var(--muted); font-size: 0.9em; }
-    #pageCounter { font-weight: bold; min-width: 9em; }
+    #pageCounter {
+      font-weight: bold;
+      display: flex; align-items: center; gap: 4px;
+    }
+    #pageInput {
+      width: 4em; text-align: right;
+      font-weight: bold; font-size: 1em;
+      border: 1px solid var(--line); border-radius: 4px;
+      padding: 1px 4px; background: var(--panel); color: var(--text);
+    }
+    #pageInput:focus { outline: none; border-color: var(--accent); background: #fff; }
 
     /* ── main split ── */
     .split {
@@ -251,14 +261,68 @@
       flex-direction: column;
       align-items: center;
     }
+    #imageWrapper {
+      position: relative;
+      display: inline-block;
+      max-width: 100%;
+    }
     #noteImage {
+      display: block;
       max-width: 100%;
       height: auto;
       border: 1px solid var(--line);
       border-radius: 8px;
       box-shadow: 0 4px 18px rgba(0,0,0,0.1);
     }
+    #selCanvas {
+      display: none;
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      cursor: crosshair;
+      border-radius: 8px;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+    #selCanvas.active { display: block; }
     #rightPanel .no-image { color: var(--muted); margin-top: 40px; }
+
+    /* ── 範囲選択OCRモーダル ── */
+    #selOcrModal {
+      position: fixed; bottom: 16px; right: 16px; z-index: 5000;
+      display: none;
+    }
+    #selOcrModal.visible { display: block; }
+    .sel-ocr-card {
+      width: min(320px, calc(100vw - 32px));
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.22);
+      padding: 12px;
+    }
+    .sel-ocr-card h3 { margin: 0 0 8px; font-size: 0.9rem; color: var(--muted); }
+    #selOcrRaw {
+      width: 100%; margin: 0 0 8px;
+      padding: 6px 8px;
+      border: 1px solid var(--line); border-radius: 6px;
+      font-family: monospace; font-size: 0.9em; line-height: 1.5;
+      background: #fafaf7; color: var(--text);
+      resize: vertical;
+    }
+    #selOcrRaw:focus { outline: none; border-color: var(--accent); background: #fff; }
+    .sel-ocr-foot { display: flex; gap: 8px; justify-content: flex-end; }
+    .btn-sel-ocr {
+      padding: 2px 8px;
+      border: 1px solid #7a9cc0;
+      border-radius: 999px;
+      background: #eef4ff;
+      color: #234;
+      font-size: 0.78rem;
+      cursor: pointer;
+    }
+    .btn-sel-ocr:hover { background: #dce8f8; }
+    .btn-sel-ocr.active { background: #b8d4f0; border-color: #4a7caa; }
 
     /* ── ocr button pill ── */
     .ocr-button {
@@ -320,7 +384,7 @@
 <header>
   <div class="row">
     <strong>OCR 地点番号レビュー</strong>
-    <span id="pageCounter">—</span>
+    <span id="pageCounter"><input id="pageInput" type="text" value="—" title="ページ番号を入力してジャンプ"> <span id="pageTotalLabel">/ —</span></span>
     <button id="btnErrPrev" title="前のエラーへ (Z)">⏪ 前のエラー</button>
     <button id="btnPrev" title="前のページ (A)">◀ 前</button>
     <button id="btnNext" title="次のページ (S)">次 ▶</button>
@@ -329,6 +393,7 @@
       <input type="checkbox" id="filterUnmatched">
       未照合ページのみ
     </label>
+    <label>バッチ <select id="batchSelect"><option value="">—</option></select></label>
     <span id="status">読み込み中…</span>
     <span style="margin-left:auto">
       <kbd>Z</kbd>/<kbd>X</kbd> 前/次エラー &nbsp;
@@ -364,10 +429,25 @@
   </div>
   <div id="rightPanel">
     <div class="no-image" id="noImage">ページを選択してください</div>
-    <img id="noteImage" src="" alt="注記カード" style="display:none" />
+    <div id="imageWrapper">
+      <img id="noteImage" src="" alt="注記カード" crossorigin="anonymous" draggable="false" style="display:none" />
+      <canvas id="selCanvas"></canvas>
+    </div>
     <div style="display:flex;align-items:center;gap:8px;margin-top:8px">
       <div id="imageCaption" style="color:var(--muted);font-size:0.84em;text-align:center"></div>
       <button id="btnOcr" type="button" class="ocr-button" style="display:none">OCR 全文</button>
+      <button id="btnSelOcr" type="button" class="btn-sel-ocr" style="display:none">範囲選択OCR</button>
+    </div>
+  </div>
+</div>
+
+<div id="selOcrModal">
+  <div class="sel-ocr-card">
+    <h3 id="selOcrTitle">OCR 結果（編集可）</h3>
+    <textarea id="selOcrRaw" rows="8" spellcheck="false"></textarea>
+    <div class="sel-ocr-foot">
+      <button id="selOcrCancel" type="button">キャンセル</button>
+      <button id="selOcrApply" type="button" class="primary">1行1件で追加</button>
     </div>
   </div>
 </div>
@@ -517,8 +597,12 @@ function rebuildFilteredPages() {
 function updateStatus() {
   const total = filteredPages.length;
   const idx = total > 0 ? currentIndex + 1 : 0;
-  document.getElementById('pageCounter').textContent = `${idx} / ${total} ページ`;
+  const input = document.getElementById('pageInput');
+  if (document.activeElement !== input) input.value = idx;
+  document.getElementById('pageTotalLabel').textContent = `/ ${total} ページ`;
   document.getElementById('corrBadge').textContent = String(corrections.size + additions.size);
+  // URL ハッシュに現在ページを反映
+  if (total > 0) history.replaceState(null, '', `#p${idx}`);
 }
 
 function buildImageUrl(serviceId) {
@@ -529,6 +613,10 @@ function buildImageUrl(serviceId) {
 
 function renderPage(page) {
   if (!page) return;
+
+  // バッチセレクトを現在のバッチに同期
+  const batchSelect = document.getElementById('batchSelect');
+  if (batchSelect.value !== page.batch) batchSelect.value = page.batch;
 
   // ── left: page info ──
   const infoEl = document.getElementById('pageInfo');
@@ -613,14 +701,7 @@ function renderPage(page) {
   btnAdd.type = 'button';
   btnAdd.className = 'btn-add-loc';
   btnAdd.textContent = '＋ 地点番号を追加';
-  btnAdd.addEventListener('click', () => {
-    const addKey = `${page.batch}|${page.source_image}|+${++additionSeq}`;
-    additions.set(addKey, { batch: page.batch, source_image: page.source_image, correction: '', comment: '' });
-    const item = makeAdditionItem(addKey, page.batch, page.source_image);
-    btnAdd.before(item);
-    item.querySelector('input')?.focus();
-    updateStatus();
-  });
+  btnAdd.addEventListener('click', () => openSelOcrModal('', page, '地点番号を追加（1行1件）'));
   listEl.appendChild(btnAdd);
 
   // ── right: image ──
@@ -641,6 +722,9 @@ function renderPage(page) {
   }
   ocrBtn.style.display = '';
   ocrBtn.onclick = () => openOcrModal(page);
+  const selOcrBtn = document.getElementById('btnSelOcr');
+  selOcrBtn.style.display = '';
+  selOcrBtn.onclick = () => toggleSelectionMode(page);
 
   updateStatus();
 }
@@ -941,13 +1025,202 @@ async function init() {
   filterUnmatchedOnly = document.getElementById('filterUnmatched').checked;
   rebuildFilteredPages();
 
+  // バッチセレクト構築
+  const batchSelect = document.getElementById('batchSelect');
+  const batches = data.batches || [];
+  batches.forEach(b => {
+    const opt = document.createElement('option');
+    opt.value = b;
+    const batchPages = allPages.filter(p => p.batch === b);
+    const total = batchPages.length;
+    const errCount = batchPages.filter(hasUnmatched).length;
+    const zeroCount = batchPages.filter(p => p.location_numbers.length === 0).length;
+    opt.textContent = `${b}  (${total}p / 未照合${errCount} / 0件${zeroCount})`;
+    batchSelect.appendChild(opt);
+  });
+  batchSelect.addEventListener('change', () => {
+    const batch = batchSelect.value;
+    if (!batch) return;
+    const idx = filteredPages.findIndex(p => p.batch === batch);
+    if (idx >= 0) goTo(idx);
+  });
+
   const unmatchedPageCount = allPages.filter(hasUnmatched).length;
   document.getElementById('status').textContent =
     `${data.batches?.length ?? 0}バッチ / ${allPages.length}ページ / 未照合ページ${unmatchedPageCount}件`;
 
-  if (filteredPages.length) goTo(0);
+  // URL ハッシュ (#p123) から初期ページを復元
+  const hashMatch = window.location.hash.match(/^#p(\d+)$/);
+  const initPage = hashMatch ? parseInt(hashMatch[1], 10) - 1 : 0;
+  if (filteredPages.length) goTo(Math.min(initPage, filteredPages.length - 1));
   else document.getElementById('status').textContent += ' — 未照合ページなし';
 }
+
+// ── 範囲選択OCR ──
+let selectionMode = false;
+let selCurrentPage = null;
+let tesseractWorker = null;
+let tesseractReady = false;
+
+const LOC_NUM_RE = /\b(\d{3,4}[.,]\d{1,2})\b/g;
+
+function extractNums(text) {
+  const found = [];
+  const seen = new Set();
+  for (const m of text.matchAll(LOC_NUM_RE)) {
+    const n = m[1].replace(',', '.');
+    if (!seen.has(n)) { seen.add(n); found.push(n); }
+  }
+  return found;
+}
+
+async function ensureTesseract() {
+  if (tesseractReady) return tesseractWorker;
+  const btn = document.getElementById('btnSelOcr');
+  const prevText = btn.textContent;
+  btn.textContent = '初期化中…';
+  btn.disabled = true;
+  tesseractWorker = await Tesseract.createWorker('eng', 1, {
+    workerPath: 'https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/worker.min.js',
+    corePath: 'https://cdn.jsdelivr.net/npm/tesseract.js-core@5/tesseract-core.wasm.js',
+  });
+  await tesseractWorker.setParameters({ tessedit_char_whitelist: '0123456789.,' });
+  tesseractReady = true;
+  btn.textContent = prevText;
+  btn.disabled = false;
+  return tesseractWorker;
+}
+
+function toggleSelectionMode(page) {
+  const canvas = document.getElementById('selCanvas');
+  const btn = document.getElementById('btnSelOcr');
+  selectionMode = !selectionMode;
+  selCurrentPage = page;
+  canvas.classList.toggle('active', selectionMode);
+  btn.classList.toggle('active', selectionMode);
+  btn.textContent = selectionMode ? 'キャンセル' : '範囲選択OCR';
+  if (selectionMode) { syncCanvas(); ensureTesseract(); }
+}
+
+function exitSelectionMode() {
+  selectionMode = false;
+  const canvas = document.getElementById('selCanvas');
+  const btn = document.getElementById('btnSelOcr');
+  const ctx = canvas.getContext('2d');
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  canvas.classList.remove('active');
+  btn.classList.remove('active');
+  btn.textContent = '範囲選択OCR';
+}
+
+// canvas サイズを画像に合わせる
+function syncCanvas() {
+  const img = document.getElementById('noteImage');
+  const canvas = document.getElementById('selCanvas');
+  canvas.width = img.offsetWidth;
+  canvas.height = img.offsetHeight;
+}
+
+// ドラッグ選択
+let dragStart = null;
+const selCanvas = document.getElementById('selCanvas');
+
+selCanvas.addEventListener('mousedown', e => {
+  if (!selectionMode) return;
+  e.preventDefault();
+  syncCanvas();
+  const r = selCanvas.getBoundingClientRect();
+  dragStart = { x: e.clientX - r.left, y: e.clientY - r.top };
+});
+
+selCanvas.addEventListener('mousemove', e => {
+  if (!selectionMode || !dragStart) return;
+  const r = selCanvas.getBoundingClientRect();
+  const x = e.clientX - r.left, y = e.clientY - r.top;
+  const ctx = selCanvas.getContext('2d');
+  ctx.clearRect(0, 0, selCanvas.width, selCanvas.height);
+  ctx.fillStyle = 'rgba(58,120,200,0.12)';
+  ctx.strokeStyle = 'rgba(58,120,200,0.85)';
+  ctx.lineWidth = 1.5;
+  const rx = Math.min(dragStart.x, x), ry = Math.min(dragStart.y, y);
+  const rw = Math.abs(x - dragStart.x), rh = Math.abs(y - dragStart.y);
+  ctx.fillRect(rx, ry, rw, rh);
+  ctx.strokeRect(rx, ry, rw, rh);
+});
+
+selCanvas.addEventListener('mouseup', async e => {
+  if (!selectionMode || !dragStart) return;
+  const r = selCanvas.getBoundingClientRect();
+  const x = e.clientX - r.left, y = e.clientY - r.top;
+  const rx = Math.min(dragStart.x, x), ry = Math.min(dragStart.y, y);
+  const rw = Math.abs(x - dragStart.x), rh = Math.abs(y - dragStart.y);
+  dragStart = null;
+  if (rw < 5 || rh < 5) return;
+
+  // 画像の実サイズ → 表示サイズ倍率
+  const img = document.getElementById('noteImage');
+  const scaleX = img.naturalWidth / img.offsetWidth;
+  const scaleY = img.naturalHeight / img.offsetHeight;
+
+  const tmpCanvas = document.createElement('canvas');
+  tmpCanvas.width = Math.round(rw * scaleX);
+  tmpCanvas.height = Math.round(rh * scaleY);
+  const tc = tmpCanvas.getContext('2d');
+  tc.drawImage(img,
+    Math.round(rx * scaleX), Math.round(ry * scaleY),
+    tmpCanvas.width, tmpCanvas.height,
+    0, 0, tmpCanvas.width, tmpCanvas.height
+  );
+
+  exitSelectionMode();
+
+  const btn = document.getElementById('btnSelOcr');
+  btn.textContent = 'OCR中…';
+  btn.disabled = true;
+  btn.style.display = '';
+
+  try {
+    const worker = await ensureTesseract();
+    const { data: { text } } = await worker.recognize(tmpCanvas);
+    openSelOcrModal(text.trim(), selCurrentPage);
+  } catch(err) {
+    alert('OCRエラー: ' + err.message);
+  } finally {
+    btn.textContent = '範囲選択OCR';
+    btn.disabled = false;
+  }
+});
+
+function openSelOcrModal(rawText, page, title = 'OCR 結果（編集可）') {
+  const ta = document.getElementById('selOcrRaw');
+  ta.value = rawText || '';
+  document.getElementById('selOcrTitle').textContent = title;
+  document.getElementById('selOcrModal').classList.add('visible');
+  ta.focus();
+  document.getElementById('selOcrApply').onclick = () => applySelOcr(page);
+}
+
+function closeSelOcrModal() {
+  document.getElementById('selOcrModal').classList.remove('visible');
+}
+
+function applySelOcr(page) {
+  const lines = document.getElementById('selOcrRaw').value
+    .split('\n').map(l => l.trim()).filter(l => l.length > 0);
+  const listEl = document.getElementById('locList');
+  const btnAdd = listEl.querySelector('.btn-add-loc');
+  lines.forEach(val => {
+    const addKey = `${page.batch}|${page.source_image}|+${++additionSeq}`;
+    additions.set(addKey, { batch: page.batch, source_image: page.source_image, correction: val, comment: '' });
+    const item = makeAdditionItem(addKey, page.batch, page.source_image, { correction: val, comment: '' });
+    if (btnAdd) btnAdd.before(item);
+    else listEl.appendChild(item);
+  });
+  updateStatus();
+  closeSelOcrModal();
+}
+
+document.getElementById('selOcrCancel').addEventListener('click', closeSelOcrModal);
 
 // ── OCR modal ──
 function openOcrModal(page) {
@@ -1000,6 +1273,20 @@ document.getElementById('filterUnmatched').addEventListener('change', e => {
   // try to keep roughly the same position
   goTo(Math.min(currentIndex, filteredPages.length - 1));
 });
+// ── ページ入力ジャンプ ──
+const pageInput = document.getElementById('pageInput');
+pageInput.addEventListener('keydown', e => {
+  if (e.key === 'Enter') {
+    const n = parseInt(pageInput.value, 10);
+    if (!isNaN(n)) goTo(n - 1);
+    pageInput.blur();
+  } else if (e.key === 'Escape') {
+    updateStatus(); // 値を元に戻す
+    pageInput.blur();
+  }
+});
+pageInput.addEventListener('focus', () => pageInput.select());
+
 document.getElementById('btnErrPrev').addEventListener('click', () => goToError(-1));
 document.getElementById('btnErrNext').addEventListener('click', () => goToError(1));
 document.getElementById('btnPrev').addEventListener('click', () => goTo(currentIndex - 1));
@@ -1009,7 +1296,9 @@ document.getElementById('btnReset').addEventListener('click', resetCorrections);
 
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape') {
+    if (document.getElementById('selOcrModal').classList.contains('visible')) { closeSelOcrModal(); return; }
     if (document.getElementById('ocrModal').classList.contains('visible')) { closeOcrModal(); return; }
+    if (selectionMode) { exitSelectionMode(); return; }
     closeSuggestModal(); return;
   }
   if (document.getElementById('suggestModal').classList.contains('visible')) return;
@@ -1027,5 +1316,6 @@ init().catch(e => {
   document.getElementById('status').textContent = `エラー: ${e.message}`;
 });
 </script>
+<script src="https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js"></script>
 </body>
 </html>

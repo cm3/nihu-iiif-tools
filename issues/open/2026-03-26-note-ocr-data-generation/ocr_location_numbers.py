@@ -5,17 +5,30 @@ import re
 from pathlib import Path
 
 
-LOCATION_NUMBER_PATTERN = re.compile(r"(?<!\d)(0*\d{3,4}\.\d{1,2})\.?(?!\d)")
+LOCATION_NUMBER_PATTERN = re.compile(
+    r"(?<!\d)"
+    r"(0*\d{3,4}[.,]\d{1,2}"   # 通常形式: 0990.77
+    r"|0*\d{1,2}\s\d{2}[.,]\d{1,2}"  # スペース区切り: 09 90.77
+    r"|\d{5,6})"  # 小数点なし5〜6桁: 099077 → 0990.77
+    r"[.,]?(?!\d)"
+)
 
 
 def normalize_location_number(value: str) -> str | None:
     text = str(value or "").strip()
     text = text.strip("()[]{}<>")
     text = text.rstrip(".,;:!?")
+    text = re.sub(r"\s+", "", text)  # スペースを除去 (09 90.77 → 0990.77)
+    text = text.replace(",", ".")    # カンマ区切りをピリオドに統一
+    # 小数点なし5〜6桁: 099077 → 0990.77, 09907 → 0990.7
+    m6 = re.fullmatch(r"(\d{5,6})", text)
+    if m6:
+        digits = m6.group(1)
+        text = digits[:4] + "." + digits[4:]
     m = re.fullmatch(r"0*(\d{3,4})\.(\d{1,2})", text)
     if not m:
         return None
-    int_part = str(int(m.group(1)))
+    int_part = m.group(1).zfill(4)   # 先頭ゼロを保持して4桁に揃える
     frac_part = m.group(2).rstrip("0") or "0"
     return f"{int_part}.{frac_part}"
 
