@@ -7,13 +7,14 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
     html, body { height: 100%; margin: 0; }
-    header { padding: 8px 12px; background: #f6f6f6; border-bottom: 1px solid #ddd; }
+    header { padding: 8px 12px; background: #f6f6f6; border-bottom: 1px solid #ddd; position: relative; z-index: 10; }
     .row { display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin:6px 0; }
     select { padding:4px 6px; max-width:320px; }
     input[type="range"] { width:300px; }
     input[type="number"] { width:64px; }
     button { padding:6px 10px; }
-    #stage { position: relative; height: calc(100vh - 190px); }
+    #stage-clip { position: relative; height: calc(100vh - 190px); overflow: hidden; }
+    #stage { position: absolute; inset: 0; }
     #mapBase, #mapOverlay {
       position: absolute; inset: 0; /* 重ねる */
     }
@@ -47,6 +48,7 @@
       <button id="nDown">↓</button>
       <button id="resetOffset" title="オーバーレイの平行移動をリセット">位置リセット</button>
       <label><input id="tintBase" type="checkbox"> 左図を赤色調</label>
+      <label><input id="rotateAlign" type="checkbox"> 経緯線を水平垂直に補正</label>
     </div>
     <div class="row">
       <label>キャリブレーション</label>
@@ -75,9 +77,11 @@
     </div>
   </header>
 
-  <div id="stage">
-    <div id="mapBase" tabindex="0"></div>
-    <div id="mapOverlay"></div>
+  <div id="stage-clip">
+    <div id="stage">
+      <div id="mapBase" tabindex="0"></div>
+      <div id="mapOverlay"></div>
+    </div>
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -210,7 +214,16 @@
 
   const step = () => parseInt($('step').value || '1', 10);
   // 矢印ボタンは「最大ズーム基準」で offset を更新
+  const ALIGN_DEG = -18.92;
+  const ALIGN_RAD = ALIGN_DEG * Math.PI / 180; // ステージ回転角（CSS rotate と同値）
+  const ALIGN_COS = Math.abs(Math.cos(ALIGN_RAD));
+  const ALIGN_SIN = Math.abs(Math.sin(ALIGN_RAD));
   function adjustOffset(dx, dy) {
+    if ($('rotateAlign').checked) {
+      // スクリーン座標系でのdx,dyをコンテナ座標系に逆変換
+      const c = Math.cos(ALIGN_RAD), s = Math.sin(ALIGN_RAD);
+      [dx, dy] = [dx * c + dy * s, -dx * s + dy * c];
+    }
     const maxZoom = mapBase.getMaxZoom();
     const currentZoom = mapBase.getZoom();
     const scale = Math.pow(2, currentZoom - maxZoom);
@@ -335,6 +348,27 @@
     const f = e.target.checked ? 'hue-rotate(240deg)' : '';
     mapBase.getContainer().querySelectorAll('.leaflet-tile-pane').forEach(el => el.style.filter = f);
   });
+  function applyRotateAlign(on) {
+    const clip  = $('stage-clip');
+    const stage = $('stage');
+    const W = clip.clientWidth, H = clip.clientHeight;
+    if (on) {
+      const sw = W * ALIGN_COS + H * ALIGN_SIN;
+      const sh = W * ALIGN_SIN + H * ALIGN_COS;
+      stage.style.width     = sw + 'px';
+      stage.style.height    = sh + 'px';
+      stage.style.left      = ((W - sw) / 2) + 'px';
+      stage.style.top       = ((H - sh) / 2) + 'px';
+      stage.style.transform = `rotate(${ALIGN_DEG}deg)`;
+    } else {
+      stage.style.width = stage.style.height = '';
+      stage.style.left  = stage.style.top    = '';
+      stage.style.transform = '';
+    }
+    setTimeout(() => { mapBase.invalidateSize(); mapOverlay.invalidateSize(); }, 50);
+  }
+  $('rotateAlign').addEventListener('change', (e) => applyRotateAlign(e.target.checked));
+  window.addEventListener('resize', () => { if ($('rotateAlign').checked) applyRotateAlign(true); });
 
   // ---- leaflet-iiif レイヤ追加（load まで待つ）----
   function addIiifLayer(map, infoUrl, opts) {

@@ -108,8 +108,14 @@ def count_ocr_pages(out_dir: Path) -> tuple[int, int]:
         return 0, 0
 
 
+DOWNLOAD_FAILED_MARKER = "_download_failed.txt"
+
+
 def is_done(batch_dir: Path) -> bool:
-    """dl_pages の画像数 == pages.json エントリ数 かつエラーなし なら完了とみなす。"""
+    """dl_pages の画像数 == pages.json エントリ数 かつエラーなし なら完了とみなす。
+    ダウンロード失敗マーカーがあれば永続スキップ扱い。"""
+    if (batch_dir / DOWNLOAD_FAILED_MARKER).exists():
+        return True
     dl_pages = batch_dir / "dl_pages"
     out_dir = batch_dir / "out_openai_pages"
     n_images = count_downloaded_images(dl_pages)
@@ -145,6 +151,10 @@ def process_batch(batch: dict) -> str:
             "download",
         )
         if rc != 0:
+            batch_dir.mkdir(parents=True, exist_ok=True)
+            (batch_dir / DOWNLOAD_FAILED_MARKER).write_text(
+                f"download failed (rc={rc})\n", encoding="utf-8"
+            )
             return "fail:download"
     else:
         print(f"  [download] skip — {count_downloaded_images(dl_pages)} images already in {dl_pages}")
