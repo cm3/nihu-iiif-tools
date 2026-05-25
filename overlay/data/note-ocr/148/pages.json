@@ -1,0 +1,1024 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.12",
+      "0789.95",
+      "0873.94",
+      "2761.77",
+      "2775.45",
+      "2782.16"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。 ▲ その中での情報は地点番号順に並べる。 ▲ 注記の＜＞[]は厳密にする。 日本言語地図資料用紙 注記一覧 43-58 質問番号 地図番号 148 項目名 かくれんぼ 089 A 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 07 24.12 kakurembo <このオニを onko といった。> <onko jaketa という。> (オ=か? つかまえられなくてやけくそになったこと。) 07 89.95 kakureyokko (asobi) もう一人の報調査者 -> kakure'mbo 08 73.94 onjyokko <古> kakure'mbo 27 61.77 onko <088を特に別にしない。> 27 75.45 kagurembo (笑?) 27 82.16 boroneko (?) (むしろ88に当るのではないか)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04358.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04358",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04358.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2783.06",
+      "3688.82",
+      "3705.47",
+      "3721.71",
+      "3752.53",
+      "3778.00",
+      "4609.25",
+      "4609.54",
+      "4619.29"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-59\n項目名　かくれんぼ　089　（右上の小枠に148）\nA 普通注記　B 除いた共通語　C 除いた特殊語\n地点番号\n2783.06  <古> kagureonki    kakurēmbo\n3688.82  # oni  （自信なさそう）\n3705.47  <古> kagurekāgo\n3721.71  kaguirembo　共通語\n3752.53  # onikkoasobi <?>\n3778.00  カグレッコ <古>\n4609.25  onidori   088との区別不明\n4609.54  kagurebottji\nkagurekko\n4619.29  onubuguru （088と区別なし）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04359.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04359",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04359.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4638.43",
+      "4639.10",
+      "4643.47",
+      "4657.88",
+      "4663.49",
+      "4667.76",
+      "4648.59",
+      "4653.47"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は略略にする。\n\n日本言語地図資料用紙 注記一覧 43-60\n地図番号 148　頁 (3)\n項目名 かくれんぼ 089\n\n地点番号　A語形とその注記（B・C除いた語形とその注）\n46 38.43  * kakureoni (088.089を総合して onigoto とも云う。)\n46 39.10  kakureoni ＜今の子供＞\n          kakurembo tto (古)\n46 43.47  kakurembo ＜kakureoni とは言わず＞\n46 57.88  * kakuregokko (はじめ onigoto asumi と答え。後 訂正した。)\n46 63.49  kakuregotsu [小木町宿根木では単に dzi という。]\n46 67.76  onigoto (088との差別をしない。)\n46 48.59  kakure bakko\n46 53.47  kakuregotja",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04360.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04360",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04360.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4677.65",
+      "4686.52",
+      "4687.37",
+      "4698.15",
+      "4700.37",
+      "4700.78",
+      "4711.41",
+      "4712.16",
+      "4721.36",
+      "4669.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-61 質問番号 地図番号 148 項目名 かくれんぼ 089 A 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n4677.65 kakurembo 二番目にえった答えたが、幼い時から oni 使ったことばだと云う。然しどうだろうか\n4686.52 oniygokko (088と区別しない)\n4687.37 [kakurebotja]\n4698.15 kaku [ebottsi] <古>\n4700.37 oniyo (088と呼び名の区別なし)\n4700.78 kakurebottsi (ts → tš と tf の何)\n4711.41 [kagure/kanyo] (088に同じ)\n4712.16 kakulekko [kakule/kakko] <古>\n4721.36 [kagure kayo]\n4669.55 kagure bottsuい <もと>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04361.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04361",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04361.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4724.75",
+      "4731.42",
+      "4731.85",
+      "4733.91",
+      "4735.37",
+      "4736.63",
+      "4742.37",
+      "4742.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-62\n質問番号　地図番号　148\n項目名　かくれんぼ　069\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は省略にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　(B・C 残した語形とその注)\n\n4724.75　onitasobi　（088と同じ）[？]\n4731.42　[kagure kanyo]\n4731.85　同上\n4733.91　[kakurekayo]\n4735.37　kagulembo　（夫）\n4736.63　kakurenko　＜古＞\n4742.37　kakuLekago　→（両方の発音を混用している。）\n（中野孫四郎氏 [kakuLekayo]）\n4742.43　kakurekanyo　＜監獄の意＞（！）（？）　kakure rembo\n\n（その他手書き注記、小さい文字あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04362.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04362",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04362.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4746.20",
+      "4760.64",
+      "4773.78",
+      "4780.64",
+      "4782.04",
+      "4784.41",
+      "5517.57",
+      "5517.90",
+      "5529.77",
+      "5538.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-63\n調問番号 地図番号 148\n項目名 かくれんぼ 089\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (6)\n地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注)\n4746.20 *#! kakulesanyo <B>\n4760.64 [kagurémbo]\n4773.78 kakureyokko <新>\n4780.64 #? kaguletsfjo\n4782.04 kaguresa'no <子> kaguresayo <新>\n4784.41 [kaguregakko] (被調査者 夫人から 得た)\n5517.57 kakuyori (088に同じ)\n5517.90 kakuronyori 088に同じ\n5529.77 bojanokko (?)\n5538.33 kakurembo <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04363.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04363",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04363.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5538.49",
+      "5548.24",
+      "5588.81",
+      "5590.53",
+      "5603.88",
+      "5609.26",
+      "5613.48",
+      "5614.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-64\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）【】は厳格にする。\n質問番号　地図番号　148\n項目名　かくれんぼ　089\nA 普通注記\nB 除いた共通語\nC 除いた特殊語　(7)\n地点番号　A 語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C 残した語形とその注】\n5538.49　onsamokko　(088におなじ)\n5548.24　oninokko　<088と言方の違いかな>\n5588.81　?kakurembo\n5590.53　カレソゴ　<古>\n5603.88　kakure'mbo: <onigoto (鬼ごっこ) の一種>\n5609.26　ka'kure'pputti\n5613.48　kakurembo　<昔別の語があったのかも知れぬが忘れている。>\n5614.62　# kakuregokko <希> <昔使ったことばで、今はあまり使わぬ。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04364.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04364",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04364.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5623.27",
+      "5624.05",
+      "5628.66",
+      "5629.17",
+      "5631.75",
+      "5646.12",
+      "5648.53",
+      "5655.57",
+      "5657.73",
+      "5645.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記 - 43-65\n質問番号　地図番号　/148\n項目名　かくれんぼ　089\nA 普通語　(B 除いた共通語)　(C 除いた特殊語)\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n5623.27  <#?> kakurekko <あまりしない>\n　　<めくらおには mekura'mbo>\n5624.05  onigoto (おにごっことかくれんぼを区別しない)\n5628.66  カクレンボ <多く使う>\n5629.17  同上\n5631.75  kakunekko (動詞は kakuneru)\n5646.12  カクレゴト <多>\n5648.53  カクレンボオ <多く使う>\n5655.57  カクレショ <古>\n5657.73  オニゴッコ <古>\n5645.43  カクネショ <古>\n(手書き注記・小さな文字や不明瞭な箇所あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04365.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04365",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04365.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5662.78",
+      "5665.89",
+      "5666.18",
+      "5667.81",
+      "5674.06",
+      "5676.84",
+      "5677.28",
+      "5677.85",
+      "5678.33",
+      "5678.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > （ ） ｛ ｝は厳密にする。 日本言語地図資料用紙 注記一覧 43-66 質問番号 地図番号 148 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] (9) 項目名 かくれんぼ 089 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 (B・C 残した語形とその注) [kakurem.bo] カクレンボ カクレンコ <古> カクネゴショ <古> カクレッコ <古> カクレッコ カクネッコ (多) 同上 カクネンゴ 昔 カクネッコ <普通> カクレンボ <普> カクネンゴッコ <古> kakure'mbo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04366.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04366",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04366.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5679.31",
+      "5680.34",
+      "5681.41",
+      "5684.11",
+      "5686.31",
+      "5687.32",
+      "5679.86"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記　43-67\n質問番号　地図番号　148\n項目名　かくれんぼ　089\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(10)\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　{B・C 残した語形とその注}\n5679.31　kakiirekko 〈普通〉    kakürembo\n5680.34　kakune'kko  II {カクネッコ} (面野 地, IR)  ケート (未リ)\n5681.41　[kakune] 視調査者もこれに賛成   #oniyokko\n5684.11　[kakunekko] 〈古〉   kakurembo\n5686.31　kakune'kko 〈かくれるは kakune'ru (k)〉\n5687.32　カクレンボウ\n(括弧内にカクレッコ　カクネッコ <普通> (088を補うようだが) カクレッコ ・・・)\n（被調査者と移者が互に言い、被調査者はそれを全部肯定した）\n本人の使うことばは　よく追求できなかった。\n56 79.86　kakiürembo (荒) kaküreoni",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04367.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04367",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04367.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5687.86",
+      "5688.01",
+      "5689.98",
+      "5696.54",
+      "5697.53",
+      "5712.70",
+      "5761.91",
+      "5762.41",
+      "5771.42",
+      "5793.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-68\n質問番号 地図番号 148\n項目名 かくれんぼ 089\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n5687.86　カクレッコ　<小さい時 こう言った>\n5688.01　カクネッコ　表聞一般のことば　カクレシボー\n5689.98　kakurenyokko　<古>\n5696.54　kakure'kko :　<古>\n5697.53　kakurekko　<古>\n5712.70　kakure' mbo　[kakure'bo:]\n5761.91　ontgokko　(誘) kagūrekko\n5762.41　N.R.　<特に名はない。>\n5771.42　(誘) kagūrekko\n5793.74　* kayurekko　<多い>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04368.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04368",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04368.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6286.68",
+      "6296.27",
+      "6395.46",
+      "6403.60",
+      "6403.62",
+      "6408.88",
+      "6416.09",
+      "6420.34",
+      "6421.82",
+      "6430.53"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[]）は厳密にする。\n日本言語地図資料用紙　注記一覧　43-69\n質問番号　地図番号　148\n項目名　かくれんぼ　089\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語　(12)\n\n（表の見出し）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6286.68　kakurembo　[新?]\n6296.27　<古>　mo:go:\n6395.46　オニサゴ　<やはり オーサゴである。>\n6403.60　* カクレヤコ　<古>\n6403.62　kakiurejako　<古>\n6408.88　カクレヤコ　<古、希>\n6416.09　カクレ　（アクセントは　カクレ）\n6420.34　カクレコ　<古>　カクレオニ　<新>\n6421.82　kakuregoto　<古>　kakurembo:\n6430.53　カクレオニ　<新>　（右へ、意カッタ）\n\n（下部余白、手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04369.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04369",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04369.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6467.73",
+      "6469.77",
+      "6472.58",
+      "6476.17",
+      "6476.93",
+      "6477.02",
+      "6479.51",
+      "6484.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-70\n質問番号　地図番号　148\n項目名　かくれんぼ　089\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(13)\n・A・[B]・[C]ごとに別表を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）[]は厳密にする。\n（表見出し）地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n6467.73　mo:jo: 「もう...よ」の意　mo:jo: より出たことば\n6469.77　オニゴック（?）\n6472.58　カクレゴ（右）\n6476.17　カクレゴト　＜古＞\n6476.93　カクレゴ　カクレゴショー と云って友達を誘う。同上\n6477.02　カクレンボ　＜カクレン ボスルカアイ＞\n6479.51　kakuregoto  -g- 〜 -g-\n6484.43　オニ　088と区別しない。無理に区別するとすれば「カクレンボノ/オニセンが」というようにでも区別する\n（その他手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04370.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04370",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04370.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6489.81",
+      "6491.49",
+      "6494.21",
+      "6528.06",
+      "6528.21",
+      "6532.93",
+      "6542.27",
+      "6542.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 43-71 質問番号 地図番号 148 項目名 かくれんぼ 089 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (14) 地点番号 A語形とその注記 [B・C除いた語形とその注記] A注のない語形 (B・C 残した語形とその注記) 6489.81 オニゴッコ オニサン (088と089と別々の名があるのかどうか疑わしくなったか回答が混じれて聞えなかった。) 6491.49 onisan (海岸部の大集落部落では kakurego という) 6494.21 ケンタ ＜古＞ 6528.06 ? kakurembo: tf; ＜確認がない。今の捜査が何と云っているかは知らない。＞ 6528.21 kakurembë: jx: ＜古＞ (今は使わなくなった) 6532.93 カクレンポー。カクレンポと云わず；語尾が長音化している。 6542.27 カクレゴト ＜やや古＞ 6542.32 カクレンポ ＜やや多＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04371.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04371",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04371.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6547.67",
+      "6547.79",
+      "6552.90",
+      "6553.99",
+      "6571.15",
+      "6571.34",
+      "6574.52",
+      "6577.71",
+      "6580.06"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-72\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n〔表上部〕\n質問番号　地図番号　148\n項目名　かくれんぼ　089\n普通注記　ページ\n[B　除いた共通語]　[C　除いた特殊語]　(15)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n6547.67　kakurembo　kakurembotti(j)　〈両者は区別なし。両方とも昔から極く普通に使う。〉\n6547.79　kakuredo;ja〈古〉　昔はこの方が普通であった。　kakurembo\n6552.90　kakurembo　（「カクレンボ」）\n6553.99　kakurembo　（「カクレンボ」）\n6571.15　オニゴット　（088と区別なきもののことし）\n6571.34　kakurembo　（アセントは「カクレント」）\n6574.52　kakurembo　（「カクレンボ」）\n6577.71　N.R.　（本人が忘れたもののようである。）\n6580.06　カクレゴット　〈少〉　カクレンボ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04372.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04372",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04372.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6581.52",
+      "6582.48",
+      "6583.45",
+      "6584.90",
+      "6585.83",
+      "6591.02",
+      "6592.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-73\n・A・[B]・[C]ごとに別記を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の〈〉()[]は厳密にする。\n\n管理番号　地図番号　148\n項目名　かくれんぼ　089\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(16)\n\n（表ヘッダ）地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n\nカクレゴト　〈という人もある。〉\nopigoto … ふつうこれですます。\nkakureopigoto … 正確な名。\n k akurebombo （「カクレボンボ」）\nkakure?mbo 〈古〉　kakurenoto 〈新〉\n立合の抹者は ketton という　ちょっとルールの違うのがあるという。鬼を見つける前にカネを跳ぶのという。\nkakurembo (088と089を別しないようである)\nカクレンボ（カクレゴトという人もある。）\nカクレオーサン〈希〉\n\n（右下余白）カクレゴト",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04373.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04373",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04373.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6593.98",
+      "6603.82",
+      "6607.18",
+      "6607.84",
+      "6628.59",
+      "6630.43",
+      "6635.54"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-74\n質問番号　地図番号　148\n項目名　かくれんぼ　089\nA　普通注記　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　(17)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6593.98　kakurembo（アクセント「カクレンボ」）\n6603.82　カクレンボ　カクレッコ　＜かくれっこが新しく使われると言うか？＞\n6607.18　kakurekko　＜小さな時 使った＞\n6607.84　kakurembo　＜かくれる子を[\"kakurekko\"という]＞\n6628.59　kakunekanzо　＜今は088のあそびとあまり区別せぬ。＞\n6630.43　kakurebotto　＜10才以下の者はあまり使わぬようだ。＞\n6635.54　希少上　kakure'ko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04374.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04374",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04374.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6650.70",
+      "6655.38",
+      "6677.41",
+      "6710.02",
+      "6711.95",
+      "7218.09",
+      "7246.45",
+      "7256.64"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-75\n項目番号　地図番号　148\n項目名　かくれんぼ　089\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(18)\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\nkakurembo（「かくれんぼ」でかくれることを「ひそむ」という。）\n\nkakunembo　かくれるを kakunemku という。\n\nkazi mimbo：〈どちらも使った。新古は分らない〉 # kakurembo\n\nonikokko　「鬼ごっこ」と同じ。\n\nkammekokko　〈う〉 kammiko\n\nkagomikagomi（kagomu「隠れる」の意）\n\nkagongutō は内破音　同島神⁄浦では neburgo\n\nオヤエッコロ　鬼ごっこもかくれんぼもオヤエッコロという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04375.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04375",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04375.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7266.92",
+      "7279.01",
+      "7279.93",
+      "7284.16",
+      "7325.84",
+      "7330.91",
+      "7335.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉()[]は厳密にする。 日本言語地図資料用紙　注記一覧　43-76 質問番号　地図番号　/48 項目名　かくれんぼ　089 A 普通注記 (丸囲) ページ [B 除いた共通語] (19) [C 除いた特殊語] 地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 {B・C 残した語形とその注} 7266.92　kakurembo [新]　昔はしなかった。 7279.01　カクレゴ　(古)　　カクレンボ 7279.93　kettai (kettaiというのは鬼になったものか 他のものを探している間に、鬼が初めに 居た柱などにケッタイと呼んで 見つかる前につくと、鬼はまたつづけ 見つかる前に つくと、鬼はまたつづけ 鬼となる遊び) 7284.16　kakurembo [新?] 7325.84　onjisan (?) onigokoと混同したか? 7330.91　onigo　〈目がくしてするのをojiという〉 7335.93　kakurembo (?) たぐらの方言か疑わしい",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04376.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04376",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04376.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7336.71",
+      "7339.27",
+      "7340.24",
+      "7341.42",
+      "7343.76",
+      "7346.54"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-77\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n(右上) 地図番号 148　頁 A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(20)\n項目名　かくれんぼ　089\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7336.71　kakuregokko (?) (～ゴッコの形は方言形かどうか疑わしい)\n7339.27　kakurembo　<鬼は、他の者がかくれるまで mekakuji をしている。>\n7340.24　ジャアノコドイ　<088と区切りはない。>\n7341.42　ジャトイゴト　zatoigoto　088と区別する他の語は知らないという。\n7343.76　kakurembo　鬼になった子は tsütsütakwe:ZU と数を数えて待つ。\n7346.54　? kakure'mbo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04377.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04377",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04377.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7352.14",
+      "7353.03",
+      "7355.81",
+      "7356.55",
+      "7361.17",
+      "7363.59",
+      "7366.14",
+      "7372.96",
+      "7373.56"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-78\n質問番号　地図番号　148　項目名　かくれんぼ　089\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[] は厳密にする。\n\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n7352.14　カクレゴブ（後）　カクレンボ\n7353.03　opigo　鬼ごっこと区別ですに。\ntakure mo:zo:　鬼ごっこと区別して。\n7355.81　kakure kombo〈新〉　kakurego\n7356.55　kakurembo〈新〉〈古〉　（注記あり）\n7361.17　カクレオン〈古〉　カクレゴ\n7363.59　カクレンゴ〈新〉　同上\n7366.14　kakure oni〈新〉　kakuregotu\n7372.96　カクレンボオ（共か）\n7373.56　カクレオンゴ〈古〉〈や希〉　カクレゴ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04378.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04378",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04378.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7381.97",
+      "7382.93",
+      "7390.75",
+      "7404.56",
+      "7424.67",
+      "7431.82",
+      "7436.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-79\n質問番号 地図番号 148\nA 普通注記 ページ\n[B 除いた共通語]\n[C 除いた特殊語] (22)\n項目名 かくれんぼ 089\n地点番号 A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 {B・C 残した語形とその注}\n7381.97 カクレンゴ (新, 希)\n7382.93 # < ? > カクレンボ\n7390.75 カクレオニゴ <やゝ希>\n7404.56 ket:a (ケッタ) [鬼でないものが隠れるまで 鬼は木や柱につかまって目をふさいでいる。鬼がさがしにあたるすに、鬼でないものが ket:a といってその柱につかまると鬼は変れない。]\n7424.67 kakurego <古>\n7431.82 NR <こういう遊び方はなかった。今の子供もしないようだ>\n7436.68 kakurengo <古> kakurembo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04379.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04379",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04379.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7450.44",
+      "7470.72",
+      "7471.33",
+      "7500.24",
+      "7502.89",
+      "8300.11",
+      "8300.80",
+      "8301.76",
+      "8302.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　43-80\n質問番号　地図番号　148\n項目名　かくれんぼ　089\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (23)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7450.44 opisara（088と区別した名を失念）\n7470.72 kakurembo ＜共＞\n7471.33 同上\n7500.24 カレゴト ＜多い＞\n7502.89 kaku'rem'bo ＜古＞\n8300.11 ゴンジュウ（旅館老人　岡田○氏の説明によれば　50教える向に隠れるが50＞ゴンシュウ）となったのだろうという。\n8300.80 オンジョ　モイ ＜088と区別してはえわない＞\n8301.76 カルンボ（カレンゴ　カレレンギョはえわない。）\n8302.91 カクレンボ ＜カレレンゴとはえわず＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04380.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04380",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04380.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "8303.13",
+      "8303.84",
+      "8306.42",
+      "8312.33",
+      "8320.59",
+      "8322.68",
+      "8324.26",
+      "8331.12"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-81\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）［］は厳密にする。\n\n（右上欄）\n質問番号　地図番号　/148\n項目名　かくれんぼ　089\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n（24）\n\n表ヘッダ：\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n8303.13　mo:do:kakure　<mo:do:は隠れて、もういいよ、の意で 'mo:' というので もういいの意なるべし。>\n8303.84　カクレンボ（カクレオンゴとはえわないという）\n8306.42　kakuremodo　〈古〉　kakurembo\n8312.33　kakurembo:　〈児童の頃は別の名を使ったけれども〉\n8320.59　oinanggo　（088と同じ語であるかは変だが、中三者も確かであると認めた）\n8322.68　kakureon　〈古〉　kakurembo\n8324.26　kakurembo　＜子供の頃からそう言っていた。＞\n8331.12　oinango　（室泊では鬼ごっこのこと）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04381.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04381",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04381.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "8332.59",
+      "8334.63",
+      "8342.51",
+      "8393.69",
+      "0294.66",
+      "1156.89",
+      "1241.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-82\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＜＞（）[]は厳密にする。\n\n（右上の枠）\n地図番号　148\n項目名　かくれんぼ　089\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n\n（表ヘッダ）\n地点番号　　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n8332.59　kakuego (eはreから)\n8334.63　kakurembo これ以外はないと言う。\n8342.51　kakurengo <古>\n8393.69　kakureja: (ja:は「合い」の訛り)\n0294.66　hakuridzoi <新> hakurit?ui <古>\n1156.89　kakuga:e: kakki: duru:\n（別不明。kakuもkakki:も「かくれ」の変化。ga:e:は呼びあって競う意。du:ruは不明。ルールの別ではなさそうだ。）\n1241.96　to: k'ai mo: je: <かくれんぼの時 to:kai と呼びかける。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04382.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04382",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04382.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "1745.54",
+      "3705.47",
+      "3726.21",
+      "3757.32",
+      "3778.00",
+      "4648.59",
+      "4653.47",
+      "4663.92",
+      "4669.55",
+      "4695.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-83 質問番号 地図番号 148 項目名 かくれんぼ 089 A 普通注記 (B 除いた共通語) (C 除いた特殊語)\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n1745.54 カクレンポ <新> カクレオン\n3705.47 <新> kagurembo <古> kagurekago\n3726.21 カクレンボ <新> カグレンコ\n3757.32 カクレンポ (新) カグレガーコ\n3778.00 カクレンホ <新> カグレッコ <古>\n4648.59 kakurembo <新> kakurebakko <古>\n4653.47 kakurembo <子> kakuregots(a) <古>\n4663.92 kakure?mbo <新> kakure'goto\n4669.55 kagurembo <今> kagurebottsuu <古>\n4695.21 kakurembo (共) kakuremoti",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04383.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04383",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04383.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "4736.63",
+      "4746.20",
+      "4761.57",
+      "5605.70",
+      "5614.62",
+      "5615.28",
+      "5623.42",
+      "5633.96",
+      "5642.31"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-84\n質問番号　地図番号　148\nA　普通注記\n(B　除いた共通語)　ページ　(2)\n[C　除いた特殊語]\n項目名　かくれんぼ　089\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　{B・C　残した語形とその注}\n\nkakurembo　〈新〉\tkakureyko　〈古〉\nkakulembo　〈昔〉 * 〈新〉\t*#! kakulesanyo　〈古〉\nkakurembo　〈上〉〈使うこともある〉\tkakuresanyo\nkakurembo　〈共〉\tkakuregoto\n同上　上\t#kakuregotko　〈希〉\nkakurembo:　〈共〉\tkakuregoto\nkakurembo　〈新〉\tkakurebo: t/o:\nkakurembo　〈共〉\tkakunekko\nkakurembo　〈新〉\tkakunekko　kakuneflo\n\n（書き込みや注記、符号など手書きの略記あり、原文の日本語・英字表記をできる限り再現）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04384.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04384",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04384.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5645.43",
+      "5645.89",
+      "5652.81",
+      "5653.60",
+      "5655.41",
+      "5657.73",
+      "5663.01",
+      "5663.68",
+      "5666.18",
+      "5667.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-85\n地図番号 148\n項目名 かくれんぼ 089\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (3)\n地点番号　A 語形とその注記　{B・C 除いた語形とその注}\nかくれんぼ　kakurembo　〈新〉　カクネショ　〈古〉\n5645.43 カクレンボ 〈新〉　カクネショ 〈古〉\n5645.89 同上　カクネショ\n5652.81 kakurembo 〈新〉　kakurekko\n5653.60 kakurembo 〈共〉　kakunekko\n5655.41 カクレンボ 〈上〉　kakunekko\n5657.73 カクレンボ 〈新〉　オニゴッコ 〈古〉\n5663.01 kakurembo 〈共〉　kakunekko\n5663.68 同上　同上\n5666.18 カクレンボ 〈新〉　カクネゴショ 〈古〉\n5667.24 カクレンボ 〈新〉　カクネッコ 〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04385.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04385",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04385.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5667.81",
+      "5671.00",
+      "5674.06",
+      "5676.84",
+      "5687.86",
+      "5693.78",
+      "5694.79",
+      "5696.54",
+      "5696.68",
+      "5723.36"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-86\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n地図番号 148\n項目名 かくれんぼ 089\nA 普通注記  ページ\n[B 除いた共通語] (4)\n[C 除いた特殊語]\n-------------------------------------------------------------------------------\n地点番号　　A語形とその注記 [B・C 除いた語形とその注]　　A注のない語形（B・C 残した語形とその注）\n5667.81　カクレンポ　〈新〉　カクレッコ〈古〉\n5671.00　kakure mbo　〈新〉　kakurekko\n5674.06　カクレンポ　〈教〉　カクネッコ〈多〉　カクレンコ\n5676.84　カクレンポ　〈希〉　カクネッコ〈多〉\n5687.86　カクレンポ　〈今、使っている〉　カクレッコ〈小さい時、こう言った〉\n5693.78　カクレンポ　〈共〉　カクレッコ\n5694.79　同上\n5696.54　kakurembo：〈新〉　kakurekko：〈古〉\n5696.68　kakurembo 〈新〉　opinyokko\n5723.36　kakurembo：〈新〉 kakurekko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04386.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04386",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04386.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5770.46",
+      "6296.27",
+      "6349.09",
+      "6376.68",
+      "6386.32",
+      "6403.60",
+      "6403.62",
+      "6413.43",
+      "6423.75",
+      "6479.95"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 43-87 質問番号 地図番号 148 項目名 かくれんぼ 089 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (5) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5770.46 kaguirembo <新> kagurekko 6296.27 <新> kakurembo 6349.09 kakurembo <新上> kakureygo 6376.68 kakurembo: <新> kakuregoto 6386.32 kakurembo [新] kakurego 6403.60 カクレンボ * カクレヤコ <古> 6403.62 kakuirembo <新> kakuirejako <古> 6413.43 kakuirembo <新上> O.F. 6423.75 kakurembo <新> kakuregoto 6479.95 カクレンボ <新> # カクレゴト",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04387.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04387",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04387.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6489.27",
+      "6489.81",
+      "6494.21",
+      "6509.43",
+      "6522.37",
+      "6586.27",
+      "6602.62",
+      "6607.18"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一 43-88\n質問番号 地図番号 148\n項目名 かくれんぼ 089\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\nページ (6)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n64 89.27　カクレソポ〈新〉　オニゴット\n64 89.81　# カクレンボ　オニプッコ　オニサン\n64 94.21　カクレンポ〈新〉　ケッタ〈古〉\n65 09.43　カクレンポ〈英〉　カクレアソビ\n65 22.37　カクレンポ〈新〉　カクレン\n65 86.27　kakureNbo〈...〉　kakureko\n66 02.62　[kakurembo]〈英〉　onisama-asubi\n66 07.18　kakure'mbo〈標準語〉　kakure?kko〈小さな時使った〉\n\n（088と089と別々の名があるのかどうか疑わしくなったが同答がこじれてきこえなかった。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04388.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04388",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04388.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6623.28",
+      "6634.07",
+      "6635.87",
+      "7332.97",
+      "7356.70",
+      "7374.15",
+      "7404.56"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-89\n質問番号　地図番号　148\n項目名　かくれんぼ　089\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)　(7)\n地点番号　A語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C 残した語形とその注】\nカクレンボ〈共〉\nカクレッコ\nkakure'nbo　新\nkakure'ko\nkakure'nbo\nkakurekabgo:\nkakure'nbo　新\nkakuregura\nkakure'mbo:\nkakure'oni\nカクレンボ\nkakure'mbo (新)\nket:ia (ケタ)\n[鬼でないものが隠れるまで鬼は木や杖につかって目をふさいでいる。鬼がさかしにあたるすに、鬼でないものがket:ia といって鬼を...]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04389.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04389",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04389.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7411.27",
+      "7430.15",
+      "7431.13",
+      "7500.66",
+      "8229.96",
+      "8300.87",
+      "8302.19",
+      "8313.88",
+      "8332.07",
+      "8332.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-90\n質問番号　地図番号　148\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(8)\n項目名　かくれんぼ　089\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n7411.27　新. kakurembo　　　kakureko\n7430.15　新　同上　　　　　kakurego\n7431.13　〈新〉同上　　　　ketta\n7500.66　カクレンボ（ともいう）　オニゴト\n8229.96　kakurembo〈3〉　　　kakurego:\n8300.87　同上〈新〉　　　　kakutegoro\n8302.19　カクレンボ〈新〉　　モゾガクレ\n8313.88　kakurembo〈新〉　　＊kakuremodoji\n8332.07　kakurembo〈新・子〉　kakurego\n8332.84　kakurembo〈新〉　　modzanko (難読)\n\n（ルビ・注記・小さな手書き文字あり。上は概略の読み取り）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04390.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04390",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04390.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "8345.18",
+      "8363.51",
+      "2072.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-91\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の〈〉（）［］は厳密にする。\n質問番号　地図番号　148\n項目名　かくれんぼ　089\nA　普通注記　B（除いた共通語）　C（除いた特殊語）　（9）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n8345.18　kakurembo　〈新〉　kakuremodo\n8363.51　同上　kakureon\n2072.20　kakurembo　新　N.R.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04391.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04391",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04391.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "3741.16",
+      "3786.44",
+      "4675.45",
+      "4740.93",
+      "5662.78",
+      "5665.11",
+      "5677.28",
+      "6386.66",
+      "6413.43",
+      "6418.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語は地点番号順に並べる。 注記の< > () []は厳密にする。 日本言語地図資料用紙 注記一覧 43-92 質問番号 地図番号 148 項目名 かくれんぼ 089 A 普通注記 ページ (B 除いた共通語) (C 除いた特殊語) (1) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 3741.16 [ka'kuretsüi~bo]    ka'kurekko 3786.44 シャドー オニコ    カクレガッコ 4675.45 onijiru (088と差異がなかった)    O.F. 4740.93 tanekuxayo tanekurayo    O.F. 5662.78 ? kakusambo    [kakurembo] 5665.11 カクシボオ <古> カクシッコ <新>    O.F. 5677.28 今 #NR. <今の遊びの名はそれだ> とのこと。カリネンゴ…音 6386.66 kakuregai:    O.F. 6413.43 kakiuremembo    O.F. 6418.13 ミソケ ヤアコ    O.F.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04392.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04392",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04392.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6546.15",
+      "6548.02",
+      "6563.84",
+      "6567.79",
+      "6570.89",
+      "6583.93"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　43-93\n（上部ボックス）質問番号　地図番号　148　A　普通注記　ページ\n[B]　除いた共通語　[C]　除いた特殊語　(2)\n項目名　かくれんぼ　089\n（表の見出し）地点番号　A　語形とその注記　[B・C　除いた語形とその注]　A注のない語形（B・C　残した語形とその注）\n\n6546.15　トオバイコ（鬼ごっこ、かくれんぼの区別がない。トオバイコというのは、「隠れていて見つけられると、追っかけられるのである。鬼ごっこ、かくれんぼは云われれば判るが、使うことはない、ということである。）　O.F.\n\n6548.02　kaetae　O.F.\n\n6563.84　kakuremmo　O.F.\n\n6567.79　kikoi　〈古〉　kakure' yoto　（右欄にローマ字表記）\n\n6570.89　サガシゴト　オニゴト　（右欄）kakure' noto\n\n6583.93　kakuregokko　[kakuregokko]　村落の校長は古い形としては kakuregokko という。　kakure'mbo\n\n（右の注記欄）O.F.　kakure' goto　kakure'mbo\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04393.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04393",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04393.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6611.61",
+      "6645.62",
+      "7238.12",
+      "7316.65",
+      "7349.07"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-94\n質問番号　地図番号　148\n項目名　かくれんぼ　089\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語] (3)\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n6611.61  ○ kentoku <古> 子供達がよく使う。自分も子供の時使った　kakurembo\n6645.62  ○ monoji: <鬼が定められた数を教えてからつかえにかけます遊び>\n7238.12  ○ <古> rikiriki    kakurembo\n7316.65  itf jni?: san (?) 隠れんぼの呼称としては OF いかが?\n7349.07  tomariko <kakure tooru no mitsukeru> kakurembo\n\n(下部にさらに手書き注記ありが不鮮明)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04394.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04394",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04394.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7350.96",
+      "7368.32",
+      "7380.26",
+      "7392.45",
+      "7417.79",
+      "7500.24",
+      "7502.89",
+      "8239.31",
+      "9322.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-95\nA・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n資料番号　地図番号　148\n項目名　かくれんぼ　089\nA 普通注記　ページ\n[B 除いた共通語]\n(C 除いた特殊語) (4)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n7350.96　メカクシ mekakusi　O.F.\n7368.32　kakureseibo. ＜右＞　kakurego\n7380.26　カクレミタゴ　O.F.\n7392.45　《ミレマシタ》 (見つけられましたーと 子供がいうことから 生じた名であるらしい)　O.F.\n7417.79　kakuremma　O.F.\n7500.24　ミワケ　カクレゴト　＜多い＞\n7502.89　kem'bo: ＜新＞　kaku'rem'bo ＜右＞\n8239.31　kakuregana　O.F.\n9322.52　mogamoga ＜古＞ (もうかまうかの訛り、こんなはに Kが濁音化する。) kakurembo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04395.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04395",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04395.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "0246.48",
+      "0257.43",
+      "1211.69",
+      "1223.91",
+      "1231.88",
+      "1233.61",
+      "2141.61"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-96\n質問番号　地図番号\n148\nA　普通注記　ページ\n[B]　除いた共通語\n(C)　除いた特殊語　(5)\n項目名　かくれんぼ　089\n▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での情報は地点番号順に並べる。\n▸ 注記の< > ( ) [ ] は厳密にする。\n地点番号　A　語形とその注記　[B・C　除いた語形とその注]\n0246.48　ku:ggwa　O.F.\n0257.43　tu:ju:　O.F.\n1211.69　wakuju:　O.F.\n1223.91　to:guraga:　O.F.\n1231.88　kawutji:　O.F.\n1233.61　nukui:je:　O.F.\n2141.61　kajufjissumai tumisssummai　O.F.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04396.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M148Q089/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04396",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04396.tif",
+    "source_ljc_id": "LJC-M148Q089",
+    "source_map_numbers": [
+      "148"
+    ],
+    "source_title": "かくれんぼ (隠れん坊)"
+  }
+]

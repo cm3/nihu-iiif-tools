@@ -1,0 +1,229 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1738.19",
+      "1791.33",
+      "3688.82",
+      "4639.69",
+      "4658.42",
+      "4687.01",
+      "4725.92",
+      "4744.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n資料番号　地図番号\n280    001\n項目名　カガミ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (1)\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n1738.19  kɑgami （ていねいに言う時）    kayami\n1791.33  kayami\n3688.82  g? （りょとの差は微女か）\n4639.69  g2 （はっきりしたり）\n4658.42  kɑg2ami\n4687.01  kagami\n4725.92  kɑɾami （りの継続が長く、前の母音をも鼻音化している。）\n4744.32  kayami （東京のが行音よりいくつか鼻音が強いというか長くつづくような）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00101.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M001Q280/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00101",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00101.tif",
+    "source_ljc_id": "LJC-M001Q280",
+    "source_map_numbers": [
+      "001"
+    ],
+    "source_title": "カガミ (鏡)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4752.11",
+      "4760.98",
+      "5499.98",
+      "6476.92",
+      "6482.75"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　1-2\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n資料番号 280　地図番号 001　A 普通注記　ページ (2)\n項目名　カゲ\n\n（表ヘッダ）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\n4752.11\tkagami?　（しりやmの鼻音性が強いようである。すなわち、それらの音の継続時間が長く、しかも前の母音をも少し鼻音化するようである）\n4760.98\tka^yami　～はっきり、つかえかかったり\n5499.98\tカガミ　鼻音は含まない。\n6476.92\tカガミ\n6482.75\tkagami",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00102.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M001Q280/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00102",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00102.tif",
+    "source_ljc_id": "LJC-M001Q280",
+    "source_map_numbers": [
+      "001"
+    ],
+    "source_title": "カガミ (鏡)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "6484.43",
+      "6485.30",
+      "6485.46",
+      "6500.83",
+      "6542.71",
+      "6572.55",
+      "6575.40"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-3\n資料番号　280　地図番号　001\n項目名　カゲ\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\n(3)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6484.43　カガミ　（少し鼻音の感じがある。）　カガミ\n6485.30　カガミ\n6485.46　カガミ　（鼻濁音に近い）\n6500.83　カガミ　[ɡ]音は非常に少い\n6542.71　kagami.　279の注れも書いれがこの方 言は -ŋ- g-のでかれが一見 デタラメ、九だし、両者があること はれしか。\n\n6572.55　kaːgami　①kanami\n6575.40　[kagami]　　　　　　　　　　　　kagami",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00103.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M001Q280/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00103",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00103.tif",
+    "source_ljc_id": "LJC-M001Q280",
+    "source_map_numbers": [
+      "001"
+    ],
+    "source_title": "カガミ (鏡)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "6581.68",
+      "6657.96",
+      "7247.86",
+      "7301.67",
+      "7302.66",
+      "7303.17",
+      "7313.34",
+      "7313.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙　注記一覧\n資料番号　地図番号\n280　001\n項目名　カゲ\nA　普通注記\n（B　除いた共通語）　（C　除いた特殊語）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6581.68　カガミ\n6657.96　kagami (g: はっきりした破裂音)\n7247.86　kagami, 時に(kāgami)のような発音が聞かれるが、はっきり発音すると鼻音化が消える。\n7301.67　kagami\n7302.66　kagāmi\n7303.17　kagami （りでない）\n7313.34　kagami （nyaでない）\n7313.68　kagami （nyaでない）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00104.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M001Q280/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00104",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00104.tif",
+    "source_ljc_id": "LJC-M001Q280",
+    "source_map_numbers": [
+      "001"
+    ],
+    "source_title": "カガミ (鏡)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "7320.95",
+      "7324.24",
+      "7324.47",
+      "7324.96",
+      "7329.57",
+      "7332.27",
+      "7338.48",
+      "7342.10",
+      "7351.06",
+      "7353.51"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n日本語地図資料用紙注記一覧\n資料番号　地図番号　280　001\n項目名　カゲ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n（5）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nkagami\nkagami [nyaでない]\nkagami (nyaでない)\nkagami\nkagami\nkagami\nkagami\nkagami ヤデナイ\nkagami\nkagami\n1-5",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00105.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M001Q280/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00105",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00105.tif",
+    "source_ljc_id": "LJC-M001Q280",
+    "source_map_numbers": [
+      "001"
+    ],
+    "source_title": "カガミ (鏡)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "7354.23",
+      "7355.22",
+      "7363.59",
+      "7373.56",
+      "7374.15",
+      "7381.38",
+      "7382.93",
+      "7383.98"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 1-6\n費用番号 地図番号\n280 001\n項目名 カゲ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (6)\n\n地点番号 A 語形とその注記（B・C 除いた語形とその注） A 注のない語形（B・C 残した語形とその注）\n\n7354.23 kagami\n7355.22 kagami '65.10.28. gがぬけていた由 ハガキあり、加藤シルス\n7363.59 kagami\n7373.56 kagami\n7374.15 kagami\n7381.38 kagami\n7382.93 kagami\n7383.98 kagami",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00106.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M001Q280/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00106",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00106.tif",
+    "source_ljc_id": "LJC-M001Q280",
+    "source_map_numbers": [
+      "001"
+    ],
+    "source_title": "カガミ (鏡)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "7385.84",
+      "7390.75",
+      "7393.62",
+      "7396.16",
+      "7400.11",
+      "7403.86",
+      "7412.31",
+      "7420.91",
+      "7421.62",
+      "7430.15"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )[ ]は厳密にする。 日本言語地図資料用紙注記一覧 1-7 調査番号 地図番号 280 001 項目名 カゲ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (7) 地点番号 A語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C残した語形とその注) 7385.84 kagami (が行子音にはならない) 7390.75 kagami 7393.62 kagami 7396.16 kagami (りとはならない) 7400.11 kagami 7403.86 kagami 7412.31 kagami 7420.91 kagami 7421.62 kagami (鼻音になるらしい) 7430.15 kagami",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00107.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M001Q280/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00107",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00107.tif",
+    "source_ljc_id": "LJC-M001Q280",
+    "source_map_numbers": [
+      "001"
+    ],
+    "source_title": "カガミ (鏡)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "7430.75",
+      "7504.64",
+      "8239.31",
+      "8302.19",
+      "8306.42",
+      "8324.83"
+    ],
+    "other_text": "A・（B）・（C）ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n日本語海図資料用紙注記一覧　1-8\n資料番号 280　地図番号 001　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (8)\n項目名　カゲ\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n7430.75　kagami　（り音は出ない）\n7504.64　(?) kagami\n8239.31　kaami　＜ぞんざいに言う＞　→ rで注。 r〜gの併用　TOKシルス\n8302.19　kagami\n8306.42　kagami　鼻音化しよい\n8324.83　kagamu　（kanaではなく、又 kagami でもない。平素は kagamと言うであろうと思う。）\n右欄：kagami　kagami",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00108.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M001Q280/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00108",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00108.tif",
+    "source_ljc_id": "LJC-M001Q280",
+    "source_map_numbers": [
+      "001"
+    ],
+    "source_title": "カガミ (鏡)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "8334.63",
+      "9310.27",
+      "0275.36"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧    1-9\n\n資料番号 280   地図番号 001   項目名 カゲ   A 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (9)\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\n8334.63   kagami   （鼻音化せず）\n9310.27   kajami   がは少し鼻音がかかっている程度\n0275.36   kagami   ＜＝ニワトリのトサカは、kagan＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00109.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M001Q280/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00109",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00109.tif",
+    "source_ljc_id": "LJC-M001Q280",
+    "source_map_numbers": [
+      "001"
+    ],
+    "source_title": "カガミ (鏡)"
+  }
+]

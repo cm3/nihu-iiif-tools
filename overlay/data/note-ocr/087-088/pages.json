@@ -1,0 +1,2320 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1739.10",
+      "1756.32",
+      "1793.14",
+      "1854.24",
+      "1859.84",
+      "2781.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）（　）は厳密にする。 日本言語地図資料用紙　注記一覧　20-54 資料番号 055　地図番号 87.88 A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 項目名　咳をする 055 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） セキ スル　（才 助詞を言わない） seki suru　(kiがgに近い)　一応sとする se'ki suru　→ seki suru とめる se'ki jiteru セキ スル　（才を入れずにいう） セキ デル　（才助詞をいわない） se'ki'o suru　〈タ〉 Se'ki'o ka?kumu se'ki' su'mu　（ゝ少し有声化した印） セギスル　ヘギスル　という人もある。 sambuĝi si　〈古〉 Segi si",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02054.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02054",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02054.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2800.52",
+      "3609.47",
+      "3649.16",
+      "3722.97",
+      "3724.36",
+      "3725.12",
+      "3725.77",
+      "3730.39",
+      "3733.22",
+      "3741.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 20-55\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ] は厳密にする。\n\n質問番号 055 地図番号 87.88\n項目名 咳をする 055\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (2)\n\n地点番号 | A 番形とその注記 (B・C 除いた語形とその注) | A 注のない語形 (B・C 残した語形とその注)\n\n2800.52 セキオスル（才助詞を抜くこともある）\n3609.47 Sabugï si ＜老＞    segi si\n3649.16 sabugi sürü（昔）    segi sürü\n3722.97 Sabügi sürü（昔）    gegi sür(ü)\n3724.36 シェギスル（かぜひいたとき）    シャブギ スル\n3725.12 シャブギデル（ひく） シェギデル（小さく）\n3725.77 シェ ギァ デダー デルとする\n3730.39 Sabugï sut（昔）    gegi sut\n3733.22 gegi derü（今普通） sabügi derü（妙）\n3741.57 Sabügi sürü（昔）    Gegi sürü",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02055.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02055",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02055.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3742.82",
+      "3763.17",
+      "3782.38",
+      "4609.68",
+      "4647.87",
+      "4648.59"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 20-56\n質問番号 地図番号\n055    87.88\nA 普通注記\nページ (3)\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名 咳をする 056\n\n地点番号    A語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n3742.82    jegi (今)    Sabtttgi\n\n3763.17    シュギ (じゅ) スル    サブギ スル\n\n3782.38    samüngi sürü --- のはエヘンエヘン\nsegi sürü -- (2) (2)はのどの ジー ジーすることにいうよし\n\n4609.68    jegi sürü (上のようにいうのが正しいと思っているが 実\n\n( f egi süru ) (際には下の様にいう事が多いようである。)\n\n4647.87    セキ スル (目)が病者の様にきせれる) (fuのrが脱\n\n落する様に思われる。\n\n4648.59    sa^mbuki şiru <左> <帯>    seki şiru\n\n46 53.02    şekm 名詞形はなりようだ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02056.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02056",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02056.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4653.47",
+      "4658.42",
+      "4663.06",
+      "4666.99",
+      "4667.33",
+      "4672.19",
+      "4676.39",
+      "4676.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（ ）は敬称にする。\n\n日本言語地図資料用紙　注記一覧　20-57\n質問番号 055　地図番号 87.88\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n項目名　咳をする　056\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n4653.47  Seku　Seite dafikan (せいてだちがん、せきがでてる)\tseki o suru\n4658.42  segi jiru  = 回目の発音\tsegi jiru\n4663.06  seku ＜[新]か。年寄は使わない＞\tseki jiru\n4666.99  seki suru (やや丁寧に発音；時は助詞等を入れる)\tseki jiru\n4667.33  セキ（シテタ）{せきをして居た}の意。語形は→\n\tシル　出せなかった。語集によって知りえた所では「セキシル」である。\n\n4672.19  seki deru (sekuという動子もある。)\tseki jiru\n4676.39  seke deru (自動詞型でいう)\n4676.42  セエキ　シル　se:ki/jiru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02057.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02057",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02057.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4685.72",
+      "4701.14",
+      "4705.53",
+      "4715.33",
+      "4716.20",
+      "4744.32",
+      "4752.27",
+      "4752.11",
+      "4760.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 20-58 質問番号 地図番号 055 87.88 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (5) 項目名 咳をする 056 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] seki o deru (せきが出るという形で使った。) sabukji sürum (ユ) ジャブギスル (古) sabugis-taru (古) Yeki sisum -- <1回か2回する場合> sabusuim ---- <連続的に多くする場合> sabukti susum (古) seki susum Gegi desum (他動詞を使う表現が得られなかった。) sabutki suurum (古) seki suarum [segi süurum] ([ ]の音は口蓋化されて[6]の音で表わすべきものの様であるが分簡略表に従う。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02058.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02058",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02058.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4762.04",
+      "4762.56",
+      "4763.45",
+      "5472.91",
+      "5508.16",
+      "5508.19",
+      "5628.70",
+      "5579.42",
+      "5591.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＜＞［］は抜粋にする。\n\n日本言語地図資料用紙　注記一覧　20-59\n質問番号　地図番号\n055　87,88\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n項目名　咳をする 056\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形（B・C 残した語形とその注）\n4762.04　シャブギ〈コトリ〉 シャブギィ …百日咳をいう〉\n4762.56　sabugi sūru〈虫〉\tsegi sūru\n4763.45　Geki ga dekiru　セキをという形ではない点に注意\n5472.91　sekuu 名詞不明　tanya sekuu 名詞なし\n5508.16　keki suru　ヘキスル\n5508.19　seki ja deru（区別不明）\n　　　　seki suru\n5628.70　セキオ スル…〈多く使う〉\tシャボキ オスル\n5579.42　Geku〈と信う〉\tseki? osuru\n5591.60　セキ（が） セク〈やる〉\tヒキ（?）スル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02059.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02059",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02059.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5594.02",
+      "5595.05",
+      "5608.51",
+      "5611.81",
+      "5615.78",
+      "5622.48",
+      "5625.91"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-60\n調問票号　055　地図番号　87.88\nA 普通注記\n[B 除いた共通語]　[C 除いた特殊語]\n項目名　咳をする　056　ページ (7)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）は敬称にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n5594.02　sekuu / seki o suruu　}　双方、同等に言ふ\n5595.05　seki suruu　　Sは軽い。（S と g の中間の音）\n5608.51　sabuki sum[u] <店>　sekisumu\n5611.81　seki ga deru (… o surum と言う他動詞で答 えなかった。)\n5615.78　seki o siru　〈昔の老人は suwaki o sirue といつた。〉\n　　　〈ge:ki:pi natte suwaki ga deru 若き老人はいつた〉（ge:ki は風ぜ）\n5622.48　seki: 動詞形はなかった。sekiは名詞である。\n5625.91　seki o suruu　[seki ; siru]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02060.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02060",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02060.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5631.16",
+      "5631.75",
+      "5635.48",
+      "5635.65",
+      "5636.74",
+      "5641.13",
+      "5641.73",
+      "5641.94",
+      "5641.99"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-61\n調査番号　地図番号　055　87.88\n項目名　咳をする　056\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5631.16　seki o siru / seki o seku　〈両方とも普通に使う〉\n5631.75　seku.　セキオセクとは言わない seku とだけ言う　seki jiru\n5635.48　サブキ オスル　〈去〉　セキオシル\n5635.65　セキ オ シル（共）\n5636.74　サブキ オスル　〈去〉　セキガデル　セキオスル\n5641.13　seki o siru　〈本人が言うときは -deru〉\n5641.73　seku　名詞でない\n5641.94　seku　〈昔の人は事 seku とだけ言った〉　seki o suru\n5641.99　(se'ki; o) seku　（）の中はなくてもいい",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02061.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02061",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02061.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5642.17",
+      "5653.60",
+      "5653.65",
+      "5655.57",
+      "5657.73",
+      "5661.34",
+      "5666.18",
+      "5669.19"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での音表は地点番号順に並べる。 注記の＜＞()は散発にする。 日本言語地図資料用紙 注記一覧 20-62 質問番号 地図番号 055 87.88 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (19) 項目名 咳をする 056 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) seki o suru seki o seku {両方使う} seki o seku <希> seki o seku <希> セキオスル（共） セキオスル（共） seki o suru seki o suru seki o suru {区別なく使う} seki o seku セキオスル（共） seku suru seku deru seki o suru にある形はあたらなかった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02062.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02062",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02062.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5671.36",
+      "5672.75",
+      "5676.84",
+      "5677.28",
+      "5678.59",
+      "5678.86",
+      "5680.34",
+      "5681.41",
+      "5685.37"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は敬称等にする。\n\n日本言語地図資料用紙　注記一覧　20-63\n質問番号　055　地図番号　87, 88\nA（普通注記）　[B]（除いた共通語）　[C]（除いた特殊語）　ページ（10）\n項目名　咳をする　056\n\n地 点 番 号　　A 語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C 残した語形とその注）\n5671.36　sekjo: suru (sekuとは言わぬ)\n5672.75　seki o seku <希>　　　seki o suru\n5676.84　セキ プ デル <タタ>\n5677.28　セキ オ スル … (セキ スルという形は出なかった)\n5678.59　se'ki na deru <このうをよく使う>　　　se'ki o suru\n5678.86　シャビキ スル <90才ぐらいの人がいう>　　セキオ スル\n5680.34　se'ku <出るものは se'ki　セキをセクとは言わない>\n5681.41　seri o suru (sekuとは言わないらしい)　　　seri ya deru\n5685.37　'muse'yu <共通語のセルより意味が広い。咳するも含む>　seki'o suru\n\n（罫線で囲まれた表と手書きの注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02063.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02063",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02063.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5686.67",
+      "5712.70",
+      "5761.91",
+      "5770.11",
+      "5780.57",
+      "6287.42",
+      "6287.71",
+      "6354.44",
+      "6356.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）[]は敷衍にする。 日本言語地図資料用紙 注記一覧 20-64 質問番号 055 地図番号 87.88 A 普通注記 [B 除いた共通語] [C 除いた特殊語] 項目名 咳をする 056 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5686.67 セキガデル （調査者の質問によって） セキオスル 5712.70 seki o suru [seki gaderu][sekro suru] 5761.91 segina deru （過去形） 5770.11 segi teruu （進行形） 5780.57 segis(意)rüu <他人について> segi deruu <自分について> 6287.42 kozuku <古> Seki suru 6287.71 seki suru <kozuku はいなかのことだ> 6354.44 kotsuru ---- <普通こちらを言う> seki ga tsukum 6356.98 セキガツク <新> コツリガツク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02064.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02064",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02064.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6357.38",
+      "6358.48",
+      "6373.59",
+      "6374.64",
+      "6374.68",
+      "6375.08",
+      "6375.40",
+      "6375.65"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧　20-65 管理番号　地図番号　055　87.88 A　普通注記 [B　除いた共通語] [C　除いた特殊語] (12) 項目名　咳をする　056 地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） 6357.38　セキガ コツル ＜古＞　セキガ ツク 6358.48　セキガ コツル ＜多＞　セキガ ツク 6373.59　kotsuru　（名詞なし） 6374.64　コツル ＜名詞＞、コツリ 又は セキ＞ 6374.68　kotsuru　（「せき」に対する名詞なし） 6375.08　kotsuru　（せきに対する名詞も出ない。） 6375.40　kotsurum 　}（せきに対する名詞が出ない。）　#suwamukun 6375.65　スワムク　}　名詞＜セキ＞　コツル　＜スワムクの方が多く使われる＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02065.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02065",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02065.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6383.28",
+      "6383.77",
+      "6384.73",
+      "6385.10",
+      "6385.63",
+      "6385.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（）（）は原形にする。\n\n日本言語地図資料用紙 注記一覧 20-66\n質問番号 055  地図番号 87.88\nA 普通注記\n項目名 咳をする 056\n[B 除いた共通語]  [C 除いた特殊語] (13)\n\nA語形とその注記 [B・C除いた語形とその注] | A注のない語形 [B・C 残した語形とその注]\n\nkotsuru <せきは kotsuri>\nコッガツク <子に対し親等が言う時>　コツル\nタグル、コツル（同じように言う。）　セキガデル\nkotsururu -- (セキの名詞は出ない)\nse'ki' ga kuru <多>\nse'ki' ga ko'tsu'ru <昔>　コッルに当るセキという名詞形は ko'tsu'ri\nkotsuri ga tsukumu <希>　kotsurumu\n(モキ(を)～(動詞))という形が出ない。セキに対する名詞も出ない。\nkotsuru (名詞なし)\nコツル【名詞＜セキ＞】",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02066.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02066",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02066.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6387.62",
+      "6388.49",
+      "6389.22",
+      "6389.98",
+      "6394.09",
+      "6394.43",
+      "6395.61",
+      "6396.08",
+      "6396.62"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 この中での語は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 20-67 資料番号 055 地図番号 87.88 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (14) 項目名 咳をする 056 地点番号 | A 語形とその注記 (B・C除いた語形とその注) | A注のない語形 (B・C 残した語形とその注) kotsuri ga deru 〈希〉 kotsuri ga tsukku kotsuru kotsuru (セキの名詞なし) タグル (希) セク タグル <風邪の時> コツル (「モキ(咳)〜(動詞)」という形が出ない。セキに対する名詞は出ない。) コツル 名詞〈セキ〉 kotsuru セミオスルというわけにはいかず、治詞なまもののごとし kotsuri ga tsukku〈少〉 kotsurun コツル、セキオスル〈どちらも使う。区別なし〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02067.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02067",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02067.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6398.78",
+      "6406.77",
+      "6407.28",
+      "6408.72",
+      "6408.88",
+      "6411.66",
+      "6414.17",
+      "6415.23"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語彙は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-68\n資料番号　055　地図番号　87.88\n項目名　咳をする　056\nA 普通注記\n[B 除いた共通語] [C 除いた特殊語] (15)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nkotsuruu ・・・〈古い〉　　　seki o suru\nseki o suru　(セキでなくシェキ) / seki o jeku\nセク　（セキオスルも用いる）\ntaguru 〈咳〉　　　　　　　　　se'ku\nタグル〈昔希〉〈タグルは昔、長い咳に使っていたが、今は殆ど使わない〉　セキ　スル\nセキガチク〈自称〉　　　　　　セキシル　セキガデル\nseki ga tsumu〈自分の場合〉（自の場合、他人の場合）　語形が異るというが疑わしい\nseki o suru〈他人の場合〉\nkozuiku〈小さい咳を度々するを言う〉　[seki: suru]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02068.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02068",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02068.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6416.09",
+      "6418.13",
+      "6419.09",
+      "6420.58",
+      "6424.20",
+      "6426.04",
+      "6427.40"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-69\n質問番号　055　地図番号　87.88\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (16)\n項目名　咳をする　055\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6416.09　*セキガツク（最初 セキハライが出たので 質問にてセキガツクを得た）\n6418.13　タダル <くも>　セキスル\n6419.09　タゴク <古希>　セキオスル、セキイヌル\n6420.58　シワキチク <古希>　セキガタク\n6424.20　Seki o sūru　〈人の時合〉 セキヲスル人の場合と seki o tsüku\n　　　　いうのは疑わしい。自分の時も言ってあるろう。しかしセキがツクという言い方\n　　　　が一般の形であるろうと想像される\n6426.04　seki o suru（セキをする〈とき〉の場合はスル）\n　　　　seki ga tsuku（セキがつくの場合はツクという）\n6427.40　seki o suru（セキをする時は、セキヲスルとスルになり）\n　　　　seki ga tsuku（セキがでる時はセキガツクという）\n\n（下部に追加の注記あり、手書きの細かい注が複数記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02069.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02069",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02069.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6429.15",
+      "6429.30",
+      "6429.65",
+      "6433.34",
+      "6434.57",
+      "6439.61"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-70\n質問番号　055　地図番号　87.88\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (17)\n項目名　咳をする　056\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C残した語形とその注]\n\n6429.15　タグル　〈今･希〉〈古〉　　　　　　　　　　　セキスル\n6429.30　セキィスル　＞両用\n　　　　タグル\n6429.65　セキオスル　}　同種語\n　　　　タグル　(用法も狀況も)\n6433.34　セキ\n　　　　色キョウスル　たにごく近いとのこと、たともみる　　タグル\n6434.57　コツウスル〈子〉〈コツウスルは3枚についての使う〉　セキュウスル\n　　　　(複雑な注記あり)\n6439.61　セキガデル　〈セキといったら、セキガデルと続けるのである〉　タグル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02070.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02070",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02070.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6442.80",
+      "6443.61",
+      "6445.57",
+      "6446.05",
+      "6447.08",
+      "6447.84",
+      "6453.64",
+      "6454.88"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語頭は地点番号順に並べる。\n注記の＜＞（ ）は歌辞にする。\n\n日本言語地図資料用紙　注記一覧　20-71\n質問番号　055　地図番号　87.88\n項目名　咳をする　056\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(18)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6442.80　タグル　せんより少しひどい音がする　胸へんから出時タグルセク\n6443.61　セク（近）は[SE]に近い　セキョウスル　タグル\n6445.57　セク　---＜≒55が普通＞　セキガデル\n6446.05　セキョウスル〈音〉　タグル\n6447.08　taguru --- 聞んせきまする、せきむ　g~g~　seku seki suru\n6447.84　タグル〈古〉　セキオスル　セキスル\n6453.64　タグル　セキョウ　スル（若い者は使わない）　セキガデル　セク\n6454.88　タグル---（弱い咳、軽微のごとく）　セク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02071.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02071",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02071.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6455.31",
+      "6456.23",
+      "6456.57",
+      "6458.26",
+      "6459.29",
+      "6460.10",
+      "6464.90",
+      "6465.82",
+      "6466.39"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は脇書にする。\n\n日本言語地図資料用紙　注記一覧　20-72\n資料番号　地図番号　055　87.88\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (19)\n項目名　咳をする　056\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nseku　—オーの方はな\nコズク　……〈こちらの方をよく使う〉　セク\nセキョウスル　(区別なし)　セク\nセク〈剌共〉　タグル\nヒキショル　(---スル)\ntaguruu　〈sekioへとは言わない〉\nセキ〈剣・著上〉　タグル\nコズク〈祭〉　セキョウスル〈侭〉\nコズク〈昔〉　セキョウスル〈侭〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02072.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02072",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02072.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6467.73",
+      "6469.19",
+      "6470.11",
+      "6471.59",
+      "6472.05",
+      "6472.53",
+      "6474.50",
+      "6475.27",
+      "6475.61"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-73\n質問番号　055　地図番号　87.88\n項目名　咳をする\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)　(20)\n\n地点番号　　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　(B・C 残した語形とその注)\n\n6467.73　kozuku　名詞はseki\n6469.19　セキオスル <古>　タグル <新:長いせ?>\n6470.11　taguru <古>　綱を手もへ引落とることは taguru se?ku\n6471.59　タグル　はせのひどくなったもの　セキョウスル\n6472.05　[taguru] <古>　seki o sūru\n6472.53　セキオスル <タグルはいかないか><セクヲまたタグルことがある>\n　　　　つまり、タグ・ッテからセキが出るのだ・・・\n6474.50　タグル <古>　seku / sekju: suru\n6475.27　コズク <書>　セキョウ スル <俳>\n6475.61　taguru ・・・多い　seku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02073.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02073",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02073.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6479.51",
+      "6482.26",
+      "6486.07",
+      "6491.49",
+      "6491.65",
+      "6497.77",
+      "6500.22",
+      "6501.86",
+      "877.88"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-74\n資料番号　055　地図番号　877.88\n項目名　咳をする　056\n普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(21)\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6479.51\ttaguru taguri なる名詞形はない。sekiは使わず。\n6482.26\tタグル -> 重ねてやらない --- かぜ\n\tセク -> 重ねてやる セキユム … ぜんそく\n6486.07\tセキガデル、セキスル。#タグル（より）セキスル。タグルは両方拳位に用いるという。\n6491.49\ttagoriga tsuku　< tagoriga tsui-ta という　tagorum\n\t・ことが多い。>\n6491.65\ttagoru（名詞形は seki である）\n6497.77\tkozuku　咳にあたる名詞はざがごとし\n6500.22\tタゴク（やや古）\t\tセキ（オ）スル\n6501.86\tセク〈古〉\t\tセキスル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02074.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02074",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02074.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6503.73",
+      "6510.65",
+      "6511.33",
+      "6512.09",
+      "6512.67",
+      "6513.24",
+      "6520.50"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-75\n\n（右上の箱）\n調開番号　地図番号　655 87.88\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n(22)　ページ\n項目名　咳をする　056\n\n（表の見出し）\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n\n（表の内容）\nseki; osuiru　（上の2形は同等に言い、）\nsekuu　tayoku は主に子供に対して言ふ。\n\nセキ スル　＜やや多＞　　　　セキオスル\nセキスル（接助詞を入るぬ。）\nseku o suru (seku と seku o suru は同義)\ntayoku <古>　seku <等>\nseku　{くせは seki；セキヲスルは seku ま}\ntanokuu たは tayoku\nタフル　＜希＞　　　　セキスル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02075.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02075",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02075.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6522.03",
+      "6522.37",
+      "6522.79",
+      "6527.22",
+      "6528.21",
+      "6528.64",
+      "6532.30",
+      "6532.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧 20-76 資料番号　地図番号 055　87, 88 A 普通注記 [B　除いた共通語] [C　除いた特殊語] (23) 項目名　咳をする 056 地点番号欄の注記 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) セキガデル（他人がせきをする時） セク（自分がせきをする時） …いき取あり、被解答の説明はありあたらない。 セキ スル この語形の時は、格助詞「ヲ」をつけないのが普通である。 セキオスル　・長考（3〜4分程度） 1. seku {〈普通は1を使う方が多いが“変な”は…〉} 2. seki, oseru　つける、2の方を使う。 seku、seki ga deru というように「seki」という語もある。 1. seku 2. seki〈これは名詞〉 セキスル〈やや咳〉 セキオスル セキ（オ）スル セキ・セク（やっと）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02076.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02076",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02076.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6533.31",
+      "6537.06",
+      "6537.21",
+      "6540.52",
+      "6544.69",
+      "6545.88",
+      "6547.24",
+      "6547.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本語語地図資料用紙　注記一覧　　　20-77\n管理番号　地図番号\n055　　　87.88\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (24)\n項目名　咳をする　056\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6533.31　セキ　スル　格助詞「を」をつけない事が多い\n6537.06　seku　＜別に seki という語に名詞として使っている＞\n6537.21　seki seru　＜ごはん、ごはんとこっか＝ミつぐない場合 seku＞　であまり連続的なのは指さない。例、ふかけはせきしたな＞\n6540.52　タワル　＜タワルは続けて咳をし（苦しい時に用いる）＞　セキオスル\n6544.69　seku　＜他人が咳をしているのをみて＞　seki suru\n6545.88　seku　（sekiという名詞はある。seki、sekuとはあまり云わないようである。）\n6547.24　1. se'ku　（くしが普通であるが、1回かぎりの）\n　　　　2. se'ki'o seru　ときは2.を使う＞\n6547.67　seku　＜連続時になる場合＞　seki o seru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02077.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02077",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02077.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6547.79",
+      "6549.60",
+      "6552.90",
+      "6553.9",
+      "6555.65",
+      "6556.03",
+      "6558.09",
+      "6558.37",
+      "6559.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本語語地図資料用紙　注記一覧　20-78\n資料番号　地図番号\n055　87.88\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(25)\n項目名　咳をする 056\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6547.79　Seku --- <連続的な場合>　　　　　　　　　　　seki o seru\n6549.60　seki o seru　? <両方とも区別なし>\n　　　　seku\n6552.90　seki suru（「セキスル」）\n6553.90　seki suru（「モキスル」）\n6555.65　seki suru　<細かくする時は、kodze ki suruと言う>\n6556.03　seku　＜seki sekuとは言わない。＞\n6558.09　seki ga deru（意志動詞をうることが出来なかった）\n6558.37　[seki ga deru]　自分の場合はこういう　　　　seki o dasu\n6559.67　seki o seku, seki to suru　（全く同じように使って区別がつかぬ。上下、新・古の関係など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02078.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02078",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02078.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6563.58",
+      "6564.33",
+      "6565.17",
+      "6572.04",
+      "6574.52",
+      "6575.17",
+      "6580.06",
+      "6581.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-79\n\n資料番号　055　地図番号　87.88\n項目名　咳をする　056\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(26)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）\nA注のない語形（B・C　残した語形とその注）\n\nseki deru　seki suru　seku　〈区別はない〉\nseku, seki suru　〈どちらも使う〉\nseki, seku（非常に盛り上がりではなくて、seの中間とでも言うつづきの口蓋化がみられる。dgについては明瞭）\nseki suru（意識すれば[seki]と言えるが、ふつうは[seki]である。）\nseki suru（「セキスル」）\nセキをク（セはやや口蓋化して[se]に近く聞こえるが、えし書くほどではない。以下同じ。猫、ゼも同様）\n×　口蓋化している。\nタゴル〈古〉　セク\nタゴル〈古〉　セキスル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02079.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02079",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02079.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6582.12",
+      "6582.73",
+      "6583.45",
+      "6583.93",
+      "6587.42",
+      "6590.35",
+      "6591.02",
+      "6592.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本語語地図資料用紙　注記一覧　20-80\n資料番号　055　地図番号　87.88\n項目名　咳をする　056\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(27)\n（表ヘッダ）地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nセク　〈セキオヌルとは言わぬ。〉\nタコル　〈希〉\nseki suru　（「セキスル」）\nse'ku　名詞＋動詞の形はない。名詞としてのse'kiはあるが、これは新しい形ないで、これは動詞がわかることはがないわけである。\nシュキ　シユク　〈風邪をひいて何度も続けて　ごはんごはんと咳をする時は　コシキ　オシヨクと言う〉\nタプル　〈タプルはせきのにくいときとよくにいうことば〉（ゼン）　セキスル\n（2分たりな場合をさすようである）\nタプル　〈年よりが使う〉　セク\nタプル　〈古〉　セキスル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02080.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02080",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02080.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6600.97",
+      "6605.84",
+      "6607.84",
+      "6610.77",
+      "6621.57",
+      "6623.53",
+      "6624.65",
+      "6625.17",
+      "6633.33"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本書籍地図資料用紙 注記一覧 20-81\n(右上枠) 055 87.88  A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (28)\n項目名 咳をする 055\n地 点 番 号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n6600.97    seki o seku <希>    seki o suru\n6605.84    シアアブル　シャアブルは子供がせきをする場合に対して用ゆ セキ　オ　スル\n6607.84    seki;nderu (［ヒコ］は[nya]の弱まった形)\n6610.77    sekio sekku <多>    sekio suru\n6621.57    sekuu — せきをする。 sekeru — せきが出る。 seki o deru\n6623.53    sekjo: seku <せきのひどいとき>    sekjo: suru\n6624.65    seki o seku — 多く使う    seki o suru\n6625.17    seku いらばえよく使う. sekjo: seku } 同じように使う. sekjo: suru\n6633.33    sekjo: seku (昨と同じ程度につかう)    sekjo: suru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02081.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02081",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02081.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6634.33",
+      "6635.36",
+      "6645.62",
+      "6650.70",
+      "6651.32",
+      "6651.64",
+      "6652.77",
+      "6662.38"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の< >（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-82\n\n資料番号　055\t地図番号　87. 88\n項目名　咳をする　055\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(29)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6634.33\tsekjo: jiru  sekjo: seku } =つとも 同じ程度に使う\tsekjo: suru\n6635.36\tsekjo: seku  ss?\n6645.62\tseki o seku <半々に使う>\tseki ja deru\n6650.70\tseki n deru  sekjo: seru } 同じぐらいに使う\n\tsekjo: seku <希>\n6651.32\tsekjo: seku <希>\tseki o seru\n6651.64\tseki o seku　希\tseki o dasu  seki o seru\n6652.77\tseki o seku — せきのひどいとき\tseki o jiru  seku\n6662.38\tseki o seku } 同じ程度に使う\n\tseku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02082.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02082",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02082.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6667.81",
+      "6701.46",
+      "7237.67",
+      "7238.12",
+      "7238.82",
+      "7239.85",
+      "7246.45",
+      "7258.58"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語形は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 20-83 資問番号 地図番号 055 87.88 項目名 咳をする 056 [B 除いた共通語] [C 除いた特殊語] (30) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注）\n\n6667.81 seki to jiro (終止・連体形)\n6701.46 seki:suru (kiは半濁。)\n7237.67 sekisaru (御商ではひどくせさむのを) ko dzuku (tsutsukuという)\n7238.12 kodzuku <kodzukuはひどくせく時に使う> sekisaru\n7238.82 sekisaru (らはやつ口嚔化) kodzuku <kodzukuはひどくせく時に使う>\n7239.85 コズク（ズは続帯かまう音ではないが、ばれを明らかにやめることはできない。似た差があって、kodzukuもきわめる）\n7246.45 seki sur(u) / siwabuki (は軽いせき)\n7258.58 コズク（この地方では「セキコズル」といういう方はふだんは使わない）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02083.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02083",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02083.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7258.89",
+      "7266.92",
+      "7275.07",
+      "7279.01",
+      "7303.17",
+      "7308.48",
+      "7304.29",
+      "7305.13",
+      "7307.14"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-84\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n（右上小箱）質問番号 055　地図番号 87.88　A 普通注記（丸）　[B 除いた共通語]　[C 除いた特殊語]　ページ (31)\n項目名　咳をする\n（表ヘッダ）地点番号　A 叙形とその注記　（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nSiwabuku (老人にされる衰いせ) \tkodzuku\ntagor(u)・・・多い\tkozuk(u)\nコズク(薬) タグル(古)\nコズク(古)\tセキスル\nko tsu ru (コズクではない)\nSeki ga kotsuru ...\tseki ga deru\nsekiga taguruu\n#コツル（名詞はコツリ。）\nコツル（名詞 コツリ）\nkotsuri ga tsukuru -- <少>\tkotsuri ga kotsuru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02084.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02084",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02084.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7307.18",
+      "7308.33",
+      "7309.37",
+      "7309.61",
+      "7313.34",
+      "7316.65",
+      "7321.93",
+      "7322.81"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉()[]は厳密にする。\n日本言語地図資料用紙　注記一覧　20-85\n資料番号　055　地図番号　87.88　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (32)\n項目名　咳をする\n\n（表ヘッダ）A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nコツル　名詞〈セキ〉\nkotsuri ga kotsuru -- 〈ほとんどこれを使う〉    kotsuri ga tsukun\ntagu'ru　（同じこと。名詞は不明）　kotsūru〈少〉\nkotsuro（「セキ(を)～(動詞)」という形が出ない。）　（せきに対する名詞はない。）\nkozu kun（多）　tagu run（少）\nkotu'ru　セキに当る名詞形は聞えなかった。\nタグル　〈セキスルともいう〉\nSeki no deru　〈セキが出るので taguru のではない〉と答う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02085.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02085",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02085.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7324.96",
+      "7324.57",
+      "7326.41",
+      "7326.69",
+      "7330.31",
+      "7331.27",
+      "7333.29",
+      "7334.44",
+      "7239.24",
+      "7338.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本語語地図資料用紙　注記一覧　20-86\n資料番号　055　地図番号　87, 88\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (33)\n項目名　咳をする　055\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n7324.96    ko zuu kuun　（タルなし）\n7324.57    koza'ku　名詞はセキ\n7326.41    sekiga deru　＜特にひどいという＞\n7326.69    [tagu'ru]　—（同席の複調査者等）\n7330.31    セキスル　sekisuru　＜コックという語はない。セクとは胸が痛む時などに使う＞\n7331.27    ko zu kun　＜上品な語である＞\n7333.29    kozuku　＜下＞\n7334.44    kozu'ku　（セキに対する名詞がない）\n7239.24    siwabuki suru <舌>　語（ko'dzu'ku）\n7338.48    tagoru　（語頭は tagori であり、tagorigatsuku のようにいう時がある）\ntagori ga tsuku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02086.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02086",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02086.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7341.42",
+      "7342.72",
+      "7343.17",
+      "7343.76",
+      "7344.30",
+      "7349.07",
+      "7349.91",
+      "7351.09",
+      "7353.19",
+      "7355.48"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-87\n（上右の小枠）質問番号　055　地図番号　87.88　頁\n項目名　咳をする　056\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)\n（ページ）(34)\n\n地点番号　A語形とその注記　（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n7341.42　コヅク　kozuku　<ぐは　はつ音 dz?>\n7342.72　kozüku　(名詞はないらしい)\n7343.17　kozuku　(セキに対する名詞は附けなかった。)\n7343.76　kozüku　(名詞は kozuki)\n7344.30　kod'uka　(セキに当る名詞形なし)\n7349.07　tagoru　せきは <tagori>\n7349.91　seki suru　(分持資料では、tagoruも使われている)\n7351.09　kozukum　(ダブルなし)\n7353.19　kod'uka　(セキに当る名詞形なし)\n7355.48　sawamuku　<ち>\n\n（下右手書き）sekijo suru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02087.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02087",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02087.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7355.81",
+      "7356.70",
+      "7366.14",
+      "7373.23",
+      "7377.72",
+      "7382.01",
+      "7384.16",
+      "7385.84",
+      "7386.63"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-88\n（上部欄） 資問番号 055　地図番号 87.88　項目名 咳をする 056　A 普通注記　（B 除いた共通語）　（C 除いた特殊語）　(35)\n\n地点番号　A 番形とその注記【B・C 除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n\n7355.81　tagaru（語形は taguri）　Seki o suru〈新〉\n7356.70　se'ki'o ta'gu'ru　{<使いは半そと思う>}　se'ki'o su'ru\n7366.14　tagura〈古〉　sekjuisuru\n7373.23　コズク〈名詞形コズキは用いられず、セキのようにいう〉\n7377.72　iki o giku〈古〉　Seki o suru\n7382.01　se'ki'no zuru〈近ごろ〉 kozuku〈古〉\n7384.16　kozuku　せきをする意。sekiの語も使う。\n7385.84　# iki giku（ikju giku とは言わないと言う）\n7386.63　ikju giku〈多少〉（この方が口語的して普通であろう） ikio giku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02088.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02088",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02088.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7392.94",
+      "7395.09",
+      "7395.63",
+      "7395.88",
+      "7396.16",
+      "7400.11",
+      "7401.92"
+    ],
+    "other_text": "A・【B】・【C】ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）〔　〕は厳密にする。\n\n日本語方言地図資料用紙　注記一覧　　　　　　　　20-89\n（右上の小欄）055　87,88\n項目名　咳をする　056\nA（普通注記）　[B　除いた共通語]　[C　除いた特殊語]\n\n（表ヘッダ）地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nイキモイク〈古〉　　　　　　　　　　　　コズク\n\nikju giku\niki giku\nikio giku　--＜ゆっくり言う時＞\n（何れも同じように使う）\n（初めの融合に: ikju giku）\n\niki giku（この場合助詞「を」は全然現れなかった。）\n\nikju giku. ikju wa iki o の融合形である。\n\niki giku ---（県内一般の慣用語）\nsekju suru　＜こわさを多く言うように思う＞\n\ntagorun（上）〈tagorun de soiga といい一説に〉 tagurun\n\nSekiga deru（うなることをしばしば示す）　seki ok tagorun　いう形では変えなかった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02089.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02089",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02089.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7405.21",
+      "7405.85",
+      "7406.53",
+      "7411.27",
+      "7416.34",
+      "7418.07",
+      "7420.18"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉()は厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-90\n\n（表） 質問番号 055　地図番号 87.88\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（37）\n\n項目名　咳をする　056\n\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形（B・C 残した語形とその注）\n\ntaɣoru　セキが非常にひどいときにいう。　　　　　　　　　　　　　seki.osuru\nセキヲスル、タゴル　併用\ntaɣa'ru　セキをするの語はない。　（読み取り困難な注記あり）\ntagoru　＜名詞形は tagori; ja deru ＞　従って tagoriga deru / tagoriga tsuku　も併用。\nta'gorru　名詞形はないらしい。\nkozukun　多し　　　　　　　　　　　　　　　　　　　　　　　　seki.osuru\nseku.　＜kore wa sukos; tsigoite na, (長い注記) njakun?yizeki no jei ni hiparu jo: hana sui＞　tagohu\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02090.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02090",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02090.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7420.91",
+      "7427.90",
+      "7431.82",
+      "7440.69",
+      "7440.71",
+      "7500.24",
+      "7501.14",
+      "7502.22",
+      "7503.11"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（　）は厳格にする。\n\n日本言語地図資料用紙 注記一覧 20-91\n質問番号 055   地図番号 87.88\n項目名 咳をする 056\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] (35)\n\n地点番号    A 番形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7420.91    sekuu <地方の中には tagomu といっている人(も)ある。>\n7427.90    ta'goru <普通> -> tagaru という人もいる    se'kiosuru\n7431.82    tagovi ga (tsuita) -> tsuku    tagomu\n7440.69    tagoru  せきはく (tagori という。)\n7440.71    tagoru (古) <tagotioru ga kamanro:ka? seki o suru> というに、その時の調子で: seki ga wari: ga kamanroikato いう。\n7500.24    セク(共) タグル(本)(タゴルの) = (長動詞形である。) タゴル\n7501.14    タデル(も)    セク\n7502.22    tagoru 表語 = tagori\n7503.11    seki o suru, seku (じどろ／すもろ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02091.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02091",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02091.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7503.48",
+      "7510.18",
+      "7511.66",
+      "7511.93",
+      "7521.16",
+      "7521.79",
+      "7522.48",
+      "7523.74",
+      "7533.11",
+      "8229.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧　20-92 質問番号　地図番号　055　87.88 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (39) 項目名　咳をする 055 地点番号　A 音形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 7503.48　sekki o suru その意義は極めて稀少かも。 7510.18　セク〈共〉〈セキヲスルの形ついない〉　タプル 7511.66　タプル〈多少用は〉〈セキ(を)〜(動詞)の形はない〉　セク 7511.93　タプル〈この語だけ使用〉 7521.16　タプル〈希〉　セク 7521.79　タプル〈希〉　セク 7522.48　タプル〈老人層に多い〉　セク 7523.74　seku　せき = seki 7533.11　セク〈共〉　タプル 8229.96　# iki giku (該当に当るところなし)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02092.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02092",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02092.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "8300.87",
+      "8303.13",
+      "8303.84",
+      "8305.76",
+      "8311.41",
+      "8313.72",
+      "8313.84",
+      "8313.88",
+      "8321.58",
+      "8322.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は仮称にする。\n\n日本言語地図資料用紙 注記一覧    20-93\n資料番号 055    地図番号 87, 88\nA 普通注記    (B 除いた共通語)    (C 除いた特殊語)    ページ (40)\n項目名 咳をする    056\n\n（表ヘッダ）\nA 語形とその注記（B・C 除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\nkozut 「を一動詞」の形が得られなかった。発音はコズクの入れか（イキ フッという人もある）\nkozuku せき = seki\nコズク〈射〉    イキヒク\niki ga deru 古・希    seki; suru\nikjo gihu <や・そんぞい>    ikjo giku\nikjo fut (FutはFukuの類の表現に入るらん)\nikjo but 「息ヲ吸ク」を言う。\nikju fuku (FukuはFutと言うことが勝談話で多少いると思う)\nikjo fut (ikjoはイキヲに当る)\nikjo fut(お)\n\n（下部手書き） sekijo sut",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02093.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02093",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02093.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "8324.83",
+      "8325.03",
+      "8331.12",
+      "8331.98",
+      "8332.59",
+      "8333.79",
+      "8334.64",
+      "8335.11"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-94\nA・[B]・[C]ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記のくく（）（）は厳密にする。\n管理番号 055　地図番号 87.88\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (41)\n項目名　咳をする 056\n（表の見出し）地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nikju git　giku は入念に発音した場合\nikju giku　-- 常用形と思われるが本の形も使われる。\nseki o kakuku <上>　seki は seki と sek in の中間形\nSegga det（該がある方か薄らしかった）\ni'kjo φut　cf. i'kjo sut　息をする\nsegga det --（「セキ[を...]〜物詞]という形がない。<セキ（名詞形）>）\niku git（iku < ikju < ikjo）\niku gi:　（<ikjo）\nikju Git　暫念語　　iki o gi, ku\nikigi'ku <昔>　se'ki 'saru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02094.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02094",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02094.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "8335.83",
+      "8305.73",
+      "8333.92",
+      "8342.35",
+      "8342.51",
+      "8343.97",
+      "8344.11",
+      "8350.68",
+      "8351.65",
+      "8352.92"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）には厳密にする。\n日本言語地図資料用紙　注記一覧\t20-95\n質問番号 055\t地図番号 87.88\nA 普通注記\t[B 除いた共通語]\t[C 除いた特殊語]\tページ (42)\n項目名 咳をする 055\n地点番号\tA 露形とその注記（B・C 除いた語形とその注）\tA 注のない語形（B・C 残した語形とその注）\n8335.83\tSeki, śiku (s--se)（sの中間音）\n8305.73\tiki ogika (o)(o) — 表記の訂正あり\n8333.92\tseku sut\tsekuは「そ」を含む\n8342.35\tseku sut (seki o > seku)\n8342.51\tiku Git (ヨはikuの中にふくまれている)\n8343.97\tikju giku (イビキにあたる表記はなし?)\n8344.11\tiku Fut (iku < ikju < ikio)\n8350.68\tiku Fut (ikuはイキフセ)\n8351.65\tiku git (ikuはイキヲのられた形)\n8352.92\tiku gizi <くせのことは?という>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02095.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02095",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02095.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "8353.63",
+      "8354.14",
+      "8360.39",
+      "8361.31",
+      "8362.81",
+      "8364.33",
+      "8373.43",
+      "8394.01"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語は地点番号順に並べる。\n▶ 注記の＜＞（）には厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-96\n質問番号　地図番号\n055　87.88\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (43)\n項目名　咳をする　055\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\niku git    iku には「を」を含む。\nseku sui.  seku は「を」を含む。\niku sut (iku は助詞の融合形)\nigu git    igu は「を」を含んだ形\niga git (igu は igit をの形)\niku git  iku に（を）を含んでいる。\nsekga deru -- 最初のこと。 ikio gike --- (丸)が変えたので某氏に依頼してみた。これも多分のこと。\njiki'wo giku <も> jiki'wo のに は未調査者の jiki'wo suru 義務のせいか。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02096.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02096",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02096.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "0249.17",
+      "0265.96",
+      "0275.97",
+      "276.51",
+      "0294.93",
+      "0340.00"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-97\n質問番号　地図番号\n055　87.88\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(44)\n項目名　咳をする　056\n\n地点番号　A語形とその注記　(B・C 除いた語形とその注)　A注のない語形　(B・C　残した語形とその注)\n0249.17　iʃinnivuri; (せに当ることはなく一つの動詞らしい)\n0265.96　Se: tsikkjuŋ } (語尾の＝形の区別については Se: tsikkjuj) (02/と022との注 <つ目を参照>)\n0275.97　Se: sun } (語尾の違いについては 021.022)　Se: Suri (023の注くつ目を参照)\n0276.51　i'kigjijui  i'kigjijun (せき〜の形にあらず) (せきに対する語は seki と類似という共通語を用いる) (語尾の違いについては 021.022の該記を参照)\n0294.93　Se: sun } 両形五分五五　Se: sumu 「毛」は増略\n0340.00　iʃ:indjuji (息が出るという意味か)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02097.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02097",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02097.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "1213.76",
+      "1251.73",
+      "1251.98",
+      "1271.05",
+      "2076.97",
+      "2086.03",
+      "2140.49",
+      "2141.61",
+      "2141.71"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-98\n（上欄）　質問番号　055　地図番号　87.88\n項目名　咳をする　056\nA　普通注記　(B)除いた共通語　(C)除いた特殊語\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C：残した語形とその注）\n\n1213.76    saFuji; Sun - 自分の動作にいる（何れも「を」は略されている。）\n           saFuji; Suji - 他の動作を示す\n1251.73    sakkwi: sun (sun は sun ともいっている。）\n1251.98    bimitfi （咳の表といっているか詳意である。）\n1271.05    zakkwi / sun  * zakkai / sun  } θ = !\n2076.97    sa: ga du si （せるするに当る語形、意味はせるに当るようである。）\n2086.03    sa: fu ji:ru [si:raくしている]\n2140.49    isagu: du hui; <hui: は hi:ui ともいう>\n2141.61    isagu: du ast (isagu: は isagu u とは...)\n2141.71    isuku du ast (du はそれほど強意はない。強少に近い意味をもつ。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02098.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02098",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02098.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "2150.07",
+      "2151.20",
+      "2151.51"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-1\nA・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）（）は散筆にする。\n\n資料番号　055　地図番号　87.88\n項目名　咳をする　056\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(46)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C除した語形とその注）\n2150.07　isaku <せき> isako: asti せきをする。\n2151.20　isaki du asti (咳ぞするに当るが du はそれほどの強さはない。)\n2151.51　isaki zu: si (咳ぞするに当るが)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02101.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02101",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02101.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "4666.17",
+      "4686.02",
+      "4712.54",
+      "4722.55",
+      "4726.80",
+      "4742.37",
+      "5611.39"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-2　質問番号 055　地図番号 87.88　項目名 咳をする 056\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（ ）は厳密にする。\n表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4666.17　seki suru -（家族庭の中でも使うというけれどもやや改まった言い方と思う。）　seki jiru -（一広がりの言い方で今も使う）\n4686.02　seki o suru <新>　seki o siru <こちらを多用は?>\n4712.54　seki sussu〈新〉　jabutgi sussum\n4722.55　Geki sussum〈新〉　Gabutki sussum\n4726.80　Segi sussu〈新〉　*[Sabulim]（多）\n4742.37　Seki sussu〈新〉　Sabukki sussum〈客〉[つづ]\n5611.39　(seiki 取り消し線) seki o suru -\n5611.39　seki o suru と「外の言いぶりはありませんが小に対する及びである」　seki ya denu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02102.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02102",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02102.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "5613.33",
+      "5615.28",
+      "5626.99",
+      "5643.33",
+      "5687.32",
+      "6357.74",
+      "6385.28",
+      "6409.72",
+      "6428.13",
+      "6428.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-3\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（）[ ]は厳密にする。\n資料番号　055　地図番号　87.88　項目名　咳をする　056\n地点番号　A音形とその注記【B・C除いた語形とその注】　A注のない語形【B・C残した語形とその注】\n5613.33　seki o suru　〈共〉　　seki o siru\n5615.28　seki o suru　〈共〉　　seki o siru\n5626.99　セキオスル　〈新〉　　サブキ、オスル\n5643.33　seki suru　（仲）　　seki seku\n5687.32　セキオスル　（調査者の質問によっての答え）　セキガデル\n6357.74　セキオスル　〈奉〉　　コツル\n6385.28　seki o seru　〈新〉　　kotsuru\n6409.72　セキオスル　〈共〉　　セキスル（セキスルが副語部）\n6428.13　セキ スル　〈今〉　　タグル〈古〉\n6428.26　セキオ スル　〈上共〉　タグル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02103.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02103",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02103.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙　注記一覧　21-4 管理番号　地図番号　055　87.88 項目名　咳をする　056 A　普通注記　B　除いた共通語　C　除いた特殊語　（3） 地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］ セキオスル〈新〉 セキオスル〈新希〉 セキスル〈新希〉 セキオスル〈共〉 セキオスル〈新〉 セキオスル〈新〉 セキスル〈新〉 右欄注記（おおむね）: タグル（風邪の時はタグル、普段時は空トルと言う） セク、 タグル、 タグル、 タグル、 タグル〈古〉、 タグル〈古〉、 タグル〈古〉［コズクが普通の言い方］ コズク　…あり、タグルは言説　本土の言い方である。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02104.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02104",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02104.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6482.52",
+      "6485.82",
+      "6486.50",
+      "6487.43",
+      "6487.66",
+      "6489.01",
+      "6526.04"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-5\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密にする。\n\n質問番号　055　地図番号　87, 88\n項目名　咳をする　055\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(4)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6482.52　seki o suru ＜共＞\t\ttagoru\n6485.82　セキスル＜刺＞\t\tタグル[舌] くわしくはダグル音に使うということある。ダブル[舌] ダグルは同席の方老夫人の発音を米のにもの 'ダブル'は茂田氏の言\n6486.50　新、セキオスル\t\tタグル\n6487.43\t♯セキスル＜上＞　〈セキスルの方は上のなとは、ダグルは前かろ のことばで多く使われる。〉（ここで上の方というのは共通語を使うまで場合の心持である。）\n6487.66　セキスル＜斉＞\t\tコズグ〈舌〉\n6489.01　セキスル〈衛希〉\t\tタグル\n6526.04　？セキスル（セキスルはあまり使わないと思う。）\t＃セク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02105.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02105",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02105.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6226.45",
+      "6533.36",
+      "6539.60",
+      "6540.79",
+      "6542.58",
+      "6554.08",
+      "6573.71",
+      "6580.33",
+      "6581.52"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　21-6\n資料番号　055　地図番号　87.88\n項目名　咳をする　056\nA　普通注記\nB　除いた共通語\nC　除いた特殊語　(5-)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n(共) セキ スル\t\tセク\nseki o suru <新>\t\tseku\nseki o suru ... 誘導ぎみだった。\t\tsekiga deru\nセキ オスル <希>\t\tセキ オセ? タグル (希)\nセキオスル\t\tセキ ガデル。のセキガデルの方がやや古いか。しかし一般にはデルを使っているようである。\n\nセキオスル (共) セキオスル\t\tセク\nseki suru <少>\t\tseku <少>\nセキ スル、セキオスル <共>\t\tセク -> <普通はこれを使う。>\nセキ スル <共>\t\tセク、タブル <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02106.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02106",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02106.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6590.87",
+      "6601.25",
+      "6608.89",
+      "6634.07",
+      "6635.54",
+      "6645.01",
+      "6657.96",
+      "6677.70",
+      "7239.41",
+      "7239.82"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙　注記一覧　21-7\n（上欄のボックス）　055　87.88　A 普通注記　B 除いた共通語　C 除いた特殊語　ページ (6)\n項目名　咳をする　056\n地点番号　A 置形とその注記（B・C 除いた置形とその注）　A 注のない語形（B・C 残した語形とその注）\n6590.87　セキ スル <共>　タプル\n6601.25　seki o suru <共>　seki o sasu\n6608.89　sekilo suru <衝>　seki’o jiru\n6634.07　seki o suru 希　seki o seku\n6635.54　sekjo: surum　少くつかう　sekjo: seku\n6645.01　seki o suru 新　seki o sekum\n6657.96　sekio suru <?>　* se?ku\n6677.70　se'ki'o suru　fi: tki'o suru <昔>\n7239.41　<衝> seki suru　siwamuki suru kozuka\n7239.82　<衝> seki suru　siwamuki suru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02107.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02107",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02107.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "7316.93",
+      "7318.04",
+      "7325.84",
+      "7333.75",
+      "7332.97",
+      "7334.78",
+      "7336.54",
+      "7344.45"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-8\n資料番号　055　地図番号　87. 88\n項目名　咳をする　056\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n7316.93　seki,o' suru　<新>　　　　　　　gobo gobo no zuru <使うことが多い>\n7318.04　? seki o suru　...<あまり使わない>　　　ko dzuku / kotsuruu\n7325.84　seki,ju? suru <上>　　　　　　　　　kod'uku\n7333.75　se?ki,'o saru <新>　　　　　　　　　kozu'ku\n7332.97　seki suru（少）　　　　　　　　　　(多) kozukuu（沖） tagawru\n7334.78　sekiju' suru <新>　　　　　　　　　koda'ku\n7336.54　seki,o suru <新>　　　　　　　　　kod'uku\n7344.45　sekiuji suru <新>　　　　　　　　　kozuka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02108.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02108",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02108.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "7345.43",
+      "7346.58",
+      "7347.55",
+      "7359.77",
+      "7374.15",
+      "7375.96",
+      "7391.01",
+      "7401.11",
+      "7402.47",
+      "7403.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）には厳密にする。\n日本言語地図資料用紙　注記一覧　21-9\n管理番号　055　地図番号　87. 88\n項目名　唾をする　056\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (18)\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nseki;wo suru <新>　　　　　kodzuku\nsekio suru <共>　　　　　　tagaru\nsekio saru <新>　　　　　　tago'ru\n<新>seki o suru　　　　　　tagoru\nセキオスル <新>　　　　　　コズク\nseki; suru　　　　　　　　(お)iki biku　seki; biku\nシキ スル <新>　　　　　　コズク\nseki o suru <上>　　　　　tagoru\nseki suru <上>　　　　　　tagoru\ntagorigatsuban? tagoru (表示形を使って (tagor/))\n\n下部手書き注記：tsui-ta? などいうもの。 tsukum",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02109.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02109",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02109.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "7410.57",
+      "7430.15",
+      "7430.75",
+      "7430.80",
+      "7431.08",
+      "7452.08",
+      "7461.77",
+      "7501.68",
+      "7502.91",
+      "7512.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-10\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の<>()は厳密にする。\n資料番号 055　地図番号 87.88\n項目名　咳をする　056\nA　普通注記　　(B) 除いた共通語　(C) 除いた特殊語　(9)\n表ヘッダ：地点番号　A 音形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\nseki,suru <新>　　　tagoru\n新上. seki o suru　　　tagoru\n上. seki o suru　　　tagoru\nseki o suru <新>　　　tagoru<ば>\n(新) seki o suru　　　tagoru\nseki o suru <共>　　　tagoru\n(合) se'ki'o suru　　　ta goru\nセキ スル <新>　　　タプル\nセキ スル <上品さがある>　　　セク<跡ありの注> タプル(体勢がどれか?)\nセキ オ スル <収>　　　タプル\n（注記や走り書きの小さな書き込みあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02110.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02110",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02110.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "7522.94",
+      "7523.27",
+      "7523.30",
+      "8302.55",
+      "8335.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-11\n質問番号 地図番号\n055 87, 88\n項目名 咳をする 056\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n(10)\n\n地点番号    A 語形とその注記（B・Cに除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n75/3.01    セキオスル <共>    セク\n75/3.43    セキスル <新>    セク\n7522.94    セキ スル <共>    タゴル\n75/4.21    Seki,suru    * seki; seku <ば>\n7523.27    セキ スル <こちらの方が少ないと思う>    セク\n7523.30    セキ スル <共>    セク タブル\n8302.55    セキ スル <新>    コズク\n83 15.46    Seki.saru --- <近頃はこっちを多く使う>    ikju (手書き)    seki の「S」... sek seとの間ぐらい\n8335.48    Seki?suru (共)    ikju? cika (手書き注：手書はこの方を使っていると思う)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02111.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02111",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02111.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "1893.10",
+      "4725.92",
+      "4734.56",
+      "5663.68",
+      "5731.13",
+      "6349.80",
+      "6368.60",
+      "6373.84",
+      "6393.41"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）には厳密にする。\n\n日本言語地図資料用紙 注記一覧 21-12\n質問番号 055    地図番号 87.88\n項目名 咳をする 056\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)\n\n地点番号    A語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C残した語形とその注）\n\n1893.10    <父は kozuku といった。>\n4725.92    Gegi o dasaru <?>    *begi sotsu-su\n4734.56    Segideru … 自動詞的 eho eho satsu 〈?〉    segi sutu sutu\n5663.68    [seki o seku]    seki o jiru\n5731.13    gehongehoo süürüü    segtsürüü\n6349.80    taguru\n           tagmurigatsüken  } 〈新・少〉    sekigatsüken\n6368.60    süwame ki ---- 〈外〉 katsukinu セキハライをする。    süwameku … 〈動〉\n6373.84    seki ga deru ---- 〈新〉    kotsuru\n6393.41    seki ga deru ---- 〈少〉    kotsuru\n\n(手書きのため一部判読曖昧)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02112.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02112",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02112.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "6395.97",
+      "6436.33",
+      "6448.23",
+      "6560.40",
+      "7238.90",
+      "7304.26",
+      "7223.02",
+      "7324.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-13\n質問番号　地図番号\n055　87. 88\n項目名　咳をする　055\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形（B・C残した語形とその注）\n\n6395.97　seki o dasu ---- ＜新＞　　　seku (v.)\n6436.33　seki (n.)\n6448.23　セキ（セキヌル）　　　　　　　　ピク\n6560.40　セキシテ　セキシトル　} ＜新＞（セキスル）　　タグル\n\n7238.90　セキバスル（希）　　　　　　　　コズク\n7304.26　seki ga deru ---- ＜少＞　　　　kotsuru\n7223.02　ta kuru sen suru（ハクショ）　　ta guru ru（軽くめる?)　kozuku?（急で連続）\n7324.24　ha(ku) sen suru　　taguru\n\n（手書き注記等あり。上は読める範囲の概略転写。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02113.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02113",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02113.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "7329.39",
+      "7335.34",
+      "7342.10",
+      "7365.51",
+      "7365.61",
+      "7391.94",
+      "7403.21"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )は厳密にする。 日本言語地図資料用紙　注記一覧　21-14 管問番号　地図番号　055　87.88 項目名　咳をする　056 A　普通注記 (B　除いた共通語) (C　除いた特殊語) (3) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） seki ga deru <新> 　ko zu ku　se ki ga deru　se ki o suru　tagoru Seki（セキは名詞形だが、セキをコクシとは言わない。）　koduku ko zu ki　se ki o suru se'kka deru <新>　tagu'ru sekiga deru <新>　tagoru セキ スッ <新>　コズク seki su <上>　tagoru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02114.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02114",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02114.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "7404.56",
+      "8302.91",
+      "8311.59",
+      "8332.84",
+      "8341.94",
+      "8345.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-15\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のくくり()[]は厳密にする。\n資料番号 055　地図番号 87.88\n項目名　咳をする　055\n(A 普通注記)　(B 除いた共通語)　(C 除いた特殊語)\n（ページ）\n表見出し：地点番号　A語形とその注記（B・C除いた語形とその注記）　A注のない語形（B・C残した語形とその注記）\n\nA欄手書き（概略）／右欄手書き（概略）:\nseki ga deru <せ>　　　　tagoru\nセキバスル（？きめれて希）　セキノ コズク、セキノズル\nsekjo sut <新>　　　　　ikjo fuka\nseku sut <動>　　　　　iku sut\nseku sut <新> -- とくに<共>　ika git\nseki ga deru -- <新しい近畿の言い方>　ikju Giku (注記あり)\n\n（下部に余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02115.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02115",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02115.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "1739.10",
+      "1770.18",
+      "1854.24",
+      "1862.52",
+      "3755.32",
+      "3793.37",
+      "3796.48",
+      "4663.06",
+      "4663.49",
+      "4666.51"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記－　21-16\n質問番号　055　地図番号　87.88\n項目名　咳をする\nA　普通注記　D　ページ\n[B　除いた普通語]\n[C　除いた特殊語]\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n1739.10    se'kiswru    se'kisiｊiteru\n1770.18    セギオスル    セギスル\n1854.24    se'ki'o ka'ku　se'ki'o sw'ru\n1862.52    セク    セキスル\n3755.32    ジェギスル    ジェギア デル\n3793.37    ジェギ デル    シャブギスル\n3796.48    シェギ スル    サブギスル\n4663.06    seki jiru    seku\n4663.49    se ki jinu    seku\n4666.51    seki gaderu    seki swru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02116.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02116",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02116.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "5463.12",
+      "5471.59",
+      "5564.76",
+      "5602.99",
+      "5604.65",
+      "5613.80",
+      "5624.05",
+      "5631.16",
+      "5631.75",
+      "5635.48"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-17\n質問番号　地図番号\n055　87.88\n項目名　咳をする\nA　普通注記　/ D\n[B　除いた共通語]\n[C　疑い共特殊語]　(2)\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5463.12　セキオスル　セキガデル\n5471.59　タンガセフ　セキガツク\n5564.76　seki o suru　seji o siru\n5602.99　seki o suru　seki ga deru\n5604.65　セキガデル　セキシル\n5613.80　seki deru　seki siru\n5624.05　seki ga deru　seki o siru\n5631.16　seki o siru　seki o seku\n5631.75　seki siru　seku\n5635.48　セキオスル　サヂキ オスル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02117.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02117",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02117.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "5636.74",
+      "5642.17",
+      "5653.60",
+      "5653.65",
+      "5661.34",
+      "5669.19",
+      "5672.75",
+      "5678.59",
+      "5681.41",
+      "5685.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-18\n質問番号　055　　地図番号　87.88\n項目名　咳をする　056\nA　普通注記　D　ページ\n(B　除いた普通語)\n(C　除いた特殊語)\n\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形（B・C 残した語形とその注）\n\nセキガデル、 セキオスル、 サワキオスル\nseki o suru    seki o seku\nseki o suru    seki o seku\nseki o suru    seki o seku\nseki o suru    seki o seku\nseku / sterü    seku derü\nseki o suru    seki o seku\nse'kiya deru    se'ki o suru\nseki ya deru    seki o suru\nseki o suru    mu seru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02118.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02118",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02118.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "5685.37",
+      "5686.67",
+      "5688.01",
+      "5688.86",
+      "5690.12",
+      "5690.27",
+      "5695.61",
+      "5697.53",
+      "5698.91",
+      "5703.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-19\n\n資料番号　055　地図番号　87.88\n項目名　咳をする\nA　普通注記　D\n[B　除いた共通語]\n[C　除いた特殊語]\n(4)\n\n（表見出し）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nSEKI'OSUHU　 tmuse?ru\nセキガ　ディル　　セキオスル\nセキ　オ　スル　　セキィ　スル\nセキオ　スル　　　セキガ　デル\nseki suhu　　　　seki seku\nseki o suku　　　seki o seku\nセキオスル　　　　セキオシル\nse'ki'osaurw　　　se'ki': suwru\nse'kjo'?sürw　　　se'kjo':sürw\nse gi sttrtt　　　sabugit swwr",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02119.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02119",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02119.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "5731.13",
+      "5741.66",
+      "5780.57",
+      "6267.84",
+      "6287.42",
+      "6348.63",
+      "6349.80",
+      "6349.67",
+      "6354.46",
+      "6357.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-20\n質問番号 地図番号 055 87.88\n項目名 咳をする\nA 普通注記 / D\n(B 除いた普通語) (C 除いた特殊語) (5)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n地点番号　A 音形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n\ngehongehos suiruu    Segi sülrü\nseki суρuu    sekyadetaru\nsegts (sü)rüi    segi derüi\n^sek.    ^sek jo sutu(?)\nseki sutu    kozuku\nseku    seki o suru\nsekigatsüku taguuru    tagurigatsüku\n(カタカナ) 7?リ オッカス    フブリル\nkoturuu    seki gatsukw\nセキガッツク    フツル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02120.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02120",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02120.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "6358.43",
+      "6366.67",
+      "6377.65",
+      "6378.70",
+      "6384.25",
+      "6384.73",
+      "6386.66",
+      "6387.48",
+      "6387.62",
+      "6388.52"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-21\n[枠内] 質問番号　地図番号\n055　87.88\nA 普通注記 D ページ\n[B 除い(共通語)]\n[C 除いた特殊語] (6)\n項目名　咳をする\n\n地点番号　A語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n6358.43　セキガツク　コツル\n6366.67　kotsuruw　kotsurigatsuku\n6377.65　コツル　コツガツク\n6378.70　コツル　セキガツク\n6384.25　sekiga deru, sekiga kttwu, kotsuurw\n6384.73　kotsuruw　kotswri gatsuku\n6386.66　kotsuruw　kotswri ga deru\n6387.48　kotsuruw　sekiga deru\n6387.62　kotsuruw　kotsuri ya deru kotswrigatsuku\n6388.52　kotsuru　kotswri ga deru\n\n(手書きのローマ字・仮名表記は判読のまま記載)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02121.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02121",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02121.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "6389.56",
+      "6396.08",
+      "6396.62",
+      "6396.83",
+      "6397.24",
+      "6397.62",
+      "6398.07",
+      "6398.42",
+      "6398.78",
+      "6406.77"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-22\n質問番号　地図番号\n055　27.88\n項目名　咳をする\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n表頭：地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\nタフル　　セキガデル\nkotswrw　　kotswri ga tswkw\nコツル　　セキオスル\nkotswrw　　seki ga tswkw\nkotswrw　　kotswri ga derw\nkotswrw　　kotsori ga tsowkw\nkotsatw　　seko swtu\nkotswrw　　kotswri ga tswkw\nkotswrw　　seki o swrw\nsekio surow　sekio sekw",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02122.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02122",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02122.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "6408.88",
+      "6411.66",
+      "6412.48",
+      "6414.17",
+      "6415.23",
+      "6415.88",
+      "6416.58",
+      "6417.85",
+      "6418.13",
+      "6419.09"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は原形にする。\n日本言語地図資料用紙　注記一覧　21-23\n資料番号　地図番号　055　87.88\n項目名　暫をする\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6408.88　セキイスル　タフル\n6411.66　セキシル・セキガデル・セキガデフ\n6412.48　セキガナフ　セキチカカス\n6414.17　seki ga tswkw　sekidsurw\n6415.23　seki : siwrw　kozōkw\n6415.88　sekio surw　kozowkw\n6416.58　セク　セキガツク\n6417.85　sekigaderw　tagurwr\n6418.13　セキィ スル　タフル\n6419.09　セキオスル・セキイスル・タゴク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02123.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02123",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02123.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "6424.20",
+      "6426.04",
+      "6426.83",
+      "6427.27",
+      "6427.40",
+      "6429.15",
+      "6429.30",
+      "6429.65",
+      "6431.85",
+      "6433.34"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-24\n質問番号 地図番号 055 87 88\n項目名 咳をする 056\nA・(B)・(C)ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（　）は数字にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\nseki o tsüko    seki o suwru\nseki o swru     seki gatswku\nセキウヲ　スル　　セフ\nSeki ga deru     seki o suru\nseku  sekioswaw  sekigatswko\nセキスル　　タクル\nセキイスル　　タクル\nセキオスル　　タクル\nタクル　　セキガツク\nセキ　セキウスル　タクル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02124.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02124",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02124.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "6434.52",
+      "6439.77",
+      "6443.61",
+      "6444.89",
+      "6445.57",
+      "6446.05",
+      "6447.08",
+      "6447.84",
+      "6449.19",
+      "6449.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-25\n質問番号　055　地図番号　87.88　項目名　咳をする 056\nA 普通注記 /D　[B 除いた普通語]　[C 除いた特殊語] (10)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6434.52　セフ　タフル\n6439.77　セキ、タフル、サセキオスル、サセキオタフル\n6443.61　セフ　セキュウスル　タフル\n6444.89　セフ　セキョウスル\n6445.57　セフ　セキガデル\n6446.05　セキュウスル　タフル\n6447.08　seku　seki suru　taguru\n6447.84　セキオスル・セキスル　タフル\n6449.19　セキ　タフル　#セキガデル\n6449.20　タフル　セキガデル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02125.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02125",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02125.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "6449.33",
+      "6451.79",
+      "6453.31",
+      "6453.64",
+      "6455.88",
+      "6456.57",
+      "6458.40",
+      "6459.52",
+      "6460.08",
+      "6460.76"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（　）（　）は厳密にする。 日本言語地図資料用紙　注記一覧　21-26 質問番号　地図番号　055　87.88 A 普通注記 [B 除いた普通語] [C 除いた特殊語] 項目名　咳をする　ページ (11) 地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注) 6449.33　タプル　セキオスル 6451.79　セク　セキガデル 6453.31　セキュウスル　タクル 6453.64　タブル、セキュウスル　セキガデル、セク 6455.88　セキュウスル　セク 6456.57　セキュウスル　セク 6458.40　セキ　#セキスル 6459.52　セキ　#セキガデシル 6460.08　タブル　セキガツク 6460.76　タブル　セキガデル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02126.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02126",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02126.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "6461.27",
+      "6463.38",
+      "6464.77",
+      "6469.19",
+      "6471.99",
+      "6472.05",
+      "6472.58",
+      "6474.03",
+      "6474.50",
+      "6474.83"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙　注記一覧　21-27\n質問番号　地図番号\n055　87.88\n項目名　咳をする\nA 普通注記　D\n(B 除いた共通語) (C 残いた特殊語)\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6461.27　タブル　セキガフル\n6463.38　タブル　セク\n6464.77　セク　セキュウ　スル\n6469.19　セキオスル　タブル\n6471.99　セキュウスル　タブル\n6472.05　sekio siwii　(htagwrw)\n6472.58　セキュウ　スル　タブル\n6474.03　セキュウ　スル　タブル\n6474.50　タブル　jeku sekjui: suru\n6474.83　セキオスル　タブル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02127.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02127",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02127.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "6475.61",
+      "6479.95",
+      "6482.04",
+      "6482.23",
+      "6482.26",
+      "6486.07",
+      "6491.29",
+      "6492.50",
+      "6498.93",
+      "6500.22"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-28\n質問番号　055　地図番号　87.88　A　普通注記　D　ページ　(13)\n項目名　咳をする\n\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n6475.61　Taguru　Seku\n6479.95　タグル　ヒキガデル\n6482.04　セキウスル　タグル\n6482.23　セキオスル　タグル\n6482.26　タグル　セク\n6486.07　セキガデル　セキスル　#タグル\n6491.29　Tagorw　Tagorjatskwu\n6492.50　seki swrw　tajorw\n6498.93　seki o swrw kozuwkw\n6500.22　タゴワ　セキ（オ）スル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02128.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02128",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02128.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "6501.86",
+      "6503.73",
+      "6513.24",
+      "6515.24",
+      "6517.50",
+      "6517.77",
+      "6520.50",
+      "6522.03",
+      "6523.86",
+      "6525.30"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-29\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略称にする。\n\n（上部欄）055   87.88\n咳をする\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6501.86　セワ　セキスル\n6503.73　seki o sūru. seku tayoku\n6513.24　sekw　tayokw\n6515.24　seki o suru　seku\n6517.50　セワ　セキヲスル\n6517.77　セキヲスル　セフ\n6520.50　セキスル　タプル\n6522.03　セキガデル　セフ\n6523.86　seki o suru　seku\n6525.30　seki ga deru　seki saru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02129.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02129",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02129.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [
+      "6527.22",
+      "6537.21",
+      "6537.58",
+      "6539.60",
+      "6540.79",
+      "6542.27",
+      "6544.72",
+      "6544.26",
+      "6546.15",
+      "6547.24"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-30\n（右上の箱）\n055   87.88\n項目名　咳をする\nA 普通注記　D　ページ\n(B 除いた共通語)\n(C 除いた特殊語)　(15)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6527.22    seku      sekio serw\n6537.21    seku      seki, serw\n6537.58    seku      seki, ga deru\n6539.60    sekiga derw   sekio surw\n6540.79    セキオセフ　セキオスル．タフル\n6542.27    セキオスル．　セキスル\n6544.72    seku      seki suru\n6544.26    seku      seki o suru\n6546.15    セキオスル\n6547.24    se'ku     seki o serw\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02130.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02130",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02130.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "6547.79",
+      "6549.60",
+      "6550.96"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）｛｝は厳密にする。\n日本言語地図資料用紙　注記一覧　21-31\n（右上ボックス）055　87.88　A　共通注記　D　(B　除いた共通語)　(C　除いた特殊語)　(16)\n項目名　眺をする　の形\n地点番号　A 音形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n6547.79　sekidoseru　seku\n6549.60　sekioscwr　sekw\n6550.96　セキプデル　#セキオシトル\n（大きな矢印あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02131.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02131",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02131.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "6558.37",
+      "6560.40",
+      "6563.58",
+      "6564.33",
+      "6570.89",
+      "6581.68",
+      "6582.48",
+      "6582.73",
+      "6590.35",
+      "6592.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語彙は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 21-32 055 87.88 項目名 咳をする A 普通注記 [B 除いた共通語] [C 残した特殊語] (17) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 (B・C 残した語形とその注) 6558.37 sekio dasu 6560.40 ダクル セキッデ セキッットル セキスル 6563.58 seki deru seki suru seku 6564.33 seku sekisuru 6570.89 セク セキスル 6581.68 セキスル タゴル 6582.48 seku seki suru 6582.73 セキスル タコル セク 6590.35 セキスル タゴル 6592.10 セキスル タゴル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02132.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02132",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02132.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [
+      "6641.39",
+      "6641.82",
+      "6642.43",
+      "6642.58",
+      "6642.85",
+      "6645.62"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 21-33 資料番号 055 地図番号 87.88 項目名 (手書き) A 普通語 D [B 除いた共通語] [C 除いた特殊語] 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 66 25.17 Sekum sekja: se'kum sekjo: suru 66 25.66 sekija deru sekjo: suru 66 27.12 seki na deru seki o suru 66 28.59 seki'suru seki'o suru 6641.39 sekjo: seru sekum sekjo: sekum 6641.82 seki o dasu seki ja deru 6642.43 seki o seju seju 6642.58 sekum seki o seku 6642.85 seki: ja deru seki: o suru 6645.62 seki o seku seki ja deru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02133.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02133",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02133.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [
+      "6650.70",
+      "6651.32",
+      "6652.77",
+      "6655.38",
+      "6662.38",
+      "6677.41",
+      "7218.26",
+      "7229.75",
+      "7237.67",
+      "7238.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-34\n資料番号　055　地図番号　87.88\n項目名\nA　普通注記　/P\n[B　除いた共通語]\n[C　除いた特殊語]\n(19)\n\n（表見出し）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n（手書き本文）\nseki n deru sekjo: seru sekjo: seku\nseki o seru sekjo: sekum\nseki o jiru seki o seku seku\nseku seki o seku\nseki o seku seku\nse'ki' o suru se'ki' o jiru\nse'ki suru kozuku\nseki suru kozuku\nseki saru kodzaku\nsekisuru kodzuku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02134.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02134",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02134.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "7238.40",
+      "7238.82",
+      "7239.41",
+      "7239.82",
+      "7239.90",
+      "7259.22",
+      "7258.89",
+      "7307.14",
+      "7307.48",
+      "7308.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-35\n頁問番号 地図番号 055 87.88\n項目名 咳をする\nA 普通注記 D [B 除いた共通語] [C 除いた特殊語] (20)\n地点番号　A 語形とその注記 (B·C 除いた語形とその注)　A注のない語形 (B·C 残した語形とその注)\nsekisuru kodzuku\nsekisuru kodzuku\njiwamuki suru seki suru kozuku\njiwamuki suru. seki suru. gobo gobo no zuru. kozuku\nseki suru kozuku\nsekibasuru seku\nkodzuku jiwabuku\nkotsuru kotsuri ga tsuku\nkotsuru kotsuri ga tsuku\nkotsuru kotsuri ga tsuku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02135.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02135",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02135.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_080.jpg",
+    "page_index": 80,
+    "location_numbers": [
+      "7326.41",
+      "7326.69",
+      "7239.24",
+      "7338.48",
+      "7350.44",
+      "7352.97",
+      "7355.48",
+      "7356.55",
+      "7356.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）（　）は厳密にする。 日本官話地図資料用紙　注記一覧　21-36 項目名　咳をする （箱内手書き：055　87.88） A 普通注記 0 [B 除いた共通語] [C 除いた特殊語] 地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） taguru seki o suru kodzu'ku sekigaderu sekijo' - suru [taguru] jiwabuki su'ru ko'dzu'ku tagoru tagorigatsukun sijabuki su2 koduku セキスル　コズク suwamu'ku sekijo' suru tagaru sekju: suru sekijo otaguru sekijo suru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02136.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02136",
+    "source_canvas_label": "81",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02136.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_081.jpg",
+    "page_index": 81,
+    "location_numbers": [
+      "7382.01",
+      "7385.61",
+      "7386.63",
+      "7392.94",
+      "7395.09",
+      "7396.16",
+      "7403.16"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略語にする。\n日本言語地図資料用紙　注記一覧　21-37\n調冊番号　055　地図番号　87.88\n項目名　咳をする\nA 普通注記　D ページ\n[B] 除いた共通語　[C] 除いた特殊語\n\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形（B・C 残した語形とその注）\n\n73 74.75　コズク　セキスル\n73 75.96　iki hiku　seki hiku　seki suru\n73 77.72　iki o çiku　seki o suru\n7382.01　je'kinozuru　kozuku\n7385.61　iki çiku　sekju çiku\n7386.63　ikio' çikijoru　ikju çiku\n7392.94　コズク　イキビク\n7395.09　ikju çiku　iki çiku　iki o çiku\n7396.16　iki çiku　sekju suru\n7403.16　tagoru　seki suru　tagoriga tsumku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02137.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02137",
+    "source_canvas_label": "82",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02137.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_082.jpg",
+    "page_index": 82,
+    "location_numbers": [
+      "7405.21",
+      "7405.85",
+      "7418.07",
+      "7420.18",
+      "7425.27",
+      "7431.82",
+      "7432.95",
+      "7440.72",
+      "7503.11",
+      "7513.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-38\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n質問番号　地図番号\n055　87.88\n項目名　咳をする\n\nA　普通注記 / D\n[B]　除いた共通語\n[C]　除いた特殊語　(23)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nseki o suru    tagoru\nセキヲスル　タゴル\nSeki o suru m    kozukum\ntagoru  seku\nkotaĝoki o suru\ntagoru tagori ga tsumita\ntagoru  seki o suru\ntagoryu  serki o suru\nSeki o suru  seku\nセク　セキオスル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02138.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02138",
+    "source_canvas_label": "83",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02138.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_083.jpg",
+    "page_index": 83,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙　注記一覧 質問番号 地図番号 055 87.88 項目名 咳をする A 普通注記 (B 除いた注通) (C 除いた特殊語) 21-39 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） イキヒク　コズク ikjo giku ikjo gihu sekjo sut ikjo fut iku git #seki ga dei ikju giku seki o kaka iku git iku gi: ikju giku ikju git se'ki'suru irkigiku i?gade'i irku'su? jekjo suku jekjo sui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02139.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02139",
+    "source_canvas_label": "84",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02139.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  },
+  {
+    "source_image": "page_084.jpg",
+    "page_index": 84,
+    "location_numbers": [
+      "8373.43",
+      "8394.01",
+      "0265.96",
+      "0275.97",
+      "276.51",
+      "6294.93",
+      "1213.76",
+      "1271.05",
+      "2150.07"
+    ],
+    "other_text": "日本語地図資料用紙　注記一覧　21-40\nA・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n調査番号 055    地図番号 87.88\n項目名  （手書き）\nA 普通注記 / [B] 除いた表現語 / [C] 除いた特殊語\n\n地点番号\tA語形とその注記 (B・C除いた語形とその注)\tA注のない語形 (B・C 残した語形とその注)\n8373.43\tSekgaderu  ikiojik\n8394.01\tjiki:wo suru  jiki'wo giku\n0265.96\tSe: tsikkjun  Se: tsikkjui\n0275.97\tSe: sun  Se: suri\n0276.51\ti'kingijui  i'kingijun\n6294.93\tSe: sun  Se: sumu\n1213.76\tsafuji sun  safuji suji\n1271.05\tgakkui sun  *gakui sun\n2150.07\tisaku isako: asi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02140.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M087Q055/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02140",
+    "source_canvas_label": "85",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02140.tif",
+    "source_ljc_id": "LJC-M087Q055",
+    "source_map_numbers": [
+      "087",
+      "088"
+    ],
+    "source_title": "せき (咳) をする"
+  }
+]

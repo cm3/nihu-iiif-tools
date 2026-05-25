@@ -1,0 +1,808 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈 〉（）は厳密にする。\n\n日本言語地図資料利用表 注記一覧 13-61\n質問番号 087  地図番号 54, 55\n項目名 片足跳をする 087\n\n33. NR.（今 sutetenko を聞くが。）\n48. sutetetenko suru（音）  kenkensurum.\n22. かに足でとぶ。（「シンシンでアルケとか言ったよ」）  カタッポデアル／テンコマココ\n82. ケンケン〈児〉\n10. ケンケン（今夕〈良う〉）\n24. kataasi（ということもあった）〈sutetetenko はきかない〉  kenken surum.\n18. sutetetenko〈児〉  kenken,\n05. ガッタアシ（37）  カダッポアシ\n46. ケンケンアスビヌル（32）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01361.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01361",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01361.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "・A・(B・C)ごとに別表を使用する。 その中での情報は地点番号順に並べる。 注記のくく( )は注釈等にする。\n日本言語地図資料利用紙 注記一覧 13-62\n質問番号 地図番号 087 84 55\n項目名 片足跳をする\nページ (2)\n地点番号／A 語形とその注記（B・C 語形とその注記）／異のない語（B・C 残した語形とその注記）\n43 エッサグデアタ 〈エッサがで歩いたの意〉 エッサガスル\n44 エッサグスル（テッコマッコとはいわない）\n10 テンコマンコ（右）\n61 IPPONASI de haneru. というよりほかに\n60 IPPONASI de aruku.（発語も言い替がでない） 知らない\n23 tetsibari-de arugm. 〈tetsibariは手でつっぱること〉\n96 kim kim（チンナンと聞き直したが） sutetenko\n58 特殊な。bikko fuugu というのがそれは遊びの名ではない。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01362.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01362",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01362.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙 注記一覧 13-63\n質問番号 087／地図番号 5455\n項目名 片足跳をする（A 普通語／B 聞いた共通語／C 聞いた特殊語）\n（ページ 3）\n地点番号欄以外の記入：\n70 <epponasi de haneru>（くらいには言わない）\n27 <ippon-de-haneru と言うよりない>\n90 katsiko(?) という様に思われるという説明であった。\n75 ippon asi 特殊ではなさそう。\n〔抹消あり〕 ステップで近くの言葉だ（書き消し）\n21 tekkemone. tekke 不具者（足とも手とも？）\n38 kakabata（今）。言葉に言ったが思い出せないという。\n96 tekkū hane. テックウ ハネル、という。\n28 bikkomone（右）／bikko bane（右）\nbikko hane suru（備考部2）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01363.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01363",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01363.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本語地図資料調査 記述一覧 13-64\n質問番号 087  地区番号 54, 55\n項目名 片足跳をする  （頁 4）\n\nA・{B}・Cごとに別紙を使用する。／その中での情報は地点番号順に並べる。／注記の（ ）は厳密にする。\n\n［表見出し］ 地点番号｜A 語形とその注記（B・C 欠いた語形とその注記）｜A 注のない語形（B・C 残した語形とその注記）\n\n68  bikkogaki tsuku（びっこがき・ひく意）\n47  tjingori siku ← びっこ・ちんば にも。kenkyo という。\n47  kata’asi tobi …… 名詞である。（強いて言えば［aji naka］） kata’asi tobi だと言ったから、これはよい（共）でもよいしね。\n84  別に昔からのことばはない。無理にといえば kata’asi tobi をする となろう。\n52  NR.［kata’jim’ba］ 郵便局長。\n92  asjigiki’ tsuku／オウかなのない… tab. ajigiki。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01364.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01364",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01364.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記 13-65\n質問番号 地図番号 087 54.55\n項目名 片足跳をする 087\nA 共通語／(B 欠いた共通語)／(C 欠いた特殊語)\nページ (5)\n\n地点番号  A 語形とその注記（B・C 欠いた語形とその注記）  A 選のたい語（B・C 欠いた語形とその注記）\n\n4667. 33\nピッ。何れも名詞的。〜すると言うと多分両方。\nビッコゴッコ は等号ず。ビッコ セーダが、（びっこでできるか？）ピンコヨコデ？（ピッ？しよう？）という形でした。\n\n4684. 77\nNR. 〈そういう遊びはなかった〉\n\n4686. 02\n# katadjikjo:ss? c? （幼い頃のことで記）\n? kataTPO asobi(?) 語がはっきりしていないのであやしい。\n\n4694. 95\nhajikake jiru。事は hajikake とこれが… 被調。\n発音はいとする らしい。筆者にいとする とした。\n\n（最下段に 4695 は抹消の書き込み）\n# 署名らしき走り書きあり。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01365.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01365",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01365.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記 13-66\nA・(B・C)ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n質問番号 087  地図番号 54 55\n項目名 片足跳をする  ページ(6)\n\nA 語形とその注記（B・C 欠いた語形とその注記）\n\n21. kataaji tobi jiru.\n米=若い者は, hajikake jiru.\n\n53 NR. ＜deteppeopose と言い, 片方足でとぶ。\nこれを強いて言えば: eppogaji de tobu という。\n子供は kenken というかもしれない。＞\n\n78 tikkunage sürum（…）\n\n73 こういう遊びはない。＞\n\n84 kenken. ＜ふつうは石を投げて, その線をとり合う; それを kenken nangi という。従って「片足跳び」そのものは kenken であろう。＞",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01366.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01366",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01366.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 13-67\n質問番号 087／地図番号 54・55\n項目名 片足跳をする\nA 常通語／B 聞いた語／C 見た特殊語\nページ (7)\n\n言語上その注意（B・C難しい語形とその注）\n28  bikkumtagi suímu. 調査者の孫さん（小学校2年と4年）は「bimbinko suímu」であると言った。\n92  [kikku taye]. 同輩の発言を肯定したもの。\n37  kataqaste hanelu.（特に遊びのことを示す語ではないようだ）\n53  NR. ＜この語はない＞\n93  bikkomane suímu. 「遊びごとにはならない」。そういった動作についていることのようだ。\n（欄外の印刷文）A・(B)・(C)ごとに別表を使用する。その中での情報は地点番号等順に並べる。注記のく＞（ ）は該辞に付する。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01367.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01367",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01367.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "A・(B・C)ごとに別紙を使用する。 その中での情報は地点番号欄に表す。 注記のくく( )は注釈欄にする。 日本言語地図資料用紙 注記一覧 13-68 質問番号 地図番号 087 54 55 項目名 片足跳でゐる 087 ページ (8) 語形とその注記（B・C 欠いた語形とその注記）／注のない語形 92 この様な遊戯はこの方にはなし 87 Gikoken sutteafuknu（そして歩くをつけて落としたもの。）〈Giko は「びっこ」に由来するもの。〉 44 N.R. kata asiasobi sumu〈?〉 61 bikkiasobi（この附近では路のこどもでツキともいっている。） 56 sukkoko suiru〈古?〉／ Sukkoko KEN suiru. 99 N.R.〈そういう遊びはしたことがない。〉 11 N.R.〈SijumpinN と覚えたが、庶の名かもしれない。〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01368.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01368",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01368.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "13-69 日本言語地図資料利用紙 注記一覧\n質問番号／地図番号 087 54 55\n項目名 片足跳をする 087\nA 語形とその注記／B・C 聞いた語形とその注記\n45. esuttokkon suru.（「右コンコンする」にあたる？）\n64. bikobiko suru.（bikkoとはちがい）\n19. hennoro tsuku（ベベのとき sie とあがるが、ここでは he をおとす傾向がある？）\n89. sukkengken suru〈古〉　katabotta suru\n77. eppe kaku〈古〉　sijjuru kaku\n67. tinyoro tsuku（新）　tenge tsuku\n09. gitokaike suru.〈ほとんど、やったことがない〉\n53. イッペッペ／イッペンする。さんも孫の用語である\nこの種の語形が固定には、ほかにも語形があった様である。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01369.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01369",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01369.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-70\n質問番号 地図番号 087 54, 55\n項目名 片足跳をする 087\nA 普通語注記（B 欠いた共通語）（C 欠いた特殊語） ページ (10)\n\n〈注意〉\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に記入する。\n・注記の＜ ＞（ ）は厳密にする。\n\n[表見出し]\n地点番号／A 言語形とその注記（B・C 欠いた語形とその注記）\n\nN.R. この辺でお祭りのときにやったことあり。ただし名称を知らぬという。\najimoti sumru. ＜個し、左手で左足を持つ＞（それ：ころに合いもたにいう）遊びの名のようでもあり、しかし明確でない。\nアシカキ、カラホキと答えたが、調査者が実演したら、これと訂正して、アシカキと言った。\n[hasigake] 被調査者の妻が言う。被調査者も認めた。妻は夫と同町内に生まれ育った人。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01370.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01370",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01370.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5605.70",
+      "5613.33",
+      "5617.85",
+      "5620.32",
+      "5629.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　13-71\n（上欄の小箱）087　54.55\n項目名　片足跳をする　087\nA: 普通注記　B: 除いた共通語　C: 除いた特殊語\n地点番号　語形とその注　（B・C 除いた語形とその注）　注のない語形（B・C 残した語形とその注）\n5605.70 ajingaki.（はじめ anggaki と答えたが、後否定した。 この語は娘の言によれば、現在の少年達が使っているとい う。）(agingaki は新しいことばであろうか？)\n5613.33 N.R.　〈？gitja と答えたから 訂正〉\n5615 - 20 N.R. kitsune nezum?: はげをで立ろ、押し合う遊戯\n5617.85 bikko jiru（ふつう）　bikko de haneru.\n5620.32 4ンバスル.（児）\n5626 99 ギッコガキ オスル。〈新？〉　リッコガキ オスル。\n5629.17 アシコンギ スル。〈多く使う〉　アシコンンスル。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01371.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01371",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01371.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料使用紙　注記一覧\n質問番号 087　地図番号 54 55\n項目名　片足跳をする　（ページ 12）\nA 普通注記　B 残した共通語　C 残した特殊語\n\n語形とその注記（B・C欄に書いた語形とその注記）\nsingara（希）\nシンゴ オカク〈ケ〉\nアシコンコシル。（「アシコンとはいいませんか」に対して「アシコンコシルともいう」と答えている。）\nビッコ〈ケ〉\nコンギ〈ケ〉\nカタコンギ〈夕〉\nNR.（誘）askenkee\nbikko〈bikko de okkakekko: sūrumu のようにいう〉\nbikkoasobi〈bikkoasobi: sūrumu のようにいう〉\n\nA欄のない語形（B・C欄に残した語形とその注記）\nsingara-kaku.\nカタシンゴ\nビッコトビ\nカタインバ、カラフォアン？",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01372.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01372",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01372.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-73。 A・〔B〕・〔C〕ごとに別表を使用する。 その中での情報は地点番号順に並べる。 注記のく〈 〉（）は傍線にする。 質問番号 087／地図番号 54 55。 項目名 片足跳をする。 A 普通語形 ページ(13)。 ビッコデトブ（足が悪くてとぶ、というのではない。遊びの名がビッコであること）。 アシコンギスル。例、下駄がわれた時アシコンギシテル。 bikko ohiku 英語の“びっこ”より使い方が広いらしい。 アシコンギ・オスル（当地 アシコンギ）。 jinggi o kakun.（両神村の生地では、senggo o kakun という）。 jinggio kakun（希?）／seggio kakun. ビョッコ、ビョッコスル。（こういう遊びがあったというが、カタアシトビは質問にもとらえることになった）。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01373.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01373",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01373.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別葉を使用する。 その中での情報は地点番号順に並べる。 注記のくく（）は…。\n日本言語地図資料採用紙 注記一覧 13-74\n質問番号 地図番号 087 54 55\n項目名 片足跳をする\nA 普通注記（B 欠いた語形）（C 残した特殊語） ページ(14)\nA 語形とその注記（B・C 似た語形とその注記）\n5697. 53. jinkoro korokoro［隣家の小学校の先生（…）福島生まれ は ijiken?］\n5697 86 NR. こういう遊びはやったことがない。\n5703. 70 ajiko?／右欄: aji’ko sururu\n5731. 67 kataasi de haneru.（かたあしに対する名詞はない。）\n5732. 13 asitobi o suru（古）／右欄: kataasi tobi o suru\n5732. 78 haneru（かたあしに対する特別な名詞はない。）\n5741. 25 NR. …によると…（不明な語のメモ）\n5770. 11 NR. （誘）akog kee\n5782. 32 hanekog kon（「カタアシトビ」→転訛）の形がみられる。これは俗語。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01374.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01374",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01374.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-75 質問番号 087 地図番号 54・55 普通注記 ページ (15) 項目名: 片足跳をする A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく( )に注意。 地点番号／A 話形とその注記（B・C 残した語形とその注） 62 NR. (誘) aʃkogkoō 68 NR. [bikko o yaru] 62 [ajikogko]〈古〉 …… 根調査者の妹,助言 20 fietenge o sūru〈多〉 tʃembatobi o sūru 77 NR.〈思い出せず〉「アンカンケ」 98 #ケンケンスル〈かためより＝ケンケン？〉 25 rjirhiko 動詞は聞き忘れた。 09 NR.〈思い出せない〉 83 NR.〈やったことがない〉 62 kenken surū〈新〉 jikoggi surū",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01375.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01375",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01375.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [],
+    "other_text": "日本語語地図資料使用紙 注記一覧 13-76\n質問番号 087　地図番号 54, 55\n項目名 片足跳をする　ページ(16)\nA・B・Cごとに別紙を使用する。その中での事項は地点番号順に並べる。注記の〈〉（）は厳格にする。\n見出し: 地点番号／A 言語形とその注記（B・C書いた語形とその注）／A 語のたい語形・B・C 異した語形とその注\nkatajimba（「カタチンバ」というのはビッコのこと）　ji: ko:bi\nN.R.（したことがないの事。傍にいた25才位の若い男が kenken o suru を教えてくれた。）\nN.R.（くしたことがない。）\nN.R.〈こんなことをしたことはない〉\nN.R.〈今頃はケンケンと言っている。〉\nケケントビ〈新〉\nkataasi o suru（稀）　katakogi o suru\nkenken〈新〉　itigongo\nカタコンゴ オ スル。（昔）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01376.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01376",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01376.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6436.60",
+      "6437.07",
+      "6439.17",
+      "6439.61",
+      "6449.19",
+      "6453.59",
+      "6456.73",
+      "6458.91",
+      "6459.29",
+      "6464.90"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語は地点番号順に並べる。 注記の＜＞（ ）は略語にする。 日本言語地図資料用紙 注記一覧 13-77 質問番号 087 地図番号 54.55 項目名 片足跳をする 087 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (17) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 6436.60　ケンケン　オ　スル。　〈こちらが普通〉　ケンケントビョウ　スル。 6437.07　ハシシゴキ　〈古希〉　ケンケン。 6439.17　kenken suru　〈昔〉　kataafi de tobu 6439.61　イッケンケンスル。　〈新・希〉　（取り消し線） 6449.19　ケンケン　〈新〉 6453.59　ケンケンスル。　〈普〉　ケンケン　オスル 6456.73　諺 kenken suru　〈ただ手で足を持たない〉 6458.91　ケンケン。　訪問島ではカタカケとも言う。 6459.29　イッケンケン　〈古〉　カタアシ。 6464.90　テンテンコオ　スル。　〈古〉　ケンケンスル。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01377.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01377",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01377.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-78\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に記入する。\n注記のく〈 〉( )は注釈紙にする。\n質問番号 087　地図番号 54, 55\n項目名 片足跳をする　087\nページ (81)\nA 言語とその注記（B・C 欄いた語形とその注記）／A 記のない語形（B・C 残した語形とその注記）\n50 スリコギオーツク。（今の子供はケンケン。）\n51 NK. 失念（kenken suru といったかもしれない）。\n95 NK. 「ケンケンスル」。\n14 イッケンケンスル。（右）　ケンケンスル。\n43 イッケンケンスル。（右）　クリケンスル？\n50 kata-asitobi suru.（多くの所は kenken suru といっている地域である。）\n66 kenken suru（新）　ajigaeri suru\n65 ケンケン オスル。（やか？）　アシトン オスル。\n85 kenkensuru（新）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01378.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01378",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01378.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-79\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく( )注意書にする。\n質問番号 087  地図番号 54 55\n項目名 片足跳をする\nページ (19)\n語形とその注記（B・C 聞いた語形とその注記）／A 注のない語形（B・C 聞いた語形とその注記）\nケンケンスル（子供）\nケンケンスル（共） ジンジンカイスル。\nケンケンスル。（子供の語）\nodoton suru（右）  kenken\nessasa suru〈絣〉  kenken suru\ndjingiri suru  これはオがはいらぬ、他の項目はオがあった。\nカタアシデトブ〈そんな遊びは私はしらぬ〉\nN.R.〈したことがない〉\nN.R.〈こんな遊びはしたことがない〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01379.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01379",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01379.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 13-80\n・A・(B)・(C) ごとに別紙を使用する。\n・その中での詳細は地点番号順に並べる。\n・注記のくく( )は厳密にする。\n質問番号 087　地図番号 54 55\n項目名 片足跳をする 087\nA 普通語　B 欠いた語形　C 欠いた特殊語　ページ (20)\n地点番号／異形とその注記（B・C 欄いた語形とその注記）／A 語のたい語形→B・C 残した語形とその注記\nイッケンケン　(註) 最初の…カタシバシショウ(?) の形がひとつ出てきて、それから、とんでゆくことをというので、イッケンケンがあった。この方が予想される形である。\nN.R. [KEN KEN] という語形があったが、被調査者 若い者を…であった。\nN.R.（被調査者が組合に勤務中の青年にたずねにいったところ、「KEN KEN suru」であったが、これに対して被調査者は「自分は使ったことがない」とのべた。）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01380.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01380",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01380.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に書く。 注記のくつ（ ）は談話体にする。\n日本言語地図資料用紙　注記一覧　13-81\n質問番号／地図番号　087 54 55\n項目名　片足跳をする　(087)\n(21)\n見出し： 地点番号／A 言形とその注記／B・C 異称とその他の注\n6567. 79  fitozge seru. 引率の息子。30才は子どもといい。その年寄は gi、gityokokone という。\n6575. 17  イシイ。〈こういうカッコウをすれば「ケンケン」に決っている〉\n6576. 28  N.K. （「ケンケン」と他の人から言われて、あっそうかなという程度。）\n6576. 32  tjigi tjigi suru（右）。この形の方が多いように思う。tjoki tjoki suru。\n6577. 13  # katatonbo suru。〈うわって屋を殴る時は ken ken suru〉\n6580. 06  ケンケントビする。「少」 ケンケンする（学童の間でのことば）。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01381.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01381",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01381.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-82\nA・(B)・(C)ごとに別表を使用する。\nその中での作業は地点番号順に行う。\n注記のく<>()は従来にする。\n質問票番号 087  地図番号 54 55\n項目名 片足跳をする\n地点番号／言形とその注記（B・C 聞いた語形とその注）／本戸の注記\nケンケン オヌル（共）\nケンケン スル\nケンケンスル。（ケッケン？ ケンケンスルという人もある。）\nケンケン ＜新＞\nイッペン\ntijgeru.（名詞には、無理にいえば tijeria）\n[kijkim bai suru.（＜新＞）\najgkimbai suru\nケンケンスル。（たんに「テケンヌヌル」という人のあり）\nイッペン スル（希）\n# tjin tjin… ＜tjintjin＞以下に何か続くのだが、それが思い出せない。\nケンケン オヌル（新）（昔はほかに何か言ったが忘れてしまった）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01382.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01382",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01382.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別表を使用する。\nその中での昇降は地点番号順に並べる。\n注記のく<> () 注釈符にする。\n\n日本言語地図資料利用紙 注記一覧 13-83\n質問番号 087 / 地図番号 54 55\n項目名 片足跳をする\n(ページ 23)\n\nA 語形とその注記（B・C 書いた語形とその注記）\n\nチンガラ。〔名詞の形しかでなかった〕\nkenketo seru〈他に一つの言い方があったような気がするが思い出されない〉\notintjino koro o jaru 上。tintjino jaru。同じように使う。\najingkjo: jaru〈古〉。ajnaketobio jaru〈古〉 kata:jito bjo: jaru。\nsitokenken〈古〉。kenkeno jaru。\nkekken o seru（希）。kenkeno o jaru。\nゲンジェ ゲンジェ スッ〈？〉。\nkatafi tobi basuru〈…といった〉。いっしょ。右足と左とはちがいのを『ケンギュー』ということはない。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01383.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01383",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01383.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [],
+    "other_text": "日本語諸方言資料利用紙 注記一覧\n調査票番号 地図番号 087 54 55\n項目名 片足跳をする\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順番に求める。\n注記の〈 〉（ ）は該当語にする。\nA 話形とその注記（B・C 聞いた話形とその注）\ngesi gesi〈新〉\nik’en ken（スッケットと言われという。）\nカタシアトビ + オヤル。（昔は小遊びもしなかった。）\nNR（kenken o suru … 事）\nkatenagu: suru ……〈上〉　ikko:ko suru\nasige:ge〈asige:ge de ajiko made iku などという。〉\n(?) jikeri（被調査者は…同伴していた協力者が…）\n三瓶（津郷?）では「kenko」という。また三崎町平磯の出身者が「kenke」というと言っていた。こういう、と言っていた。そして石と認識する時だけではないとも言っていた。\nsukkenjo:\n(24)",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01384.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01384",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01384.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [],
+    "other_text": "日本語方言地図資料用紙 注記一覧 13-85\n質問番号 087 地図番号 54 55\n項目名 片足跳をする (25)\n\n地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 語のない語形（B・C 似た語形とその注記）\n\nsuken gjoj gjoj 〈この辺でははやらんですよろう〉    gijigiji\nippon tobi 〈祭〉\nsukekonkon 〈古〉    kata asitobi\ntenten 〈古〉    Kenken.\nke'ke' 希    kata asi.\ntengi o suru 〈多〉    sinjin o suru.\nhajikaji o suru うまく答えられぬ様子で言う。\ngenge o suru 斬。〈genge zumo: といって〉\n\n足立てて sumo: のように競う遊びもある。（若いころの言い方は思い出せないようであった。）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01385.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01385",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01385.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7432.95",
+      "7460.23",
+      "7471.38",
+      "7500.66",
+      "7513.01",
+      "7513.69",
+      "7514.21"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　13-86\n資料番号　地図番号\n087　54　55\n項目名　片足跳をする　087\n\n地点番号　A（語形とその注記）　（B・C除いた語形とその注）　A注のない語形　B・Cで残した語形とその注\n\n7432.95　kenke o suru　〈新〉\n7460.23　ajinage o suru　（写） tjimba hiku（希）\n7471.38　kaikaiba:san o suru　〈古〉　keriko o suru\n7500.66　くりタンカッチャン　スル。（語源は、50年ほど前に\nこの土地にちんばのかっつぁんという人がいて、片足\nで上手にとんで歩けたことによる。この語以外には言い方\nはない。）〈ハンガリという語が古くあった。〉\n\n7513.01　アンダケツワ　〈古〉　ケンケン　スル\n7513.69　ケンケン　スル　〈共〉　カタトビ　スル\n7514.21　[ke]kekey suru]　新　tjimbatobi suru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01386.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01386",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01386.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7521.79",
+      "7522.48",
+      "7523.05",
+      "8301.19",
+      "8303.70",
+      "8320.59",
+      "8323.59",
+      "8331.12",
+      "8335.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-87\nA・[B]・[C]ごとに別紙を使用する。\nその中での音標は地点番号順に並べる。\n注記の< > ( ) は厳密にする。\n資料番号 087 地図番号 54.55\n項目名 片足跳をする 087\nA 音注記　[B 除いた共通語] [C 除いた特殊語] (27)\n\n地点番号　A語形とその注記 (B・C除いた語形とその注) (A注のない語形) (B・C残した語形とその注)\n\n7521.79　ハタラキ オツク。〈片足とびであそぶことを ハタラキゴト スル という。〉\n7522.48　タキ。〈古〉　（右欄） チャキ。\n7523.05　ケンケン スル。〈新？〉　ケンケントビ スル。\n8301.19　シケンづ。（〜スルの形はなかった）\n8303.70　シテンゴォ 〈やや古〉、ステンゴ〈やや古〉　（右欄） スッケンギョスル。\n8320.59　[sike]sike o sut 〈これを多く使うようだ〉　[sikekwan20 o sut]\n8323.59　asina konge 〈古〉\n8331.12　katatimba o sut. 〈多〉\n8335.48　!sukokon (tobi) suru. (スココントビスルとも。草?)\n（下注） スコンスルとも言うようである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01387.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01387",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01387.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用表 注記一覧 13-88\n質問番号 087／地図番号 54・55\n項目名 片足跳をする\n\n・A・(B)・(C)ごとに異読を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく<>（）は意味にする。\n\n［欄見出し］ 地点番号／A語形とその注記（B・C離れた語形とその注記）／A音のたい語形（B・C残した語形とその注記）\n\n8350 68  NR［今の子供はケンケンをするという］\n8393 69  NR［kenkentobi］\n9313 55  kenken no suru.（楽な方？）  → kenk(en)o suru\n0257 43  giggata.（手を脚にかけない方）\n1169 84  iitfantu:nu:sun.（子供は goi goi goi sun という。）\n1271 05  hatapifigi:tajun（兼） arimmo:ji:jun(?)\n2075 22  kentsa:sun（片足では kentsa.）／kentsa:sun はねあしで…とする。\n2151 67  ? kata aji si:（カタアシは湯山の呼び方？）\n",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01388.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01388",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01388.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "4712.16",
+      "5760.57",
+      "6837.07"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での指標は地点番号順に並べる。\n注記の＜＞（　）には旅客にする。\n\n日本語音声地図資料用紙　注記一覧　13-89\n資料番号　地図番号　087　58　55\n項目名　片足跳をする　087\nA　普通注記　(B)除いた共通語　(C)除いた特殊語\n\n地点番号　A　語形とその注記　(B C 除いた語形とその注記)　A 注のない語形　(B C 残した語形とその注注)\n4712.16　kata ashi tobi　〈新〉\tbikkonage〈店〉\n5760.57　kada/tobi　〈新〉\takienkee, kenkee, kenkem bane\n6837.07　? カタアシトビ\tハシンヅキ（右希）、ケンケン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01389.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01389",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01389.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記事項 13-90  A・B・Cごとに別紙を使用する。 その中での詳報は地点番号順に記す。 注記の〈 〉（ ）は厳密にする。 質問番号 087  地図番号 54 55  項目名 片足跳ぎする  （C欄は特殊語）  （1）  表見出し: 地点番号 / A 言形とその注記（B・C欄にない語形とその注記） / A 以外の言形（B・C欄の注記）  10 センコマンコ ／ テンコマンコ（右）  32 ケッケラプ・スル。 ／ スッテギスル。  74 ステテギヲ。［近くの部落にて］ ／ チケケアプリ，# アシガキ。  19 カタンボデトブ ／ （右）  49 エッコナゲ・スル。 ／ ピッコナゲスル。  43 ajikogko ／ ajikeyke  89 sutton ton suru（新） ／ katatobi suru  96 GitoGito sürū ／ sukkeyken suru（右）  42 tijnkara kaite tobu. ／ tijkarakaku.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01390.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01390",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01390.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-91\n質問番号 087  地図番号 54 55\n見出名 片足跳びをする （2）\n\n［表見出し］ 地点番号／A 語形とその注記（B：使いた語形とその注記）\n\nA欄などの記載：\n・ニャンゴリカク。　｜チンバズル［迂］\n・リンゴオカク（男）｜シンゴオカク〈ケナ〉\n・カタアシデトブ　　｜（「アシココとはいいませんか」にはおそく「アシココらしいという」と答えた？）\n・katabisori de tobu〈希・古〉｜jingarakaku\n・コンビ　　　　　　｜デェシッコ\n・ギッケラン〈コレワチダ〉｜コンギオスル\n・kodaaji asobio jiru.｜kentjo kentjo jiru.\n・sukesuke〈古〉　　 ｜keyken\n・[keyken]〈子供が用いる〉（調査者の妻が使っていた）ketokjimbo（ビッコのこと）／ji-kobi?\n\n欄外の注意書き：\n・A・（B・C）ごとに別紙を使用する。\n・その中での情報は地点番号順に記す。\n・注記のく（ ）〈 〉は該当箇所にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01391.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01391",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01391.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6416.09",
+      "6420.60",
+      "6422.16",
+      "6424.92",
+      "6439.61",
+      "6439.77",
+      "6449.19",
+      "6511.85",
+      "6522.03"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-92\n質問番号　地図番号　087　34.55\n項目名　片足跳をする　087\nA 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語) (3)\n地点番号　A 音形とその注記 (B・C 除いた語形とその)　A 注のない語形 (B・C 除いた語形とその)\n6416.09　カタアシテトンドル　カタアシトビオスル\n6420.60　スゴク（古）　ケンケンビ（新）\n6422.16　エンチンチンシル（希）　アンコンギシル\n6424.92　イッコンゴオスル（新・希）　カタコンゴオスル（昔）\n6439.61　ヤッシンスル　イッケンケンスル（新・希）\n6439.77　ヒトヒト　ヒトヒトオスル\n6449.19　ミトミト（古）　ケンケン（新）\n6511.85　Sitojitosuru.\n6522.03　チョンキョン（スル）（古）　今ではこの地方でもあまりきかないが、自分は時々つかう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01392.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01392",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01392.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6557.36",
+      "6572.55",
+      "6591.81",
+      "6605.84",
+      "6626.71",
+      "6628.59",
+      "6630.82",
+      "6635.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-93\n質問番号 地図番号 A 普通注記\n087 54 55\n項目名 片足跳をする 087\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）は省略にする。\n地点番号　A語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B C 残した語形とその注〕\n6557.36　[tifūjiri kokru]　tfūjiri yokkoseru\n6572.55　tjitjikuri sūru（古）　keyke~sūru.\n6591.81　アセギリ　スル.　イッペン　スル.（希）\n6605.84　チングラ　オカク.【他】　チングリ　オカク.\n6626.71　kataasjinakko（[kataa]jinakko の形は記憶ちがいらしい。足柄地区では djinakko が普通。）　ajirakko.\n6628.59　N R.（子供たちは[bikkotobi]という。）\n6630.82　kenken?o seru ＜古＞　tjitjimbo:o seru ＜新＞.\n6635.54　djinar i o jaru. 希.　djinaru: jaru. djinaru yoko: jaru.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01393.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01393",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01393.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [],
+    "other_text": "A・（B・C）ごとに調査を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は省略符にする。 日本言語地図資料用紙　注記一覧 質問番号 087　地図番号 54 55 項目名　片足跳をする （A 本語注記） （B 聞いた共通語） （C 聞いた特殊語） （5） 見出し：地点番号／A 語形とその注記（B 聞いた語形とその注記） usajidzumo（新）　/　kekgendzumo: asi na ngo　/　ikenken suru. ikjaku　/　ikenjo: sukken［更新］　/　sukkeggjo tjinkammu suru.　/　ikkejkennu suru. tefsikoji o suru（昔〈今もこれが普通だろ〉）　/　kejken:o suru〈…〉 kaigo: tobu　/　kenken o suru（新） afino kenken〈新〉　/　afina konge〈古〉 sikketango o sut　/　katatimba o sut.〈多〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01394.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01394",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01394.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙 注記一覧 13-95\nA・(B)・(C)ごとに別紙を使用する。\nその中での音類は地点番号順に並べる。\n注記のく〈〉（ ）は厳密にする。\n質問番号 087　地図番号 54・55\n項目名 片足跳をする　087\nページ (6)\n見出し: 地点番号／A 言形とその注記（B・C 除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\nzimbatori jaru.\nsuketango jaru.\ngikkeken o sut.\nkenkeno sut.\nFuryo: sum.〈手を脚にかける方〉\ngingata sum〈手を脚にかけない方〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01395.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01395",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01395.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "1706.82",
+      "1731.89",
+      "1745.54",
+      "1816.52",
+      "1848.24",
+      "4609.25",
+      "4628.28",
+      "4643.47",
+      "4697.92",
+      "4711.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は故郷にする。\n日本言語地図資料用紙 注記一覧 13-96\n資料番号 087 地図番号 54.55\n項目名 片足跳をする\n地点番号    A語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C 残した語形とその注）\n1706.82    カタッポデヤル　ケンケン\n1731.89    ?ビッコフグ　?カダアットビスル\n1745.54    カタアシトビスル　ケンケン\n1816.52    ケンケンスル　ケンケンデアルク　ケンケントビスル\n1848.24    ken'ken suru　ka'ta'aɕi\n4609.25    bikkotayko　bikko fuku\n4628.28    bikko mane　bikko bane　bikko hane sūru\n4643.47    tsingori giku　kenken\n4697.92    bikkotakko jaru　bikkotakko širu\n4711.49    エッコナゲスル　ビッコナゲスル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01396.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01396",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01396.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧  13-97\n質問番号 087  地図番号 54,55\n項目名 片足跳をする\nA 普通語注記  D  ページ (2)\n・A・(B)・(C)ごとに…を使用する。/ その中の資料は地点番号順に並べる。/ 注記のく( )［ ］は該当語にする。\n地点番号  A 語形とその注記（B・C 聞いた語形とその注記）  A 注のない語形（B・C 残した語形とその注記）\nbikko siru   bikko de haneru\nジャンソウリ カク  チンバスル\njinyara-kaku  jinyara\nビッコ オセク  ビッコ オカ\nカタマン デトブ  アシコンコ シル\nカタシンズ  ビッコ\nビッコビ  コンギ\nsinyara kaku  katazajtobi o suru\nsinyara kaku  katabisori detobu\nセンギョビ  センギョ オウク",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01397.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01397",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01397.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "5666.10",
+      "5666.22",
+      "5667.81",
+      "5676.28",
+      "5688.01",
+      "5698.91",
+      "6367.09",
+      "6404.83",
+      "6434.57",
+      "6452.98"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での語形は地点番号順に並べる。\n▶ 注記の＜＞（）（）は厳密にする。\n日本言語地図資料用紙　注記一覧　13-98\n質問番号　087　地図番号　54.55\n項目名　片足跳をする　087\nA　普通注記　D　ページ\n(3)\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n5666.10　シンゴカケ　スル　シンゴオカク\n5666.22　シンゴカキ　シンゴ　オカク\n5667.81　ギッチョン　＊コンギ　オスル\n5676.28　bikko　bikkoasobi\n5688.01　ビッコ　ヒク　ビッコトビ\n5698.91　Gjkokon - kjiru　＊Sjrkoko'N\n6367.09　ケンケンスル　ケンケントビ\n6404.83　カタゴキ　カタゴキーソク\n6434.57　イッケンスル　ケンケン　オック\n6452.98　トンギョウスル　ケンケントビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01398.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01398",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01398.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6464.77",
+      "6469.77",
+      "6485.14",
+      "6652.06",
+      "7268.87"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別表を使用する。\nその中での語形は地点番号順に並べる。\n注記の〈〉（）〔〕は歌辞にする。\n\n日本語語地図資料用紙 注記一覧 14-1\n資料番号 087    地図番号 54.55\n項目名 片足跳をする 087\nA 普通注記 D  (B 除いた突出語) (C 除いた特殊語) ページ (4)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nケンケ　ケンキョォーリック\nケンケン　#ケンケントビ　#ケンケンアソビ　#ケンケンセンカ\nケンケンスル　イッケンケンスル\notjinko o tobu tjinko/finko suru\ngottsin saru  * ippo: gottjin\nkata'neo suru  kata'nnao\nkatanago suru  ikkenkatanago\najinage o saru  fjimba hiku(n)\nケンケン スル　アッタケック\ngitokenken o sui  gitoken ken o sut",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01401.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01401",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01401.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [],
+    "other_text": "日本語方言地図資料利用紙 註記一覧 14-2\n資料番号 087  地図番号 54, 55\n項目名 片足跳をする 087\nA: 普通注記 D  ページ (5)\n地点番号／A 言形とその注記（B・C 聞いた言形とその注）／A 注のない語形（B・C 残した語形とその注）\nsuketambo o suku  suketambo o sui;",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01402.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M054Q087/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01402",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01402.tif",
+    "source_ljc_id": "LJC-M054Q087",
+    "source_map_numbers": [
+      "054",
+      "055"
+    ],
+    "source_title": "かたあしとび (片足跳び) をする"
+  }
+]

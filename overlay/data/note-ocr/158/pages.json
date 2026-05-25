@@ -1,0 +1,103 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0716.46",
+      "1793.14",
+      "3783.08",
+      "4644.10",
+      "4657.64",
+      "5538.90",
+      "5608.51",
+      "5620.30",
+      "5663.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-02\n質問番号　地図番号　164　158\n項目名　わた　普通注\n[B　除いた共通語]　[C　除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地 点 番 号　　A　語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C 残した語形とその注】\n- ワタ（タはダほどではないが濁んだ音でない）\n- ワダ（タよりはダに近く聞こえる）\n- wata　昔はワタはなく、nakayoを使っていた。麻糸のカスである。\n- wata　→v はごくわずか\n- wata〈普通の人はwadaと言う〉\n- tata（t/vataと書くべきか）\n- wata（taの部分 voicedしない）\n- bata　b＝bとwの間の音（珍しいことばですね、と念をおしたところ）\n- mutsuki〈上〉 自信満々で（ムツキはよいことばだと答えた。） wata",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04702.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M158Q164/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04702",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04702.tif",
+    "source_ljc_id": "LJC-M158Q164",
+    "source_map_numbers": [
+      "158"
+    ],
+    "source_title": "わた (綿)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "6464.90",
+      "6505.60",
+      "6552.90",
+      "6553.99",
+      "6557.36",
+      "6574.52",
+      "6622.69",
+      "7239.24",
+      "7393.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-03\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n質問番号 164　地図番号 158\n項目名　わた\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　(2)\n地 点 番 号　　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nwata  w が唇に非常に緊張を持って発音されるところを w で示した。\nwata (ワタ)\nwata (ワタ)\n[wata] wata W rounded fricative\nwata [W] の friction が強い\nワタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04703.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M158Q164/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04703",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04703.tif",
+    "source_ljc_id": "LJC-M158Q164",
+    "source_map_numbers": [
+      "158"
+    ],
+    "source_title": "わた (綿)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "8303.70",
+      "8343.97",
+      "1231.72",
+      "1241.96",
+      "1251.98",
+      "1260.87",
+      "1270.26",
+      "2076.97"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく ><( )[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 47-04\n質問番号 164    地図番号 158\n項目名 わた\n[A 普通注記]  [B 除いた共通語]  [C 除いた特殊語] ページ (3)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n8303.70    キワタ <古>    ワタ\n8343.97    wata 物質の名。 ただしフトンの中ミという時は 「futonnno onaka」という。\n1231.72    pana: <古>\n1241.96    wata <新>\n1251.98    hana <?>\n1260.87    hanayki: (希)    wat'a;\n1270.26    hainayki: ?\n2076.97    pana <現在は一般に wata という。wata は新。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04704.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M158Q164/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04704",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04704.tif",
+    "source_ljc_id": "LJC-M158Q164",
+    "source_map_numbers": [
+      "158"
+    ],
+    "source_title": "わた (綿)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2086.03",
+      "2150.17",
+      "2151.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-05\n質問番号 164　地図番号 158\n項目名 わた\n[B　除いた共通語]　[C　除いた特殊語]　ページ (4)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n2086.03  hana 〈多〉    wata\n2150.17  NR 〈加工しない前のわたを mumimbanae という。〉\n2151.20  wata 〈新〉\n\n（以下欄外・空欄）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04705.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M158Q164/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04705",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04705.tif",
+    "source_ljc_id": "LJC-M158Q164",
+    "source_map_numbers": [
+      "158"
+    ],
+    "source_title": "わた (綿)"
+  }
+]

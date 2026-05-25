@@ -1,0 +1,251 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　16-60\n資料番号　266　地図番号　68\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)\n頁　項目名　(二人で)　かつぐ\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n4638.　43.　kadaneru　（もっとどうすると言いますかの間に対する反応）　kazuku\n4648.　04.　kadaneru　（mutaride～）\n4667.　76.　kadaneru　（mudaride～）\n4675.　62.　kataneru　名詞では tsurigatane と言う。\n4676.　39.　kataneru　（futajisite～）\n4685.　10　katanemu　（名詞として tsurigata、又は tsurigatan と言うことが多く、動詞として強いて言えば kataneru。）\n4686.　02.　katsuneru　（共）　kataneru\n4694.　26　kataneru、katsugu　（両方とも若い時から使う）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01660.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01660",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01660.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >()は厳密にする。 日本言語地図資料用紙 注記一覧 16-61 管間番号 地図番号 266 68 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] (Z) 項目名 (二人で) かつぐ 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 4695. 87. katsuneru (希) katsugu (夕)(katsugi-motkoという語あり) 4725. 68 katsüryu (〈名詞に〉 sashikatsuüグという語も使) 5536. 29 kazuku (疑いながら) 5537. 34 tsuru (mokko〜) 5549. 32 katanyu, kataneru どちらも使う 5574. 68 nnaü ninamuにあらず。 5574. 84 ninamu, namu 双方同義。 5623. 42 katsuneru (ふたりでカツルことをniteggatsu) nefiruとも言う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01661.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01661",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01661.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本語語地図資料用紙　注記一覧　16-62\n資料番号　266　地図番号　68\n項目名　（=二人で）　かつぐ\nA　普通注記　（B　除いた共通語）　（C　除いた特殊語）　（3）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C 残した語形とその注）\n\n5671. 94　KACUGU　〈mokkokatsunji suru.〉\n5674. 06　サシデカツグ　〈フタリデ カツグ バアイ〉\n　　　　（4人　ヨテデ カツグ　／　8人　ハシテデ カツグ）\n5674. 59　カツグ　〈サシカギ？〉\n5690. 12　KACUGU　〈mokkokatsunji suru〉\n5696. 68　katsugyu　〈二人でkatsugyuをするには? は言わない,〉\n5793. 74　kazumu　〈kazumuでもよい〉\n6412. 91　inam　（古）\n6415. 80　inam　（サシでイカラと教えられた）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01662.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01662",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01662.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-63\n質問番号 266 地図番号 68\n項目名 (にんご) かつぐ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (4)\n\n地点番号 A語形とその注記 A注のない語形\n6417. 14 inawu (両方に荷があってかつぐ時はニナウというそうだ) katsigu.\n6421 82 inawu <少>\n6424 92 カタグ <普> カツグ\n6425 41 カタグ <普> カツグ\n6428 13 =ニナウ <サレモチデ =ニナウ> ニラウ\n6429. 65 =ニナウ <共.希> ニラウ\n6466 36 カタグ <普> カツグ\n6469. 19 =ニナウ <希> カク\n6474. 83 カタグ <普> ニナウ\n6475. 61 pinaw (中ut aride～)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01663.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01663",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01663.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-64\n質問番号　地図番号\n266　68\n項目名　（えんで）かつぐ\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(5)\n\n地点番号　A語形とその注記　A注のない語形\n6476. 92.　カタグ（カワは棒を使わず、大きなものを二人でじかに手をかけ、もって運ぶこと。）\n6477. 02.　サシニナラ〈二人で物をする時にサシという。〉　カシニナイスル\n6517. 50　ツル〈希〉、グツプ（リョウホテイ〜）\n6525. 05　sajimotji suru　〈右〉　sajiniau\n6536. 00　tsiurii（岡のように右肩と左肩でtsiuriiことを（sombenggataという。））\n6539. 60　inau（osajide〜）（inauは265と同じだが、osajideという後続辞はこのときのみ）\n6540. 16　sajiau　名詞　sajainnnai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01664.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01664",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01664.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-65\n資料番号 266  地図番号 68\n項目名 (=人で) かつぐ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  (6)\n\n地点番号   A 語形とその注記   A 注のない語形\n6548. 26  safjaide inau （特に二人での意味）    inau\n6549. 03.  inau 〈禊を…〉といえば “kazuku” となる。 「たつこ」をといえば当然「inau」となる。\n6552. 90  ninau （265. 266と区別なし）\n6568. 13  safide inau （とくに二人でとはっきり言う場合）\n6571. 34  inau （265・266とは区別がない）\n6583. 93  inau （半三者である授長は ninau という人もあるとり）\n6592. 10  safiau ＜希＞    nakadorumu\n6621. 57  katsunju （2: katsunji 名詞形）\n6626. 06  safikatsunji.suru （Futaride〜）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01665.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01665",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01665.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は略記にする。 日本言語地図資料用紙　注記一覧　16-66 管理番号　地図番号　266　68 A 普通語注記 ページ (二人で) かつぐ (CB 除いた共通語) (C 除いた特殊語) (7) 地点番号　A 語形とその注記　A注のない語形 6628. 64 katsuyu （〈chitennnde katsuju〉と言う。） 6634. 07 katsuyu （このかつぎ方をsajaiと言い、また kumosukekatsujiともいう。） 6640. 76 katsuyu （この場合はninauとはいわない。） 6650. 12 inau （過去形はina'ta） 6653. 30 katsuyu （aemotji o suru という） 6655. 38 katsuyu （mojai de katsuju） 6677. 70 saje::kkatsuji （名詞の形） katsugu 7301. 67 inou （futaride〜） 7302. 71 katsugu （futaride〜）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01666.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01666",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01666.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-67\nA・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞・（）は厳密にする。\n資料番号 266  地図番号 68\n項目名 (＝人で) かつぐ\nA 普通語  (B 除いた共通語)  (C 除いた特殊語) (8)\n地点番号   A 音形とその注記    A注のない語形\n7307. 14   katagu (nitende~)\n7316. 65   katagu (二人で手にもって運ぶのは kaku)\n7321. 87   inou (nakazuribo: de~)    nakazuru\n7342. 72   inau  時に    nakazuru\n7351. 06   nakaine (ineは=ナウこと)\n7354. 23   カタグル (希)    =ナウ\n7386. 56   katsugu (多)    katagu\n7400. 11   katagu (れほどを二人で持ちあげてはこぶのは)\n7420. 91   aibo: de hakobu (263と同じように例文からの続)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01667.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01667",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01667.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は廃除にする。\n日本方言地図資料用紙　注記一覧　16-68\n調査番号　266　地図番号　68\n項目名　(こんで) かつぐ\nA 普通記述　(B 除いた共通語)　(C 除いた特殊語)　(9)\n地点番号　A 語形とその注記　A 注のない語形\n双方に異様な感を受けるが問い返しても同じ\n7421. 62 ninau (futa:ri de ninau)\n7430. 15 ninau (tomukai de ninau という)\n7430. 80 tommkai (tomukai ni suru, tomuka -ide iko などという)\n7431. 13 ninau (mokko のときは mokko ... (mokko tsumri) isi のときは (isi tsumri) という由)\n7503. 48 sajimoti osuru (くとしか言わない)\n8334. 63 katagui (多く使う) inagu\n8343. 74 ino (多し) katamui.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01668.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01668",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01668.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-69\n質問番号　地図番号\n266　468\n項目名　(=人で) かつぐ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(10)\n\n地点番号　A 語形とその注記\n8302. 55　inau, katsugu. 〈方ことばでいえば: モチクタ (名詞)という (こんでイカラことをモチクタという)〉\n8344. 71　nakaine sut　〈多し〉　ino\n8353. 68　katagui, nino　〈半そに使う〉\n0256. 76　o:kofum　〈o:koはてんびん棒のこと〉　katamijum\n0256. 89　katamijum. o:kofum　立分五分に使う　〈o:koはてんびん棒のこと〉\n1231. 72　naha nafji hat'amijun　(中にしてかつぐ)\n1242. 00　katamin. 別に区別する時には",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01669.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01669",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01669.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "▶ A・[B]・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）［　］は厳密にする。\n\n日本音声地図資料用紙　注記一覧　16-70\n課問番号　地図番号\n266　68\n項目名\n（ニ人で）かつぐ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (11)\n\n地点番号　A 語形とその注記　A 注のない語形\n\n1260. 78\nnahama:ʃi:sun. taigata:mi:sunという。\nkatami: N 〈明確に表現するときは laigaki -si, katami:Nという。〉\n\n1270. 29\nkatami:N 〈強いてを別していう時は nakand -si:ji katami:Nという。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01670.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01670",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01670.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5669.36",
+      "6591.57",
+      "6633.2",
+      "6650.94",
+      "6662.38",
+      "7354.23",
+      "7501.14",
+      "7501.68",
+      "7512.43",
+      "7513.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-71\n質問番号　地図番号　266 : 68　項目名　かつぐ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号\n5669.36　カツグ〈共〉　カツネル\n6591.57　katsunyu　〈日常使用語ではない。〉　nakadoru\n6633.20　katsunyu　sajize: de katsunyu\n6650.94　katsunyu　sajimoti de katsunyu という\n6662.38　katsunyu　sajiaide katsunyu という\n7354.23　カツグ〈希〉　ニワ、カタグル〈希〉\n7501.14　katsunyu　〈日常使用語ではない。〉　nakadoru\n7501.68　katsunyu　〈共〉　nakadoru\n7512.43　katsunyu　〈安〉　nakadoru\n7513.01　katsunyu　〈共〉　nakadoru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01671.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01671",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01671.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-72\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（ ）は略符にする。\n[右上の小箱] 266 68 項目名 (ニ人で) かつぐ (C 除いた特殊語) (1)\n地点番号　A 音形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\nツッタ　　クズク?\nmokkogatsune firu　katsuneru\nmokkokatsuji　katsuju\nFutari gatage　kataguru\nkatafigai ni inau　sasiinai suru sa/jau sa/jaimotsji suru\nsafio:te iku\nニラウ　比較的小さなもの。　サレモチスル。 大きな荷物のばあい。\naimotfi suru　sa/rihinau\ninau　詳しくは hakaina: suru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01672.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01672",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01672.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での語彙は地点番号順に並べる。 注記の＜＞（）は抜書にする。\n日本言語地図資料用紙 注記一覧 16-73\n調査番号 266   地図番号 68   項目名 にんべりかつぐ\nA 普通注記  [B 除いた共通語]  (C 除いた特殊語)\n地点番号    A語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C残した語形とその注）\n7259. 98  moe:ine: suru    nakadzuri suru\n7279. 93  nakadzuru  これは大きな石などかつぐ時    nakaine: suru\n7324. 96  oke:yoru    kaku\n7340. 74  futai ina: suru    inamu\n7394. 60  mokkoinja: suru    nakamoti suyu\n7430. 75  tomukai de pirawu    tomukai moti nisurau",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01673.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M068Q266/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01673",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01673.tif",
+    "source_ljc_id": "LJC-M068Q266",
+    "source_map_numbers": [
+      "068"
+    ],
+    "source_title": "かつぐ (二人で担ぐ)"
+  }
+]

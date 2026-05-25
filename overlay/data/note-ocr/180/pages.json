@@ -1,0 +1,1914 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0767.7",
+      "1738.19",
+      "1762.06",
+      "2795.72",
+      "1862.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-30\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (／)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉( )[ ]は厳密にする。\n\n（表見出し）地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n0767.70　ka'botʃa　<絵にあるのは nait|ka'botʃa>\n1738.19　ka'boʧa　(音)\n1762.06　ボオフう　＜希＞\n2795.72　kaⁿbotʃa　＜古＞\n1862.48　カボチャ（北北海道のものはすべすべした、ひだのある...）\n\nや凹凸がほとんどない。カボチャと\n...ええばこれとする。その他のは[ナイチン本中]\nナンキンカボチャ＜深いひだのある、ゴツゴツ＞\n（ただしほこのあるもの）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05630.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05630",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05630.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2772.75",
+      "2783.06",
+      "2783.48",
+      "2793.00",
+      "3649.58",
+      "3688.82",
+      "3711.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-31\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］は厳密にする。\n\n質問番号　地図番号\n項目名　かぼちゃ 191\n普通注記 (A)  [B 除いた共通語]  [C 除いた特殊語]  ページ (2)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ntonasi <古>    kamboʧa\n(同) 上    kabotʃa\n(同) 上    kambotʃa\n(同) 上    kabutʃa\n\ndotūra (若)\nmakabota <カードの中央に指が入っている>\nA…形のもの>\nse:yo kabotʃa <カードの角側に描かれているような形のもの>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05631.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05631",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05631.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3720.71",
+      "3726.21",
+      "3730.39",
+      "3730.43",
+      "3732.26",
+      "3741.16",
+      "3750.75",
+      "3757.32",
+      "3761.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-32\n質問番号 地図番号 180 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3)\n項目名 かぼちゃ 191\n地 点 番 号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n3720.71 dofūra (音)    kabotja\n3726.21 カボチャ (カ〜ろと同じる)    kabotja\n3730.39 dofūra (音)    kabotja\n3730.43 kabotja (ひだのあるチリメンカボチャ)\n----\n3732.26 dotūra <ひだのないもの>\n3741.16 bofū (音)\n3750.75 kabotja 反には dofūra というと\n3757.32 トーナス <日本カボチャ>    カボジャ\n3761.24 dofūra (ち)\n(以下余白)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05632.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05632",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05632.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3771.29",
+      "3781.49",
+      "3783.08",
+      "3791.02",
+      "3791.76",
+      "4628.28",
+      "4639.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-33\n質問番号　地図番号　180　普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ　(メ)\n項目名　かぼちゃ　191\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞( )[ ]は厳密にする。\n----------------------------------------\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n3771.29　dofūra (音)　　　　kabot(a)\n3781.49　bombora　「馬鹿」のこともこういう注。\n3783.08　ka^botsa　0はめし\n3791.02　bo~bora [古]\n3791.76　bombora (若)\n4628.28　ka-botya <絵柄>\n4639.10　kara Kabut[o:] <カード中央に描かれ>\n----------------------------------------\n(ページ下部に手書き注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05633.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05633",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05633.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4639.69",
+      "4659.01",
+      "4667.33",
+      "4697.92",
+      "4971.41",
+      "4972.36"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。  ▲ その中での情報は地点番号順に並べる。  ▲ 注記の＜＞(　)[　]は厳密にする。  日本言語地図資料用紙 注記一覧 56-34  質問番号　地図番号　180  A 普通注記　ページ (5)  [B 除いた共通語]  [C 除いた特殊語]  項目名　かぼちゃ　191  地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]  kabotfa <総称>  ka:botya <調査カードの中央に描かれ>  ている瓜・もの  se:yo ka^botya <両側りに描かれているような形のもの>  カボチャ　ボは[bw]に近い  (kabutja)(kabumtja, kabumdza をよう)  (kabotfa)  (kobotfa)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05634.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05634",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05634.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4731.42",
+      "4731.85",
+      "4233.91",
+      "4760.54",
+      "4760.64",
+      "6784.41"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-35\n質問番号　地図番号　/80　項目名　かぼちゃ　191　普通注記　ページ\n[B　除いた共通語]　[C　除いた特殊語]\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞(　)[　]は厳密にする。\n\n地点番号　　A語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C　残した語形とその注］\n4731.42　[kabotʃa?]　(手書き)\n4731.85　[kabotʃa?]　(手書き)\n4233.91　kabotʃa (最後の音節は t[a] と c[a] の中間のような音である)\n4760.54　dzü̈/kabotʃa <調査カードの中央に描かれたような丸い形のもの>\n4760.64　(取り消し線)\n6784.41　kabotʃa (中本付近 左は kabmutʃa というような形)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05635.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05635",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05635.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5472.34",
+      "5527.89",
+      "5538.50",
+      "5538.90",
+      "5556.35",
+      "5556.84",
+      "5564.29",
+      "5565.12",
+      "5567.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-36\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ（7）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nカボチャ〈古〉　　　ボオフラ\nkaotja〈新〉　　　　bobura\nボブラ〈古〉　　　　カボチャ\nkawotja〈新〉　　　 bobura\nboruba（まちがいでない）　bo:bura\nmaykimbo:bura〈西洋種〉　bo:bura\nnakIN　優え　　　　kobotja\nカボチャ〈おもに使う〉　ナンキン\nボオベう（外来語である、白秋の「冬車」）　カボチャ\n（ボーブラを思わせる。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05636.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05636",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05636.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5574.42",
+      "5578.27",
+      "5586.56",
+      "5591.91",
+      "5594.02",
+      "5594.37",
+      "5614.62",
+      "5623.27",
+      "5624.05"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-37\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n（右上の欄） 質問番号　地図番号　180　項目名　かぼちゃ　191　A 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（8）\n表見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n行項目（地点番号欄以外の書き込み、上から順に）:\nkabotja <一部>　　naykin\nナンキン <他・希>　カボチャ\nmaykin　優先　　kabotja\nニッポンカボチャ（デコボコのある方）\nシナカボチャ（ツルツルした方）\nkabotja　優位　　naykin\nKabotja　\"　naykin\nkabotja 〈to:n asu to も〉　kabotja\nその他手書きの注記やローマ字表記（maykin, kabotja, カボチャ など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05637.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05637",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05637.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5626.92",
+      "5626.99",
+      "5628.66",
+      "5628.70",
+      "5629.98",
+      "5636.24",
+      "5638.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-38\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n資問番号　地図番号　項目名　かぼちゃ　191　普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (9)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nto:ga (たぶん栗かぼちゃをいう)\nカボチャ <ズノマンナカ>\nトオナス <ズノミギ>\nカボチャ <多く使う>\nトオナス <ちくからの言>\nトオナス <くち>\nカボチャ <多く使う>　トオナス",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05638.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05638",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05638.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5638.54",
+      "5639.13",
+      "5639.67",
+      "5644.94",
+      "5646.39",
+      "5647.56",
+      "5649.53",
+      "5654.94",
+      "5655.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-39\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (10)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注]\nA注のない語形 [B・C 残した語形とその注]\n5638.54　トオナス　＜多く使う＞　カボチャ\n5639.13　トオナス　＜ち＞\n5639.67　トオナス　＜古くからのことば・普通の言い方＞　カボチャ\n5644.94　セエヨオカボチャ　（ツルツル）\n5646.39　カボチャくズノミギ＞トオナス（マンナカ）\n5647.56　トオナス　くち>\n5649.53　トオナス　多く使用されている。　カボチャ\n5654.94　カボチャ　（シアのアルノガ＝ニホンカボチャ）\n5655.57　トオナス　＜しわのある方＞，カボチャ（くつつるのほう）\n(手書き注記や文字は判読困難な箇所あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05639.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05639",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05639.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5657.06",
+      "5657.53",
+      "5658.89",
+      "5659.46",
+      "5664.48",
+      "5665.46",
+      "5665.89",
+      "5666.10",
+      "5666.18"
+    ],
+    "other_text": "56-40\n日本言語地図資料用紙　注記一覧\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜　＞（　）（［　］）は厳密にする。\n\n質問番号　地図番号　180\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ（11）\n項目名　かぼちゃ　191\n\n表ヘッダ：地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n手書き注記（抜粋）：\nトオナス＜多＞\nカボチャ＜多＞\nトオナス＜ち＞\nトオナス　普通の言い方\nトオガンカボチャ（しわのない）\nトオナス＜多・4リメン＞、カボチャ（ツルツルした方）\nトオナス＜多＞\nカボチャ（シワがある）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05640.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05640",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05640.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5666.22",
+      "5666.85",
+      "5667.61",
+      "5669.06",
+      "5675.87",
+      "5676.10",
+      "5677.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-41\n質問番号 地図番号\n項目名 かぼちゃ 191\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (V2)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5666.22　トオナス <マンナカ> セエヨトオナス <ミギ>\n5666.85　ナタクリト オナス <ミギ>\n5667.61　トオナス <チ>\n5669.06　トオナス <多>　カボチャ\n5675.87　カボチャ <シワンアル／オシカミ／カボチャ>\n5676.10　トオガン … 食をあしたがそうら（…）\n5677.28　トオナス <昔からのことば…普通>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05641.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05641",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05641.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5677.60",
+      "5677.85",
+      "5678.33",
+      "5678.86",
+      "5679.31",
+      "5685.02",
+      "5685.37",
+      "5686.15"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-42\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　ページ(13)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n表ヘッダ：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n手書き表記（上から）：\nカボチャ　＜多＞　　　　　トオナス\nトオナス　＜普通＞　　　　カボチャ\nトオナス　＜普通＞　　　　カボチャ\nトオナス　＜＞　　　　　　カボチャ\nto:nasuすいく　普通　　　kabotja\nチェック付き行：to:nagsu（手書き）　（小さな落書き）　こういう形のもの、ただし作らない…\nto:gan　…わかる、冬瓜とはちがう。\n\n下段手書き：5685.37　5686.15（位置に対応する語形の手書き注記）\n\n（ページ下部に karbotja <多> と記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05642.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05642",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05642.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5686.67",
+      "5689.32",
+      "5689.6",
+      "5687.86",
+      "5688.01",
+      "5688.86",
+      "5689.34",
+      "5696.13",
+      "5696.54"
+    ],
+    "other_text": "56-43\n日本言語地図資料用紙　注記一覧\n質問番号　地図番号　　　／ 180\n項目名　かぼちゃ　191\n普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (V4)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は厳密にする。\n\n（表見出し）\n地点番号　　A　語形とその注記　［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n5686.67　カボチャ　（近頃はカボチャが多い。昔はトオナス）　トオナスが多かった\n5689.32　トオナス　＜普通＞\n5689.60　カボチャ　＜普通＞，トオナス＜形の丸いもの＞\n5687.86　トオナス　＜戦争前＞…など\n5688.01　トオナス＜多＞　カボチャ\n5688.86　トオナス　＜音＞＜昔とは戦争前＞　カボチャ\n5689.34　kabotɕa　普通　to:nasu\n5696.13　カボチャ　トオナス　＜平たいちりめんがぼちゃの…＞　カボチャ\n5696.54　to:nasʊ　（手書き注記）\n\n（下部に手書きメモ等あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05643.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05643",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05643.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5696.68",
+      "5697.28",
+      "5697.53",
+      "5698.19",
+      "5698.54",
+      "5698.69",
+      "5703.70",
+      "5710.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (15)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き欄:\n5696.68  to:nasut <総称>, to:jan <絵のたの>\n（oは to:jan、中央のtoは to:nasut、そ のものは to:jan というかつ音は中央の種類のみ）\n5697.28  トオナス　普通にいう。カボチャ時々いう\n5697.53  to:ma'sut <昔は真中の種類かな>\n5698.19  to:nasut <方>\n5698.54  to:masu <今は[kabot]が多い>\n5698.69  karbotʃa <総称>, to:nasut （手は中央の種類のみ）\n5703.70  to:nasut　kabotʃa\n5710.84  トオナス <稀>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05644.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05644",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05644.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5720.34",
+      "5720.71",
+      "5722.37",
+      "5730.71",
+      "5740.43",
+      "5750.31",
+      "5751.89",
+      "5752.94"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-45\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞（　）（　）は厳密にする。\n\n質問番号　地図番号　/ 180\n項目名　かぼちゃ　191\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ (V6)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\nカボチャ　普通の言い方　トオナス\nトオナス　普通の言い方　カボチャ\nto:nasu <す>　kabotʃa\nトオナス　＜昔多く使われた＞\nトオナス　＜多く使う＞\nカボチャ　＜新らし、上品な言い方＞\nカボチャ[む]　トオナス\nkabotʃa <くち・多>　to:nasü kabotʃa <ち>\nkabotʃa＜背の高い種類、北海道産＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05645.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05645",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05645.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5760.24",
+      "5792.02",
+      "6287.42",
+      "6339.86",
+      "6349.09",
+      "6356.98",
+      "6357.74",
+      "6366.16",
+      "6368.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-46\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (17)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n表ヘッダ: 地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n行例（手書き）:\nkabo:ta　<種株 及び 平たいの>\nto:masaü　<長いのを...>\nka-butsa　miほのに少し寄っている\nboibura <左>\nkabot(sa)\nナンキン <新>\nbo:furda <ち>\nボオボウ <ち>\nボオラ <ち>\nbo:borə <ち>\nbo:Φura <ち>\n（手書きの語形・注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05646.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05646",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05646.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6369.32",
+      "6373.84",
+      "6375.6",
+      "6377.65",
+      "6379.68",
+      "6386.25",
+      "6385.28",
+      "6387.62",
+      "6393.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-47\n質問番号　地図番号　(180)\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n項目名　かぼちゃ　191\n\n6369.32　カバチャ　古、　ボオフラ　新\n6373.84　bo:bo:ra　＜ち＞　kabotja\n6375.60　bo:bora　＜ち＞、 nankin　＜新＞\n6377.65　ボオタ　＜ち＞　カボチャ\n6379.68　ボオフラ（昔）　ナンキン\n6386.25　kabotja＜多＞、 nankin＜少＞　bo:bora＜少＞\n6385.28　kabotja＜最も多く使う＞　nankin, bo:bora\n6387.62　nankin＜形によらず nankin＞\n6393.26　mankin kabotja＜A形のもの＞　kabotja\n\n（書き込み・手書き注記あり、上は目視による概略転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05647.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05647",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05647.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6395.66",
+      "6395.61",
+      "6398.42",
+      "6403.62",
+      "6404.83",
+      "6406.77",
+      "6406.82",
+      "6407.43",
+      "6408.15",
+      "6414.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-48 質問番号 地図番号 180 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (19) 項目名 かぼちゃ 191\n\n地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n\n6395.66 かぼちゃ (カボチャの方が多い)    ナンキン\n6395.61 naykin (新?)    kabotja\n6398.42 bo: bora <多>, nankin <少>    kabotja\n6403.62 boi: fūra <少・若から>    kabotja\n6404.83 ボオフラ [右]    カボチャ\n6406.77 boi: Fumra <ち・稀>    kabotja\n6406.82 ボオフラ 多(何...)    カボチャ\n6407.43 カボチャ 石黒著 カボチャ, ボオフラ    kabotja\n6408.15 オカボ <上>    カボチャ\n6414.17 kabot(a) <多>, naykin <乏・少>  bo: fura <ち・少>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05648.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05648",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05648.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6415.38",
+      "6415.80",
+      "6416.31",
+      "6417.14",
+      "6417.72",
+      "6419.09",
+      "6419.25",
+      "6419.50",
+      "6423.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-49\n質問番号　地図番号　/180　A 普通注記　ページ (20)\n項目名　かぼちゃ　191\n[B 除いた共通語] [C 除いた特殊語]\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > () [ ] は厳密にする。\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き注記（読み取りおこなったもの）:\nbo: Fura <くち, 言ったのが今は言わない> kabotja\nnankin <新.少> (ボーフラは言わない?) kabotja\nbo: fura <影><ち>\nbo: fura <ち>\nkabotja [多] bo: fura <ち> ナンキンとも言う\nナンキン <希>　カボチャ\nオカボ <上品よる人, 希> ナンキン<希> カボチャ\nナンキン <上>\nkabotja2 <古い言い方で沢山用いる>\nnankin <新.上品>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05649.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05649",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05649.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6426.04",
+      "6427.27",
+      "6427.40",
+      "6428.13",
+      "6428.26",
+      "6428.76",
+      "6429.30",
+      "6429.61",
+      "6429.65",
+      "6430.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-50\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n（右上ボックス）\n質問番号　地図番号\n項目名　かぼちゃ　191\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ（2/）\n\n表ヘッダ:\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き一覧（左欄は地点番号、右欄は語形等）:\n6426.04  bo: phuɾa [ち・少]\n6427.27  bo: phuɾa [ち]\n6427.40  bo: bura [ち・多]\n6428.13  ナンキン <希>\n6428.26  ナンキン <新・希>\n6428.76  ナンキン <希>\n6429.30  ナンキン <上・希>\n6429.61  カボチャ くゎ?\n6429.65  ナンキン <希>\n6430.53  アボチャ <ち>、ボオラく新>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05650.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05650",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05650.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6435.68",
+      "6436.98",
+      "6437.94",
+      "6438.33",
+      "6439.01",
+      "6439.17",
+      "6439.61",
+      "6440.25",
+      "6444.89",
+      "6445.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-51\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )［ ］は厳密にする。\n\n質問番号　地図番号\n項目名　かぼちゃ　191\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（22）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6435.68　カボチャ〈普〉　トオナス\n6436.98　〃　同上　ナンキン\n6437.94　ナンキン〈新,希〉　カボチャ\n6438.33　〃　〈希〉　カボチャ\n6439.01　〃　〈希〉　カボチャ\n6439.17　〃　〈希〉　カボチャ\n6439.61　ナンキン〈新・希〉　kabotja\n6440.25　ナンキン〈新・希〉　カボチャ\n6444.89　カブ・チャ〈古〉　ナンキン\n6445.11　カボチャ〈普〉　ナンキン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05651.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05651",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05651.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6445.57",
+      "6446.63",
+      "6446.69",
+      "6447.08",
+      "6452.83",
+      "6452.98",
+      "6453.31",
+      "6453.64",
+      "6454.24",
+      "6454.88"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-52\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n質問番号　地図番号　1/80\n項目名　かぼちゃ　191\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (23)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6445.57　＜カボチャ(カボチャく老)＞　ナンキン\n6446.63　#? ユウゴオ　トオナス、ナンキン、カボチャ\n6446.69　カボチャ＜希＞　ナンキン\n6447.08　kabotya maykingは[新]という人あり\n6452.83　トラナンキン(古)\n6452.98　サツマ(多)\n6453.31　トオナス、ポオブウ　其にち…\n6453.64　ボオブウ＜紫＞、ユウゴオ＜希＞、ナンキン＜新(静か?)(仮)＞\n6454.24　トオナス＜古＞\n6454.88　ナンキン　サツマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05652.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05652",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05652.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6455.31",
+      "6456.73",
+      "6457.51",
+      "6459.29",
+      "6460.10",
+      "6464.23",
+      "6464.77",
+      "6464.90",
+      "6466.61",
+      "6467.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-53\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞(　)[　]は厳密にする。\n\n質問番号 地図番号 180 普通注記 (A) [B 除いた共通語] [C 除いた特殊語] ページ (24)\n項目名 かぼちゃ 191\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n6455.31 to:inasü [たか]\n6456.73 na'yk iN <新>  satsuma\n6457.51 ju'i:go <古>\n6459.29 ナンキン [カボチャ]\n6460.10 bo:ɸura <ち> kabotja\n6464.23 サツマ〈普〉, ナンキン〈新〉トオナスくち\n6464.77 ボオブラくち, ナンキン〈現〉\n6464.90 トオナス〈普〉, ナンキン〈普〉, ボオブラくち  #サマ, #ユラゴゴ\n6466.61 ナンキン〈新〉, ユラゴラくち\n6467.73 naykin @ nayKIN <ち> kabotja",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05653.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05653",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05653.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6470.11",
+      "6472.05",
+      "6475.07",
+      "6475.27",
+      "6476.13",
+      "6476.93"
+    ],
+    "other_text": "56-54 日本言語地図資料用紙　注記一覧 質問番号　地図番号　/180 項目名　かぼちゃ　191 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (25) ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）［］は厳密にする。 地点番号　A　語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］ bo: phura <古> bo: bura <古>, narykin <今> ユラゴオくち>, ナンキン<新> ナンキン<新>, ユラゴウくち> ドオナス<くも>, ナンキン<新> 豊島の 中でも北浦ではユラゴーといい、 これは茶がゆの中に入れて朝食にする。それをユウガオチャが... ボラウ、ナンキン 最も多く用いられる...",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05654.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05654",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05654.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6479.95",
+      "6480.29",
+      "6480.91",
+      "6482.52",
+      "6482.75",
+      "6483.41",
+      "6485.14",
+      "6485.46",
+      "6486.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-55\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n質問番号 地図番号 180 項目名 かぼちゃ 191 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (26)\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n6479.95 トオナスビ、ナンキン }{ カボチャ }<新>\n6480.29 ボオフラ ち\tナンキン\n6480.91 ボーフラ <若>\tナンキン、カボチャ\n6482.52 kabotja <品種によって、言いわけ>\n6482.75 bo:ran } 3ということはない >\n6483.41 (取り消し線あり)\n6485.14 テョオセン <古>\tナンキン\n6485.46 ナンキン <希>\tテョオセニ\n6486.07 ボオフラ ユーモアのある言い方、大きくて形ば カボチャ、テョオセン、ナンキン\n（下部手書き注記）からでうまみのない臭を表ついうことばで オマイボウラウ ミライナヤツジャというようにいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05655.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05655",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05655.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6486.1",
+      "6486.93",
+      "6487.43",
+      "6487.66",
+      "6492.50",
+      "6496.72",
+      "6498.61",
+      "6500.88",
+      "6501.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-56\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (27)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6486.10　ナンキン　新　　チョオセン\n6486.93　チョオセン <ち>\n6487.43　ボオフう <ち>, ナンキン <新>\n6487.66　ボオフう <ち><ドボオフうか/といって馬鹿者を\n6492.50　買ったりする？ ナンキン <新>\n6496.72　nankin <希>\n6498.61　bo:ɸura (ち)\n6500.88　kabotja\n6501.82　nankin <希>\nかぼちゃ　ちくからい？\nナンキン　最近になって使う人もある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05656.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05656",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05656.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6507.13",
+      "6508.06",
+      "6511.49",
+      "6512.02",
+      "6515.26",
+      "6520.50",
+      "6522.25"
+    ],
+    "other_text": "56-57\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号\n項目名　かぼちゃ　191\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (28)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6507.13　ナンキン〈他〉　カボチャ\n6508.06　オカボ！〈上〉\n6511.49　ナンキン（総称）, チョーセンナンキン（ツルツル…）\n6512.02　kabotja〈普〉, naykin〈外の人、たとえ…〉\n6515.26　kabutja〈古〉\n6520.50　カボチャ〈古・今〉, ナンキン〈新希〉\n6522.25　カボチャ（総称）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05657.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05657",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05657.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6522.93",
+      "6526.98",
+      "6530.58",
+      "6531.53",
+      "6532.83",
+      "6540.16",
+      "6540.52",
+      "6542.71",
+      "6543.05",
+      "6544.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-58\n質問番号　地図番号　/ 180\n項目名　かぼちゃ　191\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (29)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく、> ( ) [ ]は厳密にする。\n（表見出し）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nナンキン　(少)　　　カボチャ\nオカボ　〈他〉　　　カボチャ\nナンキン〈新・希〉　カボチャ\nナンキン〈希〉　　　カボチャ\nカボチャ（総称）\nnaykin［新］　　　　Kabotja\nカボチャ〈ちや〉、ナンキン〈新〉\nOkabo〈女〉　　　　naykin\nナンキン〈新〉　うしおどけた感じの用語　カボチャ\nOkabo〈J〉　　　　Kabotja",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05658.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05658",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05658.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6552.90",
+      "6553.22",
+      "6553.47",
+      "6553.52",
+      "6553.83",
+      "6553.99",
+      "6564.51",
+      "6572.22",
+      "6573.71"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞( ) [ ] は厳密にする。 日本言語地図資料用紙　注記一覧　56-59 質問番号　地図番号　180 項目名　かぼちゃ　191 普通注記 [B　除いた共通語] [C　除いた特殊語] ページ (30) 地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］ 6552.90　kabotʃa（「カボチャ」）。〈京都出身の内親は「naykin」といっていた。〉 6553.22　kabotʃa〈多〉、naykin〈少〉 6553.47　kabotʃa〈多〉 6553.52　kabotʃa〈「ナンキン」は使わぬ。〉 6553.83　kabotʃa（あくらー一般に用いる）、naykin新 6553.99　kabotʃa〈昔〉、naykin〈今〉 6564.51　kabotʃa〈万〉、naykin〈新〉 6572.22　ナンキン〈古〉 6573.71　naykin〈多〉〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05659.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05659",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05659.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6574.06",
+      "6574.52",
+      "6575.40",
+      "6582.68",
+      "6582.73",
+      "6583.41",
+      "6584.8",
+      "6590.87",
+      "6593.98",
+      "6603.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-60\n質問番号　地図番号\n180\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (31)\n項目名　かぼちゃ 191\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地點番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6574.06　kabotɕa b, naykikɯ　新\n6574.52　naykiki<今>, kabotɕa<古>\n6575.40　kabuɾtɕa [kabotɕa]\n6582.68　tonasu [癈]\n6582.73　ナンキン <新>\n6583.41　bo:ran <大蒜>, naykin <多>\n6584.80　naɡkiki <今>\n6590.87　ナンキン <新>\n6593.98　kabotɕa2 (ナンキンという形は使わぬ)\n6603.52　kabuɾtɕa mikaykabuɾtɕa（未だい方）\n（下部手書き注記）hat;ikay,kabmurtsa <首の高い方, 八重かぶちゃ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05660.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05660",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05660.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6606.38",
+      "6607.18",
+      "6607.68",
+      "6608.69",
+      "6609.02",
+      "6618.25"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-61\n質問番号　地図番号　/ 180\n項目名　かぼちゃ　191\n普通注記　[B 除いた共通語]　[C 除いた特殊語]\nページ (32)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n6606.38  kaboʔta (相模方言図では今回の調査で横須賀以外すべて中高型アクセント。上野原(山梨)は平板?)\n\n6607.18  kaʔboʔt͡sja <新方は知らない。> to:? nasu 種類によらず使う>\n\n6607.68  kaʔboʔt͡sja <多く使用><古い?>\n\n6608.69  to:? nasu <使用が少ない>\n\n6609.02  to: nasu <昔は県内のもの/かつら?>\n\n6618.25  kaboʔtja (相模方言地図 たとえば/今年度の上大井では[kabotsja])",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05661.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05661",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05661.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6625.17",
+      "6627.12",
+      "6630.82",
+      "6631.60",
+      "6634.33",
+      "6635.82",
+      "6697.39",
+      "6711.16",
+      "7237.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-62\n質問番号　地図番号　/180\n項目名　かぼちゃ 191 (33)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく ><()[]は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6625.17　to:nasu ち　kabotʃa\n6627.12　kabotʃa ….. <普通>\n6630.82　kabotʃa　背の高いのは Seijo:kabotja\n6631.60　kabutʃa　新\n6634.33　kabutʃa　鼻一軽い…人を指す kabotʃa\n6635.82　to:nasu 希\n6697.39　kabutʃa <普通にいうことば>\n6711.16　kabotʃa <多>, to:nasu <時に…>\n7237.67　bogura <古> (個人的な発音の誤りか)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05662.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05662",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05662.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7239.26",
+      "7239.82",
+      "7239.85",
+      "7246.65",
+      "7347.55",
+      "7266.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-63\n質問番号　地図番号　180\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (34)\n項目名　かぼちゃ　191\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n[bombura <盆頃に出来るから>] [bo:bu'ra]\n[bom bura <くち> <bomburaというと、うまくない>] kabotʃa\nような感(じがする)\nボーブラ <くち> <形はよるこ別ではない>\nbobura   borraとする地域がある\nbo:burɐ\nbobura (粗略な発音では boβra となる)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05663.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05663",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05663.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7279.01",
+      "7302.87",
+      "7303.29",
+      "7304.29",
+      "7305.13",
+      "7307.48",
+      "7309.61",
+      "7316.65"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-64\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n質問番号　地図番号　180\n項目名　かぼちゃ　191\n(A) 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (35)\n表見出し: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き記入欄（行ごと、おおよその転写）:\nボオブラ（古）\nbo:bura （古）　kabosa（今）\nbo:bura（昔）\nボオボラ（辺別なし）\n(取り消し線) ボオラ、\nto:bora <ち>    nankiŋ, kabotşa\nnankika <新>    bo:ibora\n1 bo'bura — アオボウラ ぼんやり/た\n人の悪口",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05664.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05664",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05664.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7320.59",
+      "7324.24",
+      "7324.67",
+      "7324.86",
+      "7326.41",
+      "7329.57",
+      "7330.77",
+      "7330.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-65\n質問番号　地図番号　／180\n項目名　かぼちゃ　191\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (36)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7320.59　bo:bura　(官)\n7324.24　bo:bura (※)\n7324.67　karawuri (※), bo:bura (ツマラニ…)\n7324.86　nankin (ク)　karauri, bo:bura\n7326.41　bo:bura <人間のちょっと足らんものをこういう>\n7329.57　nankin 新　kabot(？)\n7330.77　buna <よつう>, bontan <希>　bo:bura\n7330.91　bo:bura　貴かる多い\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05665.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05665",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05665.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7331.61",
+      "7335.19",
+      "7335.34",
+      "7338.55",
+      "7339.27",
+      "7360.5",
+      "7342.12",
+      "7346.58",
+      "7347.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 56-66\n質問番号　地図番号　180　A　普通注記　ページ（37）　項目名　かぼちゃ　191　[B　除いた共通語]　[C　除いた特殊語]\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7331.61　プナ　形によって ピコラタンブナ、サリメンブナなどという\n7335.19　bo:bura <急げもの、あろか者をボーブラという>\n7335.34　naykin <希>\n7338.55　toisen nankin　図の左端の種類　kabotsa, naykin\n7339.27　naykira (bo:fu.ra という...)\n7360.50　bontan <新>　bo:buna\n7342.12　bo:bura ○ち\n7346.58　bobura <下・＞　kabotsa\n7347.55　bo:buna <ち>, naykin<ち>　kabot(a)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05666.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05666",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05666.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7349.07",
+      "7350.21",
+      "7350.96",
+      "7351.09",
+      "7352.14",
+      "7352.61",
+      "7352.97",
+      "7354.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-67\n質問番号 地図番号 180\n項目名 かぼちゃ 191\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (38)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n7349.07  mazikin <新>    tsoisen\n7350.21  kapotja <新>    boibuna\n7350.96  ボンカン bonkan <新>    buna\n7351.09  bo:bura (古), かぼちゃ(新)\n7352.14  カポチャ <新?>\n7352.61  ナンバン (大きいもの)\n7352.97  ボオブラ <古来 もっとも普通の言い方>  かぼちゃ\n7354.23  ボオブラ <古来の言い方, 今でも基本>  かぼちゃ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05667.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05667",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05667.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7355.22",
+      "7355.81",
+      "7357.64",
+      "7359.78",
+      "7361.17",
+      "7362.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-68\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n質問番号　地図番号\n(180)\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (39)\n項目名　かぼちゃ　191\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7355.22   kabotạ  <bo: bura は庄内で言う>    kabotʃa\n7355.81   !bo:bura <2>                        kabotʃa\n7357.64   !bo:bura <6>                        kabotʃa\n7359.78   tʃo:ser <多く使われている>\n         mapkin <珍しくはないが少し>\njuiga <希>\n7361.17   ナンバン <希・古>、 ボオブラ <希・古>\n7362.42   ボオブラくち、 ナンバンくち        カボチャ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05668.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05668",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05668.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7362.67",
+      "7363.12",
+      "7365.51",
+      "7366.14",
+      "7366.87",
+      "7368.32",
+      "7372.03",
+      "7373.92"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-69\n▶　A・[B]・[C] ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞(　)〔　〕は厳密にする。\n（表の上部） 資問番号　地図番号　(180?)　項目名　かぼちゃ　191　A◎普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　(20)\n（表ヘッダ） 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nボオブラ　＜古くから…う＞　カボチャ\nボオブラ　{ナンキンとは言わぬ}　カボチャ\nbo?:bura　＜希＞　kabotʃa\nbobura　＜つ＞　kabotʃa\nbo?:bura　＜ち．希＞　kabotʃa\nnaykin　＜新＞　bo:bura\nナンバン　＜ち＞＜若，時に老人が言ってた＞　ボオブラ\nボオブラ　＜香，古く，や，希＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05669.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05669",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05669.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "7374.75",
+      "7377.27",
+      "7381.38",
+      "7381.47",
+      "7381.97",
+      "7382.01",
+      "7382.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-70\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n（右上ボックス）\n質問番号　地図番号　/ 80\n項目名　かぼちゃ　191\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (41)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7374.75　ボブラうく形による使いわけはない\n7377.27　カボチャ（ナンキンは使わない）\n7381.38　ju:go くち>, bo: bura <茶>　kabotja\n7381.47　ボオブラうく昔から今までの基本言語>\n7381.97　ナンバン <ち> <希>\n7382.01　bo: b: bura <ち>\n7382.97　ボプラ（ボオブラ）\n\n（末尾手書き）\n80 は、かぼちゃと言う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05670.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05670",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05670.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7383.83",
+      "7383.18",
+      "7386.56",
+      "7390.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-71\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (×2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7383.83　ナンバン -> 総称でもあるが、大きい種類のカボチャをいう。\n(カボチャ) 小さ…種類のボオブラ) カボチャをいう。\n7383.18　ボオブラ（古くからの言語）　ナンバン <新>\n7386.56　maykiv <多> （オーの音は[maykiv]）\nto:nasu <帝> を探るべきであろう。\n7390.25　カボチャ（優勢）\n（ユラゴー というカボチャあり、今の人は食わず）\nす、牛や馬に食わせるが昔は多くの代わりに米に入れて食った。コウコ・オズラシイなどといったのだ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05671.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05671",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05671.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7391.94",
+      "7393.62",
+      "7400.11",
+      "7400.15",
+      "7601.18"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-72\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞〈 〉［ ］は厳密にする。\n質問番号 地図番号 1/80\n項目名 かぼちゃ 191\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (43)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n7391.94 ユゴく古くからの言葉で現存最も（要変）\nボオブう（希）\n7393.62 ボオブう（やっ、希か）\n7400.11 bo:ƒura  蜂の幼虫は<bo:fuhi>\nkabot[a<to:ikjo:kabotja akakahotja>\nのように種類をいうときに使う。>\n7400.15 bo:ran（希）（別に品種だよる呼び名） kabot(sa\n7601.18 napkin [新] kabot(sa)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05672.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05672",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05672.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7401.92",
+      "7402.47",
+      "7404.12",
+      "7404.56",
+      "7406.25",
+      "7412.26",
+      "7415.47",
+      "7418.07"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-73\n\n質問番号　地図番号　180\n項目名　かぼちゃ　191\n(A) 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（44）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n表見出し：地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C　残した語形とその注］\n\nkabotja <hjakuso: はこういう>　nankin\nkabotja <今ではおつう。多く集まれ>　nankin\nnankin <希>　kabotja\nbohura <くち> [品種のちがいには]　nankin\nnankin <…>　bo:fura\nnankin　栗かぼちゃをいう。　kabotja\nnankin <雅>　bo: fura\nkabotja　多くいう。　nankins",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05673.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05673",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05673.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7423.77",
+      "7423.80",
+      "7425.82",
+      "7430.75",
+      "7431.08",
+      "7431.82",
+      "7432.44",
+      "7440.69"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の〈〉( )[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 56-74 質問番号 地図番号 180 項目名 かぼちゃ 191 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (45) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] bofura <ち> bo:fura <なけものの裏の意味にも使う> bofura <ち> tʃo:sen kabotja naykin kabotja kabotja <ち> tʃo:isen (nankin, boifura といふくきる) 32年調",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05674.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05674",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05674.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7441.63",
+      "7446.26",
+      "7450.20",
+      "7451.22",
+      "7461.23",
+      "7461.77",
+      "7500.24",
+      "7500.43",
+      "7500.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 56-75 質問番号 地図番号 180 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (46) 項目名 かぼちゃ 191 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7441.63 bo:futa <多>, nalykiy <少> 7446.26 toygari 「冬瓜」にあらず 7450.20 t͡so:isen <0年位前まではこいたげだった。近頃はめなくなった> 7451.22 t͡o:seiy <ち> 7461.23 bo:futa 7461.77 kabotja 7500.24 bo'bura 7500.43 ナンキン 7500.86 カボチャ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05675.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05675",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05675.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7501.72",
+      "7501.14",
+      "2502.22",
+      "7502.89",
+      "7503.48",
+      "7510.18",
+      "7513.69",
+      "7521.79",
+      "7502.48"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-76\n質問番号　地図番号　項目名　かぼちゃ　191\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（47）\n►　A・[B]・[C]ごとに別紙を使用する。\n►　その中での情報は地点番号順に並べる。\n►　注記の＜　＞( )[ ]は厳密にする。\n表ヘッダ：地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n手書き項目（抜粋）：ナンキン＜新（...ことば＞　カボチャ　ナンキン\nnaykin いぶり（意神東1kmの家）で　は他にho:bo:naと希〕を用いる\nnaykin N＜新＞　kaˈbuːtʃa＜くち＞　カボチャ＜ちぐある＞\nナンキン＜新＞、トオナス＜形の変・ものをいう＞　カボチャ\n（下部手書きメモ）SAC (7502.48?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05676.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05676",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05676.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7523.05",
+      "7659.31",
+      "7659.51",
+      "7659.62",
+      "8300.11",
+      "8300.25",
+      "8300.87"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-77\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号　680\n項目名　かぼちゃ　191\nA　普通注記　(B　除いた共通語)　[C　除いた特殊語]　ページ　(68)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nナンキン〈新〉　　（右欄）カボチャ\nkabotʃa　30年くらい前に始めて入ってきた\n〈新しく〉くするようになったもの\n〈古〉　to:nasci\nボオブラ（絵称）（わからないのっぺら）　大きいもの\nカボチャ　ものの姿・美味しいもの\nユラゴ　ボオブラと同じもの\nju:go〈古〉\nju90〈総称で、細長いのは kineju90〉\n\nkabotɕa〈固〉…ものはこういう＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05677.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05677",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05677.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "8301.76",
+      "8302.91",
+      "8304.66",
+      "8305.73",
+      "8310.26",
+      "8310.87",
+      "8311.41",
+      "8311.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-78\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (49)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n8301.76　ボオブうくち><30〜50才位の人は主に12(用いる)　カボ・4ヤ\n8302.91　ボブうう(ちくなら)　カボ4ヤ\n8304.66　ju:go <くち>\n8305.73　\"　<く.>\n8310.26　ju:90 <細長いのはヒューダンコゥという>\n　　　カボ・4ヤく良いもの>\n8310.87　bobura <くち>\n8311.41　ju'90 (は半長音) <短かくju90と...と表記>\n8311.59　kahaigo <昔からの言い方>\n\n（手書きの注記・語形が多数あり、上は読める範囲の概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05678.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05678",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05678.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "8312.33",
+      "8320.59",
+      "8321.58",
+      "8322.43",
+      "8331.12",
+      "8350.68",
+      "8361.31",
+      "0276.50",
+      "0275.97"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-79\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n（表の上部）質問番号　地図番号　680　A 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (50)　項目名　かぼちゃ　191\n（表の見出し）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nbobura <くち>    kabotja\ntoigo <希>\nbobura <くち>    kabotja\n\"\" <\"\">\n\"\"\n[くち] bombora [漁師]\nto:tsiburu <必ずto:をつけていう>\ntsi buru <総称>\nto:tsiburu <特に大きいのをいう>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05679.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05679",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05679.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "0294.93",
+      "1148.59",
+      "1213.76",
+      "0260.87",
+      "1261.80"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-80\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）[　]は厳密にする。\n質問番号　地図番号　180　頁\n項目名　かぼちゃ　191\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n0294.93 nay'kwa　大島産\n1148.59 kabotsa　内地産\n1213.76 tjinkwa:（大きいもの）\nkabutsa（小さいもの）\n1213.76 kabotsa　内地から来たもの\nnarukaks　島で...来たもの\n(260.87) naykwa:＜細長いもの＞\ntjinkwa:＜まるいもの＞\n1261.80 naykwa:＜黄色味がかったもの＞\ntjinkwa:＜青いものをいう＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05680.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05680",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05680.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "1270.29",
+      "2074.69",
+      "2140.96",
+      "2141.61",
+      "2150.06",
+      "2150.07",
+      "2151.51"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 56-81 質問番号 地図番号 180 項目名 かぼちゃ 191 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (52) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 1270.29 tjinkwa: <長いもの> (嚴密につかい) 2074.69 naykwa: <長いもの> naykwa: <丸いもの> kabuttja: <丸いもの> 2140.96 kabutja <新> 2141.61 kabutsa <小さい> naykwu <大きい方> 2150.06 kabutsa (案) 2150.07 (..) 2151.51 naykwa <大きい・種類>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05681.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05681",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05681.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "2151.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-82\n質問番号　地図番号　1 80\nA 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語]　(53)\n項目名　かぼちゃ　191\n\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜＞（）（［］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n2151.64 mayku <大き…のをいう>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05682.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05682",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05682.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "2792.73",
+      "3649.58",
+      "3711.98",
+      "3732.26",
+      "3761.74",
+      "3790.27",
+      "3791.02",
+      "3791.76",
+      "8628.28"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（［］）は厳密にする。\n日本言語地図資料用紙　注記一覧　56-83\n質問番号　地図番号　/ 180\n項目名　かぼちゃ　191\nA　普通注記\nB　除いた共通語\nC　除いた特殊語\nページ　(1)\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n2792.73　kabot(a)〈新〉\t\ttomasi\n3649.58\t\"　(今)\t\tdofürda (若)\n3711.98\t\"　同上\t\tdofuu (ち)\n3732.26\t\"　同上\t\tbotüi (若)\n3761.74\t\"　同上\t\tdofürda (ち)\n3790.27\t\"　同上\t\tbotura (昔)\n3791.02\t\"　[新]\t\tbobora [古]\n3791.76\t\"　(今)\t\tbombora (若)\n8628.28\thiraka~bot(a)〈久…〉\t\tkabotya 〈総称〉\n\nseyoka~bota〈調査カードの高訳〉\n(= 描かれたような形のもの)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05683.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05683",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05683.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "4639.69",
+      "4697.92",
+      "4790.74",
+      "5548.24",
+      "5556.84",
+      "5569.36"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-84\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><( )[ ]は厳密にする。\n質問番号 地図番号 180\n項目名 かぼちゃ 191\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\nページ (2)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\ntokki~ kabotja <調査カードの中央に描かれている丸いもの>\ncikmukabotja <両側に描かれているような形のもの>\n(kabutja) (ふつう kabutja, kabudja を使っている)\n(kabutja)\nkabutja\nkabumtya\nkabotja <新> naykwa bo:bura\ntijimbo:bura <日本種> naykimbo:bura <西洋種>\nカボチャ <英> カブチャ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05684.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05684",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05684.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "5614.62",
+      "5629.98",
+      "5631.16",
+      "5635.48",
+      "5639.13",
+      "5641.99",
+      "5644.74",
+      "5647.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    56-85\n質問番号　地図番号　/180\n項目名　かぼちゃ　191\nA 普通注記　　B 除いた共通語　　C 除いた特殊語　　ページ (3)\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n\nkabotja (共)    kabot(o <…何度使うこと多い…>)\nかぼちゃ <新>    トオナス <古くからの言い方>\nkabotja <共>\nかぼちゃ <新>    トオナス\nかぼちゃ <新>\nひりめんかぼちゃ　絵の中の真中のは　ka'botʃa\nすべすべしたのは　toːka'botʃa\nかぼちゃ, クリメンくしろのある方\n(以下、手書き注記多数)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05685.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05685",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05685.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "5656.56",
+      "5657.06",
+      "5659.46",
+      "5664.51",
+      "5666.18",
+      "5669.12",
+      "5671.00",
+      "5675.87",
+      "5672.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく　><( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 56-86 質問番号　地図番号　180 項目名　かぼちゃ　101 A　普通注記 B　(除いた共通語) C　(除いた特殊語) ページ　(4) 地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］ 5656.56　カボチャ＜ホン＝アル名＞　トオナス 5657.06　カボチャ＜少＞　トオナス＜多＞ 5659.46　カボチャ＜新＞　トオナス　普通の言い方 5664.51　kabotja＜エ＞　kabutja 5666.18　マキワリトオナス＜シワがない＞　カボチャ＜シワがある＞ 5669.12　Kabotsa＜や、あらたまったとき＞　to:nas（ui） 5671.00　Kabotsa＜新＞　Kabutja 5675.87　カボチャ　あまり使われていない。　トオナス、トオガン… 5672.28　カボチャ　戦争後〈昔はカンピョオのと〉　トオナス〈昔からのことば:普通〉 をカボチャと言った。今はそれをつくらないのでこれをカボチャというように「なった」",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05686.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05686",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05686.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "5678.33",
+      "5678.11",
+      "5685.37",
+      "5686.31",
+      "5687.32",
+      "5687.86",
+      "5688.32",
+      "5695.47",
+      "5696.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-87\n質問番号 地図番号 /80\n項目名 かぼちゃ 191\nA 普通注記\n除いた共通語\n除いた特殊語\nページ (5)\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形【B・C 残した語形とその注】\n5678.33　カボチャ　戦後のことば　トオナス〈普〉\n5678.11　Kabotja〈希〉　to:imasu\n5685.37　〈Kabotja という人もある〉　to:na'su（自家用 稲藁にわずか作る）\n5686.31　Kabotja〈新〉　to:na d'su\n5687.32　カボチャ　戦争中より　トオナス〈普通〉\n5687.86　カボチャ〈戦争中よりのことば〉　トオナス〈戦争あ:注と2.0今でも用いるが…〉\n5688.32　カボチャ〈新〉　トオナス\n5695.47　mi'kayka'botja〈平たい芋〉　ka'botja\n5696.68　kabotja〈大〉　to:imasu / to:ban（総称）\n（右下注）絵の左のものは to:jan，右のものは to:gan，中央のものは to:imasu というが，青子中央の種類のみであり，絵弁として to:imasu 等",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05687.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05687",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05687.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "5697.53",
+      "5698.19",
+      "5730.71",
+      "6357.74",
+      "6374.68",
+      "6415.23",
+      "6416.09",
+      "6416.31",
+      "6417.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-88\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( )[ ]は厳密にする。\n\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA　普通注記　ページ　(6)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nkabotɕa <最近のことば、両側のものを持する> + to:nas 〜 <昔は夏中の ...>\nkabotɕa <新>\nカボチャ〈今は多く使う〉\nkabotɕa <新>\nkabotɕa <新>\nkabotɕa <上>\nkabotɕa <新><多>\n\n右欄（注記）: bo:bora\nbo:fiura\nbo:fuura\nボオフラ\nbo:φura <多><右>\n\n(上は読み取りの通りの概略転記。細かい手書き注記あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05688.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05688",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05688.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "6426.04",
+      "6427.6",
+      "6429.15",
+      "6430.53",
+      "6440.25",
+      "6444.89",
+      "6452.83",
+      "6452.98",
+      "6453.31",
+      "6453.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-89\n質問番号 地図番号 180\n項目名 かぼちゃ 191\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ (7)\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）[]は厳密にする。\n表ヘッダ: 地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n（欄の手書き記入例、左列は地名番号列）\nkabotɕa [新・多]\nkabotʃa [新・上品]\nカボチャ ＜使うことがつめない＞\nカボチャ ＜新＞\nカボチャ ＜新＞\nカボチャ ＜新＞\nカボチャ (今)\nカボチャ (少)、ナンキン (少)\nカボチャ ＜新＞\nカボチャ (新・青年がよく使う)\n右列（残した語形と注）代表例:\nbo:ɸura [ち・少]\nbo:bur a [ち・多]\nナンキン\nアボチャ <古>, ボオフラ <新>\nカブチャ [ち]\nトーオナス <ち>\nトウナキン (古)\nサツマ (多)\nトオナスち, ボオブラっち\nボオフラ(艶), ユウゴイ(希)\n下部手書き注記: ナンキン <新、青年がよく使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05689.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05689",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05689.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "6454.24",
+      "6455.88",
+      "6459.62",
+      "6459.87",
+      "6464.77",
+      "6466.9",
+      "6473.06",
+      "6476.92",
+      "6477.02",
+      "6482.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-90\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〉〈（）［］は厳密にする。\n質問番号 地図番号 180\n項目名 かぼちゃ 191\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ (8)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n6454.24  かぼちゃ〈新〉    トオナス〈古〉\n6455.88  かぼちゃ〈新〉    トオナス、ナンキン〈新〉\n6459.62  かぼちゃ〈少〉    ナンキン\n6459.87  かぼちゃ〈希〉    同上\n6464.77  かぼちゃ〈現〉    ボオブうくち、ナンキン〈現〉\n6466.90  (取り消し線)\n6473.06  かぼちゃ〈新〉    ナンキン\n6476.92  かぼちゃ〈新〉    オチョオセン\n6477.02  かぼちゃ〈共〉    ナンキン\n6482.25  kabotja〈失〉    nanki/boika  (手書き)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05690.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05690",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05690.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "6683.61",
+      "6684.28",
+      "6685.46",
+      "6686.93",
+      "6687.66",
+      "6688.81"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )〔 〕は厳密にする。  日本言語地図資料用紙 注記一覧 56-91  質問番号 地図番号 180 項目名 かぼちゃ 191 A 普通注記 除いた共通語 除いた特殊語 ページ (9)  地点・番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]  6683.61  かぼちゃ <新>  (字句・注記入り、取り消し線あり)  6684.28  アマグリ (ナンキン) アマグリ、クリナンキンはナンキン ナンキン  6685.46  カボチャ <希>  (右欄注記: チョオセン、ナンキン <希>)  6686.93  カボチャ <新>  (右欄注記: チョオセン <古>)  6687.66  カボチャ <新>  (右欄に長い注記、ボオフう〈古〉など)  6688.81  カボチャ <新>  ナンキン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05691.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05691",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05691.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "6511.49",
+      "6522.79",
+      "6532.93",
+      "6541.27",
+      "6552.88",
+      "6560.40"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-92 質問番号 地図番号 180 項目名 かぼちゃ 191 A 普通注記 ページ (10) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6511.49 = ホンナン キン (デコボコのある方) ナンキン(総称), チョーセンナンキン キン(つるつる(丸型, ひょうたん形)) 6522.79 チリメン (しわのあるかぼちゃでシナカボチャ、カボチャ(総称)) (これは長茄、かなり?) 6532.93 ヒョータンカボチャ (ヒョータン型) カボチャ (総称) キクザ (丸型で菊の花の型をしているもの) ソーメン カボチャ (他の一種) 6541.27 カボチャ <新> ナンキン 6552.88 kabotya <新> naykin 6560.40 カボチャ <新> ナンキン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05692.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05692",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05692.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "6572.22",
+      "6573.71",
+      "6580.33",
+      "6580.66",
+      "6581.36",
+      "6583.41",
+      "6584.8",
+      "6582.1",
+      "6608.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-93 質問番号 地図番号 180 項目名 かぼちゃ 191 A 普通注記 B 除いた共通語 除いた特殊語 ページ (11) ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく><( )[ ]は厳密にする。 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] カボチャ〈新〉　ナンキン〈くち〉 kabotʧa〈く〉〈新〉　naykina〈多〉〈ち〉 ナンキン  ″  〈新〉  ″  kabotʧa〈く〉 kabotufa〈今〉 kabotfa, naykira〈多〉  to: nasu〈茄は真中のもの〉 (かなかった) 〈私の種類は見合い〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05693.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05693",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05693.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "6609.02",
+      "6611.68",
+      "6697.39",
+      "6697.49",
+      "7237.67",
+      "7386.54",
+      "7259.22",
+      "7279.01",
+      "7279.93"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-94\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　180\n項目名　かぼちゃ　191　ページ（12）\n普通注記　除いた共通語　除いた特殊語\n\n（表見出し）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\nkaboṭɕa <今> 絵の右の方の種類は後の時もの。　代のもの。\nkabotʃa <新>\nkabotʃa <上>\n\"（注記）\nkabotʃa <新>（や崎ではkobura） bogura <ち>（1個人名らる 発音の変別か）\nkabotʃa <上> bo: bura\nkabotsʲa <今> bo: bura\nカボチャ（新）　ボオブラ（古）\nkabotʲa <新> buna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05694.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05694",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05694.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "7303.29",
+      "7320.59",
+      "7321.93",
+      "7335.93",
+      "7339.27",
+      "7341.47",
+      "7342.12",
+      "7343.17",
+      "7344.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-95\n質問番号 地図番号\n項目名 かぼちゃ 191\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\nページ (43)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nkabotsa (今)　　　bo:bura (音)\nkabotja (新)　　　bo:bura す\nカボチャ (新)　　ボオ ブラ\nkabotja <新>　　　bo:bura-\nkabotja <新>　　　nabakin (bo: fuura)\nkabotja <新>　　　bo: bura\nkabotʃa (新)　　　bobura (主)\nkabotʃa <新>　　　bobura\n（以下、同様の語形と注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05695.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05695",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05695.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "7346.56",
+      "7349.07",
+      "7353.51",
+      "7356.98",
+      "7357.69",
+      "7359.28",
+      "7361.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-96　質問番号　地図番号 180　項目名 かぼちゃ 191　A 普通注記　B 除いた共通語　C 除いた特殊語　ページ (14)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7346.56　kabotɕa <e>　bo:bura\n7349.07　kabotɕa <新>　to:sen, navkin <新>\n7353.51　カボチャ <天><新><希>　ボナブゥ?\n7356.98　Kabotɕa <新>　bo'mbura\n7357.69　\"\"　bo:bura\n7359.28　kabotɕa <新>　to:sen <多く使われている>, navkin <珍しくはないが少し> , naɡaki? imaga <希> jan:ga <希>\n7361.17　カボチャ <新>　ナンバイグン、ナンバン <希・方>　ホオブゥラ <希・方>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05696.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05696",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05696.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "7363.59",
+      "7363.85",
+      "7366.34",
+      "7365.25",
+      "7365.67",
+      "7367.69",
+      "7367.61",
+      "7368.32",
+      "7372.27",
+      "7373.56"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　56-97\n\n（箱）　質問番号　地図番号　180\n　　　項目名　かぼちゃ　191\n　　　A　普通注記　　ページ　(15)\n　　　除いた共通語　除いた特殊語\n\n表ヘッダ：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n（各行の注記、数字は省略）\n・カボチャ　〈新〉　　ボオブゥ\n・〃　〈上〉　　〃\n・〃　〈新〉（ナンキンとは言わぬよ（..））　ボオブゥ\n・〃　〈乗（？）〉　bo:burd\n・〃　〈・〉　burd\n・kaboʔta　〈・〉（同村管野河でコラゴ） maykin-\n・〃　〈・〉　! boʔ:burd\n・〃　〈・〉　bo:burd, maykin(新?)\n・カボチャ　〈・〉　ボオ ブゥ\n\n（その他小さな手書き注記や括弧内の英字表記多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05697.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05697",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05697.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "7373.92",
+      "7373.98",
+      "7374.15",
+      "7381.38",
+      "7381.97",
+      "7382.58",
+      "7382.93",
+      "7383.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-98\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n質問番号　地図番号\n(180)\n項目名　かぼちゃ　191\nA　普通注記　（除いた共通語）（除いた特殊語）　ページ V61\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n（表の手書き注記）\nかぼちゃ　カボチャ〈ヤク・新〉　ボオブラ〈やっち(やっ希)〉\n〃　〈“”〉〈英〉　ボオブラ\n〃　〈“”〉〈・〉　〃\n〃　〈“”〉　ボオブラ〈昔から今までの基本語〉\nナンバン〈古〉〈希〉\n（以下、手書きの語形注記が続く）」} PMID: N/A",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05698.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05698",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05698.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "7386.56",
+      "7391.01",
+      "7391.94",
+      "7392.33",
+      "7392.65",
+      "7392.94"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　57-01\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n質問番号　地図番号　180\n項目名　かぼちゃ　191\nA　普通注記　　B　除いた共通語　　C　除いた特殊語　　ページ（17）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\nkabotsa <新・英>　（手書き注記）\nカボチャ　<新><ユゴとは言わぬ>　ボオブゥ\n〈希〉\n〈英・新〉　ボ・ブゥ\n〈希・英〉　（よそから移住してきたものが（八代部から））\nナンバーというのをきく\n〈新〉〈ユゴ〉　ボ・ブゥ\n（右欄に手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05701.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05701",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05701.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "7393.62",
+      "7394.60",
+      "7403.16",
+      "7403.21"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 57-02\n質問番号　地図番号\n項目名　かぼちゃ　191\nA 普通注記　B 除いた共通語　C 除いた特殊語　(18)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nカボチャ <新>\nカボチャ <新>\nkabot?a <ニ>\n<新><30年くらい前から一般に>\n使い始めたように思う。近頃は自分も\n使うことがある>\n(くわ:masuという人もある>\n...そのことであった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05702.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05702",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05702.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "7421.62",
+      "7650.2",
+      "7451.77",
+      "7500.43",
+      "7503.11",
+      "7523.74",
+      "8300.25",
+      "8301.19",
+      "8302.19",
+      "8303.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-03 質問番号 地図番号 180 項目名 かぼちゃ 191 A 普通注記 除いた共通語 除いた特殊語 ページ (49) ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞〈〉（ ）[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7421.62 kabotja 新 mankina? 7650.20 kabotja <新> (man kino という人もある) t50: sen 7451.77 \" <英?> 7500.43 \" <\" > bofuta 7503.11 \" <新> bo: bura 7523.74 \" (〔英〕?) kabut(a) 8300.25 \" [新], bobura [新] ju:go [ち] 8301.19 \" (先;最近言われた) ボ・オプラ 8302.19 \" <英・新> 8303.47 \" (上) その他手書き注記、破線囲いの日本語説明や矢印、消えた・なくなった等の注記あり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05703.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05703",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05703.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "8303.70",
+      "8305.73",
+      "8311.41",
+      "8320.59",
+      "8320.98",
+      "8330.58",
+      "8345.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　57-04\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）［ ］は厳密にする。\n\n（右上表）質問番号　地図番号　180\n項目名　かぼちゃ　191\nA　普通注記　　ページ　(20)\n除いた共通語　除いた特殊語\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n8303.70　かぼちゃ　<新>　　　　ボブラ（手書き）\n8305.73　\"\"　<\"\">　　　　　ju:80 <ち>\n8311.41　（取り消し線あり）\n8311.41　kabotja <最新>　　　ju'90（は半長音）<短く>\n8320.59　kabotşa <新>　　　　toigo\n8320.98　\"\" <新>　　　　　　bobura\n8330.58　\"\" <\">　　　　　　\n8345.10　\"\" <今日多く使う>　 namban / nankin（手書き）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05704.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05704",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05704.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "8350.68",
+      "8354.29",
+      "8360.39",
+      "2151.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-05\n質問番号 地図番号 180\n項目名 かぼちゃ 191\nA 普通注記\n除いた共通語 除いた特殊語 ページ (21)\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n8350.68    kabotsa <新>    bobura <ち>\n8354.29    \"  <\" >    naykwa\n8360.39    \"  <\" >    bobura\n2151.51    kabotsa (新) <小さい種類>    nankwa <大きい種類>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05705.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M180Q191/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05705",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05705.tif",
+    "source_ljc_id": "LJC-M180Q191",
+    "source_map_numbers": [
+      "180"
+    ],
+    "source_title": "かぼちゃ (南瓜)"
+  }
+]

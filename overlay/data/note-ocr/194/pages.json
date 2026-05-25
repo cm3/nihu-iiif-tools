@@ -1,0 +1,1454 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0737.94",
+      "0747.70",
+      "0779.03",
+      "0873.94",
+      "0894.61",
+      "1739.10",
+      "1816.52",
+      "2743.86",
+      "2754.11",
+      "2754.56"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-28\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〉〈）（ ）は厳密にする。\n\n質問番号　地図番号\n142S　194\n項目名　ニワ\nA　普通注記　[B]　除いた共通語　[C]　除いた特殊語　ページ ( / )\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n言う〈床の張ってある所も。くつをぬぐ所〉\n言う　町方にはない。商業、配合農（読み取り不明部分あり）\n言わない　domaという。\n言う。〈床があれば言わない。〉\n言わない〈もとは玄関の中を言った。〉\n言う。〈床が張ってあっても〉\n言わない。ウドマという。親はニワといった。\n言わない〈toriと言う〉\n言う〈（くだごし）普通はtoriと言う〉\n言う〈庭園の意の用法と並行する。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06228.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06228",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06228.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2761.77",
+      "2763.89",
+      "2764.28",
+      "2765.02",
+      "2765.66",
+      "2765.71",
+      "2771.64",
+      "2773.13",
+      "2774.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 62-29 質問番号 1425 地図番号 194 項目名 ニワ 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2) 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注] 言う。すべての土間を「にわ」とは言わない。〈出入口の土間を言う〉 の土間を言う〉 言う〈ただし家の後部の土間〉 言う〈くりば〉 言わない〈toriと言う〉 訏わない〈新語。老人はtoriと言う〉 訣う〈普通はtoriと言う〉 訣う〈普通はtoriを多く使う〉 訣う〈tori（〈通り〉ともいう）〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06229.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06229",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06229.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2782.67",
+      "2783.48",
+      "2790.38",
+      "2791.80",
+      "2794.85"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-30\n質問番号　地図番号\n1425　194\n項目名　二ワ\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(3)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( ) [ ]は厳密にする。\n\n（表見出し）　A語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C　残した語形とその注】\n\n言う。ただし作業場の意味ゆえ、床のありなし関係なし。土間ということを言うにはtoriということばあり。\n言わない　〈toriと言う〉（toriは屋内の通り路の意であろう。）\n言わなうく土間がすべてニワではない。通路になっている所をいう。\n言わない〈tori odziと言う〉\n言わない〈toriと言う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06230.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06230",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06230.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2795.72",
+      "3702.81",
+      "3702.89",
+      "3705.42",
+      "3714.27",
+      "3733.73",
+      "3737.95",
+      "3744.33",
+      "2812.96"
+    ],
+    "other_text": "62-31\n日本言語地図資料用紙　注記一覧\n質問番号　地図番号　1425　194\n項目名　ニ7\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ（4）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形【B・C残した語形とその注】\n2795.72　言わない＜家の中の土間は tori と言う＞\n3702.81　言う＜ただし作業場のことゆえ板敷でも場合によっては屋外でもいい＞\n3702.89　言う＜ただし hadanira と言う＞\n3705.42　言わない＜toriと言う＞\n3714.27　言わない＜toriと言う＞\n3733.73　言う　但し nija という\n3737.95　言う（せまい小さい場所）\n3744.33　言う＜オキャ＞\n2812.96　言わない　tsubo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06231.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06231",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06231.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3746.76",
+      "3747.91",
+      "3754.76",
+      "3756.26",
+      "3777.48",
+      "3777.86",
+      "3787.50",
+      "3795.19",
+      "4609.25",
+      "4609.54",
+      "3778.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-32\n質問番号 1425 地図番号 194 項目名 ニワ\nA 普通注記 ページ\n[B 除いた共通語]\n[C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n地点番号   A.語形とその注記 [B・C除いた語形とその注]\n3746.76   言わない　〈ロジという〉\n3747.91   言わないく　それはローズという〉\n3754.76   言う　〈ドマとも〉\n3756.26   言わない〈ロジという〉\n3777.48   言う　〈ローズとも〉\n3777.86   言わない〈ローズという〉\n3787.50   言う（ニャ）\n3795.19   言う　しうずにわ？\n4609.25   言わない　14のカード参照\n4609.54   言わない〈ヒヤシという。在方ではいう〉商業\n-3778.00  =ワ〈ローズとも〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06232.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06232",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06232.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4619.63",
+      "4637.68",
+      "4639.10"
+    ],
+    "other_text": "日本方言地図資料用紙 注記一覧 62-33\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）［　］は厳密にする。\n質問番号　地図番号\n（手書き）1425　194\n項目名　ニワ\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n（ページ）(6)\n\n（表ヘッダ）地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n言わない。商業。言う場合もある（農家などで）。\n言わない。それは tonokut[j]i という。tono- kut[j]i は不断の出入口（玄関）で、その土間（せまい）に履物を脱ぐ。死者、結婚式泊の家、改まった客の出入する出入口は genkwan と云って、座敷への出入口であり、そこには一尺巾の jikidae（式台か）がある。\n言う(?)〈家の外の土間（軒下の）を oniwa という〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06233.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06233",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06233.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4647.69",
+      "4647.87",
+      "4648.42",
+      "4648.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-34\n質問番号 地図番号 1425 194\n項目名 ニワ\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\n(7)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n4647.69　言う　〈但し to:iriとも言う〉\n4647.87　言う　〈流し、かまどの おである〉\n4648.42　言う　昔言った。今は板を張ってある。別に作業所を作る柄になった。\n4648.59　言う　tsukuri niwaというのは土間の… 土に水と塩分を入れて固め、土をたたいて作ったものでそこ で作業をした。今は床を張ってしまった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06234.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06234",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06234.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4653.84",
+      "4654.52",
+      "4657.64",
+      "4657.88",
+      "4659.01",
+      "4659.85",
+      "4665.87",
+      "4666.42",
+      "4666.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-35\n質問番号　地図番号　1425　194\n項目名　ニワ\nA 普通注記　ページ (8)\n[B 除いた共通語]\n[C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n4653.84　言う〈詳しくいうと utinoniwa となる〉\n4654.52　言う　おしろをしく、勝手場であり、餅搗き、その他の作業をする。\n4657.64　言う(土間となっている玄関)〈玄関をさす〉\n4657.88　言う(但し今は板張り。)\n4659.01　言う〈ただし今は土間は殆んどない〉\n4659.85　言めない〈to i〉という\n4665.87　言う〈古〉〈然し今はこういう場所は存在しない〉\n4666.42　言めない　それは toinoma という。\n4666.99　言めない　くtoiri noma という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06235.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06235",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06235.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4667.33",
+      "4668.27",
+      "4672.19",
+      "4675.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-36\n\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n質問番号　地図番号\n142S　194\n項目名　ニ7\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ　(9)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n(to:iri no ma かどう云うところを　さすかはっきりしない。)\n4667.33　言わない　ドマヒ云う。\n4668.27　言わない　domaと云う\n4672.19　言う（但し、玄関と茶の間の間にある\n土間であって、そこには味噌桶\n目などが置いてあり、玄関と茶の間\nの通路にもなる。）\n4675.45　言う　但し近頃は縁を張ったところもある。\n要するに屋内で作業をする処である。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06236.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06236",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06236.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4675.62",
+      "4676.39",
+      "4676.67",
+      "4678.71",
+      "4678.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-37\n質問番号 1425 地図番号 194\n項目名 ニワ\nA 普通注記 ページ (10)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n言う。 但し玄関をいう。\n言わない。 toinomaという。\n言わない。 domaという。農家ではなく、旅館業である。\n言わない。 tsiteji noma, deronnomaなどという。\n昔は言った。床の有無にかかわらず、茶の間の次の間で、ふだんの居間として、作業のある時は作業をするところを古く「にわ」と言った。今はここを",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06237.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06237",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06237.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4684.77",
+      "4685.10",
+      "4685.72",
+      "4685.88"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　62-38\n質問番号　地図番号\n142S　194\n項目名　ニワ\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n台所と言っている。\n4684.77　言わない　それは naja と言う。\n4685.10　言う（to:ri とも言う。to:ri と niwa の用法の差は不明。）\n4685.72　言わない＜町家では igotoba と言う。在の農村では niwa と言うようである。＞ 被調査者は商業地に住む。\n4685.88　言う　ただし nija や pa は農家の屋内の土間になっている作業場の意。niwa は tsuboniwa（庭園）を意味。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06238.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06238",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06238.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4686.02",
+      "4686.96",
+      "4689.62",
+      "4694.26",
+      "4695.19",
+      "4695.33"
+    ],
+    "other_text": "62-39 日本言語地図資料用紙 注記一覧 質問番号 地図番号 1425 194 項目名 =7 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (12) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] する借用語。 言う(希)（昔はそういう部分があったが、今は 被調査者宅にはなく、今は「農舎」 で稲の作業等を行う。） 言う 但し今は縁板を張った。 言わない <domaという>（同じ町中でも 「言う」ところがある。） 言う。 コンクリートを張り 常に土間である。 言わない 商業 旧市街区内では言わない。 旧市外の農家では言う。 言わない それは doma",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06239.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06239",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06239.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4696.82",
+      "4697.92",
+      "4698.15",
+      "4703.88",
+      "4704.96",
+      "4712.16",
+      "4714.22",
+      "4723.14"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-40\n質問番号　地図番号　142S　194\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (13)\n項目名　二ワ\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞( )［　］は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4696.82　言う　〈昔は土間。今は板の床がはられている。〉\n4697.92　言わない　（to:iriという）\n4698.15　言 ~~ 〈昔は言った〉\n4703.88　言う　ただし、niwako（ウズミワ？）\n4704.96　言う　〈内庭〉\n4712.16　言う　〈コンクリートの所であっても家の中で床の張ってないところであればニワである〉\n4714.22　言う　〈外のものと区別して特に e:inakano- niwa（家中のニワ）とも言う〉\n4723.14　言う　〈niwa〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06240.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06240",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06240.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4724.00",
+      "4724.75",
+      "4730.45",
+      "4731.85",
+      "4740.93",
+      "4742.37",
+      "4744.10",
+      "4750.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-41\n質問番号 地図番号 1425 194\n項目名 ニワ\n(A) 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] ページ (14)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4724.00　言う　書かない(?) -> (utji n+twaとは言う)\n4724.75　言わない (農家でないのでよくわからない)\n4730.45　〈言う〉〈共〉(普通は=ニヤという)\n4731.85　言わなう(ニヤという)\n4740.93　言わないく〈家の造りから土間はない。\n4742.37　言う (143に対しては特にウチ=ニワと言うことがある.)\n4744.10　言わない〔言う〕\n4750.32　言わない コマヤという",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06241.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06241",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06241.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "4760.54",
+      "4780.64",
+      "5472.34",
+      "5538.33",
+      "5538.49",
+      "5538.50",
+      "5538.63"
+    ],
+    "other_text": "62-42\n日本言語地図資料用紙　注記一覧\n質問番号　地図番号\n1425　194\n項目・名　ニワ\n(A) 普通注記　ページ (15)\n[B] 除いた共通語\n[C] 除いた特殊語\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n4760.54　言わない　<doenと言う>\n4780.64　言わない　<de:doqoと言う>\n5472.34　言う　ウシネワ <?>　<土間はウシネワである>\n5538.33　<nibaと言う>　b = b w n 間音\n5538.49　言う　genkwa (玄関) のこと\n5538.50　言う　土間をいう。\n5538.63　言う　一般の土間のことではない。\n家の入口の土間は gagisita と書かれている\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06242.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06242",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06242.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5549.55",
+      "5566.95",
+      "5579.10",
+      "5588.02",
+      "5595.89",
+      "5597.78",
+      "5598.53",
+      "5604.28",
+      "5604.52"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-43\n質問番号　地図番号　1425　194\n項目名　=7\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n(16)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5549.55　言わない〈tsutst+ nobaという〉\n5566.95　言わない〈ゲンカという〉\n5579.10　言わない〈ドオジという。〉\n5588.02　言わない（ドオジという。）\n5595.89　(言う)\n5597.78　言う〈土間になっている所は、すべて庭という〉\n5598.53　(言う)\n5604.28　言う　但し pja:\n5604.52　言う〈希〉(古く言ったが、十年おきに土間はなくなった。みんな縁張りをしたからである。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06243.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06243",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06243.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5605.11",
+      "5605.57",
+      "5608.51",
+      "5611.39",
+      "5611.81",
+      "5612.22",
+      "5614.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    62-44\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n質問番号　地図番号\n(手書)1425    194\n項目名\n=7\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(17)\n\n表見出し：\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n従ってこのことばは子供達には通じないという。\n調査もれ\n言う（農家で言う）\n（nijaと言う）（窯屋か？）\n言わない（農家ではそれをdomaという。）\n（被調査者は町家である。）\n言う。但し玄関を言う。1415参照\n言う。但し玄関の土間。\n言わない（それは doma という）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06244.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06244",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06244.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5614.62",
+      "5615.20",
+      "5615.28",
+      "5617.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-45\n\n質問番号 1428  地図番号 194\n項目名 ニワ（手書）\nA 普通注記   [B 除いた共通語]   [C 除いた特殊語]   ページ (18)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n（手書きの注記）\n言う。新しい家にはない。（床を張るから）\n言う。現在多くは床板を張っている。\n言う。〈土間の家は少くなった。〉\n言う。〈屋外からは sonde tobo: を通り o:to（大戸）をくぐり、 nakatobo: の…〉\no:to/sondetobo:（図）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06245.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06245",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06245.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5621.43",
+      "5623.42",
+      "5623.85",
+      "5624.05",
+      "5625.32",
+      "5625.91"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-46\n質問番号　地図番号\n1425　194\n項目名　二ワ\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(19)\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記のく >< () [ ] は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n5621.43　言う　但し縁を張ってある。\n5623.42　言わない　〈それは de:doko〉\n5623.85　言わない　〈daidoko〉\n5624.05　言う　〈昔、脱穀等の作業を行った。そこには炉もあった。〉\n5625.32　以前はそう言った。今は皆縁を張っている。\n5625.91　言わない　〈それは de:ri という。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06246.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06246",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06246.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5631.26",
+      "5631.75",
+      "5632.28",
+      "5632.83",
+      "5633.96",
+      "5636.49",
+      "5641.07",
+      "5641.94"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-47\n質問番号　地図番号\n1425　194\n項目名　ニワ?\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ　(20)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞( ) [ ]は厳密にする。\n\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n言わない　<dodzziと言っている。>\n言わない　<それは roji と言う>\n言わない　<それは daedoko と言う>\n言わない　<daidoko>\n言わない　<daedokoro>\n言わない　<ドマ>\n言わない　<daidokoro という>\n言わない　<to:iriと言っている>\n\n（表から裏へ通じる通り歩きの土間のことである。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06247.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06247",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06247.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5646.71",
+      "5652.06",
+      "5652.37",
+      "5652.81",
+      "5653.42",
+      "5654.94",
+      "5657.78",
+      "5662.78",
+      "5664.51",
+      "5665.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-48\n質問番号　地図番号\n1428　194\n項目名　二7\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (2/1)\n\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5646.71　言わない　<ダイドコ、ダイﾄﾞｺ?>\n5652.06　言わない　<それは daidokoro と言う>\n5652.37　言わない　<それは daedoko>\n5652.81　言わない　<それは daidoko>\n5653.42　言わない　<それは daidoko>\n5654.94　言わない　<ダイドコ>\n5657.78　言わない　<ダイドコ>\n5662.78　言わない　<daedokoro と言っている>\n5664.51　言わない　<daidoko と言う>\n5665.46　言わない　<ダイドコ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06248.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06248",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06248.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5667.24",
+      "5671.00",
+      "5671.36",
+      "5671.38",
+      "5671.94",
+      "5672.52",
+      "5672.67",
+      "5674.06",
+      "5676.28",
+      "5677.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-49\n質問番号 1425 地図番号 194 項目名 ニ7\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (22)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（［　］は厳密にする。\n\n地点番号　A語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5667.24 言わない〈ダイドコロ〉\n5671.00 言わない〈それは de:idoko〉\n5671.36 言わない〈tsukijaという〉\n5671.38 言わない〈そこは daidoko〉\n5671.94 言わない〈通りぬけるところは roji〉\n5672.52 言わない〈daidokoと言う〉\n5672.67 言わない〈それは de:idoko〉\n5674.06 言わない〈デヱドコ〉\n5676.28 言わない〈daidokoroという〉\n5677.85 言わない〈ダイドコロ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06249.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06249",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06249.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5678.59",
+      "5678.71",
+      "5680.34",
+      "5681.41",
+      "5682.34",
+      "5683.61",
+      "5684.11",
+      "5685.02",
+      "5685.37"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-50　質問番号　地図番号　1425　194　項目名　=7　A 普通注記　ページ (23)　[B 除いた共通語]　[C 除いた特殊語]　▶ A・[B]・[C]ごとに別紙を使用する。　▶ その中での情報は地点番号順に並べる。　▶ 注記の＜＞( )［ ］は厳密にする。　地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]　5678.59　言わない <daidokoroという>　5678.71　言わない <台所という>　5680.34　言う ニワ 《昔は dɯi といった》　5681.41　言わない <dogi - 土地> （と言っているそうだ）　5682.34　言わない <toiriと言う>　5683.61　言わない <デエドコという>　5684.11　言わない <それは daidokoro>　5685.02　言わない <de:idokoroという>　5685.37　言わない <daidokoroとい>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06250.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06250",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06250.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5686.31",
+      "5687.59",
+      "5688.01",
+      "5688.74",
+      "5689.98",
+      "5690.27",
+      "5690.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-51\n質問番号 地図番号 1425 194\n項目名 二7\nA 普通注記 ページ\n[B 除いた共通語]\n[C 除いた特殊語] (24)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n5686.31    言わない <deido,koro-da ido/koro という>\n5687.59    言わない o'da idokoro\n5688.01    言わない =ニワをはいたもので台所をハクナ。\n台所 = 土間\n5688.74    言わない <台所か土間 という>\n5689.98    <言わない> <土間> のことを <da,idokoro>\n5690.27    言う <庭まで通る家の中の通路>\n5690.96    言う <niwa 家の中, noki 裏の外, omote 表の外>\n(以下余白)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06251.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06251",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06251.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5691.37",
+      "5692.53",
+      "5695.47",
+      "5695.61",
+      "5696.13",
+      "5697.20",
+      "5697.24",
+      "5698.30"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-52\n質問番号　1425　地図番号　194　項目名　二7\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　(25)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n5691.37　言わない　<toiriと言う>\n5692.53　言わない　<toirimaと言う>\n　(表から裏に通りぬけるようになっている。)\n5695.47　言わない　deidoko\n5695.61　言わない　<ドジという>\n5696.13　言わない　<土間はダイドコという>\n5697.20　言わない　<<doma^>と言う>\n5697.24　言わない　<ダイドコロという>\n5698.30　言わない　<台所>と言う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06252.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06252",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06252.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5698.91",
+      "5699.89",
+      "5712.70",
+      "5720.71",
+      "5722.37",
+      "5741.66",
+      "5752.94",
+      "5770.11",
+      "5770.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-53 質問番号 地図番号 1425 194 項目名 =7 (A)普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (26)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n5698.91 言わない daidoko\n5699.89 言わない ?kiwabaという\n5712.70 土間のことも言う〔言う〈古〉〕\n5720.71 言う 土間の場合は「ウチノナカノニワ」と言う。\n5722.37 言わない〈土間 doma = de : dogo（台所）〉\n5741.66 言わない (daidokoroと言う)\n5752.94 言わない daidokoroと言う\n5770.11 言わない ?ntwabaという\n5770.46 言わない ?ntwabaという",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06253.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06253",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06253.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5780.57",
+      "5781.65",
+      "5790.64",
+      "5790.79",
+      "5791.07",
+      "5791.23",
+      "5791.68",
+      "5792.02",
+      "5792.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-54\n質問番号　地図番号\n1425　194\n項目名　ニ7\n(A) 普通注記　ページ (27)\n(B 除いた共通語)\n(C 除いた特殊語)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）〔　〕は厳密にする。\n\n地点番号　A語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5780.57　言わない。 niwabaという\n5781.65　言わない。〈nja:baと言う〉\n5790.64　言わない。〈piaba〉\n5790.79　言わない。〈domaと言う〉\n5791.07　言わない。〈ra:ba〉\n5791.23　言わない。　土間のことを〈niwaba〉と言う。\n5791.68　土間を nja:ba という。\n5792.02　言わない。〈nja:baという〉\n5792.62　nja:ba〈古〉といったものだ 今は doma\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06254.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06254",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06254.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5793.20",
+      "6267.84",
+      "6286.68",
+      "6287.71",
+      "6338.99",
+      "6339.37",
+      "6339.44",
+      "6358.43",
+      "6368.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-55\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n質問番号 地図番号 1425 194\n項目名 =17\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (28)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n言わない <nja:baという>\n言わない do:ziという\n言わない do:ziという\n言わない (家の中の土間は do:ziという) (露地の訛りであろうか)\n<言う>\n<言わない> <土間＝ナカエ>\n言わない <土間＝ナカエ>\n言う <ドマ又は＝ワと言う>\n言う <ウチ＝ワ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06255.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06255",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06255.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6378.05",
+      "6384.25",
+      "6401.89",
+      "6402.53",
+      "6402.94",
+      "6403.60",
+      "6410.45",
+      "6410.77",
+      "6411.33"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-56\n質問番号　地図番号　1425　194　項目名　=7　(A)普通注記　ページ (29)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nド＝ワ\n言う〈く古〉\n〈言〉〈土間＝オシワ〉\n〈言〉〈土間＝オシ=ワ〉\n〈言〉〈土間＝ウシ=ワ〉\n(旧　庭?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06256.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06256",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06256.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6411.66",
+      "6411.80",
+      "6412.12",
+      "6412.48",
+      "6412.91",
+      "6420.34",
+      "6420.58",
+      "6420.60",
+      "6421.26",
+      "6421.82"
+    ],
+    "other_text": "日本音語地図資料用紙　注記一覧　62-57\n質問番号　地図番号\n1429　194\n項目名　＝27\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ（30）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）［　］は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n言わなう〈ウシ＝ワと言う〉\n言わなうく土間＝オシワ〉\n言う　〈但しオシワと言う〉\n〈言う〉\n言わなう　usthiwaという\n言わなうく土間＝オシワ〉\n言わなうく土間＝ウシノワ〉\n言わない、く土間＝ナカエフ\n言わなうく土間はオシワ〉\n言わなう　osthiwaという",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06257.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06257",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06257.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6422.16",
+      "6422.93",
+      "6429.61",
+      "6430.26",
+      "6430.53",
+      "6432.22",
+      "6440.25"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-58\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n質問番号　地図番号\n1428?　194\n項目名　三ワ\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(3/1)\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6422.16　言わな↷うく土間＝ウシノワ？\n6422.93　言わな↷うく土間はオチニワ〈新〉オシノワ\n〈古〉\n6429.61　言わないく土間というのは、家の中で床板がなくて、仕事をしたり、チェプルを置いてごはんを食べる処\n6430.26　言わない　nakaiという\n6430.53　言わない　〈土間＝古くはナカエ〉\n6432.22　言う　〈オスノワ〉〈オツノワ〉という\n6440.25　〈言う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06258.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06258",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06258.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6440.67",
+      "6443.61",
+      "6452.83",
+      "6459.29",
+      "6460.10",
+      "6462.59",
+      "6473.04",
+      "6482.75",
+      "6486.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-59\n質問番号　地図番号　1428　194\n項目名　=7\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(32)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6440.67　〈言う〉\n6443.61　言う。普通はナカニワという。\n6452.83　言う。土間どまとも言う。\n6459.29　言わない　ドマという。\n6460.10　言う。 utjipniwaとも\n6462.59　言う　〈〈ナカニワ〉が多く言う。〉\n6473.04　言う（大きな家に限る）\n6482.75　言う　〈doma〉ともいう由。\n6486.07　言う　被調査者は商家であるが、百姓家と同じようにいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06259.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06259",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06259.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6487.43",
+      "6496.56",
+      "6497.00",
+      "6497.77",
+      "6497.90",
+      "6515.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞(　)(　)[　]は厳密にする。 日本言語地図資料用紙 注記一覧 62-60 質問番号 地図番号 142S 194 項目名 二7 A 普通注記 ページ (33) [B 除いた共通語] [C 除いた特殊語] 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6487.43 言う。商店ではバセニワ、ナカニワ、オクニワなどと区別する。 6496.56 言う。 utsjiniwaとも言う utsjiniwa 6497.00 (内庭)言う 6497.77 言う、特に言うときは utfjiniwa 6497.90 (内庭)言う 6515.70 言う〈床のはってないところが見つてniwaではない。〉（最近は殆ど見られない） いが、もみがらをしいて、その上にむしろを...",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06260.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06260",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06260.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6523.06",
+      "6556.60",
+      "6575.66",
+      "6576.32",
+      "6576.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-61\n質問番号　地図番号　1425　194\n項目名　二7\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (34)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6523.06　ならべた部屋がある。それを　ot(j)imaという。\n6556.60　言う　くただし、この言い方は新しい、古く\n　　　は gejaと言った。　〈オモテニワ（裏へ行けない）〉\n　　　トオリニワ（裏へ抜ける道）\n6575.66　言　くしねにwa とい必ず utfi をつける。\n6576.32　言う　〈utfi niwaである〉\n6576.56　言う　但し usupi:waとはいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06261.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06261",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06261.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6586.27",
+      "6602.62",
+      "6603.08",
+      "6603.52",
+      "6604.38",
+      "6606.38",
+      "6607.84",
+      "6608.22",
+      "6608.69",
+      "6603.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-62\n質問番号 地図番号 1425 194\n項目名 =17\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (35)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n6586.27　言わない　うくウチ＝ワ といっている。\n6602.62　言わない　<jitaniwaと言う。>\n6603.08　言わない　<土間という>\n6603.52　言わない　○○? と言う。\n6604.38　言わない　<ドジという>\n6606.38　言わない　<doma>という\n6607.84　言わない　<doma>という。\n6608.22　言わない　<ドマという>\n6608.69　言わない　と答え（jitanwaと言う）と言う。 補足する。\n\n6603.24　言わない。 イドコ 不適当とみて言わないとした。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06262.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06262",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06262.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6611.68",
+      "6613.54",
+      "6614.04",
+      "6615.09",
+      "6616.93",
+      "6617.75",
+      "6617.99",
+      "6618.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-63 質問番号 地図番号 142S 194 項目名 ニワ A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (36)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく < > ( ) [ ] は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6611.68　言わない <to:riと言う> (通り抜ける通路になっているから)\n6613.54　言わない　de:doko\n6614.04　言わない　<ドジという>\n6615.09　言わない　<デェドコという>\n6616.93　言う　<特に〈utjiniwa〉と言う>\n6617.75　言う　(但し、外 = 7 に対しては差別してウチ = ニワという。)\n6617.99　言う　<くに(iniwa)とも言う。>\n6618.46　言う　<ヌドマともいう。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06263.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06263",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06263.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6618.51",
+      "6621.34",
+      "6626.06",
+      "6627.12",
+      "6628.23",
+      "6630.58",
+      "6631.05"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-64\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n質問番号 地図番号\n1425 194\n項目名 ニワ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (37)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6618.51　言う　〈[utjino niwa]とも言う。〉\n6621.34　utjiniwaと言う。（複合形としてはniwaが用いられるが、単独では言わない。）\n6626.06　言う　〈家の外の庭のことは[omotendonniwa]又は[omote]と言う。〉\n6627.12　言わない　〈[doma]という〉\n6628.23　言う　〈古〉\n6630.58　言わない　〈町ではdomaといい農家ではrojiと言う〉\n6631.05　言わない　do;giと言う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06264.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06264",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06264.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6631.53",
+      "6639.43",
+      "6641.97",
+      "6649.28",
+      "6655.97",
+      "6657.54",
+      "6657.96",
+      "6667.81",
+      "6686.75",
+      "6697.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-65\n(右上箱) 資問番号 1425 地図番号 194 項目名 ニワ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (38)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n6631.53 言う utjiniwa ともいう。\n6639.43 言わない ([tataki] と言う。)\n6641.97 言わない dido という。\n6649.28 言わない。 (土間は dozi と言う。)\n6655.97 言う. to nawa という。「通り庭」の意味という。\n6657.54 言わない く〈d edo〉という。\n6657.96 言わない d edo と言う。\n6667.81 言わない tsubo と言う。\n6686.75 言わない 土間は toboi と言う。\n6697.39 usun piwa\n(以下行は画像端に続く)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06265.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06265",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06265.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6697.49",
+      "6697.59",
+      "6698.20",
+      "6698.61",
+      "6700.25",
+      "6700.48",
+      "6701.01",
+      "6701.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-66\n質問番号 1425  地図番号 194  A 普通注記  ページ (39)\n項目名 ニワ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n地 点 番 号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6697.49    usupiwa    usuna <略したことば>\n6697.59    usuna\n6698.20    usupiwa という。そこに臼を置くから。\n6698.61    usuna\n6700.25    (nijabaと言う。)(domaと言はず、)\n6700.48    言わない。(domaと言う。)\n6701.01    言わない。「には」で仕事をすることはあっても\n        仕事場を「には」とは言えない。\n6701.46    (nijabaと言う。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06266.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06266",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06266.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6702.21",
+      "6710.55",
+      "6711.12",
+      "6720.23",
+      "6720.67",
+      "6721.33",
+      "6730.27",
+      "7259.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-67\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n（右上のボックス）費問番号 地図番号 1428 / 194 項目名\n普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (×0)\n表ヘッダ：地点番号　A　語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6702.21  niwabaと言う\n6710.55  言わない、〈土間〉のことを[daidokoro]と言う。\n6711.12  (niwabaと言う。)\n6720.23  言わない。「土間」を〈daidokoro〉「台所」を...\n[katte]と言う。\n6720.67  言わない「土間」を[daidokoro]と言う。\n6721.33  <言わない> 「土間」は[deidokoro]と言う。\n6730.27  言う〈昔〉\n言わない〈現在〉\n7259.98  言う: utsiniwa いう",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06267.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06267",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06267.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "7266.60",
+      "7269.96",
+      "7279.93",
+      "7289.31",
+      "7302.66",
+      "7302.87",
+      "7303.61",
+      "7311.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　62-68\n質問番号　地図番号　（手書き）1425　194\n項目名　（手書き）ニワ\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ（4/1）\n\n表ヘッダ：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n（行の注記、番号を除いた部分の写し）\n言わない。（や、疑わしいが、家の構造にもよる）\n言う（らしい）\n言う、niwaja 又は nakae という。\n言う、ut (= niwa 又は naka niwa)\n言わない。土間は naka i という。\n言う。内外を区別しないと答う。\n言う。〈普通は doma と言う。niwa no ...〉\nsumi などとも言う。\n〈言わない〉\n〈言う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06268.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06268",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06268.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7322.81",
+      "7329.39",
+      "7331.27",
+      "7331.41",
+      "7332.46",
+      "7332.97",
+      "7333.51",
+      "7338.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-69\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n【質問番号】 1425　【地図番号】 194\n項目名 =7\nA 普通注記　ページ (42)\n[B 除いた共通語]　[C 除いた特殊語]\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7322.81　<言わない>　<玄関(genkan)看土間という>\n7329.39　言う　<昔は nu wa といった。>\n7331.27　<言う>\n7331.41　言う　ただニワといわないで家の中の土間は =ニワナカという\n7332.46　<言う>\n7332.97　言う　(者)=ワという人もある。\n7333.51　<言う>\n7338.48　言う　<siki de mata ge te haitta>　tokoro o juwin desu と説明していた。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06269.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06269",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06269.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7339.27",
+      "7342.12",
+      "7342.76",
+      "7349.86",
+      "7351.09",
+      "7361.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-70\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく( )[ ]は厳密にする。\n\n質問番号　地図番号\n1428　　194\n項目名　ニワ\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(43)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n言う　<irikutgi kara oku i tsuzui>\ntoru doma o ju: tori masai\n<ki nanka we toru toko mo soidasurai>\n\n言う　〈家の中の土間〉\n\n言う　do ma = niwa\n\n言う　(セメントなどでかためておき、荷物などを置くに使うのは doma という用語)\n\n言う　domaとも言う\n\n言わない　daidokoと言う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06270.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06270",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06270.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7362.67",
+      "7363.85",
+      "7370.16",
+      "7371.93",
+      "7372.03",
+      "7372.27",
+      "7374.75",
+      "7375.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-71\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n資問番号 地図番号\n1425 194\n項目名 三7\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(14)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7362.67　言う　ニワヤ　どちらも言う\n7363.85　〈農家ではニワヤという。〉\n7370.16　言わない　nakaeという\n7371.93　言う　utsiniwa\n7372.03　ニワヤと言う\n7372.27　言わない　〈タタキということがある〉\n7374.75　言わない。〈ダイドコという。〉〈炊事場と土間〉\n7375.30　言わない。〈doma〉という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06271.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06271",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06271.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7375.37",
+      "7375.96",
+      "7381.47",
+      "7381.97",
+      "7385.61",
+      "7385.84",
+      "7386.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　62-72\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞（　）[　]は厳密にする。\n質問番号　地図番号　1428　194\n項目名　ニワ\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ(×5)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n言わない〈doma〉という。\n言わない〈domaという〉\n言う　ウチ＝ワともいう。ツボとは云わない。\n言う〈ニワ〉ともに用う〈然し戸外の…〉\n言わない〈domaという。〉\n言わない〈domaと言う〉\n言わない〈都会地では[doma]というが　田舎では[niwa]という。〉\n仕事場もニワということもある。\n商業。聞いたことがあるということか？",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06272.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06272",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06272.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7386.63",
+      "7390.26",
+      "7391.01",
+      "7392.45",
+      "7393.62",
+      "7394.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-73\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）［　］は厳密にする。\n質問番号 1425  地図番号 194\n項目名　ニワ\nA 普通注記  ページ (46)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7386.63　言わない　〈ドマの語を使う〉\n7390.26　言う　〈玄関から入ったところの土間を特に =ニワというのが基本であるが〉\n7391.01　言う、但し家の入口の土間のことをいう。\n7392.45　言う（=ニワとはかまどの附近の土間を主として\n　　　言い。玄関の土間はセヤリコミと\n　　　いうのが基であるが、全体をニワと\n　　　いうこともある。）\n7393.62　言わない〈ドマ　とい〉\n7394.60　イエ シニワと言う　ドオシとも。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06273.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06273",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06273.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7394.85",
+      "7395.09",
+      "7395.25",
+      "7395.63",
+      "7395.88",
+      "7396.16",
+      "7396.53",
+      "7406.53",
+      "7411.61",
+      "7412.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-74\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n質問番号　地図番号　1425　194　項目名　ニワ　(×7)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )[ ]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n言わない　<do:giという>\n言わない　do:giという。\n言わない　do:gi（土間）という。\n言わない　<do:giと言う>\n言わない　<do:giという>\n言わない　<do:giという>\n言う　<昔は umigomi といった。>\n言わない　<domaという>\n言わない　<domaという>\n言う　<orija の をいう…>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06274.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06274",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06274.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7430.15",
+      "7430.80",
+      "7431.08",
+      "7431.13",
+      "7431.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-75\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）［　］は厳密にする。\n\n質問番号　地図番号\n1425　194\n項目名　二ワ\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ (48)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]\n7430.15　希、言う。＜80才以上の老人はみな niwa という。それ以下の者では mutsipiwa ということが多い。＞\n7430.80　言う。＜143Sと区別して mutsipiwa ともいう。＞\n7431.08　言う（近頃は doma という方が多い由。）\n7431.13　言う（tsuki piwa といっている由。）（＜土作…＞）\n7431.67　言わない（？）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06275.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06275",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06275.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "7431.82",
+      "7432.95",
+      "7440.69",
+      "7450.20",
+      "7461.77",
+      "7470.72",
+      "7502.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-76\n質問番号 142S   地図番号 194\n項目名 =7\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(49)\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7431.82 言う <doma が ふつう。時に tsuki-nuwa という。>\n7432.95 言う <ただし nuwa>\n7440.69 言う <家屋の出入口を niwa no kutsi という。そこから台所の方まで niwa に なっている。>\n7450.20 言う。(nuwaという人もある。32年調)\n7461.77 nuwaと言う。\n7470.72 言う <但し utçi niwa と言う>\n7502.22 言わない。(言う人もある。しかし自分は言わない) 商業",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06276.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06276",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06276.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "7503.11",
+      "7504.11",
+      "7513.43",
+      "7522.48",
+      "7523.30",
+      "7659.31",
+      "8248.18"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-77\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\nA 普通注記  [B] 除いた共通語  [C] 除いた特殊語  ページ(50)\n項目名 =ワ\n\n表ヘッダ: 地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n言わない〈ドマという〉\nusuna〈古い。ただし現在は＝ワと言う。〉\n言わない〈ドダン（土土壇）という〉\n言う。〈家の前を＝ワというから、はっきり土間をさすときは、ウチ＝ワという〉\n言う。〈正しくはウチ＝ワだが＝ワでも通じる〉\n言わない。土間がない。\n言わない。〈但し手打の浜の方では niwa という。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06277.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06277",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06277.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "8300.25",
+      "8301.19",
+      "8302.55",
+      "8302.91",
+      "8303.13",
+      "8303.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 62-78 質問番号 1425 地図番号 194 項目名 ニワ A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (5/) 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C残した語形とその注] 8300.25 言う (domaは家の中の敷物などを貯蔵しておく所) 8301.19 言う <台所 家の中の通路> を =ニワという 8302.55 言わない 土間のことはドオシジという(この辺の農家は土間はないのでドオシジという語をあまり使わないが) 8302.91 ウチ=ニワという 8303.13 言わない doziという 8303.47 言う (極めて劣性) <基本的にはドオシジを...>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06278.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06278",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06278.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "8303.70",
+      "8304.66",
+      "8305.40",
+      "8305.73",
+      "8305.76",
+      "8306.42",
+      "8311.63",
+      "8312.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-79\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n（右上ボックス）質問番号 地図番号 142S 194 項目名 二7 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (52)\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n（手書き行）\n8303.70　言わない　〈doizi〉という\n8304.66　単に＝ニワとは言わない。くナカニワと言う〉\n8305.40　言わない　〈doizi〉という。\n8305.73　言う　〈naka niwaと普通いう。〉\n8305.76　〈nakanirwa〉　〈do:zi〉とも\n8306.42　言わない　〈doziという〉\n8311.63　usun niwa\n8312.33　〈usunuuwaという〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06279.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06279",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06279.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "8313.72",
+      "8313.84",
+      "8313.88",
+      "8314.52",
+      "8315.46",
+      "8321.58",
+      "8323.59",
+      "8324.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-80\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号　地図番号\n1425　　　194\n項目名　=7\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(53)\n\n表ヘッダ：\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n<usuniwa e iu>\n<usuniwa>という。ただし[niwa]とは言わない。\n言わない。<domaという。>\n言わない。<domaという。>\n言わない。(domaを使う。)\n<usun niwaという。>\n言う〈普通. nakan niwa e iu〉\n言う。〈但し、ナカニワ、という。〉（ただ\"ニワ\"とは言わない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06280.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06280",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06280.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "8324.83",
+      "8325.03",
+      "8331.98",
+      "8332.42",
+      "8332.59",
+      "8333.03",
+      "8333.79",
+      "8333.92",
+      "8334.25",
+      "8334.63"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-81\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号\n1425　194\n項目名　＝7\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(54)\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n8324.83 nakan niwa という。単に「にわ」とは言わぬ。\n8325.03 言わない。 <nakaeという。>\n8331.98 usuniwaと言う。\n8332.42 usun niwa\n8332.59 <donuwa>\n8333.03 do?niwa\n8333.79 <do2niwaという> (do2niwaは道具庭の義)\n8333.92 do2niwa\n8334.25 <naka niwaという。>\n8334.63 (naka niwa又はdo2niwaを言う)。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06281.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06281",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06281.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "8335.11",
+      "8335.83",
+      "8341.12",
+      "8342.51",
+      "8342.69",
+      "8343.97",
+      "8345.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-82\n質問番号　地図番号　1428　194　項目名　=7\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (55)\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（ ）［ ］は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nは dotɔfiniwa の声門閉鎖音らしい。　ただニワとは言わない。\nnakan iwa <今> <doɟiとも>\n<doɟi niwaと言う。>　単にニワとは言わない。\n言わない (domaと言う。)\n<u?niwa>\n言う <詳しくは u2niwa, do2niwa-古と言う。>\nusu?pi niwa\n言わない <domaという。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06282.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06282",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06282.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "8350.68",
+      "8353.63",
+      "8354.14",
+      "8362.81",
+      "8363.51",
+      "8364.33",
+      "8372.87",
+      "8373.43",
+      "0340.00",
+      "2067.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-83\n質問番号　地図番号　142S　194\n項目名　二ワ\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(56)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n8350.68    nuwa\n8353.63    usu niwa\n8354.14    do?niwa    道具庭の義\n8362.81    <kuiniwa>　（ウス　庭？）\n8363.51    <naka niwa>\n8364.33    usu nuwa\n8372.87    <naka niwa>\n8373.43    言わない　◎土間はdo:zi~do:I\n0340.00    言わないくdu?;と呼ぶ\n2067.52    <言わない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06283.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06283",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06283.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "2072.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-84\n質問番号　地図番号\n1425　194\n項目名　=7\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(57)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n2072.20　<言わない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06284.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M194Q142/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06284",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06284.tif",
+    "source_ljc_id": "LJC-M194Q142",
+    "source_map_numbers": [
+      "194"
+    ],
+    "source_title": "ニワを“土間”の意味で使うか"
+  }
+]

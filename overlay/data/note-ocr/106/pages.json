@@ -1,0 +1,1977 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0716.46",
+      "0789.95",
+      "0840.33",
+      "0894.61",
+      "0896.22",
+      "1699.14",
+      "1744.60",
+      "1747.04",
+      "1761.74"
+    ],
+    "other_text": "A・(B)・(C) ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<> () [] は厳密にする。 日本言語地図資料用紙 注記一覧 25-86 質問番号 地図番号 106 項目名 顔 057 A 普通語注記 ページ (1) 見出し: 地点番号 / A 語形とその注記（B・C 欠いた語形とその注）/ A 注のない語形（B・C 残した語形とその注） 記入: ツラ〈右〉 カオ; tsura〈多〉; tsura〈古〉〈鼻〉; tsura〈昔・今つかわない〉 kao; ツラ〈下〉; 下ツラ（オムカツラミネか）かおの数を見る; ツラ〈馬鹿になる時に使う〉 カオ; ツラ 激しく 叩き用; ツラ〈買う時に言う〉 カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02586.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02586",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02586.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1762.10",
+      "1781.95",
+      "1793.14",
+      "1848.24",
+      "1862.48",
+      "1867.15",
+      "2608.90",
+      "2700.48",
+      "2712.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-87\n質問番号 地図番号 106\n項目名 顔 057\nA 普通注記 （B 聞いた共通語） （C 聞いた特殊語） ページ（2）\nA・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく>く) は後稿にする。\n地点番号／A 語形とその注記［B・C 聞いた語形とその注記］／A 注のない語形［B・C 残した語形とその注記］\nウラ〈身籠〉　カオ\nウラ〈昔〉〈今は馬鹿にするは〉　カオ\nウラ〈下〉　カオ\nkato〈tsura〉は前だけ　カオ\nウラ〈下〉　カオ\nウラ〈子〉　カオ\nワラ「農業をする人はなんに使う。その他も家のことに使う。」　カオ\nウラ〈身〉　カオ\n〈下〉ウラ…下の者に命令する時等　カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02587.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02587",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02587.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2713.83",
+      "2720.75",
+      "2731.97",
+      "2732.39",
+      "2741.46",
+      "2750.43",
+      "2750.44",
+      "2755.76",
+      "2763.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-88\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<>()[]は該当箇所にする。\n質問番号／地区番号 106\n項目名 顔\nA 普通注記 （B 欠いた共通語） （C 欠いた特殊語） ページ (3)\n見出し: 地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 注のたい語形（B・C 残した語形とその注記）\n〈下〉ツラ    カオ\nツラ  鼻珠    カオ\nツラ  〈少〉  カオ\nツラ  昔は皆「ツラ」であったが今は殆ど「カオ」を使う。「カオ」といっている。    カオ\nツラ 〈希〉〈下〉    カオ\nツラ 〈希〉 買う時    カオ\nツラ 〈悪口の時 使う〉 カオ\nkao  kao aram という\n〈右〉 tsïra    kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02588.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02588",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02588.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2775.45",
+      "2792.40",
+      "2800.52",
+      "3701.37",
+      "3705.82",
+      "3727.21",
+      "3737.32",
+      "3756.40",
+      "3767.22",
+      "3778.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-89\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の〈 〉 ( ) [ ] は略記にする。\n質問番号／地図番号 106\n項目名 顔 057\nページ (4)\n見出し: 地点番号／A 語形とその注記（B・C除いた語形とその注記）／A 注のない語形（B・C残した語形とその注記）\n〈右〉 tsira | kaoー\nkao 〈普通は tsira と言うか 自分は使わぬ〉\nウラ 〈下〉〈相手に下る〉 | カオ\ntsira tsira ararun という\ntsira 〈右〉 | kao\nウラ 〈右〉 | カオ\n同上 | カオ\nカホ 〈多〉 | ウラ\nカオ 〈とも〉 | ウラ\nツラ 〈旧〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02589.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02589",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02589.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-90\n質問番号／地図番号 106\n項目名 顔 087\nA 普通注記\nB 欠いた共通語\nC 欠いた特殊語\nページ (5)\n- A・[B]・[C] ごとに別表を使用する。\n- その中での情報は地点番号順に並べる。\n- 注記のく<>（）[]は厳密にする。\n見出し: 地点番号／A 語形とその注記［B・C 欠いた語形とその注］／A 注のない語形［B・C 残した語形とその注］\ntsūra（普通）    kaō\ntsūra〈多〉\ntsira  M 単は mukatsira\ntsura〈下品〉    kao\n同上    同上\ntsūra〈もと〉\ntsura〈古〉〈3〉\nngetsura〈裏口のは使う〉    tsmura\ntsūra びによっく軽い唇化\ntsura（ののしる意はない）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02590.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02590",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02590.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4647.69",
+      "4647.87",
+      "4648.04",
+      "4653.47",
+      "4653.86",
+      "4654.52",
+      "4657.64",
+      "4658.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞＜（ ）〔 〕は厳密にする。\n日本言語地図資料用紙 注記一覧 25-91\n質問番号／地図番号 106\n項目名 顔 057\nA 普通注記（B 聞いた共通語）（C 聞いた特殊語） ページ(6)\n見出し欄：地点番号／A 語形とその注記［B・C 聞いた語形とその注記］／A 注のたい語形［B・C 聞いた語形とその注記］\n4647.69 の行: kao ＜tsumra とはちがうね＞\n4647.87 の行: ツラ ＜ののとは 角ばる（下）＞　カオ\n4648.04 の行: tsumra ＜若い時から使い、今でも用いるか？ こんどばか使って笑われたことがあり、それから kao を多く用いるようになった＞\n4653.47 の行: tsumra ＜下＞　kao\n4653.86 の行: tsumra ＜ののとき、おって興奮したとき＞　kao\n4654.52 の行: tsumra ＜下＞　kao\n4657.64 の行: 同上 ＜晩の日が用いる＞　kao\n4658.42 の行: tsumra ＜子（下）…「何と言いますか？ なんかの問に対する答え」＞",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02591.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02591",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02591.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4659.50",
+      "4663.06",
+      "4665.87",
+      "4666.17",
+      "4666.42",
+      "4666.51",
+      "4666.99",
+      "4667.33",
+      "4667.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-92\n質問番号  地図番号  106\n項目名  顔 057\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞( )［ ］は厳密にする。\n\n地点番号／A 語形とその注記［B・C 欠いた語形とその注］／A 注のない語形［B・C 残した語形とその注］\nツラ（？）    チラ\ntsura ［鼻］    kao\ntsura ＜下＞（子供等を叱る時用いる）    kao\ntsura ＜下＞（…を使う）    kao\ntsura ＜下＞    kao\n同上    kao\n同上 ＜多分 下品な言い方＞（「うれしと言えばありませんか」ときいた時の答）    kao\n「ツラ」 下品な云い方    カオ\nnoketsura ＜下＞ ＜怒って悪口を言う時＞    tsura\nページ（7）\nA 普通注記  （B 欠いた共通語） （C 欠いた特殊語）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02592.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02592",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02592.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-93  質問番号 地図番号 106  項目名 顔 057  A 普通注記  (B 限いた共通語)  (C 限いた特殊語)  ページ (8)  ・A・[B]・{C}ごとに別紙を使用する。 ・その中での情報は地点番号順に並べる。 ・注記のく<>()[]は該当箇所にする。  見出し: 地点番号 / A 語形とその注記［B・C 除いた語形とその注記］/ A 注のない語形［B・C 残した語形とその注］  記入: tsura＜下＞ … kao  tsura＜下＞（単純?）「窓口などには使ているか」…（何に対する反応） kao  tsîra（鼻） kao  ツラ（下品） kao  tsura＜希?＞ kao  tsura＜下＞ kao  noketsura＜下＞〈けんが、裏口などの時に用いる下品な語〉 kao  tsura＜下＞  tsura＜下＞ kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02593.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02593",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02593.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-94\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報を地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n質問番号／地図番号 106\n項目名 顔 067\nA 普通注記／B 除いた共通語／C 除いた特殊語\nページ (9)\n\n地点番号／A 語形とその注記［B・C 除いた語形とその注］／A 注のない語形［B・C 残した語形とその注］\n\ntsura 〈下〉\n［tsura］［希］〈下品ではない〉\ntsura 〈伝来のことば？〉〈卑俗ではない〉\ntsura 〈希〉〈下〉 若い頃はかなり使ったらしいが今は下品だという意識でほとんど使わない  kao\ntsura 〈鼻持てない、その他常に多く用いる〉\ntsura 〈鼻持の意味となり〉\ntsuura 〈鼻…〉 kao\ntsura 〈鼻〉 kao\ntsuura 〈古〉 kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02594.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02594",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02594.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4694.26",
+      "4694.81",
+      "4694.95",
+      "4695.21",
+      "4697.92",
+      "4698.15",
+      "4699.62",
+      "4704.06"
+    ],
+    "other_text": "・A・(B)・(C)ごとに別紙を使用する。 ・その中での情報は地点番号順に並べる。 ・注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 25-95 質問番号／地図番号 106 項目名 顔 057 A 普通注記 （B 聞いた共通語） （C 聞いた特殊語） ページ (1/6) 見出し：地点番号／A 語形とその注記（B・C 聞いた語形とその注）／A 注のない語形（B・C 残した語形とその注） 4694.26の欄：kao ＜小学校時代から使っている？＞；tsura ＜下＞ ×悪口の時 使う 下品なことばである 4694.81の欄：ツラ（下）　右欄：kao 4694.95の欄：keketsura ＜下＞ 子供は tsura という　右欄：kao 4695.21の欄：tsura（下）　右欄：kao 4697.92の欄：tsura ＜右＞　右欄：kao 4698.15の欄：tsura ＜子供の使用していたが 今は悪い言葉だから 使わない＞　右欄：kao 4699.62の欄：tsura ＜下＞　右欄：kao 4704.06の欄：ツラ ＜右＞　右欄：kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02595.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02595",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02595.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > ( ) [ ] は略語にする。 日本言語地図資料用紙 注記一覧 25-96 質問番号 地図番号 106 項目名 顔 057 A 普通注記 （B 除いた共通語） （C 除いた特殊語） ページ（11） 地点番号／A 語形とその他の注記［B・C 除いた語形とその注］／A 注のない語形［B・C 残した語形とその他の注］ カオ〈多い〉 — ツラ ツラ〈古〉 — カオ カオ〈ともいう〉 — #ツラ ツサー（ツラ転訛） — カオ tsutta〈古・稀〉（単称ではなかった） — kao tsutta（専称ではない） tsutta〈古〉（…の方では今でも使っている） — kao tsutta〈古〉 — kao bakkcu〈下〉 — tsuura [mugatsuui?]〈下〉 — tsuura, kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02596.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02596",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02596.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4734.20",
+      "4740.93",
+      "4741.43",
+      "4741.44",
+      "4741.92",
+      "4742.37",
+      "4743.61",
+      "4744.10",
+      "4744.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-97\n質問番号／地図番号 106\n項目名 顔 057\nA 普通注記\nページ (12)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞＜（）［］は厳密にする。\n\n地点番号  A 語形とその注記（B・C 除いた語形とその注記）  A 注のない語形（B・C 残した語形とその注記）\n\ntsuua〈右〉〈親の…についてこう言った〉  kao\ntsüsa〈希〉  kao\ntsuira〈子どもの方に行くと使っている？〉  kao\nカオ（今一部で）  ツラ\nyg tsuira〈下〉  tsuira\nt’ss’tsa（…顔の意味は…のようにも…のようにも〈言える〉）\nts’sa（ふつう言い方で部内語ではない）\ntsuura〈ち〉  kao\ntsuura（音は尊厳的な弱い語をもつ）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02597.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02597",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02597.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4746.20",
+      "4751.42",
+      "4752.11",
+      "4760.64",
+      "4761.07",
+      "4761.57",
+      "4761.93",
+      "4762.90"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく＜ ＞（ ）は該当語にする。 日本言語地図資料用紙 注記一覧 25-98 質問番号／地図番号 106 項目名 顔 067 A 普通注記 （B 欠いた共通語） （C 欠いた特殊語） ページ（13） 見出し：地点番号／A 語形とその注記（B・C 除いた語形とその注記）／A 注のない語形（B・C 欠いた語形とその注記） tsūra＜ち＞　kao kao（言動変化の体制的ゆえ、わりあい言葉は上品。「うらっとい」様な語のない） tsūra＜田舎くさい感じ、けんかの時のことばというわけではない＞　kao tsūsa＜侮＞＜今の年寄のことばである＞　kao tsūra＜ち＞　kao tsūra＜それを多く使う＞　kao tsūra＜相手をばかにするとき使う＞　kao tsūra＜ばかにする意味＞　kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02598.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02598",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02598.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4763.45",
+      "4770.62",
+      "4771.58",
+      "4772.33",
+      "4772.48",
+      "4773.70",
+      "4773.78",
+      "4780.26",
+      "4780.64"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。\nその中での順位は地点番号順に並べる。\n注記のく＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 26-01\n質問番号／地図番号 106\n項目名 顔（かお）\nA 普通注記（B 除いた共通語）（C 除いた特殊語）\nページ（1/1）\n\n［表の見出し］\n地点番号｜A 語形とその注記（B・C 除いた語形とその注）｜A 注のない語形（B・C 残した語形とその注）\n\n? tsura（鼻声ではない、普通のことばでつかえる。）    kao\ntsmura 〈下〉    kao\ntsmura 〈下〉    kao\ntsuura 〈下〉    kao\ntsmura 〈右〉    kao\ntsuura（あまり使わないが昔の呼び名などに使う、鼻声）    kao\ntsmura 〈下〉    kao\ntsuura（子供に悪口いうとき使う）    kao\nkao〈tsura などとは自分の家ではわからぬ〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02601.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02601",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02601.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "4781.48",
+      "4781.86",
+      "4782.96",
+      "4784.41",
+      "4790.30",
+      "4790.74",
+      "4791.12",
+      "4791.61",
+      "4791.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-02\nA 普通注記 / (B 除いた共通語) / (C 除いた特殊語)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく<>()[]は略符にする。\n質問番号／地図番号: 106\n項目名: 顔 057\nページ: (15)\n見出し: 地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n記入語形例:\n- tsuura 〈同義以下に使う〉 … 右欄: kao\n- tsuura 〈古〉／〈近在で使う〉 … 右欄: kao\n- tsūra 〈下〉 … 右欄: kao\n- tsuura 〈下〉 … 右欄: kao\n- tsūra 〈目下にいうとき使う〉 … 右欄: kao\n- tsūra 〈子どもになどいうとき つかう〉 … 右欄: kao\n- tsūra 〈普通使う〉 … 右欄: kao\n- tsūra 〈同上〉 … 右欄: kao\n- tsūra 〈にくらしいに対して使う〉 … 右欄: kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02602.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02602",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02602.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "4792.80",
+      "4793.41",
+      "4794.30",
+      "5462.57",
+      "5463.64",
+      "5471.59",
+      "5472.31",
+      "5472.91",
+      "5499.98"
+    ],
+    "other_text": "▶ A・[B]・{C}ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）｛｝は厳密にする。 日本言語地図資料用紙 注記一覧 26-03 質問番号／地図番号 106 項目名 顔 057 A 普通注記 B 聞いた共通語 C 聞いた特殊語 ページ（16） 地点番号｜A 語形とその注記（B・C 聞いた語形とその注記）｜A 注のない語形（B・C 異なった語形とその注記） tsuura（転訛としてではなく、普通のことばとして使う） tsuura ＜普通これを使う＞ tsuura ＜下＞ カパチ ＜左＞（…の時、カパチをならすなどと言う） カオ カパチ ＜鼻＞＜…カパチ臭い＞（人の顔を見る） カオ カパチ ＜下＞ カオ カパチ ＜鼻＞ カオ tsuura ＜鼻＞ kao ツラ（古）。ツラは男女共に用いた。別に差別もなかった（積極使用者を除く）。しかし現在では単独では下に用う、などの旨の記述。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02603.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02603",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02603.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-04 質問番号 地図番号 106 項目名 顔 057 普通語注記 （B 除いた共通語） （C 除いた特殊語） ページ (17) A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><()[]は厳密にする。 表見出し: 地点番号 / A 語形とその注記（B・C 除いた語形とその注） / A 注のない語形（B・C 残した語形とその注） 行内容: tsura ＜下＞  | kao; 同上 | kao; 同上 | kao; 同上 | kao; 同上 | kao; 同上 | kao; mimba ＜下＞・tsura ＜下＞ | kao; tsura ＜下＞ | kao; kabo  b = b と w の間の音 | kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02604.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02604",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02604.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）[]は略記にする。 日本言語地図資料用紙 注記一覧 26-05 質問番号 地図番号 106 項目名 顔 057 A 普通語 （B 除いた共通語） （C 除いた特殊語） ページ（18） 地点番号 / A 語形とその注記［B・C 除いた語形とその注記］ / A 注のない語形［B・C 残した語形とその注記］ kabo カボォ＝b.Wの向音; kao …; tsura〈下品〉; 同上; 同上; kao〈カワイクナリ ことば〉, tsura〈下品〉; tsura〈下品〉; 同上〈エナ（おお）・ツラ などという〉; tsura〈下〉 右欄: kao（繰り返し）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02605.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02605",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02605.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5558.33",
+      "5558.67",
+      "5565.19",
+      "5585.09",
+      "5591.91",
+      "5603.35",
+      "5603.88",
+      "5604.28",
+      "5604.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-06\n質問番号／地図番号 106\n項目名 顔 087\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\nページ (19)\n\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく<>()は厳密にする。\n\n地点番号 / A 語形とその注記（B・C 除いた語形とその注） / A 注のない語形（B・C 残した語形とその注）\n\ntsura <下>    kao\n同上           kao\n同上           kao\nkao:（o:1? 2:に近し）  kao\nツラ（単）      カオ\ntsura <下>     kao\ntsura <下・右>  kao\n! tsura <わるいことばではないの。老人は多く用いるし、私も子供などに対しては多く用いる>\nツラ（ウチの口で使った「面な感じ」になられたのであろう） カオ 3",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02606.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02606",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02606.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5605.11",
+      "5606.83",
+      "5607.17",
+      "5608.16",
+      "5608.51",
+      "5609.81",
+      "5613.48",
+      "5613.53"
+    ],
+    "other_text": "・A・[B]・[C] ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の〈 〉( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 26-07\n質問番号／地図番号 106\n項目名 顔 057\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (20)\n\n見出し：地点番号／A 語形とその注記〔B・C 除いた語形とその他注〕／A 注のない語形〔B・C 残した語形とその他注〕\n\ntsuura 〈F〉　右欄: kao\ntsuura 〈学校ではならったが 町ではやや下品な感じがされた〉〈友人に対しては用いる〉\ntsuura 〈普通 これを使う〉\ntsuura 〈古〉〈普通の言い方である〉\ntsula （kao は用いず どんなたれの数でも tsula という）\ntsura 〈単称〉　右欄: kao\ntsura 〈下〉〈古〉　右欄: kao\ntsura 〈F〉　右欄: kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02607.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02607",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02607.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5613.80",
+      "5614.68",
+      "5615.20",
+      "5615.65",
+      "5615.74",
+      "5617.28",
+      "5621.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-08\n質問番号／地図番号 106\n項目名 顔 057\nA（普通語彙） B（除いた共通語） C（除いた特殊語）\nページ（21）\n\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜ ＞( )〔 〕は慣例にする。\n\n見出し：地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 注のたい語形（B・C 残した語形とその注記）\n\ntsumura〈下〉 … 子供を叱る時などに用いる  kao\n! tsumura〈下希〉 若い人はよく使った\ntsumura〈3?・下〉「外に云えて言葉がある」ほか（判読困難な長い注記）\nkao〈他人の中には tsumura という人もある〉\ntsumura〈悪口ではない〉〈多く用いる〉\ntsumura〈普通 使う〉\ntsumura〈下〉\nkao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02608.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02608",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02608.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5623.42",
+      "5624.05",
+      "5625.91",
+      "5628.70",
+      "5631.16",
+      "5631.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-09\n質問番号  地図番号 106\n項目名  顔 057\nA 普通語法\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (22)\n▶ A・[B]・[C]ごとに別表を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく<>()[]は厳密にする。\n地点番号／A 語形とその注記（B・C 除いた語形とその他の注）／A 注のない語形（B・C 残した語形とその注）\ntsura〈右。のりることではなかった〉  kao\ntsura〈先島…では使わないが、方言的場面では別に下品の心持は伴わぬようである。〉\ntsura〈子〉（「外に言い出す…のに対する反応」）〈昔はよく使ったが今は廃の語に対して使う位であろう〉\nイラ〈下〉  ロオ\ntsura〈唇にけいべつした言い方というわけではない〉  kao\ntsura〈興奮したとき〉  kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02609.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02609",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02609.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [],
+    "other_text": "▶ A・(B・C)ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜ ＞（ ）は該欄にする。\n日本言語地図資料用紙 注記一覧 26-010\n質問番号／地図番号 106\n項目名 顔 057\nA 普通語注記（B 除いた共通語）（C 除いた特殊語）\nページ（23）\n見出し：地点番号／A 語形とその注記〔B・C 除いた語形とその注記〕／A 注のない語形〔B・C 残した語形とその注〕\n行内容：\n- tsura（普通の言い方ですか？）ここ普通ですな。家族にも近所へんもそう言っている。＜初めて会った人にはカオの何とかと言うですかな＞\n- ツラ〈卑〉\n- ツラ〈イクブン 卑〉 ジャンツラ〈卑〉／右欄：カオ\n- kao〈昔の字寄りは tsura といえばっか言う気持でなく、ふつうに使っていた〉\n- tsura〈普通にそう言う〉\n- tsura〈特別 卑しいということばでもない〉\n- tsura〈ふつうに使っている〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02610.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02610",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02610.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5644.74",
+      "5645.43",
+      "5646.12",
+      "5646.39",
+      "5646.71",
+      "5647.27",
+      "5648.96",
+      "5649.53",
+      "5652.37",
+      "5653.08"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-011\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n質問番号  地図番号 106\n項目名  顔 057\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (24)\n地点番号\nA 語形とその注記（B・C 除いた語形とその注）\nA 注のない語形（B・C 残した語形とその注）\nツラ〈鼻、下〉\nツラ〈下〉  カオ\nツラ〈下〉  カオ\nツラ〈多〉\nツラ〈右〉  カオ\nツラ〈下〉  カオ\n同上  カオ\nツラ〈右〉  カオ\ntsum〈酒に酔ったようなとき〉〈鼻〉 kao\ntsura〈右〉〈軽蔑した意味でなく〉 kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02611.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02611",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02611.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 記記一覧 26-12\n質問番号／地図番号 106\n項目名 顔 057\nA 普通語形  (B 除いた共通語)  (C 除いた特殊語)\nページ (25)\n\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は該語にする。\n\n見出し: 地点番号／A 語形とその注記（B・C除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n\ntsura〈鼻にするとき〉\n!omensoo:〈からかって言うとき〉    右欄: kao\nツラ〈卑〉\nツラ〈古〉\nツラ〈古・希〉\nツラ〈古〉\nカオ 普通の言い方／ツラ〈下〉\ntsura〈卑〉    右欄: kao\ntsura〈普通に使う〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02612.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02612",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02612.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5664.51",
+      "5665.89",
+      "5666.18",
+      "5667.24",
+      "5667.81",
+      "5669.96",
+      "5671.00",
+      "5671.38",
+      "5671.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-13\n質問番号／地図番号 106\n項目名 顔 05\nA 普通記載　ページ(26)\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の〈 〉( )〔 〕は…。\n見出し: 地点番号／A 語形とその注記（B・C 欄いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n\ntsura ＜一般に顔面のことばで、特に鼻だけを言うわけではない＞\nツラ 〈古〉　カオ\nツラ 〈下〉\nツラ 〈右〉\nツラ 〈鼻〉　カオ\nts(u)ra 〈…ではない〉　kao\ntsura （…したとき）　kao\ntsura 〈…〉　kao\nkaottsūra 〈下〉, tsūra 〈下〉　kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02613.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02613",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02613.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5676.59",
+      "5676.28",
+      "5676.52",
+      "5676.84",
+      "5677.28",
+      "5677.60",
+      "5678.33",
+      "5678.86",
+      "5679.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-14\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）は厳密にする。\n質問番号 ／ 地図番号 106\n項目名 顔 057\nA 普通注記\n（B 聞いた共通語）\n（C 聞いた特殊語）\nページ (27)\n見出し：地点番号／A 語形とその注記（B・C で聞いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n行メモ：\nツラ〈多〉 | kao\n tsuura〈昔は tsuura を多く使った〉\n ジャ、ツラ〈身体〉 | カオ\n ツラ〈昔〉\n ツラ〈昔〉 …（家口に非ず？）\n （鼻）ツラ | カオ\n ツラ〈昔〉 | カオ\n カオ〈普通のことば〉 | ツラ\n kao［（荒）kao］\n（鼻）kaottsuura, （鼻）tsuura",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02614.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02614",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02614.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-15  質問番号 地図番号 106  項目名 顔 057  A 普通注記  ページ(2P)\nA・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<> () [] は厳密にする。\n見出し: 地点番号 / A 語形とその注記（B・C除いた語形とその注）/ A 注のない語形（B・C 残した語形とその注）\n! tsura〈古 別に単語としてでなく使った〉 kao\n! tsura〈面語っかし手がっている〉 kao\ntsura〈子・母〉 kao\nツラ〈単称〉 カオ\ntsūra〈案口〉 kao\nカオ  カオは気取ったことば? 若い人などが多く使う。 ツラ、アラ、テキタロなどは自然の語。\n! ツラ\ntsura〈昔〉\ntsura〈自分のふり方を強く出して怒る時だけ(語勢)〉 kao\nkao〈隣村の話では tsura を普通に使っている〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02615.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02615",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02615.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5694.82",
+      "5695.10",
+      "5695.47",
+      "5696.13",
+      "5696.54",
+      "5697.24",
+      "5697.53",
+      "5698.54",
+      "5699.25",
+      "5699.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-16\n質問番号／地図番号 106\n項目名 顔\nA 普通注記／B 除いた共通語／C 除いた特殊語  ページ(29)\n・A・B・Cごとに別紙を使用する。\n・その中での番号は地点番号順に変える。\n・注記の〈 〉( ) [ ] は厳密にする。\n見出し: 地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\nツラ〈鼻〉  カオ\nシャァ・ツラ〈鼻形〉  カオ\ntsu'ra〈昔 慣称ではない〉  kao\nカオ（ツラとは言わぬという）\ntsutt'ra〈私の10ぐらいの時、80位の人が言った〉  kao\nカオ、ツラ〈両方いう。ツラァラン子など〉\ntsutt'ra〈土あのことだ〉  kao\ntsura〈鼻〉  -kao\nsattsutra〈鼻〉  tsutt'ra\ntsura〈鼻形（読意）〉  kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02616.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02616",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02616.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5699.89",
+      "5700.28",
+      "5700.32",
+      "5700.96",
+      "5701.25",
+      "5702.01",
+      "5702.52",
+      "5703.19",
+      "5703.70"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。▶ その中での情報は地点番号順に並べる。▶ 注記の＜＞()[]は厳密にする。 日本言語地図資料用紙 注記一覧 26-17 質問番号 地図番号 106 A 普通注記 （B 除いた共通語） （C 除いた特殊語） 項目名 顔 067 ページ (30)  地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）  tsuura ＜…＞　kao tsuura ＜下＞（…使う）　kao tsuura ＜これを多く使う＞／kao ＜他の土地へ行くと使う＞ tsuura ＜普通に使うことになっておる＞　kao tsuura ＜右＞　kao tsuura ＜普通に使う＞　kao tsuura ＜下＞　kao tsuura ＜下＞　kao tsuura ＜右＞　kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02617.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02617",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02617.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5710.29",
+      "5710.84",
+      "5711.18",
+      "5711.85",
+      "5712.17",
+      "5712.70",
+      "5712.88",
+      "5713.65",
+      "5714.10",
+      "5721.26"
+    ],
+    "other_text": "・A・[B]・[C]ともに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 26-18 質問番号　　地図番号 106 項目名　顔 057 A 普通注記（B 除いた共通語）（C 除いた特殊語） ページ（31） 見出し：A 語形とその注記／A 注のない語形 tsuūra〈下〉　kao ツラ〈古〉〈今はいけない〉　カオ tsuūra〈いやしき者を言う語〉　kao tsuūra〈下〉　kao tsuūra〈喜ぶという時・怒り〉　kao kao（隣の言：tsuūraは左のことば）　kao tsuūra〈下〉　kao 同上　kao 同上　kao kao〈普通それほど〉、tsuūra〈いやしを言う時〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02618.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02618",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02618.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5721.27",
+      "5721.97",
+      "5723.02",
+      "5723.36",
+      "5723.60",
+      "5733.02",
+      "5740.16",
+      "5741.25",
+      "5741.66"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での番号は地点番号順に並べる。 注記のく><()は厳密にする。\n日本言語地図資料用紙 注記一覧 26-19\n質問番号 地図番号 106  A. 普通注記\n項目名 顔 057  ページ (32)\n見出し: 地点番号 / A 語形とその注記（B・C 欄いた語形とその注） / A 注のない語形（B・C 残した語形とその注）\n行内容（語形等）:\n- tsuūra 〈上品でない言い方〉  kao\n- tsuūra 〈卑しめの言い方〉  kao\n- kao 〈普通 これを使う〉\n- tsuūra 〈使うこともある。別段卑しめる言い方ではない〉\n- tsura 〈下〉  kao\n- tsuura 〈卑〉  kao\n- tsuura 〈右〉  kao\n- ツラ 〈下〉 下品なことば  カオ\n- tsgiura 〈下〉  kao\n- tsuūra 〈下〉  kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02619.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02619",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02619.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5751.89",
+      "5760.24",
+      "5770.46",
+      "5772.00",
+      "5780.11",
+      "5780.57",
+      "5782.79",
+      "5782.94"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での順序は地点番号順に並べる。 注記のく<>〔 〕は厳密にする。 日本言語地図資料用紙 注記一覧 26-20 質問番号 地図番号 106 項目名 顔 057 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (33) 見出し: 地点番号 / A 語形とその注記（B・C 除いた語形とその注） / A 注のない語形（B・C 残した語形とその注） 記入: tsuūra 〈角〉 | kao tsuūra 〈これが普通〉 tsuūra 〈特に鼻濁ではないらしい〉 | kao （鼻）tsuūra | kao kao …（謡）ts(u)ra 〈右〉 kao 〈一般的〉／ tsuūra 〈ホカは使わない〉 kao（○はちっと強い）／ tsuura 〈この方が普通〉 kao 〈左では tsuūra〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02620.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02620",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02620.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "5790.79",
+      "5791.23",
+      "5792.62",
+      "5793.63",
+      "5793.74",
+      "6267.08",
+      "6267.84",
+      "6277.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-21\n質問番号／地図番号 106\n項目名 顔\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞＜（）［］は略語にする。\n\n地点番号｜A 語形とその注記（B・C 除いた語形とその注）｜A 注のない語形（B・C 残した語形とその注）\nF tsūra    ｜kao\ntsūra  鼻粕｜kaō-\ntsūra〈古〉…（今は使う；「ツラ洗う」 あとで手続で訂正）｜kao\ntsura〈昔〉｜kao\ntsura（いつでも用いるようである。そして tsura, kao に対しても 形像感を持たないという）\ntsūra〈長〉｜kao\ntsura〈右〉｜kao\ntsura〈争〉｜kao\nページ（34）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02621.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02621",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02621.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈 〉（ ）は厳密にする。\n日本言語地図資料用紙 注記一覧 26-22\n質問番号　　地図番号　/106\n項目名　顔 057\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\nページ （35）\n見出し: 地点番号／A 言形とその注記［B・C 除いた言形とその注記］／A 注のない言形［B・C 残した言形とその注記］\n1行目: kao <tsura は使わない>　右欄: kao\n2行目: tsura <下>\n3行目: ツラ <卑>　右欄: カオ\n4行目: カワ <カワ…（何かの教を使って？）>\n5行目: tsura <卑>　右欄: kao\n6行目: カワ ← 誘導による　右欄: カオ\n7行目: kawa <kaoと言わないで kawa と普通言っている。>\n8行目: tsura <下>　右欄: kao\n9行目: カワ （古）\n10行目: tsura <卑>　右欄: kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02622.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02622",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02622.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6396.08",
+      "6408.72",
+      "6408.88",
+      "6418.75",
+      "6419.25",
+      "6419.50",
+      "6419.69",
+      "6421.82",
+      "6426.2",
+      "6428.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-23\n質問番号　／　地図番号 106\n項目名　顔 057\nページ (36)\nA 普通注記（B 除いた共通語）（C 除いた体採語）\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく<>（）は厳密にする。\n見出し：地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n行内容（左以外の欄の読み取り）：\n[tsuura] … [単]　|　kao\n諺 tsuura〈異口〉　|　kao\nツラ〈下・異・希〉　|　カオ\nツラ〈下〉　|　カオ\n同上　|　カオ\n同上　|　カオ\nツラ〈下・希〉　|　カオ\nkao　牛馬について tsira　|　\ntsuura〈異口〉　|　kaō\nツラ〈古希〉　|　",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02623.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02623",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02623.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6428.76",
+      "6428.91",
+      "6429.15",
+      "6429.30",
+      "6429.65",
+      "6434.57",
+      "6438.33",
+      "6439.61",
+      "6446.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-24\n質問番号 地図番号 106／項目名 顔／ページ (37)\nA. 普通注記（B 除いた共通語）（C 除いた特殊語）\n▶ A・(B・C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈 〉（ ）などは略語にする。\n見出し：地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n6428.76：メンウ〈下〉、ツラ〈下〉。〈メンウワルイ〉（顔が不細工だ）。右欄 カオ\n6428.91：ツラ〈下〉〈下…〉。右欄 カオ\n6429.15：ツラ〈下〉。右欄 カオ\n6429.30：〈…〉（判読不詳）。右欄 カオ\n6429.65：同上。右欄 カオ\n6434.57：ツラ〈…〉（鼻のあたり?）。右欄 カオ\n6438.33：ツラ〈鼻〉。右欄 カオ\n6439.61：ツラ〈古 老人が言うのを聞いた。〉右欄 カオ\n6446.43：〈鼻〉ツラ。右欄 カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02624.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02624",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02624.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6468.23",
+      "6469.84",
+      "6453.64",
+      "6457.18",
+      "6458.26",
+      "6458.91",
+      "6460.10",
+      "6461.53",
+      "6464.90",
+      "6466.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-25\n▶ A・[B]・[C]ごとに別表を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく〈 〉[ ]は厳密にする。\n質問番号　／　地図番号 106\n項目名　顔 057\nA 普通注記　B 聞いた共通語　C 聞いた特殊語　ページ (38)\n見出し：地点番号／A 語形とその注記（B・C 聞いた語形とその注）／A 注のない語形（B・C 聞いた語形とその注）\nツラ〈下〉　カオ\n同上　カオ\nツラ〈鼻〉　カオ\nツラ〈下〉　カオ\nツラ〈右・下〉　カオ\nツラ〈裏口〉　カオ\ntsūra〈下〉　kao\nカラ〈ク〉　カオ\nメンツ〈下〉　カオ\nツラ〈下〉　カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02625.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02625",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02625.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6469.19",
+      "6471.26",
+      "6471.59",
+      "6473.65",
+      "6474.03",
+      "6481.15",
+      "6481.56",
+      "6482.52",
+      "6482.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-26\n質問番号  地図番号 106\n項目名 顔 057\nページ (37)\nA 普通注記 / B 併いた共通語 / C 併いた特殊語\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n地点番号／A 語形とその注記（B・C除いた語形とその注記）／A 注のない語形（B・C残した語形とその注記）\nツラ〈…〉    カオ\nカオ「顔を洗うは カワ アラウ となる」\n同上\nツラ〈古下〉  カオ\nツラ〈…〉    カオ\n古 カフ\n同上  ｲﾄﾞ?\nkawa（kewaで?、kawaの方にsawaとしている様に聞いたが、これはsaoといってsawaとはいわないという）\nkao〈kawaという人もある〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02626.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02626",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02626.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6484.63",
+      "6485.14",
+      "6486.07",
+      "6486.50",
+      "6486.93",
+      "6487.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-27\n質問番号　　地図番号 106\n項目名　顔 057\nA 普通注記　(B 除いた共通語) (C 除いた特殊語)\nページ (60)\nA・(B)・(C)ごとに別紙を使用する。\nその中での順序は地点番号順に並べる。\n注記のく＜＞（）は抜簡にする。\n\n地点番号　/　A 語形とその注記（B・C 除いた語形とその注）　/　A 注のない語形（B・C 残した語形とその注）\nツラ〈下〉　カオ\n〈下〉ツラ（ツラは罵り文句で、「ツラァ…」というように使う）　カオ\n下　ツラ：面子に関する時などに「ツラァ…」という。ツラは成句としてもある。　カオ\n下・右　ツラ　ツァァク…　面目を失ったの意だ、こういった。／「ツラハリミテ…」これも今はあまりいわぬ。　カオ\n！ツラ〈下〉　カオ\n(1) ツラ（やくざことば、「ツラララというように」）　カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02627.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02627",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02627.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6491.49",
+      "6492.11",
+      "6494.21",
+      "6494.55",
+      "6495.82",
+      "6496.56",
+      "6511.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>()[]は厳密にする。 日本言語地図資料用紙 注記一覧 26-28 質問番号／地区番号 106 項目名 顔 057 A 普通注記 B 聞いた共通語 C 聞いた特殊語 ページ（41） 地点番号  A 語形とその注記［B・C 聞いた語形とその注記］  A 注のない語形［B・C 残した語形とその注記］ kao（海岸部の大阪部落では kawa というものが多い） kawa＜kawa-tsuke・ojoji のような複合語もある＞ ツラ＜下＞　右欄：カオ ツラ＜下＞＜ア？ ツラミ，ロブ？ グラシ トランプ！＞　右欄：カオ tsura（鼻）　右欄：kao tsura（単語?）　右欄：kao オモテ（丁寧），カオ（一般） ツラ（卑）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02628.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02628",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02628.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-29\n質問番号／地図番号 106\n項目名 顔 057\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (41)\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉《 》［ ］は該当とする。\n\n地点番号／A 語形とその注記（B・C 語形とその注記）／A 注のない語形（B・C 残した語形とその注）\n〈単〉ツラ    カオ\nツラ〈下・罵〉    カオ\nツラ（単）「あいつのツラも磨いたろか」等の如く。    カオ\nツラ（単） 相手を鼻下す時にツラを使う。    カオ\ntsura〈単〉    kao\ntsmura〈下〉    kao\ntsura〈単〉    kao\nツラ〈下〉    カオ\nツラ（単） …相手を鼻下して用い。一般には「ツラヨゴン」などの時に用いるぐらいである。    カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02629.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02629",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02629.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-30\n▶ A・(B)・(C)ごとに別表を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n質問番号／地図番号 106\n項目名 顔 057\nA 普通注記（B 欠いた共通語）（C 欠いた特殊語） ページ（43）\n見出し：地点番号／A 言形とその注記（B・C除いた言形とその注記）／A 注のない言形（B・C 残した言形とその注記）\ntsūra〈下・希〉　…　kao\nつら〈下〉　…　カオ\nkao（「面」）\ntsura〈鼻〉； donzura〈下〉　…　kao\nkao〈普通〉，tsura〈下品〉　…　kao\nkao（「面」）\ntsura〈鼻〉 普通にはあまり使わぬ　…　kao\ntsura〈鼻・希〉 悪口を言う場合　…　kao\ntsura〈鼻・希〉 怒った時など以外は使わぬ　…　kao\nつら〈鼻〉　…　カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02630.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02630",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02630.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6562.22",
+      "6567.79",
+      "6571.34",
+      "6572.55",
+      "6574.52",
+      "6580.06",
+      "6581.52",
+      "6581.68",
+      "6583.93",
+      "6590.35"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-31\nA・(B)・(C) ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( ) [ ] は厳密にする。\n質問番号／地図番号 106\n項目名 顔\nA 普通語\n(B 除いた共通語)\n(C 除いた特殊語)\nページ\n地点番号  A 語形とその注記（B・C 聞いた語形とその注）  A 注のない語形（B・C 残した語形とその注）\nツラ〈下〉　カオ\ntsuira〈悪く言うとき〉　! kao\ntsura（下品）　kao\ntsūra（臭め?）　kao\nkao（「面オ」?）\nツラ〈下品なことば、ふだんは使わない〉　カオ\nツラ〈長口のことば?「アカオ」ツラミョ、ムネリ、ワリナ〉　カオ\nツラ〈かっこうにだけ〉　カオ\ntsu'ra〈林中の前面のおもしろい?〉　kao\nツラ〈かっこいいときに?（場合）〉　カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02631.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02631",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02631.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-32\n質問番号／地図番号 106\n項目名 顔\nA 普通注記（B 欠いた共通語 C 欠いた特殊語）\nページ（45）\nA・(B)・(C) ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉( )［ ］は厳密にする。\n表見出し：\n地点番号／A 語形とその注記（B・C 聞いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n行内容（地点番号以外）：\nツラ（鼻）  | カオ\n tsu'ra〈…口×昔〉 | kao\n ツラ〈下〉（…ツラ〈下〉） | カオ\n ツラ（鼻） | カオ\n -tsura（鼻） | -kao\n tsu'ra〈けんかをしたとき〉 | kao\n tsu'ra〈…はなのばあい〉 | kao\n tsu:ira（誘導して tsu:ira を聞いた音便もの） | kao\n （古）ツラ | kao\n tsu:ira〈怒るとき〉 | kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02632.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02632",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02632.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6617.75",
+      "6618.46",
+      "6618.51",
+      "6620.49",
+      "6621.57",
+      "6622.69",
+      "6624.13",
+      "6625.66",
+      "6628.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-33\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は統一にする。\n質問番号　　地図番号 106\n項目名　顔 057\nA 普通注記　B 限いた共通語　C 限いた特殊語　ページ (46)\n地点番号／A 言形とその注記（B・C除いた言形とその注）／A 注のない言形（B・C残した言形とその注）\n(下) ウラ ＜ツラアミロなどと＞　カオ\n(右) ウラ　カオ\ntsura’（鼻赤）〈相手の顔に何かついている時など［tsura’miro］という。おもしろいことば〉 -kao\nkao ［tsura］\ntsura 単・稀； sa’tsura 単・稀　kao\n! tsura ＜昔＞　kao\ntsura 下； sa’tsura 下　kao\ntsura’ ＜鼻＞； sa’tsura ＜鼻＞　kao\ntsura’ ＜鼻＞　-kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02633.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02633",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02633.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [],
+    "other_text": "・A・(B)・(C)ごとに別紙を使用する。 ・その中での情報は地点番号順に並べる。 ・注記の〈 〉( ) [ ] は略称にする。 日本言語地図資料用紙 注記一覧 26-34 質問番号　地図番号 106 項目名　顔　057 A. 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (47) 見出し: 地点番号 / A 語形とその注記（B・C 除いた語形とその注） / A 注のない語形（B・C 残した語形とその注） 行内容（概略・転写）: tsura (… )　— kao tsura 〈希〉〈単体〉　— kao tsura 〈意地の悪い顔〉; sattsura 〈i:〜site … に使う〉　— kawo tsuha　— kao ! sattsura 〈…〉　— kao tsura　— ka^o tsura; ja'tsura　— kao ja'tsura　— ka^o tsuha　— kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02634.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02634",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02634.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-35\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（ ）［ ］は略記にする。\n質問番号／地図番号 106\n項目名 顔 037\nA 普通注記　ページ(48)\n見出し: 地点番号／A 語形とその注記（B・C 聞いた語形とその注記）／A ほかの語形（B・C 残した語形とその注記）\n記入: \ntsumura 単　kao\ntsumura 下, ja'tsumura 下　kao\nsatsumura 単　kao\n-kao ＜鼻系は「-tsuma」＞\ntsuura〈鼻〉, satsuura〈もともと鼻〉　kao\nkao ＜子供が「tsumura」といった など＞\nsatsumura ＜F. 古＞\nkao ＜tsumura—手—は言わない。裏口のばでも。kao: arate koi という＞\ntsumura F , ja'tsumura F の下　kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02635.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02635",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02635.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<> () [] は厳密にする。 日本言語地図資料採用紙 注記一覧 26-36 質問番号／地図番号 106 項目名 顔 057 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (49) 見出し: 地点番号／A 異形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注） 行内容（おおよその転写）: ja'tsura 単    kao tsura 下, ja'tsura F, T    kao F tsura, 単 ja'tsura    kao tsura 単    kao tsura 〈鼻〉    kao tsura 〈鼻〉    kao- tsuura 〈鼻〉, sattsuura〈もっとも鼻〉    kao tsura, ja'tsura〈にくいか?〉    kao ja'tsura    kao tsura〈鼻〉〈鼻〉, ja'tsura〈鼻〉    kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02636.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02636",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02636.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6655.87",
+      "6657.54",
+      "6661.02",
+      "6662.01",
+      "6667.81",
+      "6686.75",
+      "6697.39",
+      "6697.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-37\n質問番号　　地図番号 105\nA 普通注記／(B 除いた共通語)／(C 除いた特殊語)\nページ (50)\n- A・(B)・(C)ごとに別紙を使用する。\n- その中での情報は地点番号順に並べる。\n- 注記の＜ ＞( ){ }は厳密にする。\n見出し：地点番号／A 語形とその注記（B・C除いた語形とその注記）／A 注のたい語形（B・C 残した語形とその注記）\n項目名 顔 057\n! tsuta〈鼻〉\n! ja'tsuta〈鼻〉〈相手の悪口を言ったような時、ja'tsuta mi'te という〉\ntsura'〈鼻では使わない。普通のことばに〉\ntsuta〈鼻〉　kao\nja'tsuta〈鼻 けなかった〉　kao\ntsura'〈古〉　ka'wo\ntsura〈ツラ アラシタ などと普通に使う〉\ntsura〈普通のことば〉\ntsura〈昔の人が使った〉　kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02637.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02637",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02637.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6698.20",
+      "6700.25",
+      "6700.48",
+      "6700.98",
+      "6710.02",
+      "6710.70",
+      "6711.12",
+      "6711.60",
+      "6711.95",
+      "6720.23"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 26-38\n質問番号／地図番号 106\n項目名 顔 057\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\nページ (51)\n\n見出し：\n地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 除いた語形とその注）\n\n6698.20  tsūra〈古〉    |  kao\n6700.25  tsūra〈争〉    |  kao\n6700.48  tsūra〈争〉, satsuura〈もっと争〉 |  kao\n6700.98  tsūra〈?（変わった度?）〉 |  kao-\n6710.02  tsūra〈争〉    |  kaō\n6710.70  tsūra〈善?〉   |  kao\n6711.12  tsūra〈争〉    |  kao\n6711.60  tsūra〈古〉    |  kao\n6711.95  tsūra〈争〉    |  kao-\n6720.23  tsūra〈争〉, jattsūra〈争〉 |  kaō",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02638.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02638",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02638.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-39\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><[]は簡術にする。\n質問番号／地図番号 106\n項目名 顔 087\nA 普通話法  B 聞いた共通語  C 聞いた特殊語\nページ (52)\n表見出し: 地点番号／A 語形とその注記（B・C 聞いた語形とその注）／A 注のない語形（B・C 残した語形とその他の注）\n行内容:\ntsura〈鼻〉　|　kao\nkao〈東では tsura〉　|　kao\ntsura〈古〉　|　kao\ntsūra〈古〉　|　kao\nツラ　単称　|　ot\nkawa〈古〉　|　kao\n(鼻) tsura　|　kao\ntsura’〈下〉　|　-kao\n# tsura〈下b〉　|　ka'o\nkao〈tsura は尊称でいう〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02639.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02639",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02639.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "7325.57",
+      "7326.69",
+      "7330.31",
+      "7334.78",
+      "7342.12",
+      "7342.72",
+      "7342.76",
+      "7343.17"
+    ],
+    "other_text": "日本言語地図資料用紙  注記一覧 26-40\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞〈 〉( )は厳密にする。\n質問番号  ／  地図番号 106\n項目名  顔\nA 普通注記   （B …） （C …）  ページ (53)\n見出し: 地点番号／A 語形とその注記（B・C 除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n・kao-   kawa arau（顔を洗う）\n・tsura’ 〈下〉   -kao\n・ツラ  tsura〈下〉   kao\n・tsura’ 〈下〉\n・tsura 〈=この地域では、ケンカなどでの悪い言葉〉  kao\n・tsura- 〈古〉\n・tsura (kao)（顔と同意に云う。単異の語感はこの地方には存在しない。）  併用ともみえるか…（このカード書き入れの後…）\n・tsura〈下・斜〉  kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02640.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02640",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02640.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-41\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）は該当語にする。\n質問番号／地図番号 106\n項目名 顔 057\nA 普通注記／(B 除いた共通語)／(C 除いた特殊語)／ページ\n見出し：地点番号／A 語形とその注記（B・C 除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n— tsurā <F>　右欄: kaʔo, -kawo\n— turā <F>\n— kao 〈横語のも tsuraku’sari と言うこともあり〉\n— kai: 〈kai:; aho: は近ごろは tjo:zum tsukoite koi のような言い人が多い〉\n— tsura  買語ではない。kao を共通語として意識し、ツラを方言形としている。（…）\n— tjura: 〈tjura 語の…〉 意識差は殆どない。通常同様に使う。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02641.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02641",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02641.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-42\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号／地図番号 106\n項目名 顔 057\nページ（55）\n\n見出し: 地点番号 / A 語形とその注記［B・C 欠いた語形とその注］ / A 注のない語形［B・C 残した語形とその注］\n\n各行の語形（地点番号欄に対応）:\nツラ〈古〉 ／ カオ\ntsura〈古〉 ／ ka'o\n同上 ／ kao\ntsu'ra〈チュ…〉 ／ ka'o\ntsura〈下〉 ／ kao-\nツラ〈やや古〉 ／\nツラ（単純とすれば ならぬようである）／\nツラ（単純では ないようである）／\nツラ〈単〉／\ntura'〈下〉 ／ ka'o",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02642.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02642",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02642.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "7366.87",
+      "7372.27",
+      "7372.96",
+      "7373.99",
+      "7374.15",
+      "7374.75",
+      "7375.71",
+      "7376.62",
+      "7377.72"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>()[]は厳密にする。 日本言語地図資料用紙 注記一覧 26-43 質問番号 地図番号 106 項目名 顔 A 普通注記 (B 狭い共通語) (C 狭い特殊語) ページ (56) 地点番号 | A 言形とその注記（B・C 該当した言形とその注） | A 注のない語形（B・C 残した語形とその注） tsura〈古希〉 / 右欄: kao- ツラ〈卑〉〈子〉 / 右欄: カオ ツラ〈子〉(やや卑)(やや古) / 右欄: カオ ツラ〈希〉 / 右欄: カオ ツラ〈古く〉〈子〉[一般的] ツラ（子・下） / 右欄: カオ kao〈この頃はkaoの方を多く使う〉 tsura tsura〈古卑〉 / 右欄: kao kao（B 常語）, tsura〈鼻称〉 bintsaku〈鼻林？〉暗語的？ bintsaku tjijimawasu などという",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02643.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02643",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02643.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "7381.97",
+      "7382.01",
+      "7383.83",
+      "7383.98",
+      "7385.84",
+      "7386.55",
+      "7394.14",
+      "7395.25",
+      "7395.63"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での書き入れは地点番号順に並べる。 ▶ 注記の〈 〉( )〔 〕を厳密にする。 日本言語地図資料用紙 注記一覧 26-44 質問番号／地図番号 106 項目名 顔 A 音通注記 （B 欠いた共通語） （C 欠いた特殊語） ページ (57) 見出し: 地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 注のない語形（B・C 欠した語形とその注記） 記入例: ツラ（単独ではない）。 tsura〈昔はいった〉／右欄: kao。 ツラ〈着×佗〉。 ツラ〈古(?)〉／右欄: カオ。 tsura〈…〉／右欄: kao。 tsupa〈鼻形〉／右欄: kao。 tsura〈鼻〉／右欄: kao。 tsupra〈鼻〉／右欄: kawo。 kao〈このほうはこちらも多く使う〈…と思う〉〉；tsura〈別に単独ではない〉。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02644.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02644",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02644.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "7395.88",
+      "7396.16",
+      "7400.11",
+      "7400.15",
+      "7401.60",
+      "7403.21",
+      "7404.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-45\n質問番号／地図図番号 106　普通語　ページ(58)\n項目名 顔\n\nA 語形とその注記（B・C 欠いた語形とその注記）／A 欠のない語形（B・C 欠いた語形とその注記）\n\ntsura〈現在は……これも使い，別に専科と隠ったわけではなかったと思う〉　kao\ntsura〈単称〉　kao\nkawa〈sawa「棒」，nawa「縄」もある由〉　kao\nkawa〈自然は kawa ……〉\nkawa〈老人が…っていう〉　kawo\ntsura〈下〉 tsura tsuki／tsura kuse／tsura bushi → no okajige na jatsu（など）\ntsura〈…; ano tsura mii; ano tsura wa joi; などという〉　kao\n\nA・B・Cごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉( ) は該語にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02645.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02645",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02645.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "7406.25",
+      "7416.34",
+      "7427.71",
+      "7431.08",
+      "7431.13",
+      "7431.82",
+      "7471.33",
+      "7500.26",
+      "7501.14",
+      "7501.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-46 / 質問番号 / 地図番号 / A 普通語（B 聞いた共通語）（C 聞いた特殊語）/ 項目名 顔 106 057 / ページ (59)\n▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜ ＞( ) は略にする。\n見出し：地点番号 / A 語形とその注記（B・C 聞いた語形とその注）/ A 注のたい語形（B・C 残した語形とその注）\n行内容（数字欄以外）：\n- tsura ＜鼻＞ / kao\n- kao「tsura という人もある。写真にして。」\n- ツラ（身） / カオ\n- 〈古〉 kawa / kawa\n- 〈下〉 tsura / kawa\n- tsura ＜下＞ / kao\n- tsuka ＜鼻粕＞ / kao\n- ツラ ＜鼻粕＞ / カオ\n- ツラ ＜下＞〈意味を言う時に用いる〉 / カオ\n- ツラ〈なんとなりとか、顔（皮?）（笑）〉 / カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02646.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02646",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02646.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-47\n質問番号 地図番号 106\n項目名 額 057\nページ (60)\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくく〈 〉( ) は統一にする。\n地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\nツラ〈下〉／カオ\n同上／カオ\nツラ〈上がらないことなどに用いる。ギヤマ ソノツラ ミョ〉／カオ\nツラ〈下〉／カオ\nツラ〈下〉／カオ\n同上／カオ\n同上／カオ\n同上／カオ\n同上／カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02647.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02647",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02647.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-48\n質問番号  地図番号 (106)\n項目名  顔 007\nA 普通注記 / (B 除いた共通語) / (C 除いた特殊語)\nページ (61)\nA・B・Cごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）は…（判読不十分）。\n見出し: 地点番号 / A 語形とその注記［B・C 除いた語形とその注］ / A 注のない語形［B・C 残した語形とその注記］\n記入: いヅラ〈F〉 — カオ\n同上 — カオ\n同上 — カオ\n同上 — カオ\n同上 — カオ\nいヅラ〈どんなつら、なことば…〉 — カオ\ntsura〈鼻〉 — カオ\nkao〈地域では tsura と言うかも知れない〉 — カオ\njattsura〈児・年〉 — kao\nいヅラ〈古・番〉 — カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02648.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02648",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02648.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "8303.47",
+      "8305.76",
+      "8306.04",
+      "8306.42",
+      "8315.46",
+      "8316.20",
+      "8321.58",
+      "8325.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-49\n質問番号　　地図番号 106\n項目名　顔 057\nA 普通注記／（B 除いた共通語）／（C 除いた特殊語）\nページ（62）\n- A・(B)・(C)ごとに別紙を使用する。\n- その中での併用は地点番号順に述べる。\n- 注記のく>( )<は傍線にする。\n表見出し: 地点番号／A 語形とその注記（B・C 除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n記入内容（地点番号欄以外）:\ntsura（ちょっと目下の者にという感じ。例えば子供に対して言うことばだが、卑称というほどではない）　右欄: カオ\ntsura 多 …（この方を多く使うという義）\nkao〈現在 多く使う〉　右欄: tsuya\ntsura〈やや卑語にはならない感じ〉\ntsura〈鼻〉（どんな言い方を見る方がよい）　右欄: kao\ntsura〈下〉　右欄: kao\ntsura〈希〉　右欄: kao\nkao〈今はこの方を多く使う〉／tsura〈昔はこの方を多く使った〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02649.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02649",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02649.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-50\n▷ A・(B・C)ごとに別紙を使用する。\n▷ その中での情報は地点番号順に並べる。\n▷ 注記の＜＞（）［ ］は略にする。\n質問番号／地図番号 106\n項目名 顔 057\nページ (63)\n見出し: 地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n1) tsuha（鼻） — kawo\n2) tsuha（希× たれなん すたれ気味） — kao\n3) tsuha（古） — kao\n4) tsuha（現在では…異称になっているようだ） — kao\n5) tsuma（古） — kao\n6) tsura（要素はこの方を使っていると思う） — kao\n7) tsuha（希） — kao\n8) kao〈3〉 — tsura\n9) tsuha〈古〉 — kao\n10) tsura〈使用者ほぼ…〉 — kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02650.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02650",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02650.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-51\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ]は略語にする。\n質問番号　地図番号 106／項目名 顔 057／ページ (64)\n地点番号／A 語形とその注記（B・C 限いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\ntsuha 〈希〉　…　kao\nkao 〈ク〉　…　tsuha\ntura（tsūra でない…だった？）　㋑ kao と同居村。tsūra を誘導しても表現しない。\ntsīra 〈希〉　…　tjīra\nk’awo 〈新か〉\n’tura 〈hoho も kao も混用です？〉\n’tura（落主を訂正したか。実際は ’tura を使うらしい。調査終了後 同人の口からそれだと…）＊tsura\ntjīra 〈新〉，tjīja 〈古〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02651.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02651",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02651.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "2086.03"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 26-52 質問番号　 地図番号 106 項目名 額 057 A 普通注記 （B 限いた共通語） （C 限いた特殊語） ページ (65) 地点番号／A 語形とその注記〔B・C 除いた語形とその注記〕／A 注のない語形〔B・C 除いた語形とその注記〕 mi: hana ＜多く用いる＞ umuti",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02652.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02652",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02652.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "0789.95",
+      "1770.18",
+      "2751.10",
+      "2785.74",
+      "3705.42",
+      "3725.72",
+      "3727.81",
+      "3757.32",
+      "3770.96",
+      "3775.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-53 / 質問番号 / 地図番号 106 / 項目名 顔 057 / A 普通注記 （B 除いた共通語）（C 除いた特殊語）/ ページ（1）\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈 〉[ ]は厳密にする。\n見出し：地点番号／A 語形とその注記［B・C 除いた語形とその注］／A 注のない語形［B・C 残した語形とその注］\n行内容（数値を除く）：\nkao〈ケ〉　tsura〈多〉\nカオ〈新〉　ツラ\nカオ〈女〉　ツラ\ntsïra（左：〈共〉kao）\n＊kao〈新〉　同上\nカオ〈丁寧な語〉　ツラ\nカオ〈上〉　ツラ\nカオ〈新〉　ツラ\nkao（いい語）　tsüura\nカオ〈ケ〉　ツラ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02653.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02653",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02653.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "3777.32",
+      "3777.48",
+      "3778.00",
+      "3780.65",
+      "3791.02",
+      "3794.55",
+      "3797.32",
+      "4619.63",
+      "4637.20",
+      "4638.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-54\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく><〉は廃語にする。\n質問番号  地図番号 106\n項目名 顔 057\nA 普通語注記  (B 欠いた共通語)  (C 欠いた特殊語)  ページ (2)\n見出し: 地点番号 / A 語形とその注記（B・C 欠いた語形とその注） / A 注のたい語形（B・C 残した語形とその注）\n3777.32  カオ〈新〉        ツラ\n3777.48  カオ〈改〉        ウラ\n3778.00  カオ〈新〉        ツラ〈旧〉\n3780.65  kawo（ていねい）  tsuira（普通）\n3791.02  kao〈新〉         tsira（M 単は mukatsima）\n3794.55  カオ〈新〉        ウラ\n3797.32  カオ〈楠〉        ツラ\n4619.63  kao〈上・新〉     tsuura〈もと〉\n4637.20  kao〈新〉         tsura〈古〉(?）\n4638.43  kao〈英〉         tsumura（ののしる語はない）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02654.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02654",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02654.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "4648.04",
+      "4648.42",
+      "4659.85",
+      "4668.27",
+      "4677.65",
+      "4678.77",
+      "4679.65"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく（ ）は該当語にする。\n\n日本言語地図資料用紙　注記一覧 26-55\n質問番号／地図番号 106\n項目名 顔 057\n(A 普通注記) (B 書いた共通語) (C 書いた特殊語)\nページ (3)\n\n表見出し：\n地点番号／A 語形とその注記（B・C除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n\n各行（左から右）：\nkao〈新〉　tsura ＜若い時から使い、今でも用いるが、よそでつっぽく言うて笑われたことがあり、それからは kao を多く用いるようになった。＞\nkao〈芦〉　tsura\nkao〈上〉　tsuusa\nkao〈共〉　tsura\nkao〈新・共〉　同上\nkao〈上〉〈共〉　!tsura\n!tsuma（良い言葉でないのか？ 習慣的にツラを発したので笑う）　kao",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02655.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02655",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02655.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "4686.52",
+      "4686.96",
+      "4687.37",
+      "4695.87",
+      "4700.37",
+      "4701.73",
+      "4704.04"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-56 / 地図番号 106 / 項目名 顔 057 / （ページ 4）\n- A・[B]・[C]ごとに別紙を使用する。\n- その中での情報は地点番号順に並べる。\n- 注記のく（ ）［ ］は厳密にする。\n見出し：地点番号／A 語形とその注記（B・C 欄いた語形とその注）／A 注のない語形（B・C 欄いた語形とその注）\n行内容（番号欄以外）:\nkao〈新〉    tsuura［希］〈下品ではない〉\n同上          tsuura〈在来のことば〉（鼻声ではない）\nし\nkao〈新・先〉 tsuura〈鼻声ではなく、これを常に多く用いる〉\nkao〈芥〉〈子〉 tsura\nkao〈上〉      tsüra\nkao〈新〉      tsūra\nカオ〈新〉     りう〈古〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02656.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02656",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02656.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "4710.18",
+      "4711.41",
+      "4713.02",
+      "4713.45",
+      "4714.68",
+      "4715.98",
+      "4724.00",
+      "4736.63",
+      "4741.92",
+      "4750.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-57\nA・(B)・(C)ごとに別紙を使用する。\nその中での順位は地点番号順に並べる。\n注記のく > ( ) { } は該辞にする。\n質問番号／地図番号 106\n項目名 額 057\nページ (5)\n表見出し: 地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n行内容（左列の地点番号を除く）:\nkao (米)    tsüsa\n[kao]〈上〉    tsūra, tsüsa\nkao〈新〉    tsüura\n同上    ! tsufa\nkao〈上〉    tsufa\nkao〈上〉    ttsüsa\nkao  語解をみもむ    * tsūra\nkao  語解をみもむ    * tsumra\nkao〈上〉    lg. tsūra〈下〉, tsūra\nkao〈新〉    tsüsa",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02657.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02657",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02657.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "4760.02",
+      "4761.57",
+      "4762.77",
+      "4771.98",
+      "4793.41",
+      "5604.28",
+      "5606.83"
+    ],
+    "other_text": "・A・(B)・(C)ごとに別紙を使用する。 ・その中での情報は地点番号順に並べる。 ・注記のく＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 26-58 質問番号／地図番号 106 項目名 顔 067 ページ（6） A 普通注記（B 書いた共通語）（C 書いた特殊語） 見出し：地点番号／A 語形とその注記（B・C 書いた語形とその注記）／A 注のたい語形（B・C 書いた語形とその注記） 1) A: kao 〈上〉  | 右欄: tsuura 2) A: kao 〈上〉  | 右欄: tsuura 〈これも多く使う〉 3) A: kao 〈上〉  | 右欄: tsutra（不確） 4) A: kao 〈これも使う〉（希とみとな？） | 右欄: tsuura 5) A: kao 〈上〉  | 右欄: tsuura 〈普通これを使う〉 6) A: kao 〈新・希・共〉 | 右欄: ! tsuura わるいことにはではないが、死人は多く用いるし、私も（死者に対しては？）多く用いる 7) A: kao 〈共〉 | 右欄: tsuura 〈単独ではなかったか？ かたい「顔」… 友人には使はない〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02658.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02658",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02658.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "5608.16",
+      "5614.62",
+      "5614.68",
+      "5615.20",
+      "5615.28"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での情報は地点番号順に記入する。 ▶ 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 26-59 質問番号／地図番号 106 項目名 顔 057 A 普通注記 （B …共通語） （C …特殊語） ページ（7） 見出し：地点番号／A 語形とその注記（B・C除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記） 記入例（本文）： kao ＜今＞ | tsuura〈くた〉普通の言い方である。 kao ＜先＞ | tsura kao ＜新＞〈若い時は使わなかった〉 | !tsuma〈下希〉〈若い時はよく使った〉 kao（芦）（土） | tsura〈？〉「外に言い方はありませんか」に答えたもの、等の注記。 kao ＜芦・上＞ | tsura",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02659.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02659",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02659.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "5615.74",
+      "5617.28",
+      "5624.05",
+      "5625.9",
+      "5625.91",
+      "5626.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-60\nA・(B)・(C) ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞（）［］は厳密にする。\n質問番号　／地図番号 106\n項目名　顔 057\nページ（1）\n\n地点番号　A 語形とその注記（B・C 聞いた語形とその注記）\n\nkao〈上〉　tsuura〈…ではない〉多く用いる。\nkao〈これを使うこともある〉稀にある。　tsuura〈普通語〉\nkao〈共上〉　tsuura（共通語的な語では使わないが、方向的・場面では別に「面」の心持ちは保つ）\n（空欄）　tsuura〈？〉（「引上と言ふか」…）\nkao〈上〉〈共〉　昔ほど使ったが今は娘の孫に対して使う位である。\nカオ〈新〉　イラ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02660.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02660",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02660.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "5635.65",
+      "5636.49",
+      "5641.13",
+      "5641.73",
+      "5642.31",
+      "5643.33",
+      "5644.74",
+      "5645.43",
+      "5645.89"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈 〉（）は厳密にする。 日本言語地図資料用紙 註記一覧 26-61 質問番号　 地図番号 106 項目名　顔 057 A 普通注記 （B 聞いた共通語） （C 聞いた特殊語） ページ（7） 地点番号／A 語形とその注記（B・C 聞いた語形とその注記）／A 注のない語形（B・C 聞いた語形とその注記） カオ〈共〉　ツラ〈単〉 カオ〈ウ〉　ツラ 英 kao　tsura〈普通にそう言う〉 kao〈上〉　tsuura kao〈共〉　tsura〈特別尋しめていうことばでもない〉 kao〈上〉　tsura〈ふつうに使っている〉 カオ〈共〉　ツラ〈鼻・下〉 カオ〈上〉　ツラ〈下〉 カオ〈上〉　ツラ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02661.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02661",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02661.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [],
+    "other_text": "A・(B・C) ごとに別表を使用する。 その中での情報は地点番号順に並べる。 注記のく＞＜（）は厳密にする。 日本言語地図資料用紙 注記一覧 26-62 質問番号／地区番号／項目名 地区番号 106 項目名 顔 A 普通注記 （B 欄いた共通語） （C 欄いた特殊語） ページ (10) 見出し: 地点番号／A 語形とその注記（B・C 欄いた語形とその注）／A 注のない語形（B・C 欄いた語形とその注） カオ〈上〉　ツラ〈多〉 カオ〈安〉　ツラ〈単〉 カオ〈新〉　ツラ〈右、多〉 カオ〈芳〉　ウラ〈古常〉 英 kao　tsura〈普通に使う〉 kao〈上〉　tsura〈一般に通用することばではない〉 カオ〈斜〉　ウラ カオ〈共〉　ツラ〈下〉 カオ〈上〉　ツラ〈古〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02662.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02662",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02662.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "5674.59",
+      "5677.14",
+      "5677.28",
+      "5678.59",
+      "5685.02",
+      "5685.37",
+      "5689.10",
+      "5699.25",
+      "5722.37",
+      "5760.24"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＜＞（ ）［ ］は厳密にする。 日本言語地図資料用紙 注記一覧 26-63 質問番号／地図番号 106 項目名 顔（057） A 普通注記 ページ（11） 見出し：地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 注のない語形（B・C 残した語形とその注） 行内容（数値欄以外）： カオ〈上〉 ｜ ツラ〈多〉 kao〈夫〉 ｜ tsura カオ〈今・昔〉 ｜ ツラ〈昔 悪口に非ず〉 kao〈今〉 ｜ tsūra kao〈夫〉 ｜ tsūra 同上 ｜ tsura kao〈今〉 ｜ tsura〈昔〉 kao; amu〈夫〉 ｜ tsura, jattsura（鼻） kao〈新〉 ｜ tsura kao〈（いわれた人が言うだけで殆んど言わない）〉 ｜ tsuūra（これが普通）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02663.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02663",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02663.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "5790.03",
+      "5790.39",
+      "5792.18",
+      "5793.63",
+      "6378.87",
+      "6428.13",
+      "6481.15",
+      "6492.11",
+      "6609.05"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>()[]は厳密にする。 日本言語地図資料用紙 注記一覧 26-64 質問番号／地図番号 106 項目名 顔 057 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (12) 見出し: 地点番号 / A 語形とその注記（B・C 除いた語形とその注記） / A 注のない語形（B・C 残した語形とその注記） 行内容（地点番号欄以外）: 共 kao  — tsura 同上 — 同上 kao〈新〉 — tsuu'ra kao〈今〉 — tsutra（昔） カオ（新） — カク（古） カオ〈今〉 — ツラ〈古〉 今、カオ — 古、カワ kao〈上〉 — kawa〈kawa-tsuke-ojii〉のような発音もある （古）ケラ — 新）カオ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02664.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02664",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02664.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく><()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 26-65\n質問番号 地図番号 106\n項目名 顔 057\nA 普通注記\n[B] 除いた共通部\n[C] 除いた特殊部\nページ (13)\n\n地点番号／A 語形とその注記（B・C除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\nkao 上    tsura\nkao 〈新〉  tsu'ra\nkao 〈上島〉 tsu'ra〈ツラ アラコダ など 普通に使う〉\nkao 〈上〉  tsumura〈普通のことば〉\nkao 〈上〉  tsura\nkao 〈上・共〉 tsu:ra\n〈新〉 kao   tsuha\nkao- 〈新・上〉 t'ura\nkao 〈上島ふつうで使うとき〉 tu'ra",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02665.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02665",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02665.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 26-66\n質問番号 地図番号 106\n項目名 顔 057\nA・B・Cごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n（A 普通語注／B 除いた共通語／C 除いた特殊語）\nページ (14)\n見出し: 地点番号／A 語形とその注記［B・C 除いた語形とその注］／A 注のない語形［B・C 残した語形とその注］\n行メモ:\nkao〈上島〉 | tsura〈下島〉\nkao〈新〉 | tsūra〈古〉\nkawo’〈上〉 | tsurā\nkao(新) | tjura（tjura 逆ることが？）（景意の意になる時に、通常はカオも同様に使う）\nカオ〈共・希〉 | ツラ\nカオ〈新〉 | ツラ\nカオ〈先・新〉 | ツラ〈や・古〉\nカオ〈新〉 | ツラ\nカオ〈新〉 | ツラ〈単純ではないようで弱？〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02666.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02666",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02666.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "7364.34",
+      "7372.96",
+      "7373.56",
+      "7373.92",
+      "7374.15",
+      "7375.30",
+      "7376.68",
+      "7381.38",
+      "7382.93",
+      "7383.83"
+    ],
+    "other_text": "日本言語地図資料用紙 記述一覧 26-67\n質問番号／地図番号／項目名 顔 057　地図番号 106　ページ(15)\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()は厳密にする。\n見出し: 地点番号／A 語形とその注記（B・C除いた語形とその注記）／A 記のない語形（B・C 残した語形とその注記）\nカオ〈新〉　|　ツラ\nカオ〈上〉　|　ツラ〈?〉(やや鼻)(やや舌)\nカオ〈新〉　|　ツラ\n同上　　　　|　ツラ\nカオ〈共〉　|　ツラ〈子〉〈古〉〈一般ら〉\nkao 新　　　|　tsura\nkao〈上〉　 |　tsura\nカオ〈新〉　|　ツラ\nカオ〈上 希〉|　ツラ\nカオ〈共〉　|　ツラ〈希〉〈古〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02667.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02667",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02667.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_080.jpg",
+    "page_index": 80,
+    "location_numbers": [
+      "7390.26",
+      "7391.94",
+      "7393.62",
+      "7400.15",
+      "7411.61",
+      "7431.08",
+      "7431.13",
+      "8302.19",
+      "8302.55",
+      "8303.70"
+    ],
+    "other_text": "日本言語地図資料用紙・注意票 26-68\n質問番号　　地図番号　106\nA 普通注記\nB 除いた異語形\nC 除いた特殊語\nページ (16)\n項目名　顔 057\n\n地点番号　A語形とその注記（B・C除いた語形とその注記）　A 注のない語形（B・C残した語形とその注記）\n\nカオ〈新〉　ウラ\n同上　　　　ウラ\nカオ〈共〉　ウラ\nkao〈改〉　kawa〈B欄にはkawaが…〉\nkao〈上〉　kawa\n〈新〉kao　〈古〉kawa\n〈上〉kao　〈下〉tsura, kawa\nカオ〈新〉　ウラ\nカオ〈共〉　ウラ\nカオ〈新〉　ウラ\n\nA・〔B〕・〔C〕ごとに別紙を使用する。\nその中での昇順に地点番号順に並べる。\n注記の〈 〉（ ）は注数器にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02668.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02668",
+    "source_canvas_label": "81",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02668.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_081.jpg",
+    "page_index": 81,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料使用紙 記述一覧 26-69\n調査番号　　地図番号 106\nA 方言語形\n(B 欠いた共通語)\n(C 欠いた特殊語)\n項目名 顔 05\nページ (17)\n\n地点番号｜A 語形とその注記（B・C 欠いた語形とその注記）｜A 以外の語形（B・C 欠いた語形とその注記）\nカオ〈新〉　ウラ\nkao〈新〉　tsura\nkao 共　tsura（視聴語者がこの方を多く使うという義）\nkao〈新〉　tsuha\nkao〈上島〉　tsuha\n同上　同上\nkao〈よそ行き〉　tsuha\nkao〈上〉　tsura\n\nA・B・Cごとに別紙を使用する。\nその中での詳録は地点番号順に並べる。\n注記のく<>()は厳密にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02669.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02669",
+    "source_canvas_label": "82",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02669.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_082.jpg",
+    "page_index": 82,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別表を使用する。 その中での記載は地点番号順にする。 注記のく〈 〉( )は該当語にする。 日本言語地図資料利用紙 記入一覧 26-70 質問番号 地図番号 106 項目名 額 057 A 普通話語 B 限いた共通語 C 限いた特殊語 ページ (18) 見出し: 地点番号 / A 語形とその注記（B・C 限いた語形とその注）/ A 注のたい語形（B・C 残した語形とその注） 行内容: kao〈新・希〉 | tsura kao〈上品〉 | 同上 kao〈希〉 | 同上 kao〈新（現在はこれを使う）〉 | tsuma〈古〉 kao〈上〉 | tsuma（平素はこの方を使っていると思う） kao〈新〉 | tsura 同上〈多分 あらたまった言い方〉 | 同上 同上〈少 あらたまる時〉 | 同上 kao〈やや上〉 | 同上",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02670.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02670",
+    "source_canvas_label": "83",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02670.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_083.jpg",
+    "page_index": 83,
+    "location_numbers": [
+      "8362.85",
+      "8372.47",
+      "0256.08"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別表を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 26-71\n資料番号　地図番号　106\n項目名　顔 057\nA 普通注記　B 除いた共通語　C 除いた特殊語 (19)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n8362.85   kao <希>    tsuha\n8372.47   kao <夭>    tsura\n0256.08   kao <新>    'tira",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02671.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02671",
+    "source_canvas_label": "84",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02671.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  },
+  {
+    "source_image": "page_084.jpg",
+    "page_index": 84,
+    "location_numbers": [
+      "0747.70",
+      "5679.31"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　26-72\n\n質問番号　地図番号　106\n項目名　顔　057\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(1)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n\n0747.70  tsura <秋田や東北の連中は tsura という>  kao\n5679.31  ts(ū)ra <在で>  kao",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02672.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M106Q057/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02672",
+    "source_canvas_label": "85",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02672.tif",
+    "source_ljc_id": "LJC-M106Q057",
+    "source_map_numbers": [
+      "106"
+    ],
+    "source_title": "かお (顔)"
+  }
+]

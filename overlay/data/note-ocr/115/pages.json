@@ -1,0 +1,123 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1793.14"
+    ],
+    "other_text": "A\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　30-08\n資料番号　044　地図番号　115\n項目名　口　044\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n17 57.61　フつィ　70k it　1793.14でこの調査者はフつィーkutsjとしたいる。\n17 93.14　クシィ　(kutʃi)\n37 95.19　クズ　ジに近い　70k、かりにkudzjとする。9ma、かりにkudzjとする。\n46 07.54　Kundzj　(kundzïともきこえることあり。)\n46 47.87　クズ　(KW-zü)\n46 48.42　kutʃi　tʃi edzi等中間音。\n46 53.84　kutsj　tなどの音が弱い。\n47 06.84　kutsj　〈\"幹\"も同音となる。〉\n47 41.44　クズ°　スー排鼻泌\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03008.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M115Q044/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03008",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03008.tif",
+    "source_ljc_id": "LJC-M115Q044",
+    "source_map_numbers": [
+      "115"
+    ],
+    "source_title": "くち (口)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙（語彙記入紙） 30-09\n質問番号 044　地図番号 115\nA／B／C\n項目名\nページ（2）\n\n〈注意書き〉\n・A・〔B〕・〔C〕ごとに別紙を使用する。\n・その中での音類は地点番号順に並べる。\n・注記の〈 〉は傍線にする。\n\n見出し：地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n\n記入：\nクス。ス’は非鼻速音。クス（唇）とはあまりない。クス’（腕）とは？と？とにちっと違います。ラ…ロ、クス’然し。\nクツ　ツィ = tsi\nkuctji（i は i に近し。）\nクツ　ツァ = tsi\nツァ（失）\nツァ（失）\nツァ（失）\nツァ（失）\nツァ（失）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03009.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M115Q044/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03009",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03009.tif",
+    "source_ljc_id": "LJC-M115Q044",
+    "source_map_numbers": [
+      "115"
+    ],
+    "source_title": "くち (口)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "・A・(B)・C ごとに別紙を使用する。 ・その中での順序は地点番号順に並べる。 ・注記のく〈 〉（ ）は注義にする。\n日本言語地図資料用紙 記号一覧 30-10  質問番号 044  地図番号 115  項目名 小指  ページ (3)\n見出し: 地点番号 / A 語形とその注記（B・C 欄に書いた語形とその注） / A 欄のない語形（B・C 欄に残した語形とその注記）\n行本文（概略）:\nkutʃi;  i は u に似る。\nkutʃi; 〈ほかに言い方があるかね〉\nktʃi （誘）kutʃi。\nkabatʃi; 〈鼻口に用いる〉〈強いがバチタレけ〉kutʃi。\nkabatʃi; 〈かべチになども用いる。かな？〉\nnベチ。下。 かもならず等の説明あり。 右欄: 74。\nがバチ。下。 例・用法の追記あり。 右欄: 74。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03010.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M115Q044/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03010",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03010.tif",
+    "source_ljc_id": "LJC-M115Q044",
+    "source_map_numbers": [
+      "115"
+    ],
+    "source_title": "くち (口)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での資料は地点番号順に並べる。 注記のく＞（ ）は註線等にする。\n日本言語地図資料利用紙 注記一覧 30-11\n質問番号 044　地図番号 115　項目名［図あり］　A（普通語）　ページ（4）\n見出し：地点番号／A 語形とその注記（B・C 異いた語形とその注記）／A 注のない語形（B・C 異した語形とその注記）\n手書き注記：という例もあるがな、物を置くと云うか、ものの語形を主にしてかべている、 などの意。\n行メモ：\n・オゾ　＜右・上・セ＞　／　94\n・kutji（「フチ」）\n・kutji（「フチ」）\n・jera　＜右・下＞　／　kutji\n・kutjibata, kutji:　口のところ\n・kut°　b は破裂音を示す\n・kutʃ　をはさむ＝kutba\n・kutgi　tʃi = ʣi\n・tutsi　katachi がひろろう（井上）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03011.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M115Q044/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03011",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03011.tif",
+    "source_ljc_id": "LJC-M115Q044",
+    "source_map_numbers": [
+      "115"
+    ],
+    "source_title": "くち (口)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "A・[B]・{C} ごとに別紙を使用する。 その中での資料は地点番号順に並べる。 注記のく＞（）［］は厳格にする。\n日本言語地図資料利用紙 注記一覧 30-12\n質問番号 044  地図番号 115\n項目名（判読困難）\n（A 普通注記） （B ……） （C ……） ページ（5）\n見出し：地点番号／A 語形とその注記（B・C 欄に書いた語形とその注記）／A 以外の語形（B・C 欄に残した語形とその他）\n記入例（語形・注記の欄の読み取り）：\nkut；（kutji の種タ入声化）\nkut；（kutji；a 音は太方、初めから kut-）\nkutji；（人により、kut とも言う）\nkutji；〈タ〉\nkut；〈多し〉\nkutji；（「半島」）\nkutji；〈庄から〉\nkutji；（「は本島」）\nt'i；（普通の言い方）／tibuni",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03012.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M115Q044/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03012",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03012.tif",
+    "source_ljc_id": "LJC-M115Q044",
+    "source_map_numbers": [
+      "115"
+    ],
+    "source_title": "くち (口)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "B.\nA・(B)・(C)ごとに別紙を使用する。\nその中の情報は地点番号順に並べる。\n注記の< > ( ) は厳密にする。\n日本言語地図資料用紙 注記一覧\n資料番号 044  地図番号 115\nページ (6)\n地点番号／A 語形とその注記（B・C 聞いた語形とその注）／A 注のない語形（B・C 異した語形とその注）\nkwutsi  <上>  kewdze\nkutʃi;  <穴>  kut\nkutʃi  （丁寧に言う場合）  kut",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03013.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M115Q044/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03013",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03013.tif",
+    "source_ljc_id": "LJC-M115Q044",
+    "source_map_numbers": [
+      "115"
+    ],
+    "source_title": "くち (口)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 30-14\n質問番号 044  地図番号 115\n項目名 口\nA （B 欄いた共通語）  C 欄いた特殊語 (1)\nA・(B)・Cごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は従来様にする。\n地点番号／A 語形とその注記（B・C 欄いた語形とその注記）／A 注のない語形（B・C 欄した語形その他の注）\nアパパ （児）\nanKO ＜3＞\nクチ\nkuti;",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03014.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M115Q044/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03014",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03014.tif",
+    "source_ljc_id": "LJC-M115Q044",
+    "source_map_numbers": [
+      "115"
+    ],
+    "source_title": "くち (口)"
+  }
+]

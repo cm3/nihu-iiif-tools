@@ -1,0 +1,958 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1744.60",
+      "1862.48",
+      "2750.93",
+      "2803.22",
+      "3699.55",
+      "4598.33",
+      "1793.14",
+      "2619.28"
+    ],
+    "other_text": "1793.14 コマガイ、KOMAKAI に入れる。 2619.28. コマガイ -> ゴクコマイ等に、 コメェ 日本言語地図資料用紙 注記一覧 4-85 質問番号 163 地図番号 025 項目名 コマカイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞［］は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注記] A 注のない語形 [B・C 残した語形とその注記] 1744.60 コマイ〈タ〉 1862.48 コマイ〈タ〉 2750.93 コメェ〈〉 (ヱマカ? 〆線) コマコイ〈タ〉 右欄：コマカイ チャッコイ 2803.22 N.R.（漁師の生活に多い。） 3699.55 チッ、チェ、メガ?コマイより、メガチン、コマケ チェが一般、（かし、チッ、チェは（小さい）に対応する言である。） 4598.33 tsisai〈希〉 komakoi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00485.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00485",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00485.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4609.25",
+      "4628.28",
+      "4637.20",
+      "4644.10",
+      "4654.52",
+      "4666.42",
+      "4666.51",
+      "4667.26",
+      "4667.33"
+    ],
+    "other_text": "4667.33 komakê 長音と認める。日沢ミル。\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 4-86\n\n調問番号 163    地図番号 025\n項目名 コマカイ\n(A) 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (2)\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]\n4609.25   tsittʃe, ko:meːda. (小目木)ともいう。\n4628.28   tsüittʃa 〈古〉\n4637.20   komae 〈多〉\n4644.10   kome: 〈名詞に komameと言う〉\n4654.52   komaе 〈多〉\n4666.42   tjinkoe 〈希〉\n          tji:sae 〈共〉\n          tsikote: 〈多〉\n4666.51   komakkɔe 〈多〉\n4667.26   komakkœ 〈多〉\n\nA注のない語形 [B・C 残した語形とその注]: tɕisae, tɕise:, komakkae, tɕikkue.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00486.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00486",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00486.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4675.62",
+      "4679.65",
+      "4685.10",
+      "4686.96",
+      "4694.26",
+      "4700.78",
+      "4712.54",
+      "4688.45",
+      "4711.41"
+    ],
+    "other_text": "4688.45. *Komakee: 4711.41 Komakoi? \nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 4-87\n質問番号 163 地図番号 025 項目名 コマカイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語]\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4675.62 * komakkoe. はじめ koma e と答えたが、訂正された。\n4679.65 komake <この例、方用>    tji tte\n4685.10 tjisae (arame, komeと言う名詞) を使うことが多い。 名詞と認める 不採用 高田ラルス\n4686.96 komaTkoe <やや改まった感じがある> tjisae\n4694.26 tjingkoe <これも使うことが多い>\n4700.78 komaka <も> kome <新>\n4712.54 komae <稲>    tjisae",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00487.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00487",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00487.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4713.45",
+      "4714.68",
+      "4722.55",
+      "4724.25",
+      "4715.98"
+    ],
+    "other_text": "4715.98. 2d zone\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧　A-88\n\n資料番号 163　地図番号 025\n項目名　コマカイ\nA 普通注記　(印)　[B 除いた共通語]　[C 除いた特殊語]　ページ (p)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4713.45. bakkoe <古>    tji:sae\n4714.68. atsute <網の目がつんでいると、厚く重なっているような感じがするから、こう言うのだと思う。>\n4722.55. tjakkoe (このことはは、この処では普通は「小さい」(チャッャ)の意にも用いられているようである。)\n4724.25. komae (「小さい」とは言わないようである。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00488.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00488",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00488.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4732.86",
+      "4750.32",
+      "4760.98",
+      "4761.07",
+      "4772.48",
+      "6558.09",
+      "5569.36",
+      "5604.52",
+      "5609.26",
+      "4734.56",
+      "4742.37",
+      "4744.32",
+      "4752.11",
+      "5591.60"
+    ],
+    "other_text": "4734.56. 4742.37 4744.32 4750.32 4752.11 ► A・[B]・[C] 5591.60 その中での情報は地点番号順に並べる。 注記のく ><() は厳密にする。 日本言語地図資料 コマコエ 4-89 資料番号 163 地図番号 025 項目名 コマカイ (A)普通注記 (B)除いた共通語 (C)除いた特殊語 (5) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 4732.86 komae (medo komaeとも言う.) コマコエ 4750.32 コマガダ '細かだ' kome: 4760.98 komakoi <タ> tsi:sae 4761.07 tjakkoe <古> koma e 4772.48 tjittjae <古> komakoi 6558.09 komai <上> komakoi 5569.36 4サイ (コマカイは出まかた。) 5604.52 tji:se: (一般に小さい意味にも用いる.) komakke: 5609.26 komakke・<多> tji:ttle:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00489.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00489",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00489.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5611.39",
+      "5614.68",
+      "5615.78",
+      "5621.43",
+      "5623.85"
+    ],
+    "other_text": "56/5.20. * komakkoe\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 4-90\n資料番号 163 地図番号 025\n項目名 コマカイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (6)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n5611.39    tji:sae (新)                                      tji:tjae\n5614.68    komakae <共>\n           komakkoe. \"外に言い方はありません\"\n           かと言う問いに対する\n           答えである。\n\n5615.78    notkoe <komaTkoe に似いて多く用いる.>\n           tji:sae <希><共>\n           komaTkoe <一番多く用いる.>\n\n5621.43    tji:sai <ち>                                      komakai\n5623.85    komagre <! - gae か>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00490.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00490",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00490.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5635.65",
+      "5644.24",
+      "5644.74",
+      "5652.22",
+      "5655.57",
+      "5666.18",
+      "5667.24",
+      "5625.91"
+    ],
+    "other_text": "5625.91. komakae. [komakae] (共) [tji:sae]\n日本言語地図資料用紙 注記一覧 4-91\n質問番号 163 地図番号 025 項目名 コマカイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n地点番号　A語形とその注記\n5635.65 コマカイ（共）\n5644.24 tji:se:（自然に tji:se: と言われ、 tji:sai ほかは全部 -ai という答えである。（tji:sai）本当は ai でなく e: なのか...）\n5644.74 コマケエ＜共＞\n5652.22 Komake: ＜俗に言うことば＞ komakai\n5655.57 コマカイ（共）\n5666.18 コマカイ（共）\n5667.24 コマッケエ＜多＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00491.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00491",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00491.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5674.06",
+      "5678.33",
+      "5678.59",
+      "5685.02",
+      "5687.86",
+      "5693.13",
+      "5701.25",
+      "5675.87",
+      "5679.86",
+      "5688.94"
+    ],
+    "other_text": "(手書き上部) 5675.87 コマカイ, 159のコマイは質問したが返答なし\n5679.86 komakke (荒) せ(?）た\n5688.94 tji:sai, tji: はやや tsu: に近ずくかに聞える\n\n日本言語地図資料用紙 注記一覧 4-92\n質問番号 163 地図番号 025\n項目名 コマカイ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) (8)\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n行1: コマッカイ <少>\n行2: コマケエ <多>　　　コマッカイ（右欄）\n行3: 4イサイ <共>　　　コマ カイ, チッチャイ（右欄）\n行4: komokke: <古>　　　komakai（右欄）\n行5: tjittse: (最近に自然にパッと出たのは . tjittse:)　　　komakkòi（右欄）\n行6: コマカイ <普通>\n　　　チッチャイ <子供に対して>\n行7: コマッケエ <古>　　　コマッコイ（右欄）\n行8: komae <普通>　　　komakae（右欄）\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00492.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00492",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00492.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5770.11",
+      "5782.79",
+      "5791.68",
+      "5792.02",
+      "5792.82",
+      "5792.78",
+      "6404.83",
+      "5760.24",
+      "6395.61",
+      "6402.94"
+    ],
+    "other_text": "5760.24 komake: k はほとんど ? とよっている\n6395.61 koma e\n6402.94 コメヤ <目が=コメヤ?>\n\n日本言語地図資料用紙 注記一覧 4-93\n質問番号 163 地図番号 025\n項目名 コマカイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) (9)\n\n地点番号   A 語形とその注 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n5770.11   (諸) komage                         tʃiːsae\n5782.79   kome: <くが一番多>                 tʃintʃe:, tʃise:,\n5791.68   kome. <細かい目> ... <atsuii, むり> に形容言詞を言えば>\n5792.02   tʃi:se: <多>                        komakkoi\n5792.82   N.R.  語にはそれぞれの名かに あり, それを名させはいい。\n5792.78   komakoi <普通>\n         tʃintʃe: <希>\n6404.83   コマイ <新>                          コミャ\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00493.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00493",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00493.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6409.72",
+      "6413.76",
+      "6414.17",
+      "6418.13",
+      "6420.58",
+      "6422.16",
+      "6423.23",
+      "6423.75"
+    ],
+    "other_text": "日本語言語地図資料用紙 注記一覧 4-94\n資料番号 163　地図番号 025　項目名 コマカイ　A 普通注記 (B 除いた共通語) (C 除いた特殊語) (10)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6409.72　コマイく〈共〉　コメァア\n6413.76　コミャ…多　(ヨマエ) コマエ\n6414.17　komjai: 〈ウ、右〉　komai, komakai,\n6418.13　コマケァ〈希〉　コメァア\n6420.58　コマイく新〉　ホセ\n6422.16　コマイく多〉　ホセ\n6423.23　komae, komai; …komaeとも、komaiとも、とも、適当にいえば。\n6423.75　komaei〈夕夕〉〈下品〉　hosoi〈上品〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00494.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00494",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00494.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6426.04",
+      "6429.30",
+      "6432.07",
+      "6440.25",
+      "6445.57",
+      "6453.64",
+      "6458.91",
+      "6460.10"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の < > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙注記一覧   4-95\n\n質問番号 163   地図番号 025\n項目名 コマカイ\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n6426.04   komai [上品]\n6429.30   コマイ <共、希>\n6432.07   ホソイ <希>\n6440.25   コマア <古>\n6445.57   コマエ <老>\n6453.64   Komjae: <普>\n6458.91   ホソイ <希>\n6460.10   Komame <好> ... 細目\n\n右欄手書き: kome: コメア? コマイ コマイ, ホソイ 4サェエ コンマイ tfisai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00495.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00495",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00495.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6461.27",
+      "6465.82",
+      "6476.17",
+      "6482.52",
+      "6489.07",
+      "6491.49",
+      "6472.53",
+      "6484.43",
+      "6486.50"
+    ],
+    "other_text": "6472.53 6484.43. 6486.50\nコマエ、アライと書てあるが、これは誤りで、コマエと認める。\nTok シルス。 ホソイ\n4-96\n（頁）163 025\n項目名 コマカイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n6461.27    メゴマイ（目が細かいと言うのを一緒にして、メゴマイとよる）\n6465.82    コマエ＜普＞\n6469.??    ホソイく共＞\n6476.17    ホソイく古＞、コンマイく古＞\n6482.52    komai（komame-naと言うことが多い。）\n6489.07    コマイ＜希＞    ホソイ\n6491.49    Komai（海岸部の大浜部落では、hosoiと言う）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00496.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00496",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00496.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6500.22",
+      "6514.38",
+      "6521.20",
+      "6526.04",
+      "6530.58",
+      "6533.89",
+      "6500.83",
+      "6545.19"
+    ],
+    "other_text": "6500.83. コマコイ 各々音変化形あり コマカイ 6545.19 Komokai\n日本言語地図資料用紙 注記一覧 4-97\n質問番号 163 地図番号 025 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (13)\n項目名 コマカイ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\nコマカェエ <新>    コマコイ、コマケエ\n*komakoi (はじめて「sai」と答えれ)\nkomakoi [新]    Komakai\nコマカェ (コマカェの発音は会話らえ い普通の場合に用いられる)    コマカイ\nケイサイ <希>    コマカイ\nkomakai {どちらの形を使うかよ}\nkomakoi {くみがある}\nkommai <子供に対して使う強調用形>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00497.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00497",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00497.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6553.22",
+      "6557.54",
+      "6582.22",
+      "6567.79",
+      "6562.86",
+      "6571.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 4-98\n質問番号 163　地図番号 025\n項目名　コマカイ　A 普通注記　（B 除いた共通語）（C 除いた特殊語）　ページ（14）\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n6553.22. komakai 〈「粒」類については、komakoiという。〉\n6557.54. komeda 〈両方とも使うか: komeda komakai のほうが「とおり」がいい〉\n6582.22. ホソイ〈上〉　チッチャイ、チッサイ\n6567.79. kommakai 〈この方が tʃi:ʃai より tʃi:ʃai。この場合はピッタリする。〉\nこういうフルイシを kome という。\n6562.86. tʃi:sai 〈連体形は tʃi:se〉\n6571.15. タイサイ（日常普通の発音ではチッ…）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00498.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00498",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00498.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6577.13",
+      "6581.36",
+      "6583.91",
+      "6587.42",
+      "6603.08",
+      "6591.02",
+      "6604.98",
+      "6607.68"
+    ],
+    "other_text": "6591.02 コマカイ\n6604.98 ノキイ（イはり）\n6607.68 *komakai\n(コマコイともいう)\n日本言語地図資料用紙 注記一覧 5-1\n資料番号 163 地図番号 025\n項目名 コマカイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><[]は厳密にする。\nサイか、チッチャイであろう。\n6577.13 tʃisai くる様の時は tʃisaiと言って komakai いれ。今では komakaiと言う\n6581.36 コマコイ〈共〉 4才\n6583.91 komakoi (159の[komai]はガシの細小なもの、これは弟園の目まとの細小なものに言う)\n6587.42 チッ、チャイ〈コマカイとも言うが、普通はチッ、チャイの方を使う〉\n6603.08 コマッケエ［古］ コマッコイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00501.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00501",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00501.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6617.75",
+      "6620.49",
+      "6624.13",
+      "6631.69",
+      "6634.32",
+      "6634.33",
+      "6635.36",
+      "6636.05",
+      "6623.53",
+      "6639.79"
+    ],
+    "other_text": "(上部余白手書き) 6623.53 6639.79 tji:sai <- 最初. oiki: とあれかカードの穴入後に記入。 TOK ラルス. tji:se; 162 a 31 参考 -> これは学村で略ったもの, 日常は使わない\n日本語地図資料用紙 注記一覧 5-2\n質問番号 地図番号\n163    025\n項目名 コマカイ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (16)\n(表ヘッダ) 地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6617.75  チッ, チェェ  古\n6620.49  hosoi (何回も念を押されたかに: komakai は出さなかった。同居者からも出さなかった。)\n\n6624.13  tji:sai 女\n6631.69  kosui 希\n6634.32  kosui 希\n6634.33  kosui 多\n6635.36  komæ: 多\n6636.05  komakai 卑\n(右欄ローマ字表記)\nkomakai\nkom2kai\nkomai\nkomakai\nkoma'kæ:\ntji:sai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00502.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00502",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00502.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6641.82",
+      "6643.15",
+      "6643.16",
+      "6643.22",
+      "6645.37",
+      "6645.62",
+      "6646.74",
+      "6661.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 5-3\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n（右上の枠）\n163   025\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名　コマカイ　(17)\n\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ntʲi:sai　<komakaiとは言わない>\nkoma'kæ:　新。　　tʲi:sæ:\nkoma'kai\nhosoi - 目のあらいこと。\ntʲi:sai - koma'kaiよりも大きな目。\nkotsui - 時々使う。　　koma'koi\nkosui, <古>\nkoma'kæ <希>　　komakai'\ntʲi:kuui <夕?>　　tʲi:sæi\ntʲi:sai　(komakaiとは言わえん)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00503.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00503",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00503.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6672.41",
+      "6686.75",
+      "6699.39",
+      "6697.59",
+      "6698.20",
+      "6730.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 5-4\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><()[] は厳密にする。\n\n質問番号　地図番号\n163　025　A 普通注記\n項目名　コマカイ　ページ (18)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6672.41 komake: <クタ>　tʃi:se:\n6686.75 komakkoi <クタ>　tʃi:kkoi\n6699.39 tji:kkoi <komakai は、こく　最近のことば>\n6697.59 tjikkor <普通に使うことば>　komakai\n6698.20 komakko <古>　tji:isa\n6730.33 komake:、左記より[komakke:]の方がより細い感じか　すると言う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00504.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00504",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00504.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7239.29",
+      "7239.41",
+      "7266.92",
+      "7268.45",
+      "7325.57",
+      "7329.57"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 5-5\n質問番号 163  地図番号 025\n項目名 コマカイ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (19)\n\n地点番号  A 語形とその注記（B・C除いた語形とその注）  A 注のない語形 [B・C 残した語形とその注]\n\nkomakai 〈普通には、メガミシトルと言う〉\nkomaka 〈細かい目のふるいを itoorojiと言う〉\nkommaka, kimburi, 目の細かいふるい。\nツンドル 「網の目が詰まっている」の意。\nkomai 〈上〉\njigjoi 古。\n\nkoma: Komai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00505.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00505",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00505.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7342.72",
+      "7357.64",
+      "7372.03",
+      "7372.27",
+      "7374.15",
+      "7345.43"
+    ],
+    "other_text": "7345.43. kommae (73-44.99 と同じ: kommːe: でよいか (高田))\n日本語語地図資料用紙 注記一覧 5-6\n資料番号 163 地図番号 025\n項目名 コマカイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (20)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< [ ] は厳密にする。\n(A 列見出し) 語形とその注記 [B・C 除いた語形とその注]\n(A 列右) 注のない語形 [B・C 残した語形とその注]\n(handwritten entries:) Komaka <新>    konjsoka(?)\nkone: ... <ふるいの目とか、砂女と、親田>\nKomie: かいものに言う>\n<<小さ>> コメ-\n<<泉田かい>> コネーという色別らしい\nツマットル <方>\nメツマリシトル\nコマカ\nコミャア <親近語>\nコマカ\nコマャア\nコマカ <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00506.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00506",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00506.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7375.96",
+      "7385.61",
+      "7391.01",
+      "7392.33",
+      "7394.85",
+      "7405.35",
+      "7380.24",
+      "7382.58",
+      "7400.15",
+      "7403.86",
+      "7413.62"
+    ],
+    "other_text": "7375.96 komē; ë … 説明書? - komwe; (高田)\n7385.61 komē; ë … 説明書? - komwei (高田)\n7391.01 <?> コマカ\n7392.33 <?> コマカ\n7394.85 ko(m)me; (いはつ〜りつかばか?)\n7405.35 Komakai ?\n\n日本言語地図資料用紙注記一覧 5-7\n調査番号 163. 025\n項目名 コマカイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (21)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n7380.24 ホンカ <希>                             コマカ\n7382.58 コマカ <ホンカは用いず>\n7400.15 N,R / <konda ho: o motekoi>\n        のように言って Komai とか\n        komakai とかの言い方\n        はしょらしい 由\n\n7403.86 komai (同席していた孫の中学生は\n        komakai という由)\n\n7413.62 hosoi <名>\nkomai <女>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00507.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00507",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00507.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7416.34",
+      "7422.9",
+      "7430.15",
+      "7430.75",
+      "7432.95",
+      "7434.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 5-8\n資料番号 163　地図番号 025\n項目名　コマカイ\n(A) 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(22)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7416.34 hosoi <新>　　　　komai\n7422.90 tʃi:sai <新>　　　koᵐmai\nhosoi <アライに対して>\n7430.15 hosoi 希.　　　　komai\n7430.75 komakana (連体形でなく、...形にこの語形を使うことは、県内各地にある)　komai\n7432.95 komai <名>　　　　hosoi\n7434.02 tundʒu: (形容詞で答えないのでそのまま) (ノッティルの意)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00508.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00508",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00508.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7450.20",
+      "7452.08",
+      "7461.17",
+      "7501.14",
+      "7522.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧    5-9\n資料番号 163    地図番号 025\n項目名 コマカイ\n(A) 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語    (23)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7450.20 komakai <tsun dorai> とはじめ答える。\n7452.08 tsundzoru (話シゲョルという。形容詞も誘導できます)\n7461.17 komai <夕>\n   ko^nmai <一番多い>\n   hosoi\n7501.14 コマコイ <自分は、コマコイを多く\n   コマワイ 使うか、他のスつもよく\n   コマカイ 使われている。>\n7522.48 コマカイ <夕>    コマコイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00509.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00509",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00509.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7523.05",
+      "7659.62",
+      "8313.84",
+      "8332.07",
+      "8342.69",
+      "8343.97",
+      "8394.07",
+      "8341.12",
+      "8342.35",
+      "8362.34"
+    ],
+    "other_text": "8341.12. komame (これはかり答えて困った)\n8342.35. komame (コマメすまめちこまかい目という形でしか答え)\n8362.34 komame, コマメという形の各形で(細目の義)である。どうしても、等と形が答えてもらえない\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< [] は厳密にする。\n\n用紙注記一覧    5-10\n163   025\n項目名　コマカイ\n(① 普通注記　[B 除いた共通語]　[C 除いた特殊語])\n\n4サイ。く目ケサイと言う。この方在コマコイ　来のことばか？\n\nnekko kja <古>    komakakja\nkome: komajyaka <タ> 以上の如く、力語尾の方を多く使うということである。\nkome (komame (細目の義)) とも答えか: この方はどうす\n\nkome <タ>    tjinke\nkome <古>    tsjinke\nkomangka, tsjinka. 村やリンゴについて言うとき。特に.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00510.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00510",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00510.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "0228.96",
+      "0238.55",
+      "0275.97",
+      "0294.66"
+    ],
+    "other_text": "93/3.55. tjikka, 最初. Futakaと書いてあったが ieへの渡りと認める。Tok ラレス\n日本言語地図資料用紙 注記一覧 5-11\n質問番号 地図番号 163 025\n項目名 コマカイ (25)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は略称にする。\n供に何かって。\n93/0.27 Komai <新>              komaka\n0228.96 Fumaka <新>             Fuwaka\n0238.55 genasa <kómi, 小さい目と\n    いう表現を用いるのが普通。>\n0275.97 Kúmahan <Kúmaharitという\n    人もある。>\n0294.66 i'kusa <i'kusan という人あり>\ngumasa gumasan",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00511.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00511",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00511.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "0294.93",
+      "0340.00",
+      "1213.76",
+      "1251.04",
+      "1271.05",
+      "2074.69"
+    ],
+    "other_text": "2074.69 kumadaru (終止形) (コマダアルに当る)\n日本言語地図資料用紙 注記一覧 5-12\n資料番号 163 地図番号 025\n項目名 コマカイ (26)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n(gumasaa の方を多く使う、これはが共通語のコマカイの方に当るらしい。)\nFumasan, Fumasa で予?とすることが多い。 \nhumasai <希>    inasai\ngumasaji, guma sa で予?とすることも多い。\ngunahan (?)\ngumaqan, Q = !",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00512.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00512",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00512.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "0789.95",
+      "1736.84",
+      "1745.54",
+      "2619.28",
+      "2800.52",
+      "3786.44",
+      "4628.28",
+      "4676.67",
+      "4685.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 5-13\n調査番号　163.　地図番号　025.\n項目名　コマカイ\nA 普通注記　B 除いた共通語　C 除いた特殊語\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n0789,95　komakana～（連体）\tkomakai\n1736,84　コマカイ＜上＞\tコマイ\n1745,54　コオロシ\tコマイ\n2619,28　コマカイ→ゴフコマイ時に\tコメ\n2800,52　コマカイ＜上＞\tコマイ\n3786,44　ツーセナメ（ダ）\tコメァ\n4628,28\tko:me＜若い人が使う＞\ntsuitt same＜一般的＞\ttsuitt（え〈くち〉）\n4676,67\tkomakae＜新、共＞\ttjisse:\n4685,10\tkomakae＜希＞\ttjisae（arame、）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00513.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00513",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00513.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "4694.26",
+      "4695.87",
+      "4760.02",
+      "4760.64",
+      "5590.53",
+      "4688.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 5-14\n質問番号 163 地図番号 025\n項目名 コマカイ\nA 普通注記 B 除いた共通語 C 除いた特殊語 (2)\n\n地点番号\n4688,45    tjitje\n4694.26    komakae (やや改まった時)\n4695.87    komakae (共)\n4760.02    komagada\n4760.64    komagæ\n5590.53    コマ コエエ\nコマ カエエ\nコマ カイ (やや新)\n\nA 注のない語形 [B・C 残した語形とその注]\nkomeと言う名詞を使うことが多い。\n* komakee:\ntjingkoe〈多〉\nkomatkoe\nkomakada, komakai\nkomakoe, komakze,\nコマコイ,",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00514.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00514",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00514.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5605.70",
+      "5614.62",
+      "5623.42",
+      "5631.16",
+      "5631.75",
+      "5641.07",
+      "5643.33",
+      "5644.74",
+      "5652.81",
+      "5653.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 5-15 頁問番号 163 地図番号 025 項目名 コマカイ (3) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形［B・C 残した語形とその注］ komakae <共>　komaTkoe komakae <共>　komake [komakae] <共>　tjiise komakai <共>　komake: komakai <共>　komakke: komakae <共>　komake: komakai <ていねい>　komakke コマカイ <上>　コマケエ <共> komakai <共>　komake: komakae <共,上>　tjittle:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00515.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00515",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00515.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5661.34",
+      "5661.89",
+      "5671.38",
+      "5674.54",
+      "5684.11",
+      "5693.78",
+      "5694.79",
+      "5696.68",
+      "5723.36",
+      "6389.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 5-16\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜　＞（　）［　］は厳密にする。\n（右上の小箱）\n質問番号　地図番号\n163　025\n項目名\nコマカイ\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\nページ (4)\n\n（表の見出し）\nA 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（各行）\nkomakai <上>　　　　komake:\nkomakai 上.　　　　komake:\nkomakai <共>　　　komake:\nkomakai <共>　　　komakke\nkomakai <共>　　　komakke:\nコマカイ <共>　　　4ッケ\nコマッカイ <新>　　4ッケ\nkomakai <共>　　　tjibi:, tji:sa:\nkomakae <新>　　　tji:se:\nコマメ　　　　　　コマメ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00516.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00516",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00516.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6428.91",
+      "6429.15",
+      "6472.68",
+      "6489.01",
+      "6491.65",
+      "6403.60",
+      "6476.17",
+      "6482.23"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n日本言語地図資料用紙 注記一覧 5-17\n\n資料番号 163 地図番号 025\n項目名 コマカイ\nA 普通注記 (除いた共通語) (除いた特殊語) ページ (5)\n\n地点番号  A 語形とその注記 (B・C 除いた語形とその注)  A 注のない語形 [B・C 残した語形とその注]\n\n6403,60  ＜米＞コマメ(こま目)    ホオセ, コマエ\n6428.91  コマカイ＜新,共,希＞    コマカイ\n6429.15  コマカイ＜希＞          コマイ\n6472.68  コマメナ.               コマイ\n6476,17  コマカイ＜新＞          ホツイ＜古＞\n                              コンマイ＜古＞\n6482,23  コマイメ                コマイ\n6489.01  コマカイ＜希＞          ホツイ\n6491.65  komakai＜上＞           Komai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00517.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00517",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00517.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6492.50",
+      "6500.22",
+      "6517.65",
+      "6523.86",
+      "6530.23",
+      "6549.03",
+      "6562.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 5-18 質問番号 163 地図番号 025 項目名 コマカイ A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (6) 地点番号 A 言形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6492.50 komakai <上> komai 6500.22 コマカイ <新> コマコイ, コマケエ 6517.65 コマカイ <共> コマケエ 6523.86 komakoi <自分は使わぬ。一世代前のことば> komakai 6530.23 コマカイ <共> コマイ 6549.03 komakai <共> komake: 6562.22 コマコイ <上> ホソイ <上> チッチャイ, チッサイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00518.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00518",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00518.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6571.15",
+      "6581.52",
+      "6594.67",
+      "6604.60",
+      "6607.68",
+      "6611.61",
+      "6613.77",
+      "6617.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 5-19\n（上部小表） 資料番号 163 地区番号 025 項目名 コマカイ\nA 普通注記 B（除いた共通語） C（除いた特殊語） ページ (7)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n6571.15　コマカイ〈言わぬことも多い〉　チイサイ（日常普通の発音ではチッサイか、チャイであろう。）\n6581.52　コマカイ〈共〉　コマコイ\n6594.67　コマカイ〈ていねいだ〉　コマコイ\n6604.60　コマカイ〈共〉　チックイ\n6607.68　tji:sai　＊komakai\n6611.61　komakai〈共〉　komake:\n6613.77　コマカイ〈共〉　チッワイ\n6617.75　コマケェ 新　チッ、チェェ、古",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00519.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00519",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00519.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6623.53",
+      "6631.69",
+      "6632.88",
+      "6633.33",
+      "6634.07",
+      "6635.20",
+      "6635.54"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > < ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙　注記一覧　5-20\n質問番号　163　地図番号　025\n項目名　コマカイ\nA　普通注記　B（除いた共通語）　C（除いた特殊語）　ページ（8）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6623.53  komakai 〈希〉\t最初 o:ki: とあったが記入の誤りと認める。TOK シルス。\n6631.69  tji:sana 上\tKosui 希。\n6632.88  komakai 上\tkomakai Kotsui\n6633.33  komakai 上\tkosui\n6634.07  komakai 希\tkosui\n6635.20  komakai 新\ttji:sai, kosui\n6635.54  koma kex? 上\ttji:seʔ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00520.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00520",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00520.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6636.62",
+      "6640.76",
+      "6641.43",
+      "6642.58",
+      "6645.07",
+      "6646.74",
+      "6650.12",
+      "6651.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 5-21\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n資料番号　地図番号　163　025\n項目名　コマカイ\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　(9)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6636.62 komakea <上> tji:sea\n6640.76 komakai <共> hosoi\n6641.43 komakai <希> hosoi\n6642.58 komakai 新. hosoi\n6645.07 komakai 新. tji:sai\n6646.74 komakai <上> tji'kui <夕> tji:sai\n6650.12 komakai 希 kome\n6651.32 komakai <新> tji:sai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00521.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00521",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00521.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6652.77",
+      "6665.07",
+      "6698.20",
+      "7357.31",
+      "7372.03",
+      "7381.47",
+      "7229.50",
+      "7313.34"
+    ],
+    "other_text": "7229.50 tsumattoru komaka\n日本言語地図資料用紙 注記一覧 5-22\n資料番号 163 地図番号 025\n項目名 コマカイ (10)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく ＜＞( )[ ]は厳密にする。\n（表見出し）地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6652.77 komakai 上　tji:sai, ko'tsui\n6665.07 komakai 上　tji:sai\n6698.20 komakai ＜共＞　komakko＜古＞　tji:sai　tji:kkol＜?>\n7313,34 komakai（上品な語という。）　hosoi\n7357.31 komakai＜新＞　komme:, tji:se:\n7372.03 ツマットル（優勢）　コマカ。　メツマリシトル\n7381.47 コマカ。　コマク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00522.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00522",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00522.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7404.56",
+      "7411.27",
+      "7430.80",
+      "7440.69",
+      "8342.35",
+      "7382.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    5-23\n質問番号 163   地図番号 025\n項目名 コマカイ\nA 普通注記   B (除いた共通語)   C (除いた特殊語)   ページ (11)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7382,93  ツマットル    コマカ.\n7404.56  Komakai <上>    hosoi, komai,\n7411.27  tsundoru,    komakai\n7430.80  Komakai <上>    kommai\n7440.69  tsu^doru    komakai\n8342.35  [kome]    komame (コマメすなわり ちこまかい目という形で (しか答えてくれなかった))",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00523.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M025Q163/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00523",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00523.tif",
+    "source_ljc_id": "LJC-M025Q163",
+    "source_map_numbers": [
+      "025"
+    ],
+    "source_title": "こまかい (細かい)"
+  }
+]

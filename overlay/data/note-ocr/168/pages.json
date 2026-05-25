@@ -1,0 +1,1188 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0747.70",
+      "0840.33",
+      "1719.38",
+      "1725.35",
+      "1747.04",
+      "1848.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-19\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n質問番号 174　地図番号 168\n項目名　うるち\n普通注記　（A）　ページ\n[B 除いた共通語]　[C 除いた特殊語]　( / )\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n0747.70　wruwmai　〈今〉　kome\n0840.33　wrumai　〈古.名〉\n\n1719.38　タダマイ　〈古〉\n1725.35　wrumai　〈米といっ たらウルマイ的なこと〉\n1747.04　ウルマイ　〈老〉\nコオマイ　〈青年〉\n1848.24　wrw kome　〈?〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05119.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05119",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05119.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1942.03",
+      "2608.90",
+      "2700.48",
+      "2703.18",
+      "2751.10",
+      "2765.02",
+      "2783.73"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-20\n質問番号　地図番号　168\n項目名　うるち　174\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2)\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記のく　><( )[ ]は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n1942.03    komai    <ケ>\n2608.90    wrumai    (普通これをつかう)\n2700.48    ウルマイ    <ウルチとはいわない>\n2703.18    kome    <mot(ji)にまぜる時は wrum?>\n2751.10    ウルマイ    <若、ケ>\n2765.02    soi kome    <古>    (wrwKome)\n2783.73    kome    <くる>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05120.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05120",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05120.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3689.95",
+      "3715.5",
+      "3724.96",
+      "3782.12",
+      "3783.11",
+      "3791.02",
+      "4588.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-21\n質問番号　地図番号　168\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (3)\n項目名　うるち　174\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n3689.95\twrwr kome\t<特に175と区別して>\n3715.5\tkome\t別に名がない\n3724.96\tウルコメ\t<単にkomeというだけでもよい>\n3782.12\tkome\t普通\n3783.11\t2x\t特にウルコメとあまり用いない\n3791.02\twrwr\t(H) キヒーにもウルはあり\n4588.98\toriyome\to = ウに近いオ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05121.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05121",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05121.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4609.54",
+      "4609.68",
+      "4619.63",
+      "4667.76",
+      "4678.71",
+      "4685.88",
+      "4686.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-22\n質問番号 地図番号 168\n項目名 うるち 174\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (4)\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（[ ]）は厳密にする。\n\n地点番号\n4609.54    kome    <ウルゴメなどとはるたーん/はいわぬ。>\n4609.68    wrw(yome)   <区別する必要があるとき、>  wrw-yome\n4619.63    kome, wrwyome   <改まったとき>  wrw-yome\n4667.76    *ta'dame; (はじめ hammae と答え。)\n4678.71    kome  単に kome としかいわない\n4685.88    kome  ...としかいわない。\n4686.02    wrw  <こんと最も多く用いる。>  wrw-gome",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05122.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05122",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05122.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4686.02",
+      "4686.96",
+      "4689.10",
+      "4694.95",
+      "4695.2"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙　注記一覧　51-23\n質問番号　地図番号　168\n項目名　うるち　174\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（5）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n4686.02    tada no kome    ＜昔多く用い、今も用いる。＞\n4686.96    taran kome    （たるー、米の粒）\n4689.10    wrwyome    ＜普通これを使う＞\n4694.95    wrwgome    ＜これを多く用いる。＞\n4695.2     *magome    （最初 wrw-gome と kome。）\n（以下、手書きの注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05123.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05123",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05123.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4699.07",
+      "4703.88",
+      "4713.45",
+      "4713.60",
+      "4722.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-24\n質問番号　地図番号　168\n項目名　うるち 174\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (6)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4699.07    wamyome    <こんなケを使う>\n4703.88    mestiyome  (?)\n4713.45    wsw        <飯にするから>\n4713.60    wlw kome   (普通はこうように簡略にいう)\n4722.55    wsw        (これみせる 活形で~)\n\n（手書きの語形や注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05124.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05124",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05124.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4734.56",
+      "4735.37",
+      "4750.76",
+      "4761.57",
+      "4780.60",
+      "4790.74",
+      "4792.80",
+      "5508.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-25\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）［　］は厳密にする。\n\n質問番号　地図番号　168\nA　普通注記　（A）\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　（7）\n項目名　うるち　174\n\n表ヘッダ：地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n手書きメモ（抜粋、概訳・逐語）:\n米んごということがわかる。\n（これだけで米であることが解る。別にコメントはつけない。）\n（正確に言う場合）\n＜白米にせぬることめ＞\n＜多＞\nmama no kome（ママはご飯のこと）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05125.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05125",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05125.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5538.50",
+      "5548.24",
+      "5556.84",
+      "5576.96",
+      "5579.10",
+      "5584.37",
+      "5584.57",
+      "5585.09"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-26\n質問番号　地図番号　168\n項目名　うるち\nページ (8)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( ) [ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5538.50\tウル\t<古>\tタターコ・メ\n5548.24\turuyome\t<共>\ttadayome\n5556.84\turunome\t<共>\t*mamayome\n5576.96\türüyome (?)\t\tkome\n5579.10\tウルシ\t<希>\tユメ\n\n5584.37\tkome\n5584.57\t#wrwtji\t<お>\thammadi no kome\n5585.09\t#wru, #wruyome",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05126.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05126",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05126.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5585.63",
+      "5591.60",
+      "5594.37",
+      "5602.99",
+      "5604.28"
+    ],
+    "other_text": "日本方言地図資料用紙　注記一覧　51-27\n質問番号　地図番号　168\n項目名　うるち　174\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5585.63　wriyome　多.　kome\n5591.60　ターゴメ　<サ>　タダマイ\n5594.37　okome　<今,名>　kome\n5602.99　wrugome　<常,知っているがあまり>　kome\n5604.28　wrwgome　<最も多い>\n\n（ページ上部の小さな欄）\n日本方言地図資料用紙　注記一覧\n（右上）51-27\n（項目欄に手書き）うるち 174\n（フォームのヘッダや注記の句読や三角マーク等）\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05127.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05127",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05127.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5604.52",
+      "5608.5",
+      "5609.81",
+      "5613.80"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 51-28 質問番号 地図番号 168 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (10) 項目名 うるち 174\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き項目（A欄）： wtwu, wrwt͡si; <mot(ji の社)>\nwrugome <mot;igome の社>\n最も多く用いる。\n<普通>\n（記載の手書き日本語メモ） 普通には用いないことばで〜 ある。被調査者/傍人で〜 ある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05128.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05128",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05128.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5615.74",
+      "5615.78",
+      "5618.43",
+      "5623.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-29\n質問番号　地図番号　168　A　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (11)\n項目名　うるち　174\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >( )[ ] は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書きメモ（おおよその転写）:\nwrwtjiという様な語は得られなかった。\n#kesine\n(外にありませんかの10に2ある)\n（答え:） wrw gome\nwrw　(motiの対で一緒についている。広い>)\nwrwgome　<米にした場合の名>\nwrw　wrwtji, wrukome\n区割り不明 [wrw]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05129.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05129",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05129.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5626.92",
+      "5632.28",
+      "5632.83",
+      "5637.13",
+      "5644.24",
+      "5644.74",
+      "5652.22",
+      "5654.98",
+      "5665.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-30\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< ( ) [ ] は厳密にする。\n（右上の箱）質問番号　地図番号　168　項目名　うるち 174　A 普通注記　ページ (12)\n（表見出し）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5626.92    pome    （手書き注記）    urnut / jigome\n5632.28    uruyome    <すべて（くわしく）言えば>    uru\n5632.83    uru    (urut; とは言っていない)\n5637.13    ウルチ    <玄米の様>\nウルチマイ    <白米の様>\n5644.24    urugome    <粒々っぬ>\n5644.74    ウルゴメ?    <ウルチイワナイ>\n5652.22    uruyome    (精米したものを考えている)\n5654.98    ウルチ    <多>\n5665.46    ウル    <多>\n（残りの手書き注記、読み仮名や括弧内の細かい説明が複数行にわたって続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05130.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05130",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05130.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5668.13",
+      "5668.51",
+      "5669.86",
+      "5670.47",
+      "5671.68",
+      "5671.94",
+      "5673.28",
+      "5679.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51・31\n質問番号　地図番号　168\n項目名　うるち　174\nA) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (13)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 言形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5668.13　ユメ。普通ユメといって、ウル4とはいわない。\n5668.51　ウル4。<一般には単にユメという>\n5669.86　ürütfj yome (詩) ürütj (tj)\n5670.47　uruyome　<ていねいに言うとき>　uru\n5671.68　[wrume:]\n5671.94　uru　<普通>\n5673.28　uru　<精白しても>\n5679.86　ürütfj yome, ürütfj; (意) ürütfj yome",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05131.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05131",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05131.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5685.02",
+      "5686.31",
+      "5689.43",
+      "5690.12",
+      "5692.53",
+      "5698.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-32\n質問番号　地図番号　168\n項目名　うるち　174\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（14）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5685.02　<?> hakumai;　<米は作らない>\n[? wrm]\n5686.31　wrwtj;　<米作がかはじまったのは>\n戦後、一段格はずこしあった→\n5689.43　wrw　<善直>\nwrwtj;\n5690.12　uru　<新>\n5692.53　uruyome　<祭>\n5698.91　kome　<晩の食事用>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05132.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05132",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05132.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5699.42",
+      "5701.73",
+      "5730.57",
+      "5761.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-33\n質問番号　地図番号　168\n項目名　うるち　174\nA　普通注記　ページ (15)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\nA 注のない語形　[B・C 残した語形とその注]\n\n手書き欄:\n5699.42    wrwtj:(yome)  <モチコメとまぜるときにいう。>\n5701.73    wrwtj:ygome  <ていねいにきるとき>   wrwtj:\n5730.57    wrwtj:  <な>    wrwyome\n(行)       2x   <「うるち」という言葉は過ぎるか>\n一般には使用しない。雑穀の種類をうり時ぐらいにしか使わない。>\n\n5761.77    kome  <もち, 主飯用はモチコメと類に>\nいわゆるコメといえばるなん。\n食事用のものをさす。特に…",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05133.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05133",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05133.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5771.42",
+      "5782.94",
+      "5792.62",
+      "6375.40",
+      "6383.77"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく　＞(　)［　］は厳密にする。\n日本言語地図資料用紙　注記一覧　51-34\n質問番号　地図番号　168\n項目名　うるち\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (16)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n他のいい方はわたしの家つはしない。\n(この地の他の人ではウルチといっている。被調査者もそれを知っている。)\n5771.42  kome  (清) びーびす(注)\n5782.94  kome  <一般にはこれで通ずる>\n5792.62  kome  <たぶんkomeといえば穀米をさす>\n6375.40  kome  <コメという言い方>\n6383.77  #kome  <特別の呼びかたはない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05134.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05134",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05134.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6394.43",
+      "6409.72",
+      "6415.78",
+      "6415.83",
+      "6418.75",
+      "6422.77",
+      "6423.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-35\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n質問番号　地図番号　168　A 普通注記　ページ (17)\n項目名　うるち 174\n[B 除いた共通語]　[C 除いた特殊語]\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6394.43　ユメ　<ユメと言った場合、子たんの餅 用のものをさす。>\n6409.72　ハクマイ　<共>　ハクメァ\n6415.78　tadano　<名>　tada, tadamai\n6415.83　tadano　<古>\n6418.75　tadagome　<新>\n6422.77　タタコメ　<玄米をフロンメ又はフロマイ>\n6423.75　tadagome, tada...",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05135.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05135",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05135.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6429.15",
+      "6434.57",
+      "6436.33",
+      "6439.01",
+      "6449.33",
+      "6455.62",
+      "6459.52",
+      "6460.76"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-36\n質問番号　地図番号　168\nA　普通注記　ページ　(18)\n項目名　うるち　174\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n表ヘッダ：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n\n＜昔に玄米を言う。掘りれのは　ハクマイという。＞\nハクマイという、>\nタダコメ　＜常＞\nタダコメ　＜自分は使わないが、普通どのように言う＞　コメ\ntada　＜多＞　Tadagome\nウルチネ　＜共＞\nコメ　(?!）\nタダコメ　＜ウルチという人もある＞\nタダコメ　＜ウルチという人もある＞　（手書き英語・ローマ字表記あり）\n#オコメ　＜タダコメとは言わぬ＞\n（その他手書きの注記・語形等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05136.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05136",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05136.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6466.01",
+      "6462.73",
+      "6476.92",
+      "6477.02",
+      "6485.14"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 51-37\n質問番号　地図番号　168\n項目名　うるち　174\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (19)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6466.01　コメ　(うるちのこと)　タダマイ？\n6462.73　tadamai　㋑ hakumai, kome\n6476.92　オコメ　<普通>\n#タダマイ　<モチコメに対照してのみいう>\n6477.02　タタコメ　<普通>\nタターマイ　<共、公の場合 例えば>\n供出でまでするときはいる。\n\n6485.14　N.R. (タターマイ)\n\n(モチコメの中に普通の米が交つて)\n(まつたときは始めてモチコメ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05137.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05137",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05137.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6485.30"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-38\n質問番号　地図番号　168\n項目名　うるち　174\n(A)　普通注記　ページ\n(B)　除いた共通語\n(C)　除いた特殊語　(20)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\nとの対比にタタマイというのであれ。\nただそれだけのあるときはコメでー\nあり、それに対してモチゴメである。\nタタマイか--ヨウケマザッタダロウ。\nポオレンモチカヲテケルゾ\n\n6485.30　ユメ，タタマイ\nくキチマイ -- 阿波の人が\n讃岐の財団の方へ米を買いに\n来たか、その阿波の人がいっていた。\n阿波の山間の人は秣を買の\n様に大切にしていた。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05138.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05138",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05138.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6486.50",
+      "6486.93",
+      "6487.43",
+      "6501.92",
+      "6503.73"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-39\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n質問番号　地図番号　168\n項目名　うるち　174\nA 普通注記　-　ページ　(2/)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\nタタマイ　等通\nキチマイ　古\nタタマイ　＜クチ＞　キチマイ\n→　[キチコメ]\n（土地の者に聞いたところ　このあたり、みなキチコメというと答えた。）\nこの時のコメがやや鼻音コメにきこえたが、明確には聞き取り難かった。\n玄米のとりは区別している　kome",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05139.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05139",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05139.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6507.48",
+      "6509.43",
+      "6511.33",
+      "6511.85",
+      "6512.09",
+      "6523.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-40\n質問番号　地図番号　168\n項目名　うるち　174\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(22)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[ ]は厳密にする。\n\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C残した語形とその注］\n6507.48　　ウルシネ　　＜くせ＞＜誉＞　　　ユメ\n6509.43　　ウルシネ　　＜共＞　　　　　　　ユメ、タタマイ\n6511.33　　タダコメ　　（余り多くはない）\n6511.85　　ウトゥ　　（ウルセケ）\n6512.09　　utugyome　（u t u ・・・ の\u0015 はやつぶす　気味あり）\n6523.86　　kome　　＜mot[?]i komeの＞　などと\n\n（下部にさらに手書きの注記あり、判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05140.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05140",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05140.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6524.01",
+      "6524.66",
+      "6526.08",
+      "6526.45",
+      "6527.22",
+      "6530.58"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n日本語語地図資料用紙　注記一覧　51-41\n質問番号　地図番号　168\n項目名　うるち　174\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (23)\n地 点 番 号　　A語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C残した語形とその注］\nuru　＜伝的な場の言葉＞\ntadagome\nkome　＜urutjiは使わない　motjiとkomeで区別する＞\n2×　＜もち米によおしてよなんべているものをいう。＞\nウレシ　＜英＞\nケンメエ　＜うるちの意にも使う＞　ウル\nkome　＜穴をあめというだけか。＞\nウルリ　＜大人同士＞　2×\nタタマイ　＜自女生に向って＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05141.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05141",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05141.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6532.30",
+      "6532.70",
+      "6532.89",
+      "6533.31",
+      "6534.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　51-42\n質問番号　地図番号　168　項目名　うるち 174\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (24)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）［ ］は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n6532.30\tウル　アクセントがウルう型である為、語尾が長音化する。この場合はその長音化がやや固定化している感じ。\n6532.70\tウルウ　アクセントが0の型である為、ルがやっ長い音に聞える。\n6532.89\t2×　175の方をモチコメといって・・・（続き不明）\n6533.31\tウル4　くも?\n6534.41\tウルル　＜光を略したこの形を使うことが多い＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05142.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05142",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05142.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6536.32",
+      "6542.27",
+      "6542.58",
+      "6543.56"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-43\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）[]は厳密にする。\n\n（表）　質問番号　地図番号　168\n項目名　うるち　174\n(A) 普通注記　　(B 除いた共通語)　　(C 除いた特殊語)　　ページ（25）\n\n表見出し：地点番号　A 語形とその注記［B・C 除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n手書き注記（抄）：\n6536.32欄: w~ru　< w~rn t; まどとい うのは農業　組合の人だけな？>\n6542.27欄: ウルゥ　アクセントがウルゥ型なる為、語尾が長音化する。\n6542.58欄: うるし、ユメ　強いて区別するとウルであるが一般にはユメといい、モチコつメ？方を区別する。\n6543.56欄: ウルゥ　ウルゥ型はアクセント型がウルゥ型である為に第一音節が長音化し……（続く）\n\n（手書きの一部不明瞭）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05143.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05143",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05143.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6545.19",
+      "6546.15",
+      "6546.73",
+      "6552.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-44\n質問番号　地図番号　168\nA　普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ　(+6)\n項目名　うるち　174\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞（　）［　］は厳密にする。\n\n地点番号\tA　語形とその注記［B・C除いた語形とその注］\tA注のない語形［B・C　残した語形とその注］\n\n6545.19\ttada\t〈maiをつけない方がよつろである〉\n6546.15\t#シロイバン\t［ウルサという語を知っているが\n\t\tゴバン！（使わない）］\n6546.73\tkome\t〈特にwamutにまどとどろうことは\n\t\t減多にない。〉\n6552.46\turugome\t（「ハンスィ」とは保存米のこととで\n\t\tちがう。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05144.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05144",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05144.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6553.22",
+      "6553.99"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-45\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n（右上のボックス）\n質問番号　地図番号　168\n項目名　うるち　174\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(27)\n\n（表見出し）\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n\n（手書き本文）\nKome　〈共〉（食事用の米は、もっぱらコメ、…といっているわけである。）\nuru:　〈食事用のものはコメである。〉\nこの場合、とくに餅に入れる米をウルという。餅米で餅をつくるその件…\n普通の米を入れたモチをドヤモチ（？）（土用餅？）という。\n（以下手書きの注記が続く）\n\nuru:　〈食事用のものは nanamai と…〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05145.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05145",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05145.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6554.88",
+      "6555.65",
+      "6560.22",
+      "6563.58",
+      "6563.84",
+      "6565.09"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-46\n質問番号　地図番号　168　項目名　うるち 174\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (28)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6554.88    uruyome    [野村では tadayome]\n6555.65    tada    <〜gome とつけたりしない>\n6560.22    ウル、ウルマイ　[タタマイ]\n6563.58    uru    <普通使う>\n6563.84    uruyome    <度> ことがある\n6565.09    tada    <tadagome と gome とも>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05146.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05146",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05146.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6567.86",
+      "6571.15",
+      "6573.17",
+      "6575.17",
+      "6577.13",
+      "6577.71"
+    ],
+    "other_text": "日本音語地図資料用紙 注記一覧 51-47\n質問番号 地図番号 168 A 普通注記 ページ (29)\n項目名 うるち 174 [B 除いた共通語] [C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n6567.86  tadamai  <希>  つけることはあまりない。  kome\n6571.15  ユメ  <特殊なし>\n6573.17  uru  <ウルツメとは言わない。>\n6575.17  ユメ  <くんだーコメとむけ言えば>\n6577.13  kome  <mot(jimai)以外のものも>  komeと言う。\n6577.71  urutijne  <つゝはimesの約>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05147.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05147",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05147.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6577.86",
+      "6586.27",
+      "6593.98",
+      "6595.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。 日本言語地図資料用紙　注記一覧　51-48 質問番号　地図番号　168 項目名　うるち　174 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (30) 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注] 65 77.86　tadamai　＜帝＞　kome 65 86.27　kome　＜コメといえばよつう＞　食べる方のことだ 65 93.98　kome　（別に ウル、ウル4、ウルゴメ） 65 95.32　ユメ．　＜たぶ-コメと言えば、晩食べる　タタマイ＞ （以下手書きの注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05148.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05148",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05148.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6602.62",
+      "6610.77",
+      "6617.99",
+      "6625.17",
+      "6638.14"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-49\n質問番号　地図番号　168\n項目名　うるち　17:4\n(A)普通注記　[B]除いた共通語　[C]除いた特殊語　ページ（3/）\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記のく > ( ) [ ] は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6602.62    uruyome    <詳しく言えば：>    uru\n6610.77    N.R.    （よくわからないらしい。実は\n           単に kome と言っているために、\n           173ですでに答えたが、また\n           聞くといってとまどったが）\n6617.99    *urut[j];    <音うがら>\n6625.17    urut[j;mai]　サ\n6638.14    <kome>　N.R.（両者を区別しては言わ\n           ないことになるからN.R.とした）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05149.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05149",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05149.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6639.79",
+      "6641.43",
+      "6641.82",
+      "6650.12",
+      "6657.96",
+      "6667.81",
+      "6677.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-50\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n質問番号　地図番号　168\n項目名　うるち　174\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(32)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き欄（部分的判読）:\nwrwt;j gome  <ていねいに言うとき>   wrwt;j\nwrwt;j  <希?>   kome\nkome  <農家でも特別の時以外は>\nwrwt;j: とは言わない>\nkome\ntadamai  (唯米か)\ntadamai  <も>\nkomi  <ここは陸続で: motsj;omi>\n\n（ページ全体にわたる手書き注記や判読困難な英字・ローマ字表記が多数あり、省略や不確かな読みを含む）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05150.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05150",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05150.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6697.59",
+      "6702.21",
+      "7237.67",
+      "7266.60",
+      "7289.31",
+      "7303.29",
+      "7303.37"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-51\n質問番号　地図番号　168\n項目名　うるち　174\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（33）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6697.59    tadajome　<お>    uruʃi;\n6702.21    kome    たたkomeと言えば穀米のこと\n7237.67    magome　(精白米のこと)    uruʃi;\n7266.60    urusi    (ʃiはgiとはあらない)\n7289.31    uruʃigome　単にkomeといっても174の意にもなる\n7303.29    （筆記の手書き長文注記：英作地でないので別に云わない。調査地実際街地なの? 被調査者解答不能）\n7303.37    kome　普通\n（表内の手書き注記や細部は判読困難な箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05151.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05151",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05151.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7304.29",
+      "7308.33",
+      "7319.29",
+      "7338.48",
+      "7339.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-52\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n（右上）質問番号　地図番号　168　項目名　うるち　174　A　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（34）\n表見出し：地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n7304.29    wrufi?　商人かいり。\n7308.33    コメ．　〈普通コメの方をなく使う〉　タタコメ\n7319.29    tada　〈タダーマイ　事を普通タタっと言う。〉\n7338.48    tadamami?　〈玄米のこと〉　hammai\n7339.27    kome　〈糠米は not（jigome）〉\n（手書きメモ）三崎町には saku... がある／komeも古名か。\nN.R.　〈<? kome dajo: >〉　175a1から戻って聞いたって",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05152.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05152",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05152.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7342.10",
+      "7350.21",
+      "7351.06",
+      "7362.42",
+      "7363.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-53\n質問番号　地図番号　168\n項目名　うるち 1:4\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (35)\n\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜　＞(　)[　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（手書き一覧）\nあるが答が出なかった。\n普通\nkome\nurufj?　(手書きローマ字)\n＜稲＞\n普通 kome とのみえる。\n#2x\nウルン\n＜ウルンコー＞\nママイ\n＜もう＜20才位までの頃＞ 極めてる多い語＞\nウルン　＜モミのついたまつの 精米に＞\nやる前の米についていう語で\n\n（以下、手書きの注記や語形が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05153.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05153",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05153.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7372.96",
+      "7374.75",
+      "7375.37"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-54\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　168\n項目名　うるち　174\nA　普通注記　ページ（36）\n[B　除いた共通語]\n[C　除いた特殊語]\n\n地点番号　A　語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C　残した語形とその注】\n\nある。ついれ後はコメ又はママイ\nつまり売買の対象になる　普通の\nコメについていう。>\n\n7372.96    #?　コメ\n*　<ウルシ>\n\n7374.75    ホロコ．　<老若ともに普通にいる。>\n〈例語。モチコメン　草エ　ホロユか〉\nマシントル　>\n\n7375.37    mejigome　<名>\nto:go　<む>　昔使ったことがある、今はない\nuru;",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05154.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05154",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05154.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7382.58",
+      "7382.93",
+      "7383.98",
+      "7391.44",
+      "7394.85",
+      "7400.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-55\n質問番号　地図番号　168\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語] (37)\n項目名　うるち\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7382.58　ウルシ　<花>　　　　　　　　　　　　　　　タタコメ\n7382.93　< ? >　　　　　　　　　　　　　　　　タターコメ\n7383.98　ウルシ　<もつく事>< ? >\n7391.44　ウルシ　(ウルチとはえわない)\n7394.85　jaku (no kome)\n\n7400.11　tadagome. <晩は kome で用か足りる>\n　　113, not(igome と区別するとき使う, >)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05155.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05155",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05155.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7403.16",
+      "7404.56",
+      "7406.25",
+      "7410.57"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　51-56\n質問番号　地図番号　168\n項目名　うるち　174\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (38.)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7403.16　tadamai. (答えた順序 1. gemmai, 2. hakumai, 3. tadamai.)\n7404.56　kome (特に区別するのーなく)　tadamai\n7406.25　ki:t(i)yome. <時にいうこともある>　kome\n7410.57　saku (not; に対してというよりは)　tada, tadamai\n（手書き注記）いろときにはkomeといって。wawtf;をすます。 供出来、審査米に対して自家でー 食用にするとい う意識のあるえいずらい。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05156.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05156",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05156.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7412.31",
+      "7415.01",
+      "7417.27",
+      "7417.72",
+      "7418.33"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-57\n質問番号　地図番号　168\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ　(39)\n項目名　うるち　1:4\n（表見出し）地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\ntadamai　<not;igome と区別するときに使う>\nfakw gome　希昔はこういっていた、近ごろは（使うことはめずらしい。）\nkome　<暗生活の中ではよつう。これを使う。>\n（次の行）tadaagome　<タ>\nutumai　<サ>\nkit;ji　(Kit;jigome の略)\nkome　特別な言い方はしないと言う。\nkit;ji　(Kit;jigome の略)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05157.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05157",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05157.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7423.77",
+      "7423.80",
+      "7422.26",
+      "7430.80",
+      "7450.44",
+      "7471.38",
+      "7502.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-58\n質問番号　地図番号　168\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n(40.)\n項目名　うるち　174\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n[kitʃi;]\nkityi　<脱殻したもの>\nsakumae (多)\nkome.　(調査者の手持資料では)\nsaku\nsaku no kome\n使われている地域である\ntadamai　[新]\ntain` gome <も>\nurunenai\nurunai, tadamai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05158.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05158",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05158.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "8300.25",
+      "8301.76",
+      "8302.91",
+      "8303.84",
+      "8305.73"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 51-59\n質問番号　地図番号　168\n項目名　うるち 174\n○ 普通注記　ページ (41)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n8300.25　uruti;　(もみのまつの時、又 稲の品種としていう。脱穀してからは単に kome とい う)\n8301.76　ウルチ マイ　<希?>　シャワコンメ, シャワ?\n8302.91　シャワ?　<ウルチとえわず>\n8303.84　# シャワ?, シャワノコンメ　<ウルチとはえわない>\n8305.73　uruti;　(uruti; であって uruti; では (aku ...))\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05159.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05159",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05159.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "8323.57",
+      "8335.05",
+      "8335.48",
+      "8352.92",
+      "8373.43",
+      "9312.42",
+      "0228.96",
+      "0275.36",
+      "0275.97"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n日本言語地図資料用紙 注記一覧 51-60\n質問番号　地図番号　168\n項目名　うるち\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (42.)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n8323.57　saku no kome.\n8335.05　*jaku (de? は自家用米の義, こっ...としては jaku である.)\n8335.48　jaku (単に jaku と言うことが多い) jaku no kome.\n8352.92　sa2gome. (作業?)\n8373.43　saggome.\n9312.42　tadayome. (良米の義)\n0228.96　jikogumi <新> jikogumi\n0275.36 kwaigumi <固米の義>\n0275.97 sakugumi <新> kumi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05160.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05160",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05160.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "0294.66",
+      "2072.20",
+      "2140.49",
+      "2141.61",
+      "2141.71",
+      "2150.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-61\n質問番号 地図番号 168\n項目名 うるち 17:4\n(A) 普通注記\n[B 除いた共通語] [C 除いた特殊語] ページ (43.)\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n表ヘッダ: 地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\nFumi    (この場合は hunmi と言わない)\nsagumai    <くちみの方ない米の義>\nmai    <mutst+mai に対していう場合>\n(?)magy    <mag 農といい。特別の方言はない>\nmag    <ウルチにする方言はない>\nsapamazi    <味・まずい米の意もある>\n\n（下面は空欄）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05161.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05161",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05161.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "1763.60",
+      "1942.03",
+      "4686.96",
+      "4694.26",
+      "5499.98",
+      "5565.19",
+      "5566.95",
+      "5569.36"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-62\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〔〕は厳密にする。\n（右上の箱）質問番号 174　地図番号 168　項目名 うるち　A 普通注記　B 除いた共通語　除いた特殊語　ページ (1)\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n1763.60　タタマイ　＜ともいう人がある＞　コメ、ウルマイ\n1942.03　urutji;　＜高売たからう使う＞　wrwmai ＜薯通＞　＜komeが一等　多いか＞\n4686.96　urwtji;　＜希＞　Tarankome（たたぐ米の形状?)\n4694.26　urwtji;　＜共＞　wrwgome\n5499.98　ウル4　やっていねいな言い方　ウル\n5565.19　urutji;　＜新＞　mamayome\n5566.95　ウル4　＜綿＞　2メ\n5569.36　ウル4　＜共＞　ウルコメ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05162.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05162",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05162.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "5587.74",
+      "5588.78",
+      "5604.28",
+      "5609.81",
+      "5613.33",
+      "5666.10",
+      "5676.28"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-63\n質問番号　地図番号　168\n項目名　うるち　174\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ（2）\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A 注のない語形　[B・C　残した語形とその注]\n5587.74\tウルチ\t〈共〉\tタダマイ\n5588.78\tウルチ\t〈共〉\tタダマイ\n5604.28\twrwtj;\t〈新,共〉〈改まったえい方〉\twrw gome〈最も多い〉\n供与制度以来の用法〉\twrw g mae.〈次に多い〉\n5609.81\twrwtj;\t〈稀〉\twrwm〈普通〉\n5613.33\twrwtj;\t〈共〉\ttadamae\n5666.10\tウルチ\t〈稀〉\tコメ\n5676.28\twrwtj;\t〈単にkomeという場合が多く〉\tkome",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05163.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05163",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05163.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "5691.37",
+      "5693.13",
+      "6424.20",
+      "6429.30",
+      "6439.01",
+      "6439.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-64\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　168\n項目名　うるち　174\nA　普通注記　(B)除いた共通語　(C)除いた特殊語　ページ（3）\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nurutʃi;  （とい）語は全り使われ?\nいない, >\nうるち　ウルチ　<芸>\n（英）公式の場合 検査の tadagome, tada.\nウル4 ネ <共>\nタゴユメ（？）\nパンマイ\n（いくつか本文の手書き注記と取消線など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05164.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05164",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05164.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6447.84",
+      "6449.84",
+      "6524.01",
+      "6533.36",
+      "6545.41",
+      "6565.22",
+      "6569.12"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 51-65\n\n質問番号　地図番号　168\n項目名　うるち　174\nA　普通注記\nB　[除いた共通語]\n（除いた特殊語）\nページ（4）\n\n表見出し: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n表中の注記（行ごと、地点番号は除く）:\nA: ウル　＜上＞　　　　　　右欄: タターマイ\nA: ウル4　＜赤＞　　　　　右欄: タターマイ\nA: urut(i);　　　　　　　右欄: tadayome\nA: urut(i);　＜般にあまり使わない＞　右欄: uru\nA: urut(i);　＜農業技術員と話すとき 等合の時等＞　右欄: urugome\nA: ウル4　＜稲＞　　　　　右欄: タター\nA: urut(i);　検査のとき などいう　右欄: kome",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05165.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05165",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05165.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6617.99",
+      "6623.53",
+      "6624.13",
+      "6631.53",
+      "6635.44",
+      "6702.21",
+      "7347.55",
+      "7351.06"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-66\n質問番号 地図番号 168\n項目名 うるち 174\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (5)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )[ ]は厳密にする。\n\n地 点 番 号   A 語形とその注記 [B・C 除いた語形とその注]\n\nhakumai    *uruti; <昔の形>\nuruti; <希>\nuruti;\nuruti;\nuruti;\nuruti;\nwrutji; ほとんど使わない\n<黄>\nくろうの人はウルシという\n\n右欄手書き注記: *uruti;  kome  urutji; mai  urutji;  kome  (ええ - kome とまえの 粟米のこと)  kome\n\n(手書きの英字ローマ字表記と日本語注記が複数行に渡って記入されている)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05166.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05166",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05166.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "7370.41",
+      "7375.71",
+      "7377.27",
+      "7382.94",
+      "7401.11",
+      "7435.07",
+      "7422.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-67\n質問番号 地図番号 168 A 普通注記 ページ (6)\n項目名 うるち 174\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7370.41　ウルチ　<共.新>　ウルン　44-10-12 麻島氏　再調査のすえ、ウルしか— 正しい。\n7375.71　urutji　<希>　horako\n7377.27　uruji:　<商売人、米屋たけかつ(使う)>　(なお、この地実 水田なし)\n7382.94　ウルン, ウルチ　<きわめて稀>　レヤク?\n7401.11　urutji:　<上>　tadagome\n7435.07　urutji　<改まった>　tãdãgome\n7422.26　urutji　(希)　sakumae (多)\n\n（表のその他の手書き注記や英字表記等を含む）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05167.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05167",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05167.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "8331.12",
+      "2140.49"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　51-68\n質問番号　地図番号　168\nA　普通注記　(B　除いた共通語)　ページ　(7)\n項目名　うるち　174\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n8331.12　urutɕi:　<改まって>\nsaggome.\n2140.49　N.R.\nmai　<mutisi mai =\nまじていう場合 >",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05168.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M168Q174/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05168",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05168.tif",
+    "source_ljc_id": "LJC-M168Q174",
+    "source_map_numbers": [
+      "168"
+    ],
+    "source_title": "うるち (粳米)"
+  }
+]

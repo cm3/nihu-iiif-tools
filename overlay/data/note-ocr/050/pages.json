@@ -1,0 +1,983 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.12",
+      "0779.03",
+      "0873.94",
+      "0896.22",
+      "0990.97",
+      "1715.53",
+      "1719.17",
+      "1722.25",
+      "1239.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-50 質問番号 015 地図番号 050 項目名 イクラ A 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 0724.12 nambo いくつ ikutsu 0779.03 nambo 0873.94 ikura (da) 0896.22 [ナンボ] 0990.97 nambo (nambokai)(nambodane) 1715.53 nambo 〈いくらというのは上品れ〉 1719.17 ナンボ [古] 1722.25 ナンボく廃 1239.85 nambo 〈ふつう、前から〉 右欄注記: ikura nambo (da) イクラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01250.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01250",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01250.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1762.10",
+      "1763.60",
+      "1773.27",
+      "1786.13",
+      "1814.25",
+      "1848.24",
+      "1862.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 12-51\n質問番号　地図番号　015. 050\n項目名　イクラ\nA 普通注記\n(B 除いた共通語)\n[C 除いた特殊語] (2)\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\nikura (ほとんど方解語彙に属する。)\nナンボ <昔、よく使われ>\nイクラ <ナンボとは言わない>\n<ナンボは店に来客があって、値段を聞く時に時々聞く。>\nナンボ <老人に多い>\nイクラ\nイクラ <改まった時>\nナンボ\nナンボ <子>\nイクラ.\nnambo <多>\nikura\nナンボ (多)\nイクラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01251.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01251",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01251.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "1942.03",
+      "2800.52",
+      "2812.96",
+      "3699.55",
+      "3756.26",
+      "3765.74",
+      "3774.44"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-52\n質問番号 地図番号 015. 050\n項目名 197\n(1)普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(3)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n1942.03    nambo 〈子供の時〉\n           ikura 〈あられまんば〉\n2800.52    ナンボ〈下〉〈相手による〉        イクラ\n2812.96    nambo (614ではイクラが主に使われる\n           ように言っていたが、ナンボがすぐ\n           ここで出て来た)\n3699.55    ナンボ、 ex. ナンボダ\n3756.26    〔ナンボ〕                       イクラ\n3765.74    イグツ（上）                    ナンボ\n3774.44    ナンボ〈ダンス〉(...ですか)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01252.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01252",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01252.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3777.48",
+      "4597.66",
+      "4609.54",
+      "4657.64",
+      "4663.49"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　12-53\n質問番号　地図番号\n015　050\n項目名　イクラ\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　(4)\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n3777.48　イグラ＜改＞　ナンボ\n4597.66　ナンボ＜新＞　イクラ\n4609.54　nambade（これは、ナンボアタイがつまったもの。）（これが最初の答であれ）　nambo\n4657.64　nambo＜古い言い方で、現在でもしょっと出て使う＞\n4663.49　nambo（北海道への出かせぎのため、ikuraとも考えられるが、そうではなかろう。後船時代の西の国の影響であろうかと思う。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01253.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01253",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01253.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4711.49",
+      "4752.27",
+      "4746.20",
+      "4753.52",
+      "4753.76",
+      "4780.26",
+      "4780.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 12-54\n資料番号　地図番号\n015　050\n項目名　イフラ\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(5)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n4711.49　ナンボ。　例．ナンボスル\n4752.27　nambo　<nambo degasuttと続ける?>\n4746.20　ekura　〈こういう言葉を使う場面で〉\n　　　　は、店であるか、歳を聞く場合\n　　　　よりは ekura の方を多く使う\nnambo　〈古〉\n4753.52　nambo (degasutt). （）の中はデスクに当る。\n4753.76　nambo　〈古〉\n4780.26　ekura　〈タ〉\n4780.60　ekura　〈これが多いようだ〉\n　　　　nambo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01254.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01254",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01254.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4782.96",
+      "5546.34",
+      "5557.48",
+      "5557.85",
+      "5567.46",
+      "5579.42",
+      "5609.26",
+      "5622.48",
+      "5629.23"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 12-55\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n質問番号 地図番号 015. 050 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (6)\n項目名 イクラ\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n4782.96  nambo 〈普通使う〉                                    ikura\n55 36.29  nambo 〈新〉                                       ikura\n5546.34  nambo 〈希〉                                       ikura\n5557.48  nambo 〈新〉                                       ikura\n5557.85  nambo 〈新〉                                       ikura\n5567.46  ?イクラ\n5579.42  ikura 〈古〉〈今は nambo という人もあるか〉\n5609.26  nambo 〈多〉                                       ikura\n5622.48  igura\n5629.23  ナンボ 〈古〉                                     イクラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01255.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01255",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01255.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5635.65",
+      "5644.94",
+      "5648.13",
+      "5652.81",
+      "5655.57",
+      "5656.56",
+      "5657.73",
+      "5663.09",
+      "5636.49",
+      "5641.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-56\n質問番号 015 地図番号 050\n項目名 イワラ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5635.65.　イクラ（共）\n5636,49　イワラ　<イクラ ダイフ>\n5641,99　ikura , i は少し広い\n5644.94　イクラ（共）\n5648.13　nambo　<古>　　　ikura\n5652.81　nambo　<古>　　　ikura\n5655.57　イクラ（共）\n5656.56　ナンボ　<稀,昔>　オイクラ\n5657.73　イクラ（共）\n5663.09　ikura , ikusen (dai)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01256.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01256",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01256.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5665.46",
+      "5666.18",
+      "5669.12",
+      "5669.96",
+      "5682.37",
+      "5683.77",
+      "5684.11",
+      "5688.07",
+      "5688.37",
+      "5689.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-57\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく〈〉[ ]は厳密にする。\n質問番号 015　地図番号 050\n項目名 イクラ\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (P)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5665.46　イクラ　〈イクラダヤ〉\n5666.18　イクラ（共）\n5669.12　ekuura (３)（誘） nambo 〈右、左で〉\n5669.96　nambo〈右〉　　　　eguira\n5682.37　nambo〈普通に nambo daet 聞く。〉　ikura\n5683.77　イクラ〈上〉　　　ナンボ\n5684.11　nambo〈右〉　　　ikura2\n5688.07　イクラ（〜ダイ）〈普通〉　イクラ（〜ダ）\n5688.37　イクラ〈昔〉　　　イクラ（〜デスカ）\n5689.98　ikura2（ju:ra とは言われない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01257.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01257",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01257.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5690.96",
+      "5693.13",
+      "5694.31",
+      "5696.68",
+      "5710.84",
+      "5712.70",
+      "5733.02",
+      "5741.66"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 12-58 質問番号 地図番号 015 050 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (9) 項目名 イクラ 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] ikura 〈何センでわけたが ikuraと言う。〉(ikuraを方言と思っている。) イクラ〈上〉 ナンボ イクラ〈上〉 ナンボ nambo〈右〉 ナンボ〈右〉 ikura (3) [nambo〈右〉] ikura nambo【右】 igura〈多〉 nambo〈少〉（自然に出た、れだし、東京）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01258.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01258",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01258.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5760.24",
+      "5792.02",
+      "5793.20",
+      "6383.77",
+      "6395.61",
+      "6414.17",
+      "6416.09",
+      "6419.09"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。  ▶ その中での情報は地点番号順に並べる。  ▶ 注記の＜＞〈〉()[]は厳密にする。\n日本言語地図資料用紙注記一覧 12-59\n質問番号　地図番号　015　050\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (10)\n項目名　イクラ\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n（者に対する会話中...）\nikura ＜ナンボはここでは少ない＞\nekura , e は狭い e.\nikura（ナンボではないと言う。）\nnambo（多）\nnambo. ①: ikura\nnambo（アクセントはナンボ、ナンボではない）\nナンボ（本人の答はナンボダナ。ダナは、であるかの意）\nナンボ ＜古、少＞\nイクラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01259.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01259",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01259.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6424.20",
+      "6445.57",
+      "6449.19",
+      "6457.18",
+      "6458.08",
+      "6459.29",
+      "6459.52",
+      "6466.07",
+      "6476.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-60\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n（右上の欄）\n質問番号 015　地図番号 060　A 普通注記\n[B] 除いた共通語　[C] 除いた特殊語　ページ (11)\n項目名 イクラ\n\n（表の見出し）\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6424.20  nambo:（被調査者はナンボオタと答え）\n6445.57  (?) イクラ（普通はナンボオである。）\n6449.19  ナンボヤ。（ナンボ）\n6457.18  ナンボカ。（ナンボ）\t\t\tイクラ\n6458.08  ナンボヤ。（ナンボ）\n6459.29  ナンボヤ。（ナンボ）\n6459.52  ナンボデスカ。（ナンボ）\n6466.07  ナンボオ（～デ）（長上に対して）\n　　　　ナンボオ（～ナラ）（同等以下に対して）\n6476.93  ナンボ。ナンボァ？と聞く。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01260.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01260",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01260.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6477.02",
+      "6479.26",
+      "6482.52",
+      "6482.75",
+      "6484.43",
+      "6484.28",
+      "6485.14",
+      "6485.46",
+      "6485.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-61\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に述べる。\n注記の＜＞（）[]は厳密にする。\n\n質問番号　015　地図番号　050\n項目名　イクラ\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(V2)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6477.02　ナンボ。〈コレナンボドイヤ〉\n6479.26　ナンボナ。（ナンボ）\n6482.52　nambo（nambo desu ka のように言う）\n6482.75　nambo〈nambo surja: no などと言う〉\n6484.43　ナンボ。　コレナンボナ\n6484.28　ナンボ。　コレナンボイヤ（このように聞く　コレナンボスルンナ）のである。\n6485.14　ナンボ。〈ナンボデスカ？〉\n6485.46　ナンボ。〈ソレナンボスルンデェ？と聞く〉\n6485.82　ナンボ。〈ソレナンボデ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01261.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01261",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01261.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6486.50",
+      "6489.07",
+      "6492.11",
+      "6494.21",
+      "6505.60",
+      "6522.93",
+      "6523.86",
+      "6530.58",
+      "6535.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　12-62\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () は厳密にする。\n\n[枠内上部]\n質問番号　地図番号\n015     050\n項目名　イクラ\nA (○) 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (43)\n\n[表ヘッダ]\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n[行の注記（地点番号は除く）]\nナンボ。　コレナンボスンナ（いくらするのか）\nナンボ。（3）ナンボナ\nnambo ＜nambo zon, nambo desuka＞\nナンボ。（3）ナンボナ\nikura ＜普通＞＜namboという人もいまい こともない.本人は言わない.＞\nイクラ……改まった感じ。　　　　　　　　　ナンボ\nnambo ＜古＞　　　　　　　　　　　　　　ikura\nナンボ＜3.家族＞\nikura ＜7割ぐらいは、この形＞　　　　　　nambo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01262.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01262",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01262.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6539.12",
+      "6541.27",
+      "6541.66",
+      "6542.58",
+      "6545.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-63\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n（右上の箱） 資問番号 015  地図番号 050  項目名 イクラ  A 普通注記  (B 除いた共通語)  (C 除いた特殊語) (14)\n表ヘッダ: 地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n6539.12  ikura.  (つは動力接しているようである)\n6541.27  ナンボ.  <多>                     イクラ\n6541.66  ナンボや.  (ナンボ)\n6542.58  ナンボ.  子供・女性（20才）などではかなり、イクラという形がみられるが、彼らも一般会話では、ナンボである。\n\n6545.88  ikura  <大阪方面の人は nanboと言う。だから、大阪方面の人と話す時には、自分も nanboを使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01263.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01263",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01263.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6550.13",
+      "6552.46",
+      "6553.47",
+      "6554.45",
+      "6555.31",
+      "6560.22",
+      "6565.17",
+      "6572.79",
+      "6574.06"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    12-64\n質問番号 地図番号 015 050\n項目名 イグラ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (15)\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n6550.13 ナンボヤ。 (ナンボ) (3)\n6552.46 nambo. (014〜016. 区別なし)\n6553.47 nambo ＜普通＞\n6554.45 nanbo ＜方言では nanboというのが近頃では、減ってきた。＞\n6555.31 [nambo]    ikura\n6560.22 ナンボヤ。 (ナンボ) (3)\n6565.17 ikura ＜nanboという人もある。＞\n6572.79 nambo ... 新しいことば　    ikura\n6574.06 (nambo) (「ナンボドョー」の文型式で答)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01264.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01264",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01264.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6575.40",
+      "6589.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n日本言語地図資料用紙注記一覧 12-65\n質問番号　地図番号\n015　050.\n項目名　イクラ\n(A)普通注記\n[B]除いた共通語\n[C]除いた特殊語\nページ (16)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nえので、それから必要部分を抽出した。）\n6575.40 [Ikiura] nambo.\n6589.42　イクラドイ、く店番などをしている人は、普通イクラド、\nイクラド、目上の老人が多いから>\n(被調査者は、「イクラドイ」のみを最初に答えたので、0149の場合から類推して、「イクラド」の有無を更にたずねた所、上の答を得た。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01265.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01265",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01265.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6591.02",
+      "6591.57",
+      "6593.98",
+      "6594.67",
+      "6595.32",
+      "6604.60",
+      "6606.35"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 12-66\n質問番号 015　地図番号 050\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (17)\n項目名 イクラ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <>()[] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6591.02　イクラ　[ナンボという人もある。]\n6591.57　ナンボ.　(新〈〉)　イクラ\n6593.98　ikura　〈イクラナラカ?（いくらないという）〉\n6594.67　イクラ.　(ーソナ)〈目下のものにはイクラド〉\n6595.32　ナンボ.　(被調査者は盲人であるからこれを多く用いると言う。同席した漁師の島本氏は、イクラカ、イクラドイと言う。)\n\n6604.60　ナンボ〈古〉　イクラ。\n6606.35　ikura　〈動物（豚など）まどについては〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01266.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01266",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01266.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6613.54",
+      "6626.30",
+      "6630.43",
+      "6635.87",
+      "6639.79",
+      "6649.55",
+      "6657.96",
+      "6730.27",
+      "7246.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記 12-67\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉()[]は厳密にする。\n\n質問番号　地図番号\n015　050\n項目名　イクラ\n(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語　(18)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n[nambo]とも言う。\n\n6613.54　nambo　〈昔〉　ikura\n6626.30　nambo　〈昔〉　ikura\n6630.43　oikura　〈丁寧な言い方〉　ikura\n6635.87　oikura　上.　ikura\n6639.79　ju:ra　〈古〉　ikura\n6649.55　ju:ra　〈普〉　ikura\n6657.96　iɸuɾa　ikura\n6730.27　ikura　〈[ju:ra]は言わない〉　ikura\n7246.45　itođa　同島神の浦は ikura",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01267.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01267",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01267.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7259.22",
+      "7302.87",
+      "7321.93",
+      "7322.87",
+      "7329.39",
+      "7332.97",
+      "7338.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-68\n(手書き) 015 050\n項目名 イクラ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (19)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><() [] は厳密にする。\n\n表ヘッダ: A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nnambo ＜新＞    ikura\nnambo （数も量も区別なし）\nイクラ ＜〜デスナの様に言う＞\nnambo （この方を上品な共通語と意識していた。）    ikura\nnambo ＜小学生は ikura と言っている＞\nikura （多い）\nnanbo （少し）\nnambo ＜nambo suru kana のように使う。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01268.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01268",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01268.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7339.27",
+      "7346.63",
+      "7349.07",
+      "7351.09",
+      "7352.14",
+      "7357.31",
+      "7342.10",
+      "7345.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 12-69 質問番号 015 地図番号 050 項目名 イクラ A 普通注記 (B 除いた共通語) (C 除いた特殊語) (20) 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 7339.27? nambo <nambo nara?> のように使う。 7342,10 doi siko (ドレシコの意)。7342.10地点 nambo 016.欠ゆえ、これが確かに015かどうか不明也。 7345,47 nambo. ナンボカ 7346.63 nambo- (ナンボカ) 7349.07 nambo <nambo suurja: ?を使う> 7351.09 ikura <ナンボ言わない> 7352.14 ドシコ <古老> イクラ 7357.31 nambo- ナンボカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01269.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01269",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01269.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7361.17",
+      "7361.82",
+      "7363.59",
+      "7372.27",
+      "7373.56",
+      "7373.92",
+      "7375.30",
+      "7375.37",
+      "7376.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-70\n資料番号 015　地図番号 050　A 普通注記\n項目名 イクラ　(21)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><()[] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7361.17　〈ドシコ〉　　イクラ.\n7361.82　ikura　(3) 語doga,jikoは使わない　　イクラ.\n7363.59　ドシコ〈希〉　　イクラ.\n7372.27　ドギャシコ〈下〉〈親近感のある語〉\n　　　　ドレシコ〈親近感のある語〉　　イクラ\n7373.56　ナンボ〈新〉　　イクラ.\n7373.92　ドシコ〈希〉　　イクラ.\n7375.30　nambu〈新〉　　ikura?\n7375.37　nambo〈タ〉　　ikura?\n7376.68　ikura〈タ〉　　nambo.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01270.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01270",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01270.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7383.98",
+      "7385.38",
+      "7386.63",
+      "7390.26",
+      "7390.75",
+      "7391.94",
+      "7392.94"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　12-71\n質問番号　地図番号　015　050\n項目名　イクラ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (22)\n\n表見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nドレシコ　〈やや希〉〈古い言い方〉　　イクラ、ナンボ\nnambo　〈多〉　　ikura\nnambo　〈多〉　　ikura\nイクラ　〈ともに昔から〉〈しかし、イクラ／ナンボの方が基本的な古くからの言い方〉\nナンボ\n\nイクラ　〈ナンボ・ドシコは使わず〉\nナンボ　〈希〉　　イクラ\nドシコ　〈希〉\n\nイクラ　〈？こちらの方が、ドレシコより普通ドレシコ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01271.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01271",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01271.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7394.14",
+      "7394.60",
+      "7401.11",
+      "7401.60",
+      "7402.47",
+      "7404.12",
+      "7404.56"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<>()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 12-72\n質問番号　地図番号\n015　050\n項目名　イクラ\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (23)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n通の言い方でもあり、古くからの言い方か？\n\n※nambo\nドシコ　〈ざっとした言い方〉\nイクラ\nnaᵐbo　〈naᵐbo zona〉\nnaᵐbo　naᵐbo kaina, naᵐbo suru- nde.\nnaᵐbo　〈naᵐbo de su ka〉という由。\nnaᵐbo　(naᵐbo surun toと答え。)\nnaᵐbo　〈naᵐbo kana?, naᵐbo na?, という。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01272.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01272",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01272.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7410.57",
+      "7411.27",
+      "7412.31",
+      "7412.71",
+      "7420.18",
+      "7421.38",
+      "7430.75",
+      "7431.82",
+      "7450.44"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　12-73\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞［　］は厳密にする。\n\n（右上欄）　質問番号　地図番号　015　050　項目名　イグラ　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（249）\n\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n7410.57　nambo　（〈nambozona〉のようにいう由。）\n7411.27　nambo　（〈nambo zonaのように言う〉）\n7412.31　nambo　（〈nambo suruzo〉のようにいう由）\n7412.71　nambo　（〈nambo ka〉）\n7420.18　nambo　（〈nambo kana〉という。）\n7421.38　nambo　（〈nambozo〉、〈nambosurija〉のように言うよ。）\n7430.75　nambo.　（〈nambau と発音する者もいる〉）\n7431.82　nambo　（〈nambo kanoと言う〉）\n7450.44　nambo　［新］\n\n（下部右手書き）nambu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01273.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01273",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01273.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7501.68",
+      "7502.91",
+      "7570.18",
+      "7513.69",
+      "7523.74",
+      "8300.11"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<, >()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 12-74\n質問番号 015   地図番号 050\n項目名 イクラ\nA 普通注記  (B 除いた共通語) (C 除いた特殊語) ページ (25)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n7501.68　ナンボ〈新〉　　　　　　　　イクラ。\n7502.91　ナンボ〈ていねいで、上品な感じがある〉と思う。〈新しい語〉　イクラ\n7570.18　ナンボ〈希〉　　　　　　　　イクラ。\n7513.69　イクラ　〈ナンボという言い方は、新しい言い方である〉\n7523.74　ikura　　nausenとも言う…少女期の時（何年？）\n8300.11　イクラ　〈ドシコは言わぬ〉〈例：（—フィラカン？）〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01274.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01274",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01274.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "8307.19",
+      "8302.19",
+      "8302.65",
+      "8302.91",
+      "8313.72",
+      "8313.88",
+      "8324.83"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　12-75\n質問番号　地図番号　015　050\n項目名　イクラ\n(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語　(26)\n\n（表見出し）\nA 語形とその注記（B・C除いた語形とその注）　A 注のない語形［B・C 残した語形とその注］\n\nイクラ／ナンボ　〈昔から共用している〉\nドシコ〈希〉\nナンボ〈希〉\nイクラ　〈ドシコは言わない。聞くことが希にある。〉\nnambu〈少〉\nnambu〈多〉\ndojiko suija（nambuとは、この場合言わないと言う。）\n\n右欄注記：イクラ　イクラ　dojiko　dojiko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01275.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01275",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01275.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "8333.03",
+      "8341.94",
+      "8342.69",
+      "8343.97",
+      "8351.65",
+      "8352.92",
+      "8354.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-76 資料番号 015 地図番号 050 項目名 イクラ (27) A 普通注記 (B 除いた共通語) (C 除いた特殊語)\n\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）[]は厳密にする。\n\n（表ヘッダ）A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ndosuko <古>    ikura\nikura <dosukoより少く用いる。>　dosyko\ndosiko , その摩擦は割に強い。\ndosko <多,古>    nambo\ndosiko <併用。子供の時分から、この ikura 形を使って来れ。区別しがたい。> (dojiko が在来の傾向と思う。)\ndosiko. その方がよりも強いようだ。\nnambu. 多し    dosiko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01276.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01276",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01276.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "8355.62",
+      "8363.64",
+      "8373.43",
+      "9310.27",
+      "0265.96",
+      "0275.97"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉［　］は厳密にする。\n日本言語地図資料用紙 注記一覧    12-77\n資料番号 015  地図番号 050\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (28)\n項目名 イクラ\n地点番号（※除く） A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注）\ndojiko\nnambu\n〈年長者は dojiko の方を多く\n使い、若い者は、nambuの方\nを普通、使っている。〉\ndojiko 〈タテ〉\nikura\ndojikobakkai, ① dono kurai と主張する。\ndojiko 〈古〉\nnambo\nikisa: 〈ikisa:gaと言って、完全な問\nいとなる。〉\nikjasa: 〈ikjasa:gaと言って初めて問\nいとなる。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01277.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01277",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01277.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "0276.50",
+      "1251.98",
+      "2150.07",
+      "2072.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-78\n資料番号 地図番号 015 050\n項目名 イクラ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n0276.50    i'kisa:  <ikisa:gaのようにgaを加えて 初めて使える。>\n1251.98    tjassa  <新>    ikusa\n2150.07    isaki   <(不明)>    no:nu pusa\n2072.20    igurat'i; <igurat'ija, いくらか>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01278.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01278",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01278.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "0716.46",
+      "0789.95",
+      "1736.84",
+      "1745.54",
+      "1747.04",
+      "1754.16",
+      "1867.15",
+      "3733.88",
+      "3735.50",
+      "3746.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 12-79 質問番号 015 地図番号 050 項目名 イクラ A 普通注記 B 除いた共通語 C 除いた特殊語 (1) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] イクラ <上> ナンボ ikura <今> nambo イクラ <上> ナンボ イクラ <上> ナンボ イクラ ナンボ イクラ (改まった時) ナンボ イクラ <共> ナンボ イグラ <上> ナンボ イグラ (改まって) ナンボ イグラ <上> ナンボ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01279.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01279",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01279.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "3775.11",
+      "3784.87",
+      "3794.55",
+      "3796.95",
+      "4647.69",
+      "4648.04",
+      "4657.64",
+      "4657.88"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)［　］は厳密にする。\n日本言語地図資料用紙 注記一覧    12-80\n質問番号 015   地図番号 050\n項目名 イクラ\nA 普通注記   B 除いた共通語   C 除いた特殊語    ページ (2)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n3775.11  エグラ (少)    ナンボ\n3784.87  イグラ (少)    ナンボ\n3794.55  エグラ <新>    ナンボ\n3796.95  イグラ <改まって>    ナンボ\n4647.69  ekur2 <共>    nambo (r2)\n4648.04  ekur2 <共> … <町から来れん人に対して>    nambo (d2) (suruu)\n4657.64  tkur2 <新>    nambo (d2) <古い言い方で、現在でもひょっと出て、使う。>\n4657.88  ekur2 (d2) <共>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01280.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01280",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01280.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "4687.37",
+      "4689.62",
+      "4712.16",
+      "4713.60",
+      "4714.68",
+      "4735.37",
+      "4736.63",
+      "4770.62",
+      "4773.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-81\n質問番号 015  地図番号 050\n項目名 イクラ\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ (3)\n\n地点番号   A 語形とその注記（B・C除いた語形とその注）   A 注のない語形（B・C 残した語形とその注）\n\n4687.37   ekura (n'da) <共>      nambo (n'da)\n4689.62   egura <新>             nambo\n4712.16   eguʃa <稀><新>        !nambo\n4713.60   ekuʃa <上>            nambo\n4714.68   ekuʃa <上> <よその町へ行って買物するとき。>   nambo\n\n4735.37   egutsa <上>           nambo\n4736.63   ekura <新>            nambo\n4770.62   iguʃa <上>            nambo\n4773.78   ekura <上>            nambo:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01281.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01281",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01281.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "4782.96",
+      "4790.30",
+      "5549.55",
+      "5666.10",
+      "5568.22",
+      "5579.79",
+      "5653.65",
+      "5677.85",
+      "5695.10",
+      "5696.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 12-82\n質問番号 地図番号 015 050\n項目名 イクラ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4)\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\ne.kura 〈使うこともある〉    nambo 〈普通使う〉\ne.kura 〈新〉    nambo 〈古〉\nikura 〈新〉    dodake\nオイクラ    イクラ\nナンボ 〈他〉    イクラ\nナンボ 〈他、希〉    イクラ\ne.kura 〈共〉    nambo\nオイクラ    イクラ\nイクラ 〈共〉    ナンボオ\nikura 〈新〉    nambo 〈右〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01282.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01282",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01282.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6710.84",
+      "5742.65",
+      "6383.77",
+      "6408.88",
+      "6409.72",
+      "6429.15",
+      "6429.61",
+      "6530.58"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙 注記一覧 12-83 質問番号 地図番号 015 050 項目名 イクラ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (5) 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注） 6710.84 イクラ 〈新〉…〈多少上品なことば〉 ナンボ〈古〉 5742.65 eguira …最近 nambo 6383.77 ikura 〈上品〉 nambo〈タ?〉 6408.88 イクラ 〈希,上,共〉 〈豊岡市などの都会に出た時に、わざとイクラと言ってみる。〉 ナンボ 6409.72 イクラ 〈共〉 ナンボ 6429.15 イクラ 〈共〉 ナンボ 6429.61 イクラ 〈共,上〉 ナンボ 6530.58 イクラ 〈上〉 （下段取り消し線） ナンボくゐる、家族",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01283.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01283",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01283.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6437.07",
+      "6447.84",
+      "6448.23",
+      "6449.19",
+      "6449.84",
+      "6458.40",
+      "6459.52",
+      "6472.05",
+      "6489.87",
+      "6530.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-84\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n（右上小表） 資問番号 地図番号 015 050 項目名 イクラ A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (6)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6437.07　イクラ　＜新、み＞　ナンボ\n6447.84　イクラ　＜新上＞　ナンボ\n6448.23　イクラ　＜共＞　ナンボ\n6449.19　イクラヤ　＜新＞（イクラ）　ナンボヤ（ナンボ）\n6449.84　イクラ　＜共＞　ナンボ\n6458.40　イクラ　＜共、新＞　ナンボ\n6459.52　イクラデスカ　＜共＞＜新＞（イクラ）　ナンボデスカ（ナンボ）\n6472.05　ikura　＜今＞　nambo\n6489.87　イクラ　＜新、共＞　ナンボ\n6530.58　イクラ　＜上＞　ナンボ＜くる、家族＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01284.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01284",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01284.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6540.79",
+      "6541.66",
+      "6543.05",
+      "6543.56",
+      "6553.49",
+      "6554.45",
+      "6570.89",
+      "6590.87"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞〈〉[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 12-85 質問番号 地図番号 015 050 項目名 イクラ A 普通注記 除いた共通語 除いた特殊語 (ページ) (7) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6540.79 イクラ <希> ナンボ 6541.66 イクラ <共> ナンボヤ、(ナンボ) 6543.05 イクラ <少> ナンボ 6543.56 イクラ <新> ナンボ 6553.49 ikura <共> nambo (普通) 6554.45 ikura (被調査者は菓子小売者で毎日、このコトバを口にしているだけに、敏感である。) nanbo <方言では、nanboというのだが近頃では減ってきてゐる。> 6570.89 イクラ <共> ナンボ 6590.87 イクラ <共> ナンボ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01285.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01285",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01285.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6603.08",
+      "6604.02",
+      "6711.95",
+      "7309.37",
+      "7329.57",
+      "7349.86",
+      "7357.64",
+      "7365.67",
+      "7382.93",
+      "7383.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-86\n質問番号 地図番号 015 050\n項目名 イクラ\nA 普通注記 (除いた共通語) (除いた特殊語) ページ (D)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　><　[]は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形 [B・C 残した語形とその注]\n6603.08　イクラ　[共]　ナンボ\n6604.02　ナニホド　〈改まった場合に言う〉　ナンボ\n6711.95　ikura　〈新〉　nambo\n7309.37　ikura　〈新〉　nambo\n7329.57　ikura　上　nambo\n7349.86　ikura　〈新〉　nambo\n7357.64　ikura　〈新,共〉　nambo\n7365.67　ikura　〈新〉　nambo\n7382.93　イクラ　〈土〉　ドシコ\n7383.83　ナンボ　〈上、よそへ行った時の言い方〉　イクラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01286.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01286",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01286.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7401.11",
+      "7411.61",
+      "7412.71",
+      "7503.48",
+      "8334.63",
+      "8335.48",
+      "8351.07",
+      "8362.85"
+    ],
+    "other_text": "12-87\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　015　050\n項目名　イクラ\nA　普通注記　(除いた共通語)　(Ｃ除いた特殊語)　(9)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）［　］は厳密にする。\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7401.11　ikura　＜上＞　na^mbo <na^mbozona>\n7411.61　ikuraka　＜上＞　na^mbo\n7412.71　ikura　＜上＞　na^mbo <na^mboka>\n7503.48　na^mbo　＜よそで言う＞　ikura\n8334.63　ikura　＜共＞　nambu\n8335.48　ikura　＜共＞　nambu\n8351.07　ikura　＜新＞　dojiko\n8362.85　ikura　＜上品＞　dojiko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01287.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M050Q015/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01287",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01287.tif",
+    "source_ljc_id": "LJC-M050Q015",
+    "source_map_numbers": [
+      "050"
+    ],
+    "source_title": "いくら (値段)"
+  }
+]

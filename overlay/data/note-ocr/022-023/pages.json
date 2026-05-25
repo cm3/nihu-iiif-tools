@@ -1,0 +1,1495 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0747.70",
+      "0789.95",
+      "0840.33",
+      "0990.97",
+      "1706.82",
+      "1731.89",
+      "1739.85",
+      "1747.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）（　） は厳密にする。 日本言語地図資料用紙 注記一覧 質問番号 159 地図番号 022 023 項目名 チイサイ (手書き) ページ 4-2 A 普通注記 [B 除いた共通語] [C 除いた特殊語] 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 0747.70 komai <多> 0789.95 tjiisai <多> 0840.33 tjittjai komai {古} tjankoi tjintjai 0990.97 tjakkoi <る?> 1706.82 チャユコイ <廃> 1731.89 サセ <若い者が言う> 1739.85 tjisai <多> 1747.55 komai (aideに近く) 右欄手書き: komai tsittjai チッサイ チッチェ, チッチャコイ komae tjankoi, tjittjai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00402.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00402",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00402.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1755.53",
+      "1763.60",
+      "1770.18",
+      "1773.27",
+      "1848.24",
+      "1854.24",
+      "1862.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号　地図番号\n159.　022　023\n項目名　イイサイ\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（2）　ページ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n1755.53　チャッコイ（とびぬけて、小さい）　チイサイ\n1763.60　チイサイ、〈安〉\n　　　　チャンコイ、〈ウ〉とする（高田）\n1770.18　チャッコイ〈子供らに〉　チイサイ\n1773.27　コマイ〈年寄が使う〉　チイサイ\n1848.24　komai〈稀〉　tjiisai\n1854.24　komai〈夕〉　tjiisai\n1862.48　チンコイ　チッコイ　メンコイ　〈どっちも多く使う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00403.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00403",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00403.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "1863.48",
+      "2700.48",
+      "2703.18",
+      "2722.67",
+      "2782.67",
+      "3699.55"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記のく > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙　注記一覧\n(右上ボックス)\n資料番号　159　　地図番号　022　023\n項目名　ナイサイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(3)　ページ\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n1863.48　ナイサイ〈?〉\n　　　　チャッチャイ〈少〉\n\n2700.48　チャッコイ〈希〉〈くゞ〉　ごく親しい人にしか使わない\n　　　　（注） ナイサイ\n\n2703.18　tʃankoi〈児〉\n　　　　→ tʃiftʃai\n\n2722.67　チャッコイ（女）\n\n2782.67　tʃakke〈る〉\n　　　　tʃise〈大人同志〉\n\n3699.55　（抹消）\n　　　　チャッコエ（希）\n\n右欄（補注）　ベッティ、　チッチェ、",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00404.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00404",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00404.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3770.49",
+      "3761.22",
+      "3933.22",
+      "3224.2",
+      "3767.22",
+      "3771.44",
+      "3781.86",
+      "3716.58",
+      "3755.32",
+      "3783.08",
+      "3771.99",
+      "3791.02",
+      "4659.50",
+      "4663.92"
+    ],
+    "other_text": "3770.49 3761.22 3933.22 3224.20 3767.22 3771.44 3781.86\n\n日本言語地図資料用紙 注記一覧 4-5\n質問番号 159  地図番号 022 023\n項目名 ﾁｻｲ (handwritten)\n\n地点番号\n3716.58  tjakee <普通>\n3755.32  ベアコ (ベアコナ はご\"のガツが; 盛)\n(周散近郊で用いられている)\n3783.08 bekke'  e は狭い e.\n3771.99  ki+ʃæ ... (ci+ʃæ) としてもよかろう。 tjiʃe: のクループへ (高田)\n3791.02  tsi:sai (平ベッタイということはば [bette] 東京にもある。)\n(少しということを bekkotoと言う。)\n4659.50  チィサエ  木ぞ小さるもの -> メチャコエ\n4663.92  tji:ʃæ: (子供のいっらしい感じ)  tji:soɪ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00405.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00405",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00405.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4694.26",
+      "4695.33",
+      "4703.18",
+      "4706.53",
+      "4711.49",
+      "4711.41",
+      "4711.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙 注記一覧　4-6\n質問番号　159　地図番号　022　023\n項目名　イサイ\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語\n（表ヘッダ）地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4694.26　tʃi: sae <み?>\t\ttʃiŋke:\n4695.33　tʃi: sae (変)\t\ttʃi sae\n4703.18　komakoe <古>\t\ttsittʃae\n4706.53　tʃakoe. (この方が本当に小さいという感じがでてるようだ?)\n　　　　tʃi: tʃakoe (更にそれよりも、小さいしかも身近かな親しみをもてる場合。)\n4711.49　メチャコエ（ごく小さい場合）／ツチャコエ\t\tツッチャエ　メッヂャエ\n（下段外書き）4711.41　[tʃü tʃakoe]\n4711.42　tɛʃakoi　tʃitʃakoi に入れる（高）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00406.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00406",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00406.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4713.02",
+      "4713.45",
+      "4716.20",
+      "4721.36",
+      "4724.28",
+      "4724.75",
+      "4712.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。(3)\n4712.16  tʃi:se: (bakkoda)\n\n（右上の小欄）\n質問番号 159  地図番号 022 023\n項目名  チイサイ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (6)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4713.02　tʃakke: <古> … (159 の okke に対するもの)　tʃi:sae.\n　　　　bakkoda <古>\n4713.45　bakkoda <古>　小さい子供のことを　tʃi:sae\n　　　　bakkoe <古>　bakkoと言う。\n4716.20　tʃi tʃakoe <古>　　　　　　　　　　　　tʃi:seze\n4721.36　[ tʃiittʃa e ]\n4724.28　beakkoe <古>　　　　　　　　　　　　　　tsi:sae\n4724.75　tʃakkoe <古><稀>\n　　　　tʃi:sae\n\n＜非常に小さい場合は me/akkoe と言う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00407.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00407",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00407.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4731.42",
+      "4731.85",
+      "4732.18",
+      "4725.92"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >〈 〉[ ]は厳密にする。 日本言語地図資料用紙注記一覧 4-8 質問番号 地図番号 159 022 023 項目名 サイサイ (ページ (7)) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 4725,92 tʃi:sae <絵のように大小の対立を考えた場合に使う。> tʃakkoe <大小の対立のためではなく、もっと感覚的な形容をし、かつ、質問の答えにはぴったりしない。だれしろ子供達はむ(この方を使う。) >(c大163) 4731.42 [tsiüttejae] 4731.85 [tsiü tte]ae] 4732.18 tʃakkoe <古> tʃi:sae",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00408.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00408",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00408.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4732.86",
+      "4733.91",
+      "4741.44",
+      "4743.61",
+      "4760.64",
+      "4761.07",
+      "4761.57",
+      "4762.56",
+      "4763.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-9\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n資料番号 地図番号\n159 022 623\n項目名 チイサイ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (8)\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n4732.86   tjakkoe <古>                             tsui:sæ\n4733.91   tjifjakkoe (未表)                         tjakkoe\n4741.44   チャユエ。 最初の「チ」無声化する。\n4743.61   tjakkoe (これは163番の調査者のあとで得られた。)\n4760.64   [tsuittae]\n4761.07   tjakkoe <古>                              tsi::sæ\n4761.57   tjifjako <多>                             tji:sal\n4762.56   tjakkoe <一番普通に使う>                  tjitjaekkkoe\n4763.45   tjitjakkoe, tjakkoe",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00409.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00409",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00409.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4782.96",
+      "4792.43",
+      "5472.91",
+      "5508.16",
+      "5555.84",
+      "5471.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 4-10\n質問番号 地図番号 159 022 623\n項目名 ｲサイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (9)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n(両語形とも同じであるが、強いて言えば、前者は非常に小さいという感じを与える。使用度数は、前者の方が、多いようである。)\n\n4782.96  tjintʃe:  <昔から使う>          tʃi: s2L\n4792.43  tjintʃæ  [悪口]                 tjinkoe\n5472.91  kome:  <多>                    hoʃe:\n5508.16  tjisai / tjiai                 （詳細図では併用とする。） 普通図では単用 -> tjisai (高)\n5555.84  entɕai (ほかの地域でもインチャイとい)\n5471.59  コオメ , KOMAIとする? (高田)    ホオセ\n\n（下部署名・メモ等不可読部分）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00410.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00410",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00410.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5574.79",
+      "5574.84",
+      "5591.60",
+      "5594.02",
+      "5594.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-11\n資料番号 159   地図番号 022 023\n項目名 チイサイ\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (10)\n\n（表見出し） 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nうところがある。インチャイー（ンチャイ）\nせび（しっとしたのは、非常に弱い音のこと、\n一時、こうして、まましておく。つまり、\nチャイではない。むしろせびに近い。）\n\n5574.84  tʃi: tʃai  ＜タ＞    tjiisai\n5591.60  チイサイ [sɯ:]  ←\n5594.02  tʃiisai ＜タ＞    komal\n5594.37  tʃisai ＜タ＞    tjiisai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00411.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00411",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00411.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5602.99",
+      "5604.52",
+      "5605.57",
+      "5605.70",
+      "5611.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 4-12\n\n質問番号 159    地図番号 022 023\n項目名 4イサイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n5602.99  tjittjae <古>\n         tsjinkoe <古>\n\n5604.52  tji:se: <年令等についても言う。年少の意。>\n         tsjinkoe <人体についても用いる。体が小さい意。>\n\n5605.57  4イサエ（新）\n         チュッダ（古）\n\n5605.70  noTkoe <希>    tji:sae\n\n5611.39  tjiTtjae <希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00412.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00412",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00412.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5611.74",
+      "5628.70",
+      "5629.17",
+      "5631.26",
+      "5631.75",
+      "5632.28",
+      "5633.45",
+      "5635.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-13\n（小枠） 質問番号 159   地図番号 022 023   A 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (12)\n項目名 チイサイ\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n5611.74　チンコエ（子）　　　　　　　　　　　　チイサエ\n5628.70　チッチャイ　〈早くいう時使う〉　　　　チイサイ\n5629.17　チイサイ　〈多〉　　　　　　　　　　　チッ　チャイ\n5631.26　tjinkoi〈3〉　　　　　　　　　　　　　tʃi:sai\n5631.75　tsimmai〈る〉　　　　　　　　　　　　tʃi:ise:\n5632.28　tjikke:〈ことはっとして古い感じ、また悪い感じがする。〉  [tjin ke]  tʃi:isai\n\n5633.45　tjikkuu〈希希〉　　　　　　　　　　　tʃi:se\n5635.65　チッ ツァイ（共）\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00413.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00413",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00413.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5636.49",
+      "5638.67",
+      "5639.13",
+      "5641.07",
+      "5643.33",
+      "5644.74",
+      "5648.53",
+      "5652.81",
+      "5654.94",
+      "5655.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-14\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉（）[]は厳密にする。\n\n質問番号 159　地図番号 622 023\n項目名 タイサイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (13)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5636.49　タイセエ〈クタ〉　チッツェエ\n5638.67　[古] チャッツァイ　タイサイ\n5639.13　チャッャイ　<雑に言う時に使う>\n5641.07　tjikkunai〈希〉　t/ikkune:\n5643.33　tjinke〈希、意外に小さいとき〉　tji:ise, tji:sai\n5644.74　タイセエ〈共〉\n5648.53　チャッャイ〈古〉　タイサイ\n5652.81　[tjikkui]　tji:ise\n5654.94　チャッャイ〈児〉　チャイサイ\n5655.57　チッセエ〈卑〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00414.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00414",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00414.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5657.73",
+      "5657.78",
+      "5658.01",
+      "5659.42",
+      "5659.46",
+      "5661.34",
+      "5661.68",
+      "5663.68",
+      "5666.18"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧    4-15\n質問番号 159    地図番号 022 023\n項目名  タイサイ\nA 普通注記    (B) 除いた共通語    (C) 除いた特殊語    ページ (1/2)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5657.73    タイサイ（共）\n5657.78    チッチャイ ＜多＞                    チッチャエ\n5658.01    タイサイ ＜多＞\n           チッチャイ ＜小さい感じの時にいう＞\n5659.42    タイサイ -> 普通の言い方 ＜タ?＞ と同対図    チッチャイ\n5659.46    チッツァイ -> 普通の言い方                タイサイ\n5661.34    [tjikkuɨ] ＜くろ＞                      tʃi:se:\n5661.68    tjikkuɨ ＜古＞                           tʃiisai\n5663.68    [tjinkui]                               tʃi:se:\n5666.18    タイサイ（共）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00415.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00415",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00415.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5666.22",
+      "5667.24",
+      "5668.13",
+      "5671.94",
+      "5674.06",
+      "5675.87",
+      "5671.38",
+      "5676.84",
+      "5677.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><[]は厳密にする。 日本語言語地図資料用紙注記一覧 4-16 質問番号 159 地図番号 022 023 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (15) 項目名 4イサイ 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5666.22 チッチャイ〈児〉 4イセイ 5667.24 チッチャイ〈多〉 5668.13 チッチャイ・普通の言い方 4イサイ 5671.94 [tjikku i] tji:sai 5674.06 チイセエ〈多〉 4イサイ 5675.87 チイサイ・普通 コマイ…老人 5671.38 tji:se:〈tjimmaiという人もある〉 5676.84 チッツェ〈普〉 チイサイ 5677.28 チッチャイ, チッサイ → 子どもの使うことば チイサイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00416.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00416",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00416.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5677.60",
+      "5678.59",
+      "5679.31",
+      "5679.86",
+      "5682.37",
+      "5682.92",
+      "5683.61",
+      "5686.31",
+      "5687.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >( )[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 4-17 質問番号 159 地図番号 022 023 項目名 チイサイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) (16ページ) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5677.60 チイサイ〈少〉    チッ、チャイ tji:sai 5678.59 tjittjai〈古〉    tji:sai 5679.31 tjittfae, tjittfae と認める（高） 5679.86 tjittse: （荒） tjittjae 5682.37 tji:sai〈上〉（取消線） tjikkui（取り消し注） 5682.92 tjimmakkoi〈希〉〈かつて使われか〉    tji:sai 5683.61 チックイ〈チッセともいう〉 5686.31 tjitt?ai （チャッー） 5687.32 チイサイ〈普通〉    チッ、チャイ、チッチェエ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00417.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00417",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00417.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5688.74",
+      "5688.86",
+      "5696.68",
+      "5710.84",
+      "5711.85",
+      "5712.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n日本言語地図資料用紙 注記一覧　4-18\n質問番号 159　地図番号 022 023\n項目名 チイサイ\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (17)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\ntʃi:sai, tʃiは、いくらか tsu: に近く聞える。舌がややうちに引こむせいか。\nチッチャイ〈幼児〉\nチイサイ\ntʃibi:〈方言的表言〉\ntʃibittʃai〈愛くるしい感じ〉\nチッカエ〈古〉\nチイサイ。\ntʃi: sae〈普通〉\ntʃintʃae〈子〉\ntʃi:sai [tʃittʃe:〈古〉 tʃi:sai]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00418.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00418",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00418.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5723.36",
+      "5750.31",
+      "5750.84",
+      "5780.11",
+      "5781.22",
+      "5782.79",
+      "5782.94",
+      "5791.23"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＜＞［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 4-19\n質問番号 159  地図番号 022 623  項目名 チイサイ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (18)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 (B・C 残した語形とその注)\n\ntʃi:se: 〈同じように使うかtʃi:se:か tʃintʃadə 普通〉\n\nチッチャイ -> 普通の言い方  41 サイ\n\nチッツァイ 〈昔、よく使われ、今でも時々 チイサイ に使用する。〉\n\ntʃittfi: 〈普通〉    tʃi:sae.\n\ntʃittjae あまり使わない    tʃi:sae\n\ntʃintʃe: 〈希〉    tfise:\n\ntʃi:sai, tʃiは tsi に近い発音をする。\n\ntʃankoi, 非常に小さい時は、〈",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00419.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00419",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00419.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5791.68",
+      "6339.37",
+      "6384.25",
+      "6394.09",
+      "6395.46",
+      "6395.61",
+      "6461.89",
+      "6403.60",
+      "6405.95"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n日本雪氷地図資料用紙 注記一覧 4-20\n質問番号 159    地図番号 022 023\n項目名 サイサイ (19)\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n5791.68   tʃi:sai, tʃittʃai> と答えんか?    tʃi:sai\n6339.37   tʃintʃae <古>    コマイ\n6384.25   komai <多, 古>    tʃi:sai\n6394.09   コマエイ komaiに入れる。 (高)\n6395.46   コマエイ komaiに入れる。 (高)\n6395.61   komaé ① tʃi:sai\n6461.89   ホセ〈古〉    コマイ\n6403.60   コマイ〈新〉    ホシェ\n6405.95   tʃisai〈多〉    komai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00420.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00420",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00420.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6406.77",
+      "6407.43",
+      "6411.80",
+      "6414.17",
+      "6416.31",
+      "6419.09",
+      "6420.58"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 4-21\n質問番号 159   地図番号 022 023\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ (20)\n項目名 チイサイ\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n6406.77  komai <共に同じ位に用いる。 tjisai 上、下なし。>\n6407.43  チイサイ。 石黒著。 チサイ、チイサイ\n6411.80  ホセ。(古?)   4サイ.\n6414.17  komai <多>\n         komi2: <古、少>\n6416.31  hosoi (4ーサイというのか、ほんとうかも 知れないが、答として出なかった。)\n6419.09  チイセア <古>\n6420.58  コマイ <上>    ホセ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00421.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00421",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00421.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6421.82",
+      "6421.99",
+      "6422.93",
+      "6423.25",
+      "6426.04",
+      "6445.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-22\n（上欄の小文字欄）\n質問番号 159 地図番号 022 023 ページ (21)\n項目名 チイサイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< [] は厳密にする。\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n6421.82  tsisac  (16/7では tsi:sac と言った)\n6421.99  komai  <多>\n6422.93  ホソイ  <古>\n6423.25  tji:søei <多>  (コマイ、ホソイは広戸が方言形を出してから答えた。 komæi hosoi 4サイを最も多く用いると言う。)\n\n6426.04  kome:  [大きいに対しては、コメーの方がよい。]  hose:\n\n6445.57  4イサエエ , <コマエエ <老>>\n\n（注：手書きのローマ字表記・カナ表記は原資料に忠実に記載した）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00422.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00422",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00422.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6449.20",
+      "6464.90",
+      "6465.82",
+      "6469.19",
+      "6485.14",
+      "6485.82",
+      "6486.93",
+      "6487.93"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）［ ］は厳密にする。\n\n日本言語地図資料用紙 注記一覧　4-23\n質問番号　159　地図番号　022　023\n項目名　チイサイ\n（A）普通注記　（B　除いた共通語）　（C　除いた特殊語）　ページ（22）\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n6449.20　チッサイ〈新〉　コマイ\n6464.90　koma:〈古〉　koma:\n6465.82　komæ:〈普〉　tʃisæ:\n6469.19　チョンマイ〈希〉　コンマイ,\n6485.14　コンマイ〈古〉\n6485.82　コンマイ，（ごく新しく、子供たちがチンマイという語を使う由。これは丸亀辺も等りである。）\n\n6486.93　コンマイ〈希〉　チッサイ。\n6487.93　チッサイ〈共〉　コンマイ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00423.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00423",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00423.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6500.88",
+      "6507.72",
+      "6572.67",
+      "6523.06",
+      "6532.30",
+      "6534.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-24\n質問番号 159 地図番号 022 023\n項目名 チイサイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (23)\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n6500.88 komai 〈希〉\t\t+tjisai\n6507.72 チイシャ(?) —無声化\n6572.67 komai 〈希〉\t\ttʃi:sai\n6523.06 tʃijai 〈古〉\t\ttfisai\n6532.30 チッチャイ 〈やや多〉\t\tチイサイ\n6534.37 tʃi: sai 〈コマカイは「ウワ」の意。\n　① 大 オオキイ ⇔ チイサイ\n　② 多 イカイ ⇔ コマカイ 〉\n(上記の如く, 被調査者は言うか, 疑問である.)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00424.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00424",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00424.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6541.52",
+      "6542.32",
+      "6542.58",
+      "6545.88",
+      "6546.73"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　4-25\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の ＜ ＞（ ）[ ] は厳密にする。\n質問番号　159　地図番号　022　023　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (24)\n項目名　チイサイ\n\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n65-39.12　tji:sai (区別なく使うか上の方が多?)\n　　　　tjisaい　少、多いと思う> ?\n\n65-40.16　komai - 小粒であるの意（豆、人間等）　tji:sai\n\n6541.52　チッシャイ〈古〉　　　　　　　　　　　　チイサイ\n\n6542.32　チャッャイ〈若い人に多し〉　　　　　　チイサイ\n\n6542.58　チャッャイ … デッカイに対するものか。　チッサイ\n　　　　チッコイである。\n\n6545.88　tji:sai 〈上を多く用いる〉\n　　　　tji:kkoi　下は子供の言い方>\n\n6546.73　tji:tjai, tji:kkoi どちらも同じ様に用いる>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00425.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00425",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00425.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6547.79",
+      "6549.60",
+      "6549.69",
+      "6557.36",
+      "6561.49",
+      "6563.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　4-26\n\n質問番号 159　地図番号 022 023\n項目名　タイサイ\nA) 普通注記　(B) 除いた共通語　(C) 除いた特殊語　(25)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6547.79　tji:se:〈古〉\t\ttji:sai\n6549.60\ttjisai〈希〉\t\ttji:sai\n6549.69\ttjisai〈新〉\t\ttji: sai\n6557.36\t[tji:sai]\n6561.49\tコマイ〈非常に小さいとき〉\t\tチッチャイ\n6563.43\ttjikkoi〈多〉\t\ttjissai\n\n(オッキ: チッコイ\nオーキ: チッサイ. a 文末/前がつく外れる。\n「オーキ」「チッサイ」の方が少しは上品に聞える。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00426.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00426",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00426.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6565.17",
+      "6567.29",
+      "6574.06",
+      "6577.71",
+      "6580.06",
+      "6583.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-27\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n資料番号 159    地図番号 022 023\n項目名 ナイサイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(26)\n\n（表ヘッダ）\n地点番号    A 語形とその注記（[B・C 除いた語形とその注）    A 注のない語形（[B・C 残した語形とその注）\n\ntjissai <普通>\ntjittjai <古>\ntjingkoi （タレものの順に並べて tjintjai ある。）\ntjintjai\ntjisai\n\n(?) tjissai.（tjisaiであるかもしれない。\nanalogyによって答えれ ようにも思われる。）\n\n4サイ <少>\n\ntjttja: <タ>\ntji:sa: ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00427.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00427",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00427.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6595.32",
+      "6604.98",
+      "6624.13",
+      "6625.17",
+      "6632.88",
+      "6633.89"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　4-28\n\n質問番号　159　地図番号　022　623\nA　普通注記\n項目名　ケイサイ\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6595.32　チッサイ　〈どれも言う。反者していると〉\n　　　　チィサイ　だんだん、どれが正しいか判らなくなる。\n　　　　チッャイ　か判らなくなる。\n6604.98　ノキィイ（noki: と発音する。）\n6624.13　tji:kui, 下\n　　　　kosui, 古\t\ttji:sai\n6625.17　kosi: 希\t\ttji:'ki:\n6632.88\ttjinbi:　一まずに小さいとき\tkotsui\n6633.89\ttjinbi:　卑\tkosui 希\t tji:sai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00428.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00428",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00428.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6641.39",
+      "6641.43",
+      "6641.97",
+      "6643.15",
+      "6650.79",
+      "6651.69",
+      "6652.06"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-29\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n（右上の欄）\n資料番号 159   地図番号 022 023\n項目名 サイ サイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (28)\n\n表ヘッダ: 地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\n6641.39    kosui\n            kotsui    } 同じ程度に使う。\n6641.43    tfinpi: (は?)        tʃisai\n6641.97    tʃi:sai, 多。        kotsui\n6643.15    tʃi:ʃæ: 多。         kosi:\n6650.79    tʃi'tʃai             tʃisai\n6651.69    tʃisai  } 同じ程度に使うと。\n            tʃi:sai\n6652.06    ko'tsui\n            tʃi pikutai  } 特に小さい時。\n            kotsui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00429.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00429",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00429.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6665.25",
+      "6686.75",
+      "6698.20",
+      "6730.33",
+      "7218.26",
+      "7239.24",
+      "7246.45"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 4-30\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< [] は厳密にする。\n(右上ボックス) 159 022 023 項目名 サイサイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] (29)\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n6652.??  ko'tsui } 同じ程度に使う.\n        tʃi:pi:\n6665.25  tʃi:koi <どちらかというと、多く使う>    tʃi:sai.\n6686.75  tʃikkoi <昔の婆さん>                   tʃi:sai\n6698.20  tʃikkoi <愛称的な用い方>               tʃi:sai.\n6730.33  tʃittʃe:, 非常に小さい時には\n        tʃakke:, [tʃittakke:]と言う.\n7218.26  hoska - hosuka と認める。(高田)\n7239.24  [komaka]\n7246.45  tʃommaka (児童語的)                      komaka.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00430.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00430",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00430.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7303.29",
+      "7312.11",
+      "7316.65",
+      "7321.93",
+      "7322.21",
+      "7325.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-31\n質問番号 159 地図番号 022 023\n項目名 ケイサイ\n[A] 普通注記 [B 除いた共通語] [C 除いた特殊語] (30)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[]）は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7303.29    hosoi ＜朱布＞                             komai\n7312.11.   komai (労?)\n           hosoi (リー)\n7316.65.   ko:me:  「同席の山下丸重氏（この村の漁業組合長、60才ぐらい）によれば：ko:ne:とも言う。」\n           →第二図へ。（高田）\n7321.93    コマイ（普）                             コマカイ\n7322.21    komai [古]                              tʃiːsaɪ\n7325.57    komai ＜上＞                             koma:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00431.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00431",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00431.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7341.51",
+      "7342.72",
+      "7343.76",
+      "7350.21",
+      "7372.27",
+      "7344.15",
+      "7375.71",
+      "7375.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙　注記一覧　4-32\n\n質問番号　159　地図番号　022　023\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ　(31)\n項目名　タイサイ\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7341.51 tjinka <非常に小さいもの>　komaka\n7342.72 kontjoka <古>　komaka\n7343.76 komaē komwe: = gruppierenする (高田)\n7350.21 komanka (多く使うものと見られる)　komaka\n7372.27 コミャP <親近語>　コマカ\n7344.15 コマカ <新>　コミャア\n7375.71 komë: => komwe: (調査者注による。高田)\n7375.96 komë: ë... 説明書参照",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00432.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00432",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00432.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7385.61",
+      "7385.84",
+      "7394.60",
+      "7423.12",
+      "7431.13"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　4-33\n資料番号 159　地図番号 022 023　項目名 チイサイ\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(32)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉［　］は厳密にする。\n\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nkomē:, e: 説明書参照, komwe:\nkomja: (lai/leに対応するのは、[ja:]である.)\nコマカ. <コメエという人もいるが、これは宮崎県の椎葉あたりのことばであろう.>\n[ke mai]    komai\nkomai (早口のときには、こまると言っていた.)    koᵐmai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00433.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00433",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00433.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7432.95",
+      "7450.20",
+      "7461.77",
+      "7501.14",
+      "7583.48",
+      "7570.18",
+      "7574.21",
+      "7523.05",
+      "7523.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-34\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〔　〕は厳密にする。\n\n質問番号 159 地図番号 022 623\n項目名 チイサイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] (33)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n7432.95  tjimmai <近ごろの子ども>   komai, hosoi\n7450.20  tji:sai (ko^m maiという人もある。32年調)\n7461.77  ko^mmai <多>   komai\n7501.14  コマイ <すくない>   チイサイ\n7583.48  tji:sa: <古>   tji:sai\n7570.18  チッコイ <強めの言い方>   チサイ\n7574.21  tjinkoro <これはだいろくの表。kusodairiに対するものはない>\n7523.05  チサイ <多>\n7523.27  コマイ <使用がすくない>   チイサイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00434.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00434",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00434.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7523.30",
+      "7533.11",
+      "8302.91",
+      "8303.84",
+      "8313.84",
+      "8320.59",
+      "8325.56",
+      "8334.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-35\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ][ は厳密にする。\n\n質問番号 159  地図番号 022 023\n項目名 チイサイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (34)\n\n（表ヘッダ）\nA語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nチッチャイ〈ろ〉　　チイサイ\nチッチャイ〈ろ〉　　チイサイ\nコマカ。〈コミャアは言わず〉　　コマンカ\nチビンカ〈ろ〉\nKomanka〈名〉　　kome:\ntjin ka〈希〉　　komangka\nkome:〈どちらも同じように、よく〉\nkomme: 使う〉\nkome(1)（半長音を添えた方がよいようにも、しない方がよいように）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00435.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00435",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00435.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "8342.69",
+      "8343.97",
+      "8357.65",
+      "8355.23",
+      "8355.62"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧 4-36\n\n（上部欄） 質問番号　地図番号　022　023　159　項目名　ケイサイ　(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (35)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nも聞える。以下同じ？\n\n8342.69\ttfjinke <タ>\tkome\n8343.97\tkome <古>\ttfjinke\n8357.65\tkomaka, (その時の気分によって、とれ tfjinke. でも、用いるらしい)\n8355.23\tkomme: (kommai をあげたかに、これは kome. は、komme:というのが普通と思う。)\n\t\tKomme: を採る (高田)\n8355.62\tkomme:, kome: と komme: との中間",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00436.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00436",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00436.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "275.27"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 4-37 資料番号 159 地図番号 022 023 項目名 チイサイ (36) A 普通注記 [B 除いた共通語] [C 除いた特殊語] のような言い方、すなわち微かな鼻音が入るように思う。 kome; tjinke, tfjinke, 自然の発話でも tjinke が出た。たれし、東京のセ? セールに対しての標準準語のつもりかもしれない。 ✓採用する。（高田 言マス） insaji, insaで終止することも多い gupahan <gupahariという人もある> ginai <ginahariという所もある>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00437.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00437",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00437.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "0294.66",
+      "294.96",
+      "1260.78",
+      "1271.20",
+      "1213.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉は厳密にする。\n\n日本言語地図資料用紙注記一覧　4-38\n質問番号　地区番号\n159　022　623\n項目名　チイサイ\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)　(37)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n0294.66　ikusa <ikusanという人もある>\n0294.96　injkusan, ingkusaで終止することが多い\n1260.78　gumasan <ぐ>\n　　　　ku: sɯN <新?>\n1271.20　ku: hɯN <ら>\n　　　　gumahan <新?>\n1213.76　insaji , insoで終止することも多い",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00438.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00438",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00438.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "0747.70",
+      "0840.33",
+      "1731.89",
+      "2754.56",
+      "1756.32",
+      "2722.67",
+      "3716.58",
+      "3699.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n日本言語地図資料用紙 注記一覧    4-39\n\n資料番号 地図番号\n159  022 023\n項目名 4イサイ\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ (1)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\ntjisai <少>    komai <み>\ntjiisai <今>    tsittjai\nkomai <古> (取り消し)    tjankoi    tjintjai\n\n4セコイ <若い者が言う>    4ッケェ, 4ッチャコイ,\ntsisai  A. tsake    4セ <若い者がいう>\n\n4イサイ <希>\n4サイ <ウ>\ntsisage <小> と解釈. (高田)    tjakoe <普通>\n\nメッチェ (希)    チッェ, チッャコエ (希) ベッティ\n\n(書き込み・矢印・注記等あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00439.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00439",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00439.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "4619.63",
+      "4686.02",
+      "4701.73",
+      "4706.53",
+      "4711.49",
+      "4721.36"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〔〕は厳密にする。 日本言語地図資料用紙 注記一覧 4-40 質問番号 159 地図番号 022 023 項目名 チイサイ A 普通注記 B 除いた共通語 C 除いた特殊語 (2) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 4619.63  tji:sae <今>    tsjittʃe 4686.02  tji:sæ <共>    tji:sæ 4701.73  kommee <ツッチェより尚小さい場面>  合 tsüttʃe 4706.53  tji:seæ <共>    tjakoe (この方が本当に小さいという感じがでるようだ) tji:takoe (更にそれよりも小さい、しかも手近な親しみをもてる場合) 4711.49 (取り消し線) 4721.36  [tji:sa]    [tsütt(a)æ]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00440.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00440",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00440.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "4731.42",
+      "4734.20",
+      "4741.44",
+      "4760.64",
+      "4762.56",
+      "4784.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-41\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　><()[] は厳密にする。\n\n質問番号 159　地図番号 022 023\n項目名　4イサイ\nA 普通注記　B 除いた共通語　C 除いた特殊語 (3)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4731.42　[tsï̠̙tʲa̠e̞]　[tsüittʃæ]\n4734.20　tsutt:sae <新>　tʃakoe\n4741.44　メチャコエ　チチャコエ、最初の「チ」無声化する\n4760.64　[tsüi:sae] <上>　[tsüittʃæ]\n4762.56　tʃitʃae <共>　tʃitʃakkoe\n　　　　　menkoe <可愛らしくて小さい気分>\n　　　　　mentʃakoe\n4784.41　(tʃakkoe)　tʃintʃe:\n55-79.99　4サイ〈他〉　チッチャイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00441.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00441",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00441.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "5602.99",
+      "5604.28",
+      "5611.39",
+      "5612.22",
+      "5615.28",
+      "5615.78",
+      "5622.48",
+      "5623.02",
+      "5631.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞［］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　4-42\n（上部欄） 資問番号　地図番号　159　022　023\n項目名　チイサイ　A 普通注記\n\n表見出し：地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\ntji:sae <共>　　　tjitt/ae <b>\ntjisae <共>　　　tjinkoe <b>\ntji:sal (新)　　　tjinke:\ntji:sal,　　　　　tjiTt/ae <常>\ntji:sae <共>　　　tjitt/ai <??>\ntji:sae <共>　　　nokkoe\ntjisal <共>　　　 notkoe\ntjiisai <共>　　　tjike:\ntji:sai <共>　　　tji:se:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00442.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00442",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00442.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "5633.96",
+      "5639.14",
+      "5641.07",
+      "5642.31",
+      "5642.67",
+      "5631.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-43\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () [] は厳密にする。\n\n質問番号 159  地図番号 022  823\n項目名 チイサイ\nA 普通注記  B 隣いた共通語  C 隣いた特殊語  ページ (5)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5631,75    tjiisai <共>    tjiise:\n5633.96    tji:sai <共>    tjimmai <子>   tji:se\n5639.14    チイサイ ていねいと認め外す (高田)    ちっちゃく雑に言う時に使う\n5641.07    tjiisai <共>    tjikkunai <希>   tjikkune:   tjikkoi\n5642.31    tji:sai <共>    tjittʃae\n5642.67    tji:sae <共>\n\n[tjikkoe]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00443.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00443",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00443.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "5644.74",
+      "5646.71",
+      "5651.95",
+      "5652.22",
+      "5652.81",
+      "5653.60",
+      "5653.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は敬語にする。\n\n（右上の枠）\n質問番号 159　地図番号 022 023\n項目名 チイサイ\nA 普通注記 除いた共通語 除いた特殊語 ページ (6)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5644.74　チイサイ〈上〉　　　チイセエ〈共〉\n5646.71　チイサイ〈上〉　　　チッ チイ\n　　　　オチイサイ〈特に上〉　チッツェエ\n5651.95　tʃi:sai〈共〉　　　  tʃikkui, tʃimmai\n5652.22　tʃi:sai,〈共〉と解し外す (高田)　tʃi:se:〈俗に〉\n5652.81　tʃi:sai〈共〉　　　  tʃi:se\n5653.60　tʃi:sae〈共〉　　　  [tʃikkui]\n5653.65　tʃi:sae〈上〉　　　  tʃitte:  tʃikkui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00444.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00444",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00444.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "5655.57",
+      "5661.34",
+      "5661.89",
+      "5663.64",
+      "5664.51",
+      "5667.24",
+      "5669.96",
+      "5671.00"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n調問番号 159    地図番号 022 023\n項目名 ナイサイ\n( A 普通注記  B 除いた共通語  C 除いた特殊語 )  ページ (7)\n\n地点番号        A 語形とその注記 [B・C 除いた語形とその注]        A 注のない語形 [B・C 残した語形とその注]\n5655.57        タイサイ〈共〉                                   チッセエ〈卑〉\n5661.34        tʃiːsai〈上〉\n               [tʃimmai]                                      tʃiːse:\n                                                              [tʃikkui]〈妻子〉\n5661.89        tʃi:sai                                         tʃikku i\n                                                              tʃimmai\n5663.64        tʃi:sae〈共〉                                    tʃisse\n5664.51        tʃi:sai〈上〉                                   tʃi:se:\n5667.24        タイセイ〈少〉                                  チッチャイ〈多〉\n5669.96        tʃi:sae〈希〉                                   tʃtt/gae\n5671.00        tʃi:sai〈共〉                                   tʃi:se; tʃikku i",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00445.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00445",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00445.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "5671.38",
+      "5676.52",
+      "5678.33",
+      "5682.34",
+      "5682.37",
+      "5684.11",
+      "5685.02",
+      "5685.37",
+      "5686.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-46\n質問番号 159    地図番号 022 023\n項目名 チイサイ\nA 普通注記  B 除いた共通語  C 除いた特殊語  (8)\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n5671.38  tji:sai <共> <tjimmaiという〈もある〉>  tji:se:  チィサイ  ナッチャイ\n5676.52  チイサイ <普通のことば>                       チッチャイ\n5678.33  チイサイ <共>                                チッャイ, チッサイ\n\n5682.34  tjiisai <帯>                                 tji:se:\n5682.37  tji:sai <上>                                  tjikkui\n5684.11  tji:sai <共>                                  tji:se:\n5685.02  tjitt:sai <共>                                tjittse:\n5685.37  tji:sai <共>                                  tji:ttjai\n5686.31  tji:sai <新>                                  tjittjai, tjittle:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00446.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00446",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00446.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "5688.07",
+      "5691.37",
+      "5694.31",
+      "5696.68",
+      "5697.53"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　4-47\n資料番号 159　地図番号 022 023　項目名 サイサイ\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ (9)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5688.07　チイサイ〈稀〉　(.4,4-)　チャチャイ\n5691.37　tjimekkoi　tjiiszi, tjimmai\n5694.31　チイサイ〈共〉　チャツイ\n5696.68　tji:sai〈共〉　tji:bi:〈方言的表現〉 tji:bi:+tjsalく愛くない感じ\n5697.53　tji:se:〈上〉 komakkoi〈数が沢山ある時、その中のtji:tse: 小さい物をさしてこういうこと〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00447.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00447",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00447.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "5780.57",
+      "5790.03",
+      "6358.98",
+      "6409.72",
+      "6414.17",
+      "6418.75",
+      "6419.09",
+      "6419.50"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 4-48\n\n（上部の枠）\n質問番号 159　地図番号 022 023\n項目名 チイサイ\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ（10）\n\n（表の見出し）\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5780.57　（誘）tʃit tʃae　　tʃi: sae\n5790.03　tʃi:se:　芸　　tʃakke:\n6358.98　チサイ〈希〉　　コマイ.\n6409.72　チイサイ〈共〉　　チイセァア.\n6414.17　tʃi:sai〈右, 上〉　　komai（クタ） komja:〈古, 1〉\n\n6418.75　チイサイ〈共〉　　チイセァア\n6419.09　チサイ〈今〉　　チイセァア〈古〉\n6419.50　チサイ〈上〉　　チセァア",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00448.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00448",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00448.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6421.79",
+      "6428.76",
+      "6429.30",
+      "6429.61",
+      "6429.65",
+      "6448.23",
+      "6448.61",
+      "6449.19",
+      "6457.18",
+      "6458.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧    4-49\n質問番号 159    地図番号 022 023\n項目名 チイサイ\nA 普通注記  (除いた共通語)  (除いた特殊語) ページ (11)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6421.79    チイサイ〈上〉    コマイ〈み〉\n6428.76    チイセア〈上〉    コメア.\n6429.30    チサイ〈希〉    チイセア\n6429.61    チイサイ〈共〉    チイセア\n6429.65    チイセア〈新〉    コメア\n6448.23    チイサイ〈共〉    コマイ\n6448.61    チイサイ〈新〉    コマイ.\n6449.19    チイサイ〈新〉    コマイ.\n6457.18    チイサイ〈新〉    コマイ.\n6458.91    チイサイ〈共、希〉    コンマイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00449.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00449",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00449.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6464.90",
+      "6469.19",
+      "6469.77",
+      "6476.92",
+      "6485.14",
+      "6486.50",
+      "6492.50",
+      "6494.08"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は略牽にする。\n日本言語地図資料用紙 注記一覧 4-50\n資料番号 159 地図番号 022 023\n項目名 4イサイ\nA 普通注記  (B 除いた共通語) (C 除いた特殊語) (12)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6464.90    tjisai: <上>    komae:, koma: <くち>\n6469.19    4イサイ <希>  コマイ <希>    コンマイ, チョンマイ <希>\n6469.77    4イサイ <共>    コマイ\n6476.92    4イサイ <共> <平素使う>    コンマイ\n6485.14    4イサイ <共>    コンマイ <くち>\n6486.50    4イサイ. 新.    コンマイ\n6492.50    tjisai <上>    komai\n6494.08    4イサイ <共>    コンマイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00450.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00450",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00450.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6515.24",
+      "6540.52",
+      "6542.71",
+      "6546.15",
+      "6547.24",
+      "6549.03",
+      "6551.20",
+      "6557.14"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく〈〉( )は厳密にする。 日本言語地図資料用紙 注記一覧 4-51 質問番号 159 地図番号 022 023 A 普通注記 項目名 チイサイ (C 除いた特殊語) (13) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6515.24 tijisai <上> komakai コマイ 6540.52 チイサイ <希, 共> コマイ 6542.71 tji:tɕai <他,せ> tjikkoi チッコイ 6546.15 チイサイ <標準語くらい> チッチャイ 6547.24 tji:sɐe (他) tjisɐe 6549.03 tji:sai <共> tji:se: 6551.20 チイサイ <共> コマイ 6557.14 tjisai <上> (普通は[tji:se:]というか; 上品な旦那衆は [tjisai] と言う)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00451.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00451",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00451.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6558.37",
+      "6560.22",
+      "6560.40",
+      "6565.17",
+      "6577.13",
+      "6581.52",
+      "6582.73",
+      "6603.82",
+      "6604.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-52\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n（右上の欄）質問番号 159　地図番号 922 023　項目名 チイサイ　A 普通注記\n\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6558.37　tji:se: ＜他＞…（漁師は多く、こちらを使う）　tji:seɪ\n6560.22　チイサイ ＜新＞　コマイ\n6560.40　チイサイ ＜新＞　コシマイ\n6565.17　tji:sai ＜普通＞ ＜上＞と認めのます（高）　tji:ssai ＜普通＞\n6577.13　tji:sai ＜高尚な言い方＞　tji:sai\n6581.52　チイサイ ＜共＞　チッサイ\n6582.73　チイサイ ＜共＞　チサイ\n6603.82　チイサイ ＜共＞　ヌコイ(?)\n6604.15　チイサイ ＜共＞　チッサイ\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00452.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00452",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00452.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6604.38",
+      "6605.37",
+      "6611.61",
+      "6615.02",
+      "6623.28",
+      "6623.53",
+      "6624.65",
+      "6631.53",
+      "6631.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく　＞（）［］は厳密にする。\n日本音声地図資料用紙 注記一覧 4-53\n質問番号 159 地図番号 022 623 項名 チイサイ\n（欄見出し） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n手書き項目（A欄）: チイサイ〈共〉　チイサイ〈共,上〉　tji:sai〈共〉　チイサイ〈共.上〉　チイサイ〈共,上〉　（取り消し線）　tji:sai 上　tji:sai 上　tji:sai 上\n手書き項目（右欄）: チッ71　チッ71　tji:se:　チッ71　チッ71　（取り消し）　tji:sai　tjinbi:　kosui, することは kosui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00453.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00453",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00453.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6632.15",
+      "6633.33",
+      "6634.07",
+      "6634.32",
+      "6634.33",
+      "6635.20",
+      "6635.36",
+      "6641.39",
+      "6642.33"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 4-54\n質問番号 159    地図番号 022 023\n項目名 チイサイ\nページ (16)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >〈 〉[ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6632.15  [kotsui]                      kosui\n6633.33  tɕi:sai       上             kosui\n6634.07  tɕisai        上.            kosui\n6634.32  tɕiisai       希             kosui\n6634.33  tɕi:sai       上             kosui\n6635.20  tɕi:sai       新             kosui\n6635.36  tɕi:sæ:       上.            tɕiːtɕœ:\n6641.39  tɕi:sai       新.上.         kosui  kotsui 同じ程度に使う。\n6642.33  tɕi:sai       上.            kotsui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00454.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00454",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00454.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6642.58",
+      "6643.16",
+      "6643.72",
+      "6645.37",
+      "6646.74",
+      "6651.32",
+      "6652.30",
+      "6652.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-55\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > () [] は厳密にする。\n\n資料番号 159.   地図番号 022 023\n項目名 チイサイ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\ntji:sai\ntji:k musai - 特に小さい時。                      kosui\n\ntsisai 上。                                      kosui\n\ntji:sai 上。                                     kotsui\n\ntji:seɜ <上>                                     kosui\n\ntji:sai <上>                                     tji'kui\n\ntji:sai <上>                                     tjisai\n\ntji:sai 新?                                      tjisai\n\ntji:sai 上。                                     ko'tsui / 同程度に\n                                                 tji'pi: 使う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00455.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00455",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00455.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6653.39",
+      "6662.38",
+      "7246.82",
+      "7302.66",
+      "7326.47",
+      "7332.97",
+      "7356.70",
+      "7359.78",
+      "7364.34"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > < [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 4-56 質問番号 159 地図番号 022 023 項目名 41 サイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (18) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその他注] tɕi:sai 上 ko'tsui tɕi:sai 希 tɕi:sai, tɕi:tɕai komaka. [tɕommaka] kommaka. hosoi komai tɕi:sje: <今のことば> komme: (koma crossed out) (新) tɕi:sai kontɕi: komai ko^mme: <新> tɕi:sai ko^mmai コマイ コメエ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00456.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00456",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00456.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "7383.98",
+      "7394.85",
+      "7401.11",
+      "7402.47",
+      "7421.62",
+      "7430.95",
+      "7504.11",
+      "7570.18"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 4-57\n\n質問番号 159    地図番号 622 023\n項目名 4イサイ\nA 普通注記   B（除いた共通語）   C（除いた特殊語）   （19）\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n4イサイ\ntji:sai 〈今〉\ntji:sai 〈上・希〉\ntji:sai 〈新〉\ntji:sai. 上\ntji:sai 上\nkoma'i 〈希〉\n4イサイ 〈荒〉\n\nコマカ（優勢）。\nコマイ\nko(m)me:\nkomai\nkomai\nko^mmai\nkomai, ko^mmai\ntji2i\n4サイ。\nチッコイく強めた言い方",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00457.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00457",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00457.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "7514.21",
+      "7521.16",
+      "7521.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-58\n質問番号 159    地図番号 022 023\n項目名 イイサイ\nA 普通注記  B 除いた共通語  C 除いた特殊語\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7514.21    tjisai <上>    tjinkoro <これは dai-roku の次。 kusoda'iv に 対するものはない。>\n7521.16    4イサイ <共>    4サイ.\n7521.79    4イサイ <共>    4シャイ\n752305.    4イサイ <希>と解し、みす。(高田)    4サイ. <多>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00458.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M022Q159/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00458",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00458.tif",
+    "source_ljc_id": "LJC-M022Q159",
+    "source_map_numbers": [
+      "022",
+      "023"
+    ],
+    "source_title": "ちいさい (小さい)"
+  }
+]

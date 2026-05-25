@@ -104,12 +104,6 @@
     ocrSet: noteOcrSetForMapId($('selectOverlay')?.value?.trim() || defaultOverlay),
   }));
 
-  function noteOcrSetForMapId(id) {
-    const n = extractLajMapNumber(id);
-    if (n && ['017', '018', '019'].includes(n)) return '017-019';
-    return null;
-  }
-
   function updateNoteViewerLink() {
     const id = $('selectOverlay')?.value?.trim() || defaultOverlay;
     const set = noteOcrSetForMapId(id);

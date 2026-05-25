@@ -1,0 +1,440 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "3649.16",
+      "3699.55",
+      "3744.33",
+      "3784.87",
+      "4638.43",
+      "4653.02",
+      "4667.33",
+      "4672.19"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　10-2\n質問番号　地図番号　050　040\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n項目名　辛い\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\n3649.16　kare, kareに近くも聞える。\n3699.55　カリエ -> 一般的、[リエ]は[リ]の口の抱きみ カレェ で[レ]を言った際の音。\n3744.33　＊カライ\n3784.87　＊カレァ\n4638.43　kare:, 連用形は、次の通り。karo:- de kwanne:(辛くて食われる)\n4653.02　karai ＜049と発音を区別する＞\n4667.33　カレエ（karê）\n4672.19　karè:（調査者が外に言い方はありま\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01002.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01002",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01002.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4654.52",
+      "4676.60",
+      "4711.41",
+      "4714.68",
+      "4721.36",
+      "4731.42",
+      "4731.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 10-3\n\n資料番号　地図番号\n050　040\n項目名　辛い\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(2)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > () [ ]は厳密にする。\n\n地点番号　A語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C 残した語形とその注〕\n\n(せんか」と問うた答。)\n4654.52 nambangarai (塩の味と区別する必要のある場合) karai\n4676.60 kare\n4711.41 [kare']\n4714.68 kasae (そんざいに発音すると、kase:に なるらしい。)\n4721.36 [karae]\n4731.42 [karae]\n4731.85 [karae]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01003.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01003",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01003.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4746.20",
+      "4760.84",
+      "4770.62",
+      "5579.79",
+      "5591.60",
+      "5635.65",
+      "5636.74",
+      "5603.88",
+      "5604.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 10-4\n質問番号 050 地図番号 040\n項目名 辛い\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (3)\n\n（表ヘッダ）A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nkaSae (最後が e: という音にはならない)\n[karae]\nkaʃai (kaʃe:と言わぬと言うか; どうであろうか.)\nナンバンカライ (ナンバンはとうがらしのこと)\n（行に取り消し線） (kaɽe:?)\nカライ (共)\nカレエ <新>　カライ\nkarai\nカレア kare:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01004.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01004",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01004.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5631.16",
+      "5644.74",
+      "5655.57",
+      "5657.73",
+      "5677.28",
+      "5688.37",
+      "5609.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 10-5\n質問番号 050   地図番号 040\n項目名 辛い\n\n地点番号   A語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n\n5609,26   kare: , eは少し広い\n5631.16   kare: <旧各式>   karai\n5644.74   カレエ（共）\n5655.57   カライ（共）\n5657.73   カライ（共）\n5677.28   カライ、〈カレエナアというように〉\n（れんじし被調査者はカレエとは言わない。実際は使っていると思うが）\n5688.37   カライ、ネーの答は、ヒリヒリスルという答 おられか、表現旨に合いそうにする",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01005.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01005",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01005.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5690.96",
+      "5697.24",
+      "6411.66",
+      "6413.76",
+      "6424.20",
+      "6456.57",
+      "6462.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙注記一覧 10-6 資間番号 地図番号 050 040 項目名 辛い A 普通注記 [B 除いた共通語] [C 除いた特殊語] （5） 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] いので訂正して、二番目においた、かとり除いた。 5690.96 nan bankarai ( jio karai に対して言うと karai とはうしい。) 5697.24 カライ（カレエとは訛らないでいうと。） 6411.66 ＊カレ、 6413.76 カリャ、多い。 カラエ 6424.20 karæi ( karae とすべきか。) 6456.57 dogarje:〈猛烈に辛い時〉 Karjæ: 6462.59 カライ（49と発音は異る）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01006.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01006",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01006.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6476.93",
+      "6486.07",
+      "6491.49",
+      "6500.83",
+      "6507.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 10-7\n\n質問番号　地図番号　050　040\n項目名　辛い\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6476.93　カライ。カローテノセルカ、という。ノセルカとは　\"たまるものか、我まんができるか\"　の意。\n6486.07　カライ。コノトンガラシ ヒトツモカロウナイ デナイカ。\n6491.49　karai　<?＞（海岸部の大浜部落では kara:という。）\n6500.83　カライ　[ rɑ: ]\n6507.13　ナンバカライ　＜ショウガの場合はショウガカ　コショウカライ　ライと言う。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01007.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01007",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01007.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6564.33",
+      "6573.17",
+      "6540.16"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 10-8\n\n質問番号　地図番号　050　040\n項目名　辛い\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (7)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6540,16. karai, とうがらしの辛さを karai の典型とする。他は詳しく言えば jo:- karai, jo:nakarai, san/jo-yarai などをとる。\n\n6564.33 karai <カライは、塩、こしょう、大根のおろし、しれもの、唐辛子などに用いる。しょう由は、イカライ、芋のからく、えくいものは、イクイと言う。>\n\n6573.17 karai <芋のときは「イクイ」「イカライ」を用いる。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01008.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01008",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01008.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6575.17",
+      "6581.62",
+      "6583.93",
+      "6603.08",
+      "6617.34",
+      "6619.76",
+      "6620.53",
+      "6626.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 10-9\n資料番号 地図番号 050 040\n項目名 辛い\n(A) 普通注記 [B 除いた共通語] [C 除いた特殊語] (8)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉[]は厳密にする。\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6575.17　ヨオキク〈カライとは言わぬ〉\n6581.62　ドーンプライ〈程度の高いもの〉　カライ\n6583.93　karja:, rjはろに近くゑる.　karai\n6603.08　カレエ［古］　カライ\n6617.34　?-karai\n6619.76　kare:, この場合の[re:]は一音節もよかく伸ばして長音とし、やや伸びて発音する程度。\n6620.53　nambakarai〈単にカライとは言わぬ〉\n6626.30　çirinarai〈昔〉　karai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01009.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01009",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01009.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6626.71",
+      "7248.49",
+      "7249.35",
+      "7284.16",
+      "7303.17"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本語語地図資料用紙　注記一覧 10-10 質問番号　地図番号　050　040 項目名　辛い A 普通注記 [B 除いた共通語] [C 除いた特殊語] (9) 地点番号　A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】 kare: <その時の感じによって（atsui）とも言う。> karuka <iratsukuとも言う。> カアカ (049 をカラカとし、050 をカフィと して区別して答えれか；必ずしも 両方を区別してはいないと思われる。カラカ、カアカを両方ともに 用いるのではないか。) karaka．多い　Kakka karai，味は異うか、同じに言うと笑う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01010.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01010",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01010.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7303.29",
+      "7313.34",
+      "7320.59",
+      "7324.24",
+      "7332.46",
+      "7339.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞()[]は厳密にする。 日本言語地図資料用紙 注記一覧 10-11 質問番号 050 地図番号 040 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (10) 項目名 辛い 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] pirit:o suru (カライ?) sirisiri surunu karai (049とアクセントを異にする) !karaka (!は味を連想したもの) karai (同じカライでも、各地でaccentに大きな差がある。 一々注記しないが、注意して整理されたい) karaka.〈時にヨラ〉 kare: karai (piripiri to suru no da su?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01011.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01011",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01011.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "7340.24",
+      "7342.12",
+      "7349.07",
+      "7372.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 10-12\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n\n質問番号 050   地図番号 040\n項目名 辛い\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (1)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n7340.24  karaka (塩からいのを、辛子のからいのをと言いわけると、本人は言うか、明確でない。はじめは049をカラカ、050をカルカといってあとで訂正した。)\nna>と笑っていた。\n\n7342.12  !karai (!は唐辛子の連想による) karaka\n\n7349.07  kanai (kare; kare, kara: と発音する人もある。32年調)\n\n7372.27  アミャア〈親近語〉    アマカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01012.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01012",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01012.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "7375.96",
+      "7381.97",
+      "7382.58",
+      "7383.83",
+      "7390.70",
+      "7391.44"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 10-13\n質問番号 050 地図番号 040\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (12)\n項目名 辛い\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nkarē: 説明書参照\nカルカ [karuka]\nカリィ [kari:]\nカルカ [karuka]\nトンガラシ／キイトッ〈味としては言わない〉\n〈カラカとは言わない〉\n〈〈カラカ〉〉\nkarē:, ē. 説明書参照\nカルカ [karuka]\nカルカ [karuka]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01013.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01013",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01013.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "7403.21",
+      "7410.57",
+      "7503.48",
+      "7510.18",
+      "7503.11",
+      "7659.40",
+      "8343.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 10-14\n質問番号 地図番号 650 040 項目名 辛い A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (13)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><()は脱落にする。\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n7403.21 karai <唐辛子がききすぎているのを、dotsugarai, kuenae などと言う> (dosugarai) ⇒おこった調子で\n7410.57 ?karai (〈karaide; o:n?〉と答えん,)\n7503.48 kara: <古>    karai\n7510.18 ドガライ <程度のひどいものを言う>    カライ\n7503.11 karae ( [ai] は [ae] であった。)\n7659.40 parerowa <舌がピリピリする>\n8343.97 karaka (049のとはkareのみで、ka- kare.)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01014.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01014",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01014.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "8352.40",
+      "0238.55",
+      "0294.66",
+      "0294.93",
+      "0340.00",
+      "1156.89",
+      "123.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 10-15\n資料番号 050  地図番号 040\n項目名 辛い\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] ページ (41)\n\nrakaはむさかんか（偶然か）\n8352.40  kaika〈多〉    kari\n0238.55  N.R.〈kutfinujamjuri (口が痛い)という。〉\n0294.66  harasa〈harasanという人もある。〉\n0294.93  harasan, harasaでも終止する。\n0340.00  N.R.〈唐辛子はあるか、言いようもなし〉\n1156.89  karaha, 語尾のNは省略される。\n123.76   harasaji, harasaで終止することも多い。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01015.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01015",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01015.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "1271.05",
+      "2141.61",
+      "2150.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 10-16\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n\n（右上の小箱）\n資料番号 650 040\n項目名 辛い\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (15)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n1271.05    haraθan  θ = !\n2141.61    kara  (語幹で終止に用いる。からい 女の意は kara:m ?)\n2150.17    karafudo: (「カラクリアル」の変化)   karamunu.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01016.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01016",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01016.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "3744.33",
+      "4629.43",
+      "4701.73",
+      "4711.41",
+      "5595.20",
+      "5643.33",
+      "5644.74",
+      "5688.37",
+      "5591.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 10-17\n質問番号 050　地図番号 040\n項目名　カライ（辛い）\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（1）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n3744.33　カレア　＊カライ\n4629.43　karai <改まったとき>　kare\n4701.73　karai <上>　kare\n4711.41　[karae]（ややていねいに言われる場合）　[kareː]\n5595.20　ko:baji:　karai\n5643.33　karae <改まったとき>　kare\n5644.74　カライ〈共〉　カレエ〈共〉\n5688.37　ヒリヒリスル、ネーの答は、ヒリヒリスルという　カライ\n答えられが、趣旨に合いそうにないので訂正して二番目においた。\n5591.60. カライ\n（karae:）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01017.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01017",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01017.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5665.46",
+      "5686.31",
+      "6411.66",
+      "6446.05",
+      "6552.71",
+      "6557.36",
+      "6583.93",
+      "6611.61",
+      "6624.65"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< [] は厳密にする。 日本言語地図資料用紙 注記一覧 10-18 資問番号 地図番号 050 040 項目名 辛い A 普通注記 (B 除いた共通語) (C 除いた特殊語) (2) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5665.46 カライ〈新〉 カレエ 5686.31 karai〈希〉 karè: 6411.66 カライ ＊カレ 6446.05 ピリットスル カライ 6552.71 ヨオキクナア カライナア 6557.36 [nambayarai] karai 6583.93 Karja:a:〈非常にからい時〉 karai, karja: rjは3に近くなる? 6611.61 karai〈共〉 kare: 6624.65 karai 上 karæ:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01018.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01018",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01018.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7510.18",
+      "8325.77",
+      "7361.17",
+      "2141.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 10-19\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞＜（）は厳密にする。\n\n資料番号 050　地図番号 040\n項目名 辛い\nA 普通注記\n(除いた共通語)\n(除いた特殊語)\nページ (3)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n7510.18　ヒガラライくのどへひっかかるようなからさを言う。　カライ　ドカラライ〈程度のひどいものを言う。〉\n8325.77　karai〈上〉　Kare:\n7361.17　シオッパイ〈昔から使っている〉　カラカ\n2141.61　kara:m（語幹で終止に用いる。からいもの意は、kara:m）　kara",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01019.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M040Q050/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01019",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01019.tif",
+    "source_ljc_id": "LJC-M040Q050",
+    "source_map_numbers": [
+      "040"
+    ],
+    "source_title": "からい (辛い)"
+  }
+]

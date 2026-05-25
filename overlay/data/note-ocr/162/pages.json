@@ -1,0 +1,472 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1736.84",
+      "1744.60",
+      "3619.08",
+      "3720.71",
+      "3735.77",
+      "3741.16",
+      "3772.73",
+      "3775.11"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-98\n質問番号　155　地図番号　162\n項目名　すりばち\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　( / )\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　　A　語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n1736.84　アタリバチ〈古〉　　　　　　　　　　　　　スリバチ\n1744.60　オナバチ (せとで作った鉢でそういうのか)　　スリバチ\n3619.08　(suribati) このrは摩擦が強く聞かれる。\n3720.71　ɕebadz'i (昔)　　　　　　　　　　　　　　süribadz'i\n3735.77　カーラゲ〈古〉　　　　　　　　　　　　　スリバズ\n3741.16　ëʂebatʃi ëは非常に狭いe\n3772.73　ɕibadz'i し (i)と(e)と中間母音で中舌的\n3775.11　カーラゲ〈古〉　　　　　　　　　　　　　スリバズ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04798.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04798",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04798.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3777.86",
+      "3783.08",
+      "3791.02",
+      "3795.86",
+      "4598.33",
+      "4638.22",
+      "4658.42",
+      "4665.87",
+      "4666.51",
+      "4667.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-01\n質問番号 155 地図番号 162\n項目名 すりばち\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (2)\n地点番号\nA 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n3777.86 スリバズ〈新〉\n3783.08 karake eは狭いe\n3791.02 lst~batsi くし~batsi\n3795.86 カーラゲ\"(老)\n4598.33 suribatsu 〈新〉\n4638.22 süribatsʲi  いはごくわずか中舌化している。\n4658.42 kanabatʲi 古くから用い現在も用いる。\n4665.87 misosuribatʲi 〈上〉\n4666.51 kanabatʲi 〈希〉\n4667.33 カナバチ(古) シリバチ(新)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04801.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04801",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04801.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4675.45",
+      "4677.65",
+      "4689.14",
+      "4694.95",
+      "4706.53",
+      "4712.16",
+      "4714.22",
+      "4714.68",
+      "4715.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-02\n質問番号 155    地図番号 162\n項目名 すりばち\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (3)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n4675.45   suribatsi; (希 新)                         kanabat;i\n4677.65   su:bat;si (スリバチのriはひびかないように思われる)    kanabat;i <古>\n4689.14   su:libazi <sulwhaziを元にしたもの>            su: luhazi\n4694.95   [ ] kanabat;i <古>\n4706.53   sitibat;si <新>                               kawalage\n4712.16   kalagebatsi <古>                              sutibatsi\n4714.22   kalanebatsi <希古>                            sutlibatsi\n4714.68   kalanebat;i <古>                              sutlibat;i\n4715.98   kalage (ぞんざいな発音)                        ka:;lake",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04802.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04802",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04802.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4724.00",
+      "4726.80",
+      "4750.32",
+      "4760.64",
+      "4762.77",
+      "4773.15",
+      "4784.41",
+      "5472.34"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-03\n質問番号　地図番号　155　162\nA（丸） 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名　すりばち\n\n（表ヘッダ）\nA　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\nkalagebatsi <省略して kalage とも>\nkalang:batsu <札との batsu (銭) は省略することも多い>\nスリバズ（希）　カラバズ\nsüribadzü（祥改まって言う時スイはスリともなる。聞き返すとこう答えた。）　sūjibadzü\nkairabadzi <古>\nsūritbadzɨ\nkawara'batsi <古>\nsūri'batsi\nsurrihadzi <新>\nカガス <古>　スリバチ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04803.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04803",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04803.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5508.19",
+      "5537.99",
+      "5575.93",
+      "5605.11",
+      "5636.74",
+      "5646.71",
+      "5654.94",
+      "5655.41",
+      "5656.62",
+      "5664.58"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　48-04\n質問番号　155　地図番号　162\n項目名　すりばち\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　(5)\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\nsuribat(i) (チョット聞くと suibat(i) のようにも聞こえる)\nsuryubat(i) または [sulbat(i)]\nsuriukobat(i) ui=ここでは心持ち前寄りのことを示す\nkanabat(i) <古→現>\nkanabat(i)〈古一現〉\nアタリバチ〈希〉\nシラジ〈古〉\nアタリバチ〈希〉\nシラジ〈多〉\nスリバチ\nスリバチ\nスリバチ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04804.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04804",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04804.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5667.24",
+      "5667.77",
+      "5669.96",
+      "5674.06",
+      "5675.36",
+      "5679.31",
+      "5679.86",
+      "5686.31",
+      "5686.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-05\n質問番号 地図番号 155 162\n項目名 すりばち\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\nページ (6)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5667.24　スリバチ〈古〉\n5667.77　アタリバチ〈新〉\n5669.96　ad ariba(d) ？〈希〉\n5674.06　シラジ〈少〉\n5675.36　シラジ〈多・古〉\n5679.31　ataribat(i) 〈希〉\n5679.86　süribatṣ +  （荒）では【fra ȝ】を（いちばん普通に）\n5686.31　ataribat(i) 〈希〉\n5686.67　アタリバチ〈希・上〉\n\n（手書きの欄にはさらにローマ字表記や注記が記入されている：ataribat(i)、suribat(i)、sü r t ba など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04805.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04805",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04805.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5688.37",
+      "5690.96",
+      "5696.13",
+      "5696.68",
+      "5722.37",
+      "5731.67",
+      "5740.16",
+      "5742.65",
+      "5750.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-06\n質問番号　155　地図番号　162\n項目名　すりばち\nA　普通注記\nページ　(7)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（［　］）は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\nスリバチ〈郷〉\nアタリバチ〈ツ〉\n(inohati; 「ほかに言い方はありませんか」に答えて)\nataribati〈縁起をかついだ言い方〉\nsuruhati〈新〉\nsunahati〈古〉\nスリバチ　普\nadartibazt〈新〉\nアタリバチ〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04806.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04806",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04806.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5751.89",
+      "5760.24",
+      "5793.74",
+      "6277.62",
+      "6287.42",
+      "6287.71",
+      "6348.77",
+      "6349.80",
+      "6373.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-07\n質問番号 155    地図番号 162\n項目名 すりばち\nA 普通注記  ページ (8)\n[B 除いた共通語]  [C 除いた特殊語]\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5751.89    süribatʃi <古>    ataribatʃi\n5760.24    誘 jinohatʃi\n5793.74    süiraji <古>\n6277.62    [suribazi]\n6287.42    sulbatʃi (いはまき舌か?)\n6287.71    sulbatʃi (いはまき舌音的)\n6348.77    かがつ <古>\n6349.80    kaɡatsiü <古>\n6373.59    suribatʃi <多>    kagatsi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04807.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04807",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04807.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6384.25",
+      "6386.66",
+      "6411.66",
+      "6412.48",
+      "6414.17",
+      "6421.82",
+      "6423.75",
+      "6440.25",
+      "6494.55",
+      "6554.08"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-08\n▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での情報は地点番号順に並べる。\n▸ 注記のく >（ ）[ ]は厳密にする。\n実問番号　155　地図番号　162\n項目名　すりばち\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (9)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6384.25　süribatʃi <多>　kagatʃi\n6386.66　kagatʃi <古>　süribatʃi\n6411.66　カガチ <昔>　ミソシリバチ\n6412.48　カガチ <古>　シリバチ\n6414.17　kagatsi <古>\n6421.82　kagatsɪ <古>　süribatʃi\n6423.75　süribatʃi (カガツは用いないと言う。)\n6440.25　カガツ <古>　スリバチ\n6494.55　カガツ <多>　スリバチ\n6554.08　スリハチ <スリバチでない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04808.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04808",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04808.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6557.36",
+      "6591.02",
+      "6591.57",
+      "6605.37",
+      "6609.05",
+      "6617.75",
+      "6624.13",
+      "6625.17",
+      "6626.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。 日本言語地図資料用紙 注記一覧 48-09 質問番号 地図番号 155 162 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] (10) 項目名 すりばち 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6557.36 [suribati] 6591.02 スリバチ（スリコバチという人もある。） 6591.57 スリコバチ〈古〉 スリコンバチ〈古〉 6605.37 マタリバチ〈共〉 スリバチ 6609.05 マタリバチ 上常 スリバチ 6617.75 マタリバチ〈新〉 スリバチ 6624.13 ataribati 新 suribati 6625.17 ataribati 希 スリバチ 6626.30 sūribat(fi)〈昔〉 ataribati",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04809.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04809",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04809.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6630.82",
+      "6635.87",
+      "6645.37",
+      "6697.59",
+      "6698.20",
+      "6700.25",
+      "6701.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-10\n質問番号 155  地図番号 162\n項目名 すりばち\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (//)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）［ ］は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nmeguri 〈くしゃくれた言い方〉　　　suribatji\nataribatji　少　　　　　　　　　　　suribatji\njinohatji 〈古〉　　　　　　　　　suribatji\nataribatji 〈老人が使ったのを聞いた〉　suribatji\nsuribatji 〈多〉\n\nataribatji 〈希〉　　　　　　　　　suribatji\nataribatji 〈希〉　　　　　　　　　suribatji\n\n（以下手書きの注記）\nataribatji（調査後、浅沼翁の話では縁起ことばだとされた。しかしこの語は\n時古の老人にも観察されている。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04810.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04810",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04810.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "7246.45",
+      "7326.69",
+      "7333.75",
+      "7336.54",
+      "7336.71",
+      "7339.27",
+      "7343.14",
+      "7344.30",
+      "7382.58",
+      "7396.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-11 質問番号 155 地図番号 162 (A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (12) 項目名 すりばち A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7246.45 suribat° °は内破音 7326.69 kagatsu <古> 7333.75 kagatsu <小型のを言うか?> 7336.54 kagatsu <古> 7336.71 kagatsu <古> 7339.27 suribatʃi (surihatʃiという表記もある) 7343.14 suribatʃi (、)の子音頭弱し 7344.30 kagatsu <古> 7382.58 スルバチ (suryubatʃi) 7396.53 (surubatʃi)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04811.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04811",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04811.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "7420.91",
+      "7432.95",
+      "7502.22",
+      "7521.16",
+      "8313.72",
+      "8315.89",
+      "8316.20",
+      "8324.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-12\n質問番号 /55  地図番号 162\n項目名 すりばち\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(13)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7420.91  kagatsu 古\n7432.95  suribati (最近 多い)\n7502.22  suribati; 多\n7521.16  スリコバチ <少>\n8313.72  suinohat (hatはhat; の程の入声化であろう。)\n8315.89  surubati; ( -ru-の方が土音であろう。)\n8316.20  kagatsu <古>\n8324.26  suibatji (スリをスイと言い、また \"suibat\" と...)\n\n（下部に手書きの注記ありが判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04812.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04812",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04812.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "8324.83",
+      "8362.81",
+      "8373.43",
+      "0257.12",
+      "0275.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-13\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞( )[ ]は厳密にする。\n質問番号 155　地図番号 162　A 普通注記　ページ (14)\n項目名 すりばち\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n8324.83    suibat[j]. (ぞんざいに言う時は suibat となると思う)\n8362.81    suibat (sui no hat という人がある)\n8373.43    suibat su(r)ibat\n0257.12    surha'ts[i] (半長?)\n0275.97    hat[i] (単にハチという) surihat[i] <希>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04813.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04813",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04813.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "1261.32",
+      "1271.05",
+      "1271.20",
+      "2140.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞(　)［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 48-14\n質問番号 155    地図番号 162\n項目名 すりばち\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (15)\n地点番号\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n1261.32    sa:φun 〈古〉    de:φai\n1271.05    qiriba:ti    re:pha:\n1271.20    sa:φun 〈古〉\n           jiribaʧi 〈新〉\n2140.49    suribatʃi (新)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04814.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04814",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04814.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "2751.10",
+      "4659.50",
+      "4666.51",
+      "4685.72",
+      "4689.62",
+      "4694.95",
+      "5605.11",
+      "5655.41",
+      "5675.36",
+      "5750.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-15\n質問番号 155    地図番号 162\n項目名 すりばち\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\nページ ( / )\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（表の行、右側の項目の一部を転記）\nスリバチ〈希 新〉　　　アダリバヂ\nスリバシ°(共)　　　　シイバシ°\nsuribatji〈新〉　　　　kanabatji(希)\nsuribatji〈共 新〉　　　kanabatji\nsuri badzi〈新〉　　　　suruhadzi\nsuribatji〈新〉　　　　()kanabatji(古)\nsuribatji〈新〉　　　　kanabatji〈古-現〉\nスリバチ〈新〉　　　　シラジ〈古〉\nスリバチ〈少.新〉　　　シラジ〈砂.古〉\nスリバチ〈新〉　　　　アタリバヂ〈古〉\n\n（手書きの地点番号欄に上記の番号が並ぶ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04815.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04815",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04815.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5760.24",
+      "6414.17",
+      "6424.20",
+      "6484.78",
+      "6582.73",
+      "6625.17",
+      "7329.57",
+      "7400.15",
+      "7411.27",
+      "7420.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-16\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n質問番号 155　地図番号 162\n項目名 すりばち\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (2)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nsuribat(si) <新>    sūrazi〈古〉\nSuribat(si) <新・多>    kagatsu〈古〉\nsuribat(si) <新>    kagatsū\nスリバチ 少    カガツツ\nスリバチ〈共〉    スリコバチ\nsuribat(si) 少    senpai; ataribatsi 希\nsuribat(si) 新    kagasu\nsuribat(si) <新>    kagatsu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04816.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04816",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04816.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7421.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-17\n質問番号　地図番号\n155　162\n項目名　すりばち\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ　(3)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　>（　）[　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7421.62　suribatsi　新　kagasuu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04817.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M162Q155/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04817",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04817.tif",
+    "source_ljc_id": "LJC-M162Q155",
+    "source_map_numbers": [
+      "162"
+    ],
+    "source_title": "すりばち (擂鉢)"
+  }
+]

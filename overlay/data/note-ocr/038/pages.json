@@ -1,0 +1,1230 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0747.70",
+      "0779.03",
+      "0990.97",
+      "1719.17",
+      "1736.84",
+      "1739.85",
+      "1744.60"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 9-15\n（管理等の小欄） 地図番号 038\n項目名 ウスイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n0747.70  amai <タタ>    usui\n0779.03  amai <タタ>    sioamai\n0990.97  amai <越中の人は [somunai]>\n1719.17  ミズクサイ <ミズクサイの方が程度が3度>\nアマイ　い、また、味を見る時には\nアマイを使う。\n\n1736.84  ベコ <くす>\n1739.85  mizukusai <タタ>    amai\n1744.60  ジョッナイ <ウスイとは全然言わぬ>\n<アマイとは子供達が言う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00915.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00915",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00915.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1747.04",
+      "1761.74",
+      "1763.60",
+      "1786.13",
+      "1848.24",
+      "1854.24",
+      "1863.48",
+      "1942.03",
+      "1798.13"
+    ],
+    "other_text": "1798.13. midzukusai (dzuはzu?) usui\n日本言語地図資料用紙 注記一覧 9-16\n項目番号 地図番号 051 838\nウスイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  (2)\n地点番号  A 語形とその注記 (B・C 除いた語形とその注)\n1747.04 アマイ 両方。同じように多く使う。 ウスイ\n1761.74 アマイ <ウスイとは言わない>\n1763.60 アマッタルイ <アマイとは言わない>\n1786.13 アマイ <最近使う> ウスイ\n1848.24 usui <上品> amai\nmizukusai <ほんとにうすい時>\n1854.24 amai <多?> usui\n1863.48 ミズクサイ <稀に> アマイ\n1942.03 amai amai <多く使う> usui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00916.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00916",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00916.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2783.73",
+      "3736.58",
+      "3757.59",
+      "4589.83",
+      "4618.87",
+      "4619.98",
+      "4629.43",
+      "4647.87",
+      "4665.87",
+      "3699.55",
+      "3715.59",
+      "3744.18",
+      "3761.94",
+      "3762.84",
+      "3784.87",
+      "4653.47",
+      "4658.42"
+    ],
+    "other_text": "3699.55 アミェ, [ミェ] は [ミ] の口の狭めで[メ]をいった際の音\n3715.59 ama:\n3744.18 アマイ、これは「イ」ときこえれ。\n3761.94 amie、AMAIに入れる。\n3762.84 amze\n3784.87 *アマァ\n4653.47 mizukusai, mizukusaiをぇん\n注記のく 4658.42 2maye:\n\n日本言語地図資料用紙 注記一覧 9-17\n資料番号 051 地図番号 038\n項目名 ウスイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語)\n\n地点番号  A語形とその注記 (B・C除いた語形とその注)  A注のない語形 (B・C残した語形とその注)\n\name <普通>    amadarekuse\nアメ <古>     マズゥ\nマンズイ <古>  アマイ\namai <希>     Jomunai\namal <上>     ame\name (1)\namai <改まった時>    ame\nアンマゲ (あまごしの言化) アンマゲガッ9,は完3,過去形\namae <家族などにおいて用いる>\nusue <上><よその人に対して用いる>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00917.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00917",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00917.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4666.51",
+      "4685.28",
+      "4685.72",
+      "4687.07",
+      "4713.60",
+      "4714.68",
+      "4722.40",
+      "4725.68",
+      "4667.76",
+      "4685.88",
+      "4694.95",
+      "4695.19",
+      "4706.53",
+      "4711.41",
+      "4716.20"
+    ],
+    "other_text": "4667.76 2:moe\n4685.88 (?)oppegane:\n4694.95 amae (両方を用いる。用語上差の差はわからない)\n4695.19 ウスイ usui, iに近い音\n4706.53 amae [amae?]\n4711.41 <ame?>\n4716.20 *amae\n\n日本言語地図資料用紙 注記一覧 9-18\n調査番号 051 地図番号 038\n項目名 ウスイ\n(A) 普通注記  (B) 除いた共通語  (C) 除いた特殊語  ページ (p)\n\n改まった用い方。\n\n4666.51  jo:amae  <希>          jo:amada\n4685.28  usui   <新>             amae:\n4685.72  usui   <ウ>             amae\n4687.07  usui   <希,新>\n4713.60  usue   <希希>           amae\n4714.68  amae (そんな発音では amae: となっている。)\n4722.40  sioamai <amaiとは言わない>\n4725.68  üsüe  <古>              amae",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00918.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00918",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00918.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4726.80",
+      "4731.92",
+      "4741.44",
+      "5499.98",
+      "5517.57",
+      "5537.99",
+      "4735.37",
+      "4753.52",
+      "5538.33"
+    ],
+    "other_text": "(上部書き込み) 4735.37 amae (052と同じ言い方をする) 4753.52 ame: ('amakoe' はこの場合には使わない) 5499.98 ミズクサイ(最近入った用語で、老人、大人はあまり用いない) ワルイ イキ - 5538.33 ussui ･･･ (中段印刷) ► A・(B)・(C) その中での情報は地点番号順に並べる。 注記の < > ( ) [ ] は厳密にする。 (右上小欄) 051 038 ウスイ 9-19 (用紙表題) 日本言語地図資料用紙注記一覧 (表ヘッダ) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） (行項目) ame:（共）　amakæ: joamae jioamae＜普通＞ jioamae＜上＞ スショアマエ．最初のシは無声化　シショはシオ（塩）のこと　スオアマエ ミズクサイ．これは最近入った用語で，老人，大人はあまり用いない。 ワルイ somonai＜共＞ ussui＜新＞　jonnai (下部手書きローマ字) jonnai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00919.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00919",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00919.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5538.63",
+      "5549.32",
+      "5558.67",
+      "5575.00",
+      "5575.93",
+      "5579.42",
+      "5588.56",
+      "5555.09",
+      "5558.33"
+    ],
+    "other_text": "5555.09 amai <味を十分でない時>\n5558.33 jomunai, じょうに近いオ\n日本言語地図資料用紙 注記一覧 9-20\n資料番号 051 地図番号 038\n項目名 ウスイ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (6)\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A 注のない語形 (B・C 残した語形とその注)\njionnai はじめシオアマイと言ったが、訂正した。\nusui <事竹>\nsomunai <新>\ntjo:münai ...子供の頃使用\nusui (共?)\njo·munai <稀>\namai <上にシオはつけない>\namal 上が優先\nüsüui\n右欄(注記例): jomunai; amai; üsüi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00920.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00920",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00920.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5597.98",
+      "5599.94",
+      "5611.74",
+      "5615.28",
+      "5615.74",
+      "5603.88",
+      "5611.81"
+    ],
+    "other_text": "5603.88 amai 5611.81 2mai\nA: (B):(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 9-21\n管理番号 地図番号 051 038\n項目名 ウスイ\nシヨアマイ <アマイという語は、砂糖の味またどには、使うが、塩の味が足りない場合には使わない。>\nアマイく おすましの時に使う。> ミズッポイ\numsui (上) joamadda (不明手書き)\name: <共.上>\namae (usueを多く用い、amaeは usue やや改まった場合に用いると言い、又両方同じ様に用いる)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00921.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00921",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00921.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5624.05",
+      "5635.48",
+      "5635.65",
+      "5636.74",
+      "5643.33",
+      "5648.13",
+      "5625.32",
+      "5625.91"
+    ],
+    "other_text": "5625,32. アマエ、ショオガアマエという。56 25.91 jo:gaamae, [amae]\n\n日本言語地図資料用紙 注記一覧 9-22\n(右上の箱) 051 / 038    (A)普通注記  ページ (8)  項目名 ウスイ\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<>()[]は厳密にする。\n\n地点番号   A語形とその注記（B・C除いた語形とその注）   A注のない語形（B・C残した語形とその注）\n\n5624.05  dokke naji da (塩の味のみならず、amae －一般に味のうすい意味の語らしい。)\n5635.48  アメエ <多、古>                              アマイ\n5635.65  ウスイ（共）\n5636.74  (取り消し線で抹消)\n5643.33  amai <共>                                   ame:\n5648.13  ame: <古い感じ>\n          usui <今ではこの方が多かろう>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00922.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00922",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00922.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5655.57",
+      "5656.62",
+      "5657.73",
+      "5657.78",
+      "5666.18",
+      "5667.24",
+      "5670.47",
+      "5672.67",
+      "5672.75",
+      "5663.01"
+    ],
+    "other_text": "5663.01. ! so:amae <塩が甘い！>\n日本言語地図資料用紙 注記一覧 9-23\n資料番号 051  地図番号 038  項目名 ウスイ\n(A)普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (9)\n\n▲ A・(B)・(C)ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の< >()[]は厳密にする。\n\n地点番号    A 語形とその注記 (B・C除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n\n5655.57    ウスイ (共)                              ウスイ\n5656.62    アマイ <タ>\n5657.73    アマイ (共)\n5657.78    アマイ <ウマノショオベンミタイダ>\n5666.18    アマイ (共)\n           アメエ (共)\n5667.24    アマイ [!ゴゼン/ションベン?]\n5670.47    sioamai <稀>                               amai\n5672.67    amai <新行?>                              amx?:\n5672.75    usui <タ>                                 amai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00923.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00923",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00923.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5676.84",
+      "5677.14",
+      "5678.59",
+      "5679.86",
+      "5682.37",
+      "5686.15",
+      "5688.67",
+      "5687.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-24\n資料番号　地図番号\n051　838\n項目名　ウスイ\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\n(10)\n地 点 番 号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nウスイ（アマイとは言わないと自分で断われ。）\namai　念をおして確かめれ。\namai　多　usui\namazoppae　（荒）amae　üsüe\namai　〈希〉　usui\namai　〈タ〉　usüi\nウスイ〈普通〉〈これが一番多いとのこと〉　アマイ\nアマイ〈普〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00924.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00924",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00924.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5689.98",
+      "5690.96",
+      "5692.53",
+      "5694.79",
+      "5695.47",
+      "5697.24"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）〔　〕は厳密にする。\n\n日本言語地図資料用紙注記一覧\t\t\t9-25\n質問番号 051\t地図番号 038\t( A ) 普通注記\n項目名 ウスイ\t\t\tページ (11)\n\n地点番号\tA語形とその注記（B・C除いた語形とその注）\tA注のない語形（B・C残した語形とその注）\n\nウスイ（余り聞かない）（来者の質問によっての答え）\n~（取り消し線）~\n\n5689.98    usui（希）\t\t\tamai\n5690.96    midzukusai <amai（じゃない）>\n5692.53    amai <度合がたりないから！>\n5694.79    アマイ〈新〉\t\t\tウスイ\n5695.47    usui〈昔〉\n\t\tamai〈今〉\n\n5697.24    アマイ、〈アメと誤記らないでいう〉と。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00925.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00925",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00925.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5699.25",
+      "5782.94",
+      "5790.79",
+      "5791.23",
+      "5793.74"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 9-26\n資料番号 057   地図番号 038\n項目名 ウスイ\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）［］は厳密にする。\n（ヘッダ欄）地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nusui, 「ウスイ」は味のきいていない時 ame: に使う。だから砂糖の味にも使う。\name:〈おつゆについて〉 usui〈味そけ〉\nusui〈ame:とも言う〉\nusui 「ウスイ」は味のきいてない時に ame: 使う。だから砂糖の味も、「ウスイ」と言う。\nusuzoppai〈タ〉 usui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00926.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00926",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00926.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6402.53",
+      "6407.28",
+      "6413.10",
+      "6413.76",
+      "6415.23",
+      "6428.76",
+      "6437.07",
+      "6437.23",
+      "6438.33",
+      "6424.20"
+    ],
+    "other_text": "6424.20 amei (iはeに近い)   jiokegasenna:\n日本語言地図資料用紙注記一覧      9-27\n質問番号 051 地図番号 038\n項目名 ウスイ\nA・(B)・(C)ごとに別紙を使用する。\nその中での順序は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号    A 語形とその注記 (B・C除いた語形とその注)    A注のない語形 (B・C残した語形とその注)\n6402.53    アマイ（アミャと発音）                           ミズ゛クセャア\n6407.28    ウスイ＜希＞                                   ミズ゛クセャア\n6413.10    amja＜古＞                                     amai\n6413.76    ショガアミャ、多                                ショガアマエ　（塩が甘いの意）\n6415.23    ~（取り消し）~ 2mai (jioke ganai)  amja:＜古＞\n6428.76    アメァア＜上＞                                 ミズ゛クセャア\n6437.07    ミズクサイ＜希＞                                アマイ\n6437.23    アマイ＜普＞                                    ミズクサイ\n6438.33    ミズッポイク＜希＞                              ミズクサイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00927.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00927",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00927.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6439.01",
+      "6448.61",
+      "6457.57",
+      "6458.26",
+      "6467.73",
+      "6469.19",
+      "6452.98",
+      "6466.01",
+      "6466.36",
+      "6466.41",
+      "6470.59",
+      "6471.26",
+      "6473.85"
+    ],
+    "other_text": "6452.98, 6466.01, 6466.36, 6466.41\n6470.59\n6471.26\n6473.85\n\nアマア　ミズクサエ　9-28\n日本言語地図資料用紙注記一覧\n（右上の欄）057　038　○　ページ（14）\n項目名　ウスイ\nアマアにちかい　アマイにちかい　アマイ\n\n（表の本文）\nアマイ〈共新〉＜アマイに＝義あり、砂糖味　ミズクサイ\nが勝っている時と、ミズクサイ\nつまり塩味も何も足らぬ味と〉\n\nミズクサイ、〈度のすぎたのを言う〉　. アマイ\n\namai\nmizukusai〈amaiよりも薄い〉\n\nアマイ〈上〉　ミズクサイ\n\namai　①amatarui\n\nアマイ〈新・希〉　ミズクサイ\n\nmizukusai　多く言う　amai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00928.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00928",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00928.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6476.92",
+      "6485.14",
+      "6485.82",
+      "6500.22",
+      "6500.88",
+      "6504.99",
+      "6482.75",
+      "6486.07",
+      "6500.83"
+    ],
+    "other_text": "6482.75 amai <amainō: まどという.>\n6486.07 ミズクサイ 6500.83 ミズクサイ\n\n日本言語地図資料用紙 注記一覧 9-29\n資料番号 051 地図番号 038\n項目名 ウスイ (15)\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n6476.92　ミズクサイ（この方が多く使われるようである。）　アマイ\n6485.14　アマイ〈主として塩気が足りない場合。〉\n6485.82　〈古〉ミズクサイ　〈新〉アマイ\n6500.22　ミズクサエ（やや新しい感じしたが前アマエエ、アマイ着よりも多い。）　ミズクサイ\n6500.88　amai〈希〉　mizukusai\n6504.99　midzüiküsai, midzüii, 左が優え",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00929.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00929",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00929.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6506.55",
+      "6511.85",
+      "6573.57",
+      "6521.03",
+      "6522.37",
+      "6526.04",
+      "6529.88"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙注記一覧 9-30\n質問番号　地図番号\n057　038\n普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (16)\n項目名　ウスイ\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n〈共〉ウスイ　　　　　　　　　　　　　　　ミズクサイ\namai〈希〉　　　　　　　　　　　　　　　mizukusai\nsjotaran，ウスイ、アマイは言わない\nミズイ（新）　　　　　　　　　　　　　　ミズクサイ\nアワイ〈やや古〉　　　　　　　　　　　　ミズークサイ\nミズイ〈稀〉　　　　　　　　　　　　　　ミズゥクサイ\nmizuppoi〈amaiとは言わない〉\nusui〈私はmizuppoiと言うのが多いと思う。しかし、時に よってはusuiとも言う。別」",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00930.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00930",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00930.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6531.53",
+      "6535.90",
+      "6536.68",
+      "6537.06",
+      "6539.78",
+      "6541.27"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 9-31\n資料番号 地図番号 051 038\n項目名 ウスイ\nA普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (17)\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nに区別はない\n\n6531.53　ウスイ＜上＞　　ミズクサイ\n6535.90　usui＜上＞　　　mizukusai\n6536.68　usui＜味噌汁、す-ものなどには midzukusai, usui を用い、煮物に は midzukusai を用いる。＞\n6537.06　mizukusae:〈他〉　usy:\n6539.78　!hamayat ooi＜ゐ、古＞　ame:\n6541,27　ミズクサイ［アサイ］",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00931.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00931",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00931.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6544.26",
+      "6545.64",
+      "6547.09",
+      "6544.69"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 9-32\n資料番号 051 地図番号 038\n項目名 ウスイ\nA (普通注記) (B 除いた共通語) (C 除いた特殊語) ページ (48)\n\n地点番号 A 語形とその注記\n6544.26 mizukusai <昔>\n        usui <今>\n6544.69* mizukusai (はじめ usui と答えた)\n6545.64 mizukusa'i <つけもの。塩ものの。魚類については jio'a-ma'i と言う。>\n6547.09 usui <濃くよいと言う意味で: 甘さのときにも同じように使う。> sioyakiitenai\n(尚、調査者の2maiとは言いませ んかという問にも no と答えた)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00932.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00932",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00932.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6553.83",
+      "6554.08",
+      "6554.45",
+      "6565.17",
+      "6549.60"
+    ],
+    "other_text": "6549.60  *amai\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙注記一覧 9-33\n質問番号　地図番号\n057　038\n項目名　ウスイ\nA　普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (19)\n\nmizukusai (ミタけのある料理の時は「ミズクサイ」を、普通の料理の時は「ウスイ」を用いる。しかし「ウスイ」は双方にも用いられる。)\nusui\n\nウスイ <多>　ミズクサイ\nusui <多>　midzukusai\n2mai <これだけでは sato:amaiと s/ioamai を別けてできないから、特に s/ioamai と言うこともある。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00933.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00933",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00933.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6567.79",
+      "6573.71",
+      "6575.40",
+      "6576.56",
+      "6577.71",
+      "6569.12"
+    ],
+    "other_text": "6569.12 amai, tji:to amai えとという。\n日本言語地図資料用紙 注記一覧 9-34\n質問番号 地図番号\nd57 038\n項目名 ウスイ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n(20)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n6567.79 mizukusai <む>    amai\n6573.71 midzukusai <み>    .\n       usui <タ>\n6575.40 sjoa'ma'i <上>\n       [mizukusai] (レコはこの形のみ)\n6576.56 amai    midzukusaiは全く味が足\n       midzukusai りょい。amaiと程度が異なる。\n6577.71 usui , <(?) misousui> と、ミソが\n       入っている時でもいう場合が\n       ある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00934.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00934",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00934.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6581.36",
+      "6581.52",
+      "6581.68",
+      "6582.48",
+      "6583.93",
+      "6584.90",
+      "6591.02",
+      "6592.35"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-35\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）［］は厳密にする。\n（右上ボックス）質問番号 051　地図番号 038　項目名 ウスイ　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (21)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6581.36 ミズクサイ <強調するときに用う>　ウスイ\n6581.52 ミズクサイ <単にウスイという人もある>\n6581.68 ミズクサイ <ウ>　ウスイ\n6582.48 midzukusai ... 芸しく味が足りぬ場合言う。 usui\n6583.93 miruku/ja: <古い人>　midzuku/ a:\n6584.90 awai <昔>　usui　mi'zukusai\n6591.02 ウスイ（ミズクサイ、マタイとも言う）\n6592.35 mizukusai <タ?>　usui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00935.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00935",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00935.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6593.98",
+      "6594.19",
+      "6600.53",
+      "6600.97",
+      "6605.37",
+      "6607.03",
+      "6603.82"
+    ],
+    "other_text": "6603.82. ナルイ（ルの子音は人）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n日本言語地図資料用紙 注記一覧 9-36\n質問番号 057 地図番号 038 ○A 普通注記\n[B 除いた共通語] [C 除いた特殊語] ページ（22）\n項目名 ウスイ\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C残した語形とその注）\n6593.98  2wa:（「シオアワイ」（塩淡い）の意である）\n6594.19  sioamai ＜古＞    mizukusa'i\n6600.53  midzukusai ＜若い人の中には usui という者もいる.＞\n6600.97  2mai ＜若い祭は usui.＞\n6605.37  アマイ ＜希＞    ウスイ\n6607.03  usui ＜lazija〜＞と使い、\n        2mai [sioya〜] と使う.（[usui]のみをとるべきか?）\n地図上には併用となっている。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00936.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00936",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00936.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6607.84",
+      "6615.02",
+      "6618.46",
+      "6623.28",
+      "6623.53",
+      "6627.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉〔〕は厳密にする。\n\n日本言語地図資料用紙 注記一覧 9-37\n\n質問番号　地図番号\n057　038\n項目名　ウスイ\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n(23)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6607.84　usui　＜汁まとは usui, 1? 度?まと＞\namai の塩気のわりあいのは amai ＞\n\n6615.02　アマイ＜新＞　ウスイ\n\n6618.46　(古)ウスイ　アメエ\n\n6623.28　ウスイ＜共＞　アマイ\n\n6623.53　usui＜希＞　amai\n\n6627.12　mizuppoi・◎(①は「水分が多い」という)\n-2ame: …① 点に注目した言い方、\n②は「塩味の程度がゆるい」という点に注目",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00937.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00937",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00937.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6631.60",
+      "6634.07",
+      "6634.32",
+      "6642.33",
+      "6643.16",
+      "6643.72",
+      "6645.07",
+      "6645.62",
+      "6650.12",
+      "6639.79",
+      "6649.55"
+    ],
+    "other_text": "6639.79 6649.55\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 9-38\n\n質問番号　地図番号\n057　038\n項目名　ウスイ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (2p)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（した言い方であろう。）\n\n6631.60  usui 上.    amai\n6634.07  usui 希.    amai\n6634.32  usui 希     amai\n6642.33  amai 少し  usui\n6643.16  amai 上     usui\n6643.72  usui 上.    amai\n6645.07  usui 稀.    amai\n6645.62  usui ＜新＞ amae\n6650.12  usui 帯     amai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00938.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00938",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00938.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6655.87",
+      "6655.97",
+      "6697.59",
+      "6698.20",
+      "6710.70",
+      "6711.60",
+      "6721.31",
+      "7229.75",
+      "6700.25",
+      "7229.50"
+    ],
+    "other_text": "6700.25 2me', eはやや平口 7229.50 *sabinaka\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 9-39\n質問番号 051 地図番号 038 A 普通注記\n項目名 味がうすい ページ (25)\n\nA 語形とその注記 [B・C除いた語形とその注]\nmizuipe: <希>    ame:\nusuii , amaiとは言わぬ\nmadzui <古>    amai\nmadzui <古>    amai\nusuu <普> ... USUUに入れる。    usui\name' <薄い> は言わぬ。よほど上品な家庭ではいうかもしれない。\nusuit? ... usui:とする\namaka (sabinaka は使わぬよし)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00939.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00939",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00939.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7238.82",
+      "7239.82",
+      "7239.85",
+      "7248.64",
+      "7238.12"
+    ],
+    "other_text": "72 38.12. si'onnaka (こが軽く向きとられる) amaka\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙注記一覧    9-40\n質問番号　地図番号\n054　038\n項目名　ウスイ\n（A）普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（26）\n地点番号　A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n7238.82　amaka　< sabinakaということも。平町（対岸）では聞くことがある。>\n7239.82　sabinaka　<塩味がたりなくておいしくない。amaka しくないを。sabo:zu- nogota:とも言う。>\n7239.85　アマカ。くどちらも使う。サビナカの方　サビナカ　かゞ味のたりない気持が強い>\n7248.64　~amaka~　< sabinaka は塩味甘味 amaka sabinaka ともに足りない感じの時。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00940.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00940",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00940.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7259.22",
+      "7266.60",
+      "7268.87",
+      "7279.93",
+      "7289.31",
+      "7303.17"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 9-41\n質問番号　地図番号\n051　038\n項目名　ウスイ\n(A)普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（27）\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7259.22 sabunaka <多><時に田舎に多->　amaka\n7266.60 amaka (sabunakaは使わない)\n7268.87 samunaka <多>　sabunaka\n7279.93 Sabunaka（塩味だけでなく、甘味　usu ka.\nも、足りない場合では若いかと siwo amaka\n反問に対しても、やはり、塩味\n不足の意を言う。）\n\n7289.31 sabinaka・・・だしが入っていないほど amaka\nでおいしくない。\n\n7303.17 jisadaran (usumi, amai まど)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00941.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00941",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00941.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7303.29",
+      "7312.11",
+      "7320.59",
+      "7325.57",
+      "7329.39",
+      "7330.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-42\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n資料番号 .051　地図番号 038　項目名 ウスイ (28)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nとは言わぬと答う\n7303.29 usui く (siokegatarinai) ように言う\n7312.11 futara amai (ウス馬鹿の意にも使う)\n7320.59 amaka (味にも言う)\n7325.57 amai <上>\n7329.39 amai <ama:te のようにも言う>\n7330.31 ウスカ <みそ汁などのうすいのはこ アマカ。サビナカ。ソウスカれ。サビナカは味>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00942.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00942",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00942.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7332.97",
+      "7340.27",
+      "7340.50",
+      "7341.47",
+      "7341.57"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 9-43\n質問番号 051　地図番号 038\n項目名　ウスイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (29)\n\n・地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nの足りない時用いるので: 甘味の足りないので、サビナカという。>\n\n7332.97　amai（ウスイなし）\n7340.27　sabinaka <塩気だけでなく、味が全体として足りない時に使う> siwonamaka\n7340.50　u:sabika <程度のひどい時> sabinaka\n7341.47　ウスアマカ。<052と区別しようとすれ>　アマカ は、これを使う。>\n7341.57　usappju:ka <これは人の性質に jioamaka ついても使う語で、軽蔑な>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00943.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00943",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00943.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7343.76",
+      "7350.44",
+      "7350.96",
+      "7351.06",
+      "7352.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n日本言語地図資料用紙 注記一覧 9-44\n質問番号 051 地図番号 038\n項目名 ウスイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (30)\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\nという程度の差、 sabinaka は使 わない。\n7343.76  amai (ame:か、他の形容詞 ai) e: がある。\n7350.44  sabinaka 〈塩っすいだけでなく味は不足の場合。〉 Siwonnaka\n7350.96  Sioamaka 〈上〉   sabunaka\n7351.06  amaka (汁のうすいこと)\n7352.61  シオケムニャア 〈塩に限らず、すべて足りず。お足りない時に言う語。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00944.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00944",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00944.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7353.03",
+      "7361.17",
+      "7363.85",
+      "7364.34",
+      "7373.56",
+      "7374.15"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　9-45\n質問番号　051　地図番号　638\n項目名　ウスイ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (31)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形 [B・C 残した語形とその注]\n\nアマカ、ウスカは用いない。\nsion amaka、みその場合なら\nmison usyka\n\nブウバイカ (？古)　　　[アマカ]\nアマカ <上>　　　　　　アミャア\n　　　　　　　　　　　アンミャア\n\nアマカ <新>\nシオンアマカ <新>　　　アメェ.\n\nアメェア. <優、古来の言い方>　アマカ\nアマカ <新>　　　　　アミェア",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00945.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00945",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00945.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7374.75",
+      "7375.71",
+      "7376.62",
+      "7382.58",
+      "7375.96"
+    ],
+    "other_text": "7375.96 ame: ... 説明書参照\n日本言語地図資料用紙 注記一覧 9-46\n質問番号 051    地図番号 038    A 普通注記    [B 除いた共通語]    [C 除いた特殊語]    ページ (32)\n項目名 ウスイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( )[ ]は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nウスカ 希。　アミャア、アマカ。\nu:sabina <水臭いような場合に使う>\n<uʃi: - 物の厚さについてと言う場合に使う>\nuswi: [uʃi:]とは少し違う。\n[usi:]とも違う、多分。[uswi:]であろうと思う。\nアマカ　[ウサアブカ] (うすあまかーの意)\nウスカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00946.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00946",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00946.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7383.98",
+      "7385.84",
+      "7386.55",
+      "7386.56",
+      "7385.61"
+    ],
+    "other_text": "7385.61 amwe: e... 説明書参照  usi: ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜　＞（　）（　）は厳密にする。 日本言語地図資料用紙 注記一覧 9-47 質問番号 地図番号 051 038 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (33) 項目名 ウスイ 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7383.98 アシャアく古いことばで、今もこれが優勢＞ アマカ、アマイ 7385.84 usi: ([si]は存在しない。) 7386.55 mizukuse: <タ?> usi: 7386.56 amwe: ~ame: (初めに [amwe:]と言い、もう一度言わせると、今度は [ame:] であった。wがわかりに入る発音（豊明方言の特徴で、本来の方言音である。）は、都会生活のこの...",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00947.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00947",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00947.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7395.09",
+      "7395.25",
+      "7395.63"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜　＞（　）は厳密にする。 日本言語地図資料用紙 注記一覧 9-48 質問番号 051 地図番号 038 A 普通注記 [B 除いた共通語] [C 除いた特殊語] 項目名 ウスイ ページ (34) 老人の口からは、ほとんど失われているようである。） usu: <多く使う> ame:（甘味の時だけでなく、塩味の不足している時にも言う。これは県内あちこちに聞かれる。） mizukuse: <使用度は低い> usu: ui > u: である。 usu:（usu:はこの場合、終止 ame:形。この地方では、ウイ(",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00948.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00948",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00948.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7403.86",
+      "7406.53",
+      "7444.87",
+      "7402.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞［］は厳密にする。\n日本言語地図資料用紙注記一覧 9-49\n質問番号 051  地図番号 038\n項目名 ウスイ\n(A)普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (35-)\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\nui)の連母音は u: となる。 「寒い」は samu: 「古い」は 〔uru:〕\n\n7402,47 mizukusai (amaiとも言うか: amai mizukusai; の方が多くいうと思うと言ってた)\n2mai mizukusai? \n\n7403.86 amai (kusui toju: nde so; ganna: > というまがら,答える。)\n\n7406.53 <古> mizukusai   mizukusai\n\n7444.87 usui <アマイという人があるそうである>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00949.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00949",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00949.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7421.38",
+      "7421.62",
+      "7440.22",
+      "7501.72",
+      "7503.48",
+      "7511.93",
+      "7522.48",
+      "7523.94",
+      "7503.11",
+      "7504.27",
+      "7523.05"
+    ],
+    "other_text": "7503.11 mizukusae ([ai] は [æ] であった) 7504.27 midzukusai, midzu~miずu 7523.05 ミズクサイ\n\n日本言語地図資料用紙 注記一覧 9-50\n\n資料番号 地図番号\n057 038\n項目名 ウスイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (36)\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n7421.38 [2mai] (協力者が言われたのを素で 誤した。)    usui\n7421.62 2mai 新?    usui\n7440.22 usui <新>    mizukusai\n7501.72 ミズクサイ <程度のひとつ|場合 に言う>    ウスイ\n7503.48 mizukusa: <古>    mizukusai\n7511.93 ミズクサイ <ウ>    ウスイ\n7522.48 ミズクサイ <ウ>    ウスイ\n7523.94 awai <タ>    midzukusai mi'dzu~miʊ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00950.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00950",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00950.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7533.11",
+      "8301.26",
+      "8302.19",
+      "8303.47",
+      "8303.84",
+      "8305.76",
+      "8311.41",
+      "8313.88",
+      "8304.66",
+      "8306.42"
+    ],
+    "other_text": "8304.66 * usi: 8306.42 ame: (amwe:とも聞えるが、聞き直すと ame:と言う。ame:を持つ?)\n9-51\n日本言語地図資料用紙 注記一覧\n質問番号 地図番号 051 038\n項目名 ウスイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) (37)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉[　]は厳密にする。\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\nミスワクサイ 〈サ〉\t\tウスイ\nシオンアマカ 〈アマカとは言わない〉\t\tウスカ\nウライ 〈希〉\t\tウスカ\nウスカ. 〔アマカ・ウスカ〕\nアマカ 〈希〉\t\tシオアマカ\nmizukuswe: (東京語のCuiに)\nuswi: 対して、CwVVか? 対応することが多い)\n\nmitsukusaka 〈希〉 amaka\name (siogaki kana/ということもある)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00951.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00951",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00951.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "8331.12",
+      "8351.41",
+      "8372.49",
+      "0228.96",
+      "0275.97",
+      "0294.66",
+      "0294.93",
+      "1167.07"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >()[]は厳密にする。 日本言語地図資料用紙 注記一覧 9-52 質問番号 地図番号 057 838 項目名 ウスイ 普通注記 [B 除いた共通語] [C 除いた特殊語] (38) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] amaka <女>    usuka amaka <上品>    usuka usuka <希>    ame a:ka <amaka の変化> amahan <amahariという人も> amasa. ある. (取り消し線あり) amasa <amasanという人あり> amasan, amasa でも衰むする 2hasan (老人が用い、若者は ahasan 使わない.)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00952.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00952",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00952.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "1213.76",
+      "1231.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-53\n資料番号 057  地図番号 038  A 普通注記  ページ (39)  項目名 ウスイ\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n地点番号  A語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n〈中央の影響で中 ?〉haの変化が進みつつあるようだ。\n研究室注：調査員は、被調査者個人の言語を調べててよかったのでこういう注による。ただし、被調査者は老人に属するから両方使うらしい。cf. 0 0% の違。\n1213.76 amasaji, amasaで終ることも多い。\n1231.88 ama:ʃen（甘い意味にも使う） hapa:ʃen",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00953.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00953",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00953.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "1241.05",
+      "1241.96",
+      "1242.00",
+      "1250.59",
+      "1251.73",
+      "1257.98",
+      "1260.87",
+      "2141.61",
+      "1271.05"
+    ],
+    "other_text": ".1271,05. zapzean, θ =! \nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 9-54\n質問番号　地図番号　051　058\n項目名　ウスイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (60)\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\namafen <タ>        aφafen\nap'asan <ﾀ>        ap'ahan\n12ma52n <ﾀ>        12p'asan\n12amasan <希>       12φ2san\n12aφ2san (うすい意に12ma52nとは言わない)\n aφasan <最近になって用いる>    amasan\n12amasan <ﾀ>       12φ2san\nama (語幹で終止に用いる)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00954.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00954",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00954.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-55\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n質問番号: 057\n地図番号: 038\n項目名: ウスイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (41)\n\n地点番号 ／ A 語形とその注記 [B・C 除いた語形とその注] ／ A 注のない語形 [B・C 残した語形とその注]\n\nama:m, （あまいまの意。）",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00955.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00955",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00955.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "0896.22",
+      "2803.22",
+      "3782.12",
+      "4687.01",
+      "4694.26",
+      "4695.21",
+      "4732.18",
+      "4762.27",
+      "4763.11",
+      "4716.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-56 質問番号 051 地図番号 038 項目名 臼末か? ウスイ A 普通注記 B 除いた共通語 C 除いた特殊語 ( / ) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 0896.22 ウスイ [ほ] アマイ 2803.22 シオアジナイ アマイ 3782.12 sokkæ-tarinæ amæ 4687.01 jokarɔ:inæ usut 〈希.新〉 4694.26 jo:kegə taran 2mae 4695.21 joppe:ga tarane: amal 4716,20 amakoe (強い甘味の場合に使う語らしい) *2ameæ 4732.18 amae *ame: 4762.27 2me: *2mae 4763.11 siokenə tarine(:) 2mæ(:)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00956.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00956",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00956.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "5499.98",
+      "5517.57",
+      "5567.46",
+      "5611.39",
+      "5667.77",
+      "5677.60",
+      "5687.32",
+      "5628.23",
+      "5636.74",
+      "5642.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-57\n質問番号 051 地図番号 038\n項目名 （味が）ウスイ\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ (2)\n\n地 点 番 号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5499.98    ワルイ,    最近入れた用語で老人,大人はあまり用いない。\n5517.57    Kudari ja    Jomonai（共>）\n5567.46    シワテガアマイ〈丁〉    ショアマイ,アマイ,\n5611.39    jio2dzigamu swwt    amae\n5667.77    jiokega tanne:    ame:\n5677.60    シオケガタリナイ    アマイ\n5687.32    シタジガキカナイ    アマイ（普通）\n\nウスイ〈余りきかない〉\n（オニ者の質問によっての答）\n\n手書き注記: 3 を入れる\nex 5628.23 5636.74 5642.67",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00957.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00957",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00957.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "5628.23",
+      "5636.74",
+      "5642.67"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞()[]は厳密にする。\n日本言語地図資料用紙　注記一覧　9-58\n質問番号　地図番号\n051　038\n項目名　(味が)うすい　ページ　(3)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5628,23　soppakunæ＜古＞　ameæ\n5636,74　ゴゼノショノベーン／ヨオダ　アメエ\n〈コエオダスヒトワシオケノアルノオタ　ウスイ、シオサガウスイ形に変る　ベナイカラ、ショオベン／モウスイ,〉\n\n564267　 so:njaamae　amae\ntadonke na;ida (北信では、その物の味のぼやけている場合に時として使う。梨、りんごなどに対しても。)　donkena;ida\n\n(手書き注記等含む、読み取り不能箇所あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00958.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00958",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00958.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "5688.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-59\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > < ( ) [ ] は厳密にする。\n質問番号 地図番号 051 038\n項目名 (味か)ウスイ\nA 普通注記  B (除いた共通語)  C (除いた特殊語)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nアマスギル(集意することばの趣旨からはずれるかも知れないが、コレハ アマジョオダヨ、コミシシルワアマスギルというように使うと言う。従ってアマイを決めてよいように思う)しかし、砂糖の味と混同するのを恐れてか、アマイとは答えない。\nアマジオ\nシオケガタリナイ\tシオケガウスイ\nモノタラン(別の表現法をるべし)\tミズクサイ\nミズクサエ(普)\t*amæ:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00959.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00959",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00959.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6474.03",
+      "6485.14",
+      "6549.60",
+      "6559.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-60\n質問番号　地図番号\n051　038\n項目名　(味が)ウスイ\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6474.03　アマア　アメエ、ミズクサア\n6485.14　[ミズクサイ] <塩気だけではなく、味付けが不足している場合に使う。ミズクサイオ、ダシガデトランノジャというような言い方。>　アマイ〈主として塩気が足りない場合〉\n\n6549.60　usui　＊2mai\n6559.67　amai〈他〉〈同じニリでも[2mai]と言う人もいる。〉〈私はusui, 2mai 両方とも普通に使う。〉　usui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00960.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00960",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00960.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7258.89",
+      "7352.61",
+      "6572.22",
+      "6575.17",
+      "6649.55",
+      "6710.55",
+      "7229.50",
+      "7239.82"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )[ ]は厳密にする。 \n日本言語地図資料用紙 注記一覧 9-61\n質問番号 地図番号 051 038\n項目名 (味が)うすい\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (1/6)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6572,22　アジワルイ　ミズクサイ\n6575,17　キイトラン　アマイ、ミズクサイ\n6649,55　dari:　＊amadari:\n6710,55　ame:　amai, usui\n7229,50　sioamaka　＊sabinaka\n7239,82　sabo: zu'nogota:　sabinaka, amaka〈塩味が有り〉よくて、おいしく(食いのを言う)\n\n7258.89　samunaka　＊sabunaka\n7352.61　シオケノタラン　シオケムニャア〈塩に関〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00961.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00961",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00961.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7366.91",
+      "7373.92",
+      "7393.62",
+      "8303.47",
+      "8304.66",
+      "8325.56",
+      "8343.97"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）［　］は厳密にする。\n日本言語地図資料用紙　注記一覧　9-62\n質問番号　地図番号\n051　038\n項目名　うすい\nA　普通注記\n（除いた共通語）\n（除いた特殊語）\n頁\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n（右上注記）\nらず。すべて足りずなお足りない時に言う語。アマカ、ウスカ、用いない。\nuswi:\t\tusi:\n[ウスカ]\t\tアマカ\nシオノウスカ\t\tウスカ\nシオケンタラン\t\t(シオノ)ウスカ, [アマカ・ウスカ]\nusui〈共〉\t\t＊usi:\njiokega taran〈普通〉\t\tuji:\name〈新〉\t\tamai, amaka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00962.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00962",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00962.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "9310.27",
+      "1169.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-63\n(上部小欄) 051   038\nA 普通注記  (B 除いた共通語) (C 除いた特殊語) ページ (8)\n項目名 うすい\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　><()[]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n9310.27    jiogataran    amai,\n1169.84    ahasan <新>    afasan,\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00963.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M038Q051/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00963",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00963.tif",
+    "source_ljc_id": "LJC-M038Q051",
+    "source_map_numbers": [
+      "038"
+    ],
+    "source_title": "〈塩味が〉うすい"
+  }
+]

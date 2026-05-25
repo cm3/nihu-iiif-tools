@@ -1,0 +1,378 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙 注記一覧 15-35\n・A・(B)・(C)ごとに別表を使用する。\n・その中での語は地点番号順に並べる。\n・注記のく<>（）は略語にする。\n質問番号 235　地図番号 62　項目名 捨てる\nA 共通語　B 除いた共通語　C 除いた特殊語　ページ(1)\n地点番号／A 語形とその注記／A 注のない語形（B・C欄も同様）\n95 nageru, suteru 〈話しているうちに、どちらも使うような様子になった。〉\n33 nageru 〈多〉\n53 suteru（ナゲルとは別）\n27 ナゲル 〈多〉　ステル。\n67 ナゲル 〈多〉　ステル。\n82 utaru（utattekoi の形で出た）\n41 ステル（とも。）　ナゲル。\n92 ナゲル〈ともいう〉　ステル。\n22 ナゲル〈多〉　ステル。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01535.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01535",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01535.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-36\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉（ ）は該当語にする。\n\n質問番号 23よ   地図番号 62\n項目名 捨てる 535\n\n［表見出し］ 地点番号／A語形とその注記／Bで聞いた語形とその注記／Cほか\n\nho:kasu〈綴〉    右欄: ho:ru\nsuteru（または siteru?）\nsiteru（ndaru, butyaru というのは田舎で用いる語である。田舎は村と市周辺の農山村であろう。）\nndaru（いちばん古いことばである）\nnageru（古いことばで現在も用いる）\nsuteru（？）\nbuty aru（古くから用い、今も使う。）\nbuty aru〈希〉   右欄: nageru\nbunnageru（悪い言い方）  右欄: nageru",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01536.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01536",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01536.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本語方言資料採録用紙 語彙一覧 15-37\n質問番号 225／地図番号 62\n項目名 捨てる（ページ 51）\n・A・(B)・(C)ごとに別紙を使用する。\n・その中の情報は地点番号順に並べる。\n・注記の〈 〉（ ）は厳密にする。\n見出し：地点番号／A 語形とその注記／A 注のない語形\n4742. 95 bannageru（…）　右欄: nageru.\n4762. 56 bunnageru（…）　右欄: nageru.\n4791. 39 nageru〈普通使う〉　右欄: suteru.\n4791. 61 suteru〈これも使う〉　右欄: nageru.\n4791. 65 nageru〈これを普通に使う〉　右欄: suteru.\n4794. 30 nageru〈これは普通の言い方〉\n5528. 31 ho:ru〈…〉　右欄: ho:kasu.\n5549. 32 hopparakasu（「投げ捨てる」ことだという。）\n5557. 85 suteru〈…〉　右欄: ho:karu.\n5584. 37 suteriru／horiru／nageriru ほか同義",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01537.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01537",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01537.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 記述 15-38\n質問番号 225  地区番号 62\n項目名 捨てる\nページ（×）\n\n・A・(B・C)ごとに調査を使用する。\n・その中での情報と地点番号順に書く。\n・注記の〈 〉（ ）は該当語にする。\n\n見出し: 地点番号／A 言形とその注記（B・C 欄は言形とその注）／A 注のたい言形（B・C 欄は残した言形とその注）\n\n63  ho:ru.  優位    suteru m.\n37  ho:ru.  suteru.  二形同義につかう\n20  ho:ru.  suteru.  三形同義につかう\n99  butjaru. 〈特定の場合に限る。たとえば道路などに不要の者をすてる時などに用いる。ゴミ箱などならば「ireru」という。〉\n52  betjaru. 〈古〉   bitjaru.\n39  butjaru. （俗）（たいへんことば）  suteru m.\n33  betjaru. （俗）（ぶだいのことばで—外の語法は知りませんが）に対する反応。（古い言い方であろう）  suteru m.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01538.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01538",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01538.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-39 質問番号 235 地図番号 62 項目名 捨てる 535 ページ (5) A 普通注記 〔B・C〕 など。 地点番号／A 語形とその注記 ほか。 67 ウチャアル〈古くからの形。普通よく用いる〉 98 ウッチャル〈古くからの言い方〉 17 チャァル〈多く使う〉 ステル。 23 ウッチャル〈古〉 ステル。 83 ウッチャル〈古〉 ステル。 41 ブチャアル〈古〉 78 ウッチャル〈多く使う〉 ステル。 87 ステル・ウチャアル 両方同等。 52 ウチャァル〈多分多く使われる〉 ステル。 84 ウチャル〈昔〉（ウンッチャルではない） ステル。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01539.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01539",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01539.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-40\n質問番号 235  地図番号 62.\n項目名 捨てる\nA 普通語注記（B 欄いた共通語／C 欄いた特殊語）\nページ (6)\n\n地点番号／A 語形とその注記（B・C 欄いた語形とその注）／A 注のない語形（B・C 欄いた語形とその注）\n33 ウッチャル（普）  ステル.\n86 ウッチャル（昔）  ステル.\n89 uttjaru（古）  suteru.\n84 ウッチャル（古）  ステル.\n26 süteru（これも使う）  nageru.\n78 nageru.（これを多く使う）  süteru.\n83 ウッチャル。（多く使う）  ステル.\n32 suteru（ナゲルもいうが、普通はこれ。）  nageru.\n68 uttjaru（古）  süteru.\n18 suteru.（多）  uttjaru.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01540.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01540",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01540.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-41\n質問番号 235　地図番号 62　項目名 捨てる 335\nA 普通注意　(B 欠いた共通語)　(C 欠いた特殊語)　ページ (7)\nA・(B)・(C)ごとに別紙を使用する。 その中での音調は地点番号順に並べる。 注記の<>()は厳密にする。\n見出し: 地点番号 / A 語形とその注記（B・C 欠いた語形とその注記） / A 注のたい語形（B・C 残した語形とその注記）\nsüteru（多）　ho:ru.\nsutsum’（支所の人は musutsum’ といったが）　süteru.\nsadesuteru（捨りする）　süteru.\nホカス（共、希）　ステル。\nステル（普）　シテル。\nホカス（新呉、希）　シテル。\nホカス（希）　シテル。\nシテル（普）　ステル。\nhokasii（新）　süteru.\nホカス（希）　ステル。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01541.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01541",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01541.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-42 質問番号 235 地図符号 62. 項目名 捨てる 235 A 普通注記 (B 欠いた共通語) (C 欠いた特殊語) ページ (8)\nA・(B)・(C)ごとに別紙を使用する。 その中での書順は地点番号順に並べる。 注記の＜＞（）は略称にする。\n地点番号／A語形とその注記（B・C 欠いた語形とその注記）／A 記のない語形（B・C 残した語形とその注記）\n6467. 73 suteru〈古〉　ho:ru.\n6474. 50 ホカス〈新〉　シテル。\n6488. 48 horu〈古〉　siteru.\n6494. 21 ホル（ホルではない。ホルで、ホレ〈掘る〉ではない。）\n6529. 88 butjaru. bitjaru.〈差別なし〉\n6542. 58 ホカス〈古〉／ホル（ホカスも多く用いるが、ホルの方が一般的である。）\n6551. 77 horu. hokasu.（どちらも使う。）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01542.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01542",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01542.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料利用票　注記一覧　15-43 質問番号 235／地図番号 62. 項目名 捨てる ページ (9) 見出し: 地点番号｜A 言形とその注記｜A 注のない語形 46 horu.（木カスとは言わぬ。ホルと短く言う。） 14 ho:ru（捨てる意味以外に投ずる意味もあり。） 79 horu〈古〉　suteru 41 ho:ru（古）（多） hokasu（新）（少） 93 suteru（ホカスことを suteru と言うという説明） 90 suteru〈古〉〈今は suteru もいう〉　hokasu. 32 horu（知らずに落とすのに対して、置き忘れのはっきりした場合には suteru ともいう。） 35 フテル〈少〉　ステル。 89 sippokasu（あっぺの言い方）意味は同じ。- uttsaru（くすなな言い方）。 A 音通注記／B 狭い共通語／C 狭い特殊語",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01543.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01543",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01543.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-44\n質問番号 225  地図番号 62\n項目名 捨てる 335\nA 普通注記／B 聞いた先語？／C 聞いた特殊語？（ページ 10）\n\n〈注意〉\n・A・B・Cごとに別表を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の〈 〉（ ）は厳格にする。\n\n表見出し：\n地点番号／A 語形とその注記（B・C欄に書いた語形とその注記）／A 注のない語形（B・C欄に書いた語形とその注記）\n\n行内容（語形・注記など）:\nuttfaru. （昔がらのことば）  suteru.\nbutfaru. 〈希〉  bitfaru.\nbutfaru. 希  mifaru?／u(f)aru?  suteru.\nutfaru. 多?  suteru.\nutfaru. 異・吉  suteru.\nutfaru. 〈希〉  suteru.\nsutsuru 〈古〉  suteru.\ngiteru  ?は  suteru.\nho:ru  ともいう  jiteru.\nhokasu. （多く使う）  suteru.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01544.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01544",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01544.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-45\n質問番号 235.　地図番号 62? \n項目名 捨てる（すてる）\nA・B・Cごとに別紙を使用する／その中での情報は地点番号順に並べる／注記の〈 〉（ ）などは適宜にする などの注意書き\n\n表見出し：地点番号｜A 語形とその注記｜A 語のたい語形\n\n02 ho:karu（普通語にそう）｜ho:ru\n31 usutsuru〈強調した言い方〉｜sutsuru\n19 u(ts)uru〈下〉｜suturu\n63 (ch)uitsuru〈下〉｜sutsuru\n59 ufitsumu〈古い言い方〉｜m/itsumu\n01 sutetsukuru〈多〉／ufietsukuru〈2番目に多い〉｜ufitsuru\n98 sutsumu（希），ufitsumu（？）｜sutemu\n85 ufitsuru〈この語についてならず重意味する。なお、なくなるには tsukkokasu もある。〉\nページ（11）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01545.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01545",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01545.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [],
+    "other_text": "15-46 日本言語地図資料用紙 注記一覧  A・(B)・(C)ごとに別紙を使用する。その中での書類は地点番号順に並べる。注記のく( )は傍訓にする。  質問番号 235  地図番号 62  項目名 捨てる  A（○）  ページ (12)  見出し: 地点番号 / A 語形とその注記（B・C書体その他）/ A 注のない語形  記載語句: ufitsuru, ussuru（意味・用法について。保高時とは別でないと思う）; urakasu（殻に粉末したり、おとしたりした時は ussuru という）; makuru（下）; ho:ru ― 鼻（ho:te koi などという由。）右欄: suteru; horisitemu〈投げすてる〉意。右欄: siteru; makumu〈多量の物を捨てる〉; Futeru〈多〉 右欄: suteru; horu〈投げすてる〉／makuru（下）（らんぼうにすてる など）右欄: suteru; suteru（多）／suteru（いちばん多い）右欄: hokasu; hokasu〈古〉 右欄: horu.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01546.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01546",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01546.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [],
+    "other_text": "A・[B]・{C}ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）は傍訓にする。 日本言語地図資料用紙 注記一覧 15-47 質問番号 235 地図番号 62 項目名 捨てる A 普通話 B 聞いた共通語 C 聞いた特殊語 ページ (13) 見出し: 地点番号 / A 語形とその注記 / A 注のない語形（B・C 兼し備考と注記） 記入: hokasu ＜古＞ | suteru issuru ＜どんづいは言い方＞ | gittsuru ussuru 《捨てる意にも終る意にも使う？》 ussuru. （粉失した場合 自分意見を放って捨てた場合にいうようだ） Fussuru, ussuru（俗）〈同義〉 sutirjun（新） | sitirjun",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01547.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01547",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01547.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 質問番号 235 地図番号 62 A 普通注記 B 聞いた異形 C 聞いた特殊語 ページ（1） 項目名 捨てる\nA語形とその注記［B・C：聞いた語形とその注記］\n33 suteru〈今・これも彼々が〉 nageru〈多〉\n67 ステル〈新〉 ナゲル（多）\n77 ステル（上品） ナゲル\n17 suteru〈央〉 butfaru.\n62 Suteru〈ヒ〉 betfaru.\n02 suteru〈央〉 butfaru.\n96 Suteru〈共希〉 nageru.\n26 suteru〈ク〉（新）（この頃使うことが多くなり、又子供に対した時も使う。） butgaru〈古くから用い、今も〉 使う。\n87 suteru〈央〉 butfaru.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01548.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01548",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01548.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-49\n質問番号 235\n地図番号 62\n項目名 捨てる\nA …\nB 聞いた…\nC …\nページ (2)\n\nA・(B)・(C)ごとに類似を使用する。\nその中の順位は地点番号順にそろえる。\n注記の( )は該当語にする。\n\n見出し: 地点番号／A 音形その他の注記（B・C 欄ない語形とその注）／右欄の注\n82 suteru 〈共〉 / nageru, buttsaru 〈希〉\n76 suteru 〈上〉 / nageru\n30 suteru 〈これも使うこともある〉 / nageru（これが普通の言い方）\n74 suteru 〈新〉 / hottaru\n09 suteru 〈新〉 / hokaru\n22 ステル 〈央〉 / シテル・ホカル\n92 ステル 〈央〉 / シテル・ホカル\n02 ステル 〈央〉 / ホウル?・ホカル・シテル\n28 suteru 〈央〉 / buttsaru\n80 suteru 〈新〉 / buttsaru",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01549.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01549",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01549.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に記べる。 注記のく＜＞（）｛｝は略記にする。 日本言語地図調査用紙 注記一覧 15-50 質問番号 235 地図番号 62 項目名 捨てる ページ (3) 地点番号／主な語形とその注記（B-Q 貸した語形とその注記） suteru 〈上・共〉 butfaru. suteru 〈共〉 butfaru. suteru 〈登〉 butfaru. ステル 〈新〉 （古くからの形、範囲広） suteru 〈共〉 butfaru. ステル 〈新〉 アッけァル（古くからの言い方） suteru 〈共〉 butfaru. suteru 〈共〉 betfaru. suteru 〈新〉 butfaru. suteru 〈共〉 butfaru.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01550.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01550",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01550.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙  注記一覧 15-51\nA・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈 〉（ ）は段階符にする。\n質問番号 235／地図番号 62／項目名 捨てる 85 （4）\n見出し: 地点番号／A欄 言形とその注記（B・C欄）／A他の言形（B・C欄 残した語形とその注記）\n行内容（文字部分）:\nsuteru〈共〉 — bitʃaru.\nsuteru〈新 史〉 — butʃaru.\nステル〈新〉 — ブチャアル〈クナ〉\nsuteru〈上〉 — bitʃaru.\nsuteru〈共〉 — butʃaru.\nsuteru〈新〉 — butʃaru.\nsuteru〈上〉 — butʃaru.\nsuteru〈共〉 — butʃaru.\nsuteru〈新〉 — butʃaru.\nsuteru〈共〉 — butʃaru.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01551.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01551",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01551.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用統 … 記一覧\n質問番号 235\n地図番号 62.\n項目名 捨てる\nページ (5)\n\n（表見出し）地点番号／…\n\nsuteru 〈共〉    butʃaru.\nsuteru 〈共〉    [ butʃaru ]\nステル。〈上〉    ウッチャル〈普〉\nsuteru 〈共〉    butʃaru.\nステル。〈共〉    ブチャアル。\nsuteru    uttʃaru.\nsuteru 〈上〉    uttʃaru.\nステル 〈共・新・希〉    ホケル\nsuteru. 〈今〉    hokasu（普）\nステル。〈稀〉    ホカス\n\nA・(B・C)ごとに類形を使用する。\nその中での順序は地点番号順に定める。\n注記の（）は該当語にする。\n15-59",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01552.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01552",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01552.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧 15-53\nA・(B)・(C)ごとに別紙を使用する。／その中での情報は地点番号順に並べる。／注記の＜＞（）は厳密にする。\n質問番号 235　地図番号 62　項目名 捨てる　ページ(6)\n6489. 01 ステル〈…〉　ホル、ホカス\n6534. 37 suteru.〈共通語的〉　hokasu\n6537. 58 s:teru〈共〉　hokaru\n6541. 52 ステル〈新〉　ホッテクル\n6557. 14 suteru〈?新〉（較分新しい言い方だと思うが…）　'butʃaru.（大和人はubuたれるとも云っている。）\n6600. 97 suteru〈奄〉　butʃaru.\n6601. 93 suteru〈共〉　bitʃaru.\n6602. 62 suteru〈希〉　bitʃaru.\n6611. 61 suteru〈上・新〉　bitʃaru.\n6620. 53 suteru〈共〉　butʃaru.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01553.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01553",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01553.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6621.57",
+      "6625.66",
+      "6631.53",
+      "6633.27",
+      "6634.33",
+      "6635.20",
+      "6641.39",
+      "6643.15",
+      "6645.01",
+      "6650.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-54\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <> () は厳密にする。\n\n（上部欄）235 62.\n項目名 捨てる 235\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (7)\n\n（表の見出し）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A中の共通語（B・C残した語形とその注）\n\nsuteru　新　butfaru.\nsuteru　（希）　u'tfaru.\nsuteru　新　butfaru希　u'tfaru.\nsuteru　新　u'tfaru.\nsuteru　新　u'tfaru.\nsuteru　少　u'tfaru.\nsuteru　新　u'tfaru.\nsuteru　上　u'tfaru.\nsuteru　新　u'tfaru.\nsuteru　上　u'tfaru.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01554.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01554",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01554.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6650.94",
+      "6655.38",
+      "6665.01",
+      "7382.01",
+      "7401.60",
+      "7403.21",
+      "8393.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 15-55\n質問番号　地図番号\n235　62\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\n(8)\n\n項目名　捨てる 235\n\n地点番号\n6650.94  suteru  上    utsuru\n6655.38  suteru  上    utsuru\n6665.01  suteru  新    utsuru  sutetsukuru\n7382.01  suteru  <新>  ujitsuru, ujitetsukuru\n7401.60  suteru  <上>  siteru\n7403.21  suteru  <上>  makuru <下>\n8393.69  sutsuru <共>  ussuru (希) Fussuru\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01555.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M062Q235/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01555",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01555.tif",
+    "source_ljc_id": "LJC-M062Q235",
+    "source_map_numbers": [
+      "062"
+    ],
+    "source_title": "すてる (捨てる)"
+  }
+]

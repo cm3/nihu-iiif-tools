@@ -1,0 +1,191 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "3619.08",
+      "3760.93",
+      "3731.15",
+      "4731.42",
+      "4751.62",
+      "4760.98",
+      "5557.48",
+      "5567.46",
+      "5569.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-11\n質問番号　地図番号\n173　167\n項目名　こめ\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ ( / )\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n\n地点番号\nA 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nkome　eは狭いe\nKome　<靴は[une]>\nkomie　eは狭いe\nmomi　（殻のついた状態 のがここである）kome\nkome　<脱ごく後>\nmomi　<脱殻前>\nkome　eは狭いe\nkome　<kome は ene から取る>\nkome　<半は伝らない>\n? ?x",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05111.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M167Q173/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05111",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05111.tif",
+    "source_ljc_id": "LJC-M167Q173",
+    "source_map_numbers": [
+      "167"
+    ],
+    "source_title": "こめ (米)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "5617.85",
+      "5633.45",
+      "5644.24",
+      "5662.22",
+      "5680.34",
+      "5685.02",
+      "5685.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-12\n資問番号 173　地図番号 167　A 普通注記　ページ (2)\n項目名 こめ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n5617.85  kome  <稲枝めには水田も陸田もなく 米を作ることができない。昔は米を そう食べなかった。>\n5633.45  kome  <皮をとったり>    momi\n5644.24  kome  <稲でさぬ>\n5662.22  momi  <皮をかよっている場合は kome と言う方がいい。>\n5680.34  kome  <稲をkomeという。>\n5685.02  kome  <全然作らない>\n5685.37  kome  <但し作らない>\n\n（手書きの語形・注記が複数行にわたって記入されている。読み取りは概略。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05112.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M167Q173/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05112",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05112.tif",
+    "source_ljc_id": "LJC-M167Q173",
+    "source_map_numbers": [
+      "167"
+    ],
+    "source_title": "こめ (米)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5686.31",
+      "5696.68"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）［ ］は厳密にする。\n日本言語地図資料用紙　注記一覧　51-13\n質問番号　地図番号\n173　167\n項目名　こめ\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ（3）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n（手書き）こめ　<箱作がこの辺で行われるように\nなったのは終戦後、水の便が\n改良されてからのこと。\n陸路はすこしあった。>\n（手書き）kome, momi\n<もみがらを取り去ったものを momie>\n（以降手書きの長い説明あり、判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05113.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M167Q173/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05113",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05113.tif",
+    "source_ljc_id": "LJC-M167Q173",
+    "source_map_numbers": [
+      "167"
+    ],
+    "source_title": "こめ (米)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5698.30",
+      "5752.32",
+      "5792.18",
+      "5793.20",
+      "6554.08",
+      "6562.22",
+      "6576.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-14\n質問番号 173    地図番号 167\n項目名 こめ\nA 普通注記  -  ページ (4)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )( )[ ]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n5698.30  kome  <皮をむいたもの>   momi\n5752.32  Kome  <たべるときこなければいわない>  momi\n5792.18  kome  eは使いe\n5793.20  kome  eは使いe\n6554.08  コメ  (最初モミと答えた。)\n6562.22  コメ  <脱穀したもの>\n6576.28  コメ  (モミ それからくゲンマイ?)\n\n(手書きの語形と注記はおおよその読み取り)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05114.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M167Q173/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05114",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05114.tif",
+    "source_ljc_id": "LJC-M167Q173",
+    "source_map_numbers": [
+      "167"
+    ],
+    "source_title": "こめ (米)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6583.93",
+      "6603.52",
+      "6631.05",
+      "6652.06",
+      "7218.09",
+      "7218.58"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-15\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n（右上の欄）質問番号　地図番号　(73)　169　項目名　こめ　A　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（5）\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n6583.93　kome　ここにはイネという語はない。田に植えてあるのもコメという。米作しないからだろう、コメメリにいく、などという。\n6603.52　kome　zimai　日本米　（手書き）\n6631.05　okome　＜日本にあるまでの称＞\n6652.06　kome　玄米　（手書き）\n7218.09　kome　＜momiの外皮をとり去ったもの＞　momi\n7218.58　kome　＜からをとったもの＞　momi\n\n（その他手書き注記多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05115.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M167Q173/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05115",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05115.tif",
+    "source_ljc_id": "LJC-M167Q173",
+    "source_map_numbers": [
+      "167"
+    ],
+    "source_title": "こめ (米)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "7249.95",
+      "7321.46",
+      "7322.21",
+      "7381.47",
+      "7659.31",
+      "8305.73",
+      "8345.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-16\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n質問番号　地図番号　(73)　167\n項目名　こめ\n普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7249.95　もと　もとはからのついたもの。\n7321.46　kome　福岡市福岡で は okome と言う\n7322.21　kome　<皮をはいだもの>　momi\n7381.47　(ナシネ)　<籾のついたままの米>\n7659.31　kome　精白米　momi\n8305.73　momi, kome\n8345.74　momi　<からをかぶっているもの>\n\n(米のことをそるという変てはない。)\n箱 -> 初 -> 米の積りで答えて\n113.)\n\n（以下手書き注記、省略箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05116.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M167Q173/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05116",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05116.tif",
+    "source_ljc_id": "LJC-M167Q173",
+    "source_map_numbers": [
+      "167"
+    ],
+    "source_title": "こめ (米)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "8355.23",
+      "0294.66",
+      "1271.05",
+      "2072.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-17\n(欄) 資料番号 地図番号 (173) 167\n項目名 こめ\nA 普通注記 - ページ (7)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n8355.23   kome   <製米したもの>\n0294.66   momi   <穀のついたもの>\n1271.05   kome   <製米したもの>\n2072.20   Fami   <この場合は humi と言わず>\n\n（残りの欄は空欄）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05117.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M167Q173/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05117",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05117.tif",
+    "source_ljc_id": "LJC-M167Q173",
+    "source_map_numbers": [
+      "167"
+    ],
+    "source_title": "こめ (米)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6447.84",
+      "6517.65",
+      "2072.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-18\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n資料番号　地図番号\n（手書き）173　167\n項目名　こめ\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n6447.84　オコメ　＜上＞　コメ\n6517.65　オコメ　（オコメはていねいな言いかた）　コメ\n2072.20　mai　＜物のこと＞　mmi　＜本＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05118.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M167Q173/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05118",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05118.tif",
+    "source_ljc_id": "LJC-M167Q173",
+    "source_map_numbers": [
+      "167"
+    ],
+    "source_title": "こめ (米)"
+  }
+]

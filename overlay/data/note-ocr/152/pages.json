@@ -1,0 +1,695 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0716.46",
+      "0840.33",
+      "0894.61",
+      "2750.43",
+      "2790.38",
+      "2790.41",
+      "3704.57",
+      "3712.15",
+      "3744.18",
+      "3783.08",
+      "2782.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-44\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　/152\n項目名　釣銭　091\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ ( / )\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n0716.46　ツリセン〈上〉　ツリ\n0840.33　tsüiri〈古〉　otsüiri\n0894.61　kaerisen〈希〉　tsüri+sen\n2750.43　ツリュ〈る〉　ツリ\n2790.38　kaeri〈くち〉　tsiri\n2790.41　kaeriko〈古〉　tsüriiko\n3704.57　tsüri〈新〉　kaeriko~keriko\n3712.15　kaeriko〈古〉　tsüri\n3744.18　オズリッコ〈敬〉　ケリ, ツリ\n3783.08　o'tsüik 新〉, tsüri senko〈-番ちい〉　tsüri kko\n2782.67　tsüri ko〈新〉　keriko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04544.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04544",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04544.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3785.42",
+      "3793.37",
+      "4619.63",
+      "4629.43",
+      "4644.10",
+      "4647.87",
+      "4652.79",
+      "4654.52",
+      "4665.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-45\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の<>()[]は厳密にする。\n質問番号 地図番号 152\n項目名 釣銭 091\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (2)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nオズリ (ウ)　ケアステア\nケアステア (老)　オズリ\nogaeji <今・上> (オガエシは被調査者...) が商店でならその立場での言葉か\nt(ri)r (上)　(読みあり)\ntsuri <稀>　tsurisen\nmodori <希>\nkaerisen <古>, tsurisen <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04545.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04545",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04545.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4672.19",
+      "4657.64",
+      "4657.88",
+      "4658.42",
+      "4667.33",
+      "4675.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-46\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n質問番号　地図番号\n/152\n項目名　釣銭　091\nA　普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（3）\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4672.19　morosi (modoji の変方説であろう)\n4657.64　kaeri <くち>　　　　　　　　　　　　　　　　otsari\n4657.88　tsurisen <新>, kaeri <くち>\n4658.42　KE:dri (KE:iri の ri は d音を含んだ...)\n4667.33　ケアリ (Kêri) ...\n4675.45　KE:risEN (はじめ kaerisenと言った)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04546.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04546",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04546.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4676.67",
+      "4677.65",
+      "4685.72",
+      "4686.52",
+      "4687.37",
+      "4688.45",
+      "4689.86",
+      "4692.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-47\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n\n質問番号　地図番号　/152\n項目名　釣銭　091\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n4676.67  amari    amari kita (釣が...また)\n4677.65  tswrisen <笑>, tsuri <家の者に対(に使う)>\n4685.72  tsuri <た>\n4686.52  kaeri <た><希>\n4687.37  kaeri (笑)\n4688.45  ke:ji <多>\n4689.86  kɛ:si <ち・多>\n4692.92  kɛ:ji <希>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04547.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04547",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04547.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4701.73",
+      "4704.45",
+      "4706.53",
+      "4711.41",
+      "4711.82",
+      "4714.22",
+      "4716.20",
+      "4721.36",
+      "4723.12",
+      "4731.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-48\n質問番号　地図番号　/152\n項目名　釣銭　091\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (5)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4701.73　ogadesii <椀>　昆どりし\n4704.45　ケアスデア <老>　オズリ\n4706.53　odzwt liko <る> 〈金額が少ない場合が多い〉\n4711.41　(kaeri) (kaeri)\n4711.82　kaesüj(en) (被調査者は商人ではない)\n4714.22　[kɛ:s t d e:] <くち>\n4716.20　kɛ:i d e: <む>\n4721.36　[kaesüj(e)j] [odzuri] <e> (tsüri(e)j)<e>\n4723.12　otziri (買う側から) kœ:s ide: (売る側から)\n4731.42　(kaeri)fen] [tsüri]fen] <希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04548.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04548",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04548.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4731.85",
+      "4744.32",
+      "4753.76",
+      "4760.02",
+      "4760.64",
+      "4760.98",
+      "4763.11",
+      "4771.58",
+      "4772.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-49\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　/152\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (6)\n項目名　釣銭　091\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n[kaerí](jey)    kœ:s i~ d e:\ntsüüri(en) <新>    odzu~ri\nkaeʃtdae <古>    odzu~ri i\ntsüürisen <新>    kaerisen\n(kaerí(en), tsüürí(en))\notsüuri  ...\nka:eriʃɯen <岩>\nkæ:side(ː)\namaki <古>\notsuuri <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04549.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04549",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04549.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4781.86",
+      "4790.74",
+      "5508.19",
+      "5612.22",
+      "5615.28",
+      "5617.85",
+      "5618.43",
+      "5628.66",
+      "5643.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-50\n質問番号　地図番号　152\n項目名　釣銭　091\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ ( )\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n行1: kaeri <くち>　　　　tsurisen\n行2: kaefi + <希>　　　　tsutri\n行3: tsiris en (yinaりに南) : えたらしく、そうじる　　(続き手書き注記)\n行4: otsure <上>　　　　tsure.\n行5: kaeri <ちょく/変化まで...>　tsurisen\n行6: ke:si <ち・希>　　　tsuri\n行7: tsurisen <新>　　　ke:si\n行8: つり <多く使う>　　ツリセン\n行9: otsuri (やる/...そば)　　tsuri\n\n(手書きの注記や一部判読困難な文字あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04550.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04550",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04550.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5658.89",
+      "5667.81",
+      "5669.19",
+      "5672.52",
+      "5672.75",
+      "5675.87",
+      "5678.33",
+      "5679.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-51\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n質問番号　地図番号\n/52\n項目名　釣銭　091\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（8）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注]\nツリセン　新（言い方）　オツリ\nツリセネ＜多・古＞　ツリ\notsuirlsen　ていねいな言い方　Otsuri\ntsurisen＜新＞　otsuri\ntsuri＜希＞　otsuri\nツリ　（普通・特にツリが言いより）\nツリゼネ\nオツリ　……子に対して。\nオツリ＜善＞\notsuiri　（荒）tsuirisen",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04551.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04551",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04551.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5685.37",
+      "5686.57",
+      "5687.32",
+      "5687.86",
+      "5688.01",
+      "5688.19",
+      "5702.52",
+      "5711.85",
+      "5730.71",
+      "5741.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-52\n質問番号 地図番号 152 普通注記 ページ (9)\n項目名 釣銭 091\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A・注のない語形 [B・C 残した語形とその注]\n5685.37  tsuurisene <希>     oturi\n5686.57  オツリ <多>         ツク\n5687.32  オカネ <普>         ツリ, ツリセン\n5687.86  オツリ <装>, ツリセン <店員などに対(1)>\n5688.01  オツリ <普>          ツリ\n5688.19  tsuurisen <強った言い方>  otsaturi\n5702.52  tsuri <魚の...>      otsaturi\n5711.85  (手書き不明)\n5730.71  オツリ <普>         ツリセン\n5741.66  ozuiri <上> ただ(苦し笑)  tsuiri\n(下部に続く手書きの語形・注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04552.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04552",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04552.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5780.57",
+      "5782.79",
+      "5790.79",
+      "6339.86",
+      "6359.38",
+      "6369.32",
+      "6379.67",
+      "6389.69",
+      "6411.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-53\n質問番号　地図番号　/52\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (x01)\n項目名　釣銭　091\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き一覧（おおよその読み）:\n5780.57    tsuuri　(語) otsuuri\n5782.79    tsürişen (?)\n5790.79    tsuuri  下\n6339.86    ツリ 〈希〉　オツリ\n6359.38    コシ　古　ツリ\n6369.32    コシ ち ← 漢\n6379.67    コシ (希)\n6389.69    コシ も.希\n6411.66    チリ <く> ねいな語>\n(以下欄あり、手書き注記と対照列あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04553.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04553",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04553.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6420.60",
+      "6430.53",
+      "6476.17",
+      "6486.07",
+      "6494.55",
+      "6509.38"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　45-54\n質問番号　地図番号\n項目名　釣銭　091\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語\n---表ヘッダ---\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n（各行の手書き欄）\nツル〈くち〉　　ツリ\nツリセン〈新〉　ツリ\nツリ〈多〉　　ツリセン\nオカエシ　雑貨商である銀洞査者の…　ツリ、オツリ、ツリセン\n（筆記の長文注記）　得意先と／答えたところで他の店ではあんまり使わないが、その店では尊オカエシというとのこと\nオツリ〈ツリではない・オツリである？〉\nツリセン〈補〉　ツリ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04554.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04554",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04554.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6509.43",
+      "6624.65",
+      "6543.56",
+      "6552.88",
+      "6554.08",
+      "6564.51",
+      "6580.66",
+      "6582.12",
+      "6591.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）[　]は厳密にする。\n日本言語地図資料用紙 注記一覧 45-55\n質問番号　地図番号\n項目名　釣銭　091\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\nページ (V2)\n地点番号欄見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nツリ　<ツリセンとは言わない>\notsuri　多く使う\nツリ　<やや古>\ntsuri　とは強い準音\nツリ、ツリセン　<...>\ntsuri　<くおうつう>\nカア　<も>\n\"　同上\nツリ (ツリセンという人もある、また老人で? )\n(下部手書き注記：...発音する。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04555.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04555",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04555.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6595.32",
+      "6603.82",
+      "6605.37",
+      "6625.17",
+      "6630.43",
+      "6634.32",
+      "6639.79",
+      "6642.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-56\n質問番号 地図番号 152\n項目名 釣銭 091\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (13)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　＞（　）（　）[　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6595.32　ハァ（昔）　オツリ\n6603.82　オドゥリ（ドゥの子音はそりるのと）　トゥリゼーン\n6605.37　オツリく多＞　ツリゼーン\n6625.17　Otsuki　いちばん多く使う　tsuri, tsurisen\n6630.43　tsūri, otsūri ＜よるさ（普通に使う）＞\n6634.32　Okaeri　普通に使う　otsuri\n6639.79　tsurisen ＜希＞　otsuri\n6642.58　tsuri　otsuri　tsurisen",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04556.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04556",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04556.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6643.72",
+      "6652.06",
+      "6661.02",
+      "6665.25",
+      "7311.68",
+      "7423.80",
+      "7426.61",
+      "7340.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-57\n質問番号 地図番号 15-2\n項目名 釣銭 091\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (Y4)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ntsuri, tsurisen 上    otsuri\notsuri 上    tsurisen'i\ntsurisen (希)    otsuri\nOtsuri (tsurii はと-のようなから言わなかった)\ntsururi(i)\n(i-ma の中間 あいよい音)\nuwaku <も>    tsuti\n\"\" <少>\nコイゼン nokojizera ぐツイはないわ ない> (ゼイネアに近い..)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04557.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04557",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04557.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7341.42",
+      "7372.27",
+      "7373.89",
+      "7381.97",
+      "7391.46",
+      "7404.56",
+      "7414.87"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-58\n質問番号　地図番号　/　項目名　釣銭　091\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（45）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )[ ]は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n7341.42　ツイセン + tsuizen 　せ・・の子音は z と j との中間的なもの。\n7372.27　ツリセン <新>　オツリ\n7373.89　ツリセン [～sen]　ツリ\n7381.97　ツリセン [tsutwsen]\n7391.46　ツリル [tsu:ri:ti][tsui:ti,u]\n7404.56　otsuri　参考 [前回の支払いに残りが…]\n7414.87　uwaku <う>　tsuris e h\n\n（手書き注記やローマ字表記、読み方の説明等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04558.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04558",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04558.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "7423.80",
+      "7424.67",
+      "7426.61",
+      "7432.85",
+      "7433.37",
+      "7441.89",
+      "7442.39",
+      "7446.26",
+      "7461.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-59\n質問番号　地図番号　/152\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　46\n項目名　釣銭　091\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\nuwaku <くち>　futi\noturi <多>, uwako <少> , uwako <少>　futi\nuwako <少>　futi\n<古> uwaku　turi\nuwako <古>　turi\nuwaku ..... <音使用(21.39を例)> oturi\notuki <多>, uwaku <少>\nuwaku (手書き注記)\notuki <共> uwaku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04559.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04559",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04559.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7461.77",
+      "7470.29",
+      "7471.38",
+      "7500.66",
+      "7501.14",
+      "7521.79",
+      "7522.48",
+      "7523.30",
+      "7533.11",
+      "8301.19"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >() [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 45-60\n質問番号 地図番号 152\n項目名 釣銭 091\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (47)\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7461.77    uwaku <昔>, tsukisen <今>\n7470.29    uwaku <多>\n7471.38    uwako 使用度少し\n7500.66    オカ <古>\n7501.14    カア <くち>\n7521.79    (同上)\n7522.48    (同上)\n7523.30    (同上)\n7533.11    (同上)\n8301.19    ツリシェン (〜SEN) (ウワクリは用いない…)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04560.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04560",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04560.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "8301.76",
+      "8313.72",
+      "8313.88",
+      "8314.52",
+      "8324.83",
+      "8334.25",
+      "8333.43",
+      "0237.79",
+      "0257.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-61\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ]は厳密にする。\n質問番号　地図番号\n項目名　釣銭　091\nA 普通注記　(B 除いた共通語)\n[C 除いた特殊語]　ページ\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n8301.76　ツリセン〈新〉\n8313.72　tsui (tsuri or の音化)\n8313.88　tsui (ツリのイ音化)\n8314.52　tsui (これは諸県的な言い方である。)\n8324.83　tsui (ツリのリの音化)\n8334.25　tsuisen (センはやつ口変化?)\n8333.43　tsuii / tsuizen (手書き注記／(K) oturi)\n0237.79　tiri〈希〉\n0257.12　'tiri〈希〉　tsui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04561.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04561",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04561.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "0294.93",
+      "1261.80",
+      "2075.22"
+    ],
+    "other_text": "日本音語地図資料用紙 注記一覧 45-62\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉()[]は厳密にする。\n（右上の枠）質問番号　地図番号　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (V9)\n（枠内）項目名　釣銭　091\n表見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き行1: 0294.93    tsuji    tsi:\n手書き行2: 1261.80    ke:simumu/si:    ke:ji\n手書き行3: 2075.22    kaisi(<うく用>..3)    kaihu\n(残りの行は空白)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04562.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04562",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04562.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "1756.32",
+      "1757.61",
+      "2703.18",
+      "2741.46",
+      "4619.29",
+      "4638.43",
+      "4654.52",
+      "4666.51",
+      "4686.52",
+      "4688.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-63\n[小欄] 質問番号　地図番号　152\n項目名　釣銭　091\nA 普通注記　B（除いた共通語）　C（除いた特殊語）　ページ ( / )\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () は厳密にする。\n表ヘッダ：　地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n行（本文の注記、左の番号は省く）:\nオツリ〈希〉\tツリセン\nオツリ〈雅〉\tツリセン\notsuri〈雅〉\ttsuri sen / tsurisen\nオツリコ〈笑〉\tツリコ\t→ 地図にのせるべきだったかもネ（手書き注）\ntsuiri / tsui ri 〈新〉\tke:ri (手書き、不確か)\notsuri〈笑〉\tKE:RI\nOtsuri〈新〉\tmodori〈希〉\nOtsuri〈上〉\ttsuri, tsurisen\nOtsuri〈新〉\tkaeri〈も〉〈希〉\ntsuri〈笑〉\tke:ji〈多〉\n（手書きの英字・ローマ字は一部不確か、括弧内は原稿の注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04563.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04563",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04563.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "4711.41",
+      "4731.85",
+      "4742.37",
+      "4761.57",
+      "4784.41",
+      "5568.57",
+      "5574.42",
+      "5588.78",
+      "5589.30",
+      "5598.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-64\n質問番号　地図番号\n/152\n項目名　釣銭　091\nA　普通注記\n除いた共通語\n除いた特殊語\n(2)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4711.41  [otsūri] <上>  [kaeri] (kaeri)\n4731.85  [otsūri] <上>  [kaeri](se)\n4742.37  tsuuri <新>  kεs†dε:\n4761.57  otsūri <多>  tsūrisen\n4784.41  otsūri <新>\n5568.57  オツリ <上>\n5574.42  Otsūki (otsuri は ね.. が言い方)  tsuki\n5588.78  オツリ <J>\n5589.30  オツリ <共>\n5598.67  オツリ <J>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04564.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04564",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04564.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5599.41",
+      "5609.81",
+      "5611.74",
+      "5612.39",
+      "5623.85",
+      "5631.16",
+      "5633.46",
+      "5664.57",
+      "5667.81",
+      "6700.28"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-65\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( ) [ ]は厳密にする。\n\n質問番号　地図番号　152\n項目名　釣銭　091\nA　普通注記　ページ\n(除いた共通語)\n(除いた特殊語)　(3)\n\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nOtsuri <あらたまった時使う>　tsuri\nOtsuri <よく> <丁寧に言う時>　ツリ\nOtsuri (上)　ツリ、ツリセン\nOtsuri <よく言ったとき>　tsuri\nOtsuri <上>　tsuri\nOtsuri <でね…に言ったことば>　tsuri\nOtsuri <でわ…な言い方>　tsuri\nOtsuri <新>　ツリ、ツリセネく多… (手書き)\nOtsuri <…>　tsuri",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04565.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04565",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04565.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5790.79",
+      "6368.60",
+      "6423.75",
+      "6424.20",
+      "6429.15",
+      "6447.84",
+      "6460.10",
+      "6485.14",
+      "6485.82",
+      "6491.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-66\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n質問番号 地図番号 1/52\n項目名 釣銭 091\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\nOtsuri / otsüri / Otsüri <上>  tsuri  tsüri  ツリ  ツリセン  tsuri-sen",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04566.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04566",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04566.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6505.58",
+      "6512.09",
+      "6518.87",
+      "6526.04",
+      "6526.45",
+      "6529.15",
+      "6537.06",
+      "6547.67",
+      "6564.51",
+      "6568.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-67\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n質問番号　地図番号\n項目名　釣銭　091\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nオツリ〈上〉\nツリ\notsuri〈上〉\ntsuri\nオツリ〈英〉\nツリ、ツリセン\nオツリ〈英〉\nツリ セン\nオツリ〈上〉\nツリ\notsuri〈上〉\ntsuri\notsuri〈や、上品〉\ntsuri\notsuri〈上〉\ntsuri",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04567.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04567",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04567.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6581.52",
+      "6594.69",
+      "6610.00",
+      "6611.68",
+      "6629.24",
+      "6639.03",
+      "6648.13",
+      "6652.77",
+      "6697.59",
+      "6711.85"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-68\n質問番号　地図番号\nA　普通注記　(B)除いた共通語　(C)除いた特殊語　ページ\n釣銭　091\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nオツリ　<笑>　ツリ\nオツリ　<丁寧>　ツリ\nオツリ　<やや丁>　ツリ\nOtsuri <上> tsuri\nOtsuri <上> tsuri\nOtsuri <上> tsuri\nOtsuri <上> tsuri\nOtsuri 新 tsurisen\nOtsuri <上> tsuri\nOtsuri <上> tsuri",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04568.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04568",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04568.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7339.27",
+      "7420.81",
+      "7500.66",
+      "7510.18",
+      "7521.16",
+      "8303.70",
+      "8363.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-69\n質問番号 地図番号 1 52\n項目名 釣銭 091\nA 普通注記 ページ (7)\n除いた共通語 除いた特殊語\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7339.27   dtsuri  <上>      tsuri\n7420.81   otsuri  上        tsuri\n7500.66   オツリ <表?>     ツリ、オカ <古>\n7510.18   ”               カア\n7521.16   ツリ <実>        カア\n8303.70   オツリ <新>      ツリセン\n8363.64   tsuri <上>       tsuri",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04569.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M152Q091/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04569",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04569.tif",
+    "source_ljc_id": "LJC-M152Q091",
+    "source_map_numbers": [
+      "152"
+    ],
+    "source_title": "おつり (釣銭)"
+  }
+]

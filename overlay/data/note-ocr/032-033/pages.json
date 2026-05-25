@@ -1,0 +1,1148 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0779.03",
+      "0840.33",
+      "0894.61",
+      "0896.22",
+      "1715.53",
+      "0724.95"
+    ],
+    "other_text": "0724.95. motob koi <kかりか不明>\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の < > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 7-33\n質問番号 070.\n地図番号 032 033\n項目名 クスクツタイ\n(A) 普通注記  [B] 除いた共通語  [C] 除いた特殊語 (1)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n0779.03  kotjobai <古>    kusuyuttai\n0840.33  motfokoi <古>    kosobai\n0894.61  mosonjai <弱くした時>\n         kotjo~bitai / kotjo~pitai <強くした時>\n0896.22  コソバイ <古>\n         クスクッタイ <新>  (一部抹消あり)\n1715.53  motfokoi (motforyasu と動詞化するとりになる。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00733.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00733",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00733.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1739.85",
+      "1742.55",
+      "1762.10",
+      "1763.60",
+      "1793.27",
+      "1816.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 7-34\n質問番号　地図番号\n070.　032　033\n項目名　クスクッタイ\n(A)普通注記 (B 除いた共通語) (C 除いた特殊語) (2)\n\n地 点 番 号　　A 語形とその注記 [B・C除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n1739.85.　kosobai　<kot(o)gonataiという人もある　けど: わしらは　こう言う>\n~1742.55.~　kasobai　<kusungatte jaru ても>　(抹消)\n1762.10.　クスクッタイ　<多>　　　モチョコイ\n1763.60.　クスクッタイ　<四国人はコッサイという>　モチョコイ　高松の辺だけん;\n1793.27　クスクッタイ　<多>　　　モチョコイ\n1816.52　コソバイ　<ろ?>　　　クスクッタイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00734.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00734",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00734.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "1848.24",
+      "1942.03",
+      "2751.10",
+      "2774.59",
+      "2782.67",
+      "2783.73",
+      "2803.22",
+      "3639.49",
+      "3649.16",
+      "1863.48",
+      "2703.18",
+      "2763.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号 070 地図番号 032 033\n項目名 クスワツ91?   A 普通注記  [B 除いた共通語]  [C 除いた特殊語] ページ (3) 7-35\n\n手書き上部: 1863.48 2703.18 2763.28 クツグッタイ (親はクッバイと言った) Kusugwttai (g は?) NR. (同席の枝長, motjokotjoiと言うと) motjokoi\n\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n表本文（地点番号を除く手書き注記）:\nmotfokoi くもと > (右欄は黒塗り)\nmotfokoi <くるともの時>\nモチョコイ <新丁>\nモチョクチェ (右欄)\nkusignute [新?]\nmotfokotşe (動詞引は kotjonasu)\nmotfokotşe <動詞引は kotjonast>\nモッチョコイ 多.\nクソペッタイ 外.\n\ngotso kuitze. 他動詞. gotfogasui\nmosokae, gotso gotso suirin.\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00735.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00735",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00735.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3649.58",
+      "3720.58",
+      "3726.25",
+      "3734.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈　〉( ) [ ] は厳密にする。\n\n日本言語地図資料用紙　注記一覧　7-36\n質問番号　070　地図番号　032　633\n項目名　クスクッタイ\n(A)普通注記　(B除いた共通語)　(C除いた特殊語)　ページ(4)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]\n\nto, mosokaegui narii トイラカラ,\ngotlogotfo を使った言葉がある\nと思うが出て来なかった。\n\n3649.58. üdɟakɯe, <のみ> そのものそもをする\nmosokke (語)\n\n3720.58. kotfokiitze, kotfogasii (動物)\n\n3726.25. モジョコガル... 形容詞にもどし\nてモジョコイと考える。 徳川シルス。\n\n3734.42 モッチョコ チョガル、MOCCYOKO-\nCROI と同乎す。 徳川シルス。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00736.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00736",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00736.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3764.92",
+      "3790.96",
+      "3772.32",
+      "3781.21",
+      "3791.02",
+      "4629.43",
+      "4643.47"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n070 032 033\n項目名 クスクッタイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ 7-37 (5.)\n\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nコツコタガル。－コツコタイと解す。\nmosogxe (形容詞か？) 〔取り消し線〕\nkotsogui tze. 動詞、kotsogasui\nmosokæ, 動詞 gotogæsui\nmosoke, (M) kotjoke\nmosoke はムズムズする様子\n\nkosobate ＜稀上＞ kotobate\nmozogaii, cf. くすぐるは kotjo-bakasu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00737.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00737",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00737.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4648.04",
+      "4652.79",
+      "4653.02",
+      "4653.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 7-38\n質問番号 070　地図番号 032 033\n項目名　クスク, 91\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n4648.04　!*[kotʃobate:], はじめ! kotʃo-base: と答え。鬼女（45才）に言われて訂正した。\n4652.79　kotjobakate: ＜多＞　kotʃobate:\n4653.02　kutsibakatai, 上から順に使用度数　kutsubakatai, が多くより、つまり、一番\n　　　　kotʃibakate:, 下が一番多く使われる。\n　　　　一 -tai は -te: とすることの方が多い。\n4653.47　muzugai: ＜足の裏先：体の部分＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00738.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00738",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00738.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4654.52",
+      "4663.06",
+      "4663.49",
+      "4665.87"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)(　)[　]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　7-39\n資料番号　地図番号\n070　032　033\n項目名　クスブッタイ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n(7)\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n的感じを言う>\nkutsukate: <くわきの下についてのみ言う。\nこれは全身的な感じである>\n\n4654.52  !muzugai (動詞としては、ku-\ntsubakasu, koto/kotfo\nsuru がある。)\n\n4663.06 kotjobakate:; 動詞は kotfobasu\n4663.49 mozoge:, 動詞は koto kotfo-\nsiru\n\n4665.87 Emusubutte <新> <友人や家族>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00739.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00739",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00739.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4666.17",
+      "4666.51"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　7-40\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[]は厳密にする。\n\n資料番号　070　地図番号　032　033\n項目名　クスクッタイ\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（8）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nに対して用いる。新しい言い方。\nkosubakkoe <若い時から用い、今も多く用いる。>\n<用いる。>（しかる人\nいかなる場合に用いるかは不明である。）\n\nkotjobakoe <新>\nkotjobatae <これをもって使うことが多い。>\n\nkuusubutai <新>\nkotjobakko <古-現>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00740.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00740",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00740.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4685.72",
+      "4689.10",
+      "4694.26",
+      "4695.21",
+      "4711.42",
+      "4742.37",
+      "4686.96",
+      "4687.39"
+    ],
+    "other_text": "4686.96 [kosobaTkoe] 4687.39 [!kotokotæ]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n日本言語地図資料用紙 注記一覧    7-41\n\n(小箱)\n資料番号 地図番号\n070   032 033\n項目名 クスクッタイ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (9)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n4685.72    kusubuttae <新>                                              koto/bakkoe\n4689.10    kotomutae・<希>\n4694.26    !koto bakkoe <古> <子供の時使われ>\n4695.21    kusubutte <昔 kusubutte とは別の語があった様だが 分らない。> <kusubutteは現在用いる語で、上品な語である。>と言った。\n\n4711.42    kotsunyute <古>                                               kosingute.\n4742.37    kutsunyute. [[kotfikunte?]]\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00741.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00741",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00741.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4744.10",
+      "4751.42",
+      "4760.64",
+      "4761.93",
+      "4763.45",
+      "4743.44",
+      "4760.98"
+    ],
+    "other_text": "4743.44 Kuttssarguttae <?>\n4760.98 Kutsüngute: , (unreadable)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく < > ( ) は厳密にする。\n日本言語地図資料用紙 注記一覧 7-42\n質問番号 070 地図番号 032 033\n項目名 クスクッタイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語]\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n4744.10 kusunjuttae ((kuttsangjuntae))\n4751.42 kotjobitai <今はこうもういう>　kotjobutai\n4760.64 kutsuikutte <人にさわられた様な場合>\nmosonari <軽度の場合>\n4761.93 muusuinjutai <普通>　kutsüngmutai\n4763.45 kutsat gattte: (クスクッタイのグ...)\nは坂元地方一般にはしりである。この被調査者は、鼻の故障のため[?]となった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00742.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00742",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00742.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4763.62",
+      "5463.12",
+      "5548.58",
+      "5557.48",
+      "5567.46",
+      "5576.96",
+      "5549.32",
+      "5565.12"
+    ],
+    "other_text": "5549.32 tjokoba;ii (チョコワシイに近い) -BASIIに入れて音声注、加藤シルス. 5565.12 [コトバスィ]\n日本言語地図資料用紙 注記一覧 7-43\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく><()[]は除落にする。\n（右上の欄）質問番号 070 地図番号 032 033 A 普通注記 ページ (11) 項目名 クスクッタイ\n（表上部）地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]\nものてあろう。\n4763.62 kuttstuggutte (りとgは任意に\nkutsutgutte 交替するようである)\n5463.12 コチョバカシ\n（コチョベフルく他人に行うこと）\n5548.58 uzarayajai (まだほかに何かあり\nそうである.)\n5557.48 kotfonajii くダ?    kasoyajii\n5567.46 クツバカシイ <希他>    コトガ・シィ\n5576.96 koso bakal <多>    koso bal",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00743.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00743",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00743.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5586.56",
+      "5598.67",
+      "5611.39",
+      "5613.48",
+      "5613.53",
+      "5615.28",
+      "5624.85",
+      "5625.91",
+      "5614.62"
+    ],
+    "other_text": "5614.62 kotsobatte kotsubatte: (二番目の発音) KOCU 単用\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 7-44\n（右上の箱）質問番号 070　地図番号 032 033　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (12)\n項目名 クスグッタイ\n（表の見出し）地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\nA欄（語形・注記）:\nkii tsubazii <く>\nコソバユイ <共>\nkotsobaji: <古>\nkotsubaji: <古>\nkotsumbaji <若い女の人は、 kusu-buteと言う>\nmogotte:, 動詞は mogowasu\nkutsumbate:, (3) kututse: <前代>\nmozogae (?)\n同じ部落に.[mogottjae]（富沢）\n右欄（注記・残した語形）:\nkosobai\nコソバイ\nkusuguttaz\nkusugutte\n（その他の空欄や手書き注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00744.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00744",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00744.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5629.23",
+      "5632.28",
+      "5633.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n（右上箱）質問番号　地図番号　032 033\n070 033\n項目名　クスグッタイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (13)\n\n（表ヘッダ）地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n弥一郎氏のあることや、被調査者も「くすぐる」を mogusuu と答えていることをふまから考えて、mozogae の答えはあやしいし、「もぞがゆい」感じを言うことは、よからうか。\n\n5629.23.　グズ、ブッ、タイ　くすぐりのことは: 今も使う\n5632.28.　kusugutttai (kutsubasu という動詞があって、対応している)\n5633.45.　!momokke (momokkasu という)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00745.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00745",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00745.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5633.81",
+      "5636.74",
+      "5638.53",
+      "5641.07",
+      "5641.99",
+      "5642.17",
+      "5642.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n\n質問番号 070　地図番号 032 033\n項目名　クスグッタイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (19)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n（動詞詞があって、対応している。）\n\n5633.81   mudzukkai (mudzu kajuiである)\n          modzukkai <ふつうの言い方>\n5636.74   クスクッテエ <多、新>                ムグッテエ\n5638.53   グズグッタイ <多>                    ムズグッタイ\n5641.07   kutsu battai <共>                     kutsubatte:\n5641.99   kutsubattai <古>                      kusunyuttai\n5642.17   modzukkai <古> 語                    kusuyuttai\n5642.31   !kutsubattai <動詞注釈は黒塗り>        kutsubasute いう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00746.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00746",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00746.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5643.33",
+      "5644.74",
+      "5645.89",
+      "5646.12",
+      "5651.95",
+      "5652.06"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜　＞（　）は厳密にする。 日本言語地図資料用紙 注記一覧 質問番号 地図番号 070 032 033 項目名 クスグッタイ (15) 地点番号 A 語形とその注記〔B・C除いた語形とその注〕 A注のない語形〔B・C残した語形とその注〕 5643.33 modzukke ＜どれも普通に使う＞ momotte （この語に対応する動） momoke （詞は momokkasu） 5644.74 ムグッテエ ＜古＞ 5645.89 ムグッタイ ＜多＞ クスクッタイ 5646.12 ムグッタイ ＜多＞ クスクッタイ 5651.95 kusubutte ＜希＞ kutsubatte: 5652.06 kutsubattai （対応する動詞とし） modzukke ＜古＞ て kutsubasu, modukkasu がある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00747.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00747",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00747.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5652.22",
+      "5652.8",
+      "5652.96",
+      "5653.08",
+      "5654.98",
+      "5655.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > < () [] は厳密にする。\n\n日本言語地図資料用紙注記一覧\n質問番号 070 地図番号 032 033\n項目名 クスクッタイ (A 普通注記) (B 除いた共通語) (C 除いた特殊語) ページ (16)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n5652.22    kusyutte: (動詞は kutsu- kusub3tte: basu)\n5652.8     kutsubattai <共>    kytsubatte:\n5652.96    momottjii\n           \"kusuyuru <上>\"\n           (参考までに: クスクルことを kotobasu と言っている.)\n5653.08    mugukajae <上>    mugukke:\n5654.98    ムグッタイ <方>\n5655.41    ムグッタイく古、多",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00748.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00748",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00748.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5655.57",
+      "5655.97",
+      "5657.06",
+      "5661.34",
+      "5662.78",
+      "5663.01",
+      "5664.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号 070 地図番号 032 033 項目名 クスクッ タイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (17)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n5655.57 ムグッタイ <歩>    クスクッタイ\n5655.97 モグッタイ <見>    ムグッタイ\n5657.06 ムグッテエ <タ>\n5661.34 kutsubattai (動詞は kutsu-basu)\n5662.78 !kutsubatte: (動詞は kutsu-basu)\n5663.01 momokkai <動詞葉は momo-kusubuttai <希> 語 kkasu>\n5664.51 momokkai (動詞は momokasu)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00749.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00749",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00749.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5664.58",
+      "5665.89",
+      "5666.85",
+      "5667.29",
+      "5667.41",
+      "5667.77",
+      "5667.81",
+      "5669.19",
+      "5670.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n質問番号 070   地図番号 032 033\n項目名 クスクッタイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (18)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5664.58　ムグッタイ〈クヮ〉　　　クスクッタイ\n5665.89　ムグッタイ〈古〉　　　　クスブッタイ\n5666.85　ムグッタイ〈古〉\n5667.29　ムグッタイ〈古〉\n5667.41　ムグッタイ〈くゎ・古〉　　クスグッタイ\n5667.77　muguutte:、動詞は muguusu\n5667.81　モグッタイ〈古〉\n5669.19　küzüi yutte, ksügiütte とは言わない\n5670.47　kutsubatte, kutsubakkoi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00750.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00750",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00750.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5671.00",
+      "5671.36",
+      "5671.38",
+      "5672.52",
+      "5672.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n\n質問番号 070    地図番号 032 633\n項目名 クスワッタイ\nA 普通注記\n[B] 除いた共通語   [C] 除いた特殊語   ページ (19)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n＜両方使う、同じ意味せ＞\n(kutsubasuという動詞がある。)\n\n5671.00  kutsubattai <共>        kutsubatte:\n5671.36  kutsubatte: <kutsubasuと。\n         kutsubatte: !>\n5671.38  kutsubatte <む>         kusunyuttai\n5672.52  kutsubattai (動詞は kutsu- bakasu)\n5672.75  kutsubattai (対応する動詞は kutsubasu>)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00751.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00751",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00751.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5675.87",
+      "5676.52",
+      "5676.84",
+      "5677.28",
+      "5677.60",
+      "5678.33",
+      "5679.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧\n（右上ボックス）資料番号 070　地図番号 032 033　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (20)　項目名 クスクッタイ\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5675.87　モクッテエ…普通（家庭内、近所）　クスクッテエ\n5676.52　ムプッタイ　〈普通のことは？〉但し、クスプッタイ　使用する場合、両者の区別なし\n5676.84　ムグッテエ〈普〉　　ムグッタイ\n5677.28　クスクッテエ〈家庭〉\n5677.60　クスッタイ〈普通〉\n5678.33　クスグッタイ〈普〉　　ムグッタイ\n5679.31　ksiinguttae, [~giu~] が予想　ksiingutte, されるが、答えは[~yuu~]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00752.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00752",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00752.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5679.86",
+      "5680.34",
+      "5680.98",
+      "5681.41",
+      "5682.37",
+      "5685.02",
+      "5685.37"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n質問番号 070 地図番号 032 033\n項目名 クスクッタイ (手書き)\n(A 普通注記) (B 除いた共通語) (C 除いた特殊語) ページ (21)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n5679.86    ksuynutte (荒) ksuynuttae\n5680.34    kutsubakkoi, 動詞は kutsu-bakasu\n5680.98    kutsubakkoi (kutsubakasu という動詞がある。)\n5681.41    !kutsubakkoi, その動詞は kutsu-bakasu.\n5682.37    kusubattai (動詞は kusubakasu)\n5685.02    muugutte: <mugusii (v)>\n5685.37    muuguttai (動詞は mugunsu)\n\n（手書きの英字・ローマ字表記は原稿通りに記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00753.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00753",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00753.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5686.31",
+      "5688.0",
+      "5690.27",
+      "5690.96",
+      "5694.99",
+      "5698.19",
+      "5723.36",
+      "5792.28",
+      "6403.62",
+      "5741.25",
+      "6262.68",
+      "6375.40"
+    ],
+    "other_text": "5741.25 musunyutte: (gususyutte: どう人もいる)\n6262.68 tsokowai..... we: にあらず\n6375.40 kusubaii idjiri kusubaii という\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〔〕は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n\n調査番号 070  地図番号 632 633\n項目名 クスクッタイ\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (22)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5686.31  muguutte:, mugusu(u)\n5688.0   クスグッテェ  <普>    クスクッタイ\n5690.27  kutsubakkoi (kutsubakasu (v))\n5690.96  !kutsubakkoi <好まことを言うもんです>\n\n5694.99  モモッタイ <下>    モモッタイ\n5698.19  koso bai <上>    kusuaryuttau\n5723.36  gusuyuttae <方>    musunyuttae\n5792.28  kotofunte: <普通>    koso fute:\n6403.62  kotfo baji: (子供)    kasobaji:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00754.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00754",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00754.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6414.25",
+      "6424.20",
+      "6424.89",
+      "6424.92",
+      "6429.61",
+      "6437.07",
+      "6437.23"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の< >()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n質問番号 070\n地図番号 032 033\n項目名 クスクッ、タイ\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (23)\n\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nkutsuja: <kutsujai, 付近に ai>\nja: があるため、> （筆記あり）\nkutsui bai: <これを言う人もあるが koso bai: 私は用いない>\nkusubai: 湯原町種 kutsubai: 語 kutsubai:\nコツバイイ <新>    クツバイイ\nクスバイイ <普通>  クソバイイ\nコソバイイ <希>    クスバイイ\nクツバイイ <普>    クツワイイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00755.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00755",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00755.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6476.92",
+      "6476.93",
+      "6482.52",
+      "6484.43",
+      "6485.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号 070 地図番号 032 033\n項目名 クスグッタイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (2p)\nA・[B][C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><()[] は厳密にする。\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6476.92  (取り消し線) コッサイ〈古〉    コスバイ\n6476.93  コッサイ、コッサカスナ、コッテイカン が、くすぐるを、くすぐったく ていやらしいかぞ、の意味\n6482.52  kutsubai (動詞は kutsubasu)\n6484.43  コツバイ くこれは誤聞方面では！クスバイ 普通の言い方のように思 われる。\n6485.14  クスバイ〈共〉(コッパカシテヤロカ。動) コツバイ〈古〉 語にすると、上のように",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00756.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00756",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00756.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6485.82",
+      "6491.49",
+      "6491.65",
+      "6576.85",
+      "6522.03",
+      "6526.04",
+      "6538.02",
+      "6509.91",
+      "6513.24",
+      "6531.53",
+      "6577.31"
+    ],
+    "other_text": "6513.24. kosobai (-aiはややæ:に近し)\n6577,31 コソバエイ くすぐることをコソクル カイイ という。\nA・[B]・[C]ごとに別紙を使用する。\n6531.53. その中での情報は地点番号順に並べる。\n注記のく <> [] は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n質問番号 地図番号 032 033 070 033\n項目名 クスクッタイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (25)\n\n地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形 [B・C 残した語形とその注]\n\nコソバカスである。\n\n6485.82 コソバイ〈上〉\nクスバイ〈下〉\n\n6491.49 kosobai（動詞形は〈kosobasu〉である。）\n\n6491.65. kosobai, 動詞形は〈kosobasu〉\n\n6576.85 コソバユイ〈共〉　　　コソバエエ\n6522.03 コソボイ〈古〉　　　コソバイ\n6526.04 コソバユイ〈共〉　　　コソバエエ\n6538.02 ksubettæ:〈古〉〈老人に多い〉　kosobai:\n\n6509.91 カエエ〈他〉\n\n但し、この図には KAll（後記）カイイ として、専用に採った。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00757.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00757",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00757.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6542.58",
+      "6542.24",
+      "6549.03",
+      "6551.18",
+      "6556.60",
+      "6558.09",
+      "6557.36"
+    ],
+    "other_text": "6557.36 [kuusubeto:]  日本言語地図資料用紙 注記一覧\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）は厳密にする。\n（右上の小箱） 資料番号 070 地図番号 032 033 項目名 クスグッタイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (26)\n----------------------------------------\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6542.58    コソバイ， 一般に一度でおわらずコソバイコソバイと二度くり返すのが，普通のようである。\n6542.24    kosobai: ＜同地点には、こういう人もかなり多い＞＜他＞    kosobete?（手書き）\n6549.03    ksbettai ＜新、共＞    ksbete:\n6551.18    クスボオナル。 ＜クスバイ 形容詞とみる＞ …徳川シルス（手書き判読困難）\n6556.60    コソグッタイ ＜未希＞    コソバイ\n6558.09    ksyutte: （幾分悪い言い方）    ksyutttai\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00758.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00758",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00758.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6564.33",
+      "6566.57",
+      "6580.66",
+      "6586.27",
+      "6593.98",
+      "6600.53",
+      "6603.52",
+      "6604.98",
+      "6575.40"
+    ],
+    "other_text": "6575.40. [kosoba:]   kosobai\n日本言語地図資料用紙 注記一覧\n質問番号 070   地図番号 032 033   項目名 クスグッタイ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  (27)\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A 注のない語形 (B・C 残した語形とその注)\n6564.33 kosobai (最初 kai kai と答えたが、本人が自分の答えを妙だと感じて訂正したもの。)\n6566.57 koso bajai <早く言うと Kosobai かな>\n6580.66 コショバイ <女がよく使う>    コソバイ\n6586.27 kusubai <古>    kosobai\n6593.98 kutsubai <古> (クツバーとは ちがぬようである)  kusubai <新>\n6600.53 kusubuttai <希>    kutsubakkai\n6603.52 momottai, 動詞 momosu\n6604.98 モモッティイ (ティは忙しい!)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00759.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00759",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00759.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6607.18",
+      "6608.89",
+      "6610.77",
+      "6620.49",
+      "6620.53",
+      "6621.57",
+      "6624.65",
+      "6626.06",
+      "6630.82"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧\n質問番号 070　地図番号 032 033\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2P)\n項目名　クスクッタイ\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6607.18  kusuyuttja: <倍>　　　　kusuyuttai\n6608.89  kusunutte: <倍>　　　　kysuyuttai\n6610.77  !kutsubakkoi,　　　　kutsubakasu (動詞)\n6620.49  kysukuttai <共>　　　　musukuttai\n6620.53  kutsubettai <古>　　　　kysuyuttai\n6621.57  musunyu'tai, musunguruku?　　musuku'tai\n6624.65  kusunyu'tai, 動詞はkusunguru\n6626.06  kusumuttai [imuzumuttai]　という人もある。\n\n6630.82  *! gusunyuttai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00760.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00760",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00760.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6633.27",
+      "6635.59",
+      "6642.33",
+      "6655.97",
+      "6711.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[]は厳密にする。\n日本言語地図資料用紙 注記一覧\n質問番号 070　地図番号 032 033　項目名 クスクッタイ　普通注記　ページ 29\n（表見出し）地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\nkusunyu'tai 多。　mozungu'tai\nguzunyui'texe ＜ろ＞\nmosonyutai, 今の子どもも使っている。\nkusunyui'tai, 234は guzunyuru と言うか；この場合の guzunyui'tai という言い方はしない。\nkojoppe:； ppe:＜ppoi＞\nkojoppoi, ppai でえい根様はえいかが、boiというのがほかにあるし。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00761.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00761",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00761.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6721.31",
+      "7218.58",
+      "7237.67",
+      "7238.82",
+      "7258.69",
+      "7266.92"
+    ],
+    "other_text": "7-62\n日本言語地図資料用紙注記一覧\n質問番号 地図番号 032 033\n070\n項目名 クスクッタイ\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (30)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n（手書き上部）\nマブライテ、そのあたりに poj; poi まとがあるので、以上のせりく 判定、徳川シルス。\n\n6721.31  koso kyute: <希>    kusubutte:\n7218.58  tokobeka <古>       kosobaika\n7237.67  gotjobaika. (御崎では kasobaika kotjobaika えと?)\n7238.82  kotjobaika <ク>     kosobaika\n7258.69  コソバイ (エ)       コチョマイ\n7266.92  kosogaika [新?]     kojugayka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00762.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00762",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00762.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7279.93",
+      "7336.71",
+      "7338.48",
+      "7341.57",
+      "7349.07",
+      "7320.59",
+      "7345.43"
+    ],
+    "other_text": "7320.59 Kosobaika\n(形容詞語尾のイとかとはニュアンスが異なるのである。調査者（都築）の所説。これを同一扱いにしようとするのは、言語研究家として不用意であると確信する。用法も異っている。)\n7345.43 tcokobai: tço = tçjo\n日本言語地図資料用紙 注記一覧\n調査番号 070 地図番号 032 033\n項目名 クスクルタイ (3/1)\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n7279.93 koso maika 〈新〉\n7336.71 tfokobai: 〈87〉\n7338.48 N.R. (全県ほとんど kosobai を使うのであるが、クスクルのを ko-birakasu とか ibirakasu とかいう、とは答えが、その感じを表わす語は出なかった。)\n7341.57 koso baika 〈新〉\n7349.07 kosobai 〈くすぐるは Kosobakasu という〉\n右欄メモ: kosubaska kotfomaika kosobai: kotfobaika",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00763.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00763",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00763.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7349.91",
+      "7350.96",
+      "7352.6",
+      "7352.97",
+      "7373.56",
+      "7373.99",
+      "7386.56",
+      "7390.26",
+      "7393.62",
+      "7394.85"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n（右上の箱）070　地図番号　032　033　項目名　クスクッタイ　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(32)\n\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　　A 注のない語形［B・C 残した語形とその注］\n7349.91　kutsubai <希>　　　　　　　　　　　　　　　kosobaii\n7350.96　kosowaika <新>　　　　　　　　　　　　　　kotjowaika\n7352.6　　コチョバイカ (子)　　　　　　　　　　　　コソバイカ\n7352.97　コチョバイカ <子>　　　　　　　　　　　　コソバイカ\n7373.56　コソバイカ <新>　　　　　　　　　　　　　チョコバイカ\n7373.99　チョコバイカ <子>　　　　　　　　　　　　コソバイカ\n7386.56　kotfobai: <多>　　　　　　　　　　　　　tjokobai:\n7390.26　コチョバイカ <子>　　　　　　　　　　　　コソバイカ\n7393.62　コソバイカ <新>　　　　　　　　　　　　　チョコバイカ\n7394.85　tfokobai: (共通語のつもりらしい)　　　　　kosobai:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00764.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00764",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00764.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7400.15",
+      "7401.11",
+      "7401.60",
+      "7403.86",
+      "7406.53",
+      "7418.33",
+      "7436.68",
+      "7405.2"
+    ],
+    "other_text": "7-65\n（右上の欄）\n日本言語地図資料用紙　注記一覧\n資料番号　070　地図番号　032　033　ページ(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語　(33)\n項目名　クス　グッタイ\n\n（左上の注意事項）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）[　]は厳密にする。\n\n（表の見出し）\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n7400.15.  kosobai: , くすぐることは <kosobakasuu>\n7401.11.  kosobai (動言詞は <kosobakasuu>)\n7401.60.  kosobai (動力詞は kosobakasuu)\n7403.86.  kosobai (kusubai to ju:mo n mo aru と言っていた)\n7405.2/   kosobai -> 上品な言い方。 kai:\n7406.53.  kosubja: (昔) -> 分布は ai>ja でさそうらが? kosubai , kosubai を認める (12-13 備州ツルス?)\n7418.33.  kusubai (古)\n          kosobai (新)\n7436.68.  kusubai , 高知あたりではコソバイ\n\n（右下の手書き注記や丸囲みなどがある）」}",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00765.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00765",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00765.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7501.14",
+      "7502.22",
+      "7570.18",
+      "7573.69",
+      "8305.9",
+      "8335.48",
+      "7659.31",
+      "8303.70",
+      "8341.12"
+    ],
+    "other_text": "7659.31\n8303.70\n8341.12\n* mutsuko:sikja.\nユチョバイカ〈ユチョバシカ〉\n* kosoβaika\n7-66\nkutsüβaika ~85\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >〔 〕は厳密にする。\n\n質問番号 030  地図番号 032 033\n項目名 クスクッタイ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (34)\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n7501.14   クスバイ くすくまい>        クスバウィ\n7502.22   kusubai [新?]               kusuboi\n7570.18   コソバイ <くゝ>              \n          クスバイ、くざっという時、訛って言う>\n          クスワエ\n7573.69   クスバイ <多>               コソバイ\n8305.90   tʃokobai: <古>\n          kosobai: <新>\n8335.48   kosobai: <近頃は kosobai: を使>\n          tʃokobai: [古] うが、時には tʃokobai:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00766.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00766",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00766.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "8342.35",
+      "8355.23",
+      "0237.79",
+      "0246.97"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 資料番号 070 地図番号 032、033 項目名 クスクダイ (手書き) A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ 35 (手書き) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] という時もある。>(tjokobai:は彩着に言われて被調査者も恐むす。) 8342.35 tsyukuzi:wari (ツクジルは、こそぐるに当る、ワリは悪いでする) 8355.23 tjokobai <希> kosobai 0237.79 hagusari <いやだ、気さまの悪いという義> 0246.97 hagosam <カユイことは jugosam という。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00767.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00767",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00767.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "0257.12",
+      "0294.66",
+      "0294.93",
+      "1211.69",
+      "1213.76",
+      "1242.00"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n質問番号 070    地図番号 032 033\n項目名 (handwritten)\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (36)\n\n（表見出し）地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n0257.12    jogo'sam  <本来はカユイという意味>\n0294.66    hajosan  [hajosan はカユイが語原である。]\n0294.93    muzasan, muzasa でも終止する。\n1211.69    haguhay  古。\n           hagusan  新\n1213.76    ko:saji, ko:saji でも終止する。\n1242.00    watji hagosan, これは寄留氏 watjipagohan 民\n\n右上書き込み: 7-68（以前7-67 とある）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00768.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00768",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00768.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "1271.05"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞()[]は厳密にする。 日本言語地図資料用紙 注記一覧 質問番号 070 地図番号 032 033 項目名 クスプッ 91 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (37) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] の影響によって、もとの形に、もど（したのであろう。） 1271.05. Phago: θɐN θ = 1 *玉ago: θɐN",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00769.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00769",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00769.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "0747.70",
+      "1747.04",
+      "1747.55",
+      "1848.24",
+      "1863.48",
+      "1942.03",
+      "2700.48",
+      "4694.26",
+      "6568.92",
+      "0896.22",
+      "3689.75"
+    ],
+    "other_text": "0896.22 3689.75 クスグッタイ〈新〉 (モチャコイ)〈モチョコイ〉…今の子供の言葉 god32e コソバイ〈古〉 god32egod32edae.?-70\n\n日本言語地図資料用紙 注記一覧\n\n質問番号 070 地図番号 032 033\n項目名 クスグッタイ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n0747.70 kusunyuttai〈後にまって〉　motjokoi　コソバイ\n1747.04　クスグッタイ\n1747.55　kusunyuttai〈希〉〈kusunyutte jaruともいう〉から　kosobai (一部抹消あり)\n1848.24　kusunyuttai〈今〉　motjokoi〈もと〉\n1863.48　(抹消された行)\n1942.03　kusunyuttai〈今〉　motjokoi〈子どもの時〉\n2700.48　クスグッタイ〈共〉　モチャコイ\n4694.26　kusuguttace〈新〉　!kotjobakkoe〈古〉\n6568.92　カワ　クツアカス\n\n（手書き注記・取り消し線・推定読みあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00770.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00770",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00770.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "5613.80",
+      "5629.23",
+      "5644.94",
+      "5657.95",
+      "5652.06",
+      "5642.67"
+    ],
+    "other_text": "5642.67 [kutsubatte:]    mozukkae 7-71\n日本言語地図資料用紙 注記一覧\n質問番号 070    地図番号 032 033\n項目名 クスクッ タイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< [] は厳密にする。\n\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nkusunuttae <新>    <子供の時、使った。> kot[oba]ji:\nクズクッ タイ <新>    グズクッタイ(古くか) のことば; 今も使う\nクスクッテェ <新><中>    ムクッテェく古>\nkusunuttai <上>    kutsubatte: kusubutte <希>\nkusunuttai <共> (変化する動詞) として kutsubasu, modzukkasu がある。    kutsubattai modzukke <古>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00771.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00771",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00771.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "5652.37",
+      "5653.60",
+      "5653.65",
+      "5654.98",
+      "5655.41",
+      "5657.53",
+      "5661.34"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号\n070　032　033\n項目名　クスグッタイ\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ (3)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\nkusunuttae <共>    kutsubatte\nkusunuttae <共>    !momokkae\nkusunuttae <共>    momokke:\nクスグッタイ <タ>    ムグッタイく<多>\nクスクッタイ <新,サ>    ムグッタイく古,多>\nクスクッタイ <新>    ムグッタイ　モグッタイ\nkusunuttai <共>    kutsubattai\nkutsubattai (動詞はくkutsubasu>)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00772.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00772",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00772.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "5666.85",
+      "5667.24",
+      "5667.81",
+      "5671.94",
+      "5672.75",
+      "5677.28",
+      "5677.60",
+      "5684.11"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧\n資料番号 070　地図番号 032 033\n項目名　クスクッタイ\n\n地点番号    A語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n5666.85.　クスクッタイ＜新＞　　　ムクッタイ＜古＞\n5667.24　　クスクッタイ＜新＞　　　ムグッタイ＜古＞\n5667.81　　クスクッタイ＜新＞　　　モグッタイ＜古＞\n5671.94　　ku tsunu ttai＜共＞　　　kutsubattai\n5672.75　　kusunuttai＜上＞\n（対応する動詞は <kusyuru>）　　　(対応する動詞は kutsu basu >)\n\n5677.28　　クスクッタイ＜共＞　　　クスクッテェ＜家庭＞\n5677.60　　ムグッチィ（子か）　　　クスクッタイ＜普通＞\n5684.11　　kusuyuttai＜新、共＞　　momekkajai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00773.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00773",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00773.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "5691.37",
+      "6409.00",
+      "6438.33",
+      "6449.84",
+      "6457.18",
+      "6500.88",
+      "6576.1",
+      "6526.98",
+      "6601.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号\n070　032　033\n項目名　クスグッタイ\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5691.37 kusuyuttai 新.    momokke:\n6409.00 クスグッタイ〈共,上,希〉    !kutsubattai\n6438.33 クスグッタイ〈新〉    コソバイイ\n6449.84 クスグッタイ〈共〉    コンバイ\n6457.18 クスグッタイ〈案行?〉    コンバイイ\n6500.88 kusugutai〈希〉    kusubai:\n6576.10 クスグッタイ〈共〉    コンバイエエ\n6526.98 クスグッタイ〈共〉    コンバイエイ\n6601.93 kusunuttai〈新〉    kusubettai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00774.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00774",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00774.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6602.62",
+      "6604.02",
+      "6604.15",
+      "6613.77",
+      "6615.09",
+      "6625.17",
+      "6631.53",
+      "6635.54",
+      "6642.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<>()[]は散布にする。\n070 032 033 クスプッタイ (6)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6602.62　kusunut'tai <芥>　!kusubakkoi\n6604.02　クスプッタイ <共>　モモッタイ\n6604.15　クスプッタイ <2又まった場合に言う>　モモッタイ\n6613.77　クスクッタイ <新>　モモッタイ\n6615.09　クスプッタイ <共>　!モモッタイ\n6625.17　kusungui'tai 上　guzuguu'tæ:\n6631.53　kusungu'tai 新　musuŋu'tai\n6635.54　kusungu'teze 上　guzungu'teze <方>\n6642.33　kusungu'tai 上　mosonuttai, 今の子供も使っている。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00775.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00775",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00775.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6643.16",
+      "6645.62",
+      "6686.75",
+      "7362.67",
+      "8239.31",
+      "6677.41",
+      "7258.82",
+      "7374.15",
+      "7659.31",
+      "8203.7"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n（右上の小箱）\n質問番号　地図番号\n070    032 033\n項目名　クスクッタイ\nA 普通注記  (B 除いた共通語) (C 除いた特殊語)\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nkusungu'tai　新.　　　　musungu'tai\nkusungu'tae (T)(希)　　 guzugu.gut'tae\nkusuguttai <新>　　　　 guzuguttai\nクスグッタイ <上>　　　 コチョハイカ\nkusuaçika <そんさいま発音> kusugajika\nkai:　　　　　　　　　　*kusurutte:\n[kot]obaika　　　　　　kotjowaika\n[モゾガイイ]　　　　　　コソバイイ\nkusuguttai　　　　　　　*mutsuko:jikja\n\n(下部に取り消し線のある番号) 8203.70\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00776.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M032Q070/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00776",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00776.tif",
+    "source_ljc_id": "LJC-M032Q070",
+    "source_map_numbers": [
+      "032",
+      "033"
+    ],
+    "source_title": "くすぐったい (擽ったい)"
+  }
+]

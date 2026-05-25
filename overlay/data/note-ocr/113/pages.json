@@ -1,0 +1,122 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "3762.85",
+      "4663.92",
+      "4781.86",
+      "4782.04",
+      "4784.41",
+      "4792.43",
+      "5568.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　29-94\n質問番号　地図番号　037　113\nA 普通注記　（B 除いた共通語）　（C 除いた特殊語）\n\n（表見出し）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形【B・C残した語形とその注】\n\n3762.85　Mana [Mは (F) に近い]\n4663.92　hana　高い所は ha'nato:ge\n4781.86　hanado <古>　<hanadoは、いま80くらいの人がつかう>\n4782.04　hanado <hanadoは使ったことない。よくきく>\n4784.41　hanado <古>\n4792.43　hanado <昔>\n5568.57　! ハナベット <ハナベットは鼻の先を指にいう場合もある。>　ハナ\n\n（その他手書き注記、欄外の小さな記入等あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02994.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M113Q037/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02994",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02994.tif",
+    "source_ljc_id": "LJC-M113Q037",
+    "source_map_numbers": [
+      "113"
+    ],
+    "source_title": "はな (鼻)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "5617.85",
+      "5628.23",
+      "5648.13",
+      "5701.25",
+      "5711.85",
+      "5723.36",
+      "5741.25",
+      "6488.85"
+    ],
+    "other_text": "日本音韻地図資料用紙　注記　-29-95\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n質問番号　037　地図番号　113\n項目名\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n（表ヘッダ）地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5617.85　hanado　<な><hanadoは全部の人が使ったようでもない。使ったことがない>　hana\n5628.23　hanado　<えは hanamedo>\n5648.13　hana　<え方は hanamedo>\n5701.25　hanado　<hanadoは在のことは? 使ったことはない>　hana\n5711.85　hana　<鼻の穴を hanadoという>\n5723.36　hanado　<右>\n5741.25　hanado　別に調査した 他の被調査者になれば? hanado　hana\n\n6488.85　ハナ　ハテ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02995.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M113Q037/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02995",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02995.tif",
+    "source_ljc_id": "LJC-M113Q037",
+    "source_map_numbers": [
+      "113"
+    ],
+    "source_title": "はな (鼻)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "6488.85",
+      "6553.47",
+      "6608.22",
+      "6661.02",
+      "7351.09",
+      "7403.21",
+      "7427.71",
+      "1223.91",
+      "1242.00"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-96\n質問番号　037　　地図番号　113\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (3)\n項目名　鼻\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n\n6488.85    ハナ　ハナ\n6553.47    hana　〈特にとがった所を「ハナバシラ」という〉\n6608.22    ハナ　〈コハブで いきをする〉\n6661.02    hana　〈小鼻を hanano-ayuta という〉\n7351.09    hanansu(全体を言う)(穴だけでないと注意したが)　hana\n7403.21    hana　〈鼻孔は hana nosu〉\n7427.71    ハナ　ハナ　平板式に高く\n1223.91    hana　〈hanaを多く用いる〉　pana\n1242.00    pana・　PANAとする",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02996.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M113Q037/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02996",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02996.tif",
+    "source_ljc_id": "LJC-M113Q037",
+    "source_map_numbers": [
+      "113"
+    ],
+    "source_title": "はな (鼻)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4772.48",
+      "4773.78",
+      "5703.70",
+      "5723.60",
+      "2067.52"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙　注記一覧　29-97\n質問番号　037　地図番号　113\n項目名　（文字不明、記入あり）\n（右上の小枠に手書きの印と番号）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4772.48　hana ＜上＞\t\thanado\n4773.78　hana ＜新＞\t\thanado\n5703.70　hana ＜新＞\t\thanado\n5723.60　hana ＜共＞\t\thanado\n2067.52　hana（kat.の判断による）\t\t＊pana",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02997.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M113Q037/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02997",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02997.tif",
+    "source_ljc_id": "LJC-M113Q037",
+    "source_map_numbers": [
+      "113"
+    ],
+    "source_title": "はな (鼻)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "7313.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-98\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は波落にする。\n質問番号 地図番号\n037 /113\nA 普通注記\n[B] 除いた共通語\n(C 除いた特殊語)\n項目名\n地点番号\n7313.68\nA 語形とその注記（B・C除いた語形とその注）\nhanakabun（鼻翼の部分を指す）\nA 注のない語形（B・C 残した語形とその注）\nhana",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02998.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M113Q037/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02998",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02998.tif",
+    "source_ljc_id": "LJC-M113Q037",
+    "source_map_numbers": [
+      "113"
+    ],
+    "source_title": "はな (鼻)"
+  }
+]

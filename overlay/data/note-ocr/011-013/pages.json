@@ -1,0 +1,309 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "3753.88",
+      "4619.98",
+      "4639.10",
+      "4686.96",
+      "4687.01",
+      "4700.37",
+      "4725.68",
+      "4725.92",
+      "4639.69"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n日本言語地図資料用紙注記一覧　2-29\n質問番号 273　地図番号 071 013\n項目名　ヒガシ\nA (新通注記)　(B 除いた共通語)　(C 除いた特殊語)\n地点番号　A 語形とその注記（B・C除いた語形とその注）\n3753.88　ヒガシ （「シ」はっきり）\n4619.98　至gi （唇の音はわずか）\n4639.10　hi （厳密にはgi = 共通語のヒ）\n4686.96　çigaji （至に近い感じ）\n4687.01　çigaji\n4700.37　φeŋasüi （siŋasüiの如くきこえることあり）\n4725.68　jingaʒi （東京のシに良く似た音である。東京のシに対応するものは、[sü]～[si]／su／である。）\n4725.92　çiŋasti （頭音はシとまちがいそうで）\n4639.69　hi （左記は簡略表記。より正確にはGi）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00229.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00229",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00229.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4726.80",
+      "4734.20",
+      "4744.32"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 2-30\n資料番号 273    地図番号 071 013\n項目名 ヒガシ\n(A) 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ 2\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n手書き注記:\nあったりの継続が長く、すでに前の母音のときに鼻音が感じられた。\n(語頭のヒは東京などのシに似た音、れだし語尾のシとは、は、きりちがった音。)\n\neijasi  （語頭のヒは東京などのシに似た音、れだし語尾のシとは、は、きりちがった音。）\n\neijasi  頭音はヒとシの中間音。れだし、最後の音（シとス）の中間音とは、きり区別がある。\n\neijasi  （頭音はヒとシの間にきこえ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00230.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00230",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00230.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4746.20",
+      "4760.54",
+      "4760.98",
+      "4761.57",
+      "5602.99",
+      "5657.53",
+      "5623.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-31 質問番号 273 地図番号 671 013 項目名 ヒガシ A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ 3 ( ) ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）〔〕は厳密にする。 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C残した語形とその注） 3. 最後の音はシとスの間の音。 （頭音はやや[e]がかかってもきこえん。） 4746.20 çigasi 4760.54 φhi （唇を見ると唇音化されていることが分かる程度。） 4760.98 çiŋasi 1回。垂〜となった。 4761.57 çiŋa süi ＜自然に言う時＞ 5602.99 çiŋaʃi ＜普通の人は ligaʒiと言う＞ çigaʒi 5623,42 çiŋaʃi ＜jingaʃiという人が多い＞ 5657.53 çijaʃi 自由会話で giroi（広い）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00231.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00231",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00231.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5684.11",
+      "5689.10",
+      "5698.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 2-32\n質問番号 273 地図番号 871/013\n項目名 ヒガシ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (4)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5684.11  jinaji\nと言れ.(TOK??)\n(話しことばでは徹底的に\njinajiをる)\nginaji\n\n5689.10  hepasi / hepaʃi\nhebasi.bo（火箸）\nsibati（火鉢）\nsiko:ki（飛行機）\nJite:（顎）\njitotsu（−つ）\n\n5698.69  ginaji\n(話者は /hi/ と意識。/si/)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00232.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00232",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00232.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5710.29",
+      "5712.17",
+      "5713.65",
+      "5714.10",
+      "5790.64",
+      "6485.46",
+      "6542.71",
+      "6581.68"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 2-33\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。\n資料番号 273 地図番号 01/013 項目名 ヒガシ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (5)\n地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注）\n5710.29 singasi でない。 <普通これを使う>\n5712.17 singasi （普通これも言う。）\n5713.65 singasi <これを自然に使う>\n5714.10 singasi <普通これを使う>\n5790.64 henaji (sibatji （火鉢）) (gitai （額）)\n6485.46 ヒガシ （ウチセダのヒと同じである。）\n6542.71 singaji タシカ\n6581.68 ヒガシ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00233.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00233",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00233.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6414.25",
+      "6441.19",
+      "6482.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-34\n資料番号 273.\n地図番号 011 013\n項目名 ヒカシ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ 6\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）\nEugaji （cf. 川の流れを規準にして、南 を kami、北 を simoと言う）\nヒカシ ciに近い\nhigaji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00234.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00234",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00234.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6569.12",
+      "6583.45",
+      "6583.93",
+      "6620.49",
+      "6657.96",
+      "6699.59",
+      "7302.66",
+      "7302.71",
+      "7303.38",
+      "7313.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-35\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の〈〉（）[]は厳密にする。\n資料番号 273   地図番号 011 013\n項目名 ヒガシ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (7)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6569.12   sigasi.    東風は kotɕi kaze\n6583.45   cinaji    くまれ [kot]ともいう\n6583.93   cinaji    sはあまりはっきりしないときもある。\n6620.49   hinaji\n6657.96   cigasi    母音が少しあいまい\n6699.59   heyaji    〈古〉    sigasi\n7302.66   cigasi\n7302.71   cigasi\n7303.38   cigasi\n7313.68   cigasi (yaでない)\n（表の罫線と手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00235.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00235",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00235.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "7320.95",
+      "7324.24",
+      "7324.96",
+      "7332.27",
+      "7332.52",
+      "7338.48",
+      "7342.10",
+      "7392.03"
+    ],
+    "other_text": "日本語音地図資料用紙　注記一覧　2-36\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）は厳密にする。\n\n質問番号 273　地図番号 6/1 0/13　　ページ (8)\n項目名　ヒガシ\n（A）普通注記　（B　除いた共通語）　（C　除いた特殊語）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n7320.95　çi gasi\n7324.24　çi gasi　下練上、siに近し\n7324.96　çi gasi\n7332.27　çi gasi\n7332.52　çi gasi\n7338.48　hiŋgasi\n7342.10　çi gasi　前の破裂は si デナイ。後の破裂は ri デナイ\n7392.03　higasi　(çiではなく、hiに近いう弱い音。口蓋化も或いに近い。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00236.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00236",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00236.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "7374.15",
+      "7382.93",
+      "7383.98",
+      "7392.45",
+      "7392.94",
+      "7394.60",
+      "7400.11"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞（　）（　）は厳密にする。\n日本言語地図資料用紙注記一覧 2-37\n資料番号 273 地図番号 011 013\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (9)\n項目名 ヒガシ\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7374.15  sigaji -> (hiに近い gi) (hyi)か、 higasi\n7382.93  higaji  (hiは軽い口蓋化  hiに近い軽い音)\n7383.98  higaji  (sigajiほどにならぬ 軽い音のhi〜に近い音)\n7392.45  higaji\n7392.94  higaji\n7394.60  higaji\n7400.11  higaji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00237.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00237",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00237.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7403.86",
+      "7411.27",
+      "7412.31",
+      "7420.91",
+      "7513.01",
+      "8302.19",
+      "8302.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞(　)[]は厳密にする。\n日本音声地図資料用紙 注記一覧 2-38\n質問番号 273 地図番号 011 / 013\n項目名 ヒガシ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] ページ (10)\n地点番号  A語形とその注記 (B・C除いた語形とその注)  A注のない語形 (B・C残した語形とその注)\n7403.86  higaji\n7411.27  higaji; <アクセントは ●○○, 周桑郡では ○●○と言っている>\n7412.31  higaji\n7420.91  higaji\n7513.01  cigasi (りの鼻音の程度は軽く,gのときもある。)\n8302.19  higaji\n8302.55  cigaji (giaの音は著しい口蓋化ではなく, hi, giの中間音のよ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00238.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00238",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00238.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "8303.70",
+      "8303.84",
+      "8305.76",
+      "0246.48",
+      "0247.31",
+      "0256.76",
+      "0275.36"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙注記一覧 2-39 資料番号 273 地図番号 011 013 項目名 ヒガシ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ 11 (1)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n8303.70　sigaji　(うに思われる。)　hi, ciの中間ぐらいの弱い口　蓋化音\n8303.84　higaji\n8305.76　sigaji\n0246.48　higaji　〈新イ〉　agarui\n0247.31　higaji　〈新イ〉　agarui\n0256.76　higaji　〈る〉　agarui\n0275.36　agare　〈古〉　sigaji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00239.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00239",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00239.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4761.57",
+      "5604.28",
+      "5710.29",
+      "5712.17",
+      "5713.65",
+      "5714.10",
+      "6421.79"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 2-40\n資料番号 273　地図番号 671/613\n項目名 ヒガシ\nA（普通注記）　（B 除いた共通語）　（C 除いた特殊語）　ページ（1）\n\nA・〔B〕・〔C〕ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n4761.57　ginasi　ginasu〈自然に言う時〉\n5604.28　gigasi　〈共〉　hegaʃi\n5710.29　ginasi〈このようにもいえる〉　singasi〈普通これを使う〉\n5712.17　ginasi（これも、注意すると、言える。）　singasi（普通これを言う）\n5713.65　ginasi　singasi〈これを日常に使う〉\n5714.10　ginasi　singasi〈普通これを使う〉\n6421.79　gigasi〈新〉　Fuigasi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00240.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M011Q273/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00240",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00240.tif",
+    "source_ljc_id": "LJC-M011Q273",
+    "source_map_numbers": [
+      "011",
+      "013"
+    ],
+    "source_title": "ヒガシ (東)"
+  }
+]

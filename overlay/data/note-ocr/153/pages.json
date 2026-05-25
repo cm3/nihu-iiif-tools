@@ -1,0 +1,755 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.58",
+      "0724.95",
+      "0779.03",
+      "0789.95",
+      "0840.33",
+      "0861.48",
+      "0873.94",
+      "0990.97",
+      "1973.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-70\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　153\n項目名　糸　166\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き注記（各行、地点番号欄以外の読み取り可能な部分の転写、概略）:\nito　<edo?>\nito　<本綿糸は Kana-ito>\nkana　<古>\nito　条件良\nkana　<佐, 孚>\nkana　<昔?>\nito　<今>\nkanaito　<古>\nkanaito　<くる?>\n\n（その他一部判読困難な手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04570.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04570",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04570.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2700.48",
+      "2731.97",
+      "2751.10",
+      "2754.11",
+      "2765.02",
+      "2765.71",
+      "2783.06",
+      "2790.38",
+      "3619.08"
+    ],
+    "other_text": "日本言語地図資料用紙・注記一覧 45-71\n質問番号　地図番号　153\n項目名　糸　166\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞(　)(　)[　]は厳密にする。\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n2700.48　エイト　＜母＞\n2731.97　カナ　＜サ＞＜普通＞\n2751.10　エイド　＜英＞\n2754.11　kana　＜普通＞\n2765.02　kana　＜右＞\n2765.71　kanna　＜右＞\n2783.06　kana　＜ら＞\n2790.38　kana　＜普通＞\n3619.08　kanna　（本来はカンナは木綿類のこと）\n\n（右側の手書き注記に繰り返し \"ido\" の記載あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04571.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04571",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04571.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3639.49",
+      "3714.74",
+      "3715.59",
+      "3721.81",
+      "3733.88",
+      "3737.32"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙　注記一覧　45-72\n質問番号　地図番号　153\n項目名　糸　166\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ(3)\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n経済は井でDKに近いか\n(ぇたと言うらしい)\n(kana)\n(普)\nnu-ido　<自分で作ったもの>\nkana　<買ったもの>\nnuido　<もの>\nkanna　<斬>\nカンナ　<ら>\nカンナ　<ら>\n(カンナ)\n右側欄：ido　エトー　イドー　イドー",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04572.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04572",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04572.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3737.95",
+      "3746.41",
+      "3752.89",
+      "3756.26",
+      "3756.40",
+      "3764.92",
+      "3769.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-73\n質問番号 地図番号 153\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (A)\n項目名 糸 166\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n3737.95  カンナイトー（買った木綿糸）  （又イ）イトー\n3746.41  カンナ　（方）  エトー\n3752.89  kanna ido  idoを経(へ)ようにしたものかー  ido\n3756.26  カンナ　（買った糸）  イトー\n3756.40  カンナ　＜方＞  イトー\n3764.92  カナ　＜方＞  イトー\n3769.22  カンナイトー　＜右、買った木綿糸＞  メンイトー\n\n(手書きの注記や小さい文字は読み取りにくく、上は目視で判読できる範囲の転写です)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04573.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04573",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04573.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3774.44",
+      "3776.97",
+      "3783.08",
+      "3785.68",
+      "3795.33",
+      "4588.98",
+      "4599.72"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-74\n質問番号　地図番号　(1-3)　項目名　糸　166　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (5)\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（ ）［ ］は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nヌイトー　<自作の縫い糸>　イトー\nカンナ　<ロンナイトともい>　エトー\nカンナエトー（木綿）　ito　ka~naito\nカンナエトー　(5)　イトー\nカンナイトー <5>　イトー\neto　<新>　kana\netoso　<ぬなし／麻糸>　kana",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04574.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04574",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04574.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4599.31",
+      "4609.07",
+      "4619.29",
+      "4619.63",
+      "4628.61",
+      "4637.20",
+      "4638.22",
+      "4638.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-75\n質問番号　地図番号　153　ページ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(6)\n項目名　糸　166\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4599.31   nuito (ーぬいと？)\n4609.07   ito  <新>    kana\n4619.29   kanna ido <近年手巻にまいたものをいう>    ido, momeido\n4619.63   kanna do <廃語.80才以上の人のことば>    ido\n4628.61   ?# kanna edo <種類により>    edo\n4637.20   Kanna (木綿糸)    (絵柄を強いて言えば次のとおり)\n4638.22   Ka~na  <木綿たけについている>\n4638.43   Kanna  (これは木綿の縫い糸である.)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04575.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04575",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04575.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4643.47",
+      "4644.10",
+      "4647.69",
+      "4654.52",
+      "4663.06",
+      "4663.49",
+      "4663.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-76\n（ボックス）質問番号 地図番号 153 項目名 ページ A 普通注記 [B 除いた共通語] [C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )[ ]は厳密にする。\n\n表見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き記入（概略）:\n4643.47　kana　池(浄?)は新しい語。\n4644.10　[kana]　kana\n4647.69　kana <b>　-- 子供って使った語　e to\n　kana eto <b>\n4654.52　kana　(着物を絞る手は指と木綿手に限られているから、木綿手を示す　kanaをもって手を呼ぶのである。)\n4663.06　kana　[5]　ito\n4663.49　kana　5(はこちがか?)　ito\n4663.92　kana　<黒いをいう> 続に着物を絞るものをいう\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04576.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04576",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04576.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4665.87",
+      "4666.17",
+      "4667.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-77\n質問番号　地図番号　153\n項目名　糸　166\nA 普通注記　ページ（8）\n[B 除いた共通語]\n[C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n4665.87    kana（希）    muwigadna\n4666.17    muvito＜多＞    被調査者は紡績工場の募集関係。仕事に従事したことがある。\n4667.76    kana（木綿手の縫手であることは 168の答もkanaであることで 明らかだ。然し縫手は木綿主が その代役であるから、ここにとりあげた。）\n\netc（木綿、綿、麻などを経て採した。強いて言う場合の答え。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04577.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04577",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04577.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4672.19",
+      "4675.62",
+      "4687.01",
+      "4694.95",
+      "4701.14",
+      "4703.18",
+      "4711.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 45-78\n質問番号　地図番号　(153)\n項目名　糸　166\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (9)\n地 点 番 号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4672.19  kana    kanaは木綿草    ito\n4675.62  mueeto  (木綿草は kana。俗手は kimweto とする)\n4687.01  etc     (後続)\n4694.95  mueeto  mueeto は169の hateto の対 sto\n4701.14  mumeto  <…>\n4703.18  kanaeto <B> <…>\n4711.41  momedo  (終結に本邦語にそっくり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04578.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04578",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04578.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4711.42",
+      "4713.45",
+      "4716.20",
+      "4721.36",
+      "4722.40",
+      "4722.55",
+      "4724.28",
+      "4730.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-79\n質問番号　地図番号　(153)\n項目名　糸　166\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(10)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nmometo　＜木綿糸の場合＞　いと\nkainaeto　＜古＞　＜主に袖色をしている＞　ito\nkannaido　＜古＞　nwi; ito\nmomedo　（木綿糸であると同時に絹糸でもある）\nmome to　＜まの絞林＞\nkannaedo　＜使い物のときのよてある＞\nkanaedo　＜着物を捲り上げる手の動作を指す。＞\nmometo　（絽う美、苧麻は本綿）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04579.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04579",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04579.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4731.42",
+      "4731.85",
+      "4735.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-80\n質問番号 地図番号 (53)\n項目名 糸 166\nA 普通注記  [B] 除いた共通語  [C] 除いた特殊語  ページ (11)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n4731.42    momedo    (手一般、しかし多くは mome to を用いた。)\n           (モメドは不降等である。 指示と区別するときにも使うが 後続にも支る。)\n           ido / edo など\n4731.85    momeedo   後続にも使う、というのは 生手は語と一つかわないという\n4735.37    momedo    <外と区別は言わない。>\n\n(手書きの注記、ローマ字表記として \"momedo\" \"momeedo\" 等あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04580.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04580",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04580.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4736.63",
+      "4741.43",
+      "4742.37",
+      "4750.76",
+      "4753.36"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-81\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n質問番号　地図番号　(153)\n項目名　糸　166\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (12)\n表ヘッダ：地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き項目（抜粋）:\neto　<mome to とぎろ a がーふつう>　(木綿)\nito　〈絵絽〉\nwaito　〈反物の糸〉\nnome to　〈ち〉\nmomedo　(木綿糸の意にも使われるか)　\nこのように手一般、手そのもの等\n絵紙としても使われる。\nido　〈新〉\nその他手書きの注記あり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04581.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04581",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04581.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4762.56",
+      "4762.99",
+      "5516.59",
+      "5517.90",
+      "5537.34",
+      "5538.33",
+      "5549.55",
+      "5556.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 45-82\n質問番号　地図番号　153\n項目名　糸 160\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (13)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4762.56\tkanaeto\t<木綿の場合だけ>\n4762.99\tkanaedo\t<ぬい糸の場合>\n-\tedo\t<多一般>\n5516.59\teto\t<新>\n5517.90\tkana\t<ち>\n5537.34\tkana\t<ち>\n5538.33\tkana\t<ち>\n5549.55\tkanaeto\t<とくに綿糸>\n5556.84\tN.R.\t(一般称なし。答えは kana は...)\n(下部手書き注記: 綿糸に限ることが1682でわかった )",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04582.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04582",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04582.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5557.48",
+      "5564.79",
+      "5565.12",
+      "5565.19",
+      "5566.35",
+      "5574.84",
+      "5584.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-83\n質問番号　地図番号　153\n項目名　糸　166\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (13?)\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n一覧（手書き）:\n5557.48    kana <お>\n5564.79    eto <新>\n5565.12    [カナ]\n5565.19    kana <錦糸>\n5566.35    kana <綿の>\n5574.84    nuiiso 上品\n5584.37    nuiiso 豊後\n\n（手書きの注記に \"ito\" 等の短い注が各行に記載されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04583.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04583",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04583.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5604.52",
+      "5608.51",
+      "5611.81",
+      "5620.30",
+      "5623.85",
+      "5626.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-84\n質問番号　地図番号　153\n項目名　糸　166\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ(1冊)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\nkana　　<も><木綿のぬい糸である。人に通じ - etc>\n(ないの? 知っているか もう使わない?)\n\nito　　(たはほんの少し有声化するようにも聞えが, do, to とも表記できない)\n\nkana　　<kana, 本邦の字で ito よりもこの方を多く用いる。>\n\netc　　<針>\nnoeeto　(ぬいせ?)\nnuwitosun　木綿のみ\n\n(手書き注記、くずし字や略記多数。ページ下部に更に同様の手書き説明あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04584.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04584",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04584.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5626.99",
+      "5633.45",
+      "5641.99",
+      "5645.43",
+      "5658.01",
+      "5667.77",
+      "5668.51",
+      "5675.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-85 資問番号 地図番号 (153) 項目名 糸 165 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (A5) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5626.99 スイト <新> ヌイトス 5633.45 muiito <ていねいか> ぬo 5641.99 joriito <木綿のとき> ito 5645.43 スイト <サ> 5658.01 スイト <普通の言い方> スイト 5667.77 mui.to.su <木綿の太い縫糸> 5668.51 スイトス <一般的な言い方> イト 5675.87 イト 普通",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04585.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04585",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04585.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5677.28",
+      "5677.85",
+      "5678.86",
+      "5679.31",
+      "5679.86",
+      "5687.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-86\n資料番号　地図番号　/153\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(17)\n項目名　糸　166\n\n地点番号　A　語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C残した語形とその注】\n\nヌイト（縫うから）\nヌイトス＜縫糸のみの語＞\nイト　＜総称＞\nヌイトス＜普通＞\nイト\nヌイト＜針に通した時＞\nイト＜普通＞\n＜たばになっている糸ーイトソ＞\nnuieto（誘）edo\neto（荒）nueto\nitoso：（着物を縫うためのもの、輪になったもの） ito",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04586.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04586",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04586.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5687.86",
+      "5689.10",
+      "5696.54",
+      "5697.20",
+      "5697.53",
+      "5698.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-87\n質問番号　地図番号 153\n項目名　糸 166\nページ 8 (19)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉( )[ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5687.86　ヌイト　〈今でも用いる。主にも種類があって　イトといったのみてはわからないから〉\n5689.10　itoso　〈糸束〉\n5696.54　nuiso　〈昔はこちらを使った〉\n5697.20　nuiso　〈特に着物をぬうもの〉\n5697.53　nuiso　〈経等に限ってこういう〉\n5698.19　nuiito　〈特に着物を縫うためという意を強調した時に使う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04587.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04587",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04587.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5698.91",
+      "5703.68",
+      "5720.34",
+      "5720.98",
+      "5731.67",
+      "5732.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-88\n質問番号　地図番号　(153)\n項目名　糸　166\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n5698.91　沈　＜普通の言い方＞\n5703.68　?ito\n5720.34　スイソ, イト　スイソの方が多く用いられる。\n5720.98　イト　＜多く使用する。＞　スイソ\n5731.67　nwi50　＜材質にかかわらず＞\n5732.17　etc, nwi50　＜一般的な呼び名はイトであるが＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04588.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04588",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04588.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5741.66",
+      "5760.24",
+      "5760.57",
+      "5770.11",
+      "5782.94",
+      "5793.20"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。 ▲ その中での情報は地点番号順に並べる。 ▲ 注記の＜　＞（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧 45-89 質問番号　地図番号　(153) 項目名　糸　166 A　普通注記 (B　除いた共通語) (C　除いた特殊語) ページ (20) 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注] 5741.66　ito　井戸は ido 5760.24　nwiso　<この方が一般> 5760.57　edo　<一般に> 5770.11　nwiedo, nwieso　(誘) edo 5782.94　nwiso　<縫うために> 5793.20　nwiso　<この系に〜という場合もある> ido",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04589.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04589",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04589.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6411.66",
+      "6418.75",
+      "6476.17",
+      "6484.43",
+      "6485.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-90\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）［ ］は厳密にする。\n質問番号　地図番号　(153)\n項目名　糸　166\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (20)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6411.66　エト　<くち>　イト\n6418.75　ヌイト　<まととして使う>　イト\n6476.17　イトソ　<くち>　イト\n6484.43　イト　<ワタイト, トイト などの別がある>\n6485.30　イトソ　<む>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04590.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04590",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04590.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6485.46",
+      "6486.50",
+      "6486.93",
+      "6487.43",
+      "6494.55",
+      "6508.06"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-91\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n\n質問番号　地図番号　153\n項目名　糸　166\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（2×）\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n6485.46　ヌイソ　とねだんの高い方が太かった。Yは多の変体である。〈着物を縫うに用いる糸である。〉\n6486.50　スイト　スイトは装物に使う糸に対していう。\n6486.93　イトソ　〈も〉\n6487.43　イト　（ガスイト）モメント\n6494.55　イトソ　〈違い手についている〉\n6508.06　カナイト　〈木綿イトのこと〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04591.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04591",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04591.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6509.81",
+      "6513.51",
+      "6517.65",
+      "6527.22",
+      "6528.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-92\n（上部箇条書き）A・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（）（[]）は厳密にする。\n表見出し：地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n右上欄：質問番号　地図番号（153）　項目名　糸　166　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ 3\n6509.81　カナ（絵のような梗からはなしたもの。）　イト\n6513.51　ito（自家製のものは区別して〜のは50c いろ）\n6517.65　ゲンシ（繊糸のこと）　イト、ヌイト\n6527.22　ny: ito ＜おる手でなく、経物をする手の意味＞\n6528.21　ito ＜針に対しては糸など＞\n（手書き注記多数、判読困難な箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04592.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04592",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04592.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6528.64",
+      "6529.63",
+      "6534.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-93\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >< ( )>は厳密にする。\n質問番号　地図番号　153\n項目名　糸　166\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nito　<針に対しては ito >\nnuwi:ito　<他の色を名乗ると区別するときは nuwi:ito という。>\nito, tsukei:ito\n<針に対しては糸、ito といった方がよいが、着物を縫うための糸という場合は tsukei:ito の方がよい>\nito　<糸巻きにまいてあるものはかせいと...>\n（手書きの注記・補足が複数あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04593.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04593",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04593.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6537.21",
+      "6547.24",
+      "6549.60",
+      "6554.45",
+      "6559.22"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-94\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞(　)[　]は厳密にする。\n質問番号　地図番号　153\n項目名　糸　166\n(A) 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（2?）\n\n表ヘッダ：地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n手書き項目（抜粋）:\n6537.21　ito　針に対する糸。\n6547.24　ito　（針に対して糸）\n6549.60　ito　＜針に対している＞\n6554.45　tsubukaito　〈織る糸に対する縫糸〉\n6559.22　mii; ito　＜特に区別する時＞\n\n（手書きの日本語注記や語形が表中に続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04594.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04594",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04594.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6562.48",
+      "6594.67",
+      "6613.54",
+      "6615.02",
+      "6624.65",
+      "6626.06",
+      "6630.82",
+      "6632.88"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 45-95 質問番号　地図番号　(153)　項目名　糸　186 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] イトソ　＜ち＞ イト　(特にこの場合のイは広くあいて、エとの中間に近い。) ito　(続称?) joriito　＜着物を経る等の意＞ イツカイト　＜帯＞ itoso　木綿の縫条 ito　＜着物を経りものは[nui:to]＞ numiito　＜裁き・区別する必要のある時＞ (手書き注記、訓記多数、読みや表記に揺れあり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04595.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04595",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04595.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6634.07",
+      "6634.32",
+      "6635.20",
+      "6635.87",
+      "6636.05",
+      "6640.34",
+      "6652.77"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 45-96\n質問番号　地図番号　/153\n項目名　糸 166\n(A) 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nnwiito　新\tIto so\nitoso\t縫い手のよな称\nito\t木綿のこと\ntsukai:ito\t古、もめんの縫い手\tito\nmomenito\tただ「糸」と〜けは言わぬ（この場合に）\nito\t<針に対しては…>\nito\titoといえば＝もめんいとのこと\nmomenito\t希",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04596.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04596",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04596.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6662.01",
+      "6662.38",
+      "6698.61",
+      "7256.64",
+      "7347.55",
+      "7401.18",
+      "7403.16",
+      "7421.38"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記のく >( )[ ] は厳密にする。 日本言語地図資料用紙 注記一覧 45-97 質問番号 地図番号 /153 項目名 糸 166 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ 地点番号 A 語形とその注記〔B・C除いた語形とその注〕 A 注のない語形〔B・C 残した語形とその注〕 itaso ぬ. ito nuiito 木綿の縫い糸 tamaito くくり(言う時) ito ヨマ? つま? ?ito ito (針穴をmii soという) nuwito, ito (ように) など  (どうやら糸の種類の名らしい)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04597.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04597",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04597.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7430.75",
+      "7503.48",
+      "7659.31",
+      "0257.43",
+      "0275.97",
+      "2076.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　45-98\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n質問番号　地図番号　153　普通注記　ページ (24?)\n項目名　糸　166\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7430.75　nwiito　<縫い物に使うことを特に…>\n7503.48　示すときにいう　>\n(矢印)\n7659.31　hto　なお cf 169\n0257.43　nwiitau　<経う終の表?>\n0275.97　ito　<新>　ne:so:\n2076.96　nuibu;　<?>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04598.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04598",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04598.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "0840.33",
+      "4637.20",
+      "5508.16",
+      "5546.34",
+      "5549.09",
+      "5637.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 46-1\n質問番号 地図番号 153\n項目名 糸 166\nA 普通注記  B 除いた共通語  C 除いた特殊語\nページ （　）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nito ＜今＞    kana ＜古名＞\nkimuito（絹糸）    kanna（木綿糸）\nito ＜新＞    kana\nito ＜新＞    kana\nito ＜新＞    kana\nイト ＜共通語＞    メイト ＜今で＞\n（注：手書きの語形・注記が複数あり、判読しにくい部分あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04601.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04601",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04601.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5696.68",
+      "6562.48",
+      "6651.64",
+      "7411.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 46 - 2\n質問番号　地図番号　153\nA 普通注記　ページ (2)\n項目名　※ 166\n(B) 除いた共通語　(C) 除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き行（おおよその写し）:\n5696.68    ｲﾄ <共>    イトソ    (わからないから)\n6562.48    外 <新>     ﾇ=50    ｲﾄｿ <く昔の語>\n6651.64    ｲﾄｵ 新    ito50\n7411.61    ｲﾄ <上>     nui to\n\n（下方に空行が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04602.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M153Q166/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04602",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04602.tif",
+    "source_ljc_id": "LJC-M153Q166",
+    "source_map_numbers": [
+      "153"
+    ],
+    "source_title": "いと (糸)"
+  }
+]

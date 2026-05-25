@@ -1,0 +1,1424 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙  注記 33-49\n質問番号  地図番号 129\n項目名 しもやけ\nA 普通注記／B 聞いた共通語／C 聞いた特殊語\nA・〔B〕・〔C〕ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）〔 〕は略符にする。\n\n見出し：地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 語のない語形（B・C 残した語形とその注記）\n\nsimojake\nsimojake ＜色が変わる＞\nsibare ru\nsibareru（寒さには … と si-bireru）\nsibaseru（感覚が… と）\nsimojake（寒さには … ）\nsimojake\nsibareru\nsimojake\njukijake（前に）\nいもじゃけ（体全部が… シベると）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03349.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03349",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03349.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "0990.97",
+      "1699.14",
+      "1719.38",
+      "1738.19"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本語語地図資料用紙　注記一覧　33-50\n質問番号　地図番号　127\n項目名　しもやけ　068\n(A) 普通注記　ページ\n(B) 除いた共通語\n(C) 除いた特殊語\n\n地点番号　　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n（手書き本文）\nチャラテ　半そかな。\n〈シバーレチャラテなんといいますね〉\nこれは（もっとひどい場合、やけどのように）\nなっても、しもやけといいますか）に\n対する答である。\n\n0990.97　simojake　〈越中の人は〉 jikijake\n1699.14　しもやけ　共　　ユドヤゲ\n1719.38　シモヤケ　〈シモヤケをユヤケという人もあった。\n　雪のかかった頃顔が黒くなることもユヤケという〉\n1738.19　simojake, ju kijake　〈なるともね：kun-namu〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03350.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03350",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03350.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "1739.85",
+      "1761.74",
+      "1762.10",
+      "1791.33",
+      "1814.25"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　33-51\n資料番号　地図番号　127\n項目名　しもやけ　068\n（A）常用注記　（B 除いた共通語）（C 除いた特殊語）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n1739,85　simojake　＜初冬、春先＞\n　　　　sibareru　＜真冬＞\n\n1761,74　シモバレ、シモフレ、フサイナ(?)以前の状態\n　　　　ユキヤケ、シモヤケ、クサレのかかった状態、はれのも、くされものもみんなシモヤケというと説明した。\n\n1762,10　シモヤケ　＜シンバレという語を聞く事もある＞\n\n1791,33　ユキヤケ　（多）\n　　　　シモヤケ　（新、ナ）（シンバレはないかない。聞いたこともない。）\n\n1814,25　シモヤケ　＜雪の降り始め、春先も＞　シバレタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03351.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03351",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03351.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "1816.82",
+      "1816.52",
+      "1848.24",
+      "1859.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 日本言語地図資料用紙 注記一覧 33-52 地図番号 (127) 項目名 しもやけ 068 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 1816.82　シバレル（トオシオニ かかること） 1816.52　しもやけ　＜秋から風にあたったせい＞ 1848.24　jukijake, sinojake （=つは同じものを考えている） ＜本当（にこおらしなのは u/j a i ta,to;so;ni nattaという）＞ 1859.84　sinojake　＜かもに考えに初冬にも＞ sibareru　真冬には to:so:ni kakaru [jait] simatta（福田底割という）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03352.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03352",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03352.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "1862.48",
+      "1862.52"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙　注記一覧　33-53 管理番号　地図番号　127 項目名　しもやけ 068 (A)普通注記　ページ (B 除いた共通語) (C 除いた特殊語) (5) 地点番号　A語形とその注記 [B・C除いた語形とその注記] A注のない語形 [B・C残した語形とその注記] 1862.48　シモヤケ　（1905年に12生れ人、数分合わせせん。） （冬にあやかけの時れする。） （「凍傷」ではない。） ユキヤケ　「凍傷」は「シバラシラ」と言い、「ユキヤケ」ともいう。厳寒の時に起るもの。 1862,52　シモヤケ　＜シモヤケは冬の初め、零－19頃に起きる。＞ ユキヤケ　＜鼻になるもの。＞ （区別があるかという旧になさし。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03353.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03353",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03353.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "1863.48",
+      "1867.15",
+      "1893.10",
+      "1942.03",
+      "2608.90",
+      "2619.28"
+    ],
+    "other_text": "日本語地図資料用紙　注記一覧　33-54\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\n質問番号　地図番号　127\n項目名　しもやけ　068\n(ページ (6))\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]\n1863.48.　シモヤケ　＜凍傷はシハレタという＞\n1867.15　ユキヤケ　（もとはひどい凍のは）　シモヤケ\n1893.10　sibarajita／sibarajita <- 真冬にひどいのは mata k? n sari? -> simojake\n1942.03　simojake　＜11yetsu koro kara 3yetsu　koro-made よともりころは何かかる＞\n　　　　sibaneta　＜真冬に (tojo) に掛かるという＞　ことはきれい。\n2608.90　シモヤケ　＜多＞　シンパレ\n2619.28　シモヤケ　若い人が多う。　しばれ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03354.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03354",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03354.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料原紙 注記一覧 33-55\n質問番号 （27）\n項目名 しもやけ 068\nA 普通注記／B 除いた共通語／C 除いた特殊語\nページ（7）\n\n地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n\nシモヤケ（冬）\nユギヤケ（ケ）\nシンバレ（北のようなばのはんれのをいう。）\n\nシモヤケ ＜凍傷の最初はシンバレが…かいむしして、シンバレ、シェパリ、崩れてしまうとシモヤケという。＞\n\nシンバレ 今も若い使う\nユギヤケー ＜動？＞\n\nシンバレ ＜停年以下の人はずっとシンバレ＞\nシモヤギ ＜赤くよくゆびきのことば＞\n\njungi jage ＜t＞\nsimojage",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03355.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03355",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03355.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-56\nA・{B}・{C}ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）は…。\n質問番号／地区番号 127\n項目名 しもやけ 058\nページ (8)\n見出し: 地点番号／A 語形とその注記（B・C 聞いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n行メモ:\n- N.R. （…simbare まうも） 右欄: simipare\n- N.R. （これが言われことは hare でなと言うんけ）\n- jungijage （足なります）\n- simojage （共通語？）\n- jungijage （針？） 右欄: simbare\n- simbare （古）\n- simojake （割に本町 学校がありくられてんか…） 右欄: simojake\n- simipare （多く〈…〉） 右欄: jungijage",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03356.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03356",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03356.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "2795.92",
+      "3619.08",
+      "2800.52",
+      "2812.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧　33-57 資料番号　地図番号　(127) 項目名　しもやけ　068 (A)普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9) 地点番号　A語形とその注記　{B・C除いた語形とその注記}　A注のない語形　{B・C 残した語形とその注記} 2795.92　名詞が出ない。　<しもやけができたことを haneta, siminakasu? とは言う。> 2800,52　シモヤケ　(凍傷)　ユキヤケ 2812,96　jumikjake　<冬>　simojake　<春〜秋> 3619.08　sumimu　名詞の形はいくらかいてもよい。親等もたいぶではないかという。 36 39.49　jogijage　ユヒはヨヒーとなるないが、ユキはヨヤをなる 36 49.58　simojage　(軽い)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03357.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03357",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03357.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "3688.82",
+      "3699.55",
+      "3702.81",
+      "3706.81"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-58\n質問番号　地図番号　127　普通注記　ページ\n(B 除いた共通語)　(C 除いた特殊語)　(10.)\n項目名　しもやけ　068\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n3688.82    jugijage (重いもの)\n3699.55    sumobare <普通>            sumoyake\n           シモヤゲ、スモヤゲ、ユキヤゲ\n           この外しもやけか―できんという差の\n           動詞に「こもパンタ」がある。露張\n           それの人化にあらう、しかし右向前に\n           にこもバレとはいらない\n\n3702.81    si~bare (症候のひどいものらしい。軽いもの\n           には名がないような)\n\n3706.81    si~ipare <多く使う>            jugijage",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03358.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03358",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03358.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-59\n質問番号／地図番号 127\n項目名 しもやけ 058\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<> () []は略語にする。\n地点番号／A 語形とその注記（B・C 語形とその注）／A 注のない語形（B・C 共通した語形とその注）\njuŋgi jage（つよれる?）\nsimi pare（炎）\nスミパレ（色でいたことと）\nシミパレ〈はれんで、くすれてきたもの。〉\nしもやけ〈痕になったもの。〉\nシンパレ（「シ」による響きあり）\nsimi bane（炎）\nテツパレ（痒くはれる）\nスミパレ（こははん）\n（これはひどいほう）\n右欄: jugi bare／jūgi jage／スモヤケ／iki jake\nページ (11)",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03359.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03359",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03359.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4609.07"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞()は厳密にする。 日本言語地図資料用紙　注記一覧　33-60 質問番号　地図番号　127 項目名　しもやけ　068 (A)普通注記 （B 除いた共通語） （C 除いた特殊語） ページ (12) 表ヘッダ: 地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） A欄（上から）: シモヤケ、ユキヤケ　＜手や足に＞ シミパレ　＜耳などに＞ スモヤケ　＜...＞ スミパレ jugijage （崩れると） simobare simipare eは浅いe. ユキヤケ （皮膚が剥ける） スミパレ スミヤケ、スンパレ スモヤケ （語註） simoyake　＜雪の反射による日焼けはユキヤケという。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03360.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03360",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03360.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4609.54",
+      "4619.63",
+      "4629.43",
+      "4637.68",
+      "4638.43",
+      "4642.69",
+      "4653.47"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での語は地点番号順に並べる。 注記の＜＞（）【】は厳密にする。\n日本言語地図資料用紙 注記一覧 33-61\n資料番号　地図番号　127\n項目名　しもやけ　068\n(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語　(13)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nsimojage　＜…＞　　　simobare\nsimobare　（語頭はシモバレルてゝある）\nsimojage　＜…＞　　　simobare\nsimojake　＜凍傷のはじまりの頃をいう＞\njukijake　＜痒さの痺れ＞\n[jungijage]　（aの前j音は入らぬ様である）\nsimojake　＜霜のふる頃のもの＞\njukijake　＜霜の積もっている時季のもの＞\n（外にありますかり間に対する語。）\njukijake　＜手足のものについて云う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03361.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03361",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03361.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4665.87",
+      "4667.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-62\n資料番号 地図番号 127\n項目名 しもやけ 058\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A注のない語形 (B・C 残した語形とその注)\nsimojake. <顔や耳のまわりのものについてこういうことが多い。>\njukigake <B> <2府の頃用いた>\njugi jage, simojage (区別はわからない。)\nsimojake <も、現>\n<もくから使い、現在も用いる。>\njukijake <新>\nekijake <希>\nsimojake\nsimojake <古〜現> どちらもおなじ物を意味している\njukijake <新>\nシモヤケ、ユキヤケ （冬のはじめ頃の霜焼け）（冬の頃雪の降る頃の霜焼け）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03362.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03362",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03362.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "4669.55",
+      "4675.45",
+      "4676.37",
+      "4676.42"
+    ],
+    "other_text": "▸ A・{B}・{C}ごとに別紙を使用する。\n▸ その中での語順は地点番号順に並べる。\n▸ 注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　33-63\n調問番号　地図番号　127\n項目名　しもやけ　068\n（A 普通注記）　（B 除いた共通語）　（C 除いた特殊語）　(15)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\njimojage　＜般＞\nsimojage　＜新＞\n\njimojake　＜とくらんだもの＞\njukigake　＜くずれもの＞\n\njukirijake　＜すべるもの＞\nsimojake　軽症のね\n\nユキガケ　＜ユキガケは手に多く出来る＞\nシモヤケ　＜シモヤケはまたに大に出来る。＞\n\nsimojake　＜赤くはれたもの＞\njukigake　＜雪のよる頃のくずれもの＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03363.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03363",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03363.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-64\n質問番号／地図番号 129\n項目名 しもやけ 058\nページ (16)\nA 普通注記／B 使いた共通語／C 使いた特殊語\n・A・{B}・{C}ごとに別表を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく<>()は該当箇所にする。\n見出し：地点番号／A 語形とその注記（B・C 欄いた語形とその注）／A 注のたい語形（B・C 残した語形とその他）\n手書き:\njungijage ＜しもやけの患にしたもの＞\njunkijake, simojake （土地やかかいによってよび方のちがうところがある。）\njungijage ＜降雪後によるようで＞　simojage\nsimojake ＜（くれないな？）＞\njunkijake （はじめsimojakeと答え後訂正した。）\nsimojake ＜かわりめ＞／junkijake ＜なんとかもんね＞",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03364.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03364",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03364.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "4685.72",
+      "4686.52",
+      "4687.01",
+      "4688.45",
+      "4689.14"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の＜＞（）は厳密にする。\n日本語語地図資料用紙　注記一覧　33-65\n質問番号　地図番号　127\n項目名　しもやけ　068\nA 普通注記　（ページ）　(B 除いた共通語)　(C 除いた特殊語)（17）\n地点番号　A 言形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nsimojake. <…> \njukigake. <雪がつてからのね、くすれね> \n[jukigake] (雪がつってからのもの。)　simojake\njukijake. <どちらも昔から使い、今も同じ。…jukijakeの方が多いか。>　simojake.\n(最初に反応したjukijakeの方が、ちょく残も多く用いられるまい-) \njukijage <降雪後に入る>　sumojage\nsimojage, zukijage",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03365.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03365",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03365.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-66\n・A・(B・C)ごとに別紙を使用する。\n・その中での情報は地点番号順に求める。\n・注記のくくって（）は該箇所にする。\n質問番号／地図番号 127\n項目名 しもやけ\nA 普通注記／B 聞いた普通語／C 聞いた特殊語\n地点番号／A 言形とその注記（B・C 聞いた言形とその注記）／A 使わない言形（B・C 失した言形とその注記）\n（…）\nsimojage, jmgijage（…）\nsimojake　秋から冬の初めにかけて云う。\njwki gake　雪が降ってから云うとも云う。\njum kijake　〈くすれたもの〉\njwki jage　〈降霜後〉\nsimojage　〈霜の季節語〉\ndzukijake　〈タク（訛）〉\n右欄：simojake／simojake\n（18）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03366.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03366",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03366.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での音形は地点番号順に書く。 注記のく<>()は段落符号である。 日本語地図資料用紙  注記—33-67  質問番号  地図番号 127  項目名 しもやけ OMR  ページ (19)  A 発語注記  B 聞いた共通語  C 聞いた特殊語  地点番号 / A 語形とその注記（B・C 聞いた語形とその注記） / A 言った語形（B・C 残した語形とその注記）  simojake ＜…＞   右欄: sinojake  jukjijake ＜今＞   右欄: sumojage  jukjijake ＜古＞   右欄: [jugijage]  jugijage ＜一般＞  スモヤケ ＜稀＞   右欄: ユキアサケ  zwkijake ＜…＞  （語頭音は…というあり、はっきして「ここ」であった。言語的には不明。）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03367.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03367",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03367.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "4730.45",
+      "4730.96",
+      "4731.15",
+      "4731.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-68\n質問番号　地図番号　127\n項目名　しもやけ　068\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (20)\n\n地点番号　A 震形とその注記 (B・C 除いた震形とその注記)　A 注のない震形 (B・C 残した震形とその注記)\n\n4730.45    sümojage    <若い人>\n            (ユギヤケといっているつもりながら 前にマサツ音が入る。)\n            gjüngjagë\n\n4730.96    gukujake    (ひどくなった場合)    simojake\n\n4731.15    sukijake    ✓✓\n            被闘者の意識にはもちろん、\n            ユのつもりかろうか / sude (聞)??\n\n4731.42    jügijagë\n            そもそものひととなったもの。\n            皮膚が破れかかっているものをいう。\n            使って季節的にもユギヤケはあとになる。\n            sümojagë oimojagë",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03368.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03368",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03368.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "4731.85"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-69\n項目番号　地図番号　127\n項目名　しもやけ　068\nA（普通注記）　(B　除いた共通語)　(C 除いた特殊語)　ページ (21)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n4731,85　simojage　<赤>　　jwgijage\n47 32.18.　jw k i j a k e　<ここえることをkoyeruという。>\n47 33.91.　simojake　<はれ方がひどいような感じがする>\n　　　　　（両方とも昔から使っている）　jzm k i j a k e\n47 41.44.　スモヤケ　（雅）　ユキヤケー\n47 42.37　jwgijake, smmojake\n　　　　　（両方とも昔から使っている）　[ jz∼gjjage ] など\n47 42.43　jzwkijake　<手でなく、耳の場合なりの場合あり>　simojake\n46 47.87.　スモヤケ　<赤くはれてかゆいもの。>\n　　　　　ユキヤケ　<まくわれたもの>\n\n（順子同）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03369.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03369",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03369.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "4687.37",
+      "4689.86",
+      "4724.75",
+      "4760.54",
+      "4760.64"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　33-70\n頁間番号　地図番号　127\n項目名　しもやけ　068\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(22)　ページ\n\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での語順は地点番号順に並べる。\n► 注記の＜＞（　）は敢筆にする。\n\n（表見出し）\n地点番号　A音形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n4687.37    jugijake, jimojake\n（季節によって分けて書いている。\n　厳しく分けないでも使ったという。\n　＝語の用法のちがいは今らない。）\n\n4689.86    zudijake　［くすんだ状態のもの］    simojake\n4724.75    simojake　＜ち、上＞（軽度のもの）    jugijake\n4760.54    simoyake　＜くすんではない。たれはれん状の＞\n　yukiyake　＜くすんだもの＞\n\n4760.64    awmojage　＜程度軽いもの＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03370.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03370",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03370.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "4760.98",
+      "4761.57",
+      "4761.93",
+      "4771.58",
+      "4771.98",
+      "4772.33",
+      "4772.48",
+      "4780.64"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での注記は地点番号順に並べる。\n注記の＜＞（）｛｝は厳密にする。\n\n日本言語地図資料用紙　注記一覧　33-71\n資料番号　地図番号　127\n項目名　しもやけ　068\n(A) 常通注記　(B 除いた共通語)　(C 除いた特殊語)　(23)\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n4760.98.　jügi jäge. zü kijiake　<程度の良いもの?>　（小さい注記）\n4761.57.　simojake　<多く使う>　jukijake\n4761.93.　jukijake　<普通度>　simojake　（どれもこの土地では同じものてある。）\n4771.58　simojage　<新丁>　jügijage\n4771.98　simojake　<普通度>　jukijake\n4772.33　jukijake　<普通度>　simojake\n4772.48　jüngijage　<程度ひとしい>　jügijage\n4780.64　simojage　<霜の降る頃のもの。時期によって>　jüngijage\n\n（上は手書きのローマ字表記と注記の概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03371.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03371",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03371.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "4781.86",
+      "4782.04",
+      "5538.63",
+      "5555.09",
+      "5557.42",
+      "5552.85",
+      "5564.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）□は厳密にする。\n\n日本言語地図資料用紙　注記　33-72\n項目番号　地図番号　127\n項目名　しもやけ　068\nA（高頻度記述）　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(24)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n4781.86    jugijage　＜あまり使わない＞    simojage, simobukure\n4782.04    simojage　＜かゆい程度のもの＞\n(jugijage)　＜たたれにくるほどのもの＞\n5538.63    ikakake　はじめてキケというのが訂正した。\n5555.09    simibare　＜古＞    simbare\n5557.42    simbare　＜耳などのとも＞    ikijake\n5552.85    ikijake　＜新＞    simobare\n5564.76    simojake　はじめの頃\njukijake　＜すれた頃＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03372.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03372",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03372.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [],
+    "other_text": "A・{B}・(C)ごとに別紙を使用する。 その中で情報は地点番号順に並べる。 注記のく<>（）は厳密にする。 日本言語地図資料利用紙 33-73 地図番号 129 項目名 しもやけ 008 ページ (25) 表見出し: 地点番号 / A 言形とその注記 {B・C 除いた言形とその注記} / A 注のない言形 {B・C 残した言形とその注記}。 記入語句: シンバレ。手が主であるという。 NR. ＜なんし 手がミミタという＞ シンバレ ＜皮＞ simojake かゆい jukijake かゆくない jukijake 雪の降ったときです。 jukijake 指などをさす。 jukijake ｛凍え｝ simojake 冬はしない（皮）。 右欄: simojake.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03373.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03373",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03373.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5591.91",
+      "5602.99",
+      "5602.35",
+      "5604.28",
+      "5605.11",
+      "5606.83",
+      "5608.51",
+      "5609.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-74\n地図番号　127　項目名　しもやけ　068\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (26)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5591.91　ユキヤケ　(古)　　　シモヤケ\n5602.99　jukijake <t>（寒はどういましか? につよする語?） jimojake\n5602.35　jimojake <冬のはじめの頃である、古い言い方の様である。>　jukijake <冬最も寒い頃である>\n5604.28　[jimojake]　(鼻の発音?)\n5605.11　jimojake　= 昔日にjukijakeを答えとか、又打消した。\n5606.83　ekimake <左>　jukimake\n5608.51　jukijake　<濁音に異く変色した部分>　jimojake\n5609.26　jukijake <2>　jimojake",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03374.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03374",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03374.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 33-75\nA・B・Cごとに別紙を使用する。\nその中での書換は地点番号順に並べる。\n注記の＜＞（）は注釈欄にする。\n質問番号／地図番号 129\n項目名 しもやけ 008\nA 普通注記　B　C　ページ（27）\n欄見出し: 地点番号／A 言形とその注記（B・C 欄いた言形とその注記）／A 欄のたい語形（B・C 欄した言形とその注記）\njumkijake（く?の膝使った）\nしもやけ（新しい）　ユキヤケ\njumkijake　古い言いは今も使う。simojakeと全く同一のものを意味する。\nしもやけ（上・笑）　エキヤケ\njugi jage／igijage（く?）　sinojage\n[simojake]（6才頃から発生し、被調査…）\nsimojake（赤くはれているもの）　ekijake（くすん…）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03375.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03375",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03375.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 33-76\n質問番号　地図番号 127\n項目名 しもやけ\nページ (28)\n\nA・(B)・(C) ごとに別表を使用する。\nその中での情報を地点番号順に並べる。\n注記の＜＞（）は説明註にする。\n\n地点番号／A 語形とその注記（B・C 欄に書いた語形とその注記）／A 注のない語形（B・C 欄も語形とその注記）\n\nsimojake ＜…子はドヤ様にもきこえる。＞\njunkijake ＜ら＞\njunjijake ＜わりい方かもしれない。＞\nsimojake ＜昔からそういう、という。＞\njokijake ＜常＞ ＜冬時は皮用いな。＞\njunkijake ＜古い語で—現在も相当用いられる。＞\nsimojake\n\n［ekijake］ ＜霜のある時＞",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03376.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03376",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03376.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5618.43",
+      "5623.27",
+      "5623.85",
+      "5625.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-77\n資料番号 地図番号 127\n項目名 しもやけ 068\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)\n地点番号  A 語形とその注記 (B・C除いた語形とその注)   A 注のない語形 (B・C 残した語形とその注)\n<ナ手がよくなる>\n5618.43  simojage   <寒さの為にかこる>\n         jungijage  <霜によっておこる。>\n         (たたれたものをいうようである。)\n5623.27  jikijake  [ˈikijake]\n5623.85  egijage  <simojage と同じようになってきた>\n5625.91  simojake  <秋の終り、冬の初めの、またひとく ならぬ軽い程度のやつ。>\nekijake  <冬のひとくなった凍傷>\n「外にどりいいますか」の1に対する反応に",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03377.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03377",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03377.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙  記録 33-78\n質問番号／地図番号  129\n項目名  しもやけ 068\nページ\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は該辞にする。\n\n地点番号｜A 語形とその注記（B・C 欠いた語形とその注記）｜A 語のたい語形（B・C 残した語形とその注記）\nある。音法第一印象は [ekijake]\n\njukijake.　（カミ手に言われて「くらます」と答えた。）　simojake\n\nekijake.　（この地方は eki、所により egi）\n\nイモヤケ　＜…＞\n\nユキヤケ　＜…＞\n\njukijake　ほかしない。\n\ni'kijake　＜希＞　（simojake）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03378.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03378",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03378.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5644.94",
+      "5646.39",
+      "5655.57",
+      "5657.73",
+      "5663.68",
+      "5664.51",
+      "5666.18",
+      "5682.37",
+      "5685.02",
+      "5700.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-79\n資料番号　地図番号　127\n項目名　しもやけ　068\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (3付)\n\n地 点 番 号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nしもやけ（共）\nシモゲル（しもやけになること）　シモケー\nしもやけ（共）　＜シモゲル＞コトダ―\nしもやけ（共）\njukijake　[くすれたる]　simojake\njukijake　＜寄る＞　simojake\nしもやけ（共）　simojake\n＜sjmogeta＞（動詞）　simojake\nN.R.　[＊simojake]\njukijake　＜使＞こともある　simojake",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03379.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03379",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03379.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5712.70",
+      "5781.22",
+      "5781.65",
+      "5791.23",
+      "5792.18",
+      "5792.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本語方言地図資料用紙　注記一覧　33-80\n（上部ボックス） 資料番号　地区番号　127　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (32)\n項目名　しもやけ　068\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5712.70    simojake. [あれることを〜?]; jakiteru\n5781.22    simojage　見えてきたものについていう。手にあれものに対してはあまり使わない。\n5781.65    kambari　<手指などにもいうか、耳についていることを simojage 主に（皮）>\n5791.23    kambare　痛いだけでいかくない。「しもやけ」　simojake　ひどいもの。\n5792.18    simojake　このeはわかない。\n5792.28    simojage　<普通>\nsimomare　<希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03380.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03380",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03380.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6277.62",
+      "6287.71",
+      "6357.38",
+      "6358.87",
+      "6369.32",
+      "6374.68",
+      "6383.77",
+      "6393.26",
+      "6395.46",
+      "6406.72"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-81\n頁間番号　地図番号　127\n項目名　しもやけ　068\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形　（B・C 残した語形とその注）\n\n6277.62   simobare <新しいのではないか?>          simojake\n6287.71   simobare <はれている時か>              simojake\n6357.38   ユキヤケ <古>                            シモヤケ\n6358.87   シモヤケ <ユキヤケは色が黒くなること>\n6369.32   ユキヤケ　古\n6374.68   jukijake <上>                              kanjake\n6383.77   ikijake <じゅが本当だろうか>\n6393.26   jukijake <希>                              kanjake\n6395.46   カンヤケ <古>                             カンハレ\n6406.72   ikuke （念を押したか 10度いや なせくらい ある。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03381.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03381",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03381.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙 33-82\nA・B・Cごとに別紙を使用する。／その中での資料は地点番号順に並べる。／注記の〈 〉（）は厳密にする。\n［枠内］ 調査番号　地図番号　地点番号（12）／項目名　しもやけ　068／A 普通語記（B 欠いた共通語）（C 欠いた特殊語）／ページ（35）\n表見出し：地点番号｜A 語形とその注記（B・C 欄いた語形とその注）｜A 注のない語形（B・C 残した語形とその注）\n記入：\nエキヤケ　エキ＝雪？\nユキヤケ　〈黒くなるが かゆくならん。〉\nシモヤケ　〈普通〉\nユキヤケ　〈古、今〉\nukijake　〈古〉　simojake\nシモヤケ　〈雪以前・雪の頃〉\njukijake　当地方言？\nユキヤケ　〈古〉　しもやけ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03382.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03382",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03382.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6431.85",
+      "6434.57",
+      "6437.07",
+      "6441.71",
+      "6446.43",
+      "6456.73",
+      "6458.91",
+      "6460.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-83\n調査番号　地図番号　127\n項目名　しもやけ\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)\nページ　5\n\n表ヘッダ: 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nシモヤケ　シモヤケ、シモヤケタ などいう。\nシモヤケル　シモヤケにあることをいう。　シモヤケ\nユキヤケ　〈黒くなる？〉　（筆の表現）\nシモヤケ　〈赤くなる〉\n〈特にこわめる〉という？\nシモブクレ（名詞）\nシモブクレル（動詞、3F一）\nsimobukure　〈名〉　（右欄に：simojake）\nシモバレ　〈手の甲がよく張った時〉　シモヤケ\nkijake?　雪は2尺くらい　底ゆけ（ねゆぎ）になる。\n\n（注：手書きのメモや括弧内の不確かな読みなどは原文に即して粗書き）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03383.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03383",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03383.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6466.41",
+      "6476.17",
+      "6477.02",
+      "6481.94",
+      "6484.78",
+      "6485.14",
+      "6485.82",
+      "6487.66"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。\n日本語地図資料用紙 注記一覧 33-84\n資料番号 地図番号 129\n項目名 しもやけ 068\n(A) 共通方言 (B 除いた共通語) (C 除いた特殊語) ページ (記入あり)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6466.41　シモブクレ　<苔>　　シモヤケ\n6476.17　シモブクレ　<今度がなくからっことば>　\n6477.02　シモヤケ　<くまだ〜十分によくあがらず、もよおしている時をいう。>\n　　　　シモブクレ　<ひとごとよくんあがった状態をいう。>\n6481.94　カンベレ　(チの甲をとりこでできるもの)　、シモヤケ\n6484.78　シモブクレ　'少い'　シモヤケ\n6485.14　シモブクレ　<古>\n6485.82　シモブクレ　<古つ>\n6487.66　SIMOBUKURERU　<シモブクレトルという動詞形もある>　シモブクレ\n\n（手書き注記・丸印等あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03384.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03384",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03384.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6494.24",
+      "6501.92",
+      "6505.60",
+      "6510.65",
+      "6511.33",
+      "6511.85"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )は厳密にする。 日本言語地図資料用紙　注記一覧　33-85 (欄内) 地図番号 (129) 項目名　しもやけ 068 (D 普通語記) (B 除いた共通語) (C 除いた特殊語) （但しシモブクレルという いはすは ないようである。） A語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) シモブクレル　〈古〉 シモヤケ　最近いう。 ユキヤケ　(左)、50年位前では一般的。 jukijake　〈昔〉 ユキヤケ　〈やや多〉　シモヤケ ユキヤケ　〈希〉　シモヤケ 5jimjake　〈ひとくない時〉 jukijake　〈ひといとき〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03385.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03385",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03385.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧 33-86\n質問番号／地区番号 129\n再・日名 しもやけ\nページ(38)\n・A・(B・C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（ ）は厳密にする。\n見出し： 地点番号／A 語形とその注記（B・C除いた語形とその注）／A 法のない語形（B・C 残した語形とその注）\n65 14.61    simoyake ＜多いかんと？＞    |    yukiyake\n65 16.15    イチャケ ＜この場合に限って雪のことをイキという。＞\n65 18.30    イチャケ ＜他＞\n65 21.17    ユキヤケ／シモヤケ ＜ひどくなった時、足の指＞    |    シモヤケ\n65 23.54    yukiyake ＜棒＞    |    simoyake\n65 26.04    イチャケ ＜あまり使わない。＞／シモヤケ ＜普通使う。＞\n65 34.37    yukiyake ＜割り？＞    |    simoyake\n65 34.41    yukiyake ＜程度のひどいもの、ひどさはひと…＞",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03386.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03386",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03386.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6534.85",
+      "6544.26",
+      "6545.41",
+      "6552.46",
+      "6563.43",
+      "6564.33",
+      "6572.29"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-87\n質問番号　地図番号　(12)\n項目名　しもやけ 068\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ 9\n\nはれあがったり、くすんだりしたもの。\nsimoyake <程度のひどくないもの。>\nyukiyake <降つく(雪がつもり降らないからである。)> simoyake\nyukiyake <名>\nyukiyake <な>\nsimobare <「シモヤケ」とは言わぬ。>\nsimobare <赤くはれる時>\nsimojake <ひどくなるとすねるようなときに限る。>\nsimojake <「シモバレ」の語はない。>\nsimobare <「シモヤケ」とは言わない。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03387.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03387",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03387.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6592.55",
+      "6574.06",
+      "6597.21",
+      "6580.66",
+      "6581.52",
+      "6583.19"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は敬称にする。\n\n日本音語地図資料用紙 注記一覧 33-88\n資料番号　地図番号　127\n項目名　しもやけ 098\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ 49\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6592.55　simojake　①のみ。\n　　　　simobare　[はれるとか]\n6574.06　simojake　（「シモハレ」は使わない。）\n6597.21　simojake　（はじめて知らぬと答え, のちくんを訂正。） N.R.\n6580.66　シモバレ　〈ぐっと大きくはれるのを言う〉\n　　　　（左表のことは。）\n\nしもやけ　〈それままくなってはれているのを言う〉\n　　　　（先通俗語）\n\n6581.52　しもやけ　〈シモバレという人もある。〉\n6583.19　simojake　（「シモハレ」は用いないとのこと。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03388.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03388",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03388.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6590.87",
+      "6618.51"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 33-89 質問番号 地図番号 127 A(普通注記) (B 除いた共通語) (C 除いた特殊語) 項目名 しもやけ 068 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6590.87 シモバレ く一面にはれあがるものをいう。 シモヤケ くどこか一部がかたくなったり色がかわったりするものをいう。(女) (区別しない人が多い。) 6618.51 simojake <[simojake]というのは次にできるもので 手にできるのは[mizumuː]> 66 55.38 simobare しもやけのあと のやけどのようになったのに simojake という 67 01.46 simojake (kは半有声) 72 08.97 simobare (腫れてきた場合) simojake",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03389.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03389",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03389.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。 その中での首順位は地点番号順に並べる。 注記のく（ ）○は注意にする。 日本言語地図資料用紙 記入一覧 33-90 質問番号／地図番号 127 項目名 しもやけ （ページ 42） 地点番号／A語形とその注記（B・C除いた語形とその注記）／A注のない語形（B・C残した語形とその注記） simobare ＜奄＞ ｜ simojake simobare ＜奄＞ ｜ simojake simojake （？） ｜ simobare シモバイ ＜奄＞ ｜ ？ シモバーレ（ら） ｜ ？ simojake ＜多い＞ ｜ simobare simobare ＜ら＞ ｜ simojake simobare ＜ら＞ ｜ simojake kambare ＜シモヤケとは言わない。＞ ＜この島 霜が少ない。＞",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03390.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03390",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03390.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7329.57",
+      "7343.76",
+      "7351.68",
+      "7354.23",
+      "7357.69",
+      "7362.67",
+      "7364.34",
+      "7366.81"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-91\nA・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n質問番号 地図番号 (127)\n項目名 しもやけ 068\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\n\n地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注）\n\n7329.57 jukijake, simojake (よび方のちがいは別にどれがこれが来る) (時期によるものではないらしい。)\n7343.76 simojake <ヒ> simobare\n7351.68 Gibi シモヤケとてもなちががーと記した。\n7354.23 シモヤケ <シモハレとはえらない。>\n7357.69 simojake <穴のホケルほどーひどいのをいう> ; simobare\n7362.67 シモバレ <希><古> シモヤケ\n7364.34 シモヤケ, シモバレ <ともに新言なし>\n7366.81 simonije imonijuru という動向もある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03391.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03391",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03391.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7367.49",
+      "7368.32",
+      "7373.56",
+      "7373.59",
+      "7374.15",
+      "7375.37",
+      "7381.38",
+      "7382.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-92\n頁間番号　地図番号　127\n項目名　しもやけ　068\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (44)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 {B・C 残した語形とその注}\n\n7367.49　simobare　〈立つ〉　simojake\n7368.32　simobare　〈希〉　simojake\n7373.56　シモバレ　(痒)\n7373.59　シモヤケ　〈本来すなからのことは〉\n　　　　シモバレ　〈特に午後にはれんシモヤケをいう語である〉\n\n7374.15　シモヤケ　〈シモハレとはちがね。〉\n7375.37　simojake　〈多〉　simobare\n7381.38　シモヤケ, シモバレ　〈いずれか新しいものか不明〉\n7382.01　simojake　〈名〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03392.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03392",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03392.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7383.83",
+      "7383.98",
+      "7385.84",
+      "7386.55",
+      "7386.56",
+      "7312.45"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 日本言語地図資料用紙 注記一覧 33-93 資料番号 地図番号 127 項目名 しもやけ 068 (A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ 5 表 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 7383.83 simobare シモバレ <ち> しもやけ 7383.98 シモバレ <ちからいう> しもやけ 7385.84 simojake シモジャケ (注記: 他にミンにも聞いてみたが simobare とは言わないよう。実際 simobare の語はないようである。) 7386.55 simobare <腫れている場合> simojake 7386.56 simobare <腫れた場合> simojake (どちらも使い、意味が違うようである) 7312.45 シモハレ <はれもすくにということが多い>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03393.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03393",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03393.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7403.86",
+      "7410.57",
+      "7411.27",
+      "7420.18"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は略語にする。\n\n日本語語地図資料用紙 注記一覧 33-94\n質問番号　地図番号　127\n項目名　しもやけ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n【表見出し】\nA 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\nsimojake　<11,12月ころにできたものをいう。>\njukijake　1,2月ごろにできるものをいう。\njukijake で腫れているものを\nhibi ga kire tornu という。\n手の皮膚をこわしているのを akagire という。皮膚にできたものをみせるなり。\n\njukijake　(凍傷がひどくて <kawa ga mu ke tadareru> という由。) jimojake\n\njukijake　<ひどくはれてくずれたりしている。> simojake\n\njukijake　を\n\nsimojake　<軽症のもの>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03394.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03394",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03394.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7424.67",
+      "7427.90",
+      "7430.15",
+      "7431.08",
+      "7431.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙　注記－ 33-95\n質問番号　地図番号　127\n項目名　しもやけ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7424.67    jukijake　＜雪症で一広くつかわれるものをいう＞    simojake\n7427.90    simobare　＜土＞    simojake\n7430.15    jukijake, simojake\n　　　　（別に、できる時期によっていい方を変えるのではないらしい。）\n7431.08    jukijake　＜雪が降るよりになってからできた simojake のをいう。＞\n7431.13    simojake, jukijake\n　　　　（同じものてある。雪が降ってから）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03395.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03395",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03395.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7442.38",
+      "7500.66",
+      "7501.14",
+      "7501.72",
+      "7502.91",
+      "7503.11",
+      "7510.18"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　33-96\n\n質問番号　　地図番号　127\n項目名　しもやけ　068\n(A) 普通注記　　(B 除いた共通語)　　(C 除いた特殊語)\n\n（手書き注）ひから jinki;jake である、という／わけでもない、とのこと。\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n7442.38　　simobare　　<古>　　　　　　　　　　　　　jimojake\n7500.66　　シモヤケ　　(シモハレともいう。)　　　　　シモヤケ\n7501.14　　シモハレ　　<ウィ>　　　　　　　　　　　　シモヤケ\n7501.72　　シモハレ　　<サイ>　　　　　　　　　　　　シモヤケ\n7502.91　　シモハレ　　<新>　　　　　　　　　　　　　シモヤケ\n7503.11　　simobare　　<春くはれたもの>　　　　　　(simojake)\n　　　　　simojake　　<続称>\n7510.18　　シモヤケ　　<多く使う>　　　　　　　　　　シモハレ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03396.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03396",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03396.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "8300.80",
+      "8302.55"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での情報は地点番号順に並べる。\n▸ 注記の＜＞（ ）［ ］は厳密にする。\n日本言語地図資料用紙　注記一覧　33-97\n資料番号　地図番号　127\n項目名　しもやけ　068\n(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (48)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nシモヤケ　<ふく用いる。>　　　　　　　　　　　　　　シモハレ\nシモハレ　<む>　　　　　　　　　　　　　　　　　　　シモヤケ\nシモハレ　<チ一面にとくっとはれ上るのをいう。>\nシモヤケ　<チの一部分のときに用いる。>\nN.R.　(しもやけにならない。）\nN.R.　<ならない>\nsinojage　<新>　　　　　　　　　　　　　　　　　　　sinobare\nシモハレ　<〜に足にこわているものをいう。>　　カンバレ\nシモハレ　<希><やぶる>　　　　　　　　　　　　　　シモヤケ\nsinobare　多　　　　　　　　　　　　　　　　　　　simojake",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03397.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03397",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03397.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "8310.26",
+      "8310.87",
+      "8312.33",
+      "8332.42",
+      "8335.05",
+      "8352.40",
+      "8373.43",
+      "8393.69",
+      "9303.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-98\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n（右上の欄）質問番号　地図番号　127　項目名　しもやけ 068\n（右側小欄）A 普通注記　（B 除いた共通語）　（C 除いた特殊語）\n表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n手書き項目（A欄等・原文のまま）:\nsimobare <b>\nsimobare <b>\nsimobare <b>\nsimobare <b>\nsimobare <多> <近頃でもある(度うとも思う)>\nsimobare （これはjeにはあらず）\nsimobare <手など>\nsimojake <耳など>\nsimojake （-ke a kは軽く濁る）\nsimojake\nsimobare <希>\n（ページ下囲み罫線）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03398.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03398",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03398.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "0228.96",
+      "237.29",
+      "0238.55",
+      "0246.97",
+      "0247.56",
+      "0248.00",
+      "0249.17",
+      "256.96",
+      "0256.89",
+      "0257.12"
+    ],
+    "other_text": "日本語音地図資料用紙 注記一覧 34-1\n地図番号 127\n項目名 しもやけ 068\nA (普通注記)  [B 除いた共通語]  [C 除いた特殊語]\n地点番号　A語形とその注記 [B・C除いた語形とその注]\n0228.96  N.R.  <実物なし>\n0237.29  N.R.  <実際に体験しない>\n0238.55  N.R.  <実物を見ない>\n0246.97  simojake <新>\n0247.56  simojake <希> (カミコマが来たのだろう.)\n0248.00  N.R.  <実物ヲ見ナイ>\n0249.17  kammaki; <強いていえば>\n0256.96  N.R.  <実際にない>\n0256.89  N.R.  <演場実際になし>\n0257.12  simojak <こもやけは全然しないけれども>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03401.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03401",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03401.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "0257.43",
+      "0265.96",
+      "0275.97",
+      "0276.50",
+      "254.66",
+      "294.73",
+      "0340.00"
+    ],
+    "other_text": "日本音声地図資料用紙　注記一覧　34-2\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n資料番号　地図番号　129\n項目名　しもやけ　068\n（D）普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n\n地点番号　A語形とその注記（B・C除いた語形とその注記）　A注のない語形（B・C 残した語形とその注記）\n\nN.R.　<事実がない>\n/　<そういうことがない>\n/　<事実がない>\n/　<そういうことがない>\nそういうことがない\nない\njimuFari　<希>\nkammaki (裏ママの義)\n/　ない\nごくまれに　しもやけになることが",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03402.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03402",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03402.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "1242.22"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　34-3\n資料番号　地図番号　127\n項目名　しもやけ 058\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nあるか言葉はない。\nN.R.　＜最近、寒気が厳しいせいか、足先が赤くはれるか、名は知らない＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03403.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03403",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03403.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "0894.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 34-4\n調問番号　地図番号　127\n項目名　しもやけ　068\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ (1)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nsimojake　＜今＞　＜東は sibareta?＞\nシモヤケ　＜新＞　ジンパレ\nsi;mojake　＜新＞　＜新＞・・＜大人になってから使われ… jukigake ＜B＞　ことば＞　＜る（若の使用例）＞\nsimojake　［新］　jukijake\nシモヤケ　（手書き注記：ユキヤケがちいさい子で現在もこれを用いる。シモヤケも同じ意義であるが、新しいことばであろう。例に改まった言いかたでもないようである。）　ユキヤケ\nsimojake　＜新＞　jukimake",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03404.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03404",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03404.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "4703.18"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 34 - 5\n質問番号　地図番号　127\n項目名　しもやけ 068\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ (2)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4703.18.　simojake　<昔から用い, 今も多く用いる>　jumkijake\n47 34.20　simojake　<新>　j2mgijake\n55 08.19　simojake　<新>　ikijake\n55 65.12.　シモヤケ　<稀?>　（足がむくある）(?)　シンバレ、チが立ってるといふ\n55 65.55　simojake　<新>　sinbare\n55 66.95　シモヤケ　<新?>　イキヤケ\n55 67.46　シモヤケ　<共>　シンバケ\n55 79.10.　シモヤケ　<共>　シンバレ\n\n（注：手書きの英字・注記は判読が曖昧な箇所あり。上は読み取れる範囲の粗い転写。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03405.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03405",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03405.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<>（）は注釈にする。\n日本言語地図資料用紙 注記一覧 34-6\n地図番号 129\n項目名 しもやけ 058\nA 普通注記 / B 聞いた共通語 / C 聞いた特殊語（B に○） （3）\n表見出し: 地点番号 / A 語形とその注記（B・C 聞いた語形とその注記） / A 語のない場所（B・C 聞いた語形とその注記）\n各行の語形メモ:\nsimojake. <手甲など。>\nsimojake. <ヤト上>\nシモヤケ <共>\nsimojake <新>\nsimojake <新> j-mkijakeと全同一のもの\nsimojake <新> <今はこれを多く用いる>\nsimojake <新>\n右欄メモ:\njunkijake. <共通だけ>\njmkijake.\nジュンケレ\njunki jake <古>\n（上の語を誰か使う）\njokijake\njunki jake <古い語>",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03406.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03406",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03406.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "6369.32",
+      "6407.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［］は厳密にする。 日本言語地図資料用紙 注記一覧 34-7 質問番号 地図番号 127 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4) 項目名 しもやけ 068 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） simojake ＜共＞    jukijake simojake ＜共＞    jukijake simojake ＜新＞    jukijake シモヤケ 新    ユキヤケ 古 シモヤケ ＜希＞    ユキヤケ simojake ＜新＞    jukijake シモヤケ ＜今＞    ユキヤケ ＜古・今＞ シモヤケ ＜新＞    ユキヤケ ＜古＞ シモヤケ ＜新英＞    シモハシ シモヤケ ＜新＞    シモつつし ＜今も使うか古くの＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03407.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03407",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03407.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "6476.92",
+      "6485.14",
+      "6485.82",
+      "6494.21",
+      "6505.60",
+      "6507.72",
+      "6524.01",
+      "6524.66"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。 日本官版地図資料用紙　注記一覧　34-8 管理番号　地図番号　(127)　項目名　しもやけ A 普通注記　R 除いた共通語　(C 除いた特殊語) （5） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 6476.92　シモヤケ　〈新〉　シモブクレ 6485.14　シモヤケ　〈新〉　シモブクレ　〈古〉 6485.82　シモヤケ　〈新〉　シモフクレ　〈古〉 6494.21　シモヤケ　〈新〉　シモブクレ　〈古〉 6505.60　simojake　〈今〉　juki;jake　〈英〉 6507.72　シモヤケ　〈現在、英〉 〈昔は（最初の形）はなかった。手かーシミタ。手をシバラカシクとるれ。〉 6524.01　simoyake　〈新〉〈終戦後に〉　yuki;yake 6524.66　simoyake　〈新〉　yukiyake",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03408.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03408",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03408.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 記載一覧 34-9\n▶ A・〔B〕・〔C〕ごとに註記を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 註記のく＜＞（ ）は該語にする。\n質問番号　／　地図番号 129　／　ページ (6)\n項目名　しもやけ　058\n見出し: 地点番号／A 語形とその註記（B・C 除いた語形とその註記）／A 注のない語形（B・C 除いた語形とその註記）\nsimojake ＜新＞ | yukijuke ＜古＞\nシモヤケ ＜共＞ | シモバレ\nシモヤケ ＜共＞ | シモバレ\nシモヤケ ＜共＞ | シモバレ\nsimojake ＜いいことば＞ | sinobare\nシモヤケ | シモバレ\nシモヤケ | シモバレ (b)\nsimojake ＜新＞ | sinobare\nsimojake ＜共＞ | sinobare\nsimojake ＜参＞ | juki; juke",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03409.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03409",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03409.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "7340.24",
+      "7352.97",
+      "7361.17",
+      "7363.85",
+      "7373.92",
+      "7390.26",
+      "7391.94",
+      "7392.33",
+      "7393.62"
+    ],
+    "other_text": "A・［B］・［C］ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　34-10\n調問番号　地図番号　127\n項目名　しもやけ 068\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nシモヤケ　〈新〉　　　シモハレ\nシモヤケ　〈共〉　　　シモハレ\nシモヤケ　〈希〉　　　〈〈シモハレ〉〉\nシモヤケ　〈共つく上〉　シモハレ\nシモヤケ　〈やっ希〉　　シモハレ\n　　　　　　　　〈何んもないか？〉\nシモヤケ　〈新〉　　　シモハレ\nシモヤケ　〈希〉　　　シモハレ\nシモヤケ　〈新〉　　　シモハレ\nシモヤケ　〈新〉　　　シモハレ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03410.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03410",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03410.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙 34-11\n質問番号  ／ 地図番号 127\n項目名 しもやけ 058\nA 共通語形／B 限いた共通語／C 限いた特殊語  ページ (8)\n▶ A・{B}・Cごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく<>（）は厳密にする。\n\n見出し: 地点番号／A 語形とその注記（B・C除いた語形とその注記）／A 注のない語形（B・C残した語形とその注記）\n\nsimojake ＜新しいものである。＞  |  juki jake\nsimojake  |  junkijake 左\nsimojake ＜共＞  |  simobare\n＜使用率ほゞ普通＞\n↑コメ\nsimojake ＜若い人らに＞  |  simobare\nシモヤケ ＜共＞  |  シモバレ\nシモヤケ ＜共＞  |  シモバレ\nシモヤケ ＜共＞  |  シモバレ\nシモヤケ ＜共＞  |  シモバレ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03411.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03411",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03411.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "7522.48",
+      "7522.94",
+      "7523.30",
+      "8302.19",
+      "8312.33",
+      "8316.20",
+      "8320.78",
+      "8324.26",
+      "8325.03",
+      "8331.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本語地図資料用紙　注記一覧　34-12\n調査番号　地図番号　127\n項目名　しもやけ 068\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7522.48　シモヤケ　＜共＞　シモハレ\n7522.94　シモヤケ　＜共＞　シモハレ\n7523.30　シモヤケ　＜共＞　シモハレ\n8302.19　シモヤケ　＜新＞　シモハレ\n8312.33　simojake　＜新＞　simobare　＜B＞\n8316.20　simojake　＜共＞　simobare\n8320.78　simojake　＜上品＞　simobare\n8324.26　simojake　＜共＞　simobare\n8325.03　simojake　＜新＞　simobare\n8331.12　simojake　＜新＞　simobare",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03412.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03412",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03412.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "8335.05",
+      "9303.88"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　34-13\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n（右上枠）地図番号　127\n項目名　しもやけ　068\nA　普通注記　B（除いた共通語）　C（除いた特殊語）　（10）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n8335.05    simojake　<新>　　　simobare　<写>\n　　　　（手書き注記）\n83 73.08   simojake　<新>　　　simobare\n9303.88    simojake　<新>　　　simobare　<希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03413.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03413",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03413.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "1786.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧 34-14\n項目番号　地図番号　127\n項目名　しもやけ\n（表の列見出し）地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n1786,13　アカギレ　くそやけ つめいたもの？　しもやけ\n18 14,25　トオショオ　〈真冬〉\n18 16,52　トオショオ　〈真冬、一月、二月〉\n（トオショオ＝かかとをこわることをカハレルという）\n18 54,24　to:jo: 〈くね〉　ko:ta kasu\njaketa\njaraketa\nkoitta\n真冬にいる。\njimojake, sibareta\n28 03,22　トオショオ　真冬　シモヤケ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03414.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03414",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03414.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-15\nA・(B)・(C)ごとに欄を使用する。\nその中での情報は地点番号順に並べる。\n注記のくく<>(){}は厳密にする。\n質問番号／地図番号 127  項目名 しもやけ 068  ページ (2)\n見出し: A 語形とその注記（B・C 欄いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\nトーショーニナカタ。｜スバレ\nsimojake <軟>｜jügijage\nto:so; 孫に使いかけ。｜simojake そのはじめに使ふ\n[jzoogi jage] など｜\nトオショオ｜シモヤケ\nsimojake（広）｜jukijake\nto:jo; <最北>｜simojake\nto:jo;（多く用いる）｜jukijake まともすぎる\n（オショオ） <欠>｜シモヤケ\nタダレ｜",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03415.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03415",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03415.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "9392.45",
+      "7418.07",
+      "7470.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　34-16\n質問番号　地図番号　129\n項目名　しもやけ　058\nA　普通注記　ページ\n(B) 除いた共通語\n(C) 除いた特殊語　(3)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n9392.45　アカガレ　＜くせつの入ったものにいうことが多い＞　しもハレ　＜くはれんもり　ことが多い＞\n7418.07　simobare　多い　　simojake\n7470.27　to:jo:　こいや（高田）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03416.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M127Q068/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03416",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03416.tif",
+    "source_ljc_id": "LJC-M127Q068",
+    "source_map_numbers": [
+      "127"
+    ],
+    "source_title": "しもやけ (凍傷)"
+  }
+]

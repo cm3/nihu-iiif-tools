@@ -1,0 +1,1343 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.12",
+      "0776.88",
+      "0840.33",
+      "0873.94",
+      "0894.61",
+      "1761.74",
+      "1893.10",
+      "3649.58",
+      "3688.82",
+      "3710.91"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-83\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は省略にする。\n\n（右上枠）調査番号　地図番号　141\n項目名　祖父　242\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n\n表ヘッダ：地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き記録（概略）：\n0724.12　zizi　＜50重mのこと＞\n0776.88　jiosan　（ヒミツサンがあてらしい直した）　ji○ama\n0840.33　mayodzidzi　＜はっきりと別する時＞　odzidzi\n0873.94　odzidzi　＜尊＞\n0894.61　dzüntsa　＜子どものとき＞\n1761.74　オンヂイサン　dʒaの前の鼻音とみる（70?）　oto:san no oto:sa n～\n1893.10　NR　＜50年というほかわからない＞\n3649.58　dzitta ja　記号なし\n3688.82　dzün dzo　＜左＞\n3710.91　dzitta ja　階層　相違あらわんかなり\n\n（ページ内の手書きや小さな注記は判読困難な箇所あり。上は読み取れる範囲の粗い転写。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03983.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03983",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03983.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3711.92",
+      "3711.98",
+      "3713.25",
+      "3717.90",
+      "3721.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一 39-84\n質問番号 地図番号 141\n項目名 祖父 242\nA 普通注記 ページ (B 除いた共通語) (C 除いた特殊語)\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\ndzi    10軒みなくdziの部落?ある、いわばことごと下層階層。\ndzi tta (中)\ndzi・dzi kko (下)\ndzi・dzi (上)\ndzi na (普通)\nmama    父: dà'da, tete  母: aba\nいい mama, はは baba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03984.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03984",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03984.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3722.90",
+      "3730.39",
+      "3731.61",
+      "3733.73",
+      "3733.88",
+      "3741.5",
+      "3746.41",
+      "3750.28",
+      "3750.43",
+      "3742.82"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 39-85\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n（右上の枠）質問番号　地図番号　14/\n項目名　祖父\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　(3)\n表ヘッダ: 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n手書き欄（概訳・逐語）:\ndzi'ttja 中, dzi'ikko 下\ndzi'ttja (上), dzi' (中), dzi'ikko (下)\n上半下は唯段階差、上は上、次という度ではない。\ndzi'ikko (男)\ndzi'i　やや長め。\nジチ　いっけにいんろ(?)　オスーサン\ndzi'ikko (男)\nアンマ　＜祖父、曾父とも＞\ndzi'ttja (上), dzi'ikko (下)\ndzi'ttja (普通)\ndziidzi' dzi' (下) 2表（利用とする。(KAT)）\n（その他、手書きの短い注記や編集マーク多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03985.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03985",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03985.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3752.47",
+      "3760.33",
+      "3761.22",
+      "3762.85",
+      "3767.22",
+      "3771.97",
+      "3772.73"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-86\n▶　A・（B）・Cごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜＞（）｛｝は厳密にする。\n資料番号　地図番号　14/\n（A）普通注記　ページ\n（B）除いた共通語\n（C）除いた特殊語\n項目名　祖父　242\n---------------------------\n（表見出し）\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\ndziːtsa （やっ上）, dziː (普通), dziːkko (軽音?)\ndziːt͡sa （やっ上）\ndziːt͡sa （中）, dziːkko （下）\ndziːsa （普通）, dziːː （下）\nズマ ＜菅？＞\ndziːsa （上）, dziː dziː （中）, dziː: （下）\ndziː dziː （一般）, dziːsa （上厚）\n\n（注）上中・下は厳密な意味の上層、中層、下層ではない。\n調査地区は野りはるかでしなければならないなら、なかなか農畜業の集まりである。上層はいつもが農、上と言うところ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03986.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03986",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03986.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3782.12",
+      "3782.38",
+      "3782.98",
+      "3791.02",
+      "3791.76",
+      "3794.55",
+      "4609.25"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-87\n▸ A・(B)・(C)ごとに別紙を使用する。\n▸ その中での情報は地点番号順に並べる。\n▸ 注記の＜＞（）〔〕は厳密にする。\n(右上の枠) 質問番号　地図番号　141　項目名　祖父　242　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n3782.12    dziisa    (やや上)    dzi\n3782.38    dzi'kko    (単称)    dzi:\n3782.98    dziisa    (上), dzi'dzi (下)\n3791.02    zindzi    dzi\n3791.76    dziisa    (中) dzitts'i (同義語)\n3794.55    zusu    <上とも>\n4609.25    dzi'dzi (術), dzi'dza (中部), dzi'ta (中央)\n（ページ下部に続く手書き注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03987.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03987",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03987.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4628.61",
+      "4648.51",
+      "4676.67",
+      "4686.52",
+      "4694.26",
+      "4695.33"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　39-88\n質問番号　地図番号　141\n項目名　祖父　242\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語] (6)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n4628.61  dzuʔtta <上>, dzu' 211とする。(えんが?) dzu=ja.\n4648.51  ~magoja. 名称。\n(次行) dʑi: (書きの階層で用いる)\nodʑi: (やや上層の上部を示す)\n4676.67  mago dʑi ja. <下流><実家内 尊意うすい>\nmago dʑi:dʑi <中流>\nmago dʑi:san <上流>\n4686.52  magodʑi:sama (敬意が含まれている)\n4694.26  magodʑi:saN. <下位層による区別なくこんを使う>\n4695.33  dʑi: saN. <左> <有り時使った>\n(以下省略、手書き注記多数)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03988.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03988",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03988.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4695.33",
+      "4698.24",
+      "4699.07",
+      "4702.10",
+      "4705.20",
+      "4711.42",
+      "4713.45",
+      "4714.68",
+      "4724.00",
+      "4725.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-89\n質問番号 地図番号 141\n項目名 祖父 242\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n4695.33    odzj;dzi    (いくらか敬意がある)\n4698.24    dzi; s a m a.    <普通の言い方>\n4699.07    dzi:ntʃaN.    <普通の言い方>\n4702.10    dzi:sa.\n4705.20    zɯn wama    (普通)\n4711.42    dzi; s a m a    <普通はこう言う>\n4713.45    odzj;saN.    (呼び名もこれと同じ)\n4714.68    ozɯntʃaN.    <上>\n4724.00    dzi:ntʃama.    <呼び方は odz... と同じ>\n4725.68    dzi; dzi    (呼び名は dzi:ntʃaN)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03989.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03989",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03989.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4726.80",
+      "4742.37",
+      "4742.43",
+      "4753.36",
+      "4761.93",
+      "4762.56"
+    ],
+    "other_text": "日本音語地図資料用紙　注記一覧　39-90\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n質問番号　地図番号　14/　A音注記　ページ　(A)　(B除いた共通語)　(C除いた特殊語)\n項目名　祖父　242\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n4726.80　odzi:tjan .. <自分の家ではこう言っている> dzi+dzi, dzi~ntsan.\n4742.37　odzi~ntsa　<敬意を表しているとき> dzi~ntsa.\n4742.43　dzi~ntsan.　<新>\n4753.36　odzi~ntsan　<呼びかけに使うことの方が…> dzi+dzi+..\n4761.93　dzittsi　<敬意のない場合>\n4762.56　odzɯ~tjan　<上品> dzi~ntsam <下品>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03990.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03990",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03990.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4762.90",
+      "4771.98",
+      "4723.7",
+      "4783.38",
+      "4791.12",
+      "4791.37",
+      "4792.80"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報に地点番号順に並べる。 注記の< > ( ) [ ]は敢てにする。 日本言語地図資料用紙 注記一覧 39-91 質問番号 地図番号 141 項目名 祖父 242 (A)普通注記 (B)除いた共通語 (C)除いた特殊語 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 (B・C 残した語形とその注) 4762.90 dʒi:ttʃan. <親しみのこもった言い方> 4771.98 dʒittɕi <普通に用う> 4723.70 dʒittɕi;jan. <幾分の敬意が含まれる> 4783.38 dʒittɕi <少しふつうの感じがする> 4791.12 dʒittɕi;isan. <敬意が加わる> 4791.37 dʒittɕi;isan. <敬意のつよい言い方> 4792.80 dʒi:sama <一般的な言い方>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03991.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03991",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03991.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4793.41",
+      "4794.30",
+      "5462.57",
+      "5463.64",
+      "5472.31",
+      "5569.02",
+      "5585.63",
+      "5598.67",
+      "5602.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-92\n質問番号 地図番号 141\n項目名 祖父 242\nA (普通注記) ページ\n[B 除いた共通語] [C 除いた特殊語]\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形 [B・C 残した語形とその注]\n4793.41  dzittjisan. （敬意のない場合はSANをつけない）\n4794.30  dzittji; ＜敬意をあらわすには「ーさん」をつける。＞\n5462.57  アゴオヤ, マゴシイサン （適宜に使うように）\n5463.64  ジシー ＜古＞ ＜ジン...ハハーであった＞\n5472.31  ジィ ＜左・下＞\n5569.02  ディマ ＜右？＞\n5585.63  oesan, odzidzi  びがしは oesan, いまは odzidzi\n5598.67  ディイチャン ＜る＞\n5602.99  oisan ＜左＞, dzisa (敬意がうすい)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03992.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03992",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03992.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5604.28",
+      "5604.52",
+      "5607.17",
+      "5608.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-93 質問番号 地図番号 141 (A) 普通注記 (B) 除いた共通語 (C) 除いた特殊語 ページ (11) 項目名 祖父 242 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注)\n\n5604.28  dzi:saN 中流、 dzijdzi; 下流 最大多数 （階層による区別があるという。名称であると共に呼び名でもあるのであろう） magodzi;sa\n\n5604.52  dzi:saN （中流）、 odzi;dzi; <上流> magodzi;saN dzi:sa:N, dzijdzi; dzi:i <下流> 今は odzi:saN, odzi;dzi を広く用いる様になった。階層の区別が失われようとしている\n\n5607.17  dzi:sa=nda <普通の言い方>\n\n5608.16  dzi:sa=na <普通の言い方> ＜他の言はしないようです＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03993.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03993",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03993.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5607.17",
+      "5609.81",
+      "5611.39",
+      "5613.33",
+      "5613.80"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　39-94\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は敬略にする。\n\n質問番号　地図番号　141\n項目名　祖父　242\nA　普通注記　（ページ）\n[B　除いた共通語]\n[C　除いた特殊語]　(12)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のたい語形　[B・C　残した語形とその注]\n\ndjisama　＜普通の言い方＞\ndji:　＜うやまわない言い方＞\ndjisa　(はじめdjiにNと交え後方正しれ。)\ndji dji　＜dji saよりやや敬意が高い＞\ndjisa　＜古＞（「うちのじさ」(私の家の祖父の意)）\nodjisa　＜古＞　敬意がある\nOESAN　＜古＞　odjisAN\n（何れも同意の敬意がある。）\n(中おじいさんであるが、... )",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03994.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03994",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03994.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5615.74",
+      "5617.28",
+      "5625.91",
+      "5631.66",
+      "5631.26",
+      "5631.75",
+      "5633.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-95\n質問番号　地図番号　141\n項目名　祖父　242\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(13)\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n（手書き注記）そのような家に行った場合は 自分でも使うかもしれないと言った（こんらは方様であるとともに呼び名）ともなるのであろまいか。\n\n5615.74    [dzjisa]    <普通に使う言い方>    magooja\n5617.28    dzjisa-ma    （　）    magodja\n5625.91    magodzjisaN　（敬意あり）    nagodji:\n5631.66    odzijdzi    <敬ったことば>    dzjissa\n5631.26    dzjissa-ma    <ozjisaN という人もある>\n5631.75    zizi    <老>    ozi:san\n5633.96    ozjisana    （叔父ではなく祖父のこと）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03995.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03995",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03995.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5657.06",
+      "5671.38",
+      "5659.78",
+      "5672.6",
+      "5678.33",
+      "5688.01",
+      "5689.10",
+      "5693.13",
+      "5696.54"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-96\n\n質問番号　地図番号　141\n(A) 普通注記　ページ\n(B) 除いた共通語\n(C) 除いた特殊語　(14)\n項目名　祖父　242\n\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A注のない語形　(B・C 残した語形とその注)\n\nこゥイサイ、　分布から ZIISANI に。(7k,)\noji:sama <左>　　oji:sama\nオジイサン <左>\nオジイサン <普通>　オジイ\nオシィサン <左>　　オシィサン\nオシイサン <妻>, ジイサン <受称>\n（ジィサンは軽い愛称で親しみがわくものこと）\nzi:sama.　分布から長へ。\nオシイヤン <土>　　オシイ\ndjidziri: <ここより東ではこゝろ>　ozi:san.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03996.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03996",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03996.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5700.28",
+      "5700.96",
+      "5702.52",
+      "5710.84",
+      "5712.17",
+      "5721.26",
+      "5723.02",
+      "5750.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-97\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報に地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n（右上の小表）\n質問番号　地図番号　14/\n項目名　祖父　242\nA　（当道注記）　ページ\n[B　除いた共通語]  [C　除いた特殊語]  (15)\n\n表ヘッダ：\n地点番号　A 音形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n行（地点番号を除く、読み取り粗記）：\ndjittʃi　〈敬う時は－SANをつける〉\ndjidʒisa.　〈これは丁寧ないう場合に（使う）〉 dʒidʒ;\ndjittʃi　〈敬う場合には－SANをつける〉\n（も）…〈今でも農家では―〉 シンイチャン\ndjittʃi　〈普通これを使う〉\ndjittʃi　〈普通の言い方〉\ndjittʃiSAN　〈普通の言い方〉\ndjittʃi　〈やや親しみ言い方〉\n（親父さんと同じ言い方をするとのこと。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03997.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03997",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03997.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5790.39",
+      "5791.07",
+      "5792.18",
+      "6267.68",
+      "6338.99",
+      "6349.09",
+      "6349.80",
+      "6359.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-98\n調査番号　地図番号　14/　A（常通注記）　B（除いた共通語）　C（除いた特殊語）（16）　項目名　祖父　242\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の<>（）[]は略容にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)\n\n5790.39    ji:   古         ji:san\n5791.07    jija  ヤヤヤヤ問題あれど一長室とみなす (70k.)\n5792.18    ozi:san, ji:san  <親しみのあるいいい方>\n           ji: sRma  <サマになるとかえって慣口すとや> いうことはちる。\n\n6267.68    ji:   合布から長へ。（70k.）\n6338.99    ジイサン　〈中〉、ジーザン〈下〉\n6349.09    dji:san （下品）、djit tsan（半濁にいる）\n6349.80    ozi:san.（？）　…（別の言い方あるべし）\n6359.62    じー　（若）\n\n（ページ下部に手書き注記等あり、上記は判読できる範囲の概写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03998.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03998",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03998.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6395.61",
+      "6401.89",
+      "6402.53",
+      "6402.94",
+      "6403.60",
+      "6406.77",
+      "6410.45",
+      "6411.80",
+      "6415.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-01\n質問番号 地図番号 14/\n項目名 祖父 242\nA 普通注記  (B 除いた共通語) (C 除いた特殊語)\n地点番号  A語形とその注記 (B・C除いた語形とその注)  A注のない語形 (B・C 残した語形とその注)\n\n6395.61    dzj:tsan.    ① dzj:san.\n6401.89    i-4p    <上>\n6402.53    ジィガマ    <卯>\n6402.94    ジィサン    <下>\n6403.60    オシラチャン    <上>\n6406.77    オシー    <中>\n6410.45    odzj:    <くーやないんにう>\n6411.80    ジィサン    <下>\n6415.78    dzjsa:    <等言っちか今はまわない 下>\n\n(その他、手書きの注記・読み表記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04001.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04001",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04001.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6415.83",
+      "6417.72",
+      "6417.85",
+      "6420.58",
+      "6421.79",
+      "6426.04",
+      "6427.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）［］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　40-02\n資料番号　地図番号　141\n項目名　祖父　242\nA　普通注記\n[B　除いた共通語]　[C　除いた特殊語]　(18)\n\n（表ヘッダ）　地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形（B・C残した語形とその注）\n\ndzi:san, dzi: <旧人に対して自分家の祖父を> 別時に用いる。\nodʑi:saN, dʑi:saN <気分変わってこちらをもたる>\ndʑi:san　--普通\nおじっアン　<上>、じいやん　<下>\nodʑi:ttsan　<上>\nodʑi:isan　<向って呼ぶ時、やや教養のある人が> 〜称として用いる。\nodʑi:　（続きの注記や例文）\n\n（下部手書き注記）　などほかの方言例や注が続く。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04002.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04002",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04002.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6427.40",
+      "6432.22",
+      "6440.25",
+      "6440.81",
+      "6441.71",
+      "6467.73",
+      "6470.11",
+      "6476.92",
+      "6477.02"
+    ],
+    "other_text": "日本書籍地図資料用紙 注記一覧 40-03\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地図番号 141\n項目名 祖父 242\n（A）普通注記　（B 除いた共通語）　（C 除いた特殊語）\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nodz:i: [一般語], dzidzi: [裏口]\nズウサン（ちにはさんのみ）\nオスース, スーリャン [敬意の程度の差はない]\nオゔら チアン <上>, ジンライ <下>\ndzittsan … 普通\nジィヤン（ち）\noji:san\nzi ttsan <b>\nじごい（じごいは単独）\nオッヤン <オヤンは中に父又はたれかのことば>\n\n（ページ全体の手書き注記や羅列された語形、発音表記が記載されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04003.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04003",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04003.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6494.08",
+      "6494.21",
+      "6505.58",
+      "6508.06",
+      "6508.74",
+      "6512.27",
+      "6522.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-04\n質問番号　地図番号　14/\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(20)\n項目名　祖父　242\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6494.08　じーサン　＜下＞　（右欄に注記）\n6494.21　じーサン　（じーサンが普通の言葉。）\n6505.58　いこい　＜下＞\n6508.06　チチー　＜早＞\n6508.74　ゲイヤサ？　＜尊＞\n6512.27　オデイ　＜お＞　オデイサン\n6522.79　オンジャラン　（手書きメモ）　オーイチャン\n\n（下部手書き注）祖父に（何か）20チョー時にいる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04004.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04004",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04004.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6532.30",
+      "6485.46",
+      "6542.27",
+      "6542.32",
+      "6551.77",
+      "6553.52",
+      "6553.99",
+      "6557.14"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-05\n質問番号　地図番号　14/\n項目名　祖父　242\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2/)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6532.30　おじいチャン　<愛称> , おじい　<ややとんざい>\n6485.46　おじいハン　<下>\n6542.27　おじいチャン　<愛称>\n6542.32　おじいチャン　<愛称>\n6551.77　0332na　<男>\n6553.52　onzana　<普通> , 3j;ji: <下品>\n6553.99　0332na　<昔>\n6557.14　majiozi:san (はっきりと男親の男親でというには〜 〜をつける)\n\n(下部手書き) oji:san　<一般に老年の男をさすこともできる>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04005.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04005",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04005.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6560.40",
+      "6562.79",
+      "6562.86",
+      "6571.34",
+      "6572.04",
+      "6572.55",
+      "6573.71"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-06\n地図番号　14/\n項目名　祖父　242\nA 普通注記　ページ\n(B 除いた共通語)　(C 除いた特殊語) (22)\n\n地 点 番 号　　　A 語形とその注記　[B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n\n6560.40    オンジャー　<古>　　　ジャン-\n6562.79    zittsan    243と区別するとき tji ttjai〜\n6562.86    3i:　<古>\n6571.34    ozi jan　<普通><名>　(アクセント “オニャン”)\n6572.04    033zan　<下拍> , 3i3i <下拍>\n6572.55    033aN.　事実により、この土地はよろしい浮砲的場に\n　　　　あることばかりあって、二代前ぐらい前は・・・\n6573.71    03i:san　(たいせい〜さん) を敬称形を用いる\n\n（手書きの注記・語形は読みづらいためおおまかな転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04006.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04006",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04006.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6577.71",
+      "6580.06",
+      "6583.19",
+      "6583.41",
+      "6593.98",
+      "6602.62",
+      "6604.98",
+      "6615.09",
+      "6616.93"
+    ],
+    "other_text": "日本語語地図資料用紙 注記 - 40-07\n地図番号 141\n項目名 祖父 242\n(A) 基本注記  ページ\n(B 除いた共通語)  (23)\n(C 除いた特殊語)\n\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）［］は厳密にする。\n\n地点番号    A語形とその注記 [B・C除いた語形とその注]\n6577.71    zisan (書親が自分の...する時は zisan というようである) magozi; SAN\n6580.06    オシャン 〈ていねい〉  オシー\n6583.19    3i:\n6583.41    oji:\n6593.98    oji:\n6602.62    oji:ma 〈とりわけ親しい呼び方〉\n6604.98    こごい 〈ち〉\n6615.09    オシラ 〈ち〉\n6616.93    gii:oji: , gijozi: SAN (敬称)\n\n(一部手書きが不鮮明なため有力な推定で転記しました)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04007.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04007",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04007.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6621.57",
+      "6634.33",
+      "6641.43",
+      "6643.15",
+      "6649.55",
+      "6657.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-06\nA・[B]・[C]ごとに別表を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（）は厳密にする。\n質問番号　地図番号　14　項目名　祖父　242\nA 注記　(B 除いた共通語)　(C 除いた特殊語) (24)\n①243の欄にあらず。　②調査時に確認のうえで「間違いないか」と質問したが訂正なし。243の時にもう一度確認する機会があったのに訂正しなかったためか、まちがいないと思われる。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nmayozi:san　上\nozi:　る\nozi:　る\noji:　る\ndzi:san\nwbazi:si　<おばあさんは wba:basan とよ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04008.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04008",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04008.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6665.01",
+      "6686.75",
+      "3208.97",
+      "7237.67",
+      "7246.45",
+      "7246.82",
+      "7247.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-09\n地図番号 141　項目名 祖父\n(A) 常通語　(B 除いた共通語)　(C 除いた特殊語\n表頭: 地点番号　A 語形とその注記 (B・C 除いた語形とその注記)　A 注のない語形 (B・C 残した語形とその注記)\nmagozi: 上.\nmagodzi:, ozi 同じ程度に使う。\nmajodzi: san <新?>\nodzi san (d͡zi; とはならない)\nodzi san <叔父 ont͡san>\nodzi; d͡zi; : san\ndzi; i dzi; ct.(父 dzi?: toto, t͡san,\nototo, ototsan, dzaddzasan\n(漢字?) bamba\ndzi; jan. <B>\noʒi:\n(注記、手書きのメモや補足がページ下部に続く)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04009.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04009",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04009.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7258.82",
+      "7259.22",
+      "7266.60",
+      "7266.92",
+      "7269.51",
+      "7289.31",
+      "7317.29",
+      "7326.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-10\nA・[B]・C]ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は敷衍にする。\n\n地點番号\n（表ヘッダ） A 語形とその注記 [B・C 除いた語形とその注記] A 注のない語形 (B・C 残した語形とその注記)\n祖父 242\n141\n\n7258.82 [dzi:jan] dzi::san\n7259.22 ozijan 〈音〉 〈土族は 〜〉 ozi:san\n7266.60 dzi:ndzi: 比較で dzi:ndzi: に含める。\n7266.92 dzi:ndzi: cf. 父 tottfa, 母 hakoa, 祖母 bamba.\n7269.51 dzi:jan [ち]\n7289.31 dzi:saN\n7317.29 magodzi:isa: -〈身体の者が呼ぶ時〉 dzi::san\n7326.69 dzi:jan <下、右> dzi::saN",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04010.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04010",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04010.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7341.51",
+      "7347.93",
+      "7350.96",
+      "7351.68",
+      "7361.17",
+      "7373.82",
+      "7376.62",
+      "7376.68",
+      "7383.88",
+      "7385.38"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　40-11\n資料番号　地図番号　141\n項目名　祖父　242\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n（表見出し）地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n（手書き項目・読み）\ndzi:isan    dzi:saN\ndzi:jaN    <b>\ndzi:    <b>\noji san　（小父さんの様に聞えるが祖父である。）\ndzi:jan　 <やつら>\nデサン\n今サン　長音とみせむ（70k）\ndzi:jaN\ndzi:saN\n（その他手書きメモや取り消し線、注記など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04011.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04011",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04011.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7386.63",
+      "7390.26",
+      "7391.94",
+      "7395.88",
+      "7403.21",
+      "7415.85",
+      "7432.95"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 40-12\n管理番号 地図番号 141\n(A) 共通注記  (B 除いた共通語)  (C 除いた特殊語)\n項目名 祖父 242\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\ndzi:jan.  ...<この方が言らしい>  dzi:san\nオレンシー  (良い家で使う語)  ジィサン、シーサ?\ndzi:san, ojizi  <下からのいい方>\ndzi:jana  <どちらも同じように使うが dzi:jan の方が親しみがあるように思われる>\nojiisan  なげやりないい方をすると 0がつかないか一字体のいい方 では きまって0がつく\ndji,nd3i  <b>  odzi:isan\ndzimma  <下部-> また親しいときに",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04012.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04012",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04012.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7470.72",
+      "1523.27",
+      "7523.30",
+      "7533.11",
+      "8302.91",
+      "8303.84",
+      "8305.76",
+      "8306.04"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-13\n地図番号 141\n項目名 祖父 242\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) (29)\nA・(B)・(C)ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n表見出し: 地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n7470.72    dʒindʒi    <b>    ðʒi; say\n1523.27    シイサマ    <オマといってサンとはいわない。>\n7523.30    シイ    分布から長へ (70k.)\n7533.11    オジイ    <ていねいにいうことば。>\n8302.91    dʒisama    分布からは長短いすれと想えるが 最にしておく。(70k.)\n8303.84    (取り消し線) 3i;san. 211と混む！\n8305.76    0n30    卑。黒口\n8306.04    3ijan    <古くからある> <現在何れも使>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04013.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04013",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04013.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "8325.03",
+      "8335.48",
+      "8342.69",
+      "8352.82",
+      "8361.28",
+      "0247.31"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-14\n地図番号　14\n項目名　祖父\n地点番号　A 音形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n8325.03    dʑi: tʃaN.    <る?>    dʑi:sama\n8335.48    dʑi: tʃaN.    <る> -- <る>供に対して言うし、また1供かに使う    oɟi:san.\n8342.69    ɡi:san    もし243がいたら、tʑiʑi:ka〜という\n8352.82    onzo    <小さいとき> 非常にちいさいことはなく　父, tje tʃo: ぬ. aho:\n8361.28    ondzo    <古>…青年時代まではこんを用いた> dʑi:san\n0247.31    Fusɯu    <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04014.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04014",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04014.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "3767.18",
+      "3783.58",
+      "4687.01",
+      "4695.33",
+      "4698.21",
+      "4699.07",
+      "4702.10"
+    ],
+    "other_text": "日本語方言地図資料用紙 注記一覧 40-15\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）は厳密にする。\n\n質問番号　地図番号　141\n項目名　祖父　242\nA　普通注記　ページ\nB　除いた共通語\n除いた特殊語　（1）\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n\n3767.18　odzi:saN.　＜新？＞　zi:zi:\n3783.58　オジサン　＜丁寧＞\n4687.01　odzi:saN.　(dzisaよりも敬意があり、上q) 階層について使う。　dzi:sa\n4695.33　odzi:saN.　＜敬意があり、たく…用いる。＞　dzi:saN.（舌）\n4698.21　↓\n4699.07　odzi:saN.　＜旧藩士の案で使う？＞\n4702.10　odzi:san　（上）\n\n手書き注記：odz;i:saN. dzi;sa (いくつか敬意がある) magodz;i:san. dzi:sa（尊敬）\n（ページ内の手書きメモや注記を大まかに転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04015.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04015",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04015.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "4746.20",
+      "4783.38",
+      "4791.65",
+      "5472.31",
+      "5568.92",
+      "5584.22",
+      "5594.37",
+      "5595.20",
+      "5595.89",
+      "5598.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-16\n質問番号 地図番号 14\n項目名 祖父 242\nA 音韻注記 ページ\nB 除いた共通語\nC 除いた特殊語 (2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n4746.20  odzi:san. (上)   odzi:san  handwritten notes\n4783.38  odzi:san.        <今はこんを(疑)こともある。> 敬われ言い方\n4791.65  odzi:san.        <敬意が下に(向)って下がる> dżi:tt fj;saN, dżi:tt fj\n5472.31  オジイサン       <新・上>\n5568.92  オ爺サン         <共>\n5584.22  odzi:san.        odzi:san はやっ、丁寧ないいかた\n5594.37  odzi:san.        odzi:dzi; が普通りいいかた\n5595.20  odzi:san         odzi:san は丁寧ないいかた\n5595.89  オヂイサン       <丁> オヂイ、ゲヂャーン\n5598.67  オヂイサン       <丁> オヂイサン <先>\n\n（手書きの注記が縦横に多数あり、ローマ字表記 odzi:san や dżi:sa などの音声表記と日本語の説明が混在）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04016.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04016",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04016.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5604.28",
+      "5604.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-17\n質問番号　地図番号　141\n項目名　祖父　242\nA　普通注記　ページ\nB　除いた共通語\nC　除いた特殊語　(3)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）は厳密にする。\n\n地 点 番 号　　A 語形とその注記　[B・C 除いた語形とその注]　　A 注のない語形　[B・C 残した語形とその注]\n\n5604.28    odżi:saN.    上流\n5604.52    odżi:saN    <上流>\n\n（右側手書き注記）\nmagodzi;sa\ndzi:saN　中流\ndzi;ddzi　下流最大多数で共存\nmagodzi;saN\ndzi:saN, dzi;saN <中流>\nodżi;dzi　<上流>\ndzi;dzi, dzi;　<下流>\n今は odżi:saN, odżi;dzi を広く用いる様になった。\n階層の区別が失われると（　）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04017.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04017",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04017.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "5615.65",
+      "5694.31",
+      "5695.10",
+      "5683.72",
+      "5701.73",
+      "5710.84"
+    ],
+    "other_text": "日本書語地図資料用紙 注記一覧 40-18\n地図番号 141\n項目名 祖父 242\n地点番号\n56 15.65  odzi:saN.\nodzi:sa, odzi:saN dʒi:sa, dʒi:ma, dʒi:sa ...\n56 94.31 オンイサン <共>\n56 95.10 オンイサン <芯サンは敬称?> オンイ\n56 83.72 オンイサン <共>\n57 01.73 odzi:saN. <下になるほど、敬意がない>\n57 10.84 オンイサン <上>\n（今でも農家ではばり>）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04018.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04018",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04018.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "5712.17",
+      "5723.02",
+      "6338.99",
+      "6339.37",
+      "6349.09",
+      "6358.87"
+    ],
+    "other_text": "日本普通語地図資料用紙 注記一覧 40-19 資問番号 地図番号 141 項目名 祖父 242 A 普通注記 B 除いた共通語 C 除いた特殊語 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 {B・C 残した語形とその注} 5712.17 odzi:san <敬意のある場合の言い方。村中では dzi:ttsi: <普通これを使う>> 5723.02 odzi:san <敬ったいい方> 6338.99 オビィサン <上> 6339.37 オンィカン <上> 6349.09 odzi:san (上品) 6358.87 オンィサン <上>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04019.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04019",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04019.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6376.33",
+      "6402.94",
+      "6403.62",
+      "6405.95",
+      "6406.77",
+      "6411.80",
+      "6415.78",
+      "6415.83"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-20\n質問番号　地図番号　141\n項目名　祖父　249\nA　普通注記　(B)　除いた共通語　(C)　除いた特殊語\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n6376.33　odzi:san　<上>　dzi:isan\n6402.94　オジイサン　<上>　ジリサン　<下>\n6403.62　odzi:san　(丁寧)　ないす　dzi:isan\n6405.95　odzi:san　(この方が敬意が高い)　dzi:isan\n6406.77　odzi:san　<敬意を含む>　odzi:　(くんにやすい人 にき?)\n6411.80　オージサン　<上>　dzi:sa　<下>\n6415.78　odzi:san　<上、敬語>　dzi:san\n6415.83　odzi:san　<上>よく用いる　dzi:san　dzi:\n\n(手書き注記や小さな添え書き多数。上は読み取れる範囲の概略転記。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04020.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04020",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04020.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6417.85",
+      "6421.79",
+      "6422.77",
+      "6423.23",
+      "6427.40",
+      "6428.91"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧　40-21 質問番号　地図番号　141 項目名　祖父　242 A 普通注記 (B 除いた共通語) (C 除いた特殊語) （7） 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注) くせ人に対して目合う。 若の祖父を言う時に用いる。 odzi:san --- 敬意あり dʑi:san -- 普通 odzi:ttsan <上> odzi:san 敬意あり dʑi: dʑi:san など",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04021.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04021",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04021.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6428.71",
+      "6430.26",
+      "6440.81",
+      "6474.83",
+      "6477.02",
+      "6486.93",
+      "6494.21"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-22\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）[　]は敢えてにする。\n質問番号　地図番号　141\n項目名　祖父　242\n地点番号　A 語形とその注記【B・C除いた語形とその注】　A注のない語形（B・C残した語形とその注）\n6428.71　オジイサン　＜上＞　オジィ\n6430.26　odzi:san　＜目上＞　dzi:isan\n6440.81　odzi:san　敬意あり　dzi:ttsan　-普通\n6474.83　オジイサン　＜上＞\n6477.02　オジイサン　＜上＞\n6486.93　オジイサン　（オジィサンが最もよいことば。こらは親しみのある場合、又はやや下品な言葉）\n6494.21　オジイサン　＜上＞\n（以降の手書き注記）\nジサン　＜下＞\nオジヤン　オイヤンは中蔵又はそれ以下の普通の言葉\n（その他読める注記が多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04022.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04022",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04022.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6506.86",
+      "6508.06",
+      "6508.36",
+      "6532.30",
+      "6440.67",
+      "6542.27",
+      "6542.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-23\n地図番号 141　項目名 祖父 242\nA 各誌注記　B 除いた共通語　C 除いた特殊語　ページ\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（ ）は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形　[B・C 残した語形とその注]\n手書き欄（各行おおよその転写）:\n6506.86　oji::san.　＜上＞　（右欄）3issa\n6508.06　オゲイサン　＜共＞　（右欄）ゲイア、ゲイヤサマ　＜尊＞\n6508.36　オゲイサン　＜丁＞　（右欄）オゲイ\n6532.30　オジイサン　＜敬称＞　（右欄）オジイチャン　＜愛称＞\n6440.67　オジイサン　＜上＞　（右欄）ジージャン\n6542.27　オジイサン　＜敬称＞　（右欄）オジイチャン　＜愛称＞\n6542.32　オジイサン　＜敬称＞　（右欄）オジイ　＜ややとんさい＞\n（注）手書き文字は不鮮明な箇所あり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04023.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04023",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04023.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6553.52",
+      "6553.99",
+      "6560.40",
+      "6571.34",
+      "6552.04"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　40-24\n地図番号 141\n項目名　祖父　242\nA　普通注記　　B　除いた共通語　C　除いた特殊語\n（右上に丸でB、(10)）\n表見出し：地点番号　A　語形とその注記　[B・C 除いた語形とその注記]　A 注のない語形　[B・C 残した語形とその注記]\n\n手書き行（上から順）:\n6553.52    ozi:san    <上品>       onzan　<普通>\n6553.99    ozi:san    <今>         3izi:　<下品>\n6560.40    オジリサン  <新>        033zan　(音)　オンシヤン\n6571.34    ozi:san    <上品>       ozi:jan　<普通><古>\n6552.04    ozi:san    <上品>       033zan　<下品>　3izi　<下品>\n\n（ページの左右に罫線で囲まれた一覧表。右側に多数の手書きローマ字表記とカッコ書き注記あり。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04024.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04024",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04024.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6583.41",
+      "6584.90",
+      "6683.24",
+      "6623.53",
+      "6631.53",
+      "6641.43",
+      "6641.82",
+      "9340.24",
+      "7400.11"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( )は略常にする。 日本音韻地図資料用紙 注記一覧 40-25 質問番号 地図番号 141 A 普通注記 ページ (11) B 除いた共通語 C 除いた特殊語 項目名 祖父 249 地点番号 A 語形とその注記 (B・C除いた語形とその注記) A注のない語形 (B・C 残した語形とその注記) 6583.41 oji:san <敬> 6584.90 oji:sana <今> 6683.24 オンイサン <英> 6623.53 oji:san <希> 6631.53 oji:san 新 6641.43 oji:saha <上> 6641.82 oji:san <上> 9340.24 オディサン <丁> 7400.11 oji:sana 上 (手書きのローマ字表記・注記等が欄内に記載されている)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04025.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04025",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04025.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7521.79",
+      "7522.48",
+      "8362.85"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-26\n質問番号　地図番号　141\n項目名　祖父　242\nA　普通注記　B　除いた共通語　C　除いた特殊語　(12)\n\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）（）[ ]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n手書き行1: 7521.79    オジイサン    <こいねなことば.>    オジィ\n手書き行2: 7522.48    オジイサン    <上>                ジィ\n手書き行3: 8362.85    oji:san       <新, 特に?>          オジィ（チャン）　<くる>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04026.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04026",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04026.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "0840.33",
+      "0894.61",
+      "2765.71",
+      "2773.13",
+      "3711.98",
+      "3721.37",
+      "3721.71"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　40-27\n質問番号　地図番号　141\n項目名　祖父　242\nA 普通注記　ページ\n除いた共通語　（　）　除いた特殊語（C）\n\n地点番号　A語形とその注記　【B・C除いた語形とその注】　A注のない語形（B・C残した語形とその注）\n\nodzji tʃan    <敬>    magodzj dzi; <はっきりと別はなす>\ndzi: san.      <今>    dzi:ntsa <るともす時>\nodzi sama      <よい家で>    dzi sama\ndzi sama       <上>    dzi tja\ndzi:sama       (上)    dzi t{t}ja (中), dzi, dzi kko (下)\ndzi:sab        (上)    dzi:tƒja (普通)\n\n(手書き注記・余白) odzj: dzi\n\n※上はおおまかな読み取り。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04027.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04027",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04027.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "3722.90",
+      "3741.16",
+      "3742.82",
+      "3750.43",
+      "3752.49",
+      "3753.88",
+      "3754.26"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳格にする。\n\n日本言語地図資料用紙　注記一覧　40-28\n質問番号　地図番号　141\n項目名　祖父　242\nA　普通注記　ページ\n[B]　除いた共通語\n(C)　除いた特殊語　(2)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　(B・C　残した語形とその注)\n\ndzisama　上\njisama　ていねいに言うと\ndzisama　(上)\nodzisan　(上)\ndzisama　(上)\nオズーサン　〈上〉\nオズサン　〈上〉\n\n右欄（波括弧）: dzitta ja　（普通）\ndzikko　（軽微）\ndzi dzi・dzi　(下)\n（その他手書き注記、かな表記など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04028.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04028",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04028.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "3763.17",
+      "3767.22",
+      "3791.76",
+      "4609.25",
+      "4696.82",
+      "4715.33"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-29\n質問番号　地図番号　141\n項目名　祖父　242\nA 普通注記　ページ\n[B] 除いた共通語\n(C) 除いた特殊語 (3)\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]\n3763.17    ズサマ    <上>    ずー\n3767.22    オズィサン    <上>    スズマ　(夢)\n3791.76    dzi'sama    (上)    dzi'sa (中)\n            dzi'tt su (同義的)\n            dzi: (下)\n4609.25    disama　(上層)\n4696.82    odzisan　・・・ 村の上流の階層に居る時用いる dzi'sa\n4715.33    odzi:t aN. <上> <先>    ozon t aN.\n(以下行ありが一部判読困難)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04029.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04029",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04029.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "4781.48",
+      "4783.38",
+      "5472.31",
+      "5562.46",
+      "5569.02",
+      "5595.89",
+      "5598.67",
+      "5602.99"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-30\n質問番号　地図番号　141\n項目名　祖父　242\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(4)\n\n地 点 番 号\nA　語形とその注記　〔B・C 除いた語形とその注〕　A:注のない語形　〔B・C　残した語形とその注〕\n\n4781.48  odzi:sama　〈敬称（度）〉　　　dzi:sama\n4783.38  dzi:tɕaN　〈敬った言い方〉　　　dzi:sama　〈一般的なまいす〉\n5472.31  ジイサン　〈右・上〉　　　　　　　ジイ　〈右・下〉\n5562.46  チイサマ　〈雅〉　　　　　　　　　ザサ\n5569.02  チィサマ　〈右・丁〉　　　　　　　ゲイマ　〈右〉\n5595.89  コヂイサン　〈243 のオディサンと区別して呼ぶ — 呼びかた〉\n5598.67  (取り消し、抹消)\n5602.99  odzi:san　〈故意・深い〉　　　　　OISAN　〈古〉\n\n（注記：手書きのローマ字表記やかな表記は判読できる範囲でそのまま記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04030.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04030",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04030.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "5607.17",
+      "5609.81",
+      "5611.39",
+      "5613.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-31\n質問番号　地図番号　141\n項目名　祖父　242\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(5)\n\n地点番号\n5607.17    odzi:sama.\n（放った言い方。今の若い者は odzi:san を使うが、自分は使わない）\n5609.81    dzi:sama　（うやまう言い方みる。? OK）\n5611.39    soəm　＜英＞\n5613.33    dzi:saN.　＜新＞\n\n右欄（注記）:\ndzjisa（変えかうすい）\ndzi:sa　＜普通の言い方＞\ndzi:　＜やまわない言い方＞\ndzi:dzi:　＜dzi:sa よりやや敬意が高い＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04031.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04031",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04031.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "5613.80"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-32\n質問番号 地図番号 14/\n項目名 祖父 242\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (6)\n地点番号  A 語形とその注記 {B・C除いた語形とその注}  A 注のない語形 {B・C 残した語形とその注}\n5613.80. nagaodzj: san. (希)\n祖父の意）尊と用いた。敬意ほうずい..\nodzisa＜古＞敬意がある。\nodzj: san.\noesan ＜古＞\n(何れも同義の敬意がある。)\n(中おじいさんであろうが、このことばを使う人がある。被調査者はそのような家に行っても場合は自分でも使うかもしれない。)\n（手書きの注記、下方に続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04032.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04032",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04032.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "5615.65",
+      "5624.05",
+      "5659.28",
+      "5683.61"
+    ],
+    "other_text": "日本音韻地図資料用紙　注記一　40-33\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n質問番号　地図番号　141\nA　普通注記　ページ\n(B)　除いた共通語\n(C)　除いた特殊語　( ? )\n項目名　祖父　242\n\n地点番号　A語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C 残した語形とその注】\n\nodzi: sama\n最も高い階層に敬意をこめてとする\n分析, odzi: sama, odzi: saN,\nd3i: sa, d3i: ma, d3i: sa　娘に\n階層と敬意が下る。\n\nodzi: tjan <新>　敬意が深い\n\n（右欄）\nd3i: sa　上流\nd3i:　古い言い方、年下、下級\nd3i; d3i; <古> 上流\nodzi; odzi: 上流\nオレンケン　<白>\nオシイサン　<新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04033.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04033",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04033.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "5700.32",
+      "6386.66",
+      "6397.24",
+      "6403.60",
+      "6412.48",
+      "6415.83",
+      "6432.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（ ）[ ]は欄外にする。\n日本言語地図資料用紙　注記一覧　40-34\n質問番号　地図番号　141\n項目名　祖父　242\nA 普通注記　ページ\n[B 除いた共通語]　(C) 除いた特殊語\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C　残した語形とその注）\n5700.32    dziunisan.    <義分丁寧な言い方>    dzi:sama.\n6386.66    dzi:sama    <上> ・・・これが多く使われる    dzi:sa, dzi:ma.\n6397.24    dzi:saha    <上>    dzi:\n6403.60    エンチョ    <下>    オジッ サン <上>\n6412.48    エンチョ（限居、や＞奥様？）    ジィオン\n6415.83    dzi dzi:  <この附近でーまう人あり、自分はまれな> dzi:isan, dzi::\n6432.22    dziisan    インキョサン　オフ　スゥサー（もしくはこれへみ）\n\n（手書きの注記・くさび形の注などが多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04034.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04034",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04034.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6432.22",
+      "6477.02",
+      "6506.03",
+      "6554.88",
+      "6560.40",
+      "6567.86"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）（）は厳密にする。 日本音源地図資料用紙　注記一覧　40-35 質問番号　地図番号　14/ 項目名　祖父　242 A 普通注記　ページ B 除いた共通語 C 除いた特殊語　（9） 地点番号　A 語形とその注記　【B・C 除いた語形とその注】　A 注のない語形　{B・C 残した語形とその注} 6432.22 6477.02 6506.03 6554.88 6560.40 6567.86 オズスー、スーリャン [敬老、移度の差はない] オンヤン（オンヤンは牛洗はそれ以下の普通の語等） うーサン　<下> ディッサマ　〈名改〉 オシィチャン　<新> 03;i SAN じぃチャン 31: <6?>  (手書きのメモ・注記多数、上記は判読できる主要部分の粗い転写)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04035.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04035",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04035.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6593.98",
+      "6650.12",
+      "7259.98",
+      "7269.96",
+      "7279.93",
+      "7330.31",
+      "7326.68",
+      "7390.75",
+      "7391.94"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。\n日本語語地図資料用紙　注記一覧　40-36\n質問番号　地図番号　(141)\n項目名　祖父　242\nA 普通注記　ページ\nB 除いた共通語\nC 除いた特殊語　(10)\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n6593.98　jisama　<若, ま?>　ozji:　<若>\n6650.12　tji:sai　ozji:\n7259.98　dzi:tsjan　<新>\n7269.96　dzi:tjan　<新>\n7279.93　dzi:san　<新>\n7330.31　コッケ ケイ　<下>\n7326.68　dzi:saN.　<丁寧な言い方>\n7390.75　zi:tjan　<新>\n7391.94　dzi:tjan　<新>\n(手書き注記や小さな読みのメモ多数)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04036.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04036",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04036.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "7396.16",
+      "9659.53",
+      "8322.43",
+      "8393.69",
+      "9303.88",
+      "0246.48",
+      "0247.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　40-37\n質問番号　地図番号　(14)\n項目名　祖父　242\nA　普通注記　ページ\n[B　除いた共通語]\n(C)　除いた特殊語　(11)\n地点番号　A語形とその注記　(B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n7396.16    dʑi:san.    <丁寧に言う場合>    dʑi;jaN.\n9659.53    oisama    <ていねい語>\n8322.43    toto:\n8393.69    jisan    <やっ敬>\n9303.88    ji:san\n0246.48    dʑi:san    <敬>\n0247.31    ji:san    <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04037.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04037",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04037.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "0256.89"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-38\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n質問番号　地図番号　141\n項目名　祖父　242\nA　普通注記　ページ\n[B]　除いた共通語\n(C)　除いた特殊語　(12)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き欄: 0256.89   ji:san   <新>    uʃu  <b>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04038.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M141Q242/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04038",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04038.tif",
+    "source_ljc_id": "LJC-M141Q242",
+    "source_map_numbers": [
+      "141"
+    ],
+    "source_title": "おじいさん (祖父)"
+  }
+]

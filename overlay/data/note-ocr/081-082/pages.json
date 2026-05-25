@@ -1,0 +1,346 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0789.95",
+      "0840.33",
+      "3701.70",
+      "3762.85",
+      "4685.10",
+      "4694.26",
+      "4699.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　19-38\n管理番号 234　地図番号 81,82　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ ( / )　項目名 くすぐる\n\n地点番号　A 語形とその注記　A 注のない語形\n0789.95    kosobai koto o suru （一つの動詞の形ではついに出なかった。）\n0840.33    kotjonasu, motjonasu　〈どちらも使う〉\n3701.70    ketobasi （念をおしたが誤りなし）\n3762.85    kottsogasuu とも\t\tkotjogasuu\n4685.10    kotjobasu 〈希〉\t\tkotokotjo jaru\n4694.26    kusugururu 〈大人同意の時用いる〉\n\tkotobasu 〈若い時から使っている〉\n4699.42    kuttojasu 〈普通これを使う〉\tkusuyasu 〈これも使う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01938.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01938",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01938.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉〔〕は厳密にする。 日本言語地図資料用紙　注記一覧　19-39 質問番号　234　地図番号　81.82 項目名　くすぐる A 普通注記 [B 除いた共通語] [C 除いた特殊語] (2) 地点番号　A　語形とその注記　A注のない語形 4716. 72  [kotsujasu]　同席の小学生のことばに同意したもの。 4725. 68  kattjakü (?) （この語は「切り裂く」意味とどちらかという問に対す して（それは guttjakuu であってちがう）と答えた。 しかし、調査者としては、正確に「くずぐる」にあたるかど うか疑問に思っている。） 4742. 37  kutsutkŭitsuwsulun　（≒幼児語ではない）。 4761. 93  kutsüjūruru、musüjūruru　（どちらも使う） 5462. 57  ユソバカエテヤル　（070 をコソバフラシタと言ったが、ここで傍のめなかった）。 5463. 64  チョコバカス　（古？）　コソバカス",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01939.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01939",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01939.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5548.24",
+      "5564.79",
+      "5604.52",
+      "5613.33",
+      "5641.94",
+      "5651.95",
+      "5654.98",
+      "5666.85",
+      "5671.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-40\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n資料番号 234    地図番号 81.82    項目名 <くすぐる>\nA 普通注記    [B 除いた共通語]    [C 除いた特殊語]    (3)\n（表ヘッダ） 地点番号  A語形とその注記  A注のない語形\n5548.24   KOSOJASU <新>    kotobasu\n5564.79   kosobasu  優先    kusuiyui rui\n5604.52   kotsubasu  <古くから用い現在も用いる>\n          kosobasu <上> <改まった時のいい方>\n5613.33   kosukuru <希> (はじめ kosururu と答えたが後訂正した)\n5641.94   kutsukasu <古>    kusujuru\n5651.95   kojo kojo suru <3>    kutsubasu\n5654.98   ムゲス <古>\n5666.85   ムゲス <古>\n5671.38   kusuyuru <kutsubasuという人もある。>\n（下部手書き注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01940.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01940",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01940.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5674.59",
+      "5675.87",
+      "5676.52",
+      "5676.84",
+      "5677.60",
+      "5688.01",
+      "5693.13",
+      "5793.63",
+      "6267.84",
+      "6403.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別表を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) は敬称にする。 日本言語地図資料用紙 注記一覧 19-41 質問番号 234 地図番号 81.82 項目名 くすぐる （普通注記） ページ (4) 地点番号 A 活形とその注記 A 注のない語形 5674.59 ムグス <99?> クスグル 5675.87 ムグス 普通使う。（家庭近所） 5676.52 ムグス （老人のことば） クスプル 5676.84 ムグス <普> クスグル 5677.60 クスプス、〈普〉 例 クスプシテヤレ ムグス 5688.01 クスクルゾ、クスクッテヤルゾ（但しこれ以上の質問は進展しなかった。） 5693.13 クスクル〈共〉 モモス 5793.63 kotjouuruu〈昔〉 kusuyuruu 6267.84 yokobakas〈希〉 6403.60 コチョコチョシル〈子〉 コソバカシ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01941.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01941",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01941.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6420.58",
+      "6422.77",
+      "6482.75",
+      "6514.61",
+      "6534.13",
+      "6551.77",
+      "6633.27",
+      "6641.39",
+      "7338.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()は厳密にする。\n\n日本言語地図資料用紙　注記一覧　19-42\n（箱）234　　81.82\n項目名　くすぐる\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (5)\n\n（表見出し）地点番号　A 語形とその注記　A 注のない語形\n\n6420.58　コチョコチョスル　〈股の下に使う〉　ユソバカシ\n6422.77　コチョチョスル　〈古〉　ユソバカス\n6482.75　kosobakasuu（kosobasuという人もある。）\n6514.61　kosoburu. kosoguru　〈どちらをより使うか、わからない〉\n6534.13　kusuboru. kosoboru　〈どちらをつかうかよくわからない〉\n6551.77　kosoboriu. kosobasu　（どちらも使う）\n6633.27　kusunjuru　多　mozojmuru\n6641.39　kusunjuru. kusoynuru　同じ程度に使う\n7338.48　kobirakasu. ibirakasu　（〈別段ちがったところはない。その時のひょうしで使う〉といっていた。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01942.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01942",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01942.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　19-43\n資料番号 234　地図番号 81. 82.\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (6)\n項目名　くすぐる\n\n地点番号　A 語形とその注記　A 注のない語形\n7350. 96   kosoguru, kotoguru  <区別しないで使う>\n7373. 56   tjokoji2  <古>   kosoguru\n7375. 37   tjokoguru  <多>   kotoguru\n7386. 63   tjokotjoko suru  <子>  tjokoguru  <平素はこの方であろう>\n\n8332. 07   kakajit <足の裏>  tsukujit <脇の下の場所>\n8335. 48   kosoguru <共>  tjokojiru <多く使う>\n8343. 06   tsukudzit <脇の下に限る> 足の裏の場合はわからない\n8344. 71   tsukuzit <脇の下のみ>\n8360. 39   dzukuzit （他の地方でソクジル）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01943.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01943",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01943.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "8362.85",
+      "8363.51",
+      "0238.55",
+      "0246.48",
+      "0247.31",
+      "0248.00",
+      "1223.91"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の＜＞（）は読む語にする。 日本言語地図資料用紙 注記一覧 234 81.82 項目名 くすぐる A 普通注記 [B 除いた共通語] [C 除いた特殊語] (7) 地点番号 A語形とその注記 A注のない語形 tsukutsukuso sut, fukutfuku osu i. tsukugit <脇の下の時だけ、足裏の時はNR> kakjun <足のうら> gudzukurjun <脇の下> kakjum <足のうら> guzukurjum <脇の下> guzukurjun <脇の下だけ、足の裏はNR> hagurun (一見、231のhagiruに似ているがあやまりにあるず) gwatfi si:n. gwatfi (SUN)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01944.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01944",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01944.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "1762.10",
+      "5654.98",
+      "5666.85",
+      "5675.87",
+      "6464.90",
+      "6604.02",
+      "6686.75",
+      "7326.41",
+      "7330.31"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での指示は地点番号順に並べる。\n・注記の＜＞（ ）は厳密にする。\n\n頁間番号　地図番号　234　81.82　項目名　くすぐる　A　普通注記　B　除いた共通語　C　除いた特殊語　(1)\n\n地点番号　（B・d除いた語形とその注）　Aに入れた語形（B・d残した語形とその注）\n\n1762.10　クスグル　＜此頃多い＞　モチョガス\n5654.98　クスグル　＜新＞　ムグス　＜古＞\n5666.85　クスグル　＜新＞　ムグス　＜古＞\n5675.87　クスグル　＜共＞　ムグス　普通使う（家庭・近所）\n6464.90　クスグル　＜新＞　コソブル\n6604.02　クスグル　＜共＞　モモス\n6686.75　kusuguru　＜新＞　guzuguru\n7326.41　tyokoburu　＜タ＞　kosoburu\n7330.31　kosoguru　＜新＞　tgotoguru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01945.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01945",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01945.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4644.10",
+      "4744.32",
+      "5613.33",
+      "5687.60",
+      "7434.02",
+      "8332.84",
+      "8300.25",
+      "8372.87",
+      "8373.43"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )[ ]は厳密にする。 日本語語地図資料用紙 注記一覧 19-46 質問番号 234 地図番号 81.82 項目名 くすぐる A 常通注記 [B 除いた共通語] (C 除いた特殊語) ( / ) 地点番号 4644.10 itazurasuru {kotomakasu} 4744.32 kaku kotsuryumu 5613.33 [kotobasu] kosukurun (はじめ, kosu …) 5687.60 サクル ＜サクルはうっかり聞きもらした＞ グングル 7434.02 sa:ru (kosobasuが普通であろう) kosobasu 8332.84 akko ＜脇の下、足の裏以外の部分＞ (akkoはアッカの訛りの記り) tsukuzit ＜脇の下、足の裏＞ 8300.25 tedekakar kotogur 8372.87 kosui ＜足の裏＞ ツクジル ＜脇の下＞ 8373.43 [tsukuziru] 能細民調査のとき接長（調査地表の北4里・田代?） NR が誘導、K氏認む。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01946.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01946",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01946.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "0724.12",
+      "1708.05",
+      "1747.55",
+      "4644.10",
+      "4685.10",
+      "4694.26",
+      "5564.79",
+      "5641.94",
+      "5651.95",
+      "5674.59"
+    ],
+    "other_text": "A・(B)・(C) ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の < > ( ) [ ] は省略にする。 日本言語地図資料用紙 注記一覧 19-47 質問番号 地図番号 81.82 A 普通注記 D [B 除いた共通語] [C 残した特殊語] ページ (1) 項目名 くすぐる 254 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 0724.12 motjokokw swrw motjogasw 1708.05 motjokasw Kwswgwruw 1747.55 motjokasw Kotjogasw 4644.10 itazw'raswrw kotjomaka'sw 4685.10 #kotjokotjojarw kotjobasw 4694.26 Kwswigwru kotjobasw 5564.79 kosobasw kwsüŋjürü? 5641.94 Kutsuba u Kusuguru 5651.95 kutsubasu kotjo kotjo suru 5674.59 ムブス フスフル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01947.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01947",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01947.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5676.84",
+      "5677.28",
+      "6375.08",
+      "6375.40",
+      "6403.60",
+      "6406.77",
+      "6420.58",
+      "6422.77",
+      "6462.52",
+      "6470.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　19-48\n質問番号　地図番号\nA　普通注記　D\n(B　除いた共通語)\n(C　除いた特殊語)\n(2)\n項目名　くずぐる 294\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nムプス\tクスプル\nクスブル\tグッツッヂチャル\nKakw\tIsumagurw\nKakw\tkwsugwrw\nコソバカシ\tフチョコチョシル\nKakw\t#kwTsw wakasw\nコチョコチョスル\tコンバカン\nコソバカス\tコチョコチョ スル\nフッグル\tフスグル\nフスグル\tフックル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01948.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01948",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01948.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6481.94",
+      "6492.50",
+      "6503.73",
+      "6505.58",
+      "6510.65",
+      "6514.61",
+      "6534.13",
+      "6572.55",
+      "6575.40",
+      "6604.02"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙　注記一覧　19-49 質問番号　地図番号　81.82 A 普通注記 / D (B 除いた共通語) (C 残した特殊語) 項目名　くずぐる　234 地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注) クツバス　コツバス Kosobasw　kwswbwrasw Kosobaky　kosobakasu カフ　クスプル コソバロス　クスバカス Kosoburu　kosoguru Kusuboru　kosoboru Kosokososuru　kofoborasu Kojoborū　Kosoborw クスプル　モモス",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01949.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01949",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01949.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6633.27",
+      "7318.04",
+      "7323.84",
+      "7330.31",
+      "7372.03",
+      "7373.56",
+      "7375.37",
+      "7386.63",
+      "8335.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　19-50\n質問番号　地図番号　81.82\nA 普通注記　D　(B 除いた共通語) (C 除いた特殊語)\n項目名　くすぐる 234\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6633.27    kws wjwrw    mozig wrw\n7318.04    kwswgwrw    kakw\n7323.84    ijs:oko     kwsngwrw\n7330.31    チョチョブル    コッブル\n7372.03    kosogw? kosogwyw kotjogwyw\n7373.56    kosoguru    tjokozi12\n7375.37    tjokoguru   kotjoguru\n7386.63    tjoko tjo ko? suru   tjokoguru\n8335.48    kosoguru    tjoko(ko)ziru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01950.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M081Q234/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01950",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01950.tif",
+    "source_ljc_id": "LJC-M081Q234",
+    "source_map_numbers": [
+      "081",
+      "082"
+    ],
+    "source_title": "くすぐる (擽る)"
+  }
+]

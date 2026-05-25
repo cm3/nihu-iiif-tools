@@ -1,0 +1,313 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1848.24",
+      "3619.08",
+      "3741.16",
+      "4657.64",
+      "4760.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-80\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は厳密にする。\n\n質問番号　地図番号\n183　188\n項目名　畑（手書き）\n\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n1848.24　hatake（ゆっくり言うと hatake であるが、早く言うと、t は有声化）\n3619.08　hatake　e は狭い e\n3741.16　hatakē　e は非常に狭い e\n4657.64　hatake（この土地は砂の地が多いので hatake は普通砂畑をさし、\n外に土の畑をさす所のせいに batake という語がある。hatake と言う語がある。...）\n4760.98　hatakē　e は狭い e",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05980.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05980",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05980.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "5584.57",
+      "5609.26",
+      "5620.80",
+      "5632.28",
+      "5679.86",
+      "5688.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-81\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n質問番号 183　地図番号 188　項目名 火田　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n5584.57 anemba 〈田のあとを畑にするような\n二毛作のところ.畑専用はほとんどない。〉\n5609.26 hatake e は狭い e.\n5620.80 hadake cf. 自家用の野菜を作っている畑\n5632.28 hadake <hadakeの用地がjamaである>\n5679.86 hatake (荒) hadage\n5688.37 ハタケ 〈ノガタ 黒土・赤土〉 サト 砂目の土",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05981.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05981",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05981.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5712.70",
+      "6368.60",
+      "6379.67",
+      "6426.47",
+      "6459.52",
+      "6470.71",
+      "6476.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-82\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〉〈（ ）[ ]は厳密にする。\n\n質問番号 183    地図番号 188\n項目名 畑\nA 普通注記    [B 除いた共通語]    [C 除いた特殊語]    ページ (3)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5712.70    hatake (hatake) / hata <新?>\n6368.60    hatake 焼畑 — =この共通語 = 切畑 を hata とい?\n6379.67    ハタケ 田を畠にしたものをホリアケという。\n6426.47    saemba <菜園の意>\n6459.52    タンボ <百姓でないから、田も畑も区別せず、タンボと呼んだ>\n6470.71    ハタケ 裏作で田を畑にする時はゲノウエという。\n6476.17    ハタケ <屋敷内の自家用の畑は、サエン、ナジリなどという。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05982.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05982",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05982.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "6481.56",
+      "6494.55",
+      "6520.94",
+      "6559.67",
+      "6563.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-83\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉［］は厳密にする。\n\n質問番号 地図番号 183 188\n項目名 畑\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (4)\n\n地点番号　A語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nハタケ　〈一般にヤマバタ・ダンダツンバタしかないが、ハタケとは言わない〉\nハタケ　〈屋敷の中にある自家用の野菜畑は（ジャエンヒハウ）〉\nヤサイバタク〈大根、トマト、白菜畑〉\nhatake（し(na)taとは言いませんかという問に言わないと答えたが、今一人の山本氏は「hatake」とい〉\nhatake　〈水田で土を盛って畑作するところ〉 はkapake〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05983.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05983",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05983.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6701.46",
+      "7246.82",
+      "7303.61",
+      "7392.33",
+      "7402.47",
+      "7403.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-84\n質問番号　地図番号　183 188　項目名　畑田\nA 普通注記　ページ (5)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6701.46　hatake (kは半有声)\n7246.82　hatake <いもや麦を作るところ>\n7303.61　hata <ハタケとはあまり言わぬ>\n7392.33　ハタケ [~ke]\n7402.47　hatake (二毛作地の①麦を作っていると…)\n\n(ここは mugizi)\n②　kojamame (そら豆) genge (げんげ)\nを作っているところは kogase という由\n\n7403.21　hatake (二毛作で麦を作っているのを mugizi, 豆やれんげを作っているのを koga see という)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05984.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05984",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05984.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "7404.56",
+      "7406.53",
+      "7411.27",
+      "7426.61",
+      "7441.63",
+      "7471.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-85\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n質問番号 183 地図番号 188\n項目名 畑\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\n(6)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nhatake <野菜畑は nabara, nabata, siaenという。> [跡地は、前作…]\n物によって、imoziri, daikoziri,\nいや地は ijafiri kira という。\nnaetoko 苗を作るところだけでなく 畠をいう。\nhatake <野菜畑は saenという。>\ntokoziri <ほとんど野菜専用のはたけ>\nasaziri (野菜畑の意)\nimotoko 家の附近の畑である。いもを作るとは限らぬ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05985.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05985",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05985.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "7503.11",
+      "7659.62",
+      "8393.69",
+      "0275.97",
+      "1169.84",
+      "1251.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-86\n▼ A・[B]・[C]ごとに別紙を使用する。\n▼ その中での情報は地点番号順に並べる。\n▼ 注記のく ><（ ）[ ]は厳密にする。\n質問番号　地図番号　183　188\nA 普通注記　ページ (7)\n[B 除いた共通語]　[C 除いた特殊語]\n項目名　火田\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nhatake <特に一坪農園のように、純然たる野菜を作る畑を <sonobata> という。>\njamaso <薪をとったあとに、サトイモなどを作るところ。>\nhatake (-keのkは軽くにごる)\nhatte (伊仏林内ではhatteということもある)\nharu <ハタケとは言わない>\nhataki <たくさんの畑はharuという>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05986.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05986",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05986.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "0261.8",
+      "1270.29",
+      "1271.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-87\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n質問番号　地図番号　183　188\n項目名　火田\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（8）\n地点番号　A語形とその注記［B・C除いた語形とその注］\n261.80　haru　く一区画の畑を、いくつも広がった　場所もいう〉\n1270.29　haru〈古〉\n1271.20　haru〈古〉（畑のひろくひろがっているところをさすのではないかという気がする）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05987.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05987",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05987.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "3699.55",
+      "3726.25",
+      "4685.72",
+      "5462.29",
+      "5471.59",
+      "5567.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-86 質問番号 183 地図番号 188 項目名 火田 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ ( / ) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）[　]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 3699.55 (カナ) 木を切り再び木を植えるまでの間、3,4年間畑にする所。 ハタケ 3726.25 オースボ（イモ、大根などを蘇く畑） ハダケ 4685.72 hatake（上） hadake 5462.29 ハタケ〈新〉 ヤマ 5471.59 マワリ〈年々畑のこと〉（西島には牧畑とヤマて放牧と穀物・蔬菜等循環式の畑がある。それに対し毎年蔬菜等を作る畑をマワリと言う。） 5567.46 （外）ハタナ ハタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05988.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05988",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05988.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5568.57",
+      "5574.42",
+      "5577.88",
+      "6438.33",
+      "6459.52",
+      "6492.11",
+      "6500.88",
+      "6505.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-89\n質問番号　地図番号　183　188　項目名　畑\nA 普通注記　ページ (2)\nB（除いた共通語） C（除いた特殊語）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞（　）[　]は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n5568.57　〈新〉ハタケ　　　　ハタ\n5574.42　kuro　〈タンボのそばのあき地を畑としたもの〉　hatake\n5577.88　〈共〉ハタケ　　　　ハタ\n6438.33　ハタケ〈希〉　　　　ハタ\n6459.52　ハタケ〈新〉　　　　タンボ〈百姓をでないから、田も畑…〉\n6492.11　kamatsi〈田のへりなどに設けられた 狭い畑をいう。〉　hatake\n6500.88　hatake〈希〉　　　　saen\n6505.58　〈共〉ハタケ　　　　ハタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05989.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05989",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05989.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6509.38",
+      "6520.94",
+      "6526.45",
+      "6542.27",
+      "6601.25",
+      "6629.98",
+      "6635.87",
+      "6639.79",
+      "6642.58",
+      "6643.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-90\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　183　188\n項目名　火田\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ (3)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6509.38　〈共〉ハタケ　ハタ\n6520.94　イモネ〈さつまいも畑〉　ヤサイバタ〈大根、トマト、白菜畑〉\n6526.45　〈共〉ハタケ　ハタ\n6542.27　イヤナシ〈田を埋めたてて畑地にした所〉　ハタケ\n6601.25　hatake 〈共〉　hata\n6629.98　hatake 〈新〉　hatae\n6635.87　hatake 少　hata\n6639.79　hatake 〈希〉　hatae\n6642.58　hatake 少　hata\n6643.16　hatake 新　hata",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05990.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05990",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05990.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6643.72",
+      "6652.77",
+      "6662.01",
+      "7246.82",
+      "7364.34",
+      "7659.62",
+      "1270.29",
+      "1271.05"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。  ▲ その中での情報は地点番号順に並べる。  ▲ 注記の< > ( ) [ ]は厳密にする。  日本言語地図資料用紙 注記一覧 59-91 質問番号 183 地図番号 188 項目名 火田 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4) 地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]  6643.72  上 hatake    hata  6652.77  hatake  上    hata  6662.01  hatake  上    hata  7246.82  ja(iki <野菜を作る肥沃なところ>)  hatake <いもや麦を作るところ>  7364.34  ハタケ <新>    ハタ  7659.62  hatake <新>    jama(ｏ <新をとったあとに…>)  （空欄）  1270.29  hataki <新>    haru <古>  1271.05  phataki  * pha N  （下部余白、注記等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05991.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05991",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05991.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "1271.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 59-92\n質問番号 183  地図番号 188\n項目名　畑田　ページ (5)\nA　普通注記\nB　除いた共通語\nC　除いた特殊語\n\n地点番号\n1271.20\n\nA　語形とその注記 [B・C除いた語形とその注]\nhataki <新>\n\nA 注のない語形 [B・C 残した語形とその注]\nharu <古>（畑のひろくひろがっているところをさすのではないかという気がする）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05992.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M188Q183/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05992",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05992.tif",
+    "source_ljc_id": "LJC-M188Q183",
+    "source_map_numbers": [
+      "188"
+    ],
+    "source_title": "はたけ (畑)"
+  }
+]

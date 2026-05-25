@@ -1,0 +1,1573 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1706.82",
+      "0779.03",
+      "3724.20",
+      "3724.96",
+      "3725.72",
+      "3740.33",
+      "6482.04",
+      "4643.47"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　35-95\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n（右上箱）\n質問番号　地図番号\n058　/　132\n項目名　あざ　058\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ ( / )\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n1706.82　ナマ2　＜白いもの＞　　アサー\n37 24.20　N.R.　（被調査者の顔に小さい青あなかー　いくつかあるため質問を遠慮。）\n37 24.96　アンユ2　＜大きいもの＞\n37 25.72　アザ　（黒いのを）\n37 40.33　aza　（小）\n64 82.04　アダー　（自信はないがホクロともえうらしい）\n46 43.47　but; jitoru　（動詞 but;iru a 状態形である。名詞はない。また 59とも区別をしない。）\n\n0779.03　a^2za　＜aka adza, aoadza＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03595.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03595",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03595.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4652.79",
+      "4663.06"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）[　]は厳密にする。\n日本言語地図資料用紙 注記一覧    35-96\n質問番号 058    地図番号 132\n項目名 あざ 058    ページ (2)\n地点番号    A語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n46 48. 42    ji·ru·ji.    <背中等、普通には見えない部分のあざをこう。>\n            愛児が死亡した時 その背中に墨で印をつけおくと、その生れ代わりなる供は同じ所にしるしのあざがあるという信仰から生れた語である。\n46 52.79    a22a    <大きいのは o:kina a22a という>\n46 63.06    butji:toru butjiru (動詞) 状態形\n            えza    ホクロとの区別がないのでー",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03596.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03596",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03596.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4663.49",
+      "4666.51",
+      "4672.19",
+      "4675.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　35-97\n質問番号　058　地図番号　132\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（3）\n項目名　あざ　058\n\n（表ヘッダ）\nA　語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C 残した語形とその注］\n\n被調査者が中々思い出せないのは意味があると思われる。\n060、061と区別しない。\naka〜kuto〜などと多く 冠（こい）ことも多い。\n（終称）\nNR.\n（kuroku natterun、20km natterun という。）\n（a2aとは言わない。）\n（赤いものは a2k a2a という。）\n\na2a.\na2a.\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03597.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03597",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03597.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4676.60",
+      "4676.67",
+      "4696.82",
+      "4699.07",
+      "4723.51",
+      "4753.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙注記一覧 35-98\n質問番号　地図番号\n058　　　132\n項目名　あざ　058\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (4)\n\n地点番号　　A語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n\n46 76.60　　a22a　　＜赤いものは akaza2a という＞\n46 76.67　　a~2a　　黒いもの kuro a~2a\n　　　　　　赤いもの akaza2a\n　　　　　　白いもの jiroa2a\n46 96.82　　a22a　　akada2a　赤いあさー\n　　　　　　kuroaza　黒いあさー\n46 99.07　　ad2a　　＜赤アサ、青アサも使う＞\n47 23.51　　アサ　　＜特に大きいものはブスマ?　小さいものをアガラコという＞\n47 53.76　　a~d2a　　（黒がかったものは kuro ad2a）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03598.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03598",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03598.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4773.70",
+      "4781.48",
+      "5472.31",
+      "5507.66",
+      "5568.57",
+      "5594.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-01\n質問番号 058    地図番号 132\n項目名 あざ 058\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(5)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉［］は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n4773.70    adza    (紫がかったものは musasaki- ? d22a)  ＜赤アザ 青アザも使う＞\n4781.48    adza    色によって aka, ao を adza と。 前につけていう。\n5472.31    アザ    ＜アカアザ, クロアザがある＞\n5507.66    adza    sobakasu はこまかく 〈一回にあつめて: adza とは違う〉\n5568.57    クロアザ / アカアザ    ＜アザ=黒色のもの＞    アザ?\n5594.79    adza    (k〜の〜) aba〜 などあり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03601.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03601",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03601.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5579.10",
+      "5595.20",
+      "5598.67",
+      "5606.83",
+      "5607.17"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 36-02 質問番号 地図番号 058 132 項目名 あざ 058 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (6) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] アザ ＜絵柄＞ ナスー ＜白色＞ adza 　赤が色により akd adza, kuro- , ao- という。adzaは一般名称 adzaには、うえの3色ありと、特にいふ。 アザ （絵柄） adza （絵柄である。） 赤いものはfja adzaと云ふ。 adza ＜赤アザ・青アザなどともいう。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03602.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03602",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03602.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5625.32",
+      "5635.65",
+      "5641.13",
+      "5644.94",
+      "5645.89",
+      "5652.06",
+      "5655.57"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）［］は厳密にする。\n日本言語地図資料用紙 注記一覧 36-03\n質問番号 058   地図番号 132\n項目名 あざ 058\n(A) 普通注記   (B) 除いた共通語   (C) 除いた特殊語   ページ (7)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n56(11.81)   adza    （経称）\n56 25.32    アザ?    赤いものはアカアザと云う。\n56 35.65    アザー    （共）\n56 41.13    adza    ＜a○adza, akad dza など＞\n56 44.94    アザー    ＜共＞\n56 45.89    アザー    ＜クロイホオ＞    アカアザー\n            アザというと黒あかで一赤と黒と白\n            （俗称はない）\n\n56 52.06    ｓ;i;i    ＜小さい範囲で色をもつ, 帯＞ adza\n56 55.57    アザー    （共）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03603.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03603",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03603.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5669.19",
+      "5674.06",
+      "5657.73",
+      "5666.18",
+      "5668.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 36-04\n質問番号 058　地図番号 132\n項目名　あざ 058\n(A) 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ（8）\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n56 57.73　アザ　（芦）\n56 66.18　アザ　（芦）\n56 68.13　アザ　アザはかたまっている場合\n　　　　　つら　つらは直をとしている場合\n5669.19　aza　色によって a o a z a ともいう。\n　　　　　akaaza\n5674.06　N.R.　[アザ]\n　　　　（娘（あるいは娘）の顔に赤い大きなあざがある質（り）ひどけには\n　　　　いなかったが一口に出せないことに）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03604.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03604",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03604.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5678.33",
+      "5686.69",
+      "5687.32",
+      "5688.37"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( ) [ ]は厳密にする。\n日本語語地図資料用紙注記一覧　36-05\n質問番号　058　地図番号　132\n項目名　あざ　058\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (9.)\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n5678.33　アザ.　(こゝいることばかと思った。)(クロアザ、アオアザ、アカアザの区別あり)\n5686.69　アザ.　幼児のアザ、アオアザ。その他クロアザ、アカアザ。受胎した時、大事を見ると直にアザがでてくる。\n5687.32　アザ.　色によってアカアザ、黒アザを区別する。\n5688.37　アザ.　龍　クロアザー",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03605.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03605",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03605.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜　＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-06\n質問番号 058　地図番号 132\n項目名　あざ　058\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]（10ページ）\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n赤色　アカアザ\n\nアヅ　＜アザの訛り＞\na2a　(but; jterm aよりに動詞に→ 意味することもできる)\ndd2a.　＜色によって白アザ、アカアザという＞\ndd2a　＜aka dd2a, jironawadzu 略して na wadzu などの種類あり＞\ndd2a　＜赤アザ・青アザも使う＞\ndd2a　＜赤アザ・青アザも使う＞\ndd2a　（終結）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03606.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03606",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03606.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5742.32",
+      "5782.79",
+      "6339.86",
+      "6348.71",
+      "6348.77",
+      "6349.80",
+      "6354.46",
+      "6356.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >( )[ ]は厳密にする。 \n日本言語地図資料用紙 注記一覧 36-07 \n質問番号 058 地図番号 132 頁 A(普通注記) [B 除いた共通語] [C 除いた特殊語] (11) \n項目名 あざ 058 \n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] \n5742.32　ddza　〈継続〉 \n5782.79　adza　〈お尻の青いアザは aomi〉 \n6339.86　ホワロ.　〈黒色のもの〉　アザ. \n6348.71　ホオブロ　(061を反対すようであるが確かめた) \n6348.77　ホオブロ　{大 ホオブロ} {小 アヲ.} ホオブロは十分客でなく他の人にもしら、アザと答えた。 \n6349.80　hoguro　〈顔に限る〉　aza \n6354.46　hojake　〈昔はこちらを多く使った気がする。〉 hoguro \n6356.98　ホヤケ (終末)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03607.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03607",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03607.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6366.24",
+      "6369.32",
+      "6373.59",
+      "6374.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　36-08\n質問番号　058　地図番号　132\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (12)\n項目名　あざ　058\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6366.24　ええ．　〈小さいもの〉\n          hogwro.　〈大きいもの〉\n          （挙称別になし）\n6369.32　ホヤケ　〈赤い分〉\n          〈黒いのはホクロ？〉\n6373.59　hojake　〈赤味をおびたもの〉\n          hogwro.　〈黒色のもの〉\n          （挙称なし）\n6374.68　hojake　〈大きいもの〉\n          ええ．　〈小さいもの〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03608.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03608",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03608.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6375.65",
+      "6376.33",
+      "6376.68",
+      "6377.11"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-09\n質問番号　地図番号\n058　132\n項目名　あざ　058\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(13) ページ\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない諸形 [B・C 残した語形とその注]\n\nホヤケ　(絵柄 hojakeをつかう)　色の赤いのをアカホヤケ　黒いのをクロホヤケ\n\nhojake　hoguro.　＜大きいものに対して＞　＜hojakeより少し小さいもの.＞\n\nhoguro.　hojake　＜黒味をおびている。＞　＜赤味をおびている。＞　(別に総称なし.)\n\nホヤケ.　アザ　＜大きいもの＞　＜小さいもの＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03609.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03609",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03609.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6377.65",
+      "6378.70",
+      "6383.28",
+      "6384.25",
+      "6385.63"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-10\n質問番号　地図番号\n058　132\n項目名　あざ　058\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　(14)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C残した語形とその注]\n\n6377.65　ホゾロ, アザ　〈ほとんど一色別では〉\n6378.70　ホヤケ　〈大きいのをホヤケ〉\n　　　　アザ　〈少しいさいのをアザ〉\n　　　　（はっきりした区別がつかぬ様も）\n\n6383.28　hojake.　〈hojakeの少し小さいのを〉\n　　　　hoguro\n\n6384.25　hojake　〈黒〉\n\n6385.63　hojake　〈形の大きいもの〉\n　　　　〈小さいもの〉\n\na22",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03610.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03610",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03610.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6386.66",
+      "6387.48",
+      "6387.62",
+      "6388.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）は厳密にする。\n日本言語地図資料用紙注記一覧　36-11\n資料番号 058　地図番号 132\n項目名　あざ 058\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (15)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n(総称別になし)\nhoguro.\nhojake\n〈顔のよせんにあるもの〉\n〈その他の部分にあるもの〉\n(総称なし)\n\nhoguro.\n〈色が黒い〉\n\naza.\n（自信がなさそうである。）\n\nhojake\n（同じように皮が、ホウケの方は aza.\nや、赤味をおびて大げさなものを\n言うような。）\n\n(別に総称なし)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03611.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03611",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03611.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6388.52",
+      "6389.56",
+      "6389.59",
+      "6393.26",
+      "6393.41",
+      "6394.09",
+      "6394.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　36-12\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく( )[ ]は略語にする。\n\n質問番号　058　地図番号　132\n項目名　あざ　058\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (16)\n\n表見出し: 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nhoguro.　<赤黒い。大きさ色々ある。>\n<ホヤケと同じ>\nホオヤケ　おもに顔にあるのを言うような。\nホウヤケ　<黒色のとり、赤色のは知らない>\nhojake　<形が大きい>（終漠）\nhogwro.　<形が小さい>\nhojake　<顔にあって赤い色のもの>　hogwro\nホヤケ　<ホヤケの方は赤い色>\nホグロ.　<ホグロの方は黒いことがある>\nホグロ、ホヤケ　<色つよきも大きい>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03612.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03612",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03612.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6395.46",
+      "6395.97",
+      "6396.62",
+      "6397.24",
+      "6398.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-13\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n資料番号 058   地図番号 132\n項目名　あざ　058\n普通注記（A）　[B 除いた共通語]　[C 除いた特殊語]　ページ (17)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6395.46\tホグロ、アカホグロ、アオホグロがある。ホヤケと\n\t同じにあるが、ホグロの方が言葉が古い。\tホヤケ\n\n6395.97\thogwro.（終称）\n\t大きいのは o: hogwro\n\t〈顔にあるのは ho: jake〉\n\n6396.62\tホヤケ。〈赤味をおびている。〉\n\tホグロ。〈青黒い色をしている。〉\n\n6397.24\thojake, hogwro.\n\t（別に終称なし）\n\n6398.07\thojake　〈akai hokwro〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03613.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03613",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03613.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6398.07",
+      "6398.42",
+      "6398.78",
+      "6415.23",
+      "6419.50"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜　＞（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧 36-14 質問番号 058 地区番号 132 項目名 あざ 058 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (10) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6398.07    kuroi hokwro ＞ ＜赤いホグロ、星はホグロと言う。＞ 6398.42.   nogwaro.  ＜大きいもの＞ 6398.78.   hojake.   ＜小さいもの＞ adda.  ＜＞ 6415.23.  azd.  ＜黒いのはクロアサ 赤いのはアカアサ 体のどこにあってもよい！＞ 6419.50.  アザ 濃いアザをイロアザと呼ぶ。イロアザにアカアザとクロアザとの二種類あり (手書き一部不明瞭、上記は読み取りによる概略)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03614.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03614",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03614.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6421.82",
+      "6439.01",
+      "6466.36",
+      "6471.59",
+      "6472.58",
+      "6474.83",
+      "6476.13",
+      "6477.02"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧　36-15\n質問番号　058　地図番号　132\n項目名　あさ　058\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (19)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6421.82　あざ　＜名＞\n6439.01　アター　＜も＞　アザ。\n6466.36　アザ　（続称）\n6471.59　コタ　（赤っ子、黒っ子などという）\n6472.58　アガ　アアア、アオアザなど。\n6474.83　ホヤケ　＜赤色はアカホヤケ　黒色はクロホヤケ＞　アザ。\n6476.13　ホヤケ　＜ホヤケは顔にあるものについていう＞\n6477.02　ホヤケ　（初心に考え2後、ナマスーと答えた。筆者久留島武淵氏か、これは）\n\n（下部に手書きの注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03615.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03615",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03615.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6481.56",
+      "6484.78",
+      "6485.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-16\n質問番号 058 地図番号 132\n項目名 あざ 058\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語 (20)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n（手書き）\n白いやつだと言ってて？\nホヤケと訂正した。しかし\nそのホヤケは顔にあるもの\nわけと考えているようであった。\n\n64 81.56　ソヤケ　（赤い色の脚？）\n64 84.78　ホオヤケ　アカホオヤケ の別がある。\n　　　　アオホオヤケ\n64 85.14　ホオヤケ\n（麓まわり境内にホオヤケニソウら\n地蔵というのがあり、其の地蔵の\n顔のところに青いホオヤケがあり\nそれにまり折な、そ人の）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03616.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03616",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03616.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6485.46",
+      "6485.82",
+      "6486.07"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく <> ( ) [ ] は厳密にする。\n日本語地図資料用紙 注記一覧 36-17\n資料番号　地図番号\n058　132\n項目名　あざ　058\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (21)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A:注のない語形 [B・C 残した語形とその注]\nおオヤケを消しとってくれる　というつてある。\n6485.46　ホヤケ　（そのうち赤いのはアカホヤケという。）\n6485.82　[ホオヤケ]　[ホヤケ]　[ホオヤケ、ホヤケは赤い色の場合]\n6486.07　ホオヤケ、香川県・・・学芸生三浦為　アザ。\n香がずっと同座していて、同進者か\n香川県の坂形であるホオヤケを引き\nまとりとして繰り返してゆく途中\n参考に三浦屋にきくと顔にある名",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03617.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03617",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03617.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6486.93",
+      "6471.49",
+      "6504.01"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記のく、<>()[]は厳密にする。\n日本言語地図資料用紙注記一覧　36-18\n質問番号　058　地図番号　132\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（22）\n項目名　めざ　058\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C残した語形とその注]\n6486.93　ホオヤケ　ホオヤケという音を答えたとき、被問者者もどれに同意した、いって取りあげた。\n　ホオヤケは頬にある場合と、見えない身（体内にある場合と）両方に使う。\nコテヤケ　〈手の見える部分にある場合にいう。〉\n6471.49　hojake.　〈海岸部の大浜部落ではho:jakeという。〉\n6504.01　入za.　〈表いのはakaza〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03618.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03618",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03618.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6507.38",
+      "6517.65",
+      "6518.87",
+      "6519.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙注記一覧 36-19 質問番号　地図番号　058　132 項目名　あざ　058 A 普通注記 [B 除いた共通語] [C 除いた特殊語] （23） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） 6507.38　アザ　アカアザ、クロアザ、アコアザ等　三種あり。 ＜アザというのは総称。＞ 6517.65　アザ　（総称はアザ） 6518.87　アザ　種類には　アオイアザ　クロイアザ　アカイアザ　などがある。 6519.43　アザ　（アザは総称）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03619.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03619",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03619.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6520.94",
+      "6521.94",
+      "6522.37",
+      "6522.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。\n日本語(?)地図資料用紙 注記一覧 36-20\n質問番号 058 地図番号 132\n項目名 あざ 058\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (2ヶ)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\nアター  <赤いアターをアカアター、青いアターをアオアターとする。>\n\nアザ、アタ。 此の地方はザ行、ダ行の混同著しい。\n\nアザ、アヲ。 此の地方もザ行音が[d]になる傾向のかなり強いが、比べると南部に比べると少い。しかしこの語においては非常に[d]になり易い。\n\nアター 発音は adza",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03620.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03620",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03620.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6525.95",
+      "6529.15",
+      "6536.68",
+      "6540.52",
+      "6542.32",
+      "6543.05"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 36-21 資問番号 地図番号 058 132 項目名 めざ 058 (A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (25)) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 65 25.95. a2a <赤いもののみをいう。> 65 29.15. アザ <アザは姓称> 65 36.68. adza (色によって aodza という) aka adza 65 40.52. アタ <昔、希?> アザ 65 42.32. アタ <名> アザ ザ行音 → ダ行音の(地方)か〜疑めて 著しい表れである 65 43.05. アザ (色により、アカガ、クロアダ(黒)という事もある。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03621.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03621",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03621.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）〔　〕は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-22\n質問番号 058　地図番号 132\n項目名 あざ 058\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(26)\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\na2a.　赤 aKa2a\n　　　青 a0a2a\n\na2a.　[-2a]は精密には[-2b]\n\nアザ　<絵件はめったに(使わぬ)>\n\nアラ　(a2aよりもaNaに近く聞えた。)\n\nアヲ　(アザの訛)\n\na2a.　(総称である。)\n\nアザ　色によって アカアザ アオアザ のように云う。大きさ位置差などーでも違う形はない。\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03622.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03622",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03622.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6571.68",
+      "6581.36",
+      "6583.93",
+      "6556.60",
+      "6562.48",
+      "6563.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-23\n質問番号 058　地図番号 132\n項目名　あざ 058　(27)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n\n65 56.60.　アザ　(色によるちがいは アカアザ、茶といふ、)　クロアザ。\n65 62.48.　アザ　生まれは小きまま そのまゝ成長と共に だんだん大きくなって行く。\n65 63.93.　adda　([adza], [azza] でなく [adda] である。 例えば 039 のような場合も、[kada2a] ではなく [kada] である。)\n6571.68.　アザ　(塚様?)\n6581.36.　アラ　(アザの訛り)\n6583.93.　adza.　a がより強く発音されることもある。\n\nA 注のない語形 [B・C 残した語形とその注]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03623.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03623",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03623.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6584.2",
+      "6628.59",
+      "6610.00",
+      "6630.43",
+      "6631.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-24\n質問番号 058    地図番号 132\n項目名 あざ 058\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (28)\n● A・[B]・[C]ごとに別紙を使用する。\n● その中での情報は地点番号順に並べる。\n● 注記のく >< [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6584.20.    a dza.    dは舌先の上がったz.\n66 10.00.   アザ.    (継称)\n6628.59.    butsi    <広い狭いにかかわらめ>\n            zza.    <面積が狭いもの>\n66 30.43.   zza.    青いもの。あのazza.\n            赤いもの。aka zza.\n66 31.60.   zza.    青、赤とも。\n66.34.32.   zza.    色にはkumo zza, aka zza9\n            区別しかない。\nあやについて関するその他の区別はない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03624.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03624",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03624.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n日本言語地図資料用紙注記一覧 36-25\n質問番号 058   地図番号 132\n項目名 あざ 058\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (29?)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\naza 22a. (絵柄)\naza 22a. (色で言いかたの区分はしない。)\naza 22a. いろいろの区別の名はない。\naza 22a. いろいろな区別のいいかたはない。\naza 22a. 絵柄,\nbojake. <akabojake, karobojake> なとという。\nhojake. (akabojake) (kurobojake)\nhojake. <akabojake, kurobojake>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03625.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03625",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03625.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7239.82",
+      "7246.45",
+      "7247.86",
+      "7248.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><()[] は厳密にする。\n日本言語地図資料用紙注記一覧 36-26\n資料番号 地図番号\n058 132\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (30)\n項目名\nあざ 058\n地点番号    A語形とその注記 [B・C除いた語形とその注]\n7239.82.    hojake.\n            なとーとり。>\n            赤いのか hojake ? :\n            akabojake なとーい.\n            黒いのは大きいので hoguro である.\n            hoguro.\n7246.45.    bojake.\n            赤いものを akabojake をとど hojake.\n            いか- 単独でも bojake ともいう.\n7247.86.    akabojake.\n            kurobokake. (kurobojake.)\n            その赤いもの.\n            その黒いもの.\n7248.15.    hojake\n            赤色",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03626.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03626",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03626.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7249.95",
+      "7258.89",
+      "7259.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）［　］は厳密にする。 質問番号 058　地図番号 132　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (3/1) あざ 058 地点番号　A 語形とその注記〔B・C除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕 hogaro.　黒色。 7249.95　ホヤケ　色によってアカホヤ、クロホヤ、クロホヤケ　などという。 7258.89　hojake.　＜上＞ boja.　＜akaboja, kuroboja のようにいう＞ 7259.22　akabojake　＜赤いもの＞（経辞はないらしいと思われる） kurobo　＜黒いもの＞ （あそというは黒いものの方か、ちょっとよく見ていなければいけない）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03627.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03627",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03627.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7268.87",
+      "7275.24",
+      "7304.29",
+      "7307.18",
+      "7308.33",
+      "7309.37"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 36-28\n貸問番号 058 地図番号 132\n項目名 あざ 058\n(A)普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (32)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n7268.87　boja　＜kuroboja, akaboja など＞\n7275.24　アザ　（小）\n　　　　木プロ　（大）\n7304.29　ホヤケ　＜赤いホヤケ、黒いホヤケ＞\n7307.18　ホヤケ　＜赤いのはアカイホヤケと云う。黒いのはクロイホヤケ＞\n7308.33　ada　＜色が濃くてやや小さい。＞\n　　　　hojake　＜大きくて色がうすい。＞\n7309.37　hoguro　＜黒さ＞\n　　　　hojake　＜赤さ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03628.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03628",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03628.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7309.61",
+      "7316.65",
+      "7316.93",
+      "7320.59",
+      "7321.46",
+      "7321.87"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-29\n質問番号 058  地図番号 132\n項目名 あざ 058\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (33)\n\n地点番号 | A語形とその注記（B・C除いた語形とその注） | A注のない語形（B・C残した語形とその注）\n\nhojake. 〈赤味を帯びている。 絵称も hojake.〉\n\nnoguro. 〈黒いの〉\nhojake 〈赤いの〉\n\nhojake 〈赤い〉\nnoguro. 〈黒い〉\n\naza. [小さいのが aza]\n\nhojake. 〈ho（頬）を言うが頬に限らず、こう言う。〉\n\nhojake. 赤いものは aka bojake.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03629.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03629",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03629.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7321.93",
+      "7325.84",
+      "7329.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-30\n項目番号 058　地図番号 132\n項目名　あざ 058\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (34)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n黒いものは kurobokake\n\n73 21.93.　木ヤケ　アホヤケ　〈ヤオホヤケ　などある。〉\n73 25.84.　hojake　〈赤いの〉　hogaro.　〈黒いの〉\n73 29.39.　hoguro.\n念を押して尋ねたが、小さいのは22 大きいのは hoguro という答え、その大きいものの実体も合っていた。\n調査者の手持資料でも",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03630.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03630",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03630.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7331.41",
+      "7334.44",
+      "7334.78",
+      "7335.34",
+      "7336.54"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）[　]は厳密にする。 日本言語地図資料用紙　注記一覧　36-31 質問番号　地図番号　058　132 A　普通注記 [B　除いた共通語] [C　除いた特殊語] ページ（35） 項目名　あざ　058 地点番号　A 語形とその注（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） hojake は周りがかれている！ 7331.41.　ホヤケ　色によってフロホヤ、アカホヤなどという。 7334.44.　hojake　＜赤＞　hoguro.　＜黒＞ 7334.78.　hoguro.　＜黒いのを言う。＞　hojake　＜赤いのを言う。＞ 7335.34.　hoguro.　（綴柄？） 7336.54.　hojake.　＜赤い＞　hoguro.　＜黒い＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03631.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03631",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03631.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7338.48",
+      "7333.75",
+      "7340.24",
+      "7341.47",
+      "7342.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )[ ]は厳密にする。 日本言語地図資料用紙注記一覧 36-32 質問番号 地図番号 058 132 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (36) 項目名 あざ 058 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7338.48. a22a. (東中子で はんのjakeがある。三あ奇にはんのjakeがある。被調査者自身、腹部のへんを示し他のえいすはしないといっている。) 7333.75. hojake. <赤いのも黒いのも言う。> hoguro. <帯> 7340.24. ホヤケ <広く色の変ったのがホヤケか> アザ 7341.47. ホヤケ <色によってアカホヤケ、クロホヤケなどという。> 7342.76. hajake. (間違いなし)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03632.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03632",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03632.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7343.14",
+      "7343.17",
+      "7345.43",
+      "7346.58",
+      "7346.63",
+      "7349.07"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-33\n質問番号　058　　地図番号　132\n項目名　あざ　058\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (37)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7343.14    hojake.　＜赤いのも、黒いのも＞\n7343.17    hojake.　＜ホヤケは緑斑＞\n7345.43    hoguro　＜黒い＞\n           hojake　＜赤い＞\n7346.58    hoguro　＜黒いのをいう。＞\n           hojake　＜赤いのをいう。＞\n7346.63    hojake　＜赤いを言う＞\n           hoguro　＜黒いのを言う＞\n7349.07    pari　（色によって akanari, ao nari）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03633.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03633",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03633.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7351.06",
+      "7354.23",
+      "7355.48"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。  ▲ その中での情報は地点番号順に並べる。  ▲ 注記の＜　＞（　）[　]は厳密にする。  日本言語地図資料用紙注記一覧　36-34  資料番号　058　地図番号　132  項目名　あざ　058  A 普通注記  [B 除いた共通語]  [C 除いた特殊語] (38)  地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]  というようである。しかし、老人の肌にできる白い疣瘡を〈siro nari〉ということであるので、疑はしくもなる。  hojake. (アサは別 .060.)  ホヤケ  アカホヤケ  クロホヤケ あり。  大きさは大小いつれも2つんとも2,3度の 局へにあるものもホヤケである  hojake <まい>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03634.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03634",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03634.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7355.81",
+      "7356.06",
+      "7356.55",
+      "7356.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n質問番号　地図番号\n058　132\n項目名\nあざ　058\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ　(39)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7355.81.    hoguro.    <黒い>\n7356.06.    hojake.    <総称>\n7356.55     hoguro.    <黒いのかホグロ>\n7356.70.    hojake     <赤も黒もいる>\n\n（下部手書き注記）\n女手振中、女性郡か大事を見て、手でつまれると、そこへ→ akabojake\nとなり、葬式を見ながら手でさわった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03635.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03635",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03635.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7357.31",
+      "7357.64",
+      "7362.67",
+      "7365.67",
+      "7365.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-36\n\n質問番号　地図番号\n058　　　132\n項目名\nふざ　058\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (60)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（手書き） 部位か kurobojake となる、と言い伝えている。>\n\n7357.31.　xida.　〈くるものこううつていた。〉（どうちがい・いかが？）\n\n7357.64　hoguro　[hojake]〈?〉\n7362.67　ホヤケ　アカホヤケ等あり。〈クロホヤケ〉\n\n7365.5/　hojake　〈赤いもの〉\n　　　　hoguro　〈黒いもの〉\n7365.67　hoguro　〈黒いね。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03636.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03636",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03636.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "7366.14",
+      "7373.23",
+      "7373.92"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-37\n\n質問番号 058    地図番号 132    A 普通注記    [B 除いた共通語]    [C 除いた特殊語]    ページ (41)\n項目名 あざ 058\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nhojake.　<赤みをおびたもの>\nたむし、同席の老婆(擬的生)は\n[クロホヤケ、アカホヤケと言って\nこ別する]と主張した。\n\n7366.14 hojake.　<ホヤケは黒いのをいう>\nakabojake　<赤いのはアカホヤケ>\n\n7373.23 ホヤケ　アカホヤケ\n　<クロホヤケ　などともいう。>\n\n7373.92 ホヤケ\n　<アカホヤケ　などあり>\n　アオホヤケ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03637.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03637",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03637.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7375.30",
+      "7375.37",
+      "7375.71",
+      "7376.68",
+      "7377.27",
+      "7382.01",
+      "7382.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > < [ ] は厳密にする。\n（右上の箱）\n058  / 132\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nあざ 058\nページ 36-38\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7375.30   hojake.    <赤いもの>\n7375.37   hoguro     <赤い場合には[akahoguro]という。>\n7375.71   hoguro.    aka hoguro　なぜり、kuto hoguro\n7376.68   hojake, hoguro   <質の相違はない>\n7377.27   hojake      <特に赤い、うすいのにきう>    hoguro\n7382.01   hojake.     <黒いのが多い.>\n7382.93   ホヤケ     <アカホヤケ、クロホヤケ など>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03638.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03638",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03638.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7382.97",
+      "7383.83",
+      "7385.61",
+      "7386.56",
+      "7382.33"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 日本言語地図資料用紙 注記一覧 36-39 質問番号 058 地図番号 132 項目名 あざ 058 A 普通注記 (B 除いた共通語) (C 除いた特殊語) （43） 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] ホヤケ　＜アカホヤケ、アオホヤケ等の名あり＞　本クロ。 ホヤケ　赤色のものをホヤケ　＜黒色のものをホグロという＞ hoguro. 赤い場合は hojake という。 hojake　＜赤いもの＞ hoguro.　＜青黒いもの＞ ホヤケ　皮膚がうすこしきている （黒ホヤケ） 赤ホヤケ　みたく ホグロ。 ホヤケは岸固（カワラ？）全部のことかー",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03639.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03639",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03639.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7352.94",
+      "7395.09",
+      "7376.53",
+      "7401.60"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< 〔〕は厳密にする。\n日本言語地図資料用紙注記一覧　36-40\n質問番号　058　地図番号　132\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (49)\n項目名　あざ　058\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n・　あり、ホフロより大きい。>\nホプロ.　<上・帝>　ホヤケ\nhoguro.　<青黒い場合>\nhojake.　<赤い場合>\nwojake.　(赤色) 色によって名称が違う。 hoguro (青黒) 違う。\nhojake.　妊娠している女が腹を抑え ところにできるという。／ときにできるという。大事(kaり)を見ると aka ~ bojake\n葬式に行くと。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03640.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03640",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03640.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7403.21",
+      "7403.86",
+      "7406.53"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-41\n\n質問番号 058　/　地図番号 132\n項目名　あざ 058\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (45)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nhojake.\n(kurobojake が〜でさるともいう)\n<赤いのを aka bojake、青いのを aobojake という。>\n\nN.R.\n(村内でそういう人を見かけない由。\nなんというか夜女といっていた。\nこの時、同席していた長男の妻が “hojaki” といひたか何か言ったが、いったかーくどうかも知らんが、わしは知らんがい　> といっていた。)\n\naza.\n(しかし昔の人はこんなは言わなかった。\n探別のものはない。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03641.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03641",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03641.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-42\n質問番号 地図番号\n058 132\n項目名 あざ 058\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] （46.）\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\nhamazu\na2a .... といいながら\n060を終わって、namazuを思います。これは白・赤・青・黒何でもいう。\n\n74.10.57. nobu. 顔などにある。広くて、大きいものをいう。色によって akaru nobu, kuro nobu という。 hokuro.\n\n74.12.26. akane. その勢いは mapomu. a2a.\n\n74.12.71. hojake. <kako ni atataju:> a2a.\n\n74.14.06. umizitaj: <たい範囲> a2a.\n\n74.14.43. umizitaj: <やや大なるもの>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03642.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03642",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03642.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7417.79",
+      "7420.18",
+      "7421.38",
+      "7421.62"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧　36-43\n\n質問番号　058　　地図番号　132\n項目名　あざ　058\nA（普通注記）　[B　除いた共通語]　[C　除いた特殊語]　ページ（47?）\n\n地点番号　・A語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C残した語形とその注】\n\n22a.　＜小なるもの？＞\n7417.79.　nobe　大きいものを言う。\n7420.18.　nobujake.　＜広い面積のものにいる。色によって、22a. aka nobu, kuro nobuともいう。＞\n7421.38.　wojake.　＜赤い色で、面積の広いもの。＞\n（同行）nobujake.　＜青黒くて、面積の広いもの。＞\n22a.　＜径が３cmくらいまでのもの。＞\n7421.62.　nobujake.　色によって　aka nobujake　ao nobujake　という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03643.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03643",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03643.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7431.08",
+      "7431.67",
+      "7436.40",
+      "2504.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 36-44\n質問番号 058　地図番号 (132)\n項目名　あざ 058\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語 (68)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7431.08　umiziruwji\n県下のあちこちは、幼児の\n発音改を言っている。\n此接地では久万町、因之町\nなどがかくうである。\n手持ち資料では東牛争地域\nと同じく nojake となっている。\n\n7431.67　umiziruwji; <多?>\n　　　　a2a.\n7436.40　a2a.　（小さいもの）\n　　　　no be.　（大きいもの）\n\n2504.27　a2a.　22a〜よる",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03644.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03644",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03644.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "8302.55",
+      "8302.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[]は厳密にする。\n\n日本言語地図資料用紙注記一覧　36-45\n質問番号　058　地図番号　132\n項目名　あざ　058\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (69?)\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\nアヲ？（アザの訛化。）\nアザ。 a z a a ～ a z a。\nアヅ？（アザの訛り。）\nhojage. ＜希＞\nhojake. （＜くわしくは akabojake, kuro- bojake などという。）\nホブロ（<?>）　ホヤケ（<?>）　}　ホブロ　ホヤケ　同じものをいうか。\nホヤケ。（赤色のもの）（転称 ホヤケ）\nホフロ。（黒色のもの）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03645.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03645",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03645.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "8303.13",
+      "8303.47",
+      "8303.84",
+      "8305.40",
+      "8305.73",
+      "8305.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）（　）［　］は厳密にする。 日本言語地図資料用紙 注記一覧 36-46 資問番号 地図番号 058 132 項目名 あざ 058 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (50) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 8303.13. hoguro. 黒いもの、および絹糸、赤いものは aka hoguro 8303.47. ホワロ. (黒いものもあり) ホヤ. (赤いものをいう) 8303.84. ホフロ. <アカホフロ　などとも> クロホグロ 8305.40. hoguro. 青黒いものをいう。 8305.73. hogaro. /aka hoguro/ /kuro hoguro/ などと２割してもいう。 8305.76. hojike. <赤い場合に言う。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03646.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03646",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03646.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "8306.42",
+      "8311.41",
+      "8315.42",
+      "8316.20",
+      "8323.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-47\n質問番号 058　地図番号 132\n項目名　あざ 058\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(5/)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n83 06.42.    kuro hojake.    <青黒い場合に言う>. \n             hoguro.    <黒くても赤くても言う>. \n             hojake.    <色の薄い方にのみいう>.\n\n83 11.41.    hoguro.    <うすし>    hojake.\n\n83 15.42.    hoguro.    黒いね。    hojake.    赤いね。\n\n83 16.20.    hojake.    名. \n             hoguro.    サ\n\n83 23.59.    N.K.    赤い色のに限り/hojake/という。青黒くなったのは黒い",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03647.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03647",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03647.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "8324.83",
+      "8325.56",
+      "8325.77",
+      "8335.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-48\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n質問番号 058   地図番号 132\n項目名 あざ 058\n普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (52)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形 [B・C 残した語形とその注]\n\n8324.83.  hojake.    ふるない。 hojakeと同じ意味。 hojakeの方が一般にわかりやすい。\n8325.56.  hoguro.    hojakeと意味は同じ。 hoguroの方をなく（使う）\n8325.77.  hoguro. hojake. 色、位置、大きさなどによる。 区別はない（何れといり）\n8335.11.  hoguro. <黒いもの。> [hojake] <赤い>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03648.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03648",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03648.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "8341.12",
+      "8342.69",
+      "8345.74",
+      "8350.68",
+      "8352.40"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-49\n質問番号 058   地図番号 132\n項目名　あざ　058\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(53.)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形 [B・C 残した語形とその注]\n\n[　]は本ミ若が〜し、それを被調査者が赤いものなどと説明した。\n(校長、次上町の助言)\n\n8341.12.　[hojake.]　(校長・次上町の助言)\n8342.69.　hojake.　<赤いものをさしているが黒いものもいうだろう。>\n8345.74.　[tsjaza]　(被調査者もそうひとこと言っていると思えす。)\n83 50.68.　hojake.　<舌?>\n83 52.40.　hojake.　aka hojake,\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03649.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03649",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03649.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "8352.92",
+      "8354.29",
+      "8355.23",
+      "8362.34"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 36-50 質問番号 058 地図番号 132 項目名 あざ 058 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (54?) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] ao nojake などのまいあり? 8352.92 a22. <稲軸は無理にいえば> こんがススりと変転になりにくいのは (oioのことをアサセとりからなる) 8354.29 hojake. <赤ホヤ 青ホヤなどという> 8355.23 koguro. <黒色> hojake. <赤色> 8362.34 hojake. 赤いのは a Ka hojake. 黒いのは Kurohojake というこあり.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03650.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03650",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03650.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "8363.64",
+      "9312.42",
+      "0265.96",
+      "0276.50",
+      "0294.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-51\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n質問番号 058　地図番号 132\n項目名　あざ 058\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (55)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n8363.64    hoguro.　＜黒い色＞\n           hojake　＜赤い色＞\n9312.42    aʔda.　＜黒いをいう.＞\n           hojake　＜赤いをいう.＞\n0265.96    ha:bë　＜ha;be は茶色のをいう＞\n0276.50    audziruʃi　（青いのをいう）\n           a:dzinuʃi　（赤いのをいう）\n0294.66    ji:dziruʃi　＜弟＞\n\n（手書き注記） 妊娠中に大事を見ると、azaasa が生れるという？",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03651.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03651",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03651.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "1231.88",
+      "1241.96",
+      "1242.72",
+      "1251.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><()[]は厳密にする。 日本言語地図資料用紙 注記一覧 36-52 質問番号 058 地図番号 132 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (56) 項目名 あざ 058 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 火じるしという。 1231.88. N.R. (多くの老人に聞いてもはっきりしない) 1241.96. N.R. aza の大さいのは to:nu k'wa? a? maiga (店のあるさ) とい、小さいのは jamat'unak'wa- zmazga (大和の...?) といふ。 1242.72. 1we:ku <2ma:nu 2we:ku 黒> <taku nu 2we:ku 赤> 1251.27. 2aza. <kuru 1gza. 黒あむ?>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03652.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03652",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03652.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "2150.06"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　36-53\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n資料番号　058　地図番号　132\n項目名　めざ　058\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n20.76.99.　pay\nsiruji\n〈sirujiは今になって使う。〉\nもとは pay といった。\n\n21 50.06.　~mariban　〈jisaa eui〉者もいる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03653.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03653",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03653.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "5605.11",
+      "6532.70",
+      "6562.22",
+      "7382.01",
+      "7400.11"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　36-54\n質問番号　地図番号　058　132\n項目名　あざ　058\nA　普通注記　 B　除いた共通語　 C　除いた特殊語　（1）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n5605.11.　a2a.　＜新？＞　　bwtji;\n6532.70.　アザ.　＜ザレ？＞\nアザとは余りいわない。\nこの地方は[z]→(dz)の傾向がー\n非常に著しい。\n\n6562.22.　アザ.\n赤ければアカアザ\n（黒ければクロアザ、という。）\n\n7382.01.　a2a.　＜今のことは？＞　hojake（黒いのがない）\n7400.11.　a2a.　上.　ada.\n\n＜a2a ga no'to de 50;＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03654.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03654",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03654.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "7420.91",
+      "8350.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 36-55 資問番号 地図番号 058 132 項目名 あざ 058 A 普通注記 B(除いた共通語) C(除いた特殊語) ページ (2) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] (いい添ええ。) 22a. 新 ~nobujake.  e2a. <新>? hojake. <希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03655.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03655",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03655.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "0799.03",
+      "4685.72",
+      "3725.72",
+      "3740.33",
+      "4653.02",
+      "4666.51"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜ ＞（ ）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 36-56 質問番号 地図番号 058 / 132 項目名 あざ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ ( ) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 0799.03 <aka adza, a oadza> adza 17 27 75 =え <クロ=エになる> そのま 37 25.72 アガアザ (赤いあざ) アザ (黒いのを) 37 40.33 agaza (大) āza (小) 46 53.02 kata そのま 46 66.51 aka aza <赤いあざ> kuro aza <黒いあざ> aza (総称) 4685.72 akaaza 色によるちがい形, 赤あざ, 青あざ, 黒あざ aza",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03656.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03656",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03656.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "5605.11",
+      "5611.81",
+      "5697.86",
+      "5579.10",
+      "5598.67"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 36-57\n質問番号 058  地図番号 132\n項目名 あざ 058\nA 普通注記\n[B 除いた共通語]\n(C) 除いた特殊語 (2)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n55 79.10.    アアアザ　＜紫色＞\n             クロアザ　＜黒色＞            アザ　＜総称＞\n                                         ナマズ　＜白色＞\n\n55 98.67.    アカアザ, シロアザ, アライアザ\n             （色による形）               アザ　（総称）\n\n5605.11      a2a2a　＜新＞               bmtji   (線で取消)\n\n5611.81      a k a a 2 a  （赤色のもの）      a2a  （総称）\n             a0a2a  （青みのかったもの）\n             km-10a2a（黒いあざ）\n\n5697.86.     a0a2a  （青いあざ）            a2a\n             a k a a 2 a（赤いあざ）\n\n（表内手書き注記多数、読み取り困難な箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03657.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03657",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03657.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "5732.98",
+      "5742.32",
+      "5742.65",
+      "5770.11",
+      "5772.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-58\nA・[B]・[C]ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n\n[枠内上部]\n資料番号 058   地図番号 132\n項目名 あざ 058\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (3)\n\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n5732.98   dodza    (青いもの)            adza (絵様)\n          akaaddza (赤いもの)\n          kurodza (黒いもの)\n\n5742.32   kurodza <色によっていう>    adza (添林)\n          akaddza <色によっていう>\n\n5742.65   kuwoaza                      aza.\n          agaaza\n\n5770.11   aga a(d)za                    a(d)za\n          ao a(c)za\n\n5772.00   aoaza\n\n（手書きのローマ字語形と日本語の注記を粗く転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03658.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03658",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03658.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "6356.98",
+      "6421.82",
+      "6430.53",
+      "6439.77",
+      "6466.36",
+      "6486.07"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　36-59\n質問番号　058　　地図番号　132\n項目名　あざ　058\nA　普通注記　　[B　除いた共通語]　　(C　除いた特殊語)　ページ（K）\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\nagaaza\t\taza\n6356.98\tアカホヤ\n\tクロホヤ\n\tホヤ、絵称\n6421.82\tKomo N.　〈B〉\n\t\taza.〈沙〉\n6430.53\tアアアザ　〈赤イモノ/うりう〉\n\t\tアザ　〈数通　鮮色、モノつき〉\n6439.77\tアアアザ、クロアザ\tアザ\n6466.36\tアオアザ\tアザ（総称）\n\tアアアザ　色による。\n\tクロアザ\n6486.07\tクロアザ、アカアザ\t赤オヤケ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03659.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03659",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03659.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "6486.50"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　36-60\n質問番号　058　　地図番号　132\n項目名　あざ　058\nA　普通注記\n[B　除いた共通語]\n(C　除いた特殊語)　(5)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n\n地点番号　　A 語形とその注記　（B・C除いた語形とその注）\nA 注のない語形　（B・C 残した語形とその注）\n\n香川県方言部の学生\n三浦房??居がずっと同座して\nいて、調査者が香川県の一族\n形てあるホオヤケを引きとり\nとして、繰り返してゆく途中。\n参考に三浦君にきくと、親に\nあるときホオヤケという名を\n答えたところ、被調査者も\nそれに同意したので取り\nあげた。\n\nアザ：\nホヤケ\n\n6486.50　アオホヤケ、アカホヤケ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03660.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03660",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03660.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "6487.43",
+      "6517.65",
+      "6519.43",
+      "6525.75",
+      "6529.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-61\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[ ]は厳密にする。\n\n質問番号 058　地図番号 132\n項目名 あざ 088\nA 普通注記　[B 除いた共通語]　(C 除いた特殊語)　ページ (6)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6487.43　アカホオヤケ／アオホオヤケ／クロホオヤケ　　ホオヤケ\n6517.65　アカアザ、クロアザ、アラアザ（色によってアカアザ，クロアザ，アアサを区別する）　　アザ（継続はアザ）\n6519.43　クロアザ、アカアザ　〈クロアザは黒色、アカアザは赤紫色〉　　アザ（アザは絞紋）\n6525.75　kuroaza（赤以外のあざ？）　　へえ（赤いもののみをいう）\n6529.15　アカアザ　〈黄色のアザ〉　　アザ、〈アザは絞紋〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03661.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03661",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03661.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "6532.9",
+      "6551.18",
+      "6560.22",
+      "6561.49"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-62\n質問番号　地図番号\n058　132\n項目名　あざ　058\nA 普通注記　[B] 除いた共通語　(◎ 除いた特殊語)　ページ (7)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉は厳密にする。\n\n地点番号　A語形とその注（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6532.90.　クロアザ　〈黒色のアザ〉　アザ。〈クレ？〉　アアとは全りいわない　この地方は[?]→[az]の　役割が非常に著しい　アター\n6551.18.　アカアザ　〈赤いアザ〉　アザ、〈ような株はめいに〉（実わん？）　クロアザ　〈黒いアザ〉\n6560.22.　アオアザ　アガ？　アカアザ\n6561.49.　アカアザ　〈赤いもつ〉　アザ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03662.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03662",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03662.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "6562.22",
+      "6571.68",
+      "6610.00",
+      "6626.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 36-63\n質問番号　地図番号\n058　132\n項目名　あさ　058\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(8.)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n65 62.22.　アオアザ、　〈青いもの〉\n　アザ　赤ければ、アカアザ、　（黒ければ、クロアザ、という）\n\n65 71.68.　アオアザ、　〈青いあざ〉\n　アカアザ　〈赤いあざ〉\n　→　アザ、〈総称〉\n\n66 10.00.　クロアザ、　〈黒青〉\n　アカアザ、　〈赤紫〉\n　シロアザ、　〈白色〉\n　→　アザ、（総称）\n\n66 26.30.　aka a2a\n　kuro a2a\n　（右欄） a2a",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03663.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03663",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03663.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〈〉（ ）［ ］は厳密にする。 日本言語地図資料用紙注記一覧 36-64 資問番号 地図番号 058 132 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9) 項目名 あざ 058 地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注] 　aka-aza. (あかいあざ) 　kuro-aza. (くろいあざ) 　→ aza (総称) 　aka-aza. あかいあざ; 　kuro-aza. くろいあざ; 　→ aza. 総称 　akabojake. 　→ hojake. 　カタ. 　(ホグロはアカよりも大形で毛が生えている。) 　もっと大きいのがホヤケである。 　→ ホグロ / ホヤケ 　aka hoguro (色によって アカホグロ、クロホグロ などと分ける) 　kuro hoguro 　→ hoguro. (総称)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03664.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03664",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03664.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "7343.17",
+      "7345.47",
+      "7355.81",
+      "7356.98",
+      "7366.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[]）は厳密にする。\n日本言語地図資料用紙 注記一覧 36-65\n資料番号 058    地図番号 132\n項目名 あざ 058\nA 普通注記  [B 除いた共通語]  (C 除いた特殊語)  ページ (10)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7343.17.    akabojake  色の赤いのかアカボヤケ\n            kurobobjake  黒いのかクロボヤケ            hojake  絵殊(?)\n7345.47.    akabojake  <赤いのをいう>\n            kurobojake  <黒いのをいう>                 hojake.\n7355.81.    kurobojake  <黒いもの>                     hojake. <絵殊>\n            akabojake  <赤みをもったもの>\n7356.98.    akabojake  <赤味をもったもの>             hojake\n            kurobojake  <黒いもの>\n7366.91.    akabojake                             hojake.\n            kurobojake\n\n(注: 活字・手書きの判読に不確かな箇所あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03665.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03665",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03665.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "8305.40",
+      "8324.83",
+      "8352.72",
+      "7375.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙 注記一覧 36-66 資問番号 058 地図番号 132 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (11) 項目名 あざ 058 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 73 75.30. awobojake. kurojin ＜青黒いもの？＞ hojake.（赤いもの） 8305.40. akahoguro. 赤いものをいう hoguro. 青黒いものをいう 8324.83. moja. hojake.（mojaと同じ発音、 hojakeの方が一般にわかりやすい） 8352.72. giaza ＜赤いもの＞ aza. ＜（変形は無理に記載？）＞ kuroaza ＜黒いもの＞ （こんがらまりと読みと差異に なる／これはメモ的な走り書き）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03666.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03666",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03666.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n日本言語地図資料用紙 注記一覧 36-67\n資料番号 058    地図番号 132\n項目名 あざ 058\nA 普通注記  [B 除いた共通語]   (C 除いた特殊語)   ページ (12.)\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\numa'tu    あがあたーい、もともと火の意味に、母親が妊娠中大事を見ると、どんがり襟見のあさーとなるという。    jakunyemmmai\n（終結は N.K）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03667.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M132Q058/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03667",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03667.tif",
+    "source_ljc_id": "LJC-M132Q058",
+    "source_map_numbers": [
+      "132"
+    ],
+    "source_title": "あざ (痣)"
+  }
+]

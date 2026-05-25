@@ -1,0 +1,788 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-47\n質問番号 1715  地図番号 59\n項目名 センタクスル（繕直す？）\nA 普通注記（ページ 1）\nA・〈B〉・〈C〉ごとに別紙を使用する。\nその中での普請は地点番号順に並べる。\n注記のくく（）は略符にする。\n\n〔欄見出し〕 地点番号／A 語形とその注記 …\n1719. 17 くだし、着物・ふとんの畳など目どりを（作り直すこと）。\n1739. 10 ※〈母はつぎするのを言った〉。\n2782. 67 12. nurum という。\n3725. 12.1 （セダグ）。\n3704. 57 11. 言いかた（sendaku という名詞になる働きという意味があるが、57州では用いることはない とのこと）。\n3725 72 11. 〈新しい着物のことはいう〉。\n3726. 25.12 （喟フケをくはさうに言う—または母）。\n3730. 43.1 言わない。（ふとんを作り直すなどではセンタクスルという）。\n3734. 42.1 （仕立てる）。\n3741 16.1 繕い直しには使う。\n3744. 33.7 嫁が里に泊りに来て着る着物のこと。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01447.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01447",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01447.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3791.02",
+      "4652.79"
+    ],
+    "other_text": "日本音語地図資料用紙 注記一覧 14-48\n質問番号 地図番号 1715 59\n項目名 センタクスル(裁縫する) 1715\nA 普通語 [B 除いた共通語] [C 除いた特殊語] (2)\n地点番号　A 語形とその注記\n3745. 98　言わない。11. (着物のことには言う由)\n3746. 76　言わない。11. <エーセンダクと着物には言う>\n3747. 45　言わない。11. <服装の意には用いる>\n3752. 53　9. haruu. / -sentakususiru という a k?\n複合語で冬物<->夏物の改装(と引返し縫う)ことを言う。\n3757. 09　11. 言わない。170のカードには衣裳のこと、je: sentakwo\nsiteuruは「…」意をしているの意をある。\n3762. 85　言わない。一部に含む。ほごして洗って縫いなおす。\n→ 児 3791.02 をみよ　また 4652.79 をみよ\n3763. 17.　11. 言わない。170のカードには着物のこと(センタク)とある。\n（61にすべし）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01448.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01448",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01448.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 記入一覧 14-49\nA・(B)・(C)ごとに別表を使用する。\nその中での普遍は地点番号順に並べる。\n注記のく<>（）は厳密にする。\n質問番号 1715  地図番号 59\n項目名 センタクスル（裁縫する）\nA 常通語  B 限られた共通語  C 限られた特殊語  （ページ 3）\n\n地点番号／A 語形とその注記\n3768 50  11. 言わない。（着物を損して言った。）\n3774 61  2. 言う（先）\n3783 11  2. 言う（先）\n3784 24  3. （在で）\n3787 45  2.(b) せんたく\n3791 02  6. とくに裁縫の部分だけわけては言わない。仕立直しを過程という。\n3794 55  1. （なく裁縫する）\n3795 86  2（先）\n3796 48  1. しせんたく",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01449.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01449",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01449.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-50\n・A・{B}・{C}ごとに別表を使用する。\n・その中での情報を地点番号順に並べる。\n・注記のく＜＞（）は該当語にする。\n質問番号 171S　地図番号 59　（普通語）　ページ（4）\n項目名 レンダクスル（連濁する） 171S\n\n地点番号／A 語形とその注記〈B・C 異ない語形およびその注記〉／A 注のない語形\n3796. 95　1. 〈仕立てる〉\n3797. 32　1. （仕立てる）\n4589. 83　1. 〈ただし hendaku は「つづく」こと。〉\n4597. 66　1. 〈ただし、つづくること〉\n4598. 33　1. 〈hendaku という〉\n4598. 59　1. 〈つづくることという〉\n4599. 31　1. 〈つづくることを hendaku という〉\n5613. 48　? 意味は…、但し sendaku domari（近濁的?）という。いつて、意味関係などが要素間に近濁や変転などをする場合がある。\n（欄外メモ）← こんな地点ないし。4613もダメ。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01450.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01450",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01450.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-51\n質問番号 1715　地図番号 59\n項目名 モンタクスル（裁縫する）\nA 普通注記（○）／B ／C\nページ (5)\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉（ ）は…。\n\n欄見出し：地点番号／A 語形とその注記／A 注のない語形\n\n4618 87 1. 〈…縫い直すことという〉\n4628 61 1. 〈ふとんなど縫い直すこと。〉\n4638 83 1. 繕う・縫い直す・裁縫する。〈……〉\n4648 10 7. 嫁が親許に20日くらい帰ることを「センダク」という。〈父より、手につけ…のようなものではない〉〈古い儀、つづいてひくものと言う〉\n4688 42 1. 仕立てる・縫い直す・裁縫すること。嫁は sendaku の際に実家に帰る風習があった。\n4652 79 6. 〈洗って縫い直すこと…〉〈hajin とも言う語も／布に使う〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01451.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01451",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01451.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "A・(B・C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のくつ〈 〉（ ）は鉛筆にする。\n日本言語地図資料用紙 注記 一\n質問番号 1718  地区番号 59\n項目名 センタクスル（洗濯する）\n普通語  B 聞いた先端語  C 聞いた特殊語  ページ (6)\n地点番号 / A 語形とその注記 / B・C 聞いた先端語とその出所 / A 注のない語形\n02. 1. 〈修繕・縫直しにいう〉\n52. 6. （洗濯と伴う縫い直しの意味の様である。単なる裁縫ではない様である。）〈飯を sendaku nijaruma 第四の sendaku 等の用例がある。〉\n88. 1. 〈縫う、縫い直す〉\n06. 裁縫そのものを言うのではない。いろいろ繕う終うの全過程を… 飯の里帰りしてする裁縫などと言うにすぎない。カード参照。\n49. 6 言わない。隣村には…のこと。洗濯（衣類を洗い干す）洗い残り仕立て直しなど一般をバクなどと言う。あらわすことがある。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01452.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01452",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01452.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-53\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞（）は厳密にする。\n質問番号 1718／地図番号 59\n項目名 センタクスル（洗濯する）\nA 普通語  ページ(7)\n地点番号／A 語形とその注記／A 注のたい活用\n4669 55: 9. 言わない。（但し、綿入を使って繕い直すまでをイセンタクという）\n4672 19: 6. 言う。（但し「洗って繕うこと」の意味に使う）。（じっと繕い直すことも意味するらしい）\n4678 71: 6. 言わない。（…クロでほどく、…）\n4685 88: 6. 言わない。ただし、クロで着物・ふとんをほどくなどに用い、繕い直す全過程ということもあり。\n4687 27: 9. 言う。（使うことから、全体を指す意にも広く含む sendaku）（jigoto という語がある）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01453.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01453",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01453.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "14-54 日本言語地図資料利用紙 注記一覧\n質問番号 1718  地点番号 59\n項目名 センタクヌル（裁縫する）\nA 普通注記\nB 聞いた共通語\nC 聞いた特殊語\nページ (8)\n\n▶ A・〔B〕・〔C〕ごとに別表を使用する。\n▶ その中での番号は地点番号順に並べる。\n▶ 注記のく（ ）は厳密にする。\n\n見出し：地点番号／A 語形とその注記（…）／A 注のない語形（…）\n\n4696 行: 82. 12. <hajin. muikoto と言う>\n4698 行: 15 5. かわない、くろ後の言葉の使うのを聞いたことがある。今 は使いも聞きましたり。\n4700 行: 37. 9. く他に・ワダルセシ（語の意味直しという場合）\n4703 行: 88. 1.3（製作を…むこしと言うそうだ。途中を割り…） 1 場合でも勿論セラするのでする。\n4705 行: 53. 3. あわない。「善い道」とにくいと言うことがある。（婦）\n4706 行: 53. 4. ま前かい… ただに昔は着物を作ってやると言うだけ？ センタクするか、ネカトするかと言った。（着物を作ってもらって行くの、持参金に持つか）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01454.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01454",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01454.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4653.02",
+      "4618.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　14-55\n資料番号　地図番号\n171 S　59\n項目名　センタクスル（裁縫する）　171S\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（19）\n\n地点番号　A　語形とその注記　A注のない語形\n\n45　1.（仕立てる。縫う。縫い直す。裁縫するの全般に使う）\n22　2.〈古〉（針仕事であればどのようなのでもすべてこういう）\n68　5×　言わない。〈自分は言った覚えがないような気がするが、女達がそんな風に使っているようだ。自分は女でないから、くわしいことはわからない〉\n17　〈但し縫い直すとき〉　言う（ことがある）\n00　1.〈主に縫う、縫い直す場合であって、仕立てる、裁縫するには使わない。〉\n80　12.〈外出、旅行、嫁入りなどのために着物などをヒとのえ準備することに使う。着るだけでなく嫁入り道具にテレビをセンタクするというようにも使う。〉\n\n（欄外の書き込み）→5にする。　3はあやまり　例）4653.02　4618.57　46\n（その他手書き注記や矢印、丸印など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01455.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01455",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01455.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "A・（B）・（C）ごとに別表を使用する。 その中での音異は地点番号等順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 質問番号 1715  地図番号 59 項目名 センタクヌル（縫直する） 1715 A  B  C  ページ（10） 地点番号／A 語形とその注記（B・C残した語形とその注）／A 注のない語形（B・C残した語形とその注） 4731.  85  6.（離合語？）＜鍋入洗濯する＞といえば作りかえること（浅く張りして仕直すこと）で、新しく仕立てるまではいわない。 4734.  20  S. 書かない。＜自分が子供時代に使ったが、母などから、裁縫の意味のセンタクということを聞いた。はっきりわからないが、仕立てる・縫う・縫い直すなどの全てに適用したようだ。＞ 4735.  37  I. ＜仕立てる。裁縫するの意ではなく、縫う・縫い直すの意に使う。＞ 4740.  26  I. ＜繕い直すこと。＞ 4741.  92  I. はっきりとはなし、裏向きにして縫い直すこと。 14-56",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01456.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01456",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01456.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "▶ A・(B)・(C)ごとに欄を使用する。 ▶ その中での情報は地点番号順に記べる。 ▶ 注記のく( )には厳密にする。 日本言語地図資料用紙 注記一覧 14-57 質問番号 1715 地区番号 59 項目名 センタクヌル（裁縫する） A 常語注記 （ページ 11） 地点番号／A 語形とその注記／B・C …／A 注のない語形 … 4743 95 1.〈布団など着物を縫う場合だけに使う。〉 4750 32 1. 但し「綴りかえ」の場合が主。例 センタクイショー（綴りかえた着物）。合と押し…やわらかいさいであった。 4750 76 9. 綿入の場合などに限る。ワダンセンダンダというな。綿入を縫い直すこと、綿直し綿入はセンダンダずれ。 4753 76 5.〈自分は使わないが、よそなどで聞いたことがある。針仕事の意に使ったのを聞いたことがある。〉 4760 02 9. 言わない。〈使っており、直しに綿入をセンタククタイといった。〉 4771 58 × hani nuttendae — sentagumono nuttenda dzoe — などでいうという。南小のことだが、もちろん他にはことはない。 12",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01457.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01457",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01457.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 14-58\n質問番号 1715  地図番号 59\n項目名 センタクスル（継接する）\nA 常語注記  ページ（12）\n\n地点番号／A 言形とその注記\n59. 1. 〈縫うことにのみ言う〉\n20. 1. 〈アローテ（仕立て）シエンダウ（補修）スルのように使うことがある。〉\n16. 1. 〈繕い直すことを hendoku という〉\n19. 2. 「現在は使わない」と答えた\n19. 1. 着物などを縫うこと。\n29. 1. （にさい補修のき…）\n78. 1. シエンダウは「繕い直す」といっていう。  〈注〉も\n90. 9. 〈ボットンゆく（＝修理・つづること）という〉\n20. 1. つづること。\n71. 1. 〈つづること〉\n\n・A・B・Cごとに別紙を使用する。\n・その中での音調と地点番号順に並べる。\n・注記の〈 〉（ ）は誤答にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01458.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01458",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01458.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 14-59\n質問番号 171S／地図番号 59\n項目名 センダクスル（裁縫する） 171S\nA 普通注記／B 限いた共通部／C 限いた特殊部／ページ (13)\n- A・{B}・{C}ごとに別紙を使用する。\n- その中での音様は地点番号順に並べる。\n- 注記の＜＞（）は該当符号にする。\n欄見出し: 地点番号｜A 語形とその注記｜B・C 資料番号とその注記｜A 注のたい語形（B・C 典した語形とその注記）\n行の記述（地点番号欄以外）:\n15  1 〈つづくることを sendaku という〉\n31  1 〈hendaku という。170s の sendaku（…）と区別する。〉\n99  1 「縫う」こと。\n94  1 〈つづくるときに言う。〉\n16  1 〈ぬい直すとき〉\n43  6 〈つづくることをいう。〉\n82  1 〈つづくるときに使う〉\n96  6 センダクは さいつづくる こと。\n24  1 〈くだけて「つづくる」こと〉\n35  1 針仕事の一切。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01459.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01459",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01459.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "A・〈B・C〉ごとに別紙を使用する。\nその中での首欄は地点番号順に並べる。\n注記の〈 〉は厳格にする。\n日本言語地図資料利用 註記一覧 14-60\n質問番号 1715／地図番号 59／普通語注／ページ(14)\n見出し センダヌクル（裁結する）\n地点番号／A 語形とその注記〈B・C 表れた語形とその注記〉／A 注のない語形\n58 1. つづることをいう。\n58 1. 〈つづる〉ときに使う。\n84 2. 裁縫一般のこと。\n57 6. 言わない。（フトンをシグという場合には、布団の外がわの布を洗い、中のわたを打ちなおし〈仕立てなおすことをいう〉）\n88 1. 〈縫い直す意味〉\n41 1. 〈フトンの縫い直しの場合に使う。〉\n83 6. さらに、縫いなおすことをいう。sendaku yasumi（衣類を縫ったり・洗ったり・縫い直す等）+ sendaku gimon. zunton no sendaku 等の語がある。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01460.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01460",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01460.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙 注記事一覧 14-61\n・A・{B}・{C}ごとに別紙を使用する。\n・その中での前欄に地点番号等明記すべし。\n・注記のく＞（ ）は厳格にする。\n質問番号 171S／地図番号 59\n現 センダスバ（裁縫する） 171S\nページ (15)\n欄見出し：地点番号／A 語形とその注記（B・C 欲しい語形とその注記）\n7. 但し sendaku suruu と言わない。sendaku domori(?)（洗濯回り?）に行った場合は張りが無くなります。\n10. sendaku basa（洗濯ばさ[み]?）というものがあった。\n縫い直す事をいう、縫い直しの語もいう。sendaku basa は冬期などに使う、布団の縫い直しの線(?)。\n1. 糊をつけて、縫い直すこと。\n6. 古い衣類をほどいたり、縫い直しすることをまとめていう。\n〈縫い直すのに使う〉\n〈布団などをほどって縫い直すこと〉 ただしいくらか違う意味。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01461.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01461",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01461.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用表 注記一覧 14-62。 質問番号 1715、地図番号 59。 項目名: センタクスル（裁縫する）。 A 普通語／B 聞いた共通語／C 聞いた特殊語。 注意: A・(B)・(C)ごとに別葉を使用する。 その中での情報は地点番号順に並べる。 注記のく〈〉（）は注記符号にする。 見出し: 地点番号／A 語形とその注記／B・C 他のことば等。 記載内容例: 1. 縫いなおしの時に使う。 2. 老人が云う。 〈くつろうこと〉。 1. スイカエシのことを…にする所だと言う。 6. 言わない。くたし・ほぞ・洗い張り・縫い直す〈全過程にいえる〉。 3. 縫い返す、この時に言うこともある。 6. 古着といい洗張りして縫い直すこと。 6. 〈洗い張りして縫い直す〉。 1. 縫う・縫い直す（この地方で聞いたことがない）。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01462.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01462",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01462.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料使用紙 注記一覧\nA・(B)・(C)ごとに別紙を使用する。\nその中での番号は地点番号順に並べる。\n注記の＜＞（）は注意符にする。\n質問番号 1715／地図内番号 59\n項目名 センタクスル（継接する）\nA 常通注記   (B 聞いた共通語)   (C 聞いた特殊語)\nページ (17)\n\n[表]\n地点番号欄の右の数字: 99, 35, 89, 71, 77, 23, 67, 80, 38, 74\nA 語形とその注記（手書き）:\n1. ＜縫う・縫い直すのを言う＞\n1. （69?）くつい(くつるい)のことをボロセンタクスルと言った。\n9. ＜ボタ(ン)とタクスル＝縫うこと。ボタは小われ＞\n1. 言わない。縫いものはセンタクスルを使う。\n2. （右）＜縫うことにセンタクをつかった＞\n10. ＜ボロゼッタ(仮)と言った＞\n1. ＜縫うこと＞\n1. ＜縫う・縫い直す＞\n1. ＜縫う・繕い直す＞\n1. ＜縫うことに言う＞\n右欄は空白。 14-63",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01463.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01463",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01463.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-64\n質問番号 1715  地図番号 5-9  性 男  ページ（18）\nA・〔B〕・〔C〕ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉（ ）〔 〕は該当欄にする。\n地点番号／A 言形とその注記／A 注のたい部位 B・C など\n10 （右）ヤブレゼンタク。 （左）ボロゼンタク。〈ヤブレゼンタク：イトオシイの語り、イトオシイは いとわしい とのかけことば〉 つこう。\n43.\n38  1. 縫うこと。\n24  1. 〈縫うこと〉\n59  1. 〈フクロビを縫う時〉\n60  1. 〈縫う〉（かんのんぬい、つこう）\n32  10. 先に…〈ヤブレゼンタク、ボロゼンタクなど〉\n59  2. 〈縫う意味である〉〈b〉\n64  2. 〈縫う時に使う。今はあまり使わない。〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01464.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01464",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01464.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [],
+    "other_text": "・A・[B]・{C}ごとに別表を使用する。 その中での情報は地点番号順に並べる。 注記のく＞（ ）〔 〕注釈にする。 日本言語地図資料利用紙 注記一覧 14-65 質問番号 1718  地図番号 59 項目名 センタクスル（裁縫する） ページ (19) A 普通注意 （B 聞いた共通語） （C 聞いた特殊語） 見出し：地点番号／A 語形とその注記〈B・C語形と其異形とその注記〉／A 注のない語形 68  1. 〈綴う意味だけに使う。〉 65  1. 〈修繕する時にだけ使う〉 33  1. 〈綴う時に使う。〉 68  1. 〈綴う時にだけ使う〉 11  1. 言わない「綴り」ばかり言う 31  1. 〈ツイダリ、ハーダリすること。〉 28  1. 〈綴う時だけに言う。〉 25  1. 綴う 73  1. 〈綴う場合にのみ使う〉 63  1. 〈修繕する意。〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01465.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01465",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01465.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [],
+    "other_text": "・A・B・Cごとに別紙を使用する。・その中での情報は地点番号順に並べる。・注記の〈〉（）は厳密にする。 日本言語地図資料利用紙 注記一覧 14-66 質問番号 1715 地図番号 59 項目名 センタクスル（縫結する） ページ（20） 地点番号／A 言形とその注記【B・C除いた語形とその注】 1.〈着物を修理する時〉 1.〈つくろう時にだけ使う〉 1.〈縫う時に使う〉 1.〈破れたところを縫う〉 1.〈縫う意味〉 1.〈縫うこと〉 1.9.〈縫う・縫い直すこと。ボロ…タケをすると言う〉 1.〈縫う・縫い直す〉 1.〈縫う時に使う〉 1.〈縫うの意味〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01466.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01466",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01466.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [],
+    "other_text": "A・(B)・Cごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のくく( )は厳密にする。 日本語(言語)地図資料利用紙 注記一覧 14-67 質問番号 1718 地図番号 59 項目名 センタクスル（?する） ページ(21)\n見出し: 地点番号 / A 語形とその注記 / (B・Cで補った語形とその注記) / A 注のない語形\n1. 〈縫う時にだけ使う〉\n1. 〈修繕する時に使う〉\n1. 〈縫う時にだけ使う〉\n1. 〈縫う時、ぼろつぎをする時に使う。〉\n12. 〈落丁〉（油落しを言っているのと同じ） 10\n1. 破れを繕う。\n9. 〈ツクロエ センタクと言う〉\n〈縫い用の布切れをセンタクチと言った〉\n1. 仕立てではない。古くなって、そこらで着られぬものを着られるようにする。たとえば そろへ。又、繕う。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01467.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01467",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01467.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用用紙 14-68\n質問番号 1718　地区番号 59\n項目名 センタクスル（裁縫する）\nA 普通注意／B 使いた共通語／C 使いた特殊語　ページ（22）\n▶ A・(B・C)ごとに別表を使用する。\n▶ その中での番号は地点番号順に変える。\n▶ 注記のく<>（）注意等にする。\n地点番号欄以外の記入：\n9.（縫い… ボロゼンタク。縫い直し… アラセゼンタク。短い糸… セシライト。）\n9. ＜ボロゼンタクスルと言い、縫うことだけに言う＞\n9. ボロセンタク。＜縫う、縫い直すこと。＞\n9.（言わない）＊ボロゼンタクスル（縫い直しをするとも言う）\n9. ボロゼンタクをする。\n9. ボロゼンタクをするところ。\n9. 縫う。縫い直すの意に使う。\n9. 「ネイでタクスル」という。一度こふういばり…ほどけを直すこと。\n1.（縫うこと）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01468.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01468",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01468.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [],
+    "other_text": "・A・(B)・(C)ごとに別表を使用する。 ・その中での情報は地点番号順に配す。 ・注記のく<>（）は傍註にする。\n日本語方言地図資料用紙 注記一覧 14-69\n質問番号 1715 / 地図番号 59\n地図名 シンタヅル（裁縫する）\n本編注記  ページ (23)\nB 欄（共通語）  C 欄（特殊語）\n地点番号  A 語形とその他の注記：\n1. 縫うこと。\n6. 縫う。たていとの過程はむずかしい等、洗って干して縫うことを親が教える、の意。\n9. ボロゼンタクと言って縫うことをさす。\n1. 縫う場合。\n12. よく分らぬ。\n昔は言ったらしい。（聞く⑤）\n9. （ボロゼンダク）と言う。\n1. 縫うこと。\n9. 例えば「タゼンタク」。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01469.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01469",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01469.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 14-70\n質問番号 1715　地図番号 59\n項目名 センタクスル（裁縫する）\nA 普通注記／B 限られた共通語／C 限られた特殊語　ページ（24）\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での首題は地点番号順に並べる。\n・注記の〈 〉（ ）には該当をする。\n見出し：地点番号／A 語形とその注記\n68  1. 破れを縫うこと。\n51  8. 言わない。しかし漁師が網などをつくろう意味で用いる。しかも着物などについてはいわない。\n29  1. くぼったものをつぐ時に言う。タイのエシにも言う。←6か　ボロゼッタ、ボロゾギなどいう。\n41  1. 縫うこと。\n56  1.「ツバギ」（アラバギする？）などをする時言う。\n52  1. 繕うことに言う。\n30  1. バチャレテイルトコロ。フトンのヌイカエ。\n496  く 破れや・ほころびを繕うこと。もちろん使っている。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01470.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01470",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01470.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6491.65",
+      "6492.11",
+      "6495.18",
+      "6496.56",
+      "6497.36",
+      "6529.15",
+      "6538.46"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 14-71 質問番号 1715 地図番号 59 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (25) 項目名 センタクスル（裁縫する） 地点番号 A 語形とその注記 A 注のない語形 6491.65 1. <縫うことである。> 6492.11 3. 言わない。くつ下、たびなどのそこをつくろうのを sentakusu suruu ということはある。 6495.18 1. 縫うことに言う。 6496.56 1. 「ふとんを縫いかえたか」ということを「ふとんをせんだくしたか」と言う。 6497.36 6 言わない。〈フトンを洗って縫いあげる 「まどをフトンをセンダクした」という〉 6529.15 1. 言わない。但し、古物を縫うことは、センタクスルという。 6538.46 1. <縫いなおす>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01471.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01471",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01471.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [],
+    "other_text": "▶ A・(B・C)ごとに別表を使用する。 ▶ その中での情報を地点番号順に並べる。 ▶ 注記のく<>（）は……にする。\n日本言語地図資料用紙 注記一覧 14-72\n質問番号 1715  地図番号 59\n項目名 センタクスル（裁縫する）\nA 常道注記  B 聞いた共通語  C 聞いた特殊語  ページ(26)\n6. ふとくについての言い方。ふととを縫い直すについていう。（はがい：抜い打ち直し、縫い直すこと）\n×（古）傷かった時、老人達は「縫い直してる」意味で「せんだくする」といったような気がする。>\n( )言う。（調査者の記入ちがいのような気がする。）\nくらって作りなおしをすること。\n10. ＜センダクバアサン＞という昔語。縫い直しをした人に呼ぶことがあった。>\n10. ＜オヒタクシという語がある。昔、洗い張りしたり、そうしたのを語ったりする人を見たことがある。>\n（縫い直すことで、単に仕直ることではない）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01472.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01472",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01472.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6630.43",
+      "6630.82",
+      "7239.85",
+      "7246.85",
+      "7249.35",
+      "7249.95",
+      "7302.87",
+      "7303.71",
+      "7304.29"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本語語地図資料用紙　注記一覧　14-73\n質問番号　1715　地図番号　59\nセンタタスル（裁縫する）1715\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (27)\n\n地点番号　A 語形とその注記　A 注のない語形\n\n6630.43　1. 繕うの意味で。「仕立てる、縫い直す」等は ohario s○imu（不明）\n6630.82　6.（洗って縫い直すこと、繕うこと）\n7239.85　9. 言わない。（洗い直して縫ったりすることをフセゼンタクとはいう）\n7246.85　1. 言う。縫い直すこと。\n7249.35　9. 言わない。（繕って縫い直すのをフセゼンタクという語はある。）\n7249.95　9. 新しく仕立てる場合ではなく、縫い直しの場合に多く使う。フセゼンタクという形がふつうだ。\n7302.87　2.（古）（繕うの意に使用例）。今は殆んど使わない。\n7303.71　1. ツギにもいう。\n7304.29　2. 言わない（昔は使っていた。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01473.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01473",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01473.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 14-74\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞（）は厳密にする。\n質問番号 1715\n地図番号 59\n項目名 センタクスル（殺蛾する）\nページ（28）\nA 標準注記／B 聞いた共通語／C 聞いた特殊語\n［表の見出し］地点番号／A 言形とその注記 …\n13  1.〈縫う意〉\n18  1.〈縫ったり・繕い直しに使う。新しいのを作る時には使わない〉\n33  1.〈縫う時に使う〉（他の場合には使わない）\n48  1.〈つぎをあてて繕うする〉\n37  1.〈縫うことのみ〉\n61  1.〈繕う時にだけ使う〉\n93  6〈洗・張・繕・取れんとか言う。縫い・繕い直しをする〉\n89  1.〈縫う・繕い直すのに…〉\n41  1.〈縫うこと・縫いのところの意味に〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01474.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01474",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01474.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別表を使用する。\nその中での……注記番号順に並べる。\n注記のく＜＞（）は従属語にする。\n\n日本言語地図資料利用紙 注記一覧 14-75\n質問番号 171S  地図番号 59\n現名称 セッタヌル（裁縫する）\nA 普通注記 / CB / CC  ページ (29)\n\n［表見出し］ 地点番号／A 語形とその注記（B−C欄では音声とその注記）／A 注のない語形\n\n69  6. 〈…繕う・縫い直すを通して“センタク”という〉\n41  I. 仕立てる、継ぐ；縫い直す。〈いずれの場合にも使う〉\n75  I. 〈繕い、縫い直しに言う〉\n44  I. 〈繕い、縫い直しに言う〉\n78  I. 〈繕い、縫い直しにも使う〉\n19  I. 〈綴り、縫い直しに言う〉\n34  I. 〈新しく仕立てるとは言わぬ。つくろいものや継い…〉\n〈なおしには言う〉\n54  129  NR",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01475.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01475",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01475.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<>（）は厳密にする。\n\n日本言語地図資料利用紙 注記一覧 14-76\n質問番号 1718  地図番号 59\n項目名 センタクスル（裁縫する）\nA 普通注記\nB 似た共通語\nC 使った特殊語\nページ (30)\n\nA 語形とその注記：\n〈仕立てる場合には使わず。縫い直しの場合などフセゼンタクという。〉\n〈縫い直しの場合に限る。〉\n〈言わない。破れぎちのを縫い直して、フセゼンタクと言うことはある〉\n〈継い、縫いなおしなど。ふとも、着物にも言う〉\n〈継いや縫いなおしにだけ使う。〉\n〈繕いや縫直しに言う。〉\n〈新しく仕立てるときには言わない。繕う・縫いなおすときなどに言う。〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01476.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01476",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01476.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧  14-77\n質問番号 1715   地図番号 59\n項目名 センタクスル（裁縫する）\nページ (31)\nA・〔B〕・〔C〕ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉（）は略記にする。\n\n地点番号 / A 語形とその注記 / B・C …\n1.〈縫い・縫い直しに限る〉\n1.〈縫い・縫い直しの時に言う。洗う過程を含まなくてもよい。〉\n1.〈縫いや・縫いながらに言う。新しく仕立てるには言わない。〉\n1.〈縫いや繕直しなどに〉\n1.〈縫い・縫いなおしに限る〉\n9〈nui-zentaku. boro-zentaku jabure-zentaku tsugi-zentaku〉〈などといって、修理するのが中心だという。〉\n9〈（洗うだけ）…を言うときのこと。…という。フトンゼンタクなどの言い方もある。〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01477.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01477",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01477.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7350.96",
+      "7353.03",
+      "7353.19",
+      "7354.23",
+      "7355.81",
+      "7356.06"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の <> () は厳密にする。\n\n日本言語地図資料用紙　注記一覧　14-78\n（上部の欄）質問番号　地図番号　171S　59　ページ　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n項目名　センタクスル（裁縫する）　1715\n\n（表ヘッダ）地点番号　とその注記　A 注のない語形\n\n○ <ミイセゾ？> ミイセゾ97。アワア センタクで区別する。縫直しだけでなく、シタテセンタクにも使う。\n\n1. 縫う。 \n\n1. <繕い や縫い直しに言う>\n\n6. <繕うこと> <布団をほどいて、洗い、また綿を入れ仕上げるまでを全て含めて、フトンセンタクという>\n\n1. <繕う。縫いなおすときにいう。新しいものを仕立てるには言わない。>\n\n1. <繕い。縫いなおしにはいうが、新しく仕立てるにはいわない。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01478.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01478",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01478.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-79\n・A・(B・C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のくつ（ ）は候補語にする。\n質問番号 1715　地点番号 59\n現用名 センタタクル（裁縫する）\nページ (33)\n［表見出し］ 地点番号／A 言形とその注記 ／B・C 共通語とその注記／A 注のない語形\n1. くちえものや、縫いなおしと言う。新しく仕立てるには言わない。>\n9. 言わない。たゞしフトンの縫いなおしのときだけ、zentaku という。フトンに限っては言うことはある。\n6. 言わない。くだし。フトンに限って、洗って後の縫い直しまで含めてセンタクということはある。>\n1. くだして。新しく仕立てるには言わない。縫い・縫い直しなど。\n9.? 言わない。くだし。フセッタク?／センタク? という、縫ものをすること。>\n3. 言わない。ただしフトンなどの縫い直しに限ってあることはある。→フトンの縫い直し\n9. くつっとかに言うことがある。syu'ed gen taku >\n1. くちいことに縫うことだと言う。新しく仕立てる時は言わないが、縫い・縫い直しをすることは言う。>",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01479.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01479",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01479.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [],
+    "other_text": "▶ A・(B)・(C)ごとに異筆を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく（ ）は傍線にする。 日本言語地図資料用紙 注記一覧 14-80 質問番号 1718S　地図番号 59 項目名 センタクスル（裁縫する） ページ (34) A 語形とその注記 〈…〉 1行目: 〈…〉［今でも五十才以上の人は縫うことをセンタクすると言う人があるように、旧藩時代には、スウ（…）・センタク（つくろう?）と両様の使い分けがあった。］ 2行目: くこの、40才以上の人は、裁縫する事をセンタクすると言うのは普通で、転訛ではない。 3行目: 言う… 縫い直す。（クロセンタクの答とみての解答であろう） 4行目: 縫い直す。通常 Fuse sentaku を使い、その略語として sentaku を縫直語に使うようである。 5行目: 取捨を言葉になり言う。意味〈仕立てる〉には言わぬ。 6行目: 〈縫うこと。tsukamori・zentaku という。〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01480.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01480",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01480.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [],
+    "other_text": "・A・(B・C)ごとに別紙を使用する。 ・その中での情報は地点番号順に並べる。 ・注記の〈 〉( )は該当語にする。 日本言語地図資料用紙 注記一覧 14-81i 質問番号 171S 地図番号 59 項目名 センタクスル（…） A 普通注記 ページ(35) 地点番号／A 語形とその注記: 1. 縫うこと、縫い直すこと。 9. 破れなどを縫うこと。〈tsugi-hagi jitoromu ni iu.〉 9. 夏には着物、冬にはふとんの縫いなおしをするを okisendaku suru という。 1. 言う。〈縫うことにいう。〉 1. 〈tsugio qte tari sumu koto〉 1. つぎをする、つくろうこと。仕立てることではない。 1. 衣類を洗ってから破れ・いたみなどの繕いもすること。 9. 〈borozentaku ということが多い〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01481.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01481",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01481.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7412.26",
+      "7412.71",
+      "7414.43",
+      "7416.34",
+      "7420.18",
+      "7421.38",
+      "7421.62",
+      "7423.12",
+      "7423.77",
+      "7424.67",
+      "7425.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-82\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n（右上の欄）資料番号 地図番号 1715 59\n項目名 センタクスル（裁縫する）1715\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ\n\n地点番号　A 語形とその注記　A 注のない語形\n7412.26　1. 縫う意と、縫い直す意。\n7412.71　1.〈縫うこと〉\n7414.43　9.〈縫う場合。ツギビンダクと言う。〉\n7416.34　1.〈修理すること〉\n7420.18　12　まかない〈縫うのは tsukauro, tsumgi ateru という〉\n7421.38　1.〈tsukaurou こと〉\n7421.62　3.〈tsukumrou ということがある。希。〉\n7423.12　1.〈縫う場合〉\n7423.77　1. 縫い直すとき。\n7424.67　1. 破れ物をつくろう場合。\n7425.02　X 古い衣を縫い直す場合。ぜい gisendaku など。\n\n（下部）9 いう言い方がある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01482.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01482",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01482.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-83\n・A・(B)・(C)ごとに別表を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）〔〕は注義語にする。\n質問番号 1715　地図番号 59\n項目名 センタクヌル（裁縫する）\nA 普通語記　ページ (37)\n見出し：地点番号／A 語形とその注記／B・C 語形とその注記／A 注のない語形（B・C兼した語形も含む）\n1. 《綴う場合》\n1. 《綴う》\n1. 《ほころびや破れを綴うこと。ところはじめに後る。》\n1. 《（本人普通言）綴う場合。》\n1. 《破れなどを綴うことなど。tsugi; sentoku。尚隣には sentokun という。》\n1. 古いものを作り直して作ることをいう。また大きい割を小さくする。修繕するから。\n1. 《綴うこと》\n1. 《綴う場合》",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01483.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01483",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01483.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7436.40",
+      "7440.69",
+      "7441.89",
+      "7442.75",
+      "7446.26",
+      "7451.22",
+      "7460.23",
+      "7460.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）{}は厳密にする。 日本語方言地図資料用紙 注記一覧 14-84 資料番号 1715 地図番号 59 項目名 センタクスル（裁縫する） ページ (38) 地点番号 A 語形とその注記 A注のない語形 7436.40 言わない。但し縫の綻目を修繕する場合に使用することがある。 7440.69 1.〈縫うこと〉 7441-63.5 5. 言わない。〈人によっては言う人もある〉 7441.89 1.〈縫う場合〉 7442.75 1.〈縫う場合〉 7446.26 1. 修理する。縫う場合。 7451.22.5 5. 言わない。〈人によっては言う人がある〉 7460.23 1. 主に縫うとき。 7460.39 ※言う。ただし現在はほとんど使われぬ。縫うとき使用していた。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01484.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01484",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01484.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　14-85\n質問番号 1715　地図番号 59\n項目名 センタクスル（…） 1715／1718?　A 普通話法　ページ（39）\n・A・(B)・Cごとに別紙を使用する。\n・その中での番号は地点番号順に並べる。\n・注記の（　）は後統一にする。\n見出し：地点番号／A 語形とその注記（B・C 書いた語形とその注記）／A 語のない語形（B・C 異なった語形とその注記）\n77　2.（右）、右のをつくるのに。\n29　1.〈縫ら〉。\n38　9. 言わない。米（きな？）やぶいたものをついばりする場合、ボロロクタなどという。\n53　12. 記入なし。\n20　9. 言わない。（Fuse sentaku 縫う時に使う。）\n84　12. N.R.\n91　12. NR\n29　12. 言わない。（ぜんたいは共通語にしてしかつかわれない。）\n75　12. NR",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01485.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01485",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01485.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [],
+    "other_text": "・A・(B)・(C) ごとに別紙を使用する。\n・その中での詳報は地点番号順に並べる。\n・注記のく（ ）く は傍註にする。\n\n日本言語地図資料用紙 注記一覧 14-86\n質問番号／地図番号 1718 59\n項目名 センタクスル（裁縫する）\nA 普通語　ページ(40)\n\n地点番号  A 語形とその注記  （B・Cで異っていた語形とその注記／A注のない場所）\n12. NR.\n12 NR.\n12. NR.（「センタク」は共通語としてしかつかわない）\n12. NR.\n12. NR.\n12〈せんたくは普通語として用いる。語講語とは言わない。〉\n12〈共通語とは言わない〉\n12 NR\n12 NR\n12 NR",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01486.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01486",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01486.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "1270.26",
+      "2074.69",
+      "2075.22",
+      "2076.25",
+      "2076.96",
+      "2076.97",
+      "2076.98",
+      "2076.99",
+      "2085.69"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　14-87\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は略語にする。\n\n項目番号　地図番号\n1715　59\n項目名　センタクスル（裁縫する）1715\nA　普通注記\n（B　除いた共通語）\n（C　除いた特殊語）\n\n地点番号　A　語形とその注記　A 注のない語形\n12.　N.R.\n12.　N.R.\n12.　N.R.\n12.　N.R.\n12.　N.R.\n12.　N.R.　〈せんたくするという語は、英語語にしかつかわない〉\n12.　N.R.\n12.　N.R.\n12.　N.R.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01487.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01487",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01487.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "2086.03",
+      "2140.96",
+      "2150.06",
+      "2150.17",
+      "2151.11",
+      "2151.20",
+      "2151.51",
+      "2151.64",
+      "2151.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-88\n（右上の欄）資料番号 地図番号 1715 59 項目名 センタクスル（表記する）1715 A 普通注記 B 除いた共通語 C 除いた特殊語 （ページ （42））\n表ヘッダ：地点番号　A 語形とその注記（B・C 除した語形とこの注）　A 注のない語形（B・C 除した語形とその注）\n2086.03 12. NR.\n2140.96 12. <「せんたく」という言葉がない>\n2150.06 12. NR <「せんたく」という言葉がない>\n2150.17 12. NR.（「せんたく」という語形がない）\n2151.11 12. NR.\n2151.20 12. NR.\n2151.51 12. NR.\n2151.64 12. NR. <「せんたくする」という言葉がない>\n2151.67 12. NR.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01488.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M059Q171/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01488",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01488.tif",
+    "source_ljc_id": "LJC-M059Q171",
+    "source_map_numbers": [
+      "059"
+    ],
+    "source_title": "センタクスルを“裁縫する”の意味で使うか"
+  }
+]

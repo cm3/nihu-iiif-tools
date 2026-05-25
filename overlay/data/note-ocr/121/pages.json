@@ -1,0 +1,536 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1706.82",
+      "1715.53",
+      "2712.33",
+      "2720.75",
+      "2741.46",
+      "2750.43",
+      "2761.44",
+      "2761.77",
+      "2763.89"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙　注記－32-20\n調査番号　063　地図番号　121\n項目名　おや指\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\n(1)\n地点番号　A 音形とその注記（B・C除いた音形とその注記）　A 注のない語形（B・C 残した音形とその注記）\nオトユビ　＜廃＞\nオヤユビ\nodojubi　(juがjになるようだ)\nオドユビ　古。\nオヤユビ\nオドユビ　老若共にいう\nオヤユビ　＜オドユビは（隣町本古内から縁づいた）妻が使う＞\nオドユビ　＜普通に使う＞\nodojumbi　＜古＞\toja jumbi\nodojumbi　＜少い＞\toja jumbi\nodojumbi　＜古＞\toja jumbi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03220.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03220",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03220.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2772.05",
+      "3712.89",
+      "3727.21",
+      "3742.82",
+      "3757.09",
+      "3761.74",
+      "3762.42",
+      "3765.28",
+      "3767.87",
+      "4609.54"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本語語地図資料用紙　注記一覧　32-21 質問番号 063　地図番号 121　項目名 おや指 A（普通注記）　B（除いた共通語）　C（除いた特殊語）　（2） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） odojūbi〈古〉　ojajūbi febikasira（昔）　odēbi オデュビ〈古〉　オヤユビ odojũbi（昔）　ojajūbi ōdejūbi〈大手ユビの意〉 odojūbi〈古〉　ojūbi ojūbiの[ロ]はやや長音（半長とみる）　o'dejūbi〈古〉　ojajūbi オデュビ〈古〉　オヤユビ ojōbi〈普通〉　ojūbi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03221.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03221",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03221.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4619.29",
+      "4629.43",
+      "4638.22",
+      "4648.42",
+      "4695.21",
+      "4696.82",
+      "4715.33",
+      "4716.20",
+      "4726.80",
+      "4736.63"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は敬称にする。\n\n日本言語地図資料用紙　注記一覧　32-22\n\n（箱）　質問番号　地図番号　063　121　項目名　おや指　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(3)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形【B・C残した語形とその注】\n\nojajobi (改った際はオヤユビともいう由)\nojūbi <最も普通>　ojūbi，ojazjūbi\noja'ebi. eは非常に狭い e\nojajobi (やや改まった時の発音)　ojaebi\nojajubi jwoのw音はかすか\nojajobi (新)　ojaebi\n[o:jwbi] <古>　ojajubi\nojajubi o:ju:bi (両者の使い分けはないらしい)　ojajūbi\n[odejūbi <古>]　ojajūbi\nojubi <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03222.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03222",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03222.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4742.95",
+      "4743.44",
+      "4744.32",
+      "4762.56",
+      "5472.31",
+      "5499.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-23\n調査番号　063　地図番号　121\n項目名　おや指\nA　普通注記　B（除いた共通語）　C（除いた特殊語）　(4)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は略称にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n4742.95　[hebikasira] <ユ><稀>（蛇頭）　　　　　　　　　　　　　　　　ojajwbi\n4743.44　o:jūbi　（共通語もこれと同じだと思っているらしい）\n4744.32　o:ebi　（大海老というときと全く同じ発音になる。）\n4762.56　ojajūbi <古>…（音韻としては上の語形と同じであるが、この音声は古いもの）　　ojajubi\n5472.31　オヤユビ <多>，オヤエベ <稀>\n5499.98　オヤイベ。オヤユビは小学校にいくような子供から十六、七才まで。それ以下、それ以上の人はすべてオヤイベを用う。\n\n（表枠内の手書き注記をできる限り転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03223.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03223",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03223.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5564.76",
+      "5590.53",
+      "5602.99",
+      "5604.52",
+      "5604.65",
+      "5609.26",
+      "5612.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-24\n資料番号 063　地図番号 121\n項目名 おや指\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(5)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nojajŭbi （üはiに近かりしか）\nオヤユビ　ユビは時に jbi となる事あり。064〜067もこれと同じ。\nojaebi ＜古＞\nojajobi （やや改まった時の発音）\nオヤエビ　エはユの如く　エの如く　イの如く　あいまいな音。\nojajumbi はやや e 寄り\nojajumbi jumo は無声化しているのかはっきりきかれない。065まで同じ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03224.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03224",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03224.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5613.53",
+      "5615.28",
+      "5622.48",
+      "5655.57",
+      "5657.73",
+      "5666.18",
+      "5669.96",
+      "5687.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-25\n資料番号 063　地図番号 121\n項目名 おや指\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(6)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n5613.53　ojajumbi　juの音不明りょう　uが無声化するのか、脱落するのか？\n5615.28　ojajobi <上>　ojaebi\n5622.48　ojajumbi　juの音が不明りょうである。uが無声化するのであろうか。\n5655.57　オヤユビ（共）\n5657.73　オヤユビ（共）\n5666.18　オヤユビ（共）\n5669.96　ojaebt <古>　ojatbi\n5687.32　オヤユビ　オヤイビのようにも聞えた。以下067まで同じ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03225.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03225",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03225.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5703.70",
+      "5741.25",
+      "6349.09",
+      "6354.46",
+      "6415.23",
+      "6415.80",
+      "6428.26",
+      "6437.07",
+      "6448.61"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-26\n管理番号 063　地図番号 121\n項目名　おや指\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (7)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5703.70　ojajubti　<çebi-kasa などというのを山の方（父の生家）できいた。>\n5741.25　oja'iibi　<o: jibiという人もいる>\n6349.09　ojaibi　<多>\n6354.46　onikorosi　<子供の時分に使った>\n6415.23　ojaibe　<古>\n6415.80　ojaibe　<古>\n6428.26　オヤイビ　<古>\n6437.07　オヤイベ　<単に指そのものの名はイベ>\n6448.61　オヤイベ　<古>\n\n右欄（A注のない語形）: ojajubi / ojajubi / ojajubi / ojajubi / オヤユビ / オヤユビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03226.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03226",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03226.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6476.17",
+      "6476.92",
+      "6476.93",
+      "6485.14",
+      "6485.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　32-27\n質問番号　063　地図番号　121\n項目名　おや指\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (8)\n\n（表見出し）\n地点番号　A語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C残した語形とその注〕\n\nオヤイビ（イビは時にユビにきこえるときもある。はっきり言わすとイビという）\nオヤイビ　オヤユビ　（本人はユビと意識しているが、さて言わせてみると、最初はオヤイビとなってしまうようである。）\nオヤビ　この語にかぎって「イ」が消えてオヤビとはいわない。\nオヤイビ　〈古〉\nオヤユビ\nオヤイビ　〈古〉（ユビとイビとの区別は念を押すと分らなくなり、微妙である。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03227.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03227",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03227.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6486.07",
+      "6486.50",
+      "6487.43",
+      "6500.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での指示は地点番号順に並べる。 注記の＜＞（）（）は敬称にする。\n\n日本言語地図資料用紙 注記一覧 32-28\n質問番号 063　地図番号 121\n項目名 おや指\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (9)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6486.07　オヤイビ・オヤユビ　この時 オヤユビの音が出たので、ユとイをたしかめたところ、やはりイがこのあたりの言葉であり、自分も意識しないでいうときは、自然にイであるということになった。この人は、共通語意識が強いのである。\n\n6486.50　オヤイビ　今の者はユビという。以下同じ。\n\n6487.43　オヤイビ　〈古〉　イヤユビ\n\n6500.22　オヤユビ　オヤイビ〔ojaɪbi〕と発音される場合が多いはずであるが、答は〔u〕として",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03228.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03228",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03228.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6516.10",
+      "6522.93",
+      "6538.02",
+      "6552.90",
+      "6560.40"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記の＜＞（）[]は厳密に示す。\n\n日本言語地図資料用紙　注記一覧　32-29\n資料番号 063　地図番号 121　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(10)\n項目名　おや指\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6516.10　オヤイビ　オヤユビ　得られた。064～067。何れも同じ。（ユビ、イビのどちらを主として使っているか使用している被調査者自体はっきりしない。どちらも使っているという。）\n\n6522.93　オヤイビ　（少）　オヤユビ\n\n6538.02　ojaibi　＜古＞…＜老人に多い＞　ojajubi\n\n6552.90　ojaibi　（「オヤイビ」）（このアクセントは調査者である私の「オヤイビ」とは異るもの？あった）\n\n6560.40　オヤイビ　＜ともきこえるであろう＞　オヤユビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03229.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03229",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03229.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6570.89",
+      "6572.97",
+      "6580.66",
+      "6639.43",
+      "6698.20",
+      "7246.45",
+      "7248.49",
+      "7268.87",
+      "7309.37"
+    ],
+    "other_text": "A・[B]・[C]ごとに別表を使用する。 その中での音標は地点番号順に並べる。 注記の< >（ ）は略寄にする。 日本言語地図資料用紙 注記一覧 32-30 資料番号 063 地図番号 121 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (11) 項目名 おや指 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 6570.89 オユビ〈男指だから〉 オヤユビ 6572.97 ojabi （ojaibiではない。） 6580.66 オヤイビ〈古〉 オヤユビ 6639.43 ojaebi （eは狭く前寄り。） 6698.20 ojaibi 〈そんな言い方〉 7246.45 ojaip° °は内破音 7248.49 ujubi 〈これが普通だ〉 ojajubi 7268.87 u:jubi 〈希〉 ojajubi 7309.37 ojaibi 〈子どものときのことでは orikorosi?〉 beʃi; kaji; tata; iro çitosa; siibino",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03230.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03230",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03230.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "7340.24",
+      "7350.44",
+      "7350.96",
+      "7375.96",
+      "7500.24",
+      "7501.14"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-31\n資料番号　063　地図番号　121\n項目名　おや指\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)　(12)\n\n地点番号　A 語形とその注記〔B・C 除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\n\n(opikorojitau?)\n7340.24　u:jubi　〈古〉\t\t\t\t\t\t\t\t\t　ojajubi\n7350.44　ojajubi, u:jubi　〈どちらも使う〉\n7350.96　u:jupi, u:jubi　(ユピ(bi)ともなるがしぜんの発音では母音の聞えの弱いpiである)\n\n7375.96　ojaibi　指は化と説る。夢もイメと言ったりする。\n750\t(薄く書かれている)\n7500.24　オヤイビ　〈古〉\t\t\t\t\t\t\t　オヤユビ\n7501.14　オヤイビ　〈古〉\t\t\t\t\t\t\t　オヤユビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03231.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03231",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03231.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "7513.01",
+      "7513.43",
+      "7521.16",
+      "7521.79",
+      "8305.76",
+      "8313.72",
+      "8313.88"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n日本方言地図資料用紙 注記一 32-32\n(上部小欄) 063 121    A 普通注記    (B 除いた共通語)    (C 除いた特殊語)  (13)\n項目名　おや指\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7513.01　オヤイビ　〈古〉　　　オヤユビ\n7513.43　オヤイビ　〈古〉　　　オヤユビ\n7521.16　オヤイビ　〈古〉　　　オヤユビ\n7521.79　オヤイビ　〈古〉　　　オヤユビ\n8305.76　ojai'bi　オヤィ・ビとオヤ・ィビとはっきり\n　　　　区別するために、オヤィ・ビは[ojai'bi]\n　　　　と記し、オヤ・ィビは[oja'ibi]と記す。\n　　　　以下同じ。\n8313.72　oja'it　（itはibの末尾音節の入声化）\n8313.88　oja'it　（「指」はイビ、それを /it/ という。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03232.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03232",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03232.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "8322.43",
+      "8324.83",
+      "8325.03",
+      "8325.56",
+      "8325.77",
+      "8345.18"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()は厳密にする。\n\n日本言語地図資料用紙　注記一覧　32-33\n質問番号　063　　地図番号　121\n項目名　おや指\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(14)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n8322.43  ojaik　(ojaitにあらず)\n8324.83  ojajut　(jubiはjutと言うことが多い。)\n8325.03  ojajubi　(ゆっくり言わせるとこの形になる。ojaibi　日常はイビであると思う、以下同じ)\n8325.56  ojaibi, ojajubi　(ibiと言ったりjubiと言ったり)　安定していない、以下同じ\n8325.77  ojaibi　(指を/jubi/ということは知っており、改まった場合には、それを言うが平素は/ibi/である。)\n8345.18  ojaibi　(ibiはjubiとも言い安定して",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03233.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03233",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03233.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "0228.96",
+      "1261.32",
+      "2141.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-34\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略称にする。\n\n資料番号 063   地図番号 121\n項目名 おや指\n(A 高語注記) (B 除いた共通語) (C 除いた特殊語) (15)\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n(いない。以下同じ。)\n\n0228.96  u:bi  <u:bi = おやゆび  ubi = ゆび>\n1261.32  uhu2i:bi  [頭になる人の意には aça:i:bi という。 それからして昔は aça:i:bi が親指の意味につかわれたと考えられる。]\n2141.71  2mma uibi  <2mmaは母>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03234.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03234",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03234.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "2750.43",
+      "2793.51",
+      "3761.74",
+      "4672.19",
+      "4676.67",
+      "4706.53",
+      "4736.63",
+      "5567.46",
+      "5568.22",
+      "5568.57"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙 注記 -32-35\n質問番号 063    地図番号 121\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)\n項目名 おや指\n\n地点番号    A語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C 残した語形とその注）\n2750.43    オヤユビ〈新〉〈共〉    オドユビ〈普通に使う〉 odojubī\n2793.51    ojajubi〈共〉    odojubi\n3761.74    ojajūbi（新）    odojūbi（古）\n4672.19    ojajubi〈共〉    o:ubi\n4676.67    ojajubi〈共〉〈新〉    ojajobi\n4706.53    ojajubi（共）    o:jubi\n4736.63    ojajubi〈新〉    o.jubi〈古〉\n5567.46    オヤユビ〈J〉    オヤイビ\n5568.22    オヤユビ〈共〉    オヤイビ\n5568.57    オヤユビ〈共〉    オヤイビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03235.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03235",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03235.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5569.36",
+      "5588.02",
+      "5597.26",
+      "5598.67",
+      "5599.41",
+      "5599.75",
+      "5651.95",
+      "5671.94",
+      "6415.78",
+      "6418.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は略称にする。 日本言語地図資料用紙　注記一覧　32-36 質問番号　063　地図番号　121 項目名　おや指 A　普通注記 (B　除いた共通語) (C　除いた特殊語) (2) 地点番号　　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） オヤユビ　<共>　　　オヤイビ オヤユビ　<共>　　　オヤイビ オヤユビ　<共>　　　オヤイビ オヤユビ　<共>　　　オヤイビ オヤユビ　<共>　　　オヤイビ オヤユビ　<共>　　　オヤイビ ojajubi　<共>　　　ojaibi ojajubi　<共>　　　ojaibi ojajubi　<上>　　　ojaibe オヤユビ　<共希>　　　オヤイビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03236.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03236",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03236.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6418.75",
+      "6419.50",
+      "6429.65",
+      "6437.07",
+      "6485.46",
+      "6486.50",
+      "6505.58"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙　注記一覧　32-37 調問番号 063　地図番号 121 項目名 おや指 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (3) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 6418.75　オヤユビ〈共〉　オヤイビ 6419.50　オヤユビ〈共〉　オヤイベ 6429.65　オヤユビ〈希共〉　オヤイベ 6437.07　オヤユビ〈共希新〉　オヤイベ〈単に指　そのものの名はイベ〉 6485.46　オヤユビ〈新〉　オヤイビ〈古〉（ユビとイビとの区別は念を押すと分らなくなり、微妙である） 6486.50　オヤユビ　新　オヤイビ　今の者はユビという。 6505.58　オヤユビ〈改〉　オヤイビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03237.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03237",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03237.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6507.13",
+      "6508.06",
+      "6508.36",
+      "6516.15",
+      "6516.85",
+      "6517.77",
+      "6526.04",
+      "6526.08",
+      "6526.45",
+      "6526.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-38\n質問番号 063  地図番号 121\n項目名 おや指\nA 普通注記  B 除いた共通語  C 除いた特殊語 （4）\nA・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は敬称にする。\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6507.13　オヤユビ　＜共＞　オヤイビ\n6508.06　オヤユビ　＜共＞　オヤイビ\n6508.36　オヤユビ　＜共＞　オヤイビ\n6516.15　オヤユビ　＜共＞　オヤイビ\n6516.85　オヤユビ　＜共＞　オヤイビ\n6517.77　オヤユビ　＜共＞　オヤイビ\n6526.04　オヤユビ　＜共＞　オヤイビ\n6526.08　オヤユビ　＜共＞　オヤイビ\n6526.45　オヤユビ　＜共＞　オヤイビ\n6526.98　オヤユビ　＜共＞　オヤイビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03238.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03238",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03238.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6532.89",
+      "6580.06",
+      "6580.33",
+      "6590.35",
+      "6620.20",
+      "6629.98",
+      "6698.20",
+      "7340.74",
+      "7502.91",
+      "7512.43"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本語地図資料用紙　注記一覧　32-39\n質問番号　063　地図番号　121\n項目名　おや指\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(5)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6532.89　オヤユビ　〈希〉　　オヤイビ\n6580.06　オヤユビ　〈共〉　　オヤイビ\n6580.33　オヤユビ　〈共〉　　オヤイビ\n6590.35　オヤユビ　〈新〉　　オヤイビ\n6620.20　オヤユビ　〈改〉〈改まったとき〉　オヤイビ\n6629.98　ojajubi　〈新〉　　ojaibi\n6698.20　ojajubi　〈丁寧な言い方〉　ojaibi　〈そんざいな言い方〉\n7340.74　ojajubi　〈新〉　　u:jubi\n7502.91　オヤユビ　〈新〉　　オヤイビ\n7512.43　オヤユビ　〈新〉　　オヤイビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03239.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03239",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03239.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7513.69",
+      "7523.27",
+      "7523.30",
+      "7533.12",
+      "8325.77"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧 32-40\n資料番号 063   地図番号 121\n項目名 おや指\nA 普通注記  (B 除いた共通語) (C 除いた特殊語) (6)\n\n地点番号   A 語形とその注記 (B・C除いた語形とその注)   A 注のない語形 (B・C 残した語形とその注)\n7513.69   オヤユビ ＜失＞    オヤイビ\n7523.27   オヤユビ ＜新＞    オヤイビ\n7523.30   オヤユビ ＜先＞    オヤイビ\n7533.12   オヤユビ ＜新しいいい方＞    オヤイビ\n8325.77   ojajubi ＜失＞    ojaibi (指を/jubi/ということは知っており、改まった場合には、それを言うが、平素は /ibi/ である。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03240.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M121Q063/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03240",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03240.tif",
+    "source_ljc_id": "LJC-M121Q063",
+    "source_map_numbers": [
+      "121"
+    ],
+    "source_title": "おやゆび (親指)"
+  }
+]

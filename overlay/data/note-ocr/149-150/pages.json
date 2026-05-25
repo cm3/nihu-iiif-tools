@@ -1,0 +1,1364 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0861.48",
+      "0873.94",
+      "0897.91",
+      "1727.75",
+      "1814.25",
+      "1942.03",
+      "2713.83",
+      "2733.42",
+      "2762.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧 43-97 質問番号 地図番号 150 149 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] 項目名 肩車 086 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 0861.48 N.R. ＜聞くのは kumbi konori＞ 0873.94 ＜?＞ kubiko nose 0897.91 ノセチャル ＜ただノセチャル。それでわかるから。＞ 1727.75 N.R. ＜知らない。＞ 1814.25 カタグルマ ＜子供の時からいったか記憶がない＞ 1942.03 deggüruma ＜子供の時＞ 今は N.R. 2713.83 ! ジンジョコ ＜老幼 共に言う。＞ 2733.42 ジンジョコダゲ 普も今も変らないで使っている。 2762.61 kubisa noserum と言うほうがない。 ＜新＞ kubi ma-sa noserum（頭 馬）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04397.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04397",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04397.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2771.83",
+      "2781.34",
+      "2781.91",
+      "2782.67",
+      "2784.63",
+      "2791.80",
+      "2791.88",
+      "2792.73",
+      "2795.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-98　質問番号　地図番号　150 149　A 普通注記　[B] 除いた共通語　[C] 除いた特殊語　項目名　肩車　086　地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]　▶ A・[B]・[C]ごとに別紙を使用する。　▶ その中での情報は地点番号順に並べる。　▶ 注記の< >< >( ) [ ]は厳密にする。　2771.83　NR. <特に名がない>　2781.34　<特に言うこと無し>　2781.91　# nijyko <人形の意>　2782.67　ki-blkase <新>　2784.63　kubi-sa ageru <特に名詞はない>　2791.80　kubisa kageru というぐらいで 特に指さない　2791.88　kumpita-sa noçe? (手書き不明)　2792.73　kumpita-sa noseru (kumpita は頭)　2795.01　dzindzokaka (手書き続き、意味不明)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04398.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04398",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04398.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2795.72",
+      "3639.49",
+      "3629.55",
+      "3714.74",
+      "3717.90",
+      "3720.71",
+      "3723.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-01 質問番号 地図番号 149 150 項目名 肩車 088 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (3) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><()[]は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 2795.72 dziidzoko 「カタルマ(を)する」は dziidzoko ne sirmu という。(に) 3639.49 küntako 誤記ならす? 3629.55 クビコ ex. クビコ(シテル) 3714.74 <特になし> <kumpita-sa ayeruと言うだけ> 3717.90 kendzo kau (kendzo ... 動詞) 3720.71 予明。 呼称なきものの如し。 3723.21 kubi nuri (以下判読難)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04401.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04401",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04401.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3740.29",
+      "3740.82",
+      "3741.16",
+      "3757.09",
+      "3782.38",
+      "3783.08",
+      "3783.11",
+      "3791.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-02\n質問番号　地図番号　150 149\n項目名　肩車　086\nA　普通注記　ページ (4)\n[B]　除いた共通語\n[C]　除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n表ヘッダ:\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n3740.29    karimandja　珍しい呼び方。\n3740.82    kadzüyho　カズ(橋)から。\n3741.16    [ku~bïkkonori]\n3757.09    語 kupiko nori\n3782.38    kadamakk(o) (今)　昔は何か別に言ったと思うが 思い出せないという\n3783.08    kōkono ri　別席した先生は kofukonori.\n3783.11    コルコバッパ　※「バッパ」はおんぶする。\n3791.02    ksibit nori　(M) ksibit onori　支所書は ksibit konori\n\n（手書きメモや小さな注記等あり。上は読み取れる範囲の概略的転写。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04402.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04402",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04402.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4609.25",
+      "4618.87",
+      "4619.63",
+      "4637.68",
+      "4644.10",
+      "4647.87",
+      "4666.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-03\n質問番号 地図番号 149 150\nA 普通注記 ページ\n[B 除いた共通語] [C 除いた特殊語]\n項目名 肩車 086\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n4609.25  kiwⁿbiko  同席者(東/里 離れた部落) の報告は dækurlmbo(?)\n4618.87  #?kojasiumu delzo'i  (子供み地蔵の意か.)\n4619.63  kadayurumma  <幼いろ 何と言ったかは 思い出せない。>\n4637.68  kadamma, kubinori  (差は分らない。)\n4644.10  [[tenyuuruma?]]  tenyuu'ruma? :\n4647.87  (kubi no ue) 「かたくろま」はない。 「首の上のせる」である。\n4666.17  ! daezabo:za  (0: 音, 感じ?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04403.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04403",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04403.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4666.51",
+      "4667.33",
+      "4675.62",
+      "4676.42",
+      "4678.77",
+      "4679.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-04\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）［ ］は厳密にする。\n（右上の枠）質問番号　地図番号　150　149　A 普通注記　ページ　[B 除いた共通語]　[C 除いた特殊語]（6）　項目名　肩車 .086\n（表の見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4666.51  denguruma <古>\n4667.33  クビコ　クビコ＝ノセル　クビコ＝ノル　（右欄：初め「クビコ＝ノセル」「クビコ＝ノル」と答えた。『そうすることをどういいますか、その名がは？』という問いに対して『クビコ』と答えた。）\n4675.62  !# mma　＜mma ni noru という＞\n4676.42  テングルマ　テには音か少しひびく。dremguruma の感じ。\n4678.77  (kaykombar) （13才の孫娘が教えた。）\n4679.65  kubikoma （首駒に乗るとだけ云い、乗る...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04404.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04404",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04404.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4687.37",
+      "4688.45",
+      "4694.95",
+      "4695.33",
+      "4706.53",
+      "4710.55",
+      "4711.41",
+      "4716.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-05\n質問番号　地図番号　150　149\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (7)\n項目名　肩車　086\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n（表見出し）\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n[teguruma]\ntenkulumme <引用する>　　　　kubi koma\n# [dengurume:]\ndengurumae <右>　　　　　　　　kataguruma\nsaluko <猿廻しがそうするか>　[sasuko sandzzu]\n（特定の名詞としてはないようである。動詞として）　kubi sa noru\n[横線で消された語形]\nkūpikonosi （立法作な発音らしい）　kumbikonos i\n\n（注記や手書きの細かいメモあり、上は読み取れる主要な語形と注記の概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04405.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04405",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04405.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4723.58",
+      "4734.20",
+      "4736.63",
+      "4743.61",
+      "4744.10",
+      "4745.27",
+      "4750.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉［］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　44-06\n（右上の枠）\n質問番号　地図番号　150 149\n項目名　肩車　086\nA 普通注記　ページ\n(B 除いた共通語)\n[C 除いた特殊語]\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4723.58　kupikono li　<この方言言いやすい>　kubikonoli\n4734.20　kutpikono li　(「乗る」をここの方言で〜と言っている。自然観察でも確かめた。)\n4736.63　tjo:sae　<古>\nkubikonuri　<新>\n4743.61　ku~biko nori　(P)\n4744.10　denguruma　[odengurumma]\n4745.27　kupiko nuri　(某ことを nuru と言う)\n4750.32　オデングルマ\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04406.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04406",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04406.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4760.64",
+      "4762.56",
+      "4770.62",
+      "4772.33",
+      "4792.43",
+      "5463.64",
+      "5472.31",
+      "5672.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-07\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n\n（右上欄）質問番号　地図番号　150　149\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n(9)\n項目名　肩車　086\n\n（表の見出し）\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4760.64　kadamaymura　(カダマルマの転)　kadamamko\n4762.56　dendenyumuruma　〈山の近岸の村では kupikurumuma と言う。〉\n4770.62　思いあせない　[tenkoma]　近所に住む50才前後の女性の答\n4772.33　kumbikoma　〈多く使う〉　dendenmuruma\n4792.43　kûbikoma　〈首・頭〉\n5463.64　ツビンマ　1スル（首写乗せる）\n5472.31　クビンマ = 1スル（首頁に乗せる）\n5672.91　tengu　(tenguminoseru)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04407.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04407",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04407.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5499.98",
+      "5508.19",
+      "5536.29",
+      "5537.99",
+      "5538.63",
+      "5539.16",
+      "5539.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。 日本言語地図資料用紙 注記一覧 44-08 質問番号 地図番号 150 149 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (10) ページ 項目名 肩車 086 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5499.98 ウマケドロ (古) 老人のみ使う。 カタワンマ 5508.19 #joijo (suru) <田舎すもうか 肩車をしながら (互に自分度同居 でか) ヨイショ ヨイショと掛声を かけながら 歩いていた。 それに よる命名だろう。> 5536.29 tsummaida <多く使う> nammaida 5537.99 ossambombo <新・希> daikoku bompo 5538.63 sarubombo (bomboはオンプ) 5539.16 joijakata junjanjakata 5539.43 (肩車 のこと)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04408.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04408",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04408.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5569.02",
+      "5569.99",
+      "5577.06",
+      "5588.02",
+      "5590.53",
+      "5594.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-09\n質問番号　地図番号　150 149\n項目名　肩車　086\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(11)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >（　）（　）[　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n5569.02　アブネルル　（動詞の形）\n　　　（アブンド）\n5569.99　abunpi nose'ru　乗せること自体については NK\n5577.06　N.R.　＜？ネンネ＞\n5588.02　〈失〉カタクルマ　（方言のことば：N.R.）\n5590.53　ハンマドオドオ　これは結局　子供に対してのみ使う\n5594.02　N.R.　行うもがることをしたが名前を知らぬという。いたし方なし。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04409.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04409",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04409.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5603.35",
+      "5604.28",
+      "5604.52",
+      "5605.70",
+      "5608.51",
+      "5611.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-10\n質問番号　地図番号　150 149\n項目名　肩車　086\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（12）\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n5603.35　# [sarukikki]（妻が答え、被調査者はきいたことがあると云った。）（被調査者の今の言語生活にはない。）\n5604.28　# tengusan （tengusan ni noseru という。）（長男（昭和7年生れ）は [dendeguruma] と云う。）\n5604.52　? donkant jin <古>（子供の頃、そう言ったように思われる。）\n5605.70　joejoe tjin tfin ＜ち＞\n5608.51　kumbikkoma ＜首動＞\n5611.39　# dzundendo:-ni noseru（春の祭（○出神社）にお囃子さんがすんでんどうに乗って…）（に dzundendoko doko dzundendo: ということばがあるらしい。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04410.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04410",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04410.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5611.74",
+      "5611.81",
+      "5613.48",
+      "5614.24",
+      "5615.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-11\n質問番号 地図番号 150 149\nA 普通注記 ページ (13)\n[B 除いた共通語] [C 除いた特殊語]\n項目名 肩車 086\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ()[ ]は厳密にする。\n\n地点番号  A語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n5611.74  チプブエ  [オチプサン＝ニブウ]\n5611.81  #tjindokodonden  ('tjindoko~ nio:tejau')\n5613.48  *# ?katamma <右>  ? kataguruma\n5614.24  *# sarukjakkja <ち>\n5615.74  ! daekwan  <音, 松代は高田又は柏崎の代官が治めていたので肩車を daekwan と称した。>\n\n（以下、各地点の詳細な注記および聞き取りメモが続くが、文字の判読が不確かな部分あり。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04411.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04411",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04411.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5621.43",
+      "5622.48",
+      "5623.27",
+      "5623.42",
+      "5623.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-12\n質問番号 地図番号 150 149\n項目名 肩車 086\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (14)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n5621.43  temma ni buu -> 地動詞 終止形、負う意。\n5622.48  #kumbikase 〈最近はやらなくなった。〉\n5623.27  dende'ko (dendeko hatjimaki)\n5623.42  do:kae (do:kae ni nokkaru とか、又は do:kae ni ba:ru と言うだけで…)\n5623.85  deyyosan <katanuruma だけも> deyyo <deyyo site jaru>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04412.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04412",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04412.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5624.85",
+      "5625.91",
+      "5629.23",
+      "5632.28",
+      "5636.74",
+      "5641.94",
+      "5648.53",
+      "5653.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-13\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n質問番号　地図番号　150 149\n項目名　肩車 086\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (15)\n表ヘッダ: 地点番号　A 語形とその注記・[B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nN.R. (適当な名なし)\n!degguruma <希> [調査者の生地(南泉沼郡 湯沢町 工場)では、デングルベーシ などといった様ですが、に対する反応> <古く使ったか? 今は殆に用いるのみ.>\nカタレマ <多く使う>\ntenyoroma [tengoroman] - これを被調査者は認めていない。\nテングルマ <カタクルマと?、イワナイ>\n#! degguruma <古>\nカタヤクラ <希>    カタプルマ\ntakamma <高いから>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04413.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04413",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04413.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5658.89",
+      "5663.01",
+      "5664.51",
+      "5666.10",
+      "5666.22",
+      "5669.12",
+      "5669.19",
+      "5670.47",
+      "5671.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-14\n質問番号 地図番号 150 149\n項目名 肩車 086\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (16)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n5658.89 テンプルマ <古>\n5663.01 [tenguruma]\n5664.51 otemma <運ぶ意味から>\n5666.10 テングルマ <多>\n5666.22 テングルマ <古>\n5669.12 tenguriuma 予想される語は ～guiruma だが、答えは ～yuriuma\n5669.19 tenguriuma katagüruma\n5670.47 #gitoguruma ? !takataka\n5671.00 #kubiruma ? #kumambati <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04414.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04414",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04414.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5672.67",
+      "5672.75",
+      "5675.87",
+      "5676.84",
+      "5677.60",
+      "5678.33",
+      "5678.86",
+      "5679.86",
+      "5680.34"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-15\n質問番号　地図番号　150 149\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (17)\n項目名　肩車 086\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n[kumbjo:uba:ri]　　kumbjo:ba\nkumbi uma 〈t〉　　kubiuma\nテングリ　ショオリ・・・普通　　　テングルマ\nテングルマ　〈多〉\nカタプルマ　}　〈大体同義は同じ程度〉　テングルマの方が比較的多し\nテングルマ　〈普〉　　カタグルマ\nカタグルマ　〈普〉　　カタグルマ\nkataymurüma (荒)　kazaymurüma\n#NR　〈語はない、kubi? nornu など〉\n\n（ページ下部の手書き注記や細かい文字は一部不鮮明で読み取りにくい）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04415.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04415",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04415.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5681.47",
+      "5682.34",
+      "5682.37",
+      "5684.11",
+      "5684.26",
+      "5686.67",
+      "5688.01",
+      "5688.74",
+      "5694.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-16\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n\n質問番号 地図番号 150 149\n項目名 肩車 086\nA 普通注記 ページ (18)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n[kubiuma]    kubimma\n! kumbindo: <do:は男のことだ>\nkatakombo <赤坊を kombokoと言うから>\ntakmma [takama]\ntemma ni ubu: (ubu:は背負う)    temma ni noseru\nテンプルマ <普通>    カタプルマ\nカタプルマ <普> カタンボオ <稀> <カタンボオは言う人もある程度で、どんさついなことば>\n? katayurisama\nカトゥウマ <katuma>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04416.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04416",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04416.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5697.53",
+      "5698.91",
+      "5703.70",
+      "5712.70",
+      "5723.60",
+      "5732.13",
+      "5740.43",
+      "5760.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-17\n質問番号　地図番号　150 149\n項目名　肩車　086\nA 普通注記　ページ　(19)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5697.53  tengyuruma 〈天車の意味〉\n5698.91  kardzayuriuma / ka'tayuruma  (どっちが正しいか自信がない)\n5703.70  kubikko / kubikkomma  → tengyuruma はここでは二人手を組み、乗せて遊ぶあそび\n5712.70  tengyuruma .... [tenguruma]\n5723.60  #[kadayuruma] ... (tengyuruma を言う ...)\n5732.13  katagyuruma (カタグルマにのせるという。)\n5740.43  カザグルマ　〈多く使う。〉　カタグルマ\n5760.24  # tengyuruma　池三者のヒントで答えた。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04417.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04417",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04417.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5760.57",
+      "5790.79",
+      "6369.32",
+      "6388.49",
+      "6395.61",
+      "6401.89",
+      "6408.88",
+      "6411.33",
+      "6411.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-18\n質問番号　地図番号　150　149\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (20)\n項目名　肩車　086\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5760.57　kadagyurima … (誘) tengyurima <古>\n5790.79　katanma (もっとも普通の言い方では katam ma ninoru) (katanma ninoseru である)\n6369.32　[テングルマ] ← 主婦の助言 肯定。\n6388.49　gingurama / jitaru (キンクラマ シテアルの意)\n6395.61　bebekura (Ⅰ) bembekura\n6401.89　タエボチ <左> ② テングリマ <新>\n6408.88　クビタマ <上、英>\n6411.33　① チンチンシル, ② タエボナシル (シル = 住る)\n6411.66　テングルマ シリ (シリ = ある)\n\n（右欄に小注や音写、意味注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04418.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04418",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04418.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6413.43",
+      "6428.26",
+      "6429.65",
+      "6439.17",
+      "6447.08",
+      "6455.31",
+      "6457.45",
+      "6458.6",
+      "6458.91",
+      "6464.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-19\n質問番号 地図番号 150 169\nA 普通注記\n項目名 肩車 086\nページ (2/)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )［ ］は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き欄（右側に語形など）:\ntegŋiiruma 〈古〉, katakiuma 〈古〉\nクビクマ 〈古〉\nアカクマ 〈希〉\nkatakuma 〈多〉, 〜ma 〈ともいう〉\ntakakuma ... v. = takakuma suru\nsarukuma 〈動詞は toru〉\nカタクマ 〈新〉, トオニン 〈古〉\n# カタクマ = 1セル (・・・1セル)\nカタケンマ 坊替島では チョオサスルという\nカタンマ 〈新〉  カタクルマ, テングルマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04419.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04419",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04419.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6467.73",
+      "6473.65",
+      "6474.83",
+      "6476.93",
+      "6482.75",
+      "6485.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-20\n質問番号　地図番号　150 149\n項目名　肩車　086\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (22)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き項目（おおよその読み）:\n64 67.73  kataguma ・・・ ① katamma\n64 73.65  ドーロッキャー　ゾーロッキャー　祭礼の山車の時、子供を肩車して行く行事あり、これもそういうためか\n64 74.83  カタクマ　＜普＞　カタクマ\n64 76.93  カタクタラ　クワは挟力音に近い。\n64 82.75  katakuma （能動的に移しかけるには <kata-kum> e jaro' という用。）\n64 85.14  [ナッポエラ] ・・・（坂の南の方の田舎、川津坂本店という。） !ナッポエラ\n\n（注: 手書きの一部は判読困難のため概略で記載。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04420.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04420",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04420.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6485.46",
+      "6485.82",
+      "6491.49",
+      "6492.11",
+      "6500.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-21 質問番号 地図番号 150 / 149 項目名 肩車 086 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (23) ► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の＜ ＞( )( )[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6485.46 カタクマ (龍宮の74才になる大野林平氏に6月頃きいたとき、ナッポンといろ答えてあった。これは丸亀市土器町周辺のナッパイド、坂出町のナッポエトと同系である。付記しておきたい。) カタクマく小学校一年位の子供か、子供同居で遊び言う 6485.82 (手書き注記・続き) 6491.49 bebekoma <この方が正しいのだろうと思う。> bebekuma 6492.11 tsubekoma / bebekoma, bebekoke (手書き注記、丸囲み中の長文コメント) 語構成の要素は同じと見られるのであり得ない呼びではない。今までの文献にはない呼び。 6500.88 katakuma <新> katamma (手書き)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04421.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04421",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04421.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6501.92",
+      "6512.14",
+      "6513.24",
+      "6519.43",
+      "6522.03",
+      "6529.15",
+      "6534.85",
+      "6536.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-22\n質問番号　地図番号　150 149\n項目名　肩車　086\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (24)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6501.92　①カタクマ　②カタウマ（やや古か）\n　　　（手書き注記）2割については不明瞭。後者はカカっひょっとしたる昔よく使っていたかも知れん、というぐらいで現在でも同者共存。ただ前者の方さよく用いる傾向があるようだ。\n6512.14　sennon, kannon / suru\n6513.24　N.R.　〈思い出せない〉\n6519.43　N.R.　（知っていて思い出せず。）\n6522.03　タカンマ（年長者のみ）\n6529.15　〈古〉テンブルマ\n6534.85　katayura [katayuruma 肩車の略]\n6536.68　tjan[tjanko], tjanfjan　〈ショニコは子供の時〉 katakuma\n（その他の手書き注記、カタクマ、カタグルマ等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04422.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04422",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04422.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6537.06",
+      "6540.52",
+      "6541.27",
+      "6544.69",
+      "6545.19",
+      "6545.88",
+      "6552.90",
+      "6556.08",
+      "6557.36"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-23\n質問番号 地図番号 150 149\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (25)\n項目名 肩車 086\n\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記のく >< () [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6537.06  ? katayuruma <右>    katam.ma\n6540.52  カタクマ <希>        カタクマ\n6541.27  カタンマ ・・・[カタクマ]\n6544.69  katakombo・・・[katakomma]\n6545.19  katakuma・・・<katakuma nosēru という>\n6545.88  kataiuma・・・[katakuma]\n6552.90  katakuma（「カタクマ」）．これは禅洞調査者である私の「カタクマ」とは異る。)\n6556.08  カタッコ <ふつう>\n6557.36  [dendein pururuma]\n\n（注：上は読み取りのままの粗い転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04423.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04423",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04423.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6559.67",
+      "6560.40",
+      "6562.48",
+      "6568.13",
+      "6575.66",
+      "6581.52",
+      "6583.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-24\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）[　]は厳密にする。\n\n質問番号 地図番号 150 149\n項目名 肩車 086\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(26)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]\n6559.67 tegyuruma [私の方は {jo: kipi noseru} という。]\n6560.40 カタクマ（スル）〈共〉\n（①）ドンテン（スル）〈古〉\n6562.48 カタクマ〈カタコマという人もある。〉\n6568.13 temmoyura (調査後、別の老人にたずねたら、 tengurumaという解答だった)\n6575.66 susugo 〈左〉 takago\n6581.52 カタコマ〈カタクマという人もある。〉\n6583.93 tenguruma 〈右〉 katanuruma",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04424.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04424",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04424.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6585.49",
+      "6591.02",
+      "6601.25",
+      "6605.84",
+      "6608.69",
+      "6609.05",
+      "6613.54"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（ ）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 44-25 質問番号　地図番号　149.150 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ（27） 項目名　肩車　086 地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］ 6585.49　tengurima （tengu rima:s の動詞形か存在するのか。tengurima suru なのか、tenguri mawasu であるのか。要領を得なかった。） 6591.02　カタマ（クビウマという人もある。） 6601.25　[kubiuma] 6605.84　カトゥウマ [地] 半長と混める（SAT.） 6608.69　kazayuruma（新） !kanzayuruma 6609.05　（新）カタマ（新・古　道のようだが、今はカタマの曲。） 6613.54　[katanjitto] ka'tanyo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04425.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04425",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04425.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6613.97",
+      "6620.49",
+      "6621.57",
+      "6623.63",
+      "6635.44",
+      "6642.33",
+      "6643.72",
+      "6645.62",
+      "6649.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-26\n質問番号　地図番号　149,150\n項目名　肩車 086\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　（28）\n（上部説明）A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）[ ]は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6613.97  NR ... <?> katae nonru　隣所（南洋）南部出身の妻女。というか？ 未認せず？\n6620.49  ! [jijiuma]\n6621.57  tennjinta ... tenyunta o kakaseru という。\n6623.63  temma　＜テンマに 1??＞\n6635.44  katamuma 新　katomma\n6642.33  katayurumma 稀 (katakuma e no seru)\n6643.72  katakuma 多く使う。といる。\n6645.62  teyyukurumae: ＜新＞ katayumuruma\n6649.55  tenguturuma　＜普＞\n\n（用紙余白・欄外の筆記等あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04426.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04426",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04426.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6697.49",
+      "7218.26",
+      "7339.27",
+      "7258.82",
+      "7266.34",
+      "7269.51",
+      "7275.07",
+      "7279.65",
+      "7289.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-27\n質問番号　地図番号　149,150\n項目名　肩車　086\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (29)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6697.49  tegyurummai <右>    katagurumma\n7218.26  ? 'kata-gurumma\n7339.27  katamma <新>, katagurumma <右>\n7258.82  [katamma]\n7266.34  サイマワシ 「猿まわし」 意味\n7269.51  sammenda: sam <saru (猿)>\n7275.07  カタグルマ ?\n7279.65  (＊) スッ, キャンキャン 町で一般に使う。ウッ キャンキャン この人 個人の言い方である。\n7289.31  sanno mendori sanno は「優の」意",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04427.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04427",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04427.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7302.71",
+      "7303.29",
+      "7307.18",
+      "7309.37",
+      "7324.47",
+      "7326.41",
+      "7329.39",
+      "7332.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-28\n質問番号　地図番号　　(手書き)149,150\nA 普通注記\n[B: 除いた共通語]\n[C 除いた特殊語] (30)\n項目名　肩車　086\n\n（表の見出し）\n地点番号　A'語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nsantantsugi (d = d, r 中間音)\nbebekoma (今はあんな子をする人はない。)\nビンビク?　〈ビンビク＝ノセルと言う〉\nkaneru　〈名詞＋動詞はない。kaneruは別に頭にのせる意味にも使う。この地方は頭上運搬なし。〉\nbenbeko (ni nosumu)　下二型に注意\nbimbikinosuru (手書きの注あり)\ntjo:sa (昔) 〈tjo:sa の jite kure を...〉\nbihintjoko くじに（手書き）...\n\n（その他罫線・欄等の図柄）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04428.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04428",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04428.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7338.55",
+      "7340.24",
+      "7340.50",
+      "7341.42",
+      "7341.47",
+      "7342.76",
+      "7346.54",
+      "7349.07",
+      "7349.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-29\n質問番号　地図番号　149,150\n項目名　肩車　086\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(3/)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <> ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nkubimma [近頃は tentengukuma というものもある] 紹介者の談。\nkatja: nosu\nカチャア ノス? (肩に乗せるの意。別語なし)\n<新> katamma\n#カチャア ノス? 他にそい方があった筈だが思い出せないという。\njonjon gakkoi: 居合わせた主婦(幼稚園保母)の発言。\njonzon gatta:\njonzon gati: an(ni no)o: ka の様にそう。\n? bebi kuni\nkubiumma <jiran te-ja> といった。\ndoma (do^ma (site jahun) などとも使う由。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04429.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04429",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04429.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7350.21",
+      "7351.09",
+      "7352.68",
+      "7352.38",
+      "7357.64",
+      "7361.17",
+      "7361.82",
+      "7362.42",
+      "7363.12",
+      "7363.89"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-30 質問番号 地図番号 169,150 項目名 肩車 086 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (32)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。\n表見出し: 地点番号　A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n7350.21  katan u-e: nosu? カタンウエエ / スゥ (手書き注記)\n7351.09  hju: domdon <ヒュードンドン = シューカの様にいる> (手書き)\n7352.68  kate: nose (肩へのせ)\n7352.38  bi: goro V = bi:goro ni nosuru\n7357.64  bibiku <新> (手書き) bibiku ni\n7361.17  カタクルマ スル <新>\n7361.82  katanose <肩に乗せること>\n7362.42  カタンサ スル <新> (手書き注記)\n7363.12  #2 ピイドン ... (手書き注記)\n7363.89  シュカトセエ ... (手書き)\n(手書き注記多数、上記は判読できる範囲の概略転写)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04430.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04430",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04430.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7364.34",
+      "7372.27",
+      "7373.23",
+      "7373.56",
+      "7373.99",
+      "7375.30",
+      "7375.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-31\n質問番号　地図番号 150 149\n項目名　肩車 086\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (33)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞()[]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7364.34 (名詞形はないようである。)\n①#カタクル ーー カタゲテヤル．\n②カラウ\n\n7372.27 #カチャ／スル ＜名詞形なし＞\n(〜をスル の形はない。)\n\n7373.23 ①カタクルマ メダリ カタクルミア／スル ＞\n②！トコセイ ＜トコセイニ／スル＞\n\n7373.56 カチャアノスル （名詞形はないようである。）\n\n7373.99 ベベンカタ？\n\n7375.30 kata ni nosuru (説明語は特別の言い方はない)\n[tompopo]（方言は昔使ったように思う、という）\n\n7375.37 kataguruma （こちらが普通のよ） [bibikuma]\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04431.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04431",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04431.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7375.96",
+      "7377.72",
+      "7381.38",
+      "7383.83",
+      "7390.26",
+      "7390.70",
+      "7391.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-32\n質問番号　地図番号　149,150\nA　普通注記（囲み）　ページ（34）\n項目名　肩車　086\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n7375.96　〈希〉katauma 「カタウマ」など　今の若い者は使わず、年寄それに当る特別の言い方はないように思う。\n7377.72　sarujamanzu　〈今でも子供が使っている。〉\n7381.38　シマノセ　（児童はカタンマと言っている。）\n7383.83　#カタブン（やや古か）\n7390.26　カタリボンサン　〜ニノスルという。\n7390.70　カタニノスル　カタワルスル\n7391.01　カタブル　カタグ、カタゲテ　アノプ　（名詞＋する の形を…）\n(ページ下部に手書きの注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04432.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04432",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04432.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7392.33",
+      "7392.45",
+      "7394.85",
+      "7395.63",
+      "7395.88",
+      "7396.53",
+      "7400.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44.33\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　149.150\n項目名　肩車　086\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (38)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7392.33　トッキャンギャ (〜ニスルという言い方しかないようである。)\n7392.45　ンマハラ　〈やや新〉　(右欄にダダノハリ?)\n7394.85　kubin nosuru　〈この後、別に言い方はない。〉\n7395.63　tenguruma　〈古い言葉、今でも使う。〉\n7395.88　sannokobe:　〈複ノコベーから来ているのであろう。…〉\n7396.53　N.K.　特定の言い方はない。\n7400.11　katagu (〈katai-de jaro:〉という由。名詞形はないらしい。)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04433.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04433",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04433.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7400.15",
+      "7401.11",
+      "7403.86",
+      "7404.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    44-34\n質問番号　地図番号　　149,150\n項目名　肩車　086\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (36)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7400.15    tʃo:sa    神輿の意見語か? <tʃo:sa> である由。\n           それは、kaite aruku toki ni tʃo:sa! tʃo:sa!! というらしい。\n\n7401.11    bebekumo    [中島の umamama では kaːmaido: という。]\n\n7403.86    kataki'ma (kataki ma) ちょうど…表あわせた 孫の小学生は 'kata'ma' という由。\n\n7404.12    atamanko (kataguma) と言わないか、と\n           kata okummu koto だ> など\n\n(今までの文献にあって未だ無い珍しい形)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04434.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04434",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04434.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7404.56",
+      "7412.31",
+      "7422.26",
+      "7426.74",
+      "7434.02",
+      "7436.73",
+      "7500.43",
+      "7500.66"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n日本言語地図資料用紙　注記一覧　44-35\n質問番号　地図番号　149,150\n項目名　肩車　086\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(37)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7404.56 katakuma（調査者言、周桑郡あたりまでこの形で言う所が多い。）\n7412.31 katakuma ＜katakuma ni noseru＞ などと、いう由。\n7422.26 okubi　若い人は kubima を使用する。\n7426.74 kubikuma ＜多＞\n7434.02 kataaguruma ＜英＞\n7436.73 kubikim:a ＜稀＞　tenkukuma\n7500.43 テンプルマ ＜希＞　0492\n7500.66 クピンマ（テンプルマともいう。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04435.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04435",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04435.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7501.14",
+      "7503.48",
+      "7504.27",
+      "7504.64",
+      "7521.16",
+      "7659.31",
+      "8229.96",
+      "8300.80"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-36\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (38)\n質問番号　地図番号 149,150\n項目名　肩車 086\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞( ) [ ]は厳密にする。\n\n地 点 番 号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 {B・C 残した語形とその注}\n\nテンギリ　(動詞は テドル)\n＜今は＞ katamma　　# takasayo\nsudzuko　動詞は sudzuko ni noseru.\nteygurumata (082, 086 とに: teygurumate である.)\nカタコンマ　＜少＞\n誘 tenguruma(m a)\nN.R.　＜単に頭にのせるという。＞\nヨイヤ　＜裸の仮装をかつぐかけ声から来た。＞　(祭の仮装がつぎの状態にこういう動作を連想することから来たのか。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04436.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04436",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04436.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "8301.19",
+      "8302.19",
+      "8302.91",
+      "8303.13",
+      "8303.70",
+      "8303.84",
+      "8304.66",
+      "8305.73",
+      "8306.42"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく > ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 44-37 質問番号 地図番号 150 149 A 普通注記 ページ (39) 項目名 肩車 086 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 8301.19 シマニ ノスル (動詞形) 8302.19 タカタン <タカタンスルという> 8302.91 <?> シマノイスル 8303.13 bibinpi nosuru  bibinは単独では用いない 8303.70 タカタントオ <やや古>, ② タカタン <新> 8303.84 タカタン = {アクル / ノボル} (～スルの形はないようだ) 8304.66 <?> umanori 8305.73 N.K. <することはあるが、言い方はない。> 8306.42 namankintan (珍しい語形である。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04437.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04437",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04437.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "8322.43",
+      "8325.56",
+      "8330.58",
+      "8332.07",
+      "8332.84",
+      "8333.03"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-38 質問番号 地図番号 149.150 A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ (60) 項目名 肩車 086 A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] bindzui <ビンズイ(尾)有るの形なし> <bindzui: nosut という。(ビンズイに乗せる)> jagura {どちらも使う。}(使用法ははっきりしない。) keyken bin ni nosut <ビン=ノスル としか言わない。> bibikko <びびっこ = ノスル という。> obubiyko <obubiyko = ノスルという。(オンブとびびっこの混淆形か)> bibiykopi nosut <bibiyko とはウナジのことであろう。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04438.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04438",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04438.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "8335.11",
+      "8341.96",
+      "8343.06",
+      "8344.71",
+      "8351.07",
+      "8351.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-39\n質問番号 地図番号 149,150\n項目名 肩車 086\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (4/1)\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）（[]）は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n8335.11    #bi'bin / baŋko (これは…先に思い出し、被調査者が賛成した。)\n8341.96    [binko]\n8343.06    bibinkon <ビビンコンをするという。>\n　　　　ビビンコン = ノスル という。\n8344.71    binko 　< binko をスルと言わない。ビンコ = ノスル という。>\n8351.07    bibinko <〜をする　形式なし>\n8351.65    [jo:jo:]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04439.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04439",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04439.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "8352.92",
+      "8360.39",
+      "8363.51",
+      "8363.64",
+      "8372.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-40\n質問番号　地図番号　149/150\n項目名　肩車　086\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ　(42)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ] は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n8352.92\tbibin soro <ビンタ(?)に乗せるからか>\n8360.39\tbindzuro i nosut\n8363.51\tbibinko <「〜をする」という形なし。又、肩車という名詞形は引き出せなかった。ゆず、客のように、ビンズロニノルという形で言わなければならない。>\n8363.64\ttenguima <古>\n8372.47\ttengui nosut <こういう動詞があるだけ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04440.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04440",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04440.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "8372.87",
+      "8373.08",
+      "8373.43",
+      "8394.01",
+      "0228.96",
+      "0237.84",
+      "0246.48",
+      "0247.31"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-41\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞(　)［　］は厳密にする。\n質問番号　地図番号　149,150\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (43)\n項目名　肩車　086\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n8372.87  jibi jibi  ＜ jibi jibi: nosui という言い方をする。 ＞ ＜ シビシビオスルとは言わない ＞\n8373.08  bibinko  ＜ ビビンコニノスル という ＞\n8373.43  tfontfonguime:  ( )  → tenguima\n8394.01  kubiuma  ＜ あまり そうない ＞\n0228.96  'ma nusi n  ＜ (写に乗せるという意味) ＞\n0237.84  'ma: nuri  ＜ 糊 ＞  'ma'kwai: nuri\n0246.48  dji rjakatame  ＜ ～su m euj. ＞\n0247.31  zirja:  ＜ zirja:juri ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04441.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04441",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04441.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "0248.00",
+      "0256.08",
+      "0256.76",
+      "0256.89",
+      "0265.96",
+      "0275.36",
+      "0294.93",
+      "0340.00"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧　44-42\n質問番号　地図番号　149,150\n項目名　肩車　086\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (44)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n0248.00   makkwa 〈動詞は マックワスレという。〉\n0256.08   uma norjum 〈馬に乗るという言い方だけ〉\n0256.76   ima nojium 〈馬に乗せるという動詞が得られなかった。〉\n0256.89   tabita: 〈カタブルマをするという言い方はない。 tabitafai: 乗せるという。〉\n0265.96   ① ma ― (写の義)\n0265.96   ② ma:nuji (写乗りの義)\n0275.36   ma:nusa 〈動詞は ma:nusa sun という。〉\n0294.93   maike:ru 〈尻負いの義〉\n0340.00   garatto 〈希〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04442.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04442",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04442.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "1156.89",
+      "1169.84",
+      "1242.00",
+      "1242.22",
+      "1261.32",
+      "2072.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-43\n質問番号　地図番号　149,150\n項目名　肩車　086\nA 普通注記　B 除いた共通語　C 除いた特殊語　(45)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )［ ］は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n語形一覧（対応する地点番号は抽出済）:\nhai:sjunggwa (老人が言う)\nhai:joi poppo: <子> (子供に言うらしい)\nma:ta:ga:ta: <右>\nma:ga:ta: <新>\n? hat'a2ussak'i\nmasuk'onsori (「塩買いなさい」の指示)\ntʃundara: (「京太郎」。念仏行者か人形をまわして、秧を廻り歩いていたのでそれから来たのではあろう。)\nkataburatu (肩の上に乗せる という意味)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04443.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04443",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04443.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "2151.51"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧 44-44 質問番号 地図番号 149,150 項目名 扉車 086 A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ (46) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 2151.51 ? ga: nassa",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04444.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04444",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04444.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "4666.51",
+      "4771.92",
+      "4782.04",
+      "5605.70",
+      "5615.20",
+      "5625.91",
+      "5655.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-45\n質問番号 地図番号 150 149\n項目名 肩車 086\nA 普通注記 (B 除いた共通語) [C 除いた特殊語] ページ (1)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n4666.51  kataguruma <?3>                degguruma <古>\n4771.92  katagyuruma <希>               dendegyuruma\n4782.04  kataguruma <新>                teyyuruma\n5605.70  kataguruma <新>                joecjoetfin tjin <古>\n5615.20  kataguruma <共>                deggurumaE\n5625.91  !kataguruma <新><共>           !degguruma <希>\n\n(右側手書き注記)\n(調査者の生地(南奥沼郡 湯沢町工場)では テンプルベヌなどと いった称ですが、に対す る反応。) <古く使ったが 今は それに用いるのみ>\n\n5655.97 カタグルマ <新>\n\n(その他空欄あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04445.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04445",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04445.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "5658.89",
+      "5661.34",
+      "5666.22",
+      "5676.84",
+      "5682.37",
+      "5683.61",
+      "6491.65",
+      "6521.94",
+      "6526.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-46\n質問番号　地図番号　150 149\n項目名　肩車　086\nA　普通注記　(B　除いた共通語)　[C　除いた特殊語]　ページ (2)\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C　残した語形とその注]\n5658.89　カタグルマ　〈新〉　テングルマ〈右〉\n5661.34　kataguruma　〈共〉　kubikkase\n5666.22　カタグルマ　〈新〉　テングルマ〈右〉\n5676.84　カタグルマ　〈共〉　テングルマ〈多〉\n5682.37　kataguruma　〈新（いことば）〉　katakombo\n5683.61　カタグルマ　〈共〉　（手書き注記・不明）\n6491.65　katagurumma　〈希〉　bembeko\n6521.94　katagurumuma　〈希〉　（手書き英字語）\n6526.98　〈共〉　カタグルマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04446.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04446",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04446.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6559.46",
+      "6576.28",
+      "6601.93",
+      "6631.53",
+      "6643.15",
+      "6649.55",
+      "7329.39",
+      "7329.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-47\n質問番号　地図番号　150 149\n項目名　肩車　086\nA　普通注記　ページ\nB　除いた共通語\nC　除いた特殊語　(3)\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6559.46　katayuruma　＜新＞\tteyyuruma\n6576.28　カタグルマ　＜共＞\tカタグマ\n6601.93　katanuruma　＜共＞\tkatauma\n6631.53　katayuruma　新\ttegyuruma\n6643.15　同上　上\n6649.55　katayurumma　＜共＞\ttenguruma　＜普＞\n7329.39　kataguruma　＜新＞\ttjo:isa　＜若＞（(tjo:sao...)　手記の注記）\n7329.57　（下欄注記）　dondokuma",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04447.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04447",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04447.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "7381.38",
+      "7420.18",
+      "7500.43",
+      "7501.14"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)［　］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　44-48\n\n質問番号　地図番号　(手書き数字)\n項目名　肩車　088\nA　普通注記　　(B) 除いた共通語　　(C) 除いた特殊語　　ページ（4）\n\n地点番号　A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n\n7381.38　カタタルマ〈新〉　　シマノセ（児童はカタンマといっている。）\n7420.18　katagurutuma〈上〉　　tenyurutuma　（手書き）\n7500.43　カタプルマ〈共〉　　テンプルマ〈希〉、カタクマ\n7501.14　同　上　　テンギリ（動詞はテギル）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04448.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04448",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04448.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "3741.16",
+      "4689.62",
+      "7258.82",
+      "7268.87",
+      "7382.97",
+      "8304.66",
+      "8372.47",
+      "0256.08"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞(‘)［　］は厳密にする。 日本言語地図資料用紙 注記一覧 44-49 質問番号 地図番号 149,150 項目名 肩車 086 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ ( / ) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 3741.16  # D.K. [kumi'bikkonori] 4689.62  N.K. (katayuru-ma) 7258.82  N.R. [katamma] 7268.87  [saikokke:] sa:kokke: 7382.97  シャンシャン (子) カタポシ , *カタブシ 8304.66  N.R. <?> umanori 8372.47  N.R. tengui nosut <こういう動作があるだけ> 0256.08  N.R. umanorjum <馬に乗るという言い方だけ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04449.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04449",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04449.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "0256.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-50\n質問番号　地図番号　149,150\n項目名　肩車　086\nA　普通注記　ページ\n[B　除いた共通語]　( )\n(C　除いた特殊語)　(2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n0256.76　N.R.\n1ma nofun\n(馬に乗せるという動作しか得られなかった。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04450.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M149Q086/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04450",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04450.tif",
+    "source_ljc_id": "LJC-M149Q086",
+    "source_map_numbers": [
+      "149",
+      "150"
+    ],
+    "source_title": "かたぐるま (肩車)"
+  }
+]

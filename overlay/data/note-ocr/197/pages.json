@@ -1,0 +1,1492 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1715.53",
+      "1747.04",
+      "3619.08",
+      "3699.55",
+      "3741.16",
+      "3755.32",
+      "3757.09"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n日本言語地図資料用紙注記一覧 64-60\n質問番号　地図番号　147　197\n項目名　井戸\nA 普通注記\nページ (／)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n1715.53    i^ndo (doが ndo?)\n1747.04    イド <イズミは老婆から聞いた>\n3619.08    e^do  eは狭いe\n3699.55    えド  え---イ・エの中間音\n3741.16    e^do  eは狭いe\n3755.32    ツギィド <ポンプイド>\n3757.09    ido 用水のために泉や湧水をためておくところ\n            を matjibune という。ここで洗いものなどする。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06460.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06460",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06460.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3783.08",
+      "4598.33",
+      "4609.54",
+      "4619.29",
+      "4638.22",
+      "4644.10",
+      "4657.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-61\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）［　］は厳密にする。\n（右上の枠）\n質問番号 地図番号\n147      197\nA 普通注記    ページ\n[B 除いた共通語]    (2)\n[C 除いた特殊語]\n項目名  #戸\n\n（表ヘッダ）\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n3783.08    ēdo    ēは非常に狭いe\n4598.33    jodoe ke (希)    eke\n4609.54    ēdo  -> EDO\n           jēdo\n4619.29    ēdo (上品に言おうとする時)    ēdo\n4638.22    edo    eは狭いe\n4644.10    edo    eは狭いe\n4657.64    iːdo (総称か)\nhori ido (新、機械、#戸と区別する為にできた新しいことば)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06461.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06461",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06461.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4659.50",
+      "4667.33",
+      "4676.67",
+      "4678.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　64-62\n質問番号 147　地図番号 197\n項目名　井戸（か）　#戸　A 普通注記（囲み）\n[B 除いた共通語]　[C 除いた特殊語]　ページ（3）\n\n地 点 番 号    A語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n(機械井戸・horido がどんな構造か 分明でない。)\nエト・「エド」と同じ。\nエンド〈つるべのもの〉　（ン）音はかすか。\nモミエンド〈ポンプのあるもの〉\nendo > EDO\nedo\ntsirube — 以前は #戸は船とつるべだったの で tsirube でもよい\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06462.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06462",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06462.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4694.95",
+      "4696.82",
+      "4698.15",
+      "4730.45",
+      "4731.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-63\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記のく >< ( ) [ ] は厳密にする。\n質問番号　地図番号\n147　197\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (4)\n項目名　#戸\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]\n4694.95\tedo tateedo <つるべやつるべによる#戸>\n\tjokoedo <山に作った横穴の#戸>\n4696.82\ttsurube edo (つるべによってくみ出す#戸)\n\tedo は池のことで、物を洗い、鰻を\n\t飼い、すじをひたしたりする。)\n4698.15\ttsu[ru]be <#戸そのものを云う、水が湧いて\n\tくる所一実ーを ido と云う>\n4730.45\ttsūrube edo (単に edo というと池も含まれる。)\n4731.42\t[edo]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06463.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06463",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06463.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4731.85",
+      "4740.26",
+      "4741.92",
+      "4760.64",
+      "4760.98",
+      "4761.57",
+      "4762.77",
+      "4770.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-64\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n質問番号 地図番号 147 197\n項目名 #戸\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (5)\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n4731.85    [èdo]\n4740.26    tsürubè (単にエド(＃戸)といえば、流れをせきとめて、深くした所)\n4741.92    tsürubè èdo (つるべ)\n4760.64    [èdo]\n4760.98    èdo とは非常に狭い\n4761.57    tsürul <普通>\n4762.77    tsürume <古、つるべの#戸>\n4770.62    ige (構造は普通なものらしい)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06464.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06464",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06464.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4771.92",
+      "5462.57",
+      "5471.59",
+      "5472.31",
+      "5537.34",
+      "5538.50",
+      "5548.35",
+      "5548.60"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-65\n質問番号　147　地図番号　197\n項目名　#戸\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (6)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><()[] は厳密にする。\n\n地点番号\nA 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4771.92    edo 〈ここにはない〉\n5462.57    ヨド 〈古〉\n5471.59    カワ 〈古〉\n5472.31    カワ 〈古〉\n5537.34    edo 〈ただし新〉\n5538.50    イケ 〈古〉\n5548.35    eke　水だめ　tsutsumi\n（鯉をかっているところ　do:uu）\n5548.60    ido 〈新・者〉（＃戸はもともとなかったようである。）\n\n谷川の水を使い、その水をおく所が（ミソツ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06465.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06465",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06465.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5549.55",
+      "5557.42",
+      "5557.48",
+      "5558.09",
+      "5558.33",
+      "5564.79",
+      "5565.12",
+      "5566.35"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-66\n質問番号　地図番号\n147　197\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (7)\n項目名　#戸\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )［ ］は厳密にする。\n\n地点番号　(A)語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n5549.55　edo〈新〉（#戸はもともとなかった所） eke\n5557.42　ido（もともと#戸はない）\n5557.48　edo (ekeは田などの用水だめ)\n5558.09　ido〈昔から#戸はない。谷の水を使用。今は水道。〉\n5558.33　miga（もともと#戸はない。谷川から引いた水を使用。）\n5564.79　ike　一目の前にある時\n5565.12　ike　イケとも発音する\n5566.35　tubure　(?)（この部落に井戸なし。この答えは誤りと思う）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06466.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06466",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06466.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5566.95",
+      "5575.93",
+      "5579.42",
+      "5584.22",
+      "5584.37",
+      "5595.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-67\n質問番号 147    地図番号 197    A 普通注記    ページ (8)\n項目名 #戸\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　　A 言形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5566.95    〈このようなものはない〉\n(メンジャ（飲用の小川）近年は水道)\n5575.93    ike    泉水をもいう。\n5579.42    judo　〈古〉\n5584.22    ike    優位    ido\n5584.37    ido　（家の中にあるもの）\nike　（家の外にあるもの）\n5595.20    ido　〈優位〉\nutjikomi　〈この辺は打込井戸が多く、単にutjikomiということも多い。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06467.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06467",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06467.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5599.41",
+      "5621.43",
+      "5623.27",
+      "5624.85",
+      "5635.48",
+      "5636.74",
+      "5646.71",
+      "5677.85"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-68\n■ A・[B]・[C]ごとに別紙を使用する。\n■ その中での情報は地点番号順に並べる。\n■ 注記のく <> () [ ] は厳密にする。\n\n質問番号　地図番号\n147　　　197\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (9)\n項目名　#P\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n5599.41　イド　〈水屋の意味にも〉　ホリイド\n5621.43　idomizu　/ 水のことでなく、#戸そのものの（例 idmizu horu）\n5623.27　ido　〈昔は掘#戸はなかった〉\n5624.85　NR　（#戸がない）\n5635.48　ツリイ　〈水をつりあげるから〉　ツリイド\n5636.74　ツリイド　〈古〉　イド\n5646.71　エド　〈古〉　イド\n5677.85　クミイド　〈水が極めて浅く、汀む・堆積を必要としない #戸〉　イド",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06468.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06468",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06468.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5685.37",
+      "5686.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-69\n質問番号 147   地図番号 197   項目名 #戸\n(A) 普通注記   [B 除いた共通語]   [C 除いた特殊語]   ページ (10)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\ntsuuriido　この辺にない。山の清水をためた\n所を ido と一般にいう。\n\ntsuriido　〈余りない。〉\n竹のとよで山の水を引く jobiido が\n多い。眼病のモノモライの民間治療法\nメザルを #P に半分出すというのは、\n主としてこの jobiido のこと。寺沢の\n方へ行くと、川がたの水の使い場があり、\nkawazido という。\n（寺沢とは調査地長から西南1kmの山裾の集落名）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06469.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06469",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06469.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5687.32",
+      "5687.86",
+      "5690.96",
+      "5695.47",
+      "5696.13"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-70\n質問番号　147　地図番号　197　項目名　#戸\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (//)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5687.32　タグリ　バケツの先に竹棒をつけたもので汲み　イド\n出す#戸\nハネツルベ　テコの原理を応用してあるもの\nクルマイド　滑車を使用しているもの\nカイダシ　ひしゃくで汲み出せるような#戸\n\n5687.86　エド　（本人の個人差らしい）\n\n5690.96　boriido　〈殆んどない。〉\n（水を引き入れて使う。）\n\n5695.47　ido　（山から　引いて来た水をためておく所）\n\n5696.13　ツルイド　〈ツルバ#戸のこと〉　イド",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06470.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06470",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06470.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5699.25",
+      "5751.89",
+      "5760.24",
+      "5792.02",
+      "5792.18",
+      "5793.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-71\n質問番号 147　地図番号 197　A 普通注記　ページ (12)\n項目名 #戸\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5699.25　ido　horinukido --- 特に珍しくもない。\n5751.89　horido　＜ここには一つもない。＞\n\n水を樋で引いて来て、町ごとにマス形にためた。それを edo と言った。たてに掘ったためた。それを edo と言った。たてに掘ったものは、この下市に一つもない。\n\n5760.24　ido　このはめずかしく寄り。\n\n5792.02　ëdo　ëは非常に狭いe\n5792.18　ëdo　ëは非常に狭いe（ここでは4m位で深く）\n5793.20　ëdo　（ëは非常に狭いと「深い」といっても、質問に対する答...）\n\nidoba ＜多＞ はこれらしい。湧水の暗いうるべなどで汲む。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06471.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06471",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06471.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6286.68",
+      "6339.86",
+      "6356.98",
+      "6357.38",
+      "6369.32",
+      "6373.84",
+      "6377.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号　地図番号\n147　197\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (13)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ntsukinukiido　＜深さ50尺ほどもパイプ(直径2～3ｲﾝﾁ)を\n　そして込んで学校などで使うために\n　ポンプで汲み上げるもの＞\n\ntsutsii　（「筒井」であろう）\nツルイ　＜古＞\nツルイ　＜古＞\nツルイ\ntsurui　＜古＞\nエツ　＜古＞\nイド",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06472.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06472",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06472.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6383.77",
+      "6384.25",
+      "6389.22",
+      "6389.59",
+      "6389.98",
+      "6393.26",
+      "6394.09",
+      "6394.78",
+      "6395.46",
+      "6395.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞( ) [ ] は厳密にする。\n\n日本言語地図資料用紙　注記一覧　64-73\n質問番号　147　　地図番号　197\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (14)\n項目名　#戸\n\n地点番号　　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n6383.77    ike　<古>　　　　　　　　　　　　　　ido\n6384.25    tsurui　<古>\n6389.22    ツルイ　(古)　　　　　　　　　　　　イド\n6389.59    カワ　古　　　　　　　　　　　　　　イド\n6389.98    カワ　古　　　　　　　　　　　　　　イド\n6393.26    ike　<古>\n6394.09    ツルイ　<水をつるのでツルイと云う。>\n6394.78    竹　<古>(?)\n6395.46    ツルイ　<古>\n6395.61    tsurui　<ido>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06473.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06473",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06473.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6397.62",
+      "6398.78",
+      "6409.35",
+      "6409.72",
+      "6412.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-74\n質問番号 地図番号 147 197\n項目名 #戸\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (15)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\ntsuruui 〈車つるべが下ているものだけ〉　ido\ntsuruui 〈古〉　ido\nホリヌキ 〈ポンプ使用〉\nイド 〈つるべ使用〉\nイド 〈深くて 手押しポンプを使う〉\nホリヌキ 〈底が浅くて、竹の先につるべをつけて汲みとる〉\nido 〈浅いもの、3尺ぐらい〉\ntsuru be 〈深いもの。6〜10尺ぐらい〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06474.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06474",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06474.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6419.25",
+      "6423.75",
+      "6424.20",
+      "6428.76",
+      "6429.15"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-75\n質問番号　147　地図番号　197\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　(16)\n項目名　#P\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6419.25　イド　〈つるべを用いるもの〉\n6423.75　ウチコミ　〈ポンプを使うもの〉\n6424.20　ido　/ イドにも種類によって呼名がある。\n　　　　ホリイド・・・掘ったもの\n　　　　ツキイド・・・パイプをつっこんだポンプの井戸\n6428.76　イド　〈ポンプを使うのはクマヤゲと特に言うか〉\n6429.15　イケ　〈古〉　イド",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06475.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06475",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06475.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6441.19",
+      "6444.89",
+      "6448.61",
+      "6452.98",
+      "6453.64",
+      "6457.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-76\n質問番号 地図番号 147 197\n項目名 井戸\nA 普通注記 (丸囲み)\nページ (17)\n[B 除いた共通語] [C 除いた特殊語]\n地点番号\nA 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\nイド　掘ったままのふたなきもの\nツルイ　ふた、屋根のあるもの\nカワ　{く柄で汚むことの出来る浅い井戸}\nズズクバカワ\nツリィ　rui - ri\nイド　〈普〉\nスイドオ　〈古〉\n（右欄）イド　ホリヌキ　ホリイド",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06476.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06476",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06476.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6460.10",
+      "6462.59",
+      "6472.05",
+      "6473.65",
+      "6476.17",
+      "6476.92",
+      "6477.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-77\n\n資料番号　地図番号　147　197\n項目名　井戸\nA　普通注記（囲み）\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（18）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n6460.10\ttsüuri　〈古〉\tido\n6462.59\tツリイ　ツルイ→ツリイ（rui→ryi:）\n6472.05\ttsüri:\t〈古〉\n6473.65\tカワ　〈古〉\tイド\n6476.17\tイド　〈イズミは山の麓などの清らかな水のわき〉\n6476.92\tイド　（イズミはどんな所かとまくと、自然に下から…）\n6477.02\tイズミ　〈希・古〉\tイド／バイト",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06477.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06477",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06477.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6481.15",
+      "6482.52",
+      "6482.75",
+      "6485.14",
+      "6485.82",
+      "6486.07",
+      "6486.50"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙　注記一覧　64-78 質問番号 147　地図番号 197 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (19) 項目名 井戸 地点番号　A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6481.15　カワ　古 6482.52　kawa　〈側面は石を積みあげたり、土焼側をふせてある。〉 6482.75　kawa　〈古〉 6485.14　イズミ　〈古〉 6485.82　イズミ　〈古〉 6486.07　イズミサン（イズミを尊んで、この人はこう言った。あの...） 036のメボの時、アズキツヅ（小豆粒ヨ）? “イズミサン”エホリコムトナオルトユウ。（人に知れないようにほりこむ。）と言っていた。 6486.50　イズミ（カイブリは飲み水ではなく、田畑用の畑中にあるやや大型の井戸である。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06478.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06478",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06478.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6487.43",
+      "6492.11",
+      "6494.21",
+      "6495.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-79\n質問番号　地図番号\n147　197\nA　普通注記（囲み）\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（20）\n項目名　#戸\n地 点 番 号\nA 語形とその注記　[B・C 除いた語形とその注]\nA 注のない語形　[B・C 残した語形とその注]\nイズミ　〈古〉\nidosan　〈大切にする気持をこめた言い方。女婦人はたいていこう言っている。〉\nイズミ　〈全島内に地下水を汲み出す「いずみ」はない。雨水を屋根から引いて、井戸の 案に掘ったイズミの中へためておき、年中その水を使う。その水を天水といっている。天水を汲み出す所をイズミという。〉\nizumi　石で四角に囲んだもの　ido",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06479.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06479",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06479.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6498.33",
+      "6505.60",
+      "6509.38",
+      "6509.43"
+    ],
+    "other_text": "日本雪語地図資料用紙 注記一覧 64-80\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ]は厳密にする。\n質問番号 147  地図番号 197  A 普通注記  ページ (21)\n項目名 井戸\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n6498.33    horinuki    正しくは horinukido の事 などと被調査者は horinuki と ido とを区別している。\n            ido は深くほってツルベやポンプでくみ上げるもの、horinuki は地面に水が湧き出てくるもの。\n            当地は海岸沿いの土地にて、すべて horinuki にて、いわゆる ido なし。\n\n6505.60    tsutyike    （昔の人。土埋なり。）\n\n6509.38    ツリイド    <つるべで水をあげるイド>    イド\n\n6509.43    ツルベ    <イドの総称>    イド",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06480.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06480",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06480.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6511.85",
+      "6512.67",
+      "6514.38",
+      "6515.70",
+      "6522.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-31\n質問番号　147　　地図番号　197\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (22)\n項目名\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n6511.85　utjikomi　パイプをそのまま地面に打ちこんで　ido\n（木を出すもの／水を出すもの）\n6512.67　ike　〈希〉　ido\n6514.38　hori; ido　（川の洗場をido．掘抜井戸を; kek?）\nいう。但し山本にはない。\n6515.70　ido　（つるべ、ポンプなどで汲み出すもの）\nike　（地面にいけた竹、或いは鉄管から照...に地上に湧出するもの。この工事をする人を iketsukiと言う。）\n6522.79　竹　イケ　一般的　余り用いない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06481.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06481",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06481.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6522.93",
+      "6530.23",
+      "6533.31",
+      "6546.73",
+      "6557.36",
+      "6582.48",
+      "6583.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-82\n質問番号　地図番号\n147　197\nA　普通注記　(B除いた共通語)　(C除いた特殊語)　ページ (23)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）[　]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6522.93　イド　ウチヌキイド、ホリイド等あり\n6530.23　イド　〈石垣で囲まれ、つるべを用いる深い井戸〉　ホリスキ　〈ポンプを用いる井戸〉　ホリスキイド\n6533.31　イド　(屋内)\n　　　(ハイド)　(屋外)\n6546.73　horinuki　〈地面から湧き上ってくるもの〉　ido\n6557.36　(ido)\n6582.48　tsuring　総称\n6583.45　ike　〈[ido]とは言わない。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06482.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06482",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06482.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6583.93",
+      "6584.90",
+      "6603.52",
+      "6610.77",
+      "6619.76",
+      "6621.34",
+      "6621.94"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-83\n質問番号　地図番号\n147　197\nA　普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ(24)\n項目名　#戸\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞＜(　)[　]は厳密にする。\n\n[表ヘッダ]\n語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n\niro　〈老人〉　　　　　　　　　　　　ido\nido　こういうものはないので共通語として知っている。\nido　〈山の水を樋でためた水槽〉\nido　〈山の水をためた所〉　(絵)\ntsuriido　〈つるべ〉\npompuido　〈ポンプ〉\nido　水道が普通\nido　〈主にポンプ式のもの〉　tsuriido\nNR　井戸なし／tojoーかけい　tojoのかわりに…（走り書き）\n\n(注記: 手書きの注や絵、細かい走り書きの部分はおおまかに転記しました)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06483.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06483",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06483.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6622.69",
+      "6631.05",
+      "6639.43",
+      "6641.43",
+      "6643.72",
+      "6657.54",
+      "6632.15",
+      "6697.49"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-8-i 質問番号 147 地図番号 197 A 普通注 [B 除いた共通語] [C 除いた特殊語] (25) 項目名 #戸 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6622.69 ido 〈湧き水をためた所も言う〉 tsuriido 6631.05 horido tsukemidzu \"山の水を引いて来たところ\" 6639.43 edo (eは狭くお寄り) 6641.43 tsurube 〈古〉 6643.72 tsurubeido 〈古〉 6657.54 ido tsukiido 鉄管を入れてその周りを埋めた #戸 主にポンプ #戸 6632.15 kai: 〈用水をためておく所は〈ido〉〉 6697.49 ido mizubune \"山の水を引いてきた所\" ido 〈天水争い用〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06484.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06484",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06484.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6698.20",
+      "6710.55",
+      "6720.23",
+      "7208.97",
+      "7218.09",
+      "7218.58",
+      "7229.50",
+      "7237.67"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-85\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　147　197\n項目名　井戸\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（26）\n地 点 番 号　　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n6698.20    ido    <天水利用>\n6710.55    ido    こが#戸\n6720.23    ido    つるべ#戸\n7208.97    kai: (kawaとは発音せず、川のことは区別して\n           ko:raという由)\n7218.09    tsurukawa cf. kawa <くぼみに水のたまっている所>\n7218.58    kawa    誘くひしゃくで汲むようなところ    ido\n7229.50    tsuri kawa <古>    ido\n7237.67    tsurukawa (深い#戸)    ido\n（以下行あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06485.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06485",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06485.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7238.12",
+      "7238.82",
+      "7239.24",
+      "7239.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-86\n\n質問番号　地図番号\n147　197\n項目名　#戸\n(普通注記)　ページ (27)\n[B　除いた共通語]\n[C　除いた特殊語]\n\n地点番号　語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nkawa　〈深い#戸を tsurukawa. 川を nagare kawa〉 又は nagareko\nkawa　〈川と区別する時は kumikawa〉　#戸　nomikawa\nkawa　7 ショク(ひしゃく)で汲めるところ。そこには ido\n水が湧き出ている。\n\nkawa　(それほど深くほりぬいたのではなく、谷間などに構えを作り、飲料水をたよっている所、idoというとまたない感じがするという。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06486.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06486",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06486.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7239.90",
+      "7246.45",
+      "7247.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-87\n質問番号　地図番号　147　197　A 普通注　ページ（28）　項目名　井戸\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7239.90\ttsurukawa　〈古〉\n7246.45\tkawa　但し「流れる川」をもkawaという。\n\t調査者は調査場所に行く途中、道を尋ねてkawa（井戸）をkawa（川）の意に解して、道を誤った。語もある。\n7247.86\tkawa　tsurukawa---（掘り井戸）\n\tgija kugawa･･･（すぐめる井戸）\n\tnagaregawa･･･（川）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06487.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06487",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06487.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7248.15",
+      "7248.49",
+      "7248.64",
+      "7257.94",
+      "7258.82",
+      "7258.89",
+      "7259.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　64-88\n質問番号　地図番号\n147    197\n項目名　井戸\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（29）\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n7248.15    tsurukawa --- つるべ#戸\n           kumikawa --- くみ#戸\n           arja:qawa --- 洗っただけのもの\n           kawaは流れ川の意。\n7248.49    tsurikawa　〈古〉    ido\n7248.64    tsurikawa　〈つるべでくみあげるもの〉    ido\n7257.94    tsurubegawa　〈深いもの〉    kawa\n7258.82    igawa　〈上〉    kawa\n7258.89    kawa　〈古〉    ido\n7259.98    ido　〈洗濯などする所はkawa〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06488.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06488",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06488.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7266.09",
+      "7266.92",
+      "7268.87",
+      "7269.51",
+      "7279.93",
+      "7284.16",
+      "7289.31",
+      "7301.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-89\n質問番号 地図番号 147 197 A 普通注記 ページ (30)\n地点番号 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n7266.09 ido 〈kawaとはいわない。ひしゃくで汲みとれる〉\n7266.92 kawa 流れる川もkawa\n7268.87 tsurukawa 〈つるべを用いるもの〉\n7269.51 ido 総称（湧み川を含む）\n7279.93 tsuykawa 深い井戸\n7284.16 tsukkawa kawaは流れる川の意\n7289.31 igawa 古. 形\n7301.69 ido （よ=drの中間音）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06489.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06489",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06489.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7303.17",
+      "7303.29",
+      "7305.13",
+      "7308.33",
+      "7309.37",
+      "7309.61",
+      "7312.11",
+      "7320.95"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 64-90\n質問番号 147　地図番号 197\n項目名 井戸\nA 普通注　[B 除いた共通語]　[C 除いた特殊語]　ページ (3/)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7303.17　ike　(idoと今の者はいう。上品にいう時と答う。)\n（共通語という意味）\n7303.29　ido　(イヅミとは云わぬし、聞かない)\n7305.13　ツルイ　〈古〉\n7308.33　kawa　〈古、子供の頃に使った。〉\n7309.37　kawa　111はka:ra\n7309.61　kawa　〈古?〉\n7312.11　ido　〈自然の湧水(イヅミと言わぬ)〉\nショウヅ(清水という。)\n7320.95　i do　(d-rの中間音　rの要素少し)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06490.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06490",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06490.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7322.81",
+      "7326.41",
+      "7330.91",
+      "7331.27",
+      "7332.52",
+      "7334.44",
+      "7334.78",
+      "7335.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-91\n質問番号　地図番号　147　197　項目名　井戸\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (32)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( ) [ ]は厳密にする。\n\n地点番号　語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7322.81\tigawa wa　〈今、あまり使わない〉\tido\n7326.41\tido　〈普〉\tinoko\n7330.91\tido\t浅い所からの湧水は igawa\t\n7331.27\tido\t( d = d ~ r 中間音 )\t\n7332.52\tido\tベコヅキイド 等作り方で異称あり／ジョゴクボリィド\t\n7334.44\tigo\t〈泉を利用した浅いもの。もとは井戸〉 一般を言った。\n7334.78\tigo\t〈浅い泉のもの〉\tido\n7335.19\tinoko　〈古〉\tido",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06491.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06491",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06491.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7335.34",
+      "7335.93",
+      "7336.54",
+      "7338.48",
+      "7342.12",
+      "7342.72",
+      "7343.14",
+      "7344.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-92\n質問番号 地図番号 147 197\nA 普通注記 (丸囲み)\nページ (33)\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名 #p\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ]は厳密にする。\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n\n7335.34   inoko <古>     ido\n7335.93   inoko <浅くてツルベを使わない#戸>     ido\n7336.54   inoko (泉はdzemi;) 同席の老年男子(須賀氏)    \n7338.48   ido <現在は水道になっているが、以前のものが、あちこちに残っている。>\n7342.12   igawa (古)\n7342.72   igawa <古>\n7343.14   ido <深い井>\n7344.99   igo 泥の小さいもの、水の湧出るものにも言う。#よりは浅い。#川。\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06492.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06492",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06492.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7345.47",
+      "7345.98",
+      "7346.58",
+      "7352.14",
+      "7352.97",
+      "7353.51",
+      "7354.23",
+      "7355.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧   64-93\n質問番号　地図番号　147　197　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (34)\n項目名　井戸\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<,> ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7345.47　inoko　〈つるべを用いない浅いもの〉　ido\n7345.98　inoko　〈古〉井戸と変らない。深くても言う。　ido\n7346.58　inoko　〈つるべを用いない浅いもの〉　ido\n7352.14　ツルベイガワ　イガワは浅いものをいう。\n7352.97　イガワ　〈掘り井戸でもいう〉\n7353.51　イガワ　〈や、古、希〉昔は掘り井戸でもいった。　イド\n7354.23　ツルベ　〈釣瓶をいうのでなく、つるべでくむ井戸をいう。〉　イド\n\n7355.48　inoko　〈ひしゃくでくめるほどの浅い出水〉　ido",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06493.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06493",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06493.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7355.81",
+      "7356.06",
+      "7357.64",
+      "7362.67",
+      "7363.59",
+      "7364.34"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    64-94\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の< >( )[ ]は厳密にする。\n質問番号 147    地図番号 197    A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (35)\n項目名 井戸\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7355.81    inoko 〈イノコは浅くて、ヒシャクでくめるようなものをいう〉    ido\n7356.06    ido 〈ヒシャクでくむほどのはイノコ〉\n7357.64    inoko 〈家から離れた所にあって、浅くてひしゃくで汲むようなもの〉    ido\n\n7362.67    イガワ 〈古〉    イド\n7363.59    イガワ 〈つき井戸(鉄管)で、地下水を地上にふき出させ…〉\n7364.34    イガワ 〈穴を掘ってつるべ・ポンプでくむもの〉\nイド 〈わき水をつき井戸にしたもの〉\n（以下、井戸に関する注記や説明が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06494.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06494",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06494.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7365.25",
+      "7365.67",
+      "7366.14",
+      "7366.87",
+      "7366.91",
+      "7370.16",
+      "7372.03",
+      "7372.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-95\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜　＞〈　〉（　）［　］は厳密にする。\n\n（右上の枠）\n質問番号　地図番号\n147　197\n項目名　#P\nA　普通注記（丸）\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(36)\n\n（表の見出し）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n（各行の注記・語形）\nido　〈掘ったもの〉\ninoko　〈井・泉などを利用するもの〉\ninoko　〈昔、深くてもツルベを使ってもイコ。〉\nido　〈深い。ツルベで汲む。〉\ninoko　〈浅い〉\ninoko　〈古〉\ninoko　〈浅い。ひしゃくで汲めるようなもの〉\nido　kawaとはいわない\nイガワ　（掘り井戸でもどんな井戸でもすべて）\nイガワ　（つるべでくみあげるようになっていたが、今ポンプでくみあげている。）\n\n（右側の短い注記）\nid'o（ば？）\nido",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06495.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06495",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06495.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7372.96",
+      "7373.56",
+      "7373.92",
+      "7373.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-96\n質問番号　地図番号\n147　197\n項目名　#P\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]　(37)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n7372.96　〈イガワ〉　〈古・ほりぬき#戸のことで はある〉　イド\n7373.56　ツルベ〈古〉　イド\n7373.92　イガワ　〈イドとは言わぬ。この辺は掘り井戸ばかりで　それをいう。〉\n7373.99　イド　（ほりぬきの井戸）\nイガワ　（水がわいて流れている井戸）\nマキ　（山の中腹の斜面を横に穴をうがって水をほりあてて自宅に流して用いているもの）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06496.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06496",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06496.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7374.15",
+      "7374.75",
+      "7375.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-97\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞〈〉［］は厳密にする。\n\n質問番号　地図番号\n147　197\n項目名　井戸\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(38)\n\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]\n7374.15　イガワ　<古　高森は昔はイドはなく、町の外れのお宮、お寺にツルベイド(イド)があったのみで、イドという語は若であった。町中はみな櫂をひいて共同使用し、それをイガワと称した。現在は水道。イドもイガワも使わない。>\n7374.75　イガワ　<水面が高くてネタでくむ、イド>\n7375.96　ido　<註> この辺には井戸はない。この辺の家は山の斜面などに散在している。従って井戸は教育・報道機関などを通して入った言葉。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06497.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06497",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06497.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7377.72",
+      "7380.74",
+      "7381.38",
+      "7381.97",
+      "7382.93",
+      "7383.83",
+      "7383.98",
+      "7385.61",
+      "7385.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞《 》（ ）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 64-98 質問番号 地図番号 項目名 #戸 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (39) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] igawa <古> ido イガワ <希・古> イド カワ <つき#戸・掘#戸・湧き水などすべて> イガワ <種類を問わず、すべてに言う> イガワ <掘り#戸> 今でもイガワということが多い。 イド (イガワ⇒泉) イガワ <水のふき出してくるもの> イド ido この辺は山国で#戸のないところである。 ido この辺は山国で戸のないところである。 ido <家代には#戸は一つもない。山の湧水を樋で家に引いて使う。最近は簡易水道も出来た。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06498.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06498",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06498.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7386.56",
+      "7390.26",
+      "7390.70",
+      "7390.75",
+      "7391.01",
+      "7391.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n65-01\n質問番号　地図番号\n147　197\n項目名　井戸\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (40)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7386.56　iqawa〈古〉　ido\n7390.26　ツリカワ（掘り#戸）\n7390.70　ツキイド（突き#戸）\n7390.75　イド〈ツルベでくむ深いもの〉\n7391.01　イガワ（シャワでくめる浅いもの）\n7391.94　ツルカワ　ツルカワ〈優〉　カワ\n（右下欄）イド　イガワ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06501.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06501",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06501.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "7392.33",
+      "7392.45",
+      "7392.94",
+      "7393.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　65-02\n質問番号　地図番号　147　197\nA　普通注記　ページ　(41)\n項目名　井戸\n[B　除いた共通語]　[C　除いた特殊語]\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞(　)［　］は厳密にする。\n\n表見出し：地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\nホリイガワ　}　外にツキイド（竹、鉄管を土に差し込んだ＃戸）がある。　イガワ　ある。\n\nイガワ（湧き水、ひしゃくで汲む）　}　くひっくるめて言う語はない。　イド（つるべ、ポンプで汲む）\n\nイド（つるべ、ポンプで汲む）　〈古〉　ツルベ\n\nイガワ　〈湧き水〉\nユガワ〈湧き水・流れ水をひいてきて自宅で用いるもの。高野部落ではこれが大部分〉\nイガワではこれが大部分\nツルベ〈金釘瓶でくむ＃戸・少数〉\n（以上のいずれかを用いるのが大部分であるが、これらを総合した語を求めるならばイドより外にない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06502.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06502",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06502.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7394.60",
+      "7395.09",
+      "7395.63",
+      "7400.11",
+      "7400.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-03\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n質問番号　147　地図番号　197\n項目名　#戸\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (42)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7394.60　ツルベ（掘り井戸）\n　　　　イド（掘り井戸）\n　　　　ユゴオ（湧き水の井戸）\n7395.09　ido〈深く掘ったもの〉\n　　　　igawa〈露天にあり、浅い〉\n　　　　inoko〈露天にあり、浅い。多〉\n（この場合の答としては ido をとるべきであろう。）\n7395.63　juga wa〈湧き水の場合〉　ido\n7400.11　kawa〈kawa o horu. kawa o kaeru などという〉\n7400.15　kawa（#戸掘り人のことをkawa horisan?と呼ぶ由）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06503.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06503",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06503.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7402.47",
+      "7403.21",
+      "7403.86",
+      "7404.12",
+      "7404.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-04\n質問番号 地図番号 147 197\nA 普通語 ページ (43)\n項目名 #戸\n（見出し）地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n7402.47 ido (旧西条の大部分の地域では地表に水が噴き上る。その井を掘る方式から井のことを utsinuki といっている。)\n7403.21 ido (〈#戸側は inokawa。それを設けるのは sukeru という。）\n7403.86 ido (〈ido wa nai〉飲用水は谷から引いてくる。それを受けて溜めてある所を <mizubay> という。ido は…)\n7404.12 izumi (一般に深さは20〜30尺)\n7404.56 tsuruji (tsuruji は tsurumbe で深きものが本来だろうが、ido そうでないものにもいう。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06504.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06504",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06504.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7405.21",
+      "7406.53",
+      "7412.26",
+      "7416.34",
+      "7417.22",
+      "7417.27",
+      "7417.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-05\n質問番号 地図番号\n147 197\n項目名 #戸\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(44)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7405.21 izuzumi この地方山岳地帯、谷水を引きこんで使用するものが多い。その場合は deju と言う。\n7406.53 izumi 深い穴を掘るところはない。水をとってためるところ；コンクリートで水溜をこしらえる、はある。\n7412.26 ido あまり井戸はない\n7416.34 tsuru (昔)\n7417.22 NR この地方に ido がない、皆谷水を使う。\n7417.27 ido izumi 水の残いものを言う。\n7417.79 izu tsuu (古)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06505.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06505",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06505.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7421.38",
+      "7431.08",
+      "7431.13",
+      "7450.20",
+      "7502.22",
+      "7504.27",
+      "7659.31",
+      "7659.40"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-06\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () [ ] は厳密にする。\n（右上ボックス）\n質問番号 147  地図番号 197\nA 普通注記（丸）  ページ (45)\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名 井戸\n\n地点番号     A 語形とその注記 [B・C除いた語形とその注]\n7421.38    ido (話の合間に出た時は ido と発音)\n7431.08    ido (多くは nagai de de hiite kite 使う由。)\n7431.13    tsurui <古>    ido\n7450.20    ido (hori ido, tsukinuki ido (鉄管を打ち込んだもの) などがある。今は簡易水道に変った。)\n7502.22    tsurube tsurube を総称。    ido\n7504.27    ju:do <古>    ido\n7659.31    judo touragou ひき木をためたところ\n7659.40    judo / ido\n    koibune\n    ko:da\n    tamarimizu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06506.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06506",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06506.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7659.51",
+      "7659.53",
+      "8300.11",
+      "8300.25",
+      "8300.80",
+      "8301.19",
+      "8301.76",
+      "8302.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-07\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n質問番号 147　地図番号 197\n項目名 #戸\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (46)\n\n地点番号 | (A) 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nido　ゆき水 simizu　流れ水 hora　ike\nNR ＜ない＞　ためた水は kawa\nカワ（浅く水のたまっているものはゴキガワという）\nido（igawa＝用水に用いる湧水）　カワ ＜例：カワミズ（枡水） バクシデ ケエ＞\nイドガワ〈新 希〉\nイガワ〈希、古〉\nイガワ〈古〉　ユガワ〈古、山から引き水をしてためておくもの〉\nフネコ〈古〉　フネゴ〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06507.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06507",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06507.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "8302.55",
+      "8302.91",
+      "8303.13",
+      "8303.47",
+      "8303.70",
+      "8303.84",
+      "8305.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-08 質問番号 147 地図番号 197 A 普通注記 (囲み) [B 除いた共通語] [C 除いた特殊語] ページ (47) 項目名 井戸 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] ▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の＜＞（）（）［］は厳密にする。 8302.55 イガワ 〈天水が山からわき出るもののたまるもの。それを各家が汲んでくる。大部分の家がそうだ。〉 8302.91 ツルベ〈古: わき水のものはイガワという〉（用水に用いる自然の湧水・流水は ;gawa, つるべ / ido 井戸は tsurube） 8303.13 ido 井戸は tsurube 8303.47 イガワ 〈くむことの出来る井戸をいう〉 8303.70 ツルベ〈新 掘井戸のこと〉 8303.84 ツルベ〈掘井戸、つま井戸をいう。水たまり、わき水のイガワはこの辺にはない。〉 8305.73 ido〈新 この辺には井戸は小学校に一つあるだけ。人家は樋で山の湧水を引く。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06508.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06508",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06508.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "8310.26",
+      "8310.87",
+      "8311.59",
+      "8311.63",
+      "8314.52",
+      "8316.20",
+      "8322.43",
+      "8324.83",
+      "8325.56"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　65-03\n質問番号　地図番号\n147　197\nA　普通注記（囲み）\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(48)\n項目名　井戸\n\n（表ヘッダ）\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n\ntsurin <古>　\tido\nigawa <ひしゃくで汲める程度の浅い井戸>　\tido\ntsuibe ido <浅いひしゃくで汲む:井戸は jugawa という>\ntsuren　柄で汲む:浅いどは igawa という。\ntsurin <掘ったもの>\njugawa <湧き出たもの>\nigawa <古>\nigawa <ひしゃくでくむ:浅い井戸をいう>　tsuibe\ntsuIN (ツリンのりの僚化)\nido <例>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06509.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06509",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06509.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "8331.17",
+      "8332.07",
+      "8332.59",
+      "8333.92",
+      "8334.63",
+      "8335.11",
+      "8335.48",
+      "8341.46",
+      "8341.94"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　65-10\n質問番号 147　地図番号 197\nA 普通注記（○）\n[B 除いた共通語]\n[C 除いた特殊語]\nページ（49）\n項目名　井戸\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　　語形とその注記［B・C 除いた語形とその注］　　A 注のない語形［B・C 残した語形とその注］\n\n8331.17　igawa〈従来から〉\n8332.07　tsuibe〈古〉\n8332.59　igaa〈浅い深いにかかわらない。〉\n8333.92　tsurin〈古〉　　　　ido\n8334.63　tsuriN〈古〉　　　　ido\n8335.11　ido〈深く掘らないで、天然に水がわくのは〉\n　　　　inokokiu? (読み取り不確か)\n8335.48　idonkawa〈古〉〈今でも使う〉　ido\n8341.46　igawa〈以前は浅い＃戸を言った〉　ido\n8341.94　tsuibe〈イガワといえば浅いどをいう〉　ido",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06510.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06510",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06510.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "8342.51",
+      "8344.71",
+      "8345.18",
+      "8345.24",
+      "8351.65",
+      "8352.29",
+      "8352.40",
+      "8355.23",
+      "8361.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-11\n質問番号 147　地図番号 197\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (50)\n項目名 井戸\n\n地点番号\n8342.51   iga: 〈郡部では tsurin というのを聞く〉\n8344.71   tsuibe〈古〉\n8345.18   judo〈ユド〉（井戸は3ヶ所しかなく、湧水を多く使っている。）\n8345.24   ido　深い\n8351.65   inoko 浅い、（シャクで汲める程度のもの）\n8352.29   iga: 〈古〉\n8352.40   kawa〈松原には川はないからまぎわしいことはない〉\n8355.23   tsurin〈多〉\n8361.31   kawa〈古〉\n\n（表の右側に各行に対する注記欄あり。いくつかに「ido」と記入）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06511.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06511",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06511.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "8362.85",
+      "8363.51",
+      "8363.64",
+      "8372.47",
+      "8373.43",
+      "8393.69",
+      "9312.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-12\n質問番号　地図番号　147　197\n項目名　井戸\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (51)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n（表見出し）\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\nigawa 〈新〉\t\tkawa\njugawa 〈古〉\t\tido\nido 〈ポンプで汲むもの〉\ntsuri 〈つるべで汲むもの〉\ntsuibe 〈浅い井戸〉\t\tido\ntsuibe ① 田代（調査地実の北4里）出身の校長はikedと言うが、このあたりに井戸はなく被調査者クマノホソイ氏はtsuibeというのがそれかと思っていたと答える。（女合良郡霧島町では井戸をtsuibeと答えている。）\n\nkawa 〈希　湧水を含む〉\t\tigawa\ntsubey kawa 〈希〉\t\ttsube",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06512.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06512",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06512.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "0228.96",
+      "0237.84",
+      "0275.97",
+      "1241.49",
+      "1251.27",
+      "2067.52",
+      "2151.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-13\n質問番号 地図番号 147 197\n項目名 井戸\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (52)\n▷ A・[B]・[C]ごとに別紙を使用する。\n▷ その中での情報は地点番号順に並べる。\n▷ 注記の＜＞（　）（　）は厳密にする。\n（表ヘッダ） 地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n0228.96  ho（カワの訛り）\n0237.84  jidi（jiduにあらず）\n0275.97  tsingjio（発音のちがい）\n\n1241.49  ?numiqai: [ha:]\n1251.27  supza <掘り井戸のこと>\n2067.52  <ka;>\n2151.67  ka: <深くてつるべで水をくむ井戸はtsiga:iという。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06513.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06513",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06513.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "5579.42",
+      "6348.71",
+      "6357.38",
+      "6383.77",
+      "6395.46",
+      "6413.10",
+      "6424.92",
+      "6442.35",
+      "6448.61",
+      "6451.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　65-14\n質問番号　地図番号　147　197\nA　普通注記　(B)　除いた共通語　[C　除いた特殊語]　ページ　( / )\n項目名\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n\n地点番号　A　語形とその注記　(B・C除いた語形とその注)　A注のない語形　[B・C残した語形とその注]\n5579.42　ido　〈今〉　judo〈古〉\n6348.71　イド　〈新〉　ツルイ\n6357.38　イド　〈新〉　ツルイ〈古〉\n6383.77　ido　〈今〉　ike〈昔〉\n6395.46　イド　〈新〉　jg zawa\n6413.10　ido　〈新〉　jgzawa\n6424.92　イド　〈新〉　ユド\n6442.35　イド　〈新〉　ツルイ〈古〉\n6448.61　イド　〈未〉　ユツ〈古〉\n6451.79　イド　〈新〉　ツルイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06514.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06514",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06514.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6461.27",
+      "6472.05",
+      "6485.14",
+      "6485.82",
+      "6486.50",
+      "6486.93",
+      "6487.43",
+      "6495.18"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-15\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく < > ( ) [ ] は厳密にする。\n質問番号 147 地図番号 197\n項目名 #戸\nA 普通注記\n(B) 除いた共通語\n[C] 除いた特殊語\nページ (2)\n地点番号　A 語形とその注記　(B・C 除いた語形とその注)　A 注のない語形 [B・C 残した語形とその注]\n6461.27　イド（新）　ツルイ\n6472.05　ido　〈今〉　tsüri:〈古〉\n6485.14　イド〈新〉　イズミ〈古〉\n6485.82　イド〈新〉　イズミ〈古〉\n6486.50　イド　新　イズミ（カイワリは飲み水ではなく、田畑用の畑中にあるやや大型の井戸である。）\n6486.93　イド〈新〉　イズグ\n6487.43　イド〈新〉　イズミ〈古〉\n6495.18　ido〈新〉　izumi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06515.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06515",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06515.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6498.61",
+      "6641.43",
+      "7239.90",
+      "7269.96",
+      "7325.84",
+      "7334.44",
+      "7336.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-16\n質問番号　地図番号\n147　197\n項目名　#戸\nA　普通注記\nB　除いた共通語\nC　除いた特殊語　（3）\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞(　)[　]は厳密にする。\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形[ B・C 残した語形とその注]\n6498.61　ido　〈雅〉　izumi\n6641.43　ido　〈新〉　tsurube〈古〉\n7239.90　ido　〈新〉　tsurube ido〈古〉\n7269.96　ido　〈新〉　kawa\n7325.84　ido　〈共〉　tsurukawa〈古〉\n7334.44　ido　〈新〉　tsurikawa\n7336.28　ido　〈新〉　inoko\nigo　〈泉を利用した浅いもの。〉\n（もとは #戸 一般を言った。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06516.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06516",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06516.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "7336.71",
+      "7342.12",
+      "7345.43",
+      "7356.55",
+      "7362.42",
+      "7363.59"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　65-17\n質問番号　地図番号\n147　197\n項目名　井戸\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (4)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7336.71　ido（新）　inoko\n7342.12　ido（新）　igawa　古\n7345.43　ido（新）　inoko\n7356.55　ido（新）　inoko\n7362.42　イド（新）　イガワ\n7363.59　イド（新）　イガワ（イガワはつき井戸（鉄管）で…）\n地下水を地上にふき出せ、田の用水にするものをハウニともある、冷たい水だが、カナ気があって、飲料には適しない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06517.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06517",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06517.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "7363.85",
+      "7365.67",
+      "7372.27",
+      "7374.15"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　65-18\n質問番号　地図番号\n147　197\n項目名　#戸\nA　普通注記\nB　除いた共通語\n[C]　除いた特殊語　ページ(5)\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜　＞〈　〉〔　〕は厳密にする。\n地点番号　A語形とその注記　(B・C除いた語形とその注)　A注のない語形 [B・C 残した語形とその注]\n7363.85　イド〈上、希〉　イガワ\n7365.67　ido〈新〉　inoko〈普、深くてもツルベを使って　もイノコ〉\n7372.27　イド〈希〉　イガワ〈くつるべでくみあげるように　なっていたが今はポンプで　くみあげている。〉\n7374.15　イド　〈<?　希〉　イガワ　古　諸森は昔はイドはなく町の外れのお宮、お寺にツルベ（ベイド〈イド〉）があったのみで、イドは希であった。町中はみな樋を引いて共同使用。それをイガワと称した。現在は水道。イドもイガワも使わずメイド（イガワ〈中止水の#戸〉はない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06518.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06518",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06518.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "7381.38",
+      "7382.58",
+      "7382.93",
+      "7400.11",
+      "7417.79",
+      "8239.31",
+      "8300.80"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 65-19\n\n質問番号　地図番号\n147　197\nA　普通注記　　ページ (6)\n（B　除いた共通語）　[C　除いた特殊語]\n項目名　#戸\n\n地点番号　A 語形とその注記　(B・C除いた語形とその注記)　A注のない語形 [B・C 残した語形とその注記]\n\n7381.38　イド〈新 や希〉　カワ（くつき井戸・掘井戸・湧水など）\n7382.58　イド〈新・井〉　すべて\n7382.93　イド〈新〉　イガワ\n7400.11　ido　新　イガワ（掘り井戸）今でもイガワということ多し。\n7417.79　ido（今）\n8239.31　ido　新　tsuigawa〈古〉\n8300.80　イド〈新希〉　kawa（kawa o horyu, kawa o…） kaeru などという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06519.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06519",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06519.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "8302.19",
+      "8302.55",
+      "8302.91",
+      "8303.70",
+      "8303.84",
+      "8306.04",
+      "8311.41"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　65-20\n質問番号　地図番号\n147　197\nA　普通注記\nB　除いた共通語\n[C　除いた特殊語]　ページ　(7)\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞（　）（　）［　］は厳密にする。\n\n地点番号　A　語形とその注記　(B・C 除いた語形とその注)　A 注のない語形［B・C 残した語形とその注］\n\n8302.19　イド〈新・英〉\n\n8302.55　(イド)〈希 昭和時代になってから〉\n\n8302.91　イド〈新〉\n\n8303.70　イド〈新〉\n\n8303.84　イド〈新〉\n\n8306.04　ido〈新〉\n\n8311.41　ido〈新〉\n\n右欄（抜粋の手書き注記）:\nユガワ　〈古・山から引き水をしてためておくもの〉\nフネコ　〈古・山から引き水をして木を刈ったフネコというものの中にためておく〉\nフネゴ　〈古〉\nイガワ　〈天然水が山から湧き出るもののたまるもの。それを各家からくんでいく。自家をそそいであり、大きな家がそうだ。〉\nツルベ　〈古〉〈くめた水のそのはイガワという〉\n(その他手書き注記多数、判読困難な箇所あり)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06520.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06520",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06520.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "8331.17",
+      "8332.84",
+      "8354.29"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-21\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n質問番号 147　地図番号 197　項目名 井戸\nA 普通注記　B 除いた注記　C 除いた特殊語　ページ (8)\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n8331.17　ido〈新〉　igawa〈従来から〉\n8332.84　ido〈新〉　tsuibe\n8354.29　ido〈新〉　tsutin",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06521.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06521",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06521.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "6432.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 65-22\n\n質問番号　地図番号\n147　197\n項目名　井戸\nA　普通注記\n[B　除いた共通語]\nC　除いた特殊語\nページ　( / )\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉（）[]は厳密にする。\n\n地点番号\nA　語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nミルベ　ツでありたい？ シを消してツとするつもり\nではなかったのか？ Tak.\n（イェド）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06522.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M197Q147/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06522",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06522.tif",
+    "source_ljc_id": "LJC-M197Q147",
+    "source_map_numbers": [
+      "197"
+    ],
+    "source_title": "いど (井戸)"
+  }
+]

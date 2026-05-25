@@ -1,0 +1,291 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1738.19",
+      "2765.02",
+      "4648.42",
+      "4663.93",
+      "4675.62",
+      "4688.96",
+      "4694.26",
+      "4695.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 11-72\n資料番号 270 地図番号 045 046\n項目名 イイテンキダ (1)\n\n地点番号  A語形とその注記 (B・C除いた語形とその注)  A注のない語形 (B・C残した語形とその注)\n\n1738.19  joi tenkija <99>                      joi tenkida\n2765.02  i:sorada <老人>                       i:tenki da\n4648.42  ri:tenki <これを使うことが一番多い>    e:tenki\n4663.93  i:tenkida . daはraに近いことが多い\n4675.62  e:teyki ra <共>\n         e:otenki ra <上><共>                  e:cijorira\n4688.96  joe teykida <上>                       e:teykida\n4694.26  joe tenki da <少し改まった時>(上)     e:teykida\n4695.33  joe tenkira <改まった言い方>(上)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01172.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01172",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01172.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4695.87",
+      "4700.28",
+      "4744.32",
+      "5555.74",
+      "5604.52",
+      "5625.91",
+      "5665.89",
+      "5667.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 11-73\n資料番号 地図番号 270 045 046\n項目名 イイテンキダ\n普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2)\n\n表見出し: 地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C残した語形とその注]\n\nA列の注記:\ne: tenkira <これを使うことが多い>\njoetenkira <共>\ni: sora <天気とは言わない>\ne: tenkida <希>\njoitenkija (普通ヨイテンキャンナというようである。)\n\njoetenki d2 <共><改まれたとき> e:tenkida\njoetenki d2 (共) ...(やや改まった感じ) e:tenki d2 ヨイテンキダ。\nイイテンキダ <タタ>\nイイテンキダ <タタ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01173.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01173",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01173.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5793.24",
+      "6287.21",
+      "6439.11",
+      "6455.31",
+      "6467.73"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 11-74\n資料番号 270 地図番号 045 046\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)\n項目名 イイテンキダ (3)\n\n[表ヘッダ] A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注)\n\ni:jijorida2 <夕>\ni:tenkiza: <i:は e:とはならない>\ne:tenkija <この土地では大体に。\ne:tenkiza -gaが多い,それにし少し変まると -ja となる化質何かある.>\n\ni:tenkida.\n\nE:tenkidana: [火事のときは.dza だからあやしい,わたし.da ダーという はる.]\n\ne:<右>\n\ni:ne:tenkiza.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01174.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01174",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01174.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "6472.58",
+      "6477.02",
+      "6486.93",
+      "6532.93",
+      "6552.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 11-75\n資料番号 270　地図番号 045 046\n項目名 イイテンキダ\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）〔　〕は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nエエテンキ ジャ（これ以外 出会い）\nエイヒヨリヤ、〈カンカンテリの場合に。\n　エイヒヨリヤナァという。エエではよくエイである。〉\nエエテン／キジャ〈ヨイテンキジャより、この方が多い。〉\nエーテンキー ナァ（男女共）\nヨイハレヤナァ（町の人）\ne:tenki～〈の最上級の他人行儀。\nの表現は「～デゴザリマス」〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01175.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01175",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01175.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6594.19",
+      "6617.99"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 11-76\n資料番号 270　地図番号 045 046　A 普通注記　ページ (5)\n項目名 イイテンキダー\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n（表ヘッダ） 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n② 上品は「〜デス」\n③ ふつうは「〜ダス」\n④ 野卑は「〜ヤ」a別あり\n\n6594.19 30: tenkija (i: tenkija などの言い方はあいようで。どうしても「上天気や」しか採用できまい。)\n(地図にのせなかった。)\n\n6617.99 ~do-teykida~ （打ち消し線）\ni: teykida ...（?）\n(調査票の表記に従えば、E)ともとるべきか。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01176.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01176",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01176.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6642.33",
+      "6662.01",
+      "7247.76",
+      "7247.86",
+      "7248.15",
+      "7301.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 11-77\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密にする。\n\n質問番号 270  地図番号 045 046\n項目名 イイテンキダ:\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (6)\n\n地点番号    A語形とその注記（B・C除いた語形とその注）\n\nii tenkida <少>\njoi tenkida - 多く使う。\n女は ee tenkida という。男よりやさしくきこえると言う。\n\nii tenkida. 女は joi tenkida という。\n(一部取り消し線) e: tenki という。\n\ne:tenki <新>\njoka fijori <多>\nii tenki dza <99>\nee tenki dza (少)\n\n右欄手書き: joka otenki\ne: fijori",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01177.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01177",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01177.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "7302.71",
+      "7303.37",
+      "7329.57",
+      "7349.86",
+      "7354.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 11-78\n質問番号 270 地図番号 045 046\n項目名 イイテンキダー\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) (ページ 7)\n\n(表ヘッダ) 地点番号　A 語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n\nii tenki ni naru, eeとは言わぬ\njoka tenki ni naru,\nii tenki da <99>    ee tenki da\ne: tenki ja <ごくくだけた気持でーいう時>\ni: tenki <so:tenkiという方が多い>\nヨカ テンキ <新>\n(名詞形が出たので:指定辞に当る所をむりに言ってもらうこともしなかった。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01178.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01178",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01178.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "7374.15",
+      "7382.0",
+      "7385.84",
+      "7430.75"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙注記一覧\n質問番号 270 地図番号 045 046\n項目名 イイテンキダ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (8)\n\n地点番号　A語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C残した語形とその注)\n\n7374.15.  joka tenki <新> (いずれも、文の前後の指定辞を欠く表現になる。)    joka sijori\n\n7382.0/  jokatenkina: <家内にいる時は、〜 na: でなく〜 ne:になる>\n\n7385.84  e: sijori no: <目上に対して言う時> e: sijori nja: <同等以下に対して言う時>\n\n7430.75. tenki ga joi <joiは e:とも い、 i:ともいう。 i:ともいう。 e:tenki, i:tenki> (地図にのせなかった。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01179.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01179",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01179.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "7513.15",
+      "1261.32",
+      "1251.73"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 11-80\n（右上のボックス） 質問番号 270 地図番号 045 046 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9)\n項目名 イイテンキダ:\n\n（表見出し） 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C残した語形とその注]\n\n7513.15.　諸 e: gjɔ:ridɜa <古>　　　e: oteŋkid32a\n1261.32.　ji: tintji jan (特に強調する時に jan をつけ、一般には ji: tintji といっているようである。)\n1251.73.　ji: 2wa:tji tji (j2:)　（指定の助動動詞はっけないのか: 普通の用法。特に強く指定する時は j2:をつける。j2:は相手に同意を求める感じがある。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01180.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01180",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01180.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4668.27",
+      "4677.65",
+      "4687.37",
+      "5569.36",
+      "5667.41",
+      "6486.93",
+      "6535.24",
+      "6551.20"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 11-81\n質問番号 地図番号\n270. 045 046\n項目名 イイテンキダ\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n4668.27  se:den da (れいかめたところ:部落の人に対してよく使うという) e: soradda e: anbe:d2\n4677.65  joe tenki <共>  e:tenki\n4687.37  joe tenki da <上> … <丁寧な言い方>  e:tenkida2\n5569.36  イイ ヨオスヤナ <共>  イエヨオスヤナ?\n5667.41  ヨイ テンキダ <テイネイ> <上>  イイテンキダ <タタ>\n6486.93  ヨイテンキジャ <希>  エエテンキジャ <この方が多い>\n6535.24  i:tenkija <上品な言い方>  joihi jana. エエヒヨリ\n6551.20  ヨイヒヨリ <共>  エエヒヨリ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01181.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01181",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01181.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6591.57",
+      "6617.99",
+      "6651.64",
+      "7259.22",
+      "7329.57",
+      "7401.60"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 11-82 資料番号 270. 地図番号 045 046 項目名 イイテンキダ A 普通注記 (除いた共通語) (除いた特殊語) (2)\n\n表ヘッダ: 地点番号  A 語形とその注記 (B・C除いた語形とその注)  A 注のない語形 (B・C 残した語形とその注)\n\n6591.57  i: tenkida <日常使用語ではない>  e: tenki 32\n6617.99  dzo: tenkida <昔は、これが多かった>  i: tenkida\n6651.64  i: tenkida <上>  e: tenkida\n7259.22  jokatenki gasunai: <目上に>  jokatenki bai / jokatenki na:  ii tenki 32  e: tenki 3a <ごく>\n7329.57  joi otenki desu <上>  ii tenki 32  e: tenki 3a <ごく> <ひけた気持ちでいうま>\n7401.60  ii: otenki 32 <ね、希>  e: otenki na",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01182.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01182",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01182.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "7501.14"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。 日本言語地図資料用紙 注記一覧 11-83 資料番号 270 地図番号 045 046 項目名 イイテンキタ A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (3) 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C残した語形とその注） ii tenki da（＝日常使用語ではない） e: tenkija. （上）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01183.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M045Q270/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01183",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01183.tif",
+    "source_ljc_id": "LJC-M045Q270",
+    "source_map_numbers": [
+      "045",
+      "046"
+    ],
+    "source_title": "いい〈天気だ〉"
+  }
+]

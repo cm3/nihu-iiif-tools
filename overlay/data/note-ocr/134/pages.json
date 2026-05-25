@@ -1,0 +1,1274 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0840.33",
+      "0897.91",
+      "1739.10",
+      "1848.24",
+      "1854.24",
+      "2750.43",
+      "2795.72"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-33\n質問番号 地図番号 061 134 項目名 黒子 (大) A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ ( / )\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > ( ) [ ] は厳密にする。\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n0840.33 ibo くふくれていればくろくても > [皮膚と同じ色] であれば ibo、くろければ a'dza\n0897.91 ?ホフコ\n1739.10 NR <hokuroでない>\n1848.24 a'dza <hokuroということもいう。似たようなものでねえんですか>\n1854.24 hokuro <少しよくらんでいるもの> くそうでないの (は a'dza >)\n2750.43 ?アゲ\n2795.72 NR 知らない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03733.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03733",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03733.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3702.24",
+      "3705.47",
+      "3705.82",
+      "3724.20",
+      "3724.96",
+      "3725.72",
+      "3744.33",
+      "3746.76",
+      "3754.76",
+      "3765.74"
+    ],
+    "other_text": "日本雪語地図資料用紙 注記一覧 37-34\n質問番号　地図番号　/ 34\n項目名　ほくろ(穴)　001\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n3702.24　?a'n d?す\n3705.47　(?) e^m bo\n3705.82　kobu (?)\n3724.20　(被調査者の顔にあざがあるため省略)\n3724.96　アジャ <赤黒大小すべてアザ>\n3725.72　ホグロ <アザの小さいもの(稀)>\n3744.33　アジャ　ホフロなし\n3746.76　アザ <黒ければ>\n3754.76　アザ (大小ともアザ)\n3765.74　ホクロの語なし",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03734.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03734",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03734.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3774.61",
+      "3775.83",
+      "3785.42",
+      "3787.50",
+      "3791.76",
+      "3793.37",
+      "3796.48",
+      "3796.95",
+      "4618.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-35\n質問番号　地図番号　134\n項目名　ほくろ(大)　051\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (3)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n3774.61　アザ（フフロをアザという）\n3775.83　アザ　レホクロプの語なし\n3785.42　アザのほか特に言わない\n3787.50　（不明）レアザと言いたいようす\n3791.76　āza　āzaの大小による特有なし　okki āza tsisxāza などいう\n3793.37　特に言わない。\n3796.48　アザ（ほくろ）をアザという。\n3796.95　ホクロ　く小さくてうすく… を言う。\n4618.87　āza <60と大に外にあらわれる場合はアザで…> バカスのように中にひそむ場合はリゴアザである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03735.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03735",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03735.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4619.29",
+      "4619.63",
+      "4628.61",
+      "4638.22",
+      "4643.47",
+      "4647.87",
+      "4653.47",
+      "4657.88"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-36\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞(　)［　］は厳密にする。\n\n質問番号　地図番号　/134\n項目名　ほくろ(大)　061\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ(4)\n\n（表ヘッダ）地点番号　A　語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n\naza <色のついたもの> (ibo <色のないもの>)\nhoguro <今>\naza <色がついていれば> ebo <色がなくとも>\nkuroi ebo これは狭..e、ふくれているか\nどうかによって a^za a と e よりする\n060は a^za となり\naza (はじめ「いぼ」と混同)\n?アザ\naza <舌>\naza ……〈顔の中にあるものを言う。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03736.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03736",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03736.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4663.49",
+      "4666.51",
+      "4666.99",
+      "4667.76",
+      "4672.19",
+      "4675.45",
+      "4676.67",
+      "4677.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-37\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n\n質問番号　地図番号　/134\n項目名　ほくろ（大）　031\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（5）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4663.49　aza　058とe別せず。\n4666.51　?aza\n4666.99　embo　---- <eとは問わず少しよくれたものを言う>\n4667.76　anza　「手、いものはaka anzaという」と答えた。黒いものはkuro anza\n4672.19　aza (060, 061 ま引しない...)\n4675.45　aza (hokuroとは言わない...)\n4676.67　[hokuro] <新>\n4677.65　ebo <先の黒いもの。黒くな...ものもはねも> eboと言う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03737.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03737",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03737.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4684.77",
+      "4685.72",
+      "4687.37",
+      "4689.62",
+      "4695.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-38\n質問番号　地図番号　134\n項目名　ほくろ(大)　031\nA　普通注記　ページ (8)\n[B　除いた共通語]　[C　除いた特殊語]\n地点番号　　A　語形とその注記 [B・C 除いた語形とその注]\n4684.77　?aza(?)\n4685.72　hokuro (ebo 又は kuwroebo の答えあった がこれはほくろとちがうものと考えてとらなかった。)\n4687.37　hosombi － (古くから用い今も多く用いる。)\nhokuro － (新) (表)\n4689.62　hosobi <古>\n4695.19　? ホ.712　フスペ、フクベ(古)も答え\n（以下手書きの説明あり、判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03738.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03738",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03738.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4697.92",
+      "4700.37",
+      "4704.96",
+      "4706.53",
+      "4711.41",
+      "4712.16",
+      "4713.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-39\n質問番号　地図番号　134\n項目名　ほくろ(大)　061\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (7)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4697.92   hoguro <新>    hosobi\n4700.37   dža <ふくらみが目立たず色が目立つとき>    ebo <色が目立たずふくらみが目立つとき> (両者)\n4704.96   アザ　058と区別せず。\n4706.53   adza (？)　[L N R]\n4711.41   [adza] <色のあるもの>\n4712.16   o:kina hosobi (？)\n4713.45   dztyokumobosi <？> <ふくらんでいないもの>　と言っているような気がするが。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03739.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03739",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03739.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4714.22",
+      "4714.68",
+      "4715.98",
+      "4721.36",
+      "4725.92"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-40\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n\n（上部枠）\n質問番号　地図番号　/34\n項目名　ほくろ（大）　061\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（8）\n\n（表見出し）\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C　残した語形とその注]\n\n（表内手書き）\nhoso-bi（060をもこうようする可能性がある。）\nN.R.　＜自分の顔にもこのものはあるが……名乗＞\nN.R.　＜見かけない。＞\n[hoso-bi]　＜大きくとも名前はわからぬ。特に…＞\nはわからないでいつも疑問をもっていた……\n大きいことを言う必要があるときは\nオオキイヤオッケと言っている。　\nN.R.（初調査者の顔にこれがあった）\nhoso~bi……（あとで、ほかの項目をやっているとき思い出したもの。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03740.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03740",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03740.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4726.80",
+      "4731.42",
+      "4731.85",
+      "4735.37",
+      "4740.26",
+      "4742.37",
+      "4742.95",
+      "4751.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-41\n質問番号 地図番号 1/34\n項目名 ほくろ(大) 061\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (9)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n4726.80  okinahoso~b+ <?> (hosob+の中に入る)\n「大きな」という形容をつけただけ\n4731.42  [kyuropo~um] [Kyuropposui]\n4731.85  [kuroposui]\n4735.37  hosob+ku <?> .... <見たことがない>\n4740.26  kuroposu <普通>, 〇sob(i)(又は hosobi)\n4742.37  NR [NR]\n4742.95  NR [estèbo] <?>\n4751.42  POSui (又は hosu) (箱なく考慮の上こたう)\n\n(hokumlo)(?:), [0:kinakum]oppos+t\nkuroposu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03741.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03741",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03741.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4752.27",
+      "4753.52",
+      "4760.02",
+      "4760.64",
+      "4760.98",
+      "4763.62",
+      "4770.62",
+      "5558.67",
+      "5559.51",
+      "5565.12"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-42\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく　><（ ）［ ］は厳密にする。\n\n質問番号　地図番号\n134\n項目名　ほくろ(大)　061\nA　普通注記　(B　除いた共通語)\n[C　除いた特殊語]　ページ (V0)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n4752.27　kuromame <?>\n4753.52　hokumlo ?\n4760.02　ebo <色のあるなしに関せず>\n4760.64　[hnosori?]\n4760.98　e~bu　eは狭...e\n4763.62　adza <?> (?)\n4770.62　?aza\n5558.67　sube <古>\n5559.51　?ホラ? (別のことばがあるらしい)\n5565.12　エボ (?)\n\nhokuro",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03742.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03742",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03742.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5578.27",
+      "5579.10",
+      "5587.74",
+      "5597.78",
+      "5598.67",
+      "5605.11"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞＜（）［］は厳密にする。\n日本言語地図資料用紙 注記一覧 37-43\n質問番号 地図番号 134\n項目名 ほくろ(大) 061\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] ページ (//)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\nホクロ （両者の主張ははっきりせず） スベ\nホクロ ＜スベの大きいのをいう。＞\n？ ホクロ\nフスベ ＜060と061とは区別なし。＞\nフスベ ＜大ぶ...のはホクロとはいわない＞\nhokuro （もり上っているものはhokuro ...）\n（だと言った。） はじめ至usabe\n（注記の続き、手書きメモや訂正など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03743.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03743",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03743.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5612.39",
+      "5615.20",
+      "5618.43",
+      "5621.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-44\n質問番号 地図番号 1/34 A 普通注記 ページ (12)\n項目名 ほくろ(大) 061 [B 除いた共通語] [C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n表ヘッダ: 地点番号  A語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n5612.39  フスベ(古) 、 ホフ12〈新〉\n5615.20  ?hoguro (?)  [emusube] 同席者 被調査者の長男の妻 (十日町大字十日町 33才)\n5618.43  ebo  <くろう>  kuro e ebo\n5621.43  emusube <部調査者はよくらんでいるもの は見たことがない。>(ほくろをます べという。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03744.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03744",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03744.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5623.85",
+      "5631.16",
+      "5632.83",
+      "5633.45",
+      "5639.47",
+      "5641.13",
+      "5641.73",
+      "5642.17",
+      "5643.33",
+      "5646.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-45\n質問番号　地図番号　/134\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (13)\n項目名　ほくろ(大)　061\n地 点 番 号　　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5623.85   !hoguro <高くならない..のなら husube>\n5631.16   fusube <陰起こがある>\n5632.83   husube (060との区別がない とのこと)\n5633.45   fusube <060と区別がない>\n5639.47   ホソビ …… <多く使う>　ホク12\n5641.13   husube <060と区別なし>\n5641.73   fusube <そ>\n5642.17   NR (hokuroと言っているはず)\n5643.33   fusube <もうあがっているもの>\n5646.12   ? ホク12",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03745.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03745",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03745.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5651.45",
+      "5652.96",
+      "5661.34",
+      "5662.78",
+      "5663.01",
+      "5663.09",
+      "5664.51",
+      "5670.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-46\n質問番号　地図番号　1 / 34　A 普通注記　ページ（14）\n項目名　ほくろ（大）　061　[B 除いた共通語]　[C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n地 点 番 号　　A 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n5651.45　[hokuro]\n5652.96　? Fusube　(060と区別した言い方)\n5652.96　? hokuro　はない。\n5661.34　hokuro　[Fusube]　〈聞いたことはある〉\n5662.78　? ebo　〈そういう人をあまり見ない〉\n5663.01　hokuro　(060と区別はない)\n5663.09　sube　〈060と区別がない〉\n5664.51　hokuro　〈大きさに関係はない〉\n5670.47　? hokuro",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03746.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03746",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03746.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5671.68",
+      "5673.78",
+      "5676.84",
+      "5678.71",
+      "5681.41",
+      "5681.47",
+      "5682.37",
+      "5686.67",
+      "5687.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-47\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）[　]は厳密にする。\n質問番号　地図番号　　1 34\n項目名　ほくろ(大)　061\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5671.68　pwsuibe <多>　　　　　　　　　　　　　　　　no: kuro\n5673.78　[sube]\n5676.84　ホクロ <年とってできた時、シニアザ、但し陰で言うことば>\n5678.71　ebo <黒、くても色がなくてもエボという>\n5681.41　hokuro（この場合はsubeと言わぬらしい）\n5681.47　?ha:kuro\n5682.37　?ibo\n5686.67　ホフ12（057の絵ではホフロにとのこと060と\n5687.32　ホフ12（接に突き出ているもの、飛び出しているもの）\n(同様、不確実)\n（以下、手書きの説明文が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03747.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03747",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03747.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5687.86",
+      "5691.37",
+      "5693.78",
+      "5696.13",
+      "5697.24",
+      "5712.70",
+      "5740.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-48\n質問番号 地図番号 1/34\n項目名 ほくろ(大) 061\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (16)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n5687.86  ホコロ・・・・<という人ある>\n5691.37  husube ) (060と区別がありますか?)  hokuro ) <区別なし>\n5693.78  ホクロ <061と060の区別がない>\n5696.13  チィ 被調査者の首のあたりにあるのをみせてくれたので間違いない\n5697.24  チィ 色のないのはイボという と\n5712.70  ibo (これは誤答か) hosobi (cf.060のカード)\n5740.16  ? ホクリ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03748.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03748",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03748.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5740.87",
+      "5741.66",
+      "5742.65",
+      "5751.89",
+      "5770.11",
+      "5770.46",
+      "5771.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-49\n質問番号 地図番号 134\n項目名 ほくろ(大) 061\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (ソ)\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n5740.87  ホクロ（ホフロとはいいませんか）と問うたの    ホソビ\n         に対しくホクロともいう」と答えた。なお\n         ホクロの方が普通の言い方のようである。\n\n5741.66  i60 〈出でいればつねに i60〉\n\n5742.65  hogüro (新)    hosobi\n\n5751.89  hokwro <顔にできる>, hosobi〈顔外にできる〉\n\n5770.11  kürob(o)ji (語) hogüro\n         (・) hosobi\n\n5770.46  hosobi ?\n\n5771.42  hogüro (語) hosobi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03749.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03749",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03749.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5780.11",
+      "5792.62",
+      "6348.71",
+      "6348.77",
+      "6357.74",
+      "6368.59",
+      "6376.33",
+      "6383.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-50 質問番号 地図番号 134 項目名 ほくろ(大) 061 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (18) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< () [ ] は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5780.11 hoguro <新> kuroppoi 5792.62 hosobi <古> hokumro 6348.71 アザ (058と交互のようであるが確かめたものである。) 6348.77 ホグロ (058との区別がはっきりせずイセ の人にした。) [アザ] 6357.74 ホグロ <アダとも言う> 6368.59 アザ (ホクロとも言い定見なし) 6376.33 <?>hoguro 6383.28 aza <太・アザと言う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03750.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03750",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03750.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6384.73",
+      "6385.63",
+      "6385.98",
+      "6388.49",
+      "6388.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-51\n質問番号　地図番号　134\n項目名　ほくろ(大)　061\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (19)\n\n地 点 番 号　　A 語形とその注記〔B・C除いた語形とその注〕　　A 注のない語形〔B・C 残した語形とその注〕\n\n6384.73\t<?>ibo　(はっきりとした区別がないようである)\n\t\t\t<?>aza\n6385.63\t?aza　(azaと呼んだりhoguroと呼んだり)\n\t?hoguro　(だりはっきりした区別がないようである)\n6385.98\t?ホグロ　(アザとホグロとの区別が...)\n6388.49\t?hoguro　(区別がはっきりつかない)\n\t?aza　(様子)\n6388.52\t?NR　<見たことがない。>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03751.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03751",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03751.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6389.98",
+      "6394.09",
+      "6394.43",
+      "6396.62",
+      "6398.07",
+      "6398.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-52\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞＜（ ）[ ]は厳密にする。\n\n質問番号　地図番号　/ 1 34\n項目名　ほくろ（大）　061\nA 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語)　(20)\n\n地点番号\n\n6389.98　ホグロの大けえのく岩、着に生ある時は、ホグロの大けえのとか大けなホグロていうのじゃろう。>\n6394.09　アザくホグロはもっと面積が広い。>\n6394.43　イボくふくれているのを言う？\n6396.62　イボくアザとよく区別出来ないがイボの方は少し丸くらんでいる。>\n6398.07　<??> adda\n6398.42　? adda ……（アザとホグロの区別がはっきりしない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03752.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03752",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03752.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6412.91",
+      "6413.10",
+      "6428.76",
+      "6441.55",
+      "6448.61",
+      "6552.03"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記のく > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 37-53\n質問番号 地図番号 1 34\nA 普通注記 (囲み)\nページ\n[B 除いた共通語]\n[C 除いた特殊語] (2/)\n項目名 ほくろ(大) 061\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 {B・C 残した語形とその注}\n6412.91 <?> i60\n6413.10 hokuro ---- (ホフロといってもホークロと言ってもよいようだ)\n6428.76 ホオフロ <共希>\n6441.55 カネブクロ <足の先や唇の先などに出来る[イオノメ]と...>\n6448.61 ? ホクロ\n6552.03 シニボクロ (老人に生た場合にいうとの説明)\n（以下行あり、判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03753.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03753",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03753.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6456.23",
+      "6458.40",
+      "6469.77",
+      "6472.05",
+      "6476.17",
+      "6476.93",
+      "6479.26",
+      "6481.56"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-54\n質問番号　地図番号　/134\n項目名　ほくろ(犬)　061\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(22)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n（手書きの列）\n? ホオフロ\n? ホウロ\n2 ホフロ\niho (??)\nアザ（大きさのをホクロともいう。又とくにホクロは顔にあるものをいう。）\nオフクロ　オは接頭語らしい。\n? イボ\nアザ（正当な意味ではホクロだろうが、ホクロと言わないような気がする。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03754.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03754",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03754.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6485.82",
+      "6486.50",
+      "6487.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-55\n質問番号　地図番号　134\n項目名　ほくろ(大)　061\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（23）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ]は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nアザ　〈6060の場合と同じく、身体中どこにホクロでもあるものを、アザ、顔にあるものをホクロという。〉\n\n（#）ホクロ　（#）は少しふくらんでいることを強調して調査者が暗示を与え、ある程度の語形を示しかけたとき、被調査者が同調したのである。\n\nホクロ〈顔のあたりや顔にあるやや大きい形のアザ、ふくらみのあるものをいう。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03755.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03755",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03755.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6487.66",
+      "6489.27",
+      "6491.49",
+      "6491.65",
+      "6498.88",
+      "6496.56",
+      "6500.88",
+      "6509.38",
+      "6514.61"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 37-56\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞（）[　]は厳密にする。\n\n質問番号　地図番号　1/34\n項目名　ほくろ(大)　061\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(2×)\n\n地点番号　.A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6487.66　ホクロ　〈060と又別しない。〉\n6489.27　アザ\n6491.49　NK [ホフロ]\n6491.65　a2a <hokuroの方がいいことばでしょうが...>\n6498.88　hokuro → 顔にある場合を言う。\n6496.56　iho　顔に出た時はhokuroという。\n6500.88　hokuro (060を見よ。それと同じ)\n6509.38　ホフロ〈“ホフロ”は大き…が“フベ”は小…〉\n6514.61　hokoro〈くち〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03756.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03756",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03756.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6516.18",
+      "6517.65",
+      "6526.04",
+      "6528.64",
+      "6530.58",
+      "6533.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 37-57 質問番号 地図番号 134 項目名 ほくろ(大) 061 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (25) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6516.18 ? ホクロ 6517.65 フスベ〈古〉 6526.04 ホクロ ぐまつぶぐらいの大きさのものも。 豆つぶぐらいの大きさのものもホ. である。 6528.64 ? 玉W'sünbe 6530.58 イボ くりしょくらんだものはイボである。 ふくらんでいないで墨をつけたようなものがホクロである。 6533.31 フクロ〈古〉 ホクロ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03757.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03757",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03757.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6537.21",
+      "6541.27",
+      "6542.27",
+      "6545.88",
+      "6546.73",
+      "6548.26",
+      "6548.82",
+      "6553.22",
+      "6553.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-58\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n質問番号 地図番号 1/34\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (26)\n項目名 ほくろ(大) 061\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n6537.21 ? hokuro\n6541.27 ? ホクロ\n6542.27 フクロ <やや右>\n6545.88 hokuro (大きさによるこ別はないようである。)\n6546.73 hokuro <060 と区別なし>\n6548.26 NR (中根氏は Kusube であった。)\n6548.82 ? hokuro <060 は小ぶく 061 は大きいものと思う。>\n6553.22 hokuro (060,061の区別なし)\n6553.47 hokkuro (多)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03758.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03758",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03758.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6557.36",
+      "6558.10",
+      "6559.22",
+      "6559.67",
+      "6562.48",
+      "6563.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-59\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　13X\n項目名　ほくろ(大)　061\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (27)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6557.36　[kusumbe]\n6558.10　?kusübe\n6559.22　?ho'kuro　〈他の人は両方とも kusübe というような気もするが、私は･･･〉\n6559.67　kusube ----〈普通 [kusube] というが、時に･･･〉\n6562.48　ホクロ〈060と区別なし〉\n6563.43　hokuro (060と061とは又別しない。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03759.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03759",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03759.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6563.58",
+      "6564.33",
+      "6564.51",
+      "6568.09",
+      "6568.13",
+      "6571.15",
+      "6571.63",
+      "6572.22",
+      "6573.17"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 37-60 質問番号 地図番号 1/34 項目名 ほくろ(大) 061 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (28) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] hokkuri <くち> hokkuri (060と061との差はない。) hokkuri (060と061と区別なし。) ?hokuro (いささか自信のない様子であった) hokuro (調査の順をかえ060に先立って聞いた。) ホクロ <060と区別なし> ibo <黒..ものかいう> ホクロ <060.061と別なし> hokkuri (060と061の間に区別はない。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03760.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03760",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03760.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6573.71",
+      "6575.17",
+      "6580.33",
+      "6583.41",
+      "6586.27",
+      "6601.93",
+      "6606.35"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n日本官語地図資料用紙　注記一覧　37-61\n質問番号　地図番号　1 / 34\n項目名　ほくろ(大)　061\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (29)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6573.71　hokuro (060と061とは別に区別がない)\n6575.17　ホクロ　く特に　ホクロ／カタマリということもあるが、ふつうはホクロですましている。\n6580.33　<?> ホクロ\n6583.41　hokuro (060〜061の区別はない)\n6586.27　hokuro (はじめこぶりと答えたが、大きさを定めていくとこうなった。)\n6601.93　? hokuro\n6606.35　hokuro (できる場所によって... （手書きの続き）)\n\n(下部にさらに手書き注記ありが読み取りにくい)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03761.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03761",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03761.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6608.22",
+      "6610.00",
+      "6611.61",
+      "6613.07",
+      "6613.77",
+      "6617.75",
+      "6630.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-62\n質問番号　地図番号　134\n項目名　ほくろ(大)　D61\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (30)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nデッカイ ホクロ <それはアザとはいわれないし、デッカイホクロとでもいうだけ>\nアスベ <黒くて大きいものをいう。>\nFusube <060と区別がない>\nホクロ <060と061の区別がないと言った?>\nホクロ <060と061とは区別しない>\nホクロ <色がなければエボーというか>\nhokuro <hokuroは kusube にくらぶてやや大きいものが多く、少しもりあがりがある>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03762.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03762",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03762.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6630.58",
+      "6635.54",
+      "6639.43",
+      "6641.43",
+      "6641.97",
+      "6643.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　37-63\n質問番号　地図番号　134\n項目名　ほくろ(大)　061\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (31)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6630.58\t?hokuro ---- <小さいのは kusube だが 大\n\t\tきくてもりあがっているようなのは hokuro\n\t\tだと思うが ---->\n6635.54\tha:kuro (joo とぞ引がない。。。 kusube)\n6639.43\tebo (e は狭く寄り。)\n6641.43\thokuro <大きくて高い>\n6641.97\tkusube ち\n6643.16\tha:kuro 少 ) -061, 0612 方をいういう。 \n\t\tkusube 多 ) -061 だけにいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03763.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03763",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03763.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6649.6",
+      "6651.32",
+      "6656.31",
+      "6711.60",
+      "7239.41",
+      "7239.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-64\n質問番号　地図番号　134\n項目名　ほくろ(大)　061\nA 普通注記　ページ (32)\n[B] 除いた共通語　[C] 除いた特殊語\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6649.60  kusube [平らで小さいものを指すと思う]\n    ( )はインフォマントの見る、45才\n6651.32  kusube <060と区別はしない>\n6656.31  imbo <ふつうのいぼと両方をいう>\n6711.60  ibo <イボというときは大きいもの。色が黒くなく>\n7239.41  aza 〈くすれが用いる。そばかすは omokusa だ〉 hoguro\n7239.82  kuroibo くららんで大きいのはkuroibo ではないかという\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03764.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03764",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03764.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7246.82",
+      "7248.49",
+      "7249.95",
+      "7249.35",
+      "7302.87",
+      "7303.17",
+      "7303.29",
+      "7303.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 日本言語地図資料用紙 注記一覧 37-65 質問番号 地図番号 1 34 項目名 ほくろ(大) 061 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (33) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] ?ibo aza <mesikui aza, namida aza など 出来ている場所によって名がある。> アザ　060との区別ははっきりしていない ホグロく大型で毛がはえている。 アザ ibo <顔に出来てもくらんでいるならイボという> jomeaza ? 不明確 <アザもキズロも同じものだ(よい?)?> <ibo> (誤答? よく説明すると zhoguro?) と答う。やはり ibo という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03765.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03765",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03765.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7305.13",
+      "7308.33",
+      "7308.48",
+      "7312.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-66\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞＜（ ）[ ] は厳密にする。\n\n（上部右） 質問番号　地図番号　1 34\n項目名　ほくろ（犬） 061　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（34）\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7305.13 　ナマズ（？）\n7308.33 　<?>ada    （よく区別がつかないらしい）\n　　　　<?> komai hoguro\n7308.48 　(<?> ) ibo\n7312.11 　ibo —— 黒イボ\n\n（手書き注記）\n（イボと異ならないかといえ意するが 不明確らしい。) 062のカードを\n見ると「あざ」と言うことがあるかもしれ\nない。地図上は ibo のみ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03766.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03766",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03766.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7320.59",
+      "7322.81",
+      "7330.31",
+      "7332.97",
+      "7335.34",
+      "7336.71",
+      "7338.55"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　37-67\n質問番号　地図番号　　1 34\n項目名　ほくろ（大）　061\nA　普通注記　（囲み）\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　（35）\n\n（表見出し）\n地点番号　A　語形とその注記　［B・C除いた語形とその注］　A注のない語形　［B・C　残した語形とその注］\n\nhoguro　[アザよりは大き…]\n: ibo\naza＜黒いのにだけを言う＞\nアザ　aza　＜060と区別する。アザの方は小さい＞\n〈て。めしょくらんでいる。〉\nhoguro　}　多いとラメアザ／フッチョルという。\naza　}\nadza（あるいは［あな］か？）\naza（あろいは［なすか？］）\nhokuro（060、061と同じにhoku? またはaza）\naza）で大きさには関係ない。色のうすいものをazaという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03767.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03767",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03767.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7341.42",
+      "7342.12",
+      "7342.76",
+      "7344.45",
+      "7351.09",
+      "7356.70",
+      "7357.64",
+      "7362.67",
+      "7363.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-68 質問番号 地図番号 134 項目名 ほくろ(大) 061 A 普通注記 B 除いた共通語 C 除いた特殊語 (36)\n地点番号\n7341.42 a22a 060と区別はないという。\n7342.12 ?ibo (どうもよく理解出来なかった様である)\n7342.76 ibo <出ているのをいう。>\n7344.45 iboa22a <イボアザもアザの中>\n7351.09 hoguro <(大きい)のを言う>\n7356.70 a'da <これが元来のここの方言> hoguro\n7357.64 ?hoguro ----- <はっきりしない>\n7362.67 ホグロ<黒くよくれている。黒(ないものはイボである。)>\n7363.85 ホグロ<黒くなくてもるくらんでいるものはイボである。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03768.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03768",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03768.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7364.34",
+      "7366.87",
+      "7372.27",
+      "7372.96",
+      "7373.23",
+      "7373.99",
+      "7376.4"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-69\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は厳密にする。\n質問番号　地図番号　1/34\n項目名　ほくろ(大)　061\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (37)\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書きメモ:\nホグロ (アザ) の区別ははっきりしていないようである。\nアザにも クロアザ アカアザ の区別あり。\nホグロにも クロホグロ アカホグロ の区別あり。\n\n73764.34? ホグロ   (手書き数字の列の上部の行)\n7366.87  ad^2 a- (はな?)\n7372.27  アザ (060 ホグロ2との区別ははっきりしない)\n7372.96  アザ く白いのはイボである>\n7373.23  イボ <アザの大きいものがイボ。黒…89 はクロイボ。>\n7373.99  アザ く白いものはイボ>\n\n（上は読み取りの粗い転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03769.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03769",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03769.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7374.15",
+      "7374.75",
+      "7380.74",
+      "7381.38",
+      "7382.58",
+      "7382.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-70\n（右上欄） 資問番号　地図番号　1 34　A 普通注記　ページ（38）　項目名　ほくろ（大） 061\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n表見出し：地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n7374.15　アザ〈白いものはイボ〉\n7374.75　?アザ（アザ(060)とホヤケ(068)の区別ははっきりしないようである。）\n7380.74　アザ〈黒くなくまたふくれたものはイボという〉\n7381.38　アザ\n　大きさは○ぐらい。生れつきあるものだ（？）\n　イボは皮膚の色で黒ではない。\n　アザはイボほどはふくれていない。イボは大きくてやわらかめ。\n7382.58　アザ〈ふくれていてもいなくてもアザである。〉\n7382.97　アザ〈アオアザ等という〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03770.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03770",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03770.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7385.38",
+      "7386.55",
+      "7390.26",
+      "7390.70",
+      "7392.33",
+      "7393.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-71\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記のく><()[]は厳密にする。\n\n質問番号　地図番号　1 34\n項目名　ほくろ(大)　061\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　(39)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n\nアザ（060とは区別はないようである。）\nアザ（宮崎県各地、アザとホグロ（或はホグロ）は標準語と逆になっている。標準語でホグロというのを方言ではアザと言い、標準語でアザというのを方言でホグロ（或はホグロ）と言っている。）\nイボ　〈色が黒くてもイボである〉\nイボ　〈シロイボ〉\nイボ　〈だいで黒いか赤いのもある〉\nアザ　フロアザもあれば肉色のアザもある。ふくらんでいる。（060との区別は不明）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03771.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03771",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03771.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7400.15",
+      "7401.11",
+      "7404.12",
+      "7407.36",
+      "7415.85",
+      "7421.62",
+      "7422.26",
+      "7423.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-72\n質問番号　地図番号　/ 134\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (40)\n項目名　ほくろ(大) 061\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7400.15 hoguro (あずき粒くらいになるとaz? ) とは言わない由。\n7401.11 aza <3> hoguro\n7404.12 aza (“ぐしょくらんでいる”という説明から　<iboのことですか?>とたずねていた。)\n7407.36 ? hokuro\n7415.85 aza (?)\n7421.62 aza (060のものと区別することはない、という)\n7422.26 ? ibo\n7423.77 aza [ibo]　aza",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03772.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03772",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03772.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "7426.61",
+      "7431.82",
+      "7432.95",
+      "7433.37",
+      "7436.68",
+      "7442.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-73\n質問番号 地図番号 1 34\nA 普通注記\n項目名 ほくろ(大) 061\nページ (41)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7426.61　aza (?)\n7431.82　aza <060,061 大きさによって区別はしない。>\n7432.95　ほくろ hokuro <大きいものについて>\n7433.37　ibira (普通、必ずしも黒色ではないが この被調査者は黒くてもやはり イビラという。) [hokuto]\n7436.68　hokuro 061 をアザということもないではないようである。\n7442.75　ibira (かならずしも黒くない) [hoku10]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03773.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03773",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03773.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7461.23",
+      "7470.29",
+      "7471.38",
+      "8300.80",
+      "8301.76",
+      "8303.70",
+      "8305.73",
+      "8306.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-74\n質問番号　地図番号　1 34\nA　普通注記　ページ　(42)\n項目名　ほくろ(大)　061\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n7461.23\tibo ( ? )\n7470.29\tkokuro ( ? )\n7471.38\t(aza)\n8300.80\tアザ・<黒いものをアザ>／(白いものをイボ)\n8301.76\tホグロ〈指でおさえた程度の大きさのもの、黒くなくても(白くても)ホグロという〉\n8303.70\tアザ　アマジシ　〈061 と 060 を特に区別する〉\n8305.73\t(希) hoguro\n8306.42\t?22a (黒子の大きさ...)\n\nはたして a22a という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03774.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03774",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03774.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "8313.88",
+      "8323.59",
+      "8334.25",
+      "8342.51",
+      "8345.74",
+      "8351.65",
+      "1169.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-75\n質問番号　地図番号　/34\nA 普通注記　ページ (43)\n項目名　ほくろ(大) 061\n[B 除いた共通語] [C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n8313.88　aza <大...のもの・さいのもいう>\n8323.59　<?> aza\n8334.25　aza (060との区別はなさそうである。)\n8342.51　aza <hoguroという人あり>\n8345.74　aza <考>\n8351.65　aza ..... <日常語>\n1169.84　aza <顔にある黒いこまつぶぐらいの点のこともいう。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03775.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03775",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03775.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "2074.69",
+      "2075.22",
+      "2076.25",
+      "2076.96",
+      "2076.97",
+      "2076.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-76\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は厳密にする。\n\n質問番号　地図番号　/34\n項目名　ほくろ(大) 061\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (44)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n2074.69  aza 〈顔にあるごまつぶほどの黒点にもいう。〉\n2075.22  aza 〈ほくろにも顔にこまつぶほどの黒点にもいう〉\n2076.25  aza 〈豆つぶぐらいの大きさの黒点にもこまつぶ…〉\n2076.96  aza 〈ほどの黒点にもいう。〉\n2076.97  aza 〈顔にあるごまつぶほどの黒点にもいう。〉\n2076.98  aza 〈豆つぶぐらいの黒点にもこまつぶ（ほど…）〉\n\n（手書きの注記や一部判読の難しい箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03776.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03776",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03776.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "2085.69",
+      "2140.96",
+      "2141.61",
+      "2141.71",
+      "2150.06",
+      "2151.11",
+      "2151.20",
+      "2151.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-77\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n（右上欄）質問番号　地図番号　1/34　項目名　ほくろ（大）061　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（45）\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n2085.69　aza <顔にあるごまつぶほどの黒点にもいう。>\n2140.96　aza <顔にある小ぶ黒いごまつぶぐらいの点にもう。>\n2141.61　? ts+ikja <黒・・小・・斑点を attsaという>\n2141.71　ada <豆つぶぐらいのあくらんだ黒、顔にある>\n2150.06　aza <顔にある黒いごまつぶほどの点にもいう。>\n2151.11　aza <顔にあるごまのつぶぐらいの黒点にもいう>\n2151.20　aza <顔にある黒いごまつぶぐらいの点にもいう>\n2151.51　a3a <顔にある黒いごまつぶぐらいの点にもいう>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03777.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03777",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03777.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "2151.64",
+      "2151.67"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-78\n資料番号　地図番号　1 3 4\n項目名　ほくろ(大)　061\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (46)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n2151.64  ada <顔にある黒いごまつぶぐらいの点にもいう。>\n2151.67  ada <顔の斑点のこともいう。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03778.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03778",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03778.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "3714.96",
+      "3744.18",
+      "4653.47",
+      "4685.28",
+      "4773.78",
+      "5588.78",
+      "5641.13",
+      "6419.09",
+      "6485.46",
+      "6514.61"
+    ],
+    "other_text": "日本官話地図資料用紙　注記一覧　37-79\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）［］は厳密にする。\n\n質問番号　地図番号\n061 / 134\n項目名　黒子（大）\nA　普通注記　ページ\nB　除いた共通語\nC　除いた特殊語\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n3714.96　hokuro　adza\n3744.18　ホウロ（上）　アヅァ\n4653.47　hokuro＜共＞　azd＜古＞\n4685.28　hokuro＜新・共＞　azd\n4773.78　hokuro＜新＞　hosobi\n5588.78　ホウロ＜共＞　スベ\n5641.13　hokuro 新＜0600と区別なし＞　husube＜0600と区別なし＞\n6419.09　ホウロ＜希＞　ホオフロ\n6485.46　ホウロ＜新＞　アザ\n6514.61　hokuro＜新＞　hokoro＜古＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03779.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03779",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03779.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6538.46",
+      "6553.47",
+      "6563.58",
+      "6611.61",
+      "6611.68",
+      "6624.13",
+      "6625.17",
+      "6640.34",
+      "6662.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-80\n質問番号 地図番号 134\nA 普通注記 (B 除いた共通語) [C 除いた特殊語] ページ (2)\n項目名 ほくろ(大) 061\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6538.46 hukukuro <新> … <最近では hukukuro の方が husube の方が多いかもしれない。>\n6553.47 hokuro (少)　　　　　　　　　　　　　hokkuro (多)\n6563.58 hokuro <今>　　　　　　　　　　　　　hokkuri\n6611.61 hokuro <新> <060と2別が…>　　　　　Fysube <060と2別が…>\n6611.68 hokuro <新しいことば>　　　　　　　 Kusube\n6624.13 hokuro 希　　　　　　　　　　　　　Kusube\n6625.17 hokuro 希　　　　　　　　　　　　　Kusube\n6640.34 hokuro <新>　　　　　　　　　　　　Kusube\n6662.38 hokuro 希　　　　　　　　　　　　　Kusube",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03780.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03780",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03780.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "4711.41",
+      "4715.33",
+      "6369.32",
+      "6373.59",
+      "6374.64",
+      "6374.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（ ）[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　37-81\n質問番号　地図番号\n061　134\n項目名　黒子（大）\nA　普通注記　ページ\n[B　除いた共通語]\nC　除いた特殊語\n項目名　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n[手書きメモ]\n[degimono]　＜色のないもの＞　（う゛ぇ?水色のあるもの？）\nNR　＜?＞（?）　ebo\nヒシネ　→＜イボをヒシネとも言う。主婦の助言　イボ＞\n（言による）又、イボもアザの中に入る。一主婦の助言\nada　＜大きな ada という＞\n?アザ　くしない、混同して使っている。\n?ホグロ　＜ホグロとアザの区別がはっきりしない＞\n（手書きの走り書き、判読困難な箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03781.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03781",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03781.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6389.59",
+      "6389.98",
+      "6459.29",
+      "7321.93",
+      "8303.47",
+      "8303.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一 見 37-82\n質問番号 地図番号 134\n項目名 ほくろ(大) 061\nA 普通法記 ページ\n[B 除いた共通語]\n[C 除いた特殊語] (2)\n地点番号　A 語形とその注記 [B・C除いた語形とその注] A注のない語形 {B・C 残した語形とその注}\n6389.59　シニアザ く年老いて、できるので、こういうイボ　イボ\n　といってもよい。わけだ>\n6389.98　シニアダ <シニアダは老人になってできるで言う。下グロの大けえの\n　豆粒位のものだ>\n6459.29　マメボクロ\n7321.93　[シロカイボ（菅）]\n8303.47　フクアザ -> <首のようにもの生えているもの>\nX8303.70　アザ 061同様にアザであるが、特に...\n（下部注記）001を060から区別すれば061をアマジシという。アマジシという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03782.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03782",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03782.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "8305.73",
+      "8306.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-83\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜＞（）[]は厳密にする。\n（右上の箱）質問番号　地図番号　134\n項目名　ほくろ(大)　061\nA　普通注記　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　(3)\n\n（表見出し）地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　(B・C　残した語形とその注)\n\n8305.73　〈希〉hoguro\n8306.42　?229（黒子の大き...の小子...の外目のせ かではた...ていう229という。）\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03783.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M134Q061/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03783",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03783.tif",
+    "source_ljc_id": "LJC-M134Q061",
+    "source_map_numbers": [
+      "134"
+    ],
+    "source_title": "ほくろ (黒子) ―大きいもの"
+  }
+]

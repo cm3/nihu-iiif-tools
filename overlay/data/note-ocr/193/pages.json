@@ -1,0 +1,1977 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.12",
+      "0779.03",
+      "0840.33",
+      "0861.48",
+      "0873.94",
+      "0894.61"
+    ],
+    "other_text": "◀ A・[B]・[C]ごとに別紙を使用する。\n◀ その中での情報は地点番号順に並べる。\n◀ 注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 61-46\n質問番号 地図番号\n247  193\n項目名 庭\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ ( / )\n表ヘッダ: 地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n0724.12  niwa  <10人に1人位 tsuboという人がある。>\n  - 建物に囲まれていても、いなくても\n0779.03  oniwa  <内、外の区別なし>\n0840.33  niwa  <内外を区別しない>\n0861.48  niwa  (内外についてはNR)\n0873.94  utsi niwa  <家にとりまかれたもの>\n0894.61  otsu m bo / tsu mboj a  (内・外区別なし)\n（本文は手書きのローマ字転写と日本語注記が混在する）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06146.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06146",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06146.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "0990.97",
+      "1744.60",
+      "1761.74",
+      "1762.10",
+      "1763.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<>()[]は厳密にする。\n日本言語地図資料用紙 注記一覧 61-47\n質問番号　地図番号\n247　193\n項目名　庭\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(2)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n0990.97　niwa〈前にあるもの〉\nutjiniwa〈座敷のすぐそばで建物に囲まれたもの〉\nmaeniwa 〉(これは疑問。ちょっとした花畑の)\nura niwa ようだ\n1744.60　ツボ〈昔は皆ツボといった〉 =ニワ\n1761.74　ツボマエ（花を植えた程度の小さい庭）\n1762.10　ツボ〈祖母が使った〉 =ニワ\n1763.60　=ニワ〈ツボという人もある〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06147.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06147",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06147.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "1770.18",
+      "1893.10",
+      "2608.90",
+      "2722.67",
+      "2743.86",
+      "2753.44",
+      "2754.11",
+      "2754.56",
+      "2755.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-48\n質問番号 247 地図番号 193 項目名 庭\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (3)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n1770.18　ツボ〈よく作った庭園〉\n1893.10　niwa ＜場所による区別はしない＞\n2608.90　tsubo ＜小さい庭だけ＞\n2722.67　＝ワ（大きなもの）\n2743.86　ツボマエ（小さな庭）\n2753.44　niwa（新？）＜場所は特にきまりがない＞\n2754.11　niwa ＜家の後＞\n2754.56　niwa ＜普通、家の後にある＞\n2755.76　niwa ＜家の中の土間もこう言うか、これは普通＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06148.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06148",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06148.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2761.44",
+      "2762.61",
+      "2763.22",
+      "2763.28",
+      "2765.02",
+      "2765.66",
+      "2765.71",
+      "2771.22",
+      "2771.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-49 質問番号 247 地図番号 193 項目名 庭 A 普通注記 [B 除いた共通語] [C 除いた特殊語] （ページ (4)） A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] tsibo 家の裏 tsibo <家の横、裏に多くある。> niwa <この部落にはない> niwa (ある場所不定) tsibomae <家の裏> tsibome <家の前> tsibomae <場所は不定> tsimbo <場所不定> tsimbo <場所一定せず>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06149.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06149",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06149.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "2772.05",
+      "2773.13",
+      "2781.91",
+      "2782.16",
+      "2783.06",
+      "2785.31",
+      "2791.80",
+      "2792.40",
+      "2795.66",
+      "3609.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-50\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n質問番号 247 地図番号 193\n項目名 庭\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (5)\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n2772.05 tsibo 〈家の後〉\n2773.13 tsibo mae 〈ある場所は特に限定されない〉\n2781.91 tsibo 〈外庭、家の裏〉\n2782.16 tsibo 〈家の後にある〉\n2783.06 〈古〉 tsibome niwa 〈家の前・後共にある〉\n2785.31 oniwa 〈この部落にはなし〉\n2791.80 tsibo 〈家の裏にある〉\n2792.40 tsibo 〈家の前に多い〉\n2795.66 tsibomae 〈家の後〉\n3609.17 tsibo 〈場所不定〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06150.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06150",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06150.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3649.58",
+      "3689.38",
+      "3701.49",
+      "3701.70",
+      "3702.89",
+      "3705.42",
+      "3710.91",
+      "3711.92",
+      "3711.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-51\n質問番号　地図番号\n247　193\n項目名　庭\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(6)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（［　］）は厳密にする。\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n3649.58  tsübo　場所一定せず\n3689.38  tsübo　一定した場所はない\n3701.49  tsübo　〈屋後が多い〉\n3701.70  tsübo　〈家の右側におく、座敷の前になる〉\n3702.89  tsübo　〈場所不定〉\n3705.42  niwa　〈場所一定せず〉\n3710.91  tsübo　多く前の方\n3711.92  tsübo　座敷の前\n3711.98  tsübo　多く座敷お…\n無声化すれば（tsübo）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06151.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06151",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06151.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "3713.75",
+      "3714.74",
+      "3715.59",
+      "3716.27",
+      "3716.58",
+      "3721.71",
+      "3722.90",
+      "3725.77",
+      "3730.39",
+      "3731.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-52\n質問番号 247 地図番号 193\n項目名 庭\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (7)\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n3713.75 tsuibo ザシキのあにある\n3714.74 niwa (家の外が多い)\n3715.59 niwa (家の内)\n3716.27 tsuibomae <家のあも後もある>\n3716.58 tsuibomae <場所を問わない>\n3721.71 tsuibo 内外不問\n3722.90 tsuibo 座敷の間のあ\n3725.77 ツボメャ (古)\n3730.39 tsuiboko ザシキのあの方\n3731.61 tsuibo 内外不問",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06152.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06152",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06152.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "3733.73",
+      "3733.88",
+      "3741.57",
+      "3742.82",
+      "3750.43",
+      "3752.47",
+      "3753.88",
+      "3757.32",
+      "3760.33",
+      "3761.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-53\n質問番号　地図番号\n247　193\n項目名　庭\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(8)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n\ntsuibo　外庭\nツボマエ〈古〉\ntsübo　内外不詳\ntsuibo　(座敷お)\ntsübo　(座敷お)／場所定まらず\ntsuibo　場所固定せず\nオニワ〈内庭〉\t=ニワ\nツボヤ〈座敷の前庭〉\tオニワ\ntsuibo　場所一定しない\ntsuibo me　いいことば? 品が落ちるという　内外不詳",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06153.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06153",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06153.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "3762.71",
+      "3771.97",
+      "3774.44",
+      "3776.83",
+      "3778.00",
+      "3781.86",
+      "3782.12",
+      "3782.38"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-54\n質問番号　247　地図番号　193\n項目名　庭\nページ　(9)\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\ntsübo　場所一定せず\ntsübo　場所一定せず。大部分は裏が横という\nツボメァ〈古〉\ntsübo〈古〉　(古)\nツボメァ〈古〉\ntsübo　場所一定せず。おのの　mae tsübo\n中のさ　nagatsübo　などという。\ntsübo　場所一定せず\ntsübo　内外にかかわらず",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06154.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06154",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06154.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "3782.98",
+      "3790.27",
+      "3794.55",
+      "4598.33",
+      "4637.20",
+      "4638.22",
+      "4647.69",
+      "4648.04"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-55\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n質問番号 247 地図番号 193\n項目名 庭\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (10)\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n3782.98 tsuibo 場所一定せず。多くはサジキのあ...\n3790.27 tsuibo 場所一定せず。\n3794.55 ローズ <古>\n4598.33 hedo (一セド)\n4637.20 oniwa 外庭であろう。内庭等は存在しないようである。\n4638.22 tsuibo 心はわずかに中舌化\n4647.69 oniwa 外庭\n4648.04 niwa no utsi (中庭ではない)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06155.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06155",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06155.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4648.59",
+      "4666.17",
+      "4666.42",
+      "4668.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-56\n質問番号 247  地図番号 193  項目名 庭\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (//)\n地点番号  A語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n4648.59  tsumbo  <外庭で屋敷の一角に石や土を積んで塚状にしたものだと言う。>\n「奥三面狩猟習俗調査報告書」にも同称の説明がある。\n4666.17  roidgi  外庭\n4666.42  roidgi  外庭も内庭も\n4668.27  tsumbojama (この部落には該当のものがない。)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06156.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06156",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06156.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4675.62",
+      "4676.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-57\n質問番号 247　地図番号 193　項目名　庭\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (12)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nniwa　お庭及び総称。\nお庭は niwa といい、中庭は utsi;ni:wa　家の後面は soto niwa\nといい、又総称を niwa という。\n中庭や家の後の庭は寺院にある。\n民家はすべてお側にあるという。\n\nniwa <明治大正時代のことばか？> は家の前、後、中庭何れとも決まってない。\nro:idagi (被調査者の自然の話の中に出て来た語。庭園である。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06157.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06157",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06157.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4685.10",
+      "4686.02",
+      "4686.52",
+      "4686.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-58\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n（枠）質問番号　247　地図番号　193　項目名　庭\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（13）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n4685.10　tsubodoko（内庭外庭の別はない）\n4686.02　opiwa　外庭で家の表や裏にある。表なら omote piwa。\n4686.52　[rod?]〈希〉（内庭などを言う称である）\n4686.96　tsuboroko（部落には該当するものがないらしい。小規模な庭を...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06158.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06158",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06158.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4687.01",
+      "4694.26",
+      "4695.33",
+      "4695.87",
+      "4696.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-59 質問番号 地図番号 247 193 項目名 庭 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (14) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 4687.01 tsuwbodoko <古、古くさい感じがするので使えない。老人は使う。近い部落（旧川内あたりか）の人が rondori というのをきいたことがある。> 4694.26 oniwa (外庭、家のまわり後など) 4695.33 niwa <在方では oniwa> 4695.87 opiwa (部落にはこうした所が ないらしい。) 4696.82 tsuwbodoko 家の南側、座敷の外に作る。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06159.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06159",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06159.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "4701.73",
+      "4702.10",
+      "4714.68",
+      "4744.10",
+      "4760.54",
+      "4760.98",
+      "4762.99",
+      "4791.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-60\n質問番号 247 地図番号 193 項目名 庭 ページ (15)\nA 普通注記 [B 除いた共通語] [C 除いた特殊語]\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞〈〉（）[]は厳密にする。\n表見出し: 地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n4701.73  tsiübo  〈一般〉    nlewa\n4702.10  tsiübo  場所は一定しない。\n4714.68  ro:dʒt  〈古〉    niwa\n4744.10  niwa  [ro:idʒt?]\n4760.54  tsiübo  〈普〉    niwa\n4760.98  tsiübo  近の中古化は軽微\n4762.99  ro:dzi  （大きい木が植えてあるならば enɡuneと言う）\n4791.65  niwa  〈建物に囲まれているのが内庭。建物のまわりにあるのが外庭〉\n(手書き注記・ローマ字表記や発音記号など含む)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06160.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06160",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06160.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "4792.80",
+      "5558.09",
+      "5564.79",
+      "5568.92",
+      "5574.68",
+      "5574.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙　注記一覧　61-61\n質問番号　地図番号　247　193\n項目名　庭\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(16)\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n4792.80  tsuibo jama 〈普〉\n5558.09  roji 〈希〉　roji く使うこともある\n5564.79  oniwa  niwar 言わぬ. n'waは店(じせ)\n5568.92  〈共〉=7 〈この辺にはない。〉\n5574.68  niwa　中庭のときは nakaniwaki いえのうしろにあるときは sedo という。\n5574.84  niwa　内外共に。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06161.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06161",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06161.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5584.37",
+      "5587.74",
+      "5594.02",
+      "5594.37",
+      "5595.20",
+      "5595.89",
+      "5602.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-62\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号 247　地図番号 193\n項目名　庭\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (17)\n\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5584.37    niwa　内、外トイウレにても\n5587.74    ツボノウチ（主として高堀をした庭園をいう。）オニワ\n5594.02    sedo　外庭のこと。ちなみにこの地実には内庭なし\n5594.37    sendzai　外庭\n5595.20    sendzai (水のある時) いずれも外庭。水といっているのは池、泉水\n5595.89    (休希?)ニワ（この辺りでは庭園がない）\n5602.99    oniwa（総称？）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06162.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06162",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06162.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5604.52",
+      "5605.70",
+      "5606.83"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-63\n質問番号　地図番号　247　193\n項目名　庭\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (18)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）［　］は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nokuniwa （家の裏の方にある庭）\nnakaniwa （家に囲まれた庭。奥庭。中\n庭ともいい。被調査者の家に\n実在する。）\n5604.52 tsubodoko （外庭、家の後など。）\n5605.70 tsubo\n屋外の南側、座敷の外に座敷の外に\ntsubodoko ｝ 作る。神杯の休みどころと\n言って、広狭によりず作るという。\n5606.83 tsuboniwa tsubodoko oniwa 屋外の作業をする処にある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06163.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06163",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06163.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5609.26",
+      "5611.39",
+      "5613.33",
+      "5613.80",
+      "5614.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-64\n質問番号 247    地図番号 193\n項目名 庭\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(19)\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n5609.26  tsuikejama 〈新?〉 e は非常に狭い e.   tsuubon iwa\n5611.39  niwa (主として家の裏にある)\n       nakaniwa (中庭)\n5613.33  maeniwa (おにあるもの) (被調査者の家にこのものがあった。)\n5613.80  maeniwa 〈家のおにある庭〉\n5614.24  tsubojama (家の裏に作ることが多い)\n       niwa (家の方にあるものを言うことが多い)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06164.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06164",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06164.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5614.62",
+      "5614.68",
+      "5615.20",
+      "5615.65",
+      "5615.74",
+      "5615.78",
+      "5619.67",
+      "5623.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-65\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n質問番号 247 地図番号 193\n項目名 庭\nA 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ (20)\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n5614.62 oniwa (はじめ niwa と答え、のち訂正した)\n5614.68 tsuboniwa (大抵南側にある。)\n5615.20 tsubo (最も多いらしい)\n5615.65 oniwa (座敷の外に作る・外庭)\n5615.74 [tsuboniwa]\n5615.78 tsubojama 家のおか南か東にある。\n5619.67 ツボニワ（内庭・外庭を含めていう）\n5623.42 niwa ＜どこの位置のものでも niwa というだ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06165.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06165",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06165.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5624.05",
+      "5625.91",
+      "5626.99",
+      "5628.66",
+      "5628.70",
+      "5631.16"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-66\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n質問番号 247　地図番号 193\n項目名　庭\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2/)\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5624.05　tsuboniwa (新しいわけではない。)  niwa 〈昔から用いている。〉  （多く南側）\n5625.91　tsuboniwa 〈井〉\n5626.99　tsubodoko 〈主に家の後に造る。〉\n5628.66　＝ワ 〈おにある場合はマエニ＝ワ、後にある時はウラニ＝ワという。〉\n5628.70　ツボニワ 〈内庭、外庭すべてにいう〉\n5631.16　tsuboniwa 〈外庭〉  nakaniwa 〈内庭〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06166.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06166",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06166.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5631.26",
+      "5631.75",
+      "5633.96",
+      "5638.53",
+      "5638.54",
+      "5639.13",
+      "5639.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-67\n質問番号 247 地図番号 193\n項目名　庭\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (22)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n5631.26 tsuboniwa ＜中でも、外でも＞\n5631.75 tsuboniwa ＜どこにあっても＞\n5633.96 tsuboja ＜お庭のすみにあるもの＞\n(nakaniwa) ＜ウチ＝ワのこと＞\nrozi ＜ウチ＝ワのこと＞\n5638.53 =ワ ＜内庭、外庭を含めていう＞\n5638.54 =ワ ＜内庭・外庭の総称＞\n5639.13 ツボニワ ＜狭い場合＞\n5639.47 ナカニワ ＜多く外庭をさす＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06167.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06167",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06167.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5641.99",
+      "5642.67",
+      "5646.39",
+      "5647.27",
+      "5648.53",
+      "5651.45",
+      "5651.95",
+      "5652.37",
+      "5652.81"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-68\n質問番号 地図番号\n247 193\n項目名 庭\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (23)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号 A 語形とその注記 [B・C 除いた語形とその注]\n5641.99 ruzi <昔> tsuboniwa.\n5642.67 ro:zi <内庭も外庭も>\n5646.39 ツボヤマ <古>\n5647.27 ニワ <ウチモ、ソトモ>\n5648.53 ウラニワ <どこにあってもいう>\n5651.45 tsuboniwa <内庭 外庭とも>\n5651.95 niwa <内庭も外庭も>\n5652.37 rodzi <表のも裏のもともに>\n5652.81 tsuboniwa <どこにあっても>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06168.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06168",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06168.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5653.65",
+      "5654.98",
+      "5655.41",
+      "5655.97",
+      "5657.06",
+      "5658.01",
+      "5663.64",
+      "5663.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-69\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n質問番号 247 地図番号 193\n項目名 庭\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(24)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n5653.65 rozi 〈表のも裏のも〉\n5654.98 ツボニワ〈ウチニワ〉\n5655.41 ツボヤマ〈ウチニワ〉\n5655.97 ニワ 〈くドレモウチ、ツイテガッコオ〉\n5657.06 ニワ 〈ツボギヤマ／アルトコロ〉\n5658.01 ツボヤマ〈木のある時には多く言う。〉 ツボニワ\n5663.64 rozi; 〈内庭 外庭すべて〉\n5663.68 niwa 〈表でも裏でも〉 crozji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06169.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06169",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06169.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5665.12",
+      "5665.89",
+      "5666.85",
+      "5667.81",
+      "5668.88",
+      "5669.25",
+      "5671.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-70\n質問番号 地図番号\n項目名 庭\n247 193\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (25)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n表の見出し: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nツキニワ <ツキヤマガアレバ>\nヒラニワ <デカイイ シガアレバ>\nツボヤマ <タト>\nツボニワ <タト>\nツボニワ <ウチニワ>\nツボニワ <ツボニワ/ハハイワ タタミ>\n2.3枚 クライ / ヒロサ\nニワ <内庭、外庭を含めていう。>\nhakoniwa <ある場所に関係なし>\ntsuboniwa <表でも裏でも> niwa",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06170.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06170",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06170.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5671.68",
+      "5671.94",
+      "5673.78",
+      "5674.11",
+      "5674.54",
+      "5674.59",
+      "5675.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-71\n質問番号 地図番号 247 193\n項目名 庭\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(26) ページ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n5671.68    [tsūbo doko <古>]    tsübo piwa\n5671.94    tsuboniwa <裏の狭いところにあるもの>    niwa\n            maeniwa <表にある＝ワ>\n5673.78    rodzi <内庭も 外庭も>\n            tsuboja <花だけを植えてある庭>\n5674.11    tsuboja <外庭>\n            rodzi <外庭>\n5674.54    tsuboja <古>    rozi\n5674.59    tsuboja <外>\n5675.87    オクニワ き入れのしてある庭\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06171.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06171",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06171.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5676.84",
+      "5677.28",
+      "5678.33",
+      "5679.41",
+      "5681.47",
+      "5682.34",
+      "5682.92"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <> ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 61-72\n質問番号 247 地図番号 193\n項目名 庭\nA 普通注記 ページ (27)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5676.84　ニワ〈普、但し一般的な名称〉　ツキニワ\n5677.28　ニワ〈ウチニワ、ソトニワの語あり〉\n5678.33　ツボニワ = ニワの中で特にきれいにした所をいう。\n5679.41　nija〈ある場所にかかわらない〉\n5681.47　tsuboniwa〈外でも内でも〉\n5682.34　tsuboniwa〈家のどこにあっても〉\n5682.92　tsuboniwa〈表にあるもの〉 niwa",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06172.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06172",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06172.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5684.11",
+      "5684.26",
+      "5687.60",
+      "5688.01",
+      "5688.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-73\n質問番号 247    地図番号 193\n項目名 庭\n(A) 普通注記  [B 除いた共通語] [C 除いた特殊語] ページ (28)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5684.11    rozi くまわりを囲ってある場合 >    niwa\n\n5684.26    niwatsubo  (外庭)    tsuboniwa く \"\n\n5687.60    ウエキバ <木の多い庭、家によっては庭の\n中で特に植木のある所を区別\nしていうらしい。>    =ニワ\n\n5688.01    ニワツクリ (被調査者のまちがいだと思う) =ニワ\n\n5688.37    ヤシキウチ <上>    =ニワ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06173.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06173",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06173.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5688.86",
+      "5689.34",
+      "5689.43",
+      "5690.12",
+      "5692.53",
+      "5693.13"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-74\nA･[B]･[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n（上部欄）質問番号 247　地図番号 193　項目名 庭　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (29)\n表見出し：地点番号　A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n\n5688.86　ニワ　〈普〉\nウチニワ　く狭りみたことはない。せいたくな\nソトニワ　感じの庭、つまり石でイセ切ったり\nした区域の手入れのしてある庭〉\n\n5689.34　naka niwa　中庭に対する外庭・内庭はない。\n\n5689.43　tsuboniwa (niwa のさきにある)\n\n5690.12　niwa 〈どこにあっても〉　tsuboniwa\n\n5692.53　tsuboniwa 〈表でも裏でも〉\n\n5693.13　オニワ　〈外庭だが、多くは囲われている〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06174.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06174",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06174.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5694.31",
+      "5695.61",
+      "5697.53",
+      "5698.69",
+      "5701.73",
+      "5702.07",
+      "5720.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-75\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n（表内右上）質問番号　地図番号　247　193　A 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (30)　項目名　庭\n表見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nツボニワ〈希〉\n5694.31　ウチニワ〈古〉　ツボニワ\n5695.61　オツボヤマ〈外庭である〉\n5697.53　tsu buukija 〈子供の頃はこうも言った。〉　piwa\n5698.69　piwa〈内庭、外庭ともに〉\n5701.73　niwa〈内庭は建物にかこまれてある庭。外庭は建物の外にある庭。〉\n5702.07　niwa（niwaとはいわない。老人は tsubojama を使う。）\n5720.98　ニワ〈内庭・坪庭等の総称。〉　坪庭",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06175.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06175",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06175.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5731.29",
+      "5732.17",
+      "5732.73",
+      "5732.78",
+      "5740.43",
+      "5742.32",
+      "5750.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-76 質問番号 地図番号 247 193 項目名 庭 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (31) ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の< >( )[ ]は厳密にする。 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5731.29 niwa <ある場所にかかわらず> 5732.17 niwa <上座敷のあに主にある> 5732.73 tsuiboniwa <場所は内外を問わない> 5732.78 utsiniwa <内庭外庭の区別なし> 5740.43 ニワ (庭園の総称、場所によってはナカニワ ウラニワという。) 5742.32 niwa <造園されたものならどこにあっても> 5750.30 ニワ <内庭、外庭を言れていう。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06176.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06176",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06176.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5751.24",
+      "5751.60",
+      "5751.78",
+      "5761.27",
+      "5761.77",
+      "5762.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-77\n質問番号 247  地図番号 193\n項目名 庭\nA 普通注記  [B 除いた共通語] [C 除いた特殊語] ページ (32)\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n5751.24  tsuboniwa  <場所には関係なし>\n5751.60  tsuukiniwa  <内庭外庭の区別なし>\n5751.78  Oniwa  <ある場所によらない>\n5761.27  utsiniwa  <建物にかこまれた内または外>\n5761.77  utsiniwa  <場所に関係なし>\n5762.41  niwa  <仕事場などもいう>\n\nなどにかかわらず特につくられたものをいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06177.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06177",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06177.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5770.57",
+      "5770.60",
+      "5771.36",
+      "5772.60",
+      "5772.84",
+      "5780.62",
+      "5782.25"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-78\n質問番号　地図番号\n247　193\n項目名　庭\n(A) 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (33)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5770.57  niwa 〈ある場所にはらない〉\n5770.60  nakaniwa 〈どこにあっても特につくったところをこういう〉\n5771.36  niwa 〈内外の別なし〉\n5772.60  ut(s)i niwa 〈内庭と限らずつくってあるもの〉\n5772.84  utsi niwa 〈奥にあるもの〉\n5780.62  niwa 〈特に内外の別はない〉\n5782.25  niwa 〈内庭を外庭を〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06178.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06178",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06178.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "5782.32",
+      "5790.03",
+      "5790.39",
+      "5790.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-79\n質問番号　地図番号\n247　193\n項目名　庭\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(34)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n5782.32　uti;niwa　＜建物に囲まれる必要はない。　niwa\n（特別にこしらえてあるもの）\n5790.03　nakaniwa　中庭に対する外庭、内庭はない。\n5790.39　nakaniwa　中庭に対する外庭、内庭はない。\n5790.79　nakaniwa（＝ニワは家のあの空き地を指…）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06179.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06179",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06179.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "5792.18",
+      "5792.62",
+      "6267.68",
+      "6277.62",
+      "6348.63"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-80\n質問番号 地図番号\n247 193\n項目名 庭\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (35)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5792.18 niwa <土間のことは nja:baという。>\n5792.62 mutzipiwa 家の外のニワの一角の場合は …ウエコミなどと言う。その庭園のために屋敷うちに特に土地の作ったものを mutzipiwa と言う。\n6267.68 niwa [我々のような貧乏な家にはない。]\n6277.62 kwadan <池を作ったりしたところを kwadanという>\n6348.63 koniwa 屋敷の中の庭",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06180.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06180",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06180.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6349.09",
+      "6354.46",
+      "6365.91",
+      "6366.16",
+      "6366.67",
+      "6373.84",
+      "6375.08",
+      "6375.40"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-81\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n質問番号 247　地図番号 193　項目名 庭　ページ (36)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6349.09 koniwa (内庭)\n6354.46 nakaniwa <家の中にある場合>　koniwa\n6365.91 oniwa <内庭でも外庭でも>\n6366.16 koniwa <このあたりは家の裏側にある>\n6366.67 koniwa <ある場所で区別しない>\n6373.84 niwa <内も外も同じ>\n6375.08 koniwa <お側にあるのをmaini koniwaがあると言い、裏側にあるのをsedoni あると言う。>\n6375.40 oniwa <内庭・外庭の区別はない。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06181.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06181",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06181.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6376.33",
+      "6376.68",
+      "6385.10",
+      "6385.28",
+      "6386.66",
+      "6387.62",
+      "6388.49",
+      "6393.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >( )[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 61-82 質問番号 地図番号 247 193 項目名 庭 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (37) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6376.33 koniwa (外庭) 6376.68 hananiwa <内庭も外庭もある。> 6385.10 oniwa <内庭でぜ外庭でもoniwa だが 普通 家のあいにある。> 6385.28 oniwa <内庭を外庭も> 6386.66 niwaki <ウチ=ワ, ソト=ニワ, ウラニワがある。> 6387.62 niwa <ut; niwaもsotoniwaもある> koniwa <小さい庭園> 6388.49 niwa (内庭) 6393.41 hananiwa <たいてい家のあいにある。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06182.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06182",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06182.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6395.61",
+      "6395.97",
+      "6396.08",
+      "6396.83",
+      "6397.24",
+      "6398.78",
+      "6401.89",
+      "6405.95"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 61-83\n質問番号 247    地図番号 193\n項目名 庭\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (38)\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\nopiwa (hananiwa)\nhananiwa <内でも外でも同じ。たいてい…>\nこちらは外にある。\nniwakiba <家敷内にある。>\nniwaki <ここらは家の裏にある。>\nhananiwa (家の外にある庭) niwakiba\nhananiwa <どこの場所にあっても>\nナマニワ (中庭) コニワ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06183.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06183",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06183.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6405.95",
+      "6406.77",
+      "6410.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-84\n質問番号 247　地図番号 193\n項目名 庭\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (39)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく〈　〉(　)［　］は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n6405.95　niwa (この地方は個人の庭園は昔はなかった。部落の中に一軒。著名な豪農があり、年4,000億の収入があり、ここだけ庭園を持ち、今は名所の一つになっている。)\n6406.77　niwa〈多〉\nkadzamba (門を入った所にある庭)\n6410.45　ウシロニワ〈多〉。おは街通りで、庭があれば後である。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06184.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06184",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06184.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6415.78",
+      "6417.72"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-85\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><()[] は厳密にする。\n\n質問番号 247　地図番号 193\n項目名　庭\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (40)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6415.78  tsukijama  〈大きい寺とか、資産家の家に\nロジ\nセンザイ\nは外庭があり、これをロジと\n言い、内庭をツキヤマとかセンサイ\nと言う。但しこの部落にはそうし\nた家は無い。〉\n\n6417.72  niwa\ntsukijama お後の話からニワも言う\n（以下手書き本文続くが判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06185.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06185",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06185.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6417.85",
+      "6419.69",
+      "6421.79",
+      "6422.77",
+      "6423.23",
+      "6426.04"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-86\n質問番号 247　地図番号 193\n項目名　庭\nA 普通注記　ページ (41)\n[B 除いた共通語]　[C 除いた特殊語]\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は略記にする。\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n（手書き注記）すぐ庭(園)があるのが普通。\n（図）住宅　ここがカド　垣　玄関\n\n6417.85 tsukijama (内庭)\n6419.69 センセァア <希>\n6421.79 koniwa (内庭)\n6422.77 コニワ <特別の家のみ にある>\n6423.23 koniwa <多> 内庭\n6426.04 niwa　木などを植えた内庭をいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06186.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06186",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06186.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6427.27",
+      "6427.40",
+      "6427.93",
+      "6428.13",
+      "6430.26",
+      "6432.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-87\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n質問番号 247　地図番号 193　項目名　庭\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (42)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6427.27 tsukijama <タ>(土を盛ってなくてもよい。)\n6427.40 tsukijama (外庭に作ったもの。土を盛って\nなくてもよい。木などを植えたところ。)\n6427.93 niwa (屋敷の中)\n6428.13 NR <センゼアとか＝ワキとかよそでは\n言うようだが、横行(部落)にはないので言いようがない。>\n6430.26 koniwa (内庭)\n6432.74 =ワ (外庭)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06187.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06187",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06187.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6435.03",
+      "6437.23",
+      "6439.17",
+      "6440.25",
+      "6440.81",
+      "6441.19",
+      "6446.05",
+      "6451.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-88\n質問番号　地図番号　247　193　項目名　庭\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (43)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〈〉（）[ ]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n＝ニワ（このあたりには余りない。ニワと言えば土間のことと思うのが普通。）\n＝ワ〈普〉　　　オワ＝ワ\nsendai〈昔〉\nナカニワ〈中庭〉　コニワ\nkoniwa　内庭\nカザンド（古）　ツキヤマ\nソトニワ〈普〉　テエン\nロジ（内庭）　＝ワ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06188.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06188",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06188.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6461.27",
+      "6465.82",
+      "6466.36",
+      "6467.73",
+      "6469.19",
+      "6476.13",
+      "6476.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-89\n質問番号　地図番号　247　193\n項目名　庭\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(44)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A 注のない語形　[B・C　残した語形とその注]\n\n6461.27　ツキヤマ（内庭にある。）\n6465.82　コニワ〈普〉\n6466.36　コニワ〈普〉\n6467.73　[sendzai] tsükijama〈上〉\n6469.19　センザイ〈新〉\n6476.13　コニワ〈家のおいに外庭としてある。家の後に… は作らない。〉\n6476.17　ツキヤマ〈広くて山や池などを作りごんである＝ニワ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06189.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06189",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06189.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6476.92",
+      "6477.02",
+      "6482.04",
+      "6484.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）（　）[　]は厳密にする。 日本言語地図資料用紙　注記一覧　61-90 資問番号　247　地図番号　193　項目名　庭 A　普通注記 [B　除いた共通語] [C　除いた特殊語] ページ（45） 地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注] 6476.92　ツボノウチ　〈大きい屋敷の場合〉　＝ニワ 6477.02　ニワ　〈裏にあるものはウラニワ。センダイ　センダイは表、主家と離れとの間などにあるもの。〉 6482.04　ドジ　ドジの中にツキヤマをつく。ドジはいい家でないと作らない。 6484.43　センダイ　（ニワを作ってあるところがセンダイである。ニワは木を植え、山をしてあるそれらのものをいうらしい。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06190.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06190",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06190.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6485.30",
+      "6485.46",
+      "6486.93",
+      "6487.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-91\n質問番号　地図番号\n247　193\n項目名　庭\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ (46)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n6485.30　ニワという語はウエコミ〈...〉とかツキヤマ〈焚〉\n　　　　ヤマ〈焚〉にあたるらしい。Tok.\n6485.46　センダイ〈古〉　ツボノウチ〈古〉\n6486.93　ニワ〈裏にあるのをウラニワ〉　ツキヤマ\n6487.66　ツキヤマ〈山や池をつくりこんである時〉　コニワ\n\n（筆記の部分は判読しにくい箇所あり。上は概略の書きと読み取り）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06191.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06191",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06191.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6489.81",
+      "6494.08",
+      "6494.21",
+      "6503.73",
+      "6505.58"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-92\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n質問番号　247　地図番号　193　項目名　・庭\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（47）\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n6489.81　センダイ〈新〉〈この地にはない。〉（地形のためなるべし。）\n6494.08　＝ワ　〈ナカニワ・外ニワ・ウチニワの別がある〉　ツボウチ〈ウチニワのこと。家の座敷に面した庭で特に囲いの塀などを廻らしてあるもの。〉\n6494.21　＝ワ　〈ウラニワ、オモテニワなどと区別していう。〉\n6503.73　sendzai　外庭\n6505.58　（手書き注記、判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06192.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06192",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06192.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6505.60",
+      "6506.03",
+      "6506.86",
+      "6513.51",
+      "6516.10",
+      "6520.50",
+      "6523.06",
+      "6527.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-93\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () [ ] は厳密にする。\n質問番号　地図番号　247　193　項目名　庭\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (48)\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nendai <これはちょっとしたものについていう。>\nniwa <灯篭を立てたりして立派にする>\n=ワ <ソト=ワのこと>\nopiwa (土間 piwa) 区別\n庭園 opiwa\nniwasaki 内外双方とも\n(ツボ、ウチ)（被調査者 同意）\nセンダイ <お裁の意>\nSenzai <古>\nniwa <全部>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06193.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06193",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06193.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6533.89",
+      "6534.37",
+      "6535.90",
+      "6538.02",
+      "6539.78",
+      "6542.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-94\n質問番号　247　地図番号　193　項目名　庭\nA　普通注記　ページ（49）　[B　除いた共通語]　[C　除いた特殊語]\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n（表ヘッダ）　地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n6533.89　sendai（同行者の塚本恵里子氏に聞く）　と.d.z.rの交替のはげしい土地　だからとのこと。しかし、草津辺一般と云えるかどうかは疑問。\n6534.37　niwa　（いわゆるお裁のこと）\n6535.90　senzai　〈お寺などの立派な庭〉　niwa saki\n6538.02　niwa　〈全部〉\n6539.78　tsuboniwa　〈屋敷内で木をおいたり、花を植えたりとのえたところ〉\n6542.32　ニワサキ　〈余り多くない。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06194.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06194",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06194.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6542.58",
+      "6554.88",
+      "6557.14",
+      "6557.54",
+      "6557.77",
+      "6558.09",
+      "6558.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-95\n質問番号 247 地図番号 193 項目名 庭\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (50)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n6542.58   ニワサキ (古)            センザイ\n6554.88   tsubonoutsi (古)        niwasaki\n6557.14   tsuboniwa 〈屋敷内で建物のまわりにある\n          庭全体をさす。建物に囲まれ\n          た庭はこの辺ではあまりない〉\n6557.54   tsubonoutsi 〈内庭〉\n6557.77   tsubonouti 〈屋敷の中の庭全部〉\n6558.09   niwa 〈内も外も〉\n6558.37   tsuboniwa 〈家の建物のまわりにある庭。\n          建物の内側にあるいわゆる中庭〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06195.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06195",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06195.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6559.46",
+      "6559.67",
+      "6566.89",
+      "6567.79",
+      "6571.34",
+      "6572.04",
+      "6572.55",
+      "6583.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-96\n質問番号 247　地図番号 193\n項目名　庭\nA 普通注記　ページ (51)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地 点 番 号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n6559.46　niwa　はこのあたりでは見かけない。〈内でも外でも全部〉\n6559.67　niwa　〈屋敷内なら全部どこにあってもよい〉\n6566.89　tsubonoutsi（手書きローマ字）\n6567.79　tsubonoutsi　屋敷内の一角\n6571.34　senzai　〈多〉\n6572.04　niwasaki（いわゆるせんざいのこと）\n6572.55　sendai [sendzai]\n6583.19　niwaki　但し、「庭の木」ではなく、「庭」",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06196.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06196",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06196.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6583.41",
+      "6583.45",
+      "6584.90",
+      "6585.83",
+      "6586.32",
+      "6590.35",
+      "6595.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-97\n質問番号 地図番号 247 193 項目名 庭\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (52)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[　]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n6583.41  sendzai  <「ニワ」は「土間」の意。 「センザイ」とは「野菜を作る所。」　オニワとは言わね。>\n6583.45  sendai (z->d)\n6584.90  sendai  (舌の先が上にあがる？)\n6585.83  tsubo no uti; 古、現在80才位の人達しか使わない。\n6586.32  [tsubo no uti] niwaの小さいもの。  niwa\n6590.35  センダイ (センザイの訛り)\n6595.90  tsukijama (土寄りかけてなくても)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06197.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06197",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06197.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6600.53",
+      "6600.97",
+      "6602.62",
+      "6603.24",
+      "6604.02",
+      "6604.15",
+      "6604.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 61-98\n質問番号 地図番号 247 193\n項目名 庭\nA 普通注記 ページ\n[B 除いた共通語]\n[C 除いた特殊語] (53)\n地 点 番 号   A 語形とその注記 [B・C 除いた語形とその注]\n6600.53  tsubo niwa 〈どこにあっても〉\n6600.97  kadononiwa 〈外のニワの意〉   niwa\n6602.62  uti niwa 〈家の外にあるものでも〉\n6603.24  ツボニワ 〈内庭〉  オニワ\n6604.02  オニワ 〈家の背後にある庭はオクニワ、建物…〉\n6604.15  オニワ 〈家の建物の間にあるとナカニワ〉\n6604.98  =ニワ 〈土地が狭いためか内庭は全くない〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06198.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06198",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06198.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6606.89",
+      "6607.68",
+      "6608.69",
+      "6611.68",
+      "6614.04",
+      "6615.09",
+      "6617.99",
+      "6620.49",
+      "6620.53",
+      "6628.64"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-01\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n質問番号 247　地図番号 193\n項目名　庭\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (54)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n6606.89 tsukijama 〈せまいものは〈uekiba〉〉\n6607.68 tsukijama 〈内庭、外の方は仕事場〉\n6608.69 juekiba 〈古〉 (場所について質問渡れ) piwa\n6611.68 niwa 〈ニワのあるうちは少ない〉\n6614.04 ウエキバ 〈井〉\n6615.09 ツボヤ 〈内庭〉\n6617.99 niwa (141S、142S、143Sを参照)\n6620.49 niwa tsuboniwa 〈この土地には余りない、二軒位の〉\n6620.53 tsubo 〈古〉\n6628.64 soto 〈この辺は屋敷の中にこういう場所が余りない〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06201.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06201",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06201.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6630.58",
+      "6631.69",
+      "6634.33",
+      "6639.29",
+      "6640.29",
+      "6641.43",
+      "6649.55",
+      "6650.70",
+      "6650.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-02\n質問番号 247    地図番号 193\n項目名 庭\nA 普通注記    ページ (55)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )( )[ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]\n6630.58    tsuboniwa 〈家の建物のまわりにある庭全部〉\n6631.69    NR. そういうところはない。\n6634.33    tsubokima 古\n6639.29    NR (総務の回答はなかった。)\n6640.29    nakaniwa 〈家と家との間につくる〉\n6641.43    tsuboniwa 〈屋敷内の庭〉\n6649.55    tsukijama 〈山になっていなくてもいい〉 (handwritten unclear)\n6650.70    oniwa (垣根うちだけ)\n6650.94    tsubo no uchi  tsubo 植木の植えてある所。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06202.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06202",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06202.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "6651.64",
+      "6657.96",
+      "6661.02",
+      "6677.70",
+      "6702.21",
+      "7218.26",
+      "7237.67",
+      "7239.41",
+      "7246.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-03\n質問番号　地図番号\n247　193\n項目名　庭\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(56)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6651.64　niwa　希\n6657.96　niwa の一種かく<?>\n6661.02　niwa　〈上〉\n6677.70　iki　〈池の意。池がなくてもこういう。〉\n6702.21　utsipiwa〈?〉\n7218.26　kwadan　下手の便所に対して上手にある。\n7237.67　tsukijama\n7239.41　niwa〈庭〉　koniwa\n7246.45　tsikijama　音節は次のように切れる。 t[ik(10)]; ja; ma この外破は強い",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06203.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06203",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06203.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "7258.89",
+      "7266.09",
+      "7269.51",
+      "7304.26",
+      "7307.14",
+      "7307.48"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-04\n\n質問番号　地図番号\n247　193\n項目名　庭\n(A) 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(57)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］は厳密にする。\n\n表ヘッダ：\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n手書き記入欄：\n?oniwa    koniwa\ntsukijama <新>   niwa <新>\njoka niwa (いい庭)の意で仕立場から区別 ... niwa\nhananiwa <どこにあっても同じ>\noniwa ＜家の おにもせど(後)に＞ ...\nniwa ＜外庭も内庭も呼び名は同じだが こちらはニワのある家は少い。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06204.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06204",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06204.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "7313.68",
+      "7317.29",
+      "7318.04",
+      "7323.02",
+      "7326.41",
+      "7326.69",
+      "7338.48",
+      "7340.50",
+      "7345.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-03　質問番号　地図番号　247　193　項目名　庭　A　普通注記　[B]　除いた共通語　[C]　除いた特殊語　ページ　(58)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n地点番号　A語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C　残した語形とその注】\n7313.68　tubo (tsu でない。)\n7317.29　hananiwa ＜内、外区別なし＞\n7318.04　hananiwa ＜内・外とも＞\n7323.02　otsubo という人もある。（他）\n7326.41　tubo ＜普通のものだったらこれでいい。＞\n7326.69　kotsubo ＜小庭＞\n7338.48　tsuki-jama（くいわゆる築山がなくてもいう）\n7340.50　〈新〉 koniwa\n7345.43　hananiwa（アクセント不明）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06205.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06205",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06205.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "7345.47",
+      "7346.54",
+      "7347.93",
+      "7349.86",
+      "7349.91",
+      "7353.03",
+      "7355.48",
+      "7356.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-06\n質問番号 地図番号 247 193\n項目名 庭\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (59)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の<>()[]は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nkotsubo <コツボと言うのがふつう>    niwa\nkotsubo <古>    niwa\n? hanabata\nniwa <土地が狭いので、こういう場所をつくっている家はない。>\nnuwa <土地が狭いから、ほとんどの家にない。>\nniwa <土間とまざりやすい。ほとんどない。>\nkotsubo <新>    niwa\nhananiwa <体裁のいいことば。花はのってもいる。>    niwa",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06206.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06206",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06206.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "7356.98",
+      "7357.69",
+      "7359.78",
+      "7361.17",
+      "7361.82",
+      "7362.42",
+      "7363.59",
+      "7364.34"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　62-07\n質問番号　地図番号\n247　193\n項目名　庭\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (60)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nkotubo <上>    niwa\nNR <＝ワとは言わない。>\nNR <土地が狭いので、そういう場所がない>\n=ワ } <座敷のあ>\nkonjiwa <小庭の意>\n=ワ (内庭)\nhananiwa 外庭\nハナニワ (優勢)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06207.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06207",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06207.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "7372.03",
+      "7373.92",
+      "7375.30",
+      "7375.37",
+      "7376.62",
+      "7376.68"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 62-08\n質問番号　地図番号　247　193\n項目名　庭\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (61)\n地点番号　A 語形とその注記〔B・C 除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\n二ワ　(1) 土間 (2) ハナニワのいずれかを意味する。\n7372.03 = ニワ　外庭\n7373.92 = ニワ　〈座敷の庭〉\n7375.30 niwa　外庭\n7375.37 niwa　〈外庭〉\n7376.62 niwa（自信のない答えである。言い方がないのかもしれない。）\n7376.68 NR　〈近辺に該当するものがないし、見たことがないから分からん。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06208.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06208",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06208.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "7382.93",
+      "7383.98",
+      "7386.56",
+      "7390.26",
+      "7391.01",
+      "7392.33",
+      "7394.85",
+      "7403.21",
+      "7403.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-09\n質問番号 地図番号 247 193\n項目名 庭\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (62)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n地点番号    A 語形とその注記  [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7382.93    niwa  外庭\n7383.98    =ワ  外庭\n7386.56    niwa  内庭にも外庭にも言う。\n7390.26    ツキヤマ  (外庭である。)\n7391.01    =ワ  (外庭である。) (ハナ=ワとは言わぬ。)\n7392.33    =ワ  <ツキヤマ> 〈センスイなどのある座敷の内庭〉\n7394.85    N R  ツキヤマ、センスイなどとは個々の名のをいう\n7403.21    niwa  <内庭でも外庭でも同じにいう。>\n7403.86    希. niwa  (平地が少いから庭園を作っている...)\n(以下欄あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06209.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06209",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06209.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "7406.53",
+      "7408.50",
+      "7412.26",
+      "7412.71",
+      "7413.89",
+      "7416.34",
+      "7417.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-10\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n（右上の欄）質問番号 247　地図番号 193　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (63)\n項目名　庭\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n（本文手書き）家はない、わずかの余地に草花を植えたり、庭木を植えている程度であるとのことである。\n\n7406.53  niwa  一般に\n7408.50  NR   答なし\n7412.26  NR   庭に当たる意の語なし\n7412.71  niwa  居宅の前にあるのが多い。\n7413.89  niwa  <多><共>\n7416.34  tsukijama  <このあたりにはない。>\n7417.22  NR   答えなし\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06210.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06210",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06210.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "7418.07",
+      "7420.18",
+      "7423.12",
+      "7431.08"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-11\n質問番号 地図番号 247 193\n項目名 庭\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] ページ (64)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n7418.07 tsukijama niwa の答得られず\n7420.18 niwa 被調査者の家は街並の中である から内庭である。 （図）\n7423.12 teien 〈供〉\ntukijama\n\n7431.08 ?niwa 〈土地が狭いからそういう庭のある家がない〉由。 (被調査者が24.5才 の頃は元気だった80の祖母が tsubo kusa demo という語を使って...)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06211.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06211",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06211.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "7431.13",
+      "7432.95",
+      "7441.19",
+      "7523.27",
+      "7523.30"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-12\n質問番号　247　　地図番号　193\n項目名　庭\n(A) 普通注記　　ページ　(65)\n[B 除いた共通語]　[C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　　A語形とその注記　[B・C 除いた語形とその注]\nA注のない語形　[B・C 残した語形とその注]\n\n\"hikan kai\" とよく言ったのを思い出すと\n言っていた。\n\n7431.13  tsukijama (内庭・外庭の別をした造り方がない由)\n7432.95  niwa 〈?〉\n7441.19  teien 〈共〉\n7523.27  センザイ 〈規模が大きくて立派なものをいう。〉 ツボノウチ\n7523.30  NR 〈そんなとこ、ないさか言わん。〉\n\nびんぼうたれ　ばっかり　じゃさか。 (貧乏人)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06212.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06212",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06212.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "7533.12",
+      "7659.40",
+      "7659.51",
+      "7659.62",
+      "8248.18",
+      "8302.19",
+      "8302.91",
+      "8303.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-13\n質問番号 247    地図番号 193\n項目名 庭\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(66) ページ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n[=ワ]\nNR (被調査者宅にはない故の無答)\nNR (ない)\nNR <ない>\nniwa <外庭>\n<?> niwa\n<?> tsukijama <そういうものが当地にないので知らぬ。>\nNR (庭園という概念はない。その一つ一つを...)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06213.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06213",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06213.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "8303.84",
+      "8305.76",
+      "8322.43",
+      "8322.68",
+      "8324.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-14\n質問番号　地図番号\n247　193\n項目名　庭\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (67)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nniwaki, tsukijama, sensui などと\nいう。\n\n8303.84  <?> piwa <この辺にはそういう所がないので\nよく分らない。>\n\n8305.76  tsukijama <手入れをした庭全体をいう。\n屋敷内の家のぐるり、大体、座敷\nから見えるところ。>\n\n8322.43  tsugijama-niwa (築山庭の義)\n\n8322.68  niwa <外庭>\n\n8324.26  kwadan? tsukijama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06214.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06214",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06214.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "8332.84",
+      "8333.03",
+      "8335.11",
+      "8343.06",
+      "8351.07",
+      "8352.92",
+      "8360.39",
+      "8361.28"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　62-15\n質問番号　地図番号　247　193\n項目名　庭\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(68)　ページ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\nniwa　〈内・外〉\nNR　特に名なし\nkwadan　〈花がなくてもいう。〉\nniwa　新しいことば\nniwa　〈外〉\nkwadan\nniwa　〈外〉\ntsuzama　〈築山の意〉\nniwa　〈外〉\nniwa　〈外庭〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06215.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06215",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06215.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "8362.85",
+      "8363.51",
+      "8363.64",
+      "8372.87",
+      "8373.08",
+      "8373.43",
+      "8393.69",
+      "9303.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-16\n質問番号 地図番号 247 193\n項目名 庭\nA 普通注記 ページ (69)\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\nniwa <内, 外>\nniwa <内, 外 含める>\nniwa <希>\nniwa <内, 外>\nniwa <外>\nNR. (㋓ koient と言ったがあやしい。)\nこの辺塚にはそんな大きな\n一度園のあるような一家はないのか)\ntsukijama <外庭に作るが、実例少ない>\nniwazukuri <外庭だが、庭を作っているとこ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06216.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06216",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06216.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "9312.42",
+      "9313.55",
+      "9322.52",
+      "0228.96",
+      "0238.55",
+      "0246.48",
+      "0247.31",
+      "0248.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-17\n質問番号 247   地図番号 193\n項目名 庭\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (70)\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（［　］）は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nつきやま <希>\nniwa <外庭>\nniwa <外庭に作る>\nniwa <外庭>\nniwa <内・外とも>\nniwa <内,外>\nniwa <内,外>\nniwa <内,外>\nniwa (内,外)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06217.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06217",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06217.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "0248.00",
+      "0256.08",
+      "0256.76",
+      "0256.89",
+      "0275.36",
+      "1223.91",
+      "1231.72",
+      "1232.29"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-18\n質問番号 247    地図番号 193\nA 普通注記 (A)    ページ (7/)\n項目名 庭    [B 除いた共通語]    [C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ] は厳密にする。\n\n地点番号    A 語形とその注記［B・C除いた語形とその注］    A 注のない語形［B・C 残した語形とその注］\n\n0248.00  niwa (外、内)\n0256.08  niwa <内外とも>\n0256.76  niwa <内外>\n0256.89  niwa <内庭、外庭どれもいう。>\n0275.36  niwa <外、内>\n1223.91  niwa <郵便局に段をつくって草花を植えてある庭がある。それなどをいう。>\n1231.72  niwa <学校などにある外庭>\n1232.29  niwa <辺野などにはそのような庭はなく、首里那覇で見たことがある。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06218.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06218",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06218.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "1232.75",
+      "1241.05",
+      "1241.49",
+      "1241.96",
+      "1242.00",
+      "1242.22",
+      "1250.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-19\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）〔　〕は厳密にする。\n\n質問番号 247 地図番号 193\n項目名 庭\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (72)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n1232.75 niwa 〈学校や旧家などにある。外庭 でも内庭でもいう。〉\n1241.05 niwa 〈学校などにある。〉\n1241.49 niwa 〈学校や旅館にある。〉\n1241.96 niwa 〈…部落はなく、他部落に○○。内庭である。〉\n1242.00 niwa 〈学校などにある。〉\n1242.22 niwa 〈旧家などの内庭〉\n1250.59 niwa 〈内庭にも外庭にもいう。外庭は学校などにある。内庭は波平附近にはない。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06219.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06219",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06219.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "1251.98",
+      "1260.78",
+      "1261.32",
+      "1270.26",
+      "1270.29",
+      "2067.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-20 質問番号 247 地図番号 193 項目名 庭 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (73) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞( )[ ]は厳密にする。 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 首里那覇にある。 niwa ＜内庭＞ niwa ＜外庭にも内庭にもいう。＞ niwa ＜冬家には殆どなく、首里などの旧家にある。＞ niwa ＜学校にあって、一般民家にはない。＞ niwa ＜外庭にも内庭にもいうが、部落にはなく、首里那覇や学校にある。＞ niwa ＜家の東側に作ったが、最近は家のあにもつくる。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06220.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06220",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06220.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "2068.08",
+      "2072.20",
+      "2074.69",
+      "2076.25",
+      "2076.97",
+      "2076.98",
+      "2076.99",
+      "2085.69",
+      "2095.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-21\n質問番号　地図番号\n247　193\n項目名　庭\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (74)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく ><( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n2068.08  kudastk5i minaka 古\n2072.20  nibai 〈家の正面につくる〉\n2074.69  niwa 〈内庭〉\n2076.25  niwa 〈内庭〉\n2076.97  niwa 〈内庭〉\n2076.98  niwa 〈内庭〉\n2076.99  niwa 〈内庭〉\n2085.69  niwa 〈内庭〉\n2095.60  mina 〈内庭〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06221.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06221",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06221.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [
+      "4628.61",
+      "4666.17",
+      "4685.10",
+      "4686.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    62-22\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)(　)[]は厳密にする。\n\n質問番号 247   地図番号 193\n項目名　庭\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ ( / )\n\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n行:\nniwa <帯?>\ttsuibo\nniwa <共?>\tro:drgi　外庭\nniwa (新) (内庭外庭の別はない。)\ttsumbo doko (内庭外庭の別はない。)\n?niwa (共?)\t?tsu boroko (部落には該当するものがないらしい。小規模の庭をtsu borokoと言うと疑いながら説明した)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06222.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06222",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06222.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "4687.01",
+      "4694.26",
+      "4761.93",
+      "5548.24"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 62-23\n\n質問番号 247　地図番号 193　項目名 庭\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ (2)\n\n表見出し：地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\nniwa 〈新、希〉　tsumbodoko（古、この語は古くさい感じがするので使えない。老人は使う。近い部落（旧川内あたりか）の人が聞いたことがある。）\nte:ien（共）（外庭、家のおや、後など。）　oniwa（外庭・家）\nniwa 〈今は、これも使う〉　rodori／rodgi（筆記不明）\nniwa 〈新〉　rodgi（筆記不明）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06223.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06223",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06223.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "5598.53",
+      "5615.20",
+      "5615.28",
+      "5646.39",
+      "5732.73",
+      "6423.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-24 ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の〈〉（ ）[ ]は厳密にする。 質問番号 247 地図番号 193 項目名 庭 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (3) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5598.53 〈井〉＝ワ ツボノウチ 5615.20 niwa 〈希. niwa〉 (庭師がいるが、) tsubo tsubo ki (坪築師) という語を多く用いる。 tsuubo (最も多いらしい) 5615.28 niwa 〈希.共〉 tsuubo-jama 5646.39 ＝ワ 〈新〉 ツボヤマ 〈古〉 5732.73 niwa tsuu boniwa 〈場所は内外〉 を問わない。 6423.23 niwa 〈新〉 内庭 koniwa 〈内庭〉 ro d a ji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06224.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06224",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06224.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [
+      "6427.27",
+      "6436.33",
+      "6439.17",
+      "6449.84",
+      "6458.26",
+      "6489.01",
+      "6532.30",
+      "6541.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-25\n質問番号 247   地図番号 193   項目名 庭\nA 普通注記  (4)   B (除いた共通語)   C (除いた特殊語)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉〈()〉［］は厳密にする。\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n6427.27    niwa 〈少〉 〈話の中であるから、土間とは tsukijama 〈多〉（土を盛ってなくてもよい。）区別ができる。〉\n6436.33    niwa 〈新〉    tsükijama\n6439.17    niwa 〈今〉    sendai 〈昔〉\n6449.84    =ニワ〈共〉    センダイ\n6458.26    6458.26 オニワ〈上、希〉    ツボノウチ(?)\n6489.01    64 89.01 =ニワ〈供、希〉    ツキヤマ\n6532.30    6532.30 =ワ〈少〉\n6541.52    6541.52 =ワ〈新〉    センザイ\n\n（他、表の下段に続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06225.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06225",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06225.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [
+      "6542.27",
+      "6551.20",
+      "6613.97",
+      "6639.29",
+      "6677.70",
+      "7218.58",
+      "7326.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号　地図番号\n247　193\n項目名　庭\nA　普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\nページ　(5)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n6542.27　=ニワ〈少〉\t\tニワサキ\n6551.20　=ニワ〈新.共〉\t\tセンザイ\n6613.97\tpiwa〈新〉\t\ttsuboki ba\n6639.29\ttsukijama〈土盛りしてつくる〉\t\tNR（総称の回答はなかった）\n6677.70\tniwa〈最近のことば〉\t\tiki〈池の意、池がなくてもこういう〉\n7218.58\t? niwa\t\ttsukiniwa\n7326.41\tniwa〈上品〉\t\ttubo〈普通のものだったら、これでいい〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06226.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06226",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06226.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "7347.93",
+      "7349.91",
+      "7415.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 62-27\n質問番号　地図番号　247　193\n項目名　庭\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (6)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7347.93　niwa〈新〉　?hanabata\n7349.91　〈土〉niwa　nuwa〈土地が狭いから ほとんどの家にない〉\n7415.47　niwa〈共〉　tsukijama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06227.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M193Q247/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06227",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06227.tif",
+    "source_ljc_id": "LJC-M193Q247",
+    "source_map_numbers": [
+      "193"
+    ],
+    "source_title": "にわ (庭園)"
+  }
+]

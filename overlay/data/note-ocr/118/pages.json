@@ -1,0 +1,1308 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0894.61",
+      "0990.97",
+      "1731.89",
+      "1761.74",
+      "1762.10",
+      "1781.95",
+      "1791.33",
+      "1793.14",
+      "1942.03"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 31-35 質問番号 046 地図番号 118 項目名 つば A 普通注記 (B 除いた共通語) (C 除いた特殊語) (1) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] sitake〈下につくことば?〉 sitaki〈古.今は年寄も使わない.〉 tsu'ba?〈年寄は tsu'ba'ki〉 エンダリ ヨンダリ (使いやすい順に上から記した) ツバ ツバ〈ビロとはいわない〉 ベロ〈昔使った。今は希。〉 ツバ ヨダリ〈ツバとはいわない〉 ツバ（多）、ビロ（少） ビルタラスィ〈くる〉（但し分類の時 タラスは除く。） ヨダレ biro〈biro o tsukete haru〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03135.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03135",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03135.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2712.33",
+      "2731.97",
+      "2741.46",
+      "2750.43",
+      "2750.44",
+      "2782.16",
+      "2812.96",
+      "3699.25",
+      "3721.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-36\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n（右上ボックス）\n質問番号　地図番号\n046　118\n項目名　つば\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (2)\n\n表ヘッダ:\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n表本文（地点番号は省略）:\n古 ビロ\t\tツバ\nヨンダリ〈く多〉\t\tビル\nビロくツバ　聞いた事がある〉\nヨンダリ〈希〉\t\tビロ\nツバてく　ビロ〈ヨングレは音聞いたことがある〉\nbirru（?）\nbero〈ベロ つける〉\nbero〈切手等につけるもの。名は sita〉\ntsubaki〈人にひっかける場合のもの〉\n\n下部メモ:\njödare.... ȧbμ は使わない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03136.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03136",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03136.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3727.21",
+      "3750.43",
+      "3752.53",
+      "3753.88",
+      "3781.49",
+      "3786.44",
+      "3791.02",
+      "3796.48",
+      "4609.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-37\n質問番号 041 地図番号 118\n項目名 つば\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n地点番号  A 語形とその注記（B・C除いた語形とその注）  A 注のない語形 [B・C 残した語形とその注]\n3727.21  ユダリコ <古>   ベロ\n3750.43  jödare （これは biro といわないよし）\n3752.53  [bero] <古>   jo~dare\n3753.88  ベロ <グラダラとたらすとき>   タンパ\n3781.49  bera（045と同じ）\n3786.44  スタンペ（稀）   タンペ，スッタギ\n3791.02  bero（Ⓜ sitage , beroは新）\n3796.48  ネッペ（古）   スタギ\n4609.54  tsibage [tsibagl]（実際上 今日では tsūbage ということが多いらしい）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03137.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03137",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03137.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4638.22",
+      "4639.10",
+      "4643.47",
+      "4648.42",
+      "4653.02",
+      "4653.47",
+      "4653.84",
+      "4657.64",
+      "4657.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-38\n質問番号    地図番号\n046    118\n項目名    つば\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4)\n\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n(表ヘッダ)\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\ntsubaké (éは狭い e)\ntsüwaki <古>\ntsubaki (日常語)\ntsuba (刺激文(切手云々)に対して)\nsiagi - 古いことばで、これを多く用いる。\ntsu'baké (eは狭い e)\ntsubaki <古ー現>\ntsuba <多>\ntaN --- tsubaki と云わない。\ntaN <古>\n\n右欄例: tsuuba / tsum'baki / tsubaki / sutagi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03138.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03138",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03138.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4659.85",
+      "4665.87",
+      "4669.55",
+      "4677.65",
+      "4678.77",
+      "4686.52",
+      "4687.37",
+      "4688.45",
+      "4694.26"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく〈〉（）は厳密にする。 日本語言語地図資料用紙 注記一覧 31-39 質問番号 046 地図番号 118 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (5) 項目名 つば 地点番号欄（省略） A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C残した語形とその注） tsübagl <上>   süttagl  tappe tsubaki <古〜現>   süttagl <一般>   tappe sittagi (sittagi の gi はやゝ bj の感じがある。)   tsumbaki sittagi（「昔などどういましたか」の内に対する反応。） sittaki（やゝ改まった発音） tsubaki（はじめ tsuba といった。） sittaki（古くから用い、現在多く用いる。） suttaki（聞き直した時、ゆっくり答えた形。） suttake tsubaki（希）（老人が使った。） tsuba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03139.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03139",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03139.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4695.33",
+      "4706.84",
+      "4712.16",
+      "4714.22",
+      "4714.68",
+      "4715.98",
+      "4725.01"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<　><　>[]は厳密にする。\n日本言語地図資料用紙 注記一覧 31-40\n質問番号 地図番号 046 118\n項目名 つば\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (6)\nA 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\ntsuba <教育??。今普通に用いる語>\ntsubaki <希>\nneppe? <吐き出してもneppeと言う。>\nsitaki <古>\n[neppe] <稀>\n[tampe] (孫のことばにも同意したもの。)\nneppe <仕事をするときなど手にツバをつけるが、これを tereppe という。ただし外に吐き出すツバは sitagi といって区別する。>\nスタンベ <外部に吐き出したとき。>\nスタギ <口中にあるとき。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03140.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03140",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03140.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4725.92",
+      "4726.80",
+      "4732.86",
+      "4733.91",
+      "4734.20",
+      "4742.43",
+      "4743.34",
+      "4745.27",
+      "4746.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　31-41\n質問番号　地図番号\n046　118\n項目名　つば\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（7）\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n4725.92\ttampe（同じものでも吐き出す場合は、sitagiと言う）\n4726.80\tneppe　<tampeというのは、液のこと>\n4732.86\ttampe <古>\n4733.91\tsitatki / tampe　両方ともなめるときに使う。\n4734.20\tki-taki ＜なめてついた場合のつば＞\n\t[tampe] ＜ペッとひっかける場合のつば＞\n4742.43\tsitatki\ntampe（やすからの）　（両方とも道ばたに吐いたツバについでも使う。）\n4743.34\tタンペー古\tツバギイ、ツバ\n4745.27\tsitage:　なめるときではなく吐き出した場合の\ntampe　つばをいう。\tneppe\n4746.20\ttsutiba <夭>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03141.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03141",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03141.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4752.11",
+      "4752.27",
+      "4753.52",
+      "4753.76",
+      "4760.64",
+      "4760.98",
+      "4761.07",
+      "4761.57",
+      "4761.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< [] は厳密にする。\n\n日本言語地図資料用紙　注記一覧　31-42\n資料番号 046　地図番号 118\n項目名　つば\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (8)\n\n地点番号　A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n\n4752.11  sitaki <切方などにつける場合>  tampe <べっと吐き出すつば>\n4752.27  sitagi <なめたりするときにつくもの>  tampe <主に吐き出すもの>\n4753.52  tampe <ただし、主に吐き出しましたりしたものをこのことばから連想する。>\n4753.76  sitagi <古>  tsum ba\n4760.64  tampe (痰はタンである。)\n4760.98  sittake (ieは狭い。)\n4761.07  tampe <新>  sitagi\n4761.57  tampe <古>  tsūbaki\n4761.93  sitaki <多>  tsūbaki",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03142.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03142",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03142.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4763.11",
+      "4763.45",
+      "4773.27",
+      "4784.41",
+      "4790.30",
+      "4791.39",
+      "4792.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記のく〈〉( )[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　31-43\n質問番号　地図番号\n046　118\n項目名　つば\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(9)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n4763.11　tampe --- おとなが使う。 sitaci --- 幼児が使う。 tsiba［新］\n4763.45　tãmpe〈希〉　　sitagi\n4773.27　sitagi〈古〉　　tsuba\n4784.41　tsuwa（エ？）　（tsuwa はいくらか丁寧なかいなことばのように考えられる。原町寄りの北原を本のように考える例もあり、使い分けがあるらしい。tsuwa は音声形だろうとのこと。それが回答された形跡がある。）　sitagi\n4790.30　sitaki〈普通〉　　tsūbaki\n4791.39　tsüwa〈普通〉　　sitaki\n4792.43　sitagi - tsüwa というのが本当かもしれない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03143.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03143",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03143.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5529.77",
+      "5538.49",
+      "5549.32",
+      "5579.42",
+      "5586.70",
+      "5591.91",
+      "5609.26",
+      "5611.74",
+      "5611.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 31-44 資料番号 046 地図番号 118 項目名 つば A 普通注記 (B 除いた共通語) (C 除いた特殊語) (10) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5529.77 tsuwaki (w=破裂の少ない b) 5538.49 tsubaki (古 = b・w の合音) 5549.32 tsubake (ツワケに近い) 5579.42 tsuba <普通>, tsubaki <稀> 5586.70 tsūba 若い者のみ使用, tsubaki (bは祖音に wに近し) 5591.91 ツワ (古) 今はほとんどきかない。 ツバ 5609.26 sitəʒi (ネコのはやく寄る), tsūba'ki <ことばだ> 5611.74 ツバキ (古) ツバ 5611.39 tsubaki (古) <子供の時使ったが今は使わぬ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03144.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03144",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03144.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5612.22",
+      "5613.33",
+      "5618.43",
+      "5623.27",
+      "5628.23",
+      "5628.66",
+      "5629.17",
+      "5629.23",
+      "5639.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〈〉（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 31-45\n質問番号 地図番号 046 118\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (11)\n項目名 つば\n\n地点番号　A　語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C 残した語形とその注〕\n\ntsubagi (gi音, kiとgiの中間的音だがgiに近い。k音であろうか。)\n\ntsubaki (「tsuba」の答えの後で、「音からそうえいましたか」と質問した時の答え。)\n\ntsubagi〈新〉\n　　kitagi\n\ntsubagi (tsubaji～tsubaぎではない。)\n\ntsubaki〈新〉\n　　sitane\n\nシタギ〈古〉\n　　ツバ\n\nツバ〈普通〉，シタキ〈外へはきます時にいう。〉\n　　ツバ\n\nシタキ〈人にひっかかる時いう。〉\n　　ツバ\n\nシタキ〈多〉\n　　ツバキ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03145.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03145",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03145.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5641.94",
+      "5641.99",
+      "5642.31",
+      "5642.67",
+      "5644.24",
+      "5649.53",
+      "5651.45",
+      "5654.94",
+      "5658.89",
+      "5659.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　31-46\n質問番号 046　地図番号 118\n項目名　つば\nA 普通注記（○）　[B] 除いた共通語　[C] 除いた特殊語　（12ページ）\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5641.94　tsubaki <新>　　　　　　　　　　　　　　　tsuba\n5641.99　tsu'ba <多>　　　　　　　　　　　　　　tsu'baki\n5642.31　tsuba <早口に言えば>　　　　　　　　　　tsubaki\n5642.67　tsuba <多>　　　　　　　　　　　　　　　tsubaki\n5644.24　tsübaki <古>　　　　　　　　　　　　　　tsuüba\n5649.53　ツバキ　広く使われている。　　　　　　　ツバ\n5651.45　tsubaki <古>　　　　　　　　　　　　　　tsuba\n5654.94　ツバキ <多>　　　　　　　　　　　　　　　ツバ\n5658.89　ツバキ <古>　　　　　　　　　　　　　　　ツバ\n5659.46　キタゲ <下>  「キタゲとはいいますか」の問いに対して（キタゲともいう。旭/下品なことば>と答えている。）　ツバ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03146.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03146",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03146.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5661.68",
+      "5669.19",
+      "5670.47",
+      "5671.94",
+      "5676.84",
+      "5677.60",
+      "5678.33",
+      "5679.31",
+      "5686.67",
+      "5688.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 31-47\n資料番号 046   地図番号 118\n項目名 つば\nA 普通注記   [B 除いた共通語]   [C 除いた特殊語]   ページ (13)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n5661.68    [tsubaki] <希。ていねいにみんな言えばツバキということのな?>    tsuba\n5669.19    tsūba …町だけ。在では kgtage という。\n5670.47    tsubake <古>    tsuba\n5671.94    tsubake <希。音多く使った。>    tsubaki\n5676.84    ツバキ＜番＞\n5677.60    ツバキ＜普通＞    ツバ\n5678.33    ツバキ＜普通＞    ツバ\n5679.31    tsūbagi ( [tsūbaki] が予想されるが、答えは濁音。)\n5686.67    ツバキ(普通)\n5688.86    ツバ＜普通。上品に感じることは:＞ ツバキ＜量が非常に多いような感じに言う言い方。キタナイ感じ。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03147.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03147",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03147.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5691.37",
+      "5692.53",
+      "5696.68",
+      "5697.20",
+      "5700.32",
+      "5703.19",
+      "5703.68",
+      "5711.18",
+      "5712.17",
+      "5712.70"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 31-48\n質問番号 046   地図番号 118\n項目名 つば\nA 普通注記   [B 除いた共通語]   [C 除いた特殊語] (14)\n表ヘッダ：地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\ntsubaki <kiだけ ヨッコだ!>\n[tsubaki]\ntsuba\ntsubaki <多く家庭内で使う。>\ntsuuba <どちらかというと、公的な場で使う。>\ntsubaki <多い>\njitaki <多く使う。>\ntsūwa <昔から使う。>\nkutake (より多く用いる。)\nsitaki <普通>, tsüba <〜ハクに使う。>\ntsüba <今、これも使う。>\ntsüba (同義語は [kitake]、宿の人は [kitaki]と言った。)\n（印章）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03148.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03148",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03148.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5714.10",
+      "5721.77",
+      "5723.02",
+      "5723.36",
+      "5731.13",
+      "5741.25",
+      "5750.31",
+      "5750.84",
+      "5761.91",
+      "5770.46"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 31-49\n\n資料番号 046  地図番号 118\n項目名 つば\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\n(15) ページ\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5714.10  tsüwa <〜つけるのように使う>, sitaki <〜かけるのように使う>\n5721.77  kitaki <普通>, tsüwa <上>\n5723.02  sitagi <古>\n5723.36  kitagi <古>    tsuwa\n5731.13  tsüwa <切手をはるとき>, cçtagi <人にひっかけるとき>\n5741.25  tsubaki (別に調査した他の被調査者によればtsuwa)\n5750.31  キタギ <古>    ツバギ\n5750.84  キタゲ <古>\n5761.91  (詰) kçtakç    tsüba\n5770.46  tsübagi <新>    kctage",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03149.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03149",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03149.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5771.36",
+      "5780.11",
+      "5782.25",
+      "5782.79",
+      "5793.20",
+      "5793.63",
+      "6339.44",
+      "6348.77",
+      "6349.67",
+      "6356.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n（右上ボックス）質問番号 046　地図番号 118　項目名 つば　A 普通注記（B 除いた共通語）（C 除いた特殊語）ページ (16)\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n[kudage]　　　　　　　　　　　　　　　tsūwa\n(誘) kgtage　　　　　　　　　　　　　tsübagi\ntsübaki <古>　　　　　　　　　　　　tsüba\ntsubaki <希>　　　　　　　　　　　　tsuba\nkur-tage <昔の人はこれを使った。被調査者も少し使う。>　tsu'ba\ntsubarji <多>　　　　　　　　　　　　tsuba\nツバ <大人>、ツズ <小人>\nツズ <古>\nツズ <古>　　　　　　　　　　　　　　ツバ、ツバキ\nツド <古>　　　　　　　　　　　　　　ツワ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03150.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03150",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03150.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6357.38",
+      "6373.84",
+      "6383.77",
+      "6384.25",
+      "6393.41",
+      "6395.61",
+      "6398.42",
+      "6398.78",
+      "6408.72",
+      "6412.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 31-51\n\n資料番号 046    地図番号 118\n項目名 つば\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (17)\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\n6357.38   ツド〈古〉    ツバ\n6373.84   tsuzuu〈古〉   tsuba\n6383.77   tsubaki〈新〉, tsu?zu〈古、多く使う。〉   tsübakan? / tsubaki\n6384.25   tsüdzüü〈古・多〉   tsǖbaki\n6393.41   tsudo〈古〉   tsubaki\n6395.61   tsüdzüü［◎tsüba］\n6398.42   tsubaki〈希〉   tsuba\n6398.78   tsumwa (tsuba の誤りか。)\n6408.72   tsu'wa〈古〉   tsu'ba\n6412.91   tsibaksi〈3〉   tsiba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03151.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03151",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03151.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6416.31",
+      "6418.75",
+      "6422.93",
+      "6423.75",
+      "6424.20",
+      "6442.80",
+      "6460.10",
+      "6479.95",
+      "6485.14",
+      "6486.50"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧　31-52 質問番号　046　地図番号　118 項目名　つば (A 普通注記) (B 除いた共通語) (C 除いた特殊語) (18) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注） tsuwa（ツバというのが普通ではないかと思う。） ツワ〈古〉 チバケ〈古〉　　　　　チバ tsübake〈下品〉　　　　tsüba tsüba〈多〉　　　　　tsübake ツ〈古〉　　　　　　　ツバ tsübake〈古〉　　　　　tsüba ツバー〔ツワ〕 ツバケ〈古〉　　　　　ツバ ツバケ〈古…い方〉、ツバ〈今のものはすべて〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03152.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03152",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03152.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6486.93",
+      "6487.43",
+      "6489.27",
+      "6500.22",
+      "6501.92",
+      "6507.72",
+      "6511.49",
+      "6514.38",
+      "6522.03",
+      "6523.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　31-53\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は略記にする。\n\n質問番号 046　地図番号 118\n項目名　つば\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (19)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6486.93　ツバキ〈古〉\n6487.43　ツバく多〉　　　ツバケ\n6489.27　ッツァ（ハツワ）\n6500.22　ツワ〈少〉　　　ツバ\n6501.92　ツワ　や古語で、今では子供はあまりつかわない。　ツバ\n6507.72　ツバキ〈共〉　　ツバケ\n6511.49　ツワ（古）　　　ツバ\n6514.38　tsubaki〈よく使う〉\n6522.03　ツワ。老若男女「ツバ」は方言としては用いない。\n6523.86　[tsubake]　　　tsuba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03153.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03153",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03153.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6527.22",
+      "6534.37",
+      "6542.58",
+      "6542.71",
+      "6548.26",
+      "6552.90",
+      "6554.45",
+      "6562.22",
+      "6565.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n日本言語地図資料用紙 注記一覧 31-54\n質問番号 046 地図番号 118\n項目名 つば\nA（普通注記）\n（B 除いた共通語）\n（C 除いた特殊語） ページ (20)\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n6527.22    tsubaki ＜希＞    tsuba\n6534.37    tsubaki ＜稀に使う人もある。＞    tsuba\n6542.58    ツバケ、同地方の農民が用いる語で、町では用いない。ツバキ\n6542.71    tsüba  カバヤキのにおいをかいて口の中にいれてくるものtsubakiといひ、tsübaくいめ。切手のときはtsübaといふ、tsubakiといふぬ。\n6548.26    tsubaki ＜エ・希＞    tsuba\n6552.90    tsuba ＜「ツバケ」とはいうない。＞\n6554.45    tsubake ＜昔はよく言った。＞    tsuba\n6562.22    ツバク（ただし吐くとき） ツバク }（私はツバキの方をよく使うが、ふつうは\n6565.22    ツバキ }ツバという方がよく用いる。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03154.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03154",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03154.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6572.04",
+      "6574.52",
+      "6575.40",
+      "6591.02",
+      "6593.30",
+      "6603.24",
+      "6603.82",
+      "6616.22",
+      "6621.94",
+      "6623.53"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）（　）は厳密にする。 日本言語地図資料用紙 注記一覧 31-55 資料番号 046 地図番号 118 項目名 つば A 普通注記 [B 除いた共通語] [C 除いた特殊語] (21) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6572.04 tsubake <「ツバ」は学校で習うことば。> 6574.52 tsubaki <多> , tsubake <少> 6575.40 [tsuba] tsubaki 6591.02 ツワ（老人で、ツサベ、ツサビという人がある。） 6593.30 tsubaki ----- tsubaki:o tsu'keta 6603.24 ツバキ（ツは古い） 6603.82 トゥバ（トゥの子音はそり舌のせ） 6616.22 tsubaki' <最近では[tsuba]とも。> 6621.94 tsubaki <古> tsuba 6623.53 tsubaki <古> tsuba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03155.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03155",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03155.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6624.13",
+      "6625.17",
+      "6626.06",
+      "6627.12",
+      "6633.27",
+      "6639.29",
+      "6641.39",
+      "6645.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-56\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n質問番号 046   地図番号 118\n項目名 つば\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (22)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6624.13  tsubaki 新        tsuba\n6625.17  tsubaki 希        tsuba\n6626.06  tsubaki 〈(tsuba)とも言うが:この方が音のよいことば〉〈(tsubaki)○ tsuketehare? などと言う〉\n6627.12  tsu'baki 〈一言でいう時〉、tsuba 〈外にことばが続く時〉\n（この区別は、やや疑問である。tsubaの方が共通語の影響による形。tsubakiが方言本来の形ではないか）\n6633.27  tsubaki…多、指につづきつけるのは tetsubaki.    tsuba\n6639.29  tsubai 〈昔〉    tsubaki\n6641.39  tsubaki 古・こどもの頃    tsuba\n6645.37  tsubaki 〈希〉    tsuba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03156.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03156",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03156.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6649.55",
+      "6650.12",
+      "6650.70",
+      "6655.87",
+      "6656.31",
+      "6698.20",
+      "6700.98",
+      "6701.46",
+      "6710.70",
+      "7218.26"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 31-57\n質問番号 046　地図番号 118\n項目名 つば\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語 (23)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6649.55　tsubai <普>　tsubaki\n6650.12　tsubaki（新しく感ずるという。）　tsuba\n6650.70　tsubaki <希>　tsuba\n6655.87　tsubaki <tsubakeより使い方が少ない。>　tsubake\n6656.31　tsubaki <多く使う>　tsuba\n6698.20　tsuba <古>　tsubaki\n6700.98　tsibake <昔>　tsuba\n6701.46　tsübake（kは半有声。）　tsuba\n6710.70　tsibai <普>　tsubaki\n7218.26　tsu'dzu cf. rtsunnomi　生つばをのむこと。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03157.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03157",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03157.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7229.75",
+      "7239.85",
+      "7246.45",
+      "7248.64",
+      "7249.35",
+      "7249.95",
+      "7257.94",
+      "7258.82",
+      "7266.09"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 31-58\n質問番号 046 地図番号 118\n項目名 つば\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (24)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7229.75  tsuzu <希>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　tsubaki\n7239.85  tsuzu (ズの場合、純粋のまつつ音ともいえない が、破裂音は明らかにはききとれない。)\n7246.45  {tsubak° ... 多く用いる。(°は内破音) (tsun ... tsu'dzuに規則的に対応する形)\n7248.64  tsubaki <新>　　　　　　　　　　　　　　　　　　　　　　　　　　　　  tsudzu\n7249.35  tsuzu (zuはdzuに近い...) ツズ? (ふつうの話ではZUであるが、あらたまつ) ツヅ? (発音するとdzuとなる。)\n7249.95  (記載あり)\n7257.94  tsudzu <希>　　　　　　　　　　　　　　　　　　　　　　　　　　　　  tsubaki\n7258.82  tsudzu <多>　　　　　　　　　　　　　　　　　　　　　　　　　　　　  tsubaki\n7266.09  tsubaki <新>　　　　　　　　　　　　　　　　　　　　　　　　　　　  tsudzu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03158.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03158",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03158.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7266.60",
+      "7266.92",
+      "7269.96",
+      "7279.01",
+      "7303.29",
+      "7309.37",
+      "7312.11",
+      "7313.68",
+      "7324.47",
+      "7325.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-59\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n資料番号 046  地図番号 118\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)\nページ (25)\n項目名 つば\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n7266.60  tsuba? (tsubak とすべきか.)\n7266.92  tsuN [古]                              tsubak\n7269.96  tsudzu <古>                            tsubaki\n7279.01  ツズ <古。音使っていた。>               ツバ\n7303.29  tuba (唾、ツバをいわない..)\n7309.37  tsūbak <古>                            tsūbake\n7312.11  tsuwa (多), <tsba は少し使う.>\n7313.68  tuba (tsuでなかった.)\n7324.47  tuba (tuの音に注意、tsuでない)\n7325.84  tuba <新>  (右欄判読困難)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03159.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03159",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03159.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7326.41",
+      "7326.69",
+      "7330.31",
+      "7332.97",
+      "7333.29",
+      "7334.78",
+      "7335.19",
+      "7335.93",
+      "7336.28",
+      "7336.54"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 31-60\n質問番号 046　地図番号 118\n項目名 つば\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(26)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\ntubaki <上品>　　　tu'dzu\ntsudo' <古>　　　　tsuba\ntsu'dzu <吐いたりするもの>\ntsuba (他のカードと比べて tsu とみなす。11/27 Tak. Sth.)\ntuba <新>　　　　　tsuzu\ntuba <新>　　　　　t'udu\nt'sudzu <古>　　　 t'subaki\ntudz <或く場合に言う>　tsuba\ntsu'dzu <古>　　　　tsubaki\nt'sudzu <古>　　　　tuba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03160.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03160",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03160.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7336.71",
+      "7338.48",
+      "7339.27",
+      "7340.24",
+      "7341.42",
+      "7344.30",
+      "7346.54",
+      "7346.58",
+      "7346.63",
+      "7347.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 31-61\n質問番号 046   地図番号 118\n項目名 つば\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (27)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C変した語形とその注]\n7336.71  tsudzu <古>    tsuba\n7338.48  tsuwa (032のときのように tui にはならなかった。)\n7339.27  tsuwa (tsubaki, tsuwaki いう人もある。32年調。)\n7340.24  tsudzu (ツは dzu よりもむしろ du に近い、マサツ音でひずみのためか。)\n7341.42  tsu?u (ツはや、破裂を伴ったまっつ音。)\n7344.30  tsuba <新>    tsudzu\n7346.54  tsudzu <古>   tsuba\n7346.58  tuba <新>     tudu\n7346.63  tsuba <新>    tsudzu\n7347.55  tsubaki <エ・新>   tsudzu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03161.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03161",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03161.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7350.21",
+      "7350.44",
+      "7351.09",
+      "7352.61",
+      "7354.23",
+      "7355.81",
+      "7356.98",
+      "7357.31",
+      "7357.69",
+      "7365.25"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 31-62 質問番号 046 地図番号 118 項目名 つば A 普通注記 [B 除いた共通語] [C 除いた特殊語] (28) 地点番号 A 音形とその注記 [B・C除いた音形とその注] A 注のない語形 [B・C 残した語形とその注] 7350.21 tsuzu (～zuの前に弱い破裂が感じられる。) 7350.44 tsudu (tsuのように明らかな破擦ではない。) 7351.09 tsuzube <ツツベなく>という様に云う。 7352.61 クチミズ <酸っぱい時に出るツバ> ツバ 7354.23 ツズ <やゝ古> ツバ 7355.81 tsudzu <古> t'suba 7356.98 tsubaki <新> tsud2u 7357.31 tsubaki <新> tsuzru 7357.69 tsuba <新> tsuzu 7365.25 tsuzu <古> tsuba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03162.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03162",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03162.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7365.51",
+      "7365.67",
+      "7366.14",
+      "7367.25",
+      "7367.49",
+      "7368.32",
+      "7371.54",
+      "7373.56",
+      "7376.62",
+      "7381.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞()[]は厳密にする。 日本言語地図資料用紙 注記一覧 31-63 質問番号 046 地図番号 118 項目名 つば A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (29) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] tsuzu <古>    tsuba tuba <新>    tudzu? tsuba <新>    tsuzu tsubaki <新>, [tsudzu] <長、そういえば昔はそう言っていた>    tsuba tsudzu <古>    tsuba tsuzu <古>    tsubaki ツバキ・・・以前は いった。    ツバ ツバ <ツバキは言わず> tsuzu <古>    tsuba クタミズ <梅干などを食べた時などの口中より少し出てくるツバ>    ツバ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03163.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03163",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03163.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7385.84",
+      "7386.63",
+      "7390.70",
+      "7390.75",
+      "7391.01",
+      "7406.25",
+      "7415.85",
+      "7424.67",
+      "7432.95"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　31-64\n（右上の欄） 質問番号 046　地図番号 118　項目名 つば　（A 普通注記）（B 除いた共通語）（C 除いた特殊語）　ページ (30)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形［B・C 残した語形とその注］\n\n7385.84\ttsudzu（諸説対の方言は四つ仮名の区別は失われ、全く混同されている。）\n7386.63\ttsuzu ＜多＞（地のコトバ）\ttsuba\n7390.70\tツバキ（ツバは使わない。）\n7390.75\tツバキ＜夭・標準語＞\tツツ、ツッ\n7391.01\t<?> ツ/ツゥ〈古・死〉\tツバキ\n7406.25\ttsubaki＜古い言い方＞\ttsuba\n7415.85\tt'suibo＜同年配の者と話す場合＞\ttsuba\n7424.67\ttuba＜夭＞\ttubake\n7432.95\ttubake＜古＞\ttuba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03164.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03164",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03164.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7436.68",
+      "7440.69",
+      "7450.20",
+      "7461.23",
+      "7503.48",
+      "7513.01",
+      "8302.19",
+      "8302.91",
+      "8303.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-65\n質問番号 地図番号 046 118\n項目名 つば\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (31)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n7436.68  tsubake <多>, tsubaki <少>\n7440.69  tsuwa (tsubaki にいう人もある。32年調。)\n7450.20  tsuwa (tsubaki という人もある。32年調。)\n7461.23  tsuba <実?>        tsubake\n7503.48  tsuba (bの破裂は弱いから、Bに近い。)\n7513.01  ヅウ <古>          ツバ\n8229.986 tsubaki <新 希>    tsutsu\n8302.19  ヅズ <ふだんよく使う。アレがオレ ヅズ フッカケタ。>\n8302.91  tsuwa <ツバ[唾]との区別は、はっきりつける。>\n8303.47  ツバ <クサミズは腹具合や身体のわるい時に出てくるツバをいう。>\n(注: 手書きの歯切れや小字はおおよその転写)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03165.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03165",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03165.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "8310.26",
+      "8310.87",
+      "8314.52",
+      "8315.46",
+      "8320.98",
+      "8324.83",
+      "8331.17",
+      "8331.98",
+      "8332.07",
+      "8332.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-66\n項目番号 046　地図番号 118\n項目名 つば\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]　(32)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ntsudzu <古>　　　　　　　　　　　　　tsuba\ntsut (つづの訛り。)\ntsut (これは諸県方言的である。)\ntsudzu <多く使う。>\ntsut <古>　　　　　　　　　　　　　　tsuba\ntsut (初め tsuba に言い，これは学校言葉で) tsut と言い直した。\ntsuba <古>　　　　　　　　　　　　　tsut\ntsuba, tsut ..... tsudzo つばを\ntsut <古>　　　　　　　　　　　　　　tsuba\ntsut (古)　　　　　　　　　　　　　　tsuba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03166.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03166",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03166.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "8332.84",
+      "8335.48",
+      "8342.69",
+      "8344.71",
+      "8360.39",
+      "8363.51",
+      "8372.87",
+      "8394.01",
+      "0276.50",
+      "1242.26"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <> ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 31-67\n質問番号 046    地図番号 118\n項目名 つば\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\n(33)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\ntsut <古>\ntsuzu (平素 使っていると思う。)\ntsu? (単独だと、)\ntsut <古>    tsuba\ntjut <古>\ntsut <希>\ntsudzuく <古>    tsuba\ntsudzu <古>    tsuwa, tsuba\ntsiiru (tsidu から。)\ntuppe: 古 , tfimpe: 新",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03167.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03167",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03167.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "2086.03",
+      "2141.71",
+      "2151.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-68\n質問番号 046　地図番号 118\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (34)\n項目名 つば\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〔〕は厳密にする。\n\n地点番号\tA 語形とその注記 [B・C 除いた語形とその注]\n2086.03\tsizi (i は i に近い)\n2141.71\t(?) judak <よだれもつばも区別しない。>\n2151.51\t(?) tsibaki\n\nA 注のない語形 [B・C 残した語形とその注]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03168.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03168",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03168.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "0894.61",
+      "2731.97",
+      "2751.10",
+      "3754.76",
+      "4647.69",
+      "4653.47",
+      "4665.87",
+      "4678.77"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n日本言語地図資料用紙　注記一覧　31-69\n質問番号　046　地図番号　118\n項目名　つば\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　(1)\n地点番号\ntsumba ＜今＞\nツバ＜新＞\nツバ＜新＞\nツバ＜若いもの＞\ntsuba＜実＞\ntsuba＜実＞\ntsuba＜新ェ＞\ntsuba＜実・工＞\n{Sitake / Sittaki} ＜下につくことばだよ＞\n＜昔、今は年寄も使わない＞\nヨンダリ〈多〉　ビル\nヨンダリ\nベロ\ntsubaki\ntsubaki〈古→現〉\ntsubaki〈古〜現〉\n{sittagi（音はどういういましのかの 同詞対する反応。）\nsittaki（や改まった発音）】",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03169.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03169",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03169.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "4685.72",
+      "4687.37",
+      "4711.49",
+      "5548.60",
+      "5569.36",
+      "5578.27",
+      "5579.79",
+      "5587.74",
+      "5588.02",
+      "5589.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n日本言語地図資料用紙 注記一覧 31-70\n資料番号 地図番号 046 118\n項目名 つば\nA 普通注記  B 除いた共通語  C 除いた特殊語 ページ (2)\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n4685.72  tsuba (英)    tsubaki  <古くから用い、現在多く用いる。>\n4687.37  tsuba <新> <新しいことばであるが、常にも多く用いる。>    sittaki 多く用いる\n4711.49  ツバギ (雅)    スッタギ、スッタゲ\n5548.60  tsuba <新>    tsubaki\n5569.36  ツバ <英>    ツバキ\n5578.27  ツバ <英>    ツバケ\n5579.79  ツバ <英>    ツバケ\n5587.74  ツバ <英>    ツバキ\n5588.02  ツバ <英>    ツバキ\n5589.30  ツバ <英>    ツバケ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03170.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03170",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03170.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "5590.53",
+      "5597.78",
+      "5598.67",
+      "5611.39",
+      "5611.81",
+      "5613.33",
+      "5615.28",
+      "5615.65"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈　〉（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　31-71\n質問番号 046　地図番号 118\n項目名　つば\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (3)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nツバ〈少〉　　　ツワ\nツバ〈英〉　　　ツバケ\nツバ〈英〉　　　ツバケ\ntsuba〈新〉　　　tsubaki〈古〉（外に言い方はありますか。せんかに対する反応。子供の時使ったが今は使わぬ）\n\ntsuba〈英〉　　　tsubaki（「tsuba」の答えの後で、言うそう言いましたか」と質問した時の答え。）\ntsuba〈英〉　　　tsubaki\ntsuba〈英〉　　　tsubaki\ntsuba〈英〉　　　tsubaki",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03171.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03171",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03171.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "5620.30",
+      "5623.42",
+      "5623.85",
+      "5631.75",
+      "5642.17",
+      "5643.33",
+      "5646.71",
+      "5653.65",
+      "5661.34",
+      "5664.51"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 31-72\n質問番号 046   地図番号 118\n項目名 つば\nA 普通注記   [B 除いた共通語]   [C 除いた特殊語] (4)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\ntsuba <新>            tsubaki\ntsuba <希>            tsubaki\ntsuba <上等の口だ>    tsubaki\ntsuba <新>            tsubaki\ntsuba <新>            tsubaki\ntsuba <上>            tsubaki\nツバ <新>             ツバキ\ntsuba <希>            tsubaki\ntsuba <エ>            tsubaki\ntsuba <希>            tsubaki",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03172.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03172",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03172.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "5671.00",
+      "5671.94",
+      "5676.10",
+      "5676.84",
+      "5680.34",
+      "5686.31",
+      "5686.67",
+      "5690.12",
+      "5698.19",
+      "5722.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-73\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく〈〉[ ]は厳密にする。\n(右上の枠) 質問番号 046 地図番号 118\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (5)\n項目名 つば\n(表見出し) 地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\ntsuba <新>    tsubake / tsubaki / ltsubake <傍。昔多く使った。>\ntsuba <実?>\ntsu'ba <希>    tsu'baki\ntsバ <少>    ツバキ <昔>\ntsu'ba <新>    tsubaki\ntsu'ba <新>    'tsubaki\nツバ <実?>    ツバキ <普通>\ntsuba <上>    tsubake\ntsuba <エ>    tsubaki\ntsuba <新>    sitage",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03173.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03173",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03173.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "5723.02",
+      "5750.84",
+      "5760.24",
+      "6348.77",
+      "6418.75",
+      "6429.65",
+      "6486.93",
+      "6505.58",
+      "6506.55",
+      "6507.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><[]は厳密にする。\n日本語語地図資料用紙 注記一覧 31-74\n（小表） 質問番号 046 地図番号 118  A 普通注記  B 除いた共通語（○）  C 除いた特殊語 （6）\n項目名 つば\n\n地点番号   A 語形とその注記（B・C除いた語形とその注）   A 注のない語形（B・C 残した語形とその注）\n5723.02   tsūba <今>   sita9i <古>\n5750.84   ツバ <新>   キタゲ <古>\n5760.24   tsu'ba <しやれたことば>   kitage\n6348.77   ツバ <新>   ツズく <古>\n6418.75   ツバ <新>   ツワく <古>\n6429.65   ツバ <英・希>   ツワ\n6486.93   ツバ <新>   ツバキ <古>\n6505.58   ツバ <英>   ツバキ\n6506.55   ツバ <茎>   ツバケ\n6507.48   ツバ <改>   ツバケ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03174.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03174",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03174.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6508.74",
+      "6509.38",
+      "6509.43",
+      "6516.15",
+      "6517.70",
+      "6519.67",
+      "6526.04",
+      "6527.44",
+      "6529.15",
+      "6534.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜　＞（）[　]は厳密にする。\n\n日本言語地図資料用紙注記一覧　　　31-75\n質問番号　046　地図番号　118\n項目名　つば\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(7)\n\n地点番号　　　A　語形とその注記　[B・C除いた語形とその注]　　　A注のない語形　[B・C残した語形とその注]\n\n6508.74　　ツバ〈実〉　　　　　　　　　　　　　　　　ツバキ\n6509.38　　ツバ〈実〉　　　　　　　　　　　　　　　　ツバキ\n6509.43　　ツバ〈実〉　　　　　　　　　　　　　　　　ツバキ\n6516.15　　ツバ〈実〉　　　　　　　　　　　　　　　　ツバケ\n6517.70　　ツバ〈実〉　　　　　　　　　　　　　　　　ツバケ\n6519.67　　ツバ〈実〉　　　　　　　　　　　　　　　　ツバキ\n6526.04　　ツバ〈実〉　　　　　　　　　　　　　　　　ツバキ\n6527.44　　tsüi baˀ〈実〉　　　　　　　　　　　tsüi baˀ kiˀ\n6529.15　　ツバ〈実〉　　　　　　　　　　　　　　　　ツバキ\n6534.41　　tsuba〈実〉　　　　　　　　　　　　　　　tsubaki",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03175.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03175",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03175.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6560.40",
+      "6580.06",
+      "6581.52",
+      "6582.73",
+      "6600.97",
+      "6607.18",
+      "6607.68",
+      "6608.69",
+      "6610.00",
+      "6623.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉〔〕は厳密にする。\n日本言語地図資料用紙 注記一覧    31-76\n質問番号 046   地図番号 118\n項目名 つば\nA 普通注記   [B 除いた共通語]   [C 除いた特殊語] (8)\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6560.40    ツバ〈英〉    ツワ\n6580.06    ツバ〈英〉    ツバケ\n6581.52    ツバ〈英〉    チャベ\n6582.73    ツバ〈英〉    ツバケ\n6600.97    tsuba〈新〉    tsubaki\n6607.18    tsu'ba〈新〉    tsubaki\n6607.68    tsu'ba〈新〉    tsu'baki\n6608.69    tsu'ba〈新〉    tsu'baki\n6610.00    ツバ〈英〉    ツバキ\n6623.28    ツバ〈英〉    ツバキ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03176.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03176",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03176.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6632.88",
+      "6645.01",
+      "6645.62",
+      "6652.30",
+      "6652.77",
+      "6655.87",
+      "7329.39",
+      "7329.57",
+      "7344.45",
+      "7344.99",
+      "7333.75"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞〔〕は厳密にする。 日本言語地図資料用紙 注記一覧 31-77 資問番号 地図番号 046 118 項目名 つば A 普通注記 B 除いた共通語 (囲み) C 除いた特殊語 (9) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] tsuba 新 tsubaki tsuba 新 tsubaki tsuba <新> tsubaki tsuba 少 tsubaki tsuba 新 tsubaki tsuba <新> tsubaki tsubake tsubaki <tsubakeより使い方が少ない。> tsuba <新> tsuwa tsuba 上. tsuwa tsuba <新> tsuzu tsuba <新> tsuzu tsuba <新> tsuzu (下部囲みと矢印、丸囲みあり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03177.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03177",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03177.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7347.93",
+      "7357.31",
+      "7359.78",
+      "7375.71",
+      "7391.44",
+      "7394.85",
+      "7403.16",
+      "7412.71",
+      "7431.13",
+      "7431.82"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 31-78\n質問番号　地図番号　046　118\n項目名　つば\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (10)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7347.93　tsuba <新>　tsuru\n7357.31　tsuba <新>　tsubaki <新>, tsuzu\n7359.78　tsuba <新>　tsuwa\n7375.71　tsuba (実)　tsuzu\n7391.44　ツバ <実>　ツチ\n7394.85　tsuba <新>　tsudu\n7403.16　tsuba <上>　tsuwa\n7412.71　tsuba <上>　tsuwa\n7431.13　tsuba <新>　tsuwa\n7431.82　tsuba <実>　tsuwa",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03178.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03178",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03178.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7511.66",
+      "8239.31",
+      "8301.76",
+      "8302.19",
+      "8310.87",
+      "8312.33",
+      "8315.46",
+      "8324.83",
+      "8330.58",
+      "8332.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 31-79\n質問番号 046　地図番号 118\nA 普通注記　B 除いた共通語　C 除いた特殊語　(11)\n項目名　つば\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形[B・C残した語形とその注]\n7511.66　ツバ〈来〉　　　　　　　　　　　　　ツワ\n8239.31　tsuba〈新〉　　　　　　　　　　　　tsutsu\n8301.76　ツバ〈新〉　　　　　　　　　　　　　ツワ\n8302.19　ツバ〈新〉　　　　　　　　　　　　　ツズ　ふだんよく使う。（アレガ　オレェ　ツズ　ブカケタ）\n8310.87　tsuba〈希・新・夹〉　　　　　　　　tsut（つづの訛り）\n8312.33　tsuba〈夹〉　　　　　　　　　　　　tsuzu\n8315.46　tsuba〈夹〉　　　　　　　　　　　　tsudzu〈多く使う。〉\n8324.83　tsuba〈夹〉　　　　　　　　　　　　tsut　はじめtsubaと言い、これは学校談でtsutと直した。\n8330.58　tsuba〈新〉　　　　　　　　　　　　tsut\n8332.84　tsuba〈新〉　　　　　　　　　　　　tsut〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03179.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03179",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03179.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "8334.63",
+      "8335.48",
+      "8345.18",
+      "8351.07",
+      "8360.39",
+      "8362.85",
+      "8363.51"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >〈 〉[ ]は厳密にする。\n日本言語地図資料用紙注記一覧 31-80\n資料番号 046 地図番号 118\n項目名 つば\nA 普通注記  B 除いた共通語  C 除いた特殊語 (12)\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n8334.63  tsuba <夾>   tsuzu\n8335.48  tsuba (夷)   tsuzu (秤使っていると思う)\n8345.18  tsuba <夷>   tsuzuba\n8351.07  tsuba <新>   tsut\n8360.39  tsuba <新>   tsut <古>\n8362.85  tsuba <新>   tsut\n8363.51  tsuba <新>   tsut <希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03180.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03180",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03180.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "1756.32",
+      "3716.27",
+      "3783.58",
+      "4746.20",
+      "5686.67",
+      "5703.68",
+      "5781.22",
+      "6411.33",
+      "6508.36",
+      "6582.73",
+      "4711.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n日本言語地図資料用紙　注記一覧　31-81\n質問番号　地図番号　046\n項目名　つば\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語) (1)\n\nベロタラシ (子供のヨダレを流している状態)　ツバ\nnodari <古>　biro\nナンペ　タンペ\nNR <昔何か使ったような気がしたが忘れた>　tsuba <笑>\nダエキ <笑>　ツバキ <普通>\nkyutape　kyutake (より多く用いる。)\nXtage <前に使ったが、今は使わない..>　tswa ~ tsuba\nキバチ <古>　チバキ\nミズ　ツバキ\nチャビ <希>　ツバケ\nツバギ (雅)　スッタギ, スッタゲ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03181.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03181",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03181.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6591.81",
+      "7330.31",
+      "7330.91",
+      "8335.83",
+      "8342.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　31-82\n資料番号　地図番号　046　118\n項目名　つば\nA　普通注記　(B　除いた共通語)　( C　除いた特殊語 )　(2)\n\n（表見出し）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\nチャンベ〈くろ〉\t\tツワ\nkanʃo:〈こよりをよったりする時につけるのは、～ツケルなどという〉　tsu2u〈吐いたりするもの。〉\t\ttsuzu, tsuba\nkaž'o\t\ttsuzu, tsuba2\nkutʃimi'dzu〈胸の悪い時に吐くる。〉（従って、この答えは除いてもよいと思う。）\t\ttsutsuba\ntsuzu（助詞「を」をつけるとこのように〜ついかがあらわれる）　tsü?（単独だと。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03182.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M118Q046/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03182",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03182.tif",
+    "source_ljc_id": "LJC-M118Q046",
+    "source_map_numbers": [
+      "118"
+    ],
+    "source_title": "つば (唾)"
+  }
+]

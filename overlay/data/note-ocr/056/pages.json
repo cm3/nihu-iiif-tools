@@ -1,0 +1,831 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "14-3 日本言語地図資料用紙 注記一覧\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に書く。\n注記の〈 〉( )は厳密にする。\n質問番号 23  地図番号 56  ページ (1)\n項目名 作る（製造） 026\n見出し: 地点番号 / A 言形とその注記 / A 注のない言形\n0747 kosaeru 〈多い、ふつうみと使う〉 | koshiraeru\n0840 kojirariru 希 〈家庭では kosaeru〉 | tsukuru\n1731 コセル。〈使いやすい〉 | ツクル\n1744 コサウ。〈コサウの方が使いやすい〉 | ツクル\n1793 コシャウ。（コサウのように聞えるが一語節の発音するよう）\n1848 kosairu. 〈多〉 | koshiraeru\n1942 kosamu. 〈ふつうに多く使う〉 | tsukuru\n2700 ツクル。〈コセルとは意味も動作が違う、と人が言う〉\n2734 コシラウ。〈ているい〉 ツクル（大工場で生産する時） | コワウ\n2790 tsikuru, koseru. 旨趣不明・同じに使うと言う。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01403.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01403",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01403.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "・A・(B)・(C)ごとに別紙を使用する。 ・その中での音録は地点番号順に並べる。 ・注記のく<>()は厳密にする。\n日本言語地図資料採録用紙 注記一覧 14-4\n質問番号 23  地図番号 56\n項目名 作る(製造)  ページ(2)\n見出し: 地点番号 / A 語形とその注記 / A 注のたい語形\nkoseru (kosaeru) koseru (< koceru)。 右欄: tsuigūru。\nkoserū (昔)。\nkoserū (koseru to kojeru to no aida ni 自動が共存有)。\nkoseru <古>。右欄: kojiraeru, tsikuru。\nkojiranu <上>。右欄: kosam。\nkosiiranu <上>。右欄: kosam。\nkojo? <こうなるの意>。右欄: tsuikuru。\nkojro? のように思われたが… といった注記あり。\nkojiranu〈央上〉、kojiraeru〈央上〉。右欄: kosam。\ntsukumuru〈多〉。右欄: kojiraeru。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01404.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01404",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01404.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 14-5\n質問番号 023　地図番号 56\n項目名 作る（製造） 026　ページ (3)\n標準語注記（B 聞いた共通語）（C 聞いた特殊語）\n・A・{B}・{C}ごとに別紙を使用する。\n・その中での番号は地点番号順に並べる。\n・注記の〈 〉（ ）は後略にする。\n\n地点番号／A 語形とその注記（B・C 該当とその理由）／A 該当のない語形（B・C ほか注記）\n4654. 52 tsukumu ＜共、上＞　右欄: kogam.\n4657. 64 kojiromu 古くから用い、現在も使用している。 kojom ＜希＞　右欄: tsukumum\n4672. 19 kojiram ＜共＞　右欄: kosam\n4675. 45 kojo:terum こうしているという連用形で答えた。終止形は得られなかったが、多分ようだ。\n4685. 72 kojo: ＜併＞〈拾い時代に使用した〉　右欄: koj:\n4686. 52 kojiram ＜ヒ＞　右欄: koj:\n4689. 14 koselum ＜この型多い＞　右欄: tsugulum\n4694. 81 コジュウ・kogam. （古・希）　右欄: コララウ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01405.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01405",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01405.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙 注記一覧 14-6\n質問番号 023  地図番号 56\nA 普通注記   ページ (4)\n項目名 作る（製造） 028\n\n地点番号／A 語形とその注記／A 注のたい語形 などの欄\n21. kojiro: tsukuruu（時計・豆腐は kojiro: と言い、ろうそくなどは tsukuruu と言う、と云った。）\n82. kojirau.（改まった言い方）\n92. kosjo:（kojro: のほか kossiru の形も同じように使われる。）  右欄: koɡu（?）\n15. tsukumun.（改まった言い方なし）\n16. kosigerun ＜古＞    右欄: tsukukum\n22. k/sem（俗・卑）\n68. tsutkumun（工場のようなところで作るときはこういう。）\n\nページ左の注意書き: A・(B)・(C)ごとに別紙を使用する。／その中での資料は地点番号順に並べる。／注記のく( )には線格にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01406.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01406",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01406.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-7\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略にする。\n\n質問番号 023    地点番号 56\n項目名 作る（製造） 028\nA 普通語   B 聞いた共通語   C 使わせ特殊語\nページ (5)\n\nしかし家庭の内で自分の手で手軽に作るものは、\n〈ウキャバコ kosjderu と言う〉\n\n[kojɘɾum]（被調査者も忘れていたことばを思い出してこれと同じ発音をすぐに言えた。）\nkoɸe:ɯ（「ツクルとは言わない」）\nkofe:ɯ（俗）\nkojám（喜） kojiram（上）\nkojígeɯ（古）\nkojígeɯ（「つる」とはあまり言わない）\nkojiram（上）\n\ntsuigurum, kojam",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01407.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01407",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01407.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧  14-8\n質問番号 023  地図番号 56\n項目名 作る（製造）\nA 常通注記  （ページ 6）\n・A・(B・C)ごとに別表を使用する。\n・その中での普語は地点番号欄に求める。\n・注記の<>（）は後略にする。\n見出し: 地点番号／A 語形とその他の注記／A 注のない語形\n[kosiiramu] <共>  |  [kosamu]\nkosamu  <普通これを使う>  |  tsuikumu\nkosi(e)eru  ツクルとは言わない。\nkoja:・kojamu  <両方かなじ>\nkoja:・kose:ru・kojeru  （皆同ように使う） （koja: がもっとも多くつかわれるかと思う）\nkose:ru・kojamu  <両方面に使う>\nkoja:・kose:ru・kojeru・kojireru  <共>  （皆同様に使う）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01408.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01408",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01408.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 14-9\nA・{B}・{C}ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<>（）は注線符にする。\n質問番号 23　地図番号 56\n項目名 作る(製造)\nA 普通話法　ページ (7)\n地点番号／A 言形とその注記（B・C 欠いた語形とその注）／A 注のたい語形（B・C 残した語形とその注）\nkosaeruu （共）\nkojiraeruu ＜丁寧＞\nkosseruu －55--は559?と交替してあらわれる＜どちらも同じだ＞\nツクル・コシラエル。＜区別はわからない＞（作物などでコシラエルとはいわない）\nkojiraerū （優先）\nコサエル。＜他の人に女は言う場合＞\nコミライエル ＜丁寧＞\nコミアオ （古）\n右欄：kose:ruu／kosaeruu／ツクル／コサエル",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01409.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01409",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01409.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "▶ A・B・Cごとに別紙を使用する。 ▶ その中での首項は地点番号順に並べる。 ▶ 注記の〈 〉（ ）は傍線にする。 日本言語地図資料採用紙 注記一覧 14-10 質問番号 23　地区番号 56　A 普通注記　ページ (8) 項目名 作る（製造） 028 地点番号／A 語形とその注記／A 決のない語形（B・C 共に語形とその注記） kosi ro:（きまった言い方なし）　kosau kosiramu 〈央：上〉　kosamu kosiramu 〈央：子〉　kosamu kojiro, kosao.（うちとけた間柄の人に） kojirau 〈共〉　kosam koso: 〈善〉　kose:ru. kojireru. kojiramu 〈上〉, kojo:, kose:ru. 〈どれも同じように使う〉 コシラフ。（善）　ツクル kosirau 〈古〉　tsūkuru",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01410.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01410",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01410.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 14-11\nA・(B・C)ごとに別紙を使用する。\nその中での書き入れは地点番号順に並べる。\n注記のく＞＜（）は該当語にする。\n質問番号 23   地図番号 56\n項目名 作る（製造）  ページ 8\n[表見出し] 地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n5631. 16  kojireru ＜最近はあまり言わない＞    tsukuru\n5631. 26. kojireru ＜希（昔はこのことばのほうが多かった）＞  tsukuru\n5632. 83. tsukuru ＜普通にそう言っている。＞\n5635. 48  コセェル ＜古＞    ツクル．\n5635. 65  ツクル ＜共＞\n5636. 74  コセェル ＜コサエルがマチデ＞  ツクル．\n5638. 53. ツクル ＜普通の言い方＞\n5641. 73. tsuukuru, kojireru. 語別不明。\n5642. 31. tsukuru, kojireru ＜区別はなく使う＞\n5643. 33  kojireru（希）（…言わなくなった。tsukuru・koseru の方が）    tsukuru, koseru",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01411.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01411",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01411.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 14-12\n質問番号 23　地図番号 56\n項目名 作る（製造） 023\nA・(B)・Cごとに別紙を使用する。／その中での情報は地点番号順に並べる。／注記の〈 〉（ ）は記号にする。\n見出し：地点番号　A 語形とその注記　A 注のない語形\n74 コセエル（貸）〈ツクレはよく言わない〉　コシェエル・ツクレ\n71 コセエル〈古〉\n96 デカス〈古〉　ツクレ\n06 tsukuru・koshiraeru〈区別なく使う〉\n57 ツクル（共）\n62 コシラエル〈多〉　ツクレ\n73 ツクル（共）　ツクル\n42 コシラエル〈古〉\n34 tsukuru・kosaeru〈区別なく使う〉\n10 コシラウ〈多〉　コシラエル・コシラウ\nページ（10）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01412.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01412",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01412.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に記入する。 注記のく<>（）は厳格に守る。\n日本言語地図資料用紙 注記一覧 14-13\n質問番号 23  地区番号 56\n項目名 作る（製造） 028\n（普通注意）\nCB 聞いた共通語／CC 聞いた特殊語\nページ（11）\n見出し: 地点番号／A 語形とその注記（B・C書かれた語形とその注記）／A 注のない語形（B・C残した語形その他）\nツクル。（央）\nツクル、コシェル＜同じ程度に使う＞\nko(meterui)  総北方言はひまだではなかった。「工場はんでもないのう」と初調査者が言っていたから、この間に対する混辺とは違った日常語かどうかは疑問。\nkose:ru ＜多・古＞    tsukumuru\ntsukuru, kosiraeru? ＜両方使う＞\nコセル（時音のことは知らないから、と同心しながらの発音）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01413.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01413",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01413.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5678.33",
+      "5679.31",
+      "5679.86",
+      "5680.34",
+      "5684.26",
+      "5685.37",
+      "5697.24",
+      "5698.19",
+      "5699.42",
+      "5701.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-14 質問番号 地図番号 A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 項目名 作る(製造) 023 A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）は厳密にする。 地点番号 A語形とその注記 A注のない語形 ツクル〈昔〉 コシラエル kofitraerü 〈誘. kose:ru〉 kosiþraerü (荒) tskünüü. kosaerü kose:ru. 〔kosaeru〕 tsukuru. (kofiraeruと言っているはず。) tsükuru〈古〉(〈古〉というのはやや疑しい) kose:ru. ツクル・コサエル。〈両方使っている〉 kofiraeru〈以前に使った〉 tsu☆kumru. tsukumu〈有力〉 kosaeru kose:ru. kosaeru. 〈両方おなじ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01414.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01414",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01414.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での順位は地点番号順にする。\n注記の〈 〉（ ）は表記にする。\n\n日本言語地図資料用紙 注記一覧 14-15\n質問番号 23／地図番号 56\n項目名 作る（製造）\nページ (13)\n\n見出し: 地点番号／A 語形とその注記／A 注のない語形\n\n73. kojiram 〈普通これを使う〉    tsmkmrum\n29 kojau. 〈多く使う〉             tsiikumrum.\n85 kosaerum; kojaerum; koja? 〈（日同じように使う）〉\n70 kojiraerum. 〈多〉               tsüikurum\n65 tsüikurum. 〈普通使う〉          kojiraerum.\n27 kojiram 〈上〉                   kojam.\n77 kojiro 〈多く使う〉  tsuikumrum（これは使わない）\n71 コジラエル。（小さい所での場合）\n66 kojiraerum（共？）              kosaerum\n24 kosaerum（普）                   tsmkmrum",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01415.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01415",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01415.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5771.36",
+      "5780.57",
+      "5791.68",
+      "5792.62",
+      "6277.62",
+      "6296.27",
+      "6339.86",
+      "6368.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　14-16\n資料番号　23　地図番号　56\n項目名　作る（製造）　023\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n\n（表ヘッダ）\n地点番号　A　語形とその注記　A 注のない語形\n\nkojiraeru. <やや改まったいい方>\nkosseru <ごくふだんのいい方>\n\nkosaerū <やや一般的>\n（右注）kose:ru, tsukäru?\n\nkose:ru <多>\n（右注）kojiraeru\n\nkose:ru. （れを〜のがまい、という形での答）\n\ntsukuru. dekasu. <dekasuを多く使う。 箱作りは hakodekaji など>\n\ndekasu <多>\n（右注）tsukuru.　ツクル。\n\nコミラエル. <希>\n（右注）ツクル。\n\nkosaeru. <古>\n（右注）tsükuaru.\n\n（下部枠線）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01416.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01416",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01416.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6376.33",
+      "6395.46",
+      "6408.15",
+      "6417.72",
+      "6428.76",
+      "6437.23",
+      "6454.88"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) は厳密にする。 日本言語地図資料用紙　注記一覧　14-17 調査番号　23　地図番号　56 項目名　作る（製造）023 A（青潮注記） (B　除いた共通語) (C　除いた特殊語) ページ（15） 地点番号　A語形とその注記　A注のない語形  kojirairu <古>　　　　　　tsukumu ツクル。<セイゾウスルとも言う> コシャアル　<トケエ等製造> （普通の表現はトイエ コシャアル。（時計をこしらえている） カマバコ ミトル（かまぼこをしている）のように完了形を用いている。） Kojirae: toru.（終止形はコララエルである） コシラエル　<古>　　　　　ツクル  コシラエル　<普>　　　　　ツクル ツクル。　コシラエル。　区別なし",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01417.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01417",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01417.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6466.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-18\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での番欄は地点番号順に並べる。\n注記の＜＞（）[]は敢行にする。\n\n（右上欄）23　56　項目名　作る（製造）028\n\n地点番号　A 語形とその注記　A 注のない語形\n6457. 51　kojiraeru　〈古〉　tsukuru\n6462. 52　セェゾオ スル（改った言い方）（普段の言い方は得られなかった。初調査者が余りに上記の再結に固執した。）\n6466.01　ツクル　〈上品な言い方〉\n6472. 05　fsiinkuruu, [kojaeru]（両方同じように使う）\n6472. 58　コシラエ（ヨ）ル　（コシヤアルというようにも聞える）\n6477. 02　コッシャエル（促音部がほとんど聞えない時もある）　コジャエル\n6479. 51　kojirairu（豆、豆腐などには kawara soru（〜ijoru）のようにいう。時計についても tokei/ijoru のようにいう。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01418.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01418",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01418.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧\nA・(B)・(C)ごとに別紙を使用する。／その中での情報は地点番号順に並べる。／注記の＜＞（）は厳密にする。\n資料番号 23　地図番号 56\n項目名 作る（製造） 028\nA（共通語上位）　ページ 14-19（手書きで 7（4））\n見出し: 地点番号／A 語形とその注記／A 註のない語形\nコシラエル（上）〈残った場合の言い方〉　→ 右欄: ユッシャエル\nコシラエル〈希・新〉　→ 右欄: コッサエル\n〔コッシャエル〕 コシラエル\n（はじめコシラエルと言う。年寄（明治20年生）が“コシヌエル”と言うのを認め，コシラエルは行事のことばだと説明）\nコッシャエル（古い言い方だと説明した。）　→ 右欄: ユシラエル\nkojirareru（丁寧な言い方）　→ 右欄: kosaeru\nコシラエル・ツクル〈区別がわからない〉\nツクル コシラエル（区別がないようだ）\nkojirareru〈若い人は使わないだろう〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01419.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01419",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01419.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6526.04",
+      "6527.22",
+      "6528.21",
+      "6528.64",
+      "6529.63"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　14-20\n調査番号　23　地図番号　56　ページ（18）\n項目名　作る（製造）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は敢略にする。\n\n地点番号　A語形とその注記　A注のない語形\n6526.04　ツクル・コシラエル　〈意味同じ〉\n6527.22　dekasu　〈古〉\n6528.21　tsukukuru. dekasu.\n　〈両方とも昔から普通に使っている。023の意味では合然と別ない。しかし他の場合には差別がある。例えば:\n　「thata tsukumu」とは言わず「thato o dekasu」とは言えない。〉\n6528.64　dekasū. tsukukuru（全然差別なし）\n6529.63　kosaeru.（女がよく使うが、男も使わないわけではない）　tsukukuru\n　（形のあるものなら全部使ってもよい。その場合tsukukuruとの感じの違いはないと思う。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01420.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01420",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01420.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6531.53",
+      "6533.89",
+      "6537.06",
+      "6546.73",
+      "6548.26",
+      "6549.03"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（　）〔　〕は厳密にする。\n\n日本言語地図資料用紙　注記一覧　14-21\n\n（上部ボックス）\n23    56\n項目名　作る（製造）028\nA　普通語記\n(B　除いた共通語)\n(C　除いた特殊語)\n\n（表内の注記）\nユミラエル。（普通の話ではコシラエトルの形を用いるのが常である。）\nkosiraeru. （この形を多く使う）　kosaeru?\ndekasu. （鼻）＜一般に中流以下の人達が昔よく使った。私は下品な語だと思う＞\ntsukukumu（文化的な感じがする。）\nkofau（希）（稀か。土俗的な感じがする。今では余り使うこともないと思う）　tsukuru.\nkofau. （両方を普通に使うが、まこいの言い方では kofau の方はあまり使わない。しかし tsukuru の方が上だろなどという感じはしない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01421.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01421",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01421.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 14-22\n質問番号 23／地図番号 56\n項目名 作る（製造）\nA B C  ページ 20（左）\n\n地点番号　A 語形とその注記\n69 tsukuru. koshiraeru. 〈区別なく使う〉\n52 コシラエル。〈ツクルとは区別がある〉\n22 koshiraeru, tsukuru. 〈どちらも使う〉\n83 koshiraeru, tsukuru 〈双方の使用差はあまりない。しかし「こしらえる」の方が普通に用いられる〉\n14 kose:ru 〈単〉\n37 tsukuru. kojaru. 〈両方を同じに使う。新古・上下等の区別はつかない〉（多少意味の相違があり，kojaru は行為のあるものにするようだ）\n69 tsukuru. koshiraeru. 〈両方同義。上下・新古の区別なし〉（語義の差は不明だが、場合により使い分けることも）\n箇条書きメモ：\nA・(B)・(C) ごとに別紙を使用する。\nその中での情報は地点番号順にまとめる。\n注記の〈 〉（ ）は記録用にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01422.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01422",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01422.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 14-23\n▶ A・(B)・(C)ごとに別表を使用する。\n▶ その中での前後は地点番号順に並べる。\n▶ 注記のく( )は厳格にする。\n管囲番号 23  地図番号 56\n項目名 作る(製造) 023\nA 普通語注記 / B / C / ページ 1 (20?)\n見出し: 地点番号 / A 言形とその注記 / A 注のない語形\nkojiraeru (はじめ tsukuru と答えた。これを使わないではないという。)\nkojau. (これは調査者の「kojau とは言いません」という問いに対する答え。インフォーマントの説明では tsukuru は主体的な作業の呼び方で，… という趣旨。) tsukuru\nkosaeru. (はじめ「コシェエル」と言って言い直した。)\ntsukuru. kojiraeru 工場のような大きな所でのこと。「ツクル」を使い，小さな所で作る時は「コジラエル」という。 >",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01423.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01423",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01423.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6581.52",
+      "6585.25",
+      "6585.83",
+      "6591.02",
+      "6603.52",
+      "6608.07",
+      "6610.00",
+      "6615.02"
+    ],
+    "other_text": "日本言語地図資料利用紙　注記一覧　14-24\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での音順は地点番号順にそろう。\n・注記のく＜＞()は登録語にする。\n質問番号 23　地図番号 56\n項目名 作る(製造) 023\nA 普通注記　ページ 2(2枚)\n\n地点番号／A 語形とその注記／A 注のない語形\n6581.52　コシラエル。（姓）　|　コシラエル\n6585.25　ツクル。（ふはコサエルとも言う）\n6585.83　kosaeru〈希〉　|　kojirderu.\n6591.02　ツクル。（「コシラエル」という人もある。）\n6603.52　kosaehn（…子供・幼語のときは）　kojachn\n6608.07　kosaeru（ちょっぽいものを作る時）\n6610.00　コシラエル　←　ツクル。\n〈コシラエルを多言は使う。ツクルも使ったことばではない。〉\n6615.02　ツクル。コシラエル。（…のツリがない）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01424.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01424",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01424.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [],
+    "other_text": "14-25\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉( ) は最終形にする。\n\n日本言語地図資料利用紙 注記一覧\n質問番号 23  地図番号 56\n項目名 作る（製造） 028\nA 普通語\nB 限いた共通語\nC 限いた特殊語\nページ (23)\n\n地点番号 / A語形とその注記 / A語のたい語形\n53. kosaerɯ. 〈希〉    tsukurum.\n98 tsukurum 〈tsumu:mu とは言わない〉    tsukurum.\n58 kofau 〈右〉〈今はあまり言わないようだ〉    tsukurum.\n60 kojaerɯ. 〈善〉 kojau 棒.\n32 kojideru. 上.    kosaerɯ.\n89 kojideru. 上.    kosaerɯ.\n34 kojau. 〈上下・新古の区別はないと思う。同様に普通に使う〉（どんどん張った言い方をすると kojau（古いとは言わないか））\n58 kojiraeru 上    kosaerɯ.\n72 kosaerɯ. kojideru（いろいろな使い。警語に使う）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01425.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01425",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01425.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での番号は地点番号順に並べる。 注記の<>（）は該当語にする。 日本言語地図資料使用紙 注記一覧 14-26 質問番号 23 地図番号 56 項目名 作る(製造) 023 地点番号／A 語形とその注記／A 連のたい語形 62. kojiraeru. <丁寧> kosaerum. 70. kojirum. kojum <ともに同じぐらい使う> kosaerum. 06. kojireru. 上. kosaerum. 01. kojimeru. 希. kofam. 39. kosarum <方言的な言い方で使う> tsukurum. 46. kose:ru. <古> tsukurum. 26. kojiruru <古> tsukurum. 41. kojirajuru <古くはこの形が多かった> tsukurum. 95. ツクル。 ツクヨッという方もいると説明される。 61. kojiraeru. 古い言い方 tsukurum.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01426.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01426",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01426.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 14-27\nA・B・Cごとに別紙を使用する。\nその中での音形は地点番号順に並べる。\n注記のく＜＞（）は意味等にする。\n質問番号 23／地図番号 56\n項目名 作る（製造） 025\nA 普通注記  ページ（245）\n\n地点番号　A 語形とその注記\ntsukuru.（焼酎の場合 sejiru という）\nkojirajuru ＜古＞\nkosaeru.〔…といわれると kojireru であると補った。〕\nkosaeru.（seizo: suru と気どっていうこともある。）\ntsukumu.（seizo: suru ということが多いかも知れないと言っていた。）\nkojiraeru（kos:aeru と）被調査者は使わないらしい）\ntsukumu（地域内には kosaeru, kosaeru という者もあるらしい。）\ntukuru ＜少＞",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01427.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01427",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01427.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [],
+    "other_text": "A・{B}・{C}ごとに別表を使用する。 その中での皆異は地点番号欄に書く。 注記のく<>（）は該当等にする。 日本言語地図資料利用紙 注記一覧 資料番号 23 地図番号 56 項目名 作る（製造） 029 A 普通語注記 B（使われた共通語） C（使われた特殊語） ページ 6 14-28 表見出し: 地点番号 / A語形とその注記 / A注のたい語形 kosaeru <多>, kojinaeru <少>. コサエルを普通に多く使う、コジナエルは限って貧な言い方。 kojinaeru <多>. tsukuru. kojirau, kojau. 其に同様にいう。 koje:rowa <古>. tsukurowa. tsukuku. <tsukuttoro mo iu>. tsukui. (tsukuru arun サ音化). tsukut.（動詞の語幹にもとられ言われることもある。） 実際の言葉では、動詞の語尾に関する説明がある。 tsuku:iga … ツクイガ; tsukutto … ツクット; tsukunna … ツクンナ.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01428.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01428",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01428.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [],
+    "other_text": "日本語方言地図資料利用紙 注記一覧 14-29\n質問番号 23　地図番号 56\n項目名 作る（製造）028\nA 共通注記／(B)／(C)　ページ(26?)\n地点番号／A 語形とその注記／A 記のたい場所\n\ntsukui. （誤録的語尾音である）\ntsukuru. （初調査音は/tsukuru/と推定するが/tsukuru/は使う答がある。調査者的にこの題にを置いた際、/tsukuru/が誤録された。）\ntsukui. （標本の音化、語末の音は明瞭。）\ntsukuji < tsukut. と言ってよい>\nkojitajuru; tsukuru. （区別はっきりせず）\ntsukurijuri. （tsu は tsi があるいはと思われる部分か）\ntsukurujum （等々）　tikurjum\ntsukujum. tsukujui. （語調：終止形の語）\n（左欄の注意書き）\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での資料は地点番号順に並べておく。\n・注記のく<>（）[]は厳密にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01429.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01429",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01429.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）には傍線にする。 日本言語地図資料用紙・注記一覧 14-30 質問番号 23 地図番号 56 項目名 作る（製造） 023 A 常道注記 B 使いた共通語 C 使いた特殊語 （28）\n地点番号／A 語形とその注記／A 注のたい場所\n尾のニクの形の違いについては、021・022の項〈 〉ぬを見よ。\ntsukurijun; tsukurijuri. ＜-wa はいつも作る。作るところの心持ちで、自分が作る。 -ri は作るのを見ていく。＞ 以下、音調の差上行（二リ）。 ヒートーri のちがいは語をつけ、音長にもどり。\ntjukujun. tjukujumu（両村は方言差に使う）。\ntsukajui（新しい語のように思われる）。\ntjukujung 古。 tjukuing 新。\ntsukuing 若。\ntjukuing",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01430.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01430",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01430.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [],
+    "other_text": "14-31 日本言語地図資料利用紙 注記一覧 質問番号 23 地図番号 56 項目名 作る（製造）028 A 普通注記 ページ 9 A・[B]・[C]ごとに別紙を使用する。 その中での資料は地点番号順に並べる。 注記のく<>（）は従属にする。 地点番号／A 語形とその注記／A 注のたい語形 76 tsukujuɴ. 〈いつでも作るところだから tsukujuji とはいわず〉 47 tsukuiŋ 49 tɕuɸɸi: 〈tɸɸi ui ともいう。〉 51 tɕaffu. 〈くる意にも用いられる。〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01431.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01431",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01431.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。▶ その中での番号は地点番号順に並べる。▶ 注記の＜ ＞（ ）は厳密にする。 日本言語地図資料用紙 14-32 質問番号 23 地図番号 56 項目名 作る（製造） A 筆記記載  B 聞いた共通語  C 聞いた特殊語  ページ（1） 見出し：地点番号／B・中 聞いた語形とその注（右欄：B・右 残した語形とその注） 1762 ツクル。〈丁寧〉｜右欄：コサル（若）、ユサク語 4685 tsukuru.〈新〉｜右欄：kojo:（古）（若い者に用いた） 4686 [tsukuru]〈土〉｜右欄：kojiramu〈上〉、kojo:、[ ] koʃo: 4694 tsukurum（共）｜右欄：kose:（…） 4697 tsugurum〈新〉（kosse:mu）｜右欄：kʰoʒo:（…） 4703 tsukurum｜右欄：か形も同じように使われる。 4714 tsukumum｜右欄：kʰse:mu（俗・稀） 4726 tsugurum（共）｜右欄：kose:mu〈俗〉 4743 tsukumum〈新〉｜右欄：kojige:mu（古）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01432.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01432",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01432.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用表 注記一覧 14-33\n質問番号 023／地図番号 56／項目名 作る（製造）\nA・(B)・(C) ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕に注意する。\nページ (2)\n見出し: 地点番号／B・C 認めた語形とその注／A 上の注（B・g 表した語形とその注）\n行内容（概略・転記）:\n- tsukaru 〈了〉 | kosirareru\n- tsukuru 〈新〉 | kojieru\n- ツクル 〈古〉 | コシラエル（T）コガエル\n- ツクル 〈新〉〈先〉 | コシネオ（古）\n- tsukurum. （共）はじめ kosi(rau) と誤記、後訂正した。| kosam.\n- tsukurum. （新.上）| kosirao, kosao（南部の人も?）\n- tsukaru （秦.上）| kosireru\n- tsukuru 〈希〉 | kosirderu\n- ツクル 〈新〉 | コシラエル〈古〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01433.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01433",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01433.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5666.10",
+      "5669.12",
+      "5686.31",
+      "5687.32",
+      "5688.01",
+      "5690.27",
+      "5696.68",
+      "5723.36",
+      "5780.11",
+      "5792.62"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧    14-34\n(右上の欄) 23   56\n項目名　作る（製造）\nA 常通注記　B 除いた共通語　C 除いた特殊語  (ページ (3) )\n\n表ヘッダ: 地点番号 | A 一語形とその注 (B・除いた語形とその注) | Aにない語形 (B・残した語形とその注)\n\n（表内、読み取りおこなった行）\nツクル 〈綿？〉　　　コシラウく > コシラエル　コミャウ\ntskuirü 〈〉　　　　kojaii\ntsukukuru 〈新〉　　kosei:ru.\nツクッテル　　　　　ツクル.\nツクッテル　　　　　ツクル.\ntsukuru 〈新〉　　　kojiraeru.\ntsukkuru 〈共〉　　 kose:ru (方言的言い方、で多くは使わない。)\ntsukukurum 〈新〉　　（注記、koseru 語形）\ntsktterüi (誘、koserü) \ntsükurum. (製造するの翻訳での答、kose:ru. (札を〜のが言いにくいのがある) )\n\n（下部に手書き注記・小さい注釈ありがみえるが不鮮明）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01434.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01434",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01434.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [],
+    "other_text": "14-35 日本言語地図資料利用表\n質問番号 23  地図番号 56\n項目名 作る（製造）\nA …  B …  C …\n（欄見出し）地点番号／人番号とその性別（B・C 聞いた語形とその注）／★共の共語（B・C 残した語形とその注）\n6409 72 ツクル〈女〉｜コシラエル\n6423 75 tsüükuru 〈上島〉｜koshiraerum\n6424 20 tsüükmru 〈綿〉｜koshiraerum\n6429 61 ツクル〈女〉｜ユシラエル\n6437 07 ツクル〈新、女〉｜コシラエル\n6457 45 ツクル｜コシラエル、コッサエル\n6476 77 ツクル〈新〉｜コツサエル\n6485 14 ツクル〈新〉｜コシラエル、コシラエレ〈上〉\n6494 08 ツクル〈女〉｜ユシラエル\n6500 83 ツクル〈少〉｜コサエル、コセアエル",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01435.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01435",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01435.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [],
+    "other_text": "▶ A・(B)・(C)ごとに別表を使用する。 ▶ その中での音形は地点番号順に並べる。 ▶ 注記のくつ＜＞（）は略符にする。 日本語方言資料採用紙 語法一覧 14-36 質問番号 23 地図番号 56 項目名 作る（製造） A 普通語記 ページ(5) 地点番号 A 本地方の音形（B・C 欄 書いた語形とその注） 本地方外の語形（B・C 欄 使った語形とその注） 86 ツクル。（新） コシラエル 94 ツクル。（新） コシラエル 86 tsukuru.（新） kojimeru（若い人は使わないだろう） 01 tsukuru.（注あり） kojineru. 52 ツクル。最近ツクル言うが増した。 コシラエル 03 tsukuru kojau（長い注記あり） 18 ツクル コシラエル 88 tsukuru. ＜希＞ kojimeru.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01436.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01436",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01436.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6557.14",
+      "6571.63",
+      "6576.32",
+      "6576.56",
+      "6604.60",
+      "6608.07",
+      "6613.07",
+      "6623.28",
+      "6624.65"
+    ],
+    "other_text": "A・(B)・(C)ごとに別表を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）は鉤括弧にする。 日本言語地図資料使用紙 記入一覧 14-37 質問番号 23 地図番号 56 項目名 作る(製造) （B 限いた共通語） （C 限いた特殊語） 地点番号｜Bで採った語形とその注｜A出の語形番号（B・C 残した語形とその注） 6557.14 tsukuru 〈両方とも普通につかう。上品な場合は…〉 kose:ru は使わない ／ 右欄: kose:ru 〈尊〉 6571.63 tsukuru 〈希〉 ／ 右欄: kojiraeru, koshiraeru 6576.32 tsukuru. 〈英〉 ／ 右欄: koshiraeru. 6576.56 tsukuru 〈災〉 ／ 右欄: koshiraeru. 6604.60 ツクル。〈新〉 ／ 右欄: コセル。 6608.07 tsukuru 〈立派なものを作るとき〉 ／ 右欄: kosaeru. 〈高尚な動作を指す〉 6613.07 ツクル。〈新〉 ／ 右欄: コセエル 6623.28 ツクル。〈災〉 ／ 右欄: コシラエル 6624.65 tsukurum 上 ／ 右欄: kosaeru.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01437.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01437",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01437.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での昇順は地点番号順に並べる。 注記の＜＞（）は該箇にする。 日本言語地図資料用紙 注記一覧 質問番号 23 地図番号 56 項目名 作る（製造） 028 A 常道記述 B 聞いた共通語 C 聞いた特殊語 ページ (7)\n表見出し: 地点番号 / A 言形とその注記（B・C 除いた語形とその注記） / A せの注記（B・Q 残した語形とその注記）\n6625. 17 tsukuru 上. kose:ru.\n6625. 66 tsukuru ＜希＞ kosa:ru.\n6633. 33 tsukuru 希. kojideru I. kose:ru.\n6634. 07 tsukuru 上. kojinderu.\n6639. 79 tsukuru ＜希＞ kosgeru.\n6640. 34 tsukuru ?（炎） koʃau. ＜上・下・静かなのを別け切らないと思う、同様各普通に使う。変わった言い方でその前に koʃau とはあまり言わない＞\n6640. 76 tsukuru ＜土＞（穀粉発酵のいい言い方）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01438.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01438",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01438.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [],
+    "other_text": "14-39\n日本言語地図資料採用紙 記入一覧\nA・(B)・Cごとに別紙を使用する。\nその中での…欄は地点番号順に並べる。\n注記のく<>()は鉛筆にする。\n質問番号／地図番号／ページ\n項目名 作る(製造) 023\n地点番号　A欄（B・C 欠いた語形とその注）\ntsukurum. 上　kosaeru.\ntsukurum. 上　kosiraeru. いくらか丁寧。\ntsukurum. 〈希〉　kosaeru. 普通に使う。\ntsukurum. 〈新〉　koze:ru.\ntsukurum. 〈希〉　kosiraeru (?) / kosaeru.\ntsukurum. 　kosaeru.\ntsukurum. 上　kojiraeru.\ntsukurum. 希　kosaeru.\ntsukurum. 〈希〉　kosaeru.\ntsukurum. 上　kojiraeru. 希. kosam?（不明）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01439.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01439",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01439.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 語い一覧 14-40\n質問番号 23　地図番号 56\n項目名 作る（製造） 025\nA 普通語記入 / B 〜（丸） / C 〜　（ページ）(9)\n・A・(B)・(C)ごとに別表を使用する。\n・その中での音順は地点番号順にそろえる。\n・注記のく<>()は該語形にする。\n\n地点番号｜本形・その他の注記（B・C 残した語形とその注）\n6697. 39. tsukurum. 〈去〉　kosaeru（行為的表示 …）\n6697. 59 tsukurum. 〈寄〉　kojiraenu\n6711. 60 tsukuru 〈希〉　kosiraeru\n6720. 67 tsukuru 〈希〉　kojirenu, kosaemu\n7239. 85 ツクル。（動詞終止形の語尾はつまる音になるが、まっている時はル音が出る。）／ツクッ，\n7248. 49 tsukuru 〈奈行〉　kojajuru\n7275. 09 ツクル。　「ツクツ」\n7321. 46 tsukuru.　kosiraeru\n7326. 41 tukuru. 〈改まった言い方〉　kojiruru",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01440.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01440",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01440.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での順位は地点番号順に並べる。 注記のく＜＞（）は傍線にする。 日本言語地図資料用紙 注記一種 14-41 質問番号 23 地図番号 56 項目名 作る（製造） 029 A  普通語法 （B  使い方表現） （C  使いた特殊語） ページ（10） 地点番号｜本語形とその注記（B・C欄に書いた語形とその注）｜本文の文献等 57 tsukuru（tsukukuru?） 上  kojiraeru. 72 tsukuru. 〈新〉 大きなもの。舟などは tsukumu（?）  kojiraeru.（小さなもの） 21 tsukuru. 〈新〉  kosa'eru. 16 ツクル. 〈新〉  コシラエル. tsukuru 〈共〉 tsukut.（動詞の語形） 注）言うこともある。建築の言葉でも用いる。 (tsukuri ga…「ツクリガ」/ tsukutto… ツクット / tsukunna… ツクンナ)",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01441.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01441",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01441.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [],
+    "other_text": "・A・(B)・(C)ごとに別紙を使用する。\n・その中での音形は地点番号順に並べる。\n・注記の（）は…。\n\n日本言語地図資料利用紙 注記一覧 14-42\n質問番号 23\n地図番号 56\n項目名 作る（製造）\nA 普通注記\n(B 聞いた共通語)\nC 聞いた特殊語\nページ (1)\n\n地点番号／B・C 記した語形とその他\nkakosuruu〈アスパラのようなものは〉 | kojiranu\nハク（コサエル）は一般的に何の製作にも使うが、バケは餅を作るという意味にだけ使う | コサエル\nセゾースル | コシラエル\nセゾースル | ツグル\nセゾースル | ユスラエル\nkojau | ko/au\nセゾナスル | ツクル\nsezo（義詞）（共） | kojirau\nセゾオスル | コシラエル（善）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01442.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01442",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01442.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [],
+    "other_text": "・A・(B)・(C)ごとに調査を使用する。 ・その中での情報は地点番号順に並べる。 ・注記の＜＞（）は採録にする。 日本言語地図資料採用表 注記一覧 14-43 質問番号 23 地図番号 58 項目名 作る（製造） A 普通注記 / (B 聞いた共通語) / (C 聞いた特殊語) 見出し: 地点番号｜A語形その他の注記（B・C 聞いた語形その他の注） 5638. 53. セイゾオスル〈改まった言い方〉／ツクル（普通の言い方） 5655. 57. セエサンスル〈リ〉／ツクレ（？） 5664. 51. [ kose:ru ]／tsukuru 5668. 88. セエゾオスル〈改まった言い方〉／ツクル（常） 5690. 96. se:dzo: 新／tsukuru 5730. 71. セイゾオスル〈大きい工場の場合〉／コシラエル（小さい所での場合） 5750. 84. セイゾオスル〈やや改まった言い方〉／コシラウ 6408. 15. スル〈カマボコ製造〉／コシラエル〈トイ（イ）製造〉 6409. 35. セイゾオスル〈新・史〉／コシラエル 6421. 26. ツクル（「ツクルは新しくはないかと思う」）／コシラエル",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01443.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01443",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01443.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [],
+    "other_text": "A・〈B〉・〈C〉ごとに調査を使用する。 その中での情報は地点番号順に並べる。 注記の〈 〉（ ）は略記にする。 日本言語地図資料用紙 記入一覧 14-44 質問番号 23  地点番号 56 項目名 作る（製造） 028 A 常語記  B 聞いた共通語  C 聞いた特殊語（C） ページ（3） 地点番号（欄名） se:20; siiru / kojiraeru. セエゾオスル / ツクル、コシラエル（も） セエゾオスル〈尖〉 / ツクル。 セエゾオスル〈新・変〉 / ツクル・コシラエル。 スル（時計オスルなどにも使うのであろう、注） セエゾオスル / コシラエル。 セエドオ、セエゾオ〈新〉 / ツクル・コシラエル。 コシリアアル。 コンシリアアル? ショオル / ツクル（〈上品なる言い方〉） シヲオル / ツクル",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01444.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01444",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01444.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6469.77",
+      "6474.03",
+      "6512.09",
+      "6515.70",
+      "6530.23",
+      "6533.89",
+      "6546.73"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　14-45\n（上部ボックス）\n資田番号　地図番号　23　56\n項目名　作る（製造）023\nA　普通注記　B　除いた共通語　C　除いた特殊語　（4）\n（左上注意書き）\nA・（B）・（C）ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略筆にする。\n\n（表ヘッダ）\n地点番号　（A・B・C除いた語形とその注）　Aのない語形（B・C残した語形とその注）\n\nセエゾネスル　〈共、上〉　　　コシラエル・ツクル\nスル.　OF　　　コシレエル\nsee 20: suru　〈上〉　　　kojiraeru.\nseizo: suru　　　kojiraeru.\nセエゾネスル　〈希〉　　　コシラエル\nseizo　（普通にはなす時使う）\n（上記のようにせんが、隣組の会合とか納涼会など、土地の人同士の公的な会合など、多少改まった場合に使うようだ）　kojiraeru.（この形を多く使う）　kosaeru\nsumru.　（時計＋工場では、時計を jitoru と言うか、tsukurum. ふつうだ。）　〈文化的な感じがする〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01445.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01445",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01445.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [],
+    "other_text": "A・(B・C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉（ ）は略称にする。\n\n日本言語地図資料利用紙　14-46\n質問番号 23　地点番号 56\n項目名 作る（製造） 028\nA 普通語形\n(B) 聞いた共通語形\n(C) 聞いた特殊語形（○）\nページ (5)\n\n〔表の記入〕\n13　コシラエル\n7423行: seizo: suru　〈多〉板また言い方　tsukuru <<り>>\n8315行: dzekuru　tsukuru.（…“dzekuru”を主張するが/tsuku… 調査終了後…）\n8334行: tsukuru（次に続く語以外で。原形 tsukura・tsukuki と tsukut となる。）　tsuku; tsukut.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01446.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M056Q023/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01446",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01446.tif",
+    "source_ljc_id": "LJC-M056Q023",
+    "source_map_numbers": [
+      "056"
+    ],
+    "source_title": "つくる (作る)"
+  }
+]

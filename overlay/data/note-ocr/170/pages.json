@@ -1,0 +1,1872 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1738.19",
+      "1739.85",
+      "1756.32",
+      "1816.52",
+      "1848.24",
+      "1854.24",
+      "2761.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-82\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ ( / )\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n1738.19 dzikajo: mai <多>    sokurjo: mai\n1739.85 kui=mai  <hanmaiはめったに使わない>\n1756.32 質問せず    農家でないから問わない。\n(1816.52) ハンマイ <昔> , ジカヨオ <多>\n1848.24 ?hoju:mai\n1854.24 dzikajo:(mai) ... <hojui:maiと>\n2761.77 質問せず    農民でない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05182.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05182",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05182.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2763.89",
+      "2784.75",
+      "2785.74",
+      "2794.85",
+      "2795.72",
+      "3609.47",
+      "3639.49",
+      "3649.16",
+      "3649.64",
+      "3704.42",
+      "3715.51"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-83\n質問番号　地図番号　170\n項目名　飯米　176\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(2)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\n\n仮問せず … 仮問不採\nN.R.　＜特に名づけていることなし＞\nN.R.　＜特に語がない＞\nkuijo　＜食い用ということ＞\nN.R.　＜特に言うことはないが hammai という語は知っている。＞\nhammai　＜農民のことば＞\nkesine　白米である。\nkesine　もみ米でも玄米でも白米でも全て食用にする米。\n仮問せず　農家ではないが\nホユマイ　＜強いえば保有米という＞\nhammai:　＜kesineは米に限らず主食とする食糧一般を意味する＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05183.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05183",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05183.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3722.97",
+      "3725.12",
+      "3725.72",
+      "3726.25",
+      "3727.81",
+      "3734.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51.84\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記 ページ (3)\n[B 除いた共通語]\n[C 除いた特殊語]\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n3722.97　kuijo ... 「食い用」ならむ.　hamnxe\n3725.12　キスネ ... (糠を精白したもの。 この地方は糠を主食としていたので。)\n3725.72　コメ (専業ではないが たずねた。)\n3726.25　ケスネ (主食か糧だったので 精糠を指すようである。)\n3727.81　アマリ (飯米の意味が充分に含みこめ なかったようである。)\n3734.42　N.R. (この語なし)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05184.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05184",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05184.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3736.58",
+      "3737.32",
+      "3745.98",
+      "3755.32",
+      "3756.26",
+      "3757.09",
+      "3757.59",
+      "3761.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-85\n資問番号　地図番号　170\n項目名　飯米　176\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (4)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n地 点 番 号    A 語形とその注記 [B・C除いた語形とその注]\n3736.58    N.R.　（特に増なし）\n3737.32    夜間せず　（非農家）\n(一行取り消し線の数字)\n3745.98    N.R.　（主食は○○の地域）\n3755.32    N.R.　（子供と○　米作しない）\n3756.26    N.R.　（特に用語がない様子）\n3757.09    kako:『ri』＜コメに限らず、なんでも貯えておいた\n　　　　　ものを言う。 金でも構わない。＞\n3757.59    夜間せず　（農家でない）\n3761.22    kui kome　＜hammade などはこのころのことば＞\n(以下行ありが切れている)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05185.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05185",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05185.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3763.17",
+      "3765.74",
+      "3766.47",
+      "3775.83",
+      "3781.49",
+      "3783.11",
+      "3786.44",
+      "3787.50",
+      "3791.02"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-86\n質問番号　地図番号　170\n項目名　飯米　176\nA 普通注記　ページ\n[B　除いた共通語]　[C　除いた特殊語]\n• A・[B]・[C]ごとに別紙を使用する。\n• その中での情報は地点番号順に並べる。\n• 注記の＜　＞(　)[　]は厳密にする。\n表見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n[ハンメア]\nN.R.　被調査者に　聞少し\n質問せず（米作地ではない）\nススゲコメ（次の収穫まで食べる米）\nkesine（昔）　hamme\nN.R.　この店がない為。\nスガヨー（自家用）\n質問せず　米作・ カム地美\n*hoj:nal　＜新＞＜古いことばは不明＞（＋行の人のためか？）\n(M) kesine nome ＜古＞（誘集したから）　一寸不安。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05186.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05186",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05186.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3793.37",
+      "3795.86",
+      "3797.32",
+      "4597.66",
+      "4598.33",
+      "4609.54",
+      "4609.68",
+      "4619.63",
+      "4629.43",
+      "4638.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-87\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n質問番号　地図番号　/170\n項目名　飯米　176\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(6)\n\n表見出し：　地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n\n（手書き列）\n3793.37　キスネ（光）　チューメア\n3795.86　ホユーメア　特になしと言った。\n3797.32　N.R.　（特になし。）\n4597.66　クイマイ　農家ではない。この項目不要。\n4598.33　ku:mai　<古>\n4609.54　復問せず　非農家\n4609.68　hamme:　＜普通に＞\n4619.63　反問せず　非農家\n4629.43　hamme　＜戦争から返われる＞　kejineme, kejinenome\n4638.43　hamme:　＜昔が用いている＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05187.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05187",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05187.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4653.84",
+      "4654.52",
+      "4657.64",
+      "4658.42",
+      "4665.87",
+      "4666.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-88\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉( )[ ]は厳密にする。\n質問番号　地図番号　170　ページ (7)\n項目名　飯米　176\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4653.84  hamme: 〈訛った形〉    hammai\n4654.52  hammai 〈昔から使っている〉\n4657.64  疑問せず?　農民でないので?\n4658.42  hamme: 〈明治時代から〉 (?)\n4665.87  hammae 〈明治大正時代からか？〉\n         budziki (古) (「nengo maia 反対は何ですか」という問いに対する答え。明治時代に用いた。)\n4666.99  bundzjiki (「昔は何と言いましたか」の問いに対する答えで〈明治時代 用いた〉という。)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05188.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05188",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05188.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4677.65",
+      "4678.71",
+      "4679.65",
+      "4684.77",
+      "4685.72",
+      "4685.88",
+      "4694.95",
+      "4695.21",
+      "4698.15"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-89\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞（　）[　]は厳密にする。\n（上部の欄）質問番号　地図番号　170　項目名　飯米　176　A 普通注記　(B 除いた共通語)　ページ（8）　[C 除いた特殊語]\n表ヘッダ：地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n手書き記入欄（行ごと）:\n4677.65　kumbumdzi　（希）　\t\tdzikajo:\n4678.71　N.R.　特に云わない。\n4679.65　e: me:　（e: = 家）\n4684.77　仮問せず　（漁師ゆえ）\n4685.72　仮問せず　農民でないので。\n4685.88　buruki　itsinem buruki は一年分の飯米。\n4694.95　[bumdziki]　＜希＞複調査者の女はよくこの場を用いた。\n4695.21　hammai　農民ではないか問うた。\n4698.15　ee: nokome　（家の米）\n（下部余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05189.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05189",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05189.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4706.53",
+      "4712.16",
+      "4712.54",
+      "4713.60",
+      "4722.55",
+      "4723.58",
+      "4724.75",
+      "4740.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-90\n質問番号　地図番号　170　ページ（9）　項目名　飯米　176\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）[　]は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n4706.53　hammeɾe　〈古〉\n4712.16　N.R.　〈?〉［hamme:］\n4712.54　kome　〈?〉\n4713.60　hojumi: mae　（但し、被調査者は米作農家ではない。）\n4722.55　hojumme:　〈幼〉　昔は別に名称はなかった。\n4723.58　hammael　この被調査者は農民ではない。\n4724.75　同上\n4740.26　hammae　〈幼〉　（この語は供出料か行われてから使われる様になった。それ以前は特に名はなかった。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05190.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05190",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05190.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4741.92",
+      "4742.37",
+      "4742.95",
+      "4751.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-91\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈　〉(　)［　］は厳密にする。\n\n（箱内） 資問番号　地図番号　/170\n項目名　飯米　176\nA 普通注記\n(B 除いた共通語)\n[C 除いた特殊語]\nページ (10)\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4741.92  hammae 〈戦前から使う〉\n      〈秫さかの米でなく、夏にこしらえる米を言った。〉\n\n4742.37  hamme: [形][e:dekuu:kome]\n      「家で食う米」の意であるか。ひとつのことばとして用いている。\n\n4742.95  jzedekuu: kome (？) 〈家で食う米の意〉\n\n4751.42  hammae 〈紛〉X 昔はそういうのを別かなかったからいわなかった。\n      彼ら彼、いわれることは。」",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05191.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05191",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05191.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4760.02",
+      "4780.64",
+      "4781.48",
+      "4794.30",
+      "5507.20",
+      "5508.16",
+      "5508.19",
+      "5516.19",
+      "5517.78",
+      "5517.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　51-92\n質問番号　地図番号　170\n項目名　飯米　176\n(A) 普通注記　ページ (11)\n[B 除いた共通語] [C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n(行の注記、地点番号に対応する右側欄の手書きメモ)\nhammmae（農夫ではないが参考までに。）\nkuime: ＜粳＞\n質問せず（米作農民でない）\nkuemæ（食い米）\n質問せず（米作しない）\n同上\n質問せず　農家でないから。\nハンマイ　農家ではない、この項目不要。\nホユウマイ　同上\n質問せず（米作しない）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05192.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05192",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05192.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5527.61",
+      "5538.50",
+      "5538.88",
+      "5539.16",
+      "5539.43",
+      "5546.56",
+      "5546.82",
+      "5547.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    51-93\n質問番号　地図番号　170\n項目名　飯米　176\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　（12）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号\n5527.61   仮問せず。　米作しない。\n5538.50   O.F.　＜ヨオマイ＞（農家ではない。）　この項目不要。\n5538.88   ハンマイ　農家ではない。この項目不要。\n5539.16   仮問せず。　米作しない。\n5539.43   ハンマイ　農家ではない。この項目不要。\n5546.56   仮問せず。　＜米作しない＞\n5546.82   O.F.　＜e:mai という＞（米作農家ではないが。）　（飯米の転か）\n5547.96   仮問せず。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05193.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05193",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05193.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5555.58",
+      "5558.67",
+      "5559.51",
+      "5565.12",
+      "5566.95",
+      "5575.93",
+      "5589.30",
+      "5599.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　51-94\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n\n質問番号　地図番号　170\n項目名　飯米　176\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]　(13)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5555.58　飯何せず　米作しない。\n5558.67　〜KOME　くあまった米（特別な言い方はない）\n5559.51　飯何せず　（米作しない）\n5565.12　飯何せず　農家でない。\n5566.95　ホエウアエ　農作はしても米作は殆どない。一般は米を常食しなかった。犬食は配給制為のため。続て適当な項目ではない。\n\n5575.93　hoju:mai　<別>＜昔のことばはない＞\n5589.30　? コメ　<別にことばはなく、コメである>\n5599.41　ハンマイ　＜他＞＜希＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05194.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05194",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05194.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5599.75",
+      "5605.57",
+      "5608.51",
+      "5609.26",
+      "5611.74",
+      "5611.81"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-95\n質問番号　地図番号　170\n項目名　飯米 176\n(A) 普通注記　ページ (14)\n地 点 番 号\nA 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n5599.75　ホユウマイ、ジカヨウマイ、ハンマイ　(ハンマイというのが昔からこの土地で使われていたことばだと思う。他の言い方は戦時中から使用され始めたものと思う。)\n5605.57　ケショネ　(右)\n5608.51　ホユウマイ　<特になのか　強いていえば...>\n5609.26　te'me' yome　éは狭いe\n5611.74　ウチノクイマエ　家の食い米か\n5611.81　O.F. <kuzumai, irigomai>\n(注記: 年玄米に対する語。p.s kuzumaiは... 年玄米より後の暑い食用（併飯とする）もの、irigomeは屑米で粉状の原料になるもの。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05195.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05195",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05195.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5612.22",
+      "5612.98",
+      "5613.48",
+      "5613.53",
+      "5615.20",
+      "5615.28"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-96\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の〈　〉(　)〔　〕は敢略にする。\n質問番号　地図番号　/170　A　普通注記　ページ　(15)\n項目名　飯米　176\n地点番号　A語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C　残した語形とその注】\n（手書き記入）\n坂内せず　濁夫ゆえ。\nhojuu:mal　これが現在最も普通。保有米。\nhammal　これも又多く使われる。飯米。\nkuibumdzig　〈古〉\nbudzikimae　〈右〉\nbudzjiki　（古く、しかも今も使うことば）\nkejine　〈右〉〈当社の食用・飯米〉\nkulkomæ ← mufidekum: kome (内で食う米)\n今、90才以上の老人は昔は kejinemæ、又は kejineという名を使った。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05196.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05196",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05196.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5615.74",
+      "5617.85",
+      "5619.67",
+      "5620.16",
+      "5621.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-97\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n質問番号　地図番号　/170　項目名　飯米　176　A 普通注記　ページ (16)　[B 除いた共通語]　[C 除いた特殊語]\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5615.74　[bmdzjki] (一年中供米の飯米をいう)\n5617.85　# kumu bumn <米は土地でできない。又、土地でできる粟、稗、そばの全食糧も...> 注→ O.F.\n5619.67　N.R. <特別の言い方なし> 当時は山岳地帯で売却する米はなく、全て自家の食用にあてている。従って特別の言い方がない。\n5620.16　作付せず　米作しない。\n5621.43　outside ku: kome <古> hojun: mai\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05197.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05197",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05197.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5622.48",
+      "5623.27",
+      "5623.85",
+      "5624.05",
+      "5626.92",
+      "5628.66",
+      "5632.28",
+      "5635.48"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 51-98\n(右上) 質問番号 地図番号 170 項目名 飯米 176 (A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (17)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n5622.48    kuibmutji <古>    hammai\n5623.27    # kuiibmutji ... [N.R.]\n5623.85    budzikimai <若い者は言わない>    budziki\n5624.05    kuejoo: <古、希>    dzikajo:; mae\n5626.92    N.R.  (自家用米以外 作らぬため)\n5628.66    疑問せず　特別になし。\n5632.28    dzikajo: , } ･･･ hammai\n5635.48    ホユウマイ <コクアタラシイ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05198.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05198",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05198.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5635.65",
+      "5636.49",
+      "5641.73",
+      "5644.24",
+      "5648.13",
+      "5649.29",
+      "5652.06",
+      "5653.08",
+      "5657.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    52-01\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n（右上の枠）\n資問番号　地図番号　/170\n項目名　　飯米　176\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（18）\n\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5635.65　コメ　〈ハンマイとは　いわない〉\n5636.49　ジカヨオ　〈供出が始まってから。〉\n5641.73　N.R.　よそへ出すほど　米でます?\n5644.24　灰向せず　農家でないので?\n5648.13　#hammai　〈この処はあまり作らないが、ちょっと考えつかなかった。〉\n5649.29　ケシネ　〈古〉\n5652.06　? temote j-nome\n5653.08　N.R.　〈米は作らないが〉\n5657.73　ジカヨオ　〈供出ができてから。その前ははっきりいわない。〉\n\n（余白の手書き）ハンマイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05201.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05201",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05201.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5658.54",
+      "5669.19",
+      "5671.68",
+      "5674.06",
+      "5675.87",
+      "5676.84",
+      "5677.85",
+      "5678.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-02\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)(　)［　］は厳密にする。\n（右上の枠）\n質問番号　地図番号　170\n項目名　飯米　176\nA) 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語　(19)\n\n（表見出し）\nA　語形とその注記　[B・C除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\n（各行の注記、地点番号は省略）\nフヨオマイ＜新＞（保有米の説りと思われる）\nhoju:mai　最近のことば。昔はこれに当ることばは特になかった。\n#kuibumufi？（他へますほど米できず）\n質問せず　＜米は作っていない＞\n同上　昔から米のとれない所なので、該当語彙なかった模様。\nオコメ＜老人＞、コメ＜昔＞\nタベリョウ（来者の復旧により…）\nハンマイ、ジカヨオ、ジカヨオマイ（三者の区別についてはまだなかった）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05202.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05202",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05202.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5679.86",
+      "5680.34",
+      "5680.98",
+      "5685.37",
+      "5686.31",
+      "5686.67",
+      "5687.86",
+      "5688.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-03\n質問番号　地図番号　/170\nA 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語]　(20)\n項目名　飯米　176\n\n（表ヘッダ）\nA 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nhanrjo: .... (荒)    hammae\n度問せず　よそに米を移出することなし。\n同上　(商家だから。)\nN.R.　<米を作らない>\n'dzikajo:　<米作をするようになったのは戦後。陸稲は少しあった。>\n度問せず　(米がとれないのでなし。)\nO.F.　← ジキュウマイ（といって首をかける。農家でないので詳細は不明らしい。）\nクイリョオ　<普>　ウケノタベリョオ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05203.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05203",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05203.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5688.74",
+      "5695.47",
+      "5696.13",
+      "5697.20",
+      "5697.24",
+      "5698.30",
+      "5698.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-04\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記  ページ (2/)\n[B 除いた共通語]\n[C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n#kuirjo: 食い料か。\nN.R. 戦争前は米は作らなかった。白米は食を出して買ったものだ。\n炭問せず 米がとれないからわからない。\n同上 (非農家)\n同上 水稲作らず 陸稲 (オカボ) を作っている。供出もないし わからぬ。\n-taberjo: <米以外のものでも そういう>\n~KOME <- ajidorinokome (自取の米) <自分で取る米だから。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05204.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05204",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05204.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5703.68",
+      "5710.29",
+      "5712.70",
+      "5713.65",
+      "5714.10",
+      "5722.37",
+      "5730.57",
+      "5731.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 日本言語地図資料用紙 注記一覧 52-05 質問番号　地図番号 項目名 飯米 176 A 普通注記 [B 除いた共通語] [C 除いた特殊語] （22） 地点番号　A語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C残した語形とその注〕 5703.68　N.R.　〈kumi:take totte oku などとしか いわない。〉 5710.29　（米作農民でない。） 5712.70　N.R.　[kumi:mai〈古〉, dzikajo:] 5713.65　（米作農民でない。） 5714.10　同上 5722.37　kumi:rjo:　〈普通〉 5730.57　ホユウマイ　〈約〉〈ハンマイは通ずる経るで、普通使わない。〉 5731.13　hoju:me:; hoju:mai（両者とも新）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05205.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05205",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05205.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5741.25",
+      "5751.89",
+      "5770.11",
+      "5771.42",
+      "5781.65",
+      "5782.25",
+      "5791.68",
+      "6357.74",
+      "6374.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-06\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (23)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n--- 表ヘッダ ---\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A注のない語形 [B・C 残した語形とその注]\n手書き欄:\nkuirjo: 〈右〉    hamme:\nO.F.  ← kofikokku 〈越穀〉 （地主か保有する米か？）\nhorjo: mae （誘）hammae\nhotiü: mae  同上\n8uɲdzi 〈扶持のことなり〉\nhammae （…農家ではない）\nhammai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05206.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05206",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05206.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6395.46",
+      "6396.08",
+      "6396.62",
+      "6397.62",
+      "6398.07",
+      "6401.89",
+      "6407.28",
+      "6407.43",
+      "6408.72"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-07\n質問番号　地図番号　170\n項目名　飯米　175\nA) 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ（24）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は略語にする。\n\n地点番号　　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n6395.46　ジカヨオマイ　？　（非農家）\n6396.08　仮問せず　（同上）\n6396.62　ハンマイ　（同上）\n6397.62　仮問せず　（同上）\n6398.07　同　上\n6401.89　コメ　〈？〉〈年越米＝トシンマエ〉（温湯で、全て輸入している。）\n6407.28　ハンミャア　（ミャ＝me?, ）\n6407.43　ホエウマイ　〈外〉\n6408.72　菜子（読み不明）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05207.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05207",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05207.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6409.35",
+      "6413.10",
+      "6414.17",
+      "6415.80",
+      "6416.09",
+      "6416.31",
+      "6419.50",
+      "6423.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-08\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記  ページ\n[B 除いた共通語] [C 除いた特殊語] (25)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き行:\n6409.35  O.F. ← ハンメアア … HANMEE か。\n6413.10  kome （この家では供出用の米はない。3浜部は水田が僅かで、多く陸稲で自家用の米を作り、妻ら野菜、草、綿などを作る。）\n6414.17  φutsikata 〈右〉 外\n6415.80  N.R. （コメの~はないし易しい）\n6416.09  フチカタ 〈小作米の時のみ用いる。〉 ハンマイ\n6416.31  hoju:mai 〈紛〉\n6419.50  ハンリョオ 〈上〉 ハンメアア\n6423.75  hammeei 〈より多く用いる〉  jikajo:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05208.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05208",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05208.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6424.89",
+      "6426.04",
+      "6433.34",
+      "6439.01",
+      "6443.03",
+      "6443.88",
+      "6445.57",
+      "6446.05",
+      "6454.24",
+      "6455.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-09\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　/170\n項目名　飯米　176\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (26)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6424.89　qu'tsjima?　湯原町豊栄　qu'tjikata\n6426.04　hojuː:mai　(め)\n6433.34　フチマエエ　古\n6439.01　#ホユウマイ　?\n6443.03　〜KOME <- ku:kome 単に「食う米」の意。\n6443.88　N.R.　(米作農家ではない)\n6445.57　? ハンマエエ　<古>\n6446.05　ホユウマエエ　<普>\n6454.24　ホユウマエエ　(米作農家ではない)\n6455.27　?アエエ　<昔>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05209.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05209",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05209.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6457.45",
+      "6459.87",
+      "6464.77",
+      "6470.59",
+      "6471.26",
+      "6474.03",
+      "6475.32",
+      "6475.61"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-10\n資料番号　地図番号　170\n項目名　飯米　176\nA　普通注記　[B]　除いた共通語　[C]　除いた特殊語　(27)　ページ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）［　］は厳密にする。\n\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C残した語形とその注］\n\n6457.45　ホユウマイ　＜粳＞\n6459.87　ハンマエ　＜玄米も白米も含む。＞\n6464.77　タベリョオ　（米作農家でない）\n6470.59　ハンマイ　マイは「エ」に近い。hammaiとみる。\n6471.26　同上\n6474.03　N.R.　（稲をする程、米の収穫のない地方である。）\n6475.32　反問せず　（米作者でない）\n6475.61　同上　＜農家でないがよく知らないか＞　dzikajo:maiというか知らない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05210.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05210",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05210.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6476.17",
+      "6484.78",
+      "6485.82",
+      "6486.07",
+      "6486.50",
+      "6494.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-11 質問番号 地図番号 170 項目名 飯米 176 (A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (28) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >( )( )[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6476.17　？ジマイ 6484.78　クイショ（食い料，食い糧？） 6485.82　N.R.　農家でないので得られなかった。 6486.07　平クイマイ（店に買いに来る百姓の言葉としてきいた） 　ものを言った。もう一人の者なの様　調査者もクマイと答えたが、揺ってよいと思う。 6486.50　ハンマイズメ　百姓が昔、地先へ年貢を納めた残りを言った。 6494.55　テモケマイ　被調査者は＜NR＞だが、調査者が（テモケマイというようなことをいっていた）と記してある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05211.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05211",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05211.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6498.61",
+      "6500.22",
+      "6509.38",
+      "6512.02",
+      "6517.65",
+      "6522.93",
+      "6527.44",
+      "6528.06",
+      "6528.64",
+      "6529.63"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　　　　52-12\n質問番号　地図番号　／170\n項目名　飯米　176\nA　普通注記　　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　（29）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　　A語形とその注記　[B・C除いた語形とその注]\n6498.61　hammai　〈田舎でこのように言っている〉\n6500.22　（坂間せず）　（農家でない）\n6509.38　クリリョオ　〈ハンマイの中で特にふわけしたものをいう〉　ハンマイ\n6512.02　坂間せず　［hammai］\n6517.65　ジカヨオ　（訛）\n6522.93　ハンマイ　（古）　ホユーマイ\n6527.44　kyirjo:　米だけでなく他の収穫にも使う\n6528.06　tjozo:mae　〈古くから使われている〉\n6528.64　仮問せず　農村でないから。\n6529.63　〜KOME ← ? utsidekuukome　〈特別な名称はない〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05212.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05212",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05212.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6540.52",
+      "6546.15",
+      "6546.73",
+      "6548.82",
+      "6549.03",
+      "6552.03",
+      "6557.77",
+      "6559.22"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-13　質問番号　地図番号　170　項目名　飯米　176　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (30)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nハンマイ　＜玄米も白米も含む＞\n質問せず　農業者でないから。\nhanmai （奥さんの助言により思い出す）\nham·mai ？\nhammai　？\nhammai　＜劣＞＜昔はこれでなく、別の語を使った。しかしそれがどんな語だったかどうしても思い出せない。＞\nハンマイ　？\n# hammai ？\nkuirijo: 他の収穫に使う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05213.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05213",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05213.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6562.64",
+      "6565.17",
+      "6565.22",
+      "6567.79",
+      "6568.09",
+      "6568.13",
+      "6570.89",
+      "6576.28",
+      "6576.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-14\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n質問番号　地図番号　170　　項目名　飯米　176　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(31) ページ\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6562.64　ホユマイ　（戦時後の名残 なるべし）\n6565.17　hanmai　＜これに対し、売るのは urimai といふ＞\n6565.22　ハンマイ　＜多＞\n6567.79　短間せず　非常作 だから。\n6568.09　hojuu:mai　＜珍しい語。土地のことはとしては他に行もない。＞\n6568.13　kuirjo: ？\n6570.89　［ハンマイ］（家人曰く「百姓はハンマイといっている」） ホユウマイ\n6576.28　ハンマイ　＜百姓のことだから よくはわからないが＞\n6576.32　hammai　＜古＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05214.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05214",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05214.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6577.71",
+      "6580.66",
+      "6581.52",
+      "6582.12",
+      "6583.93",
+      "6584.28"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-15\n質問番号　地図番号　170\n項目名　飯米　176\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(32)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\nhoju:mai　<飯>\nハンマエ　？\nクイシロ　<クイマエという人もある>\nハンマイ　<ハンマエともいう>　(米作農家ではない)\nhammmai　<ヒエでもアワでも、自分の家で食べるものを総称していう。「米がノーテモ、他のハンマイがヨケーあるが」などという。>\n(米作農民ではないか、参考のためにきいてみた。)\n反問せず　(米作しない)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05215.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05215",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05215.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6584.90",
+      "6587.42",
+      "6590.08",
+      "6591.02",
+      "6595.32",
+      "6603.08",
+      "6603.52",
+      "6603.82",
+      "6607.03"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-16\n\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (33)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は略号にする。\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n\n6584.90  hanmai   米作しないか聞いた。\n6587.42  N.R.  <特にいうことはない。ジカマイ などを言うか 近頃の言葉だ。>\n6590.08  ハンマエ  ?\n6591.02  ハンマエ ＜タベクヨオという人ある＞\n6595.32  反問せず。農家（米作）でないので問わない。\n6603.08  #ウチノクイリヨオ ＜コメに限らず 麦でも豆でも広く用いる＞\n6603.52  N.R. ＜米がない＞\n6603.82  ウチドウカイノコメ （ドウは子音か そり音の d）\n6607.03  反問せず（非農家）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05216.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05216",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05216.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6608.07",
+      "6608.22",
+      "6613.54",
+      "6616.79",
+      "6616.93",
+      "6617.34",
+      "6617.75",
+      "6623.53",
+      "6625.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-17\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n--- ヘッダ ---\n質問番号　地図番号　170\n項目名　飯米　176\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (34)\n--- 表見出し ---\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n--- 手書き行（概訳・逐語） ---\n6608.07　復問せず（非農家）\n6608.22　KOME　〈わからない、ただ「コメ」というだけ〉\n6613.54　tsu'ke: rjo:　〈米、麦…〉\n6616.79　kome'　〈ただkome'というだけ〉\n6616.93　同上\n6617.34　-hammai　〈白く積み上っているもの〉\n6617.75　（手書き語）　〈食い料の意〉\n6623.53　復問せず（非米作農家）\n6625.66　N.R.　〈hammai などの言い方はしない〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05217.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05217",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05217.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6626.30",
+      "6626.46",
+      "6627.12",
+      "6628.59",
+      "6629.98",
+      "6630.43",
+      "6631.60",
+      "6632.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-18\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (35)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は略符にする。\n\n質問番号　地図番号　170\n項目名　飯米　176\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6626.30    kuirjo: ＜米に限らない＞\n6626.46    -hammmai, -djikajo:(mai) ＜白く掻きあがったもの＞ ＜玄米のまのもの＞\n6627.12    疑問せず（非農家）\n6628.59    同上\n6629.98    hammai　＜注。昔は特別の名称はなかった。＞\n6630.43    hoju:mai　＜こく　新しいことば。 他には該当する語はない。＞\n6631.60    tabemai, tabejome　両者とも＜＞　hammai\n6632.88    hammai　ハンマイと言うことは言う。米は全部後入。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05218.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05218",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05218.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6636.62",
+      "6639.79",
+      "6641.43",
+      "6646.74",
+      "6651.32",
+      "6652.77",
+      "6655.87",
+      "6656.31",
+      "6657.96",
+      "6662.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-19\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n\n質問番号　地図番号　170\n項目名　飯米　176\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (36)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6636.62  N.R. (農家だが。)\n6639.79  kijine ＜た＞\n6641.43  N.R. (米の差は少く、大部分/分買って食う)\n6646.74  N.R. (非農家)\n6651.32  疑問せず (非農家)\n6652.77  hanmainome, ro:mai  hammai\n6655.87  N.R. (農家であるが。)\n6656.31  hanmai (農家ではない)\n6657.96  非農家のため 疑問せず。\n6662.38  hanmai 非農家\n\n(手書きの語形・注記は上記のとおり。読みは一部推定)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05219.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05219",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05219.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6665.25",
+      "6698.20",
+      "7239.24",
+      "7239.29",
+      "7239.85",
+      "7246.45",
+      "7246.82",
+      "7248.15",
+      "7279.65"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-20\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記のく > () [] は厳密にする。\n（右上の箱）質問番号　地図番号　170　項目名　飯米　176　A 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（37）\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き注記（各行、地点番号は除く）:\nkome　米作農家ではない。\nN.R.　〈米は地から輸入〉\n[sjo:ro:mja:]\nhammai ?\nsjo:ro:mja:（兵糧米の意であろうか）\n~KOME <- jaut'no ku: kome などとなる。jautは「ヤウチ」。\n[fut]j kata]　< N.R. >\nfutji kata　「扶持方」に対応する語であろう。\n（最後の行）使用せず　例内なので特に飯米への念なし。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05220.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05220",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05220.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7289.31",
+      "7302.87",
+      "7303.29",
+      "7304.29",
+      "7312.11",
+      "7313.34",
+      "7320.59",
+      "7321.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-21\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記 - ページ (38)\n[B 除いた共通語]\n[C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n表ヘッダ: 地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n7289.31  N.R. ＜何とも言わない＞\nkesine は さつまいもの 早く掘ったものをさす。\n\n7302.87  hjo:ro: (兵糧の意か)\n\n7303.29  hoju:'mai (ロウマエ なし)\n\n7304.29  ハンマイ (非農家)\n\n7312.11  ro: mae (精米か)\n\n7313.34  gjo:ro: mae (うるこめ に対している)\n\n7320.59  gjo:ro: (昔。女もいる)\n\n7321.93  トオマエ ＜保存米のこと。昔から云う。＞\n(糙米の音転である。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05221.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05221",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05221.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7322.21",
+      "7322.81",
+      "7326.41",
+      "7330.31",
+      "7331.27",
+      "7331.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-22\n質問番号 地図番号 170\n項目名 飯米 176\n(A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (39)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n7322.21  do:mai [釜], utjikui ＜米に限らないか。殆んどの場合 米.＞\n7322.81  N.R. （兵櫃米 - ＜聞いたことはある。×? 後に入れた年賀米のこと＞と答う。）\n飯米 - ＜聞いたことない。＞\n商家なので、談等した件/経験が殆どない。\n7326.41  go:ro: ＜古＞\n7330.31  ham:ja: ＜小糸米は ヨミヤ? ＞\n7331.27  ? gjo:ro: ?\n7331.41  ケシネゴメ、常用のため準備してあるもの。 ハンミヤ、ハンミヤゴメ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05222.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05222",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05222.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7333.75",
+      "7336.71",
+      "7340.24",
+      "7341.47",
+      "7342.76",
+      "7343.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-23\n質問番号　地図番号　170　項目名　飯米　176\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（40）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n7333.75  kuirju: 〈米以外のものも含めてそう〉   #kejinego?me 〈古〉    kuigome\n7336.71  #go:ro: 〈古〉                         hoju: mai\n7340.24  sakumja:gome 〈これに対し小作米をカチキミアアという〉\n7341.47  hammai 〈多。古くは何といっていたか知らない〉\n7342.76  N.R. 〈別に称呼はない〉（無理に言わせようと試みなかった）\n7343.17  #kejinegome 〈古〉                        hammai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05223.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05223",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05223.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "7344.30",
+      "7344.45",
+      "7346.63",
+      "7347.55",
+      "7350.21",
+      "7351.09",
+      "7352.61",
+      "7353.03",
+      "7353.19",
+      "7354.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-24\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (4/)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］は厳密にする。\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]\n7344.30  #go:ro:  ＜米だけを言うのではない＞\n7344.45  kejine  ＜古＞    hammai\n7346.63  go:ro:  ＜米に限らない＞\n7347.55  仮問せず  非農家\n7350.21  sakumja:gome  ＜古＞\n7351.09  rjo:mae  （昔、ッ）\n7352.61  ヒョロオマイ、ヒョロゴメ  米作農民ではないか。\n7353.03  kuirju:  但し米に限らない。\n7353.19  #kejine  ＜古＞   kuijiro\n7354.23  O.F. （ウダイオクトのような連格による表現が基本であるらしい。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05224.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05224",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05224.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7356.55",
+      "7357.64",
+      "7362.42",
+      "7362.67",
+      "7363.12",
+      "7363.85",
+      "7365.25",
+      "7366.87",
+      "7367.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-25\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(A)・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7356.55　仮何せず（米作農民でない）\n7357.64　同上\n7362.42　テモチゴメ（参考）\n7362.67　ジカヨウ　?\n7363.12　仮何せず。農家でないから。\n7363.85　O.F.　<- ウチリカウト　これはヘンな答え。その他とする。\n7365.25　仮何せず。農民でないから。\n7366.87　kuirjo: ?　<但し米に限らない>\n7367.25　仮何せず。米作農家でない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05225.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05225",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05225.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7367.61",
+      "7368.32",
+      "7370.41",
+      "7370.58",
+      "7372.27",
+      "7372.96",
+      "7373.23",
+      "7373.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-26\n質問番号　地図番号　170\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (43)\n項目名　飯米　176\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n手書き注記（おおまかな読み）:\ngjoiro: ＜米に限った一切の食料＞\n反問せず。この地点は米を作らない。\nホユウマイ　但しこれは割合に珍しいことば。\nワガエンコメ「我が家の米」の意。\n気問せず。商家。\n[ウチノクイジュウ]\n＊＜ウチノクイジュウ＞\nコメ、＊ウチノコメ → ～KOME\n（ハンマイとは言わない）\n→ 次頁へ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05226.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05226",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05226.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7373.92",
+      "7373.99",
+      "7374.15",
+      "7376.68",
+      "7377.27",
+      "7380.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-27\n質問番号　地図番号　170\n項目名　飯米　176\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (44)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく　><　( ) [ ]　は厳密にする。\n地点番号\n7373.92    #(ホユウマイ) (？), <ハンマイとはいわぬ> ツカイジュウ <米に限らず 野菜、猪、など自家用のものを全て含めている。>\n7373.99    ロホマイ, ドホマイ (米作農民ではないか)\n7374.15    [ホユウマイ], )米作せず [ツカイジュウ][も]\n7376.68    hamme: <剣使わない>\n7377.27    反問せず　非農家\n7380.74    テシゴメ\n（以下、下段に長い手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05227.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05227",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05227.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7381.47",
+      "7381.97",
+      "7382.58",
+      "7382.97",
+      "7383.83",
+      "7385.38",
+      "7392.33"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-28\n質問番号　地図番号　/ 17°\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (45)\n項目名　飯米　176\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）〔　〕は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n7381.47　ワイミヤア（希）　クミア?\n7381.97　N.R.　＜ウチ＝アルダケというように言って、別にことばではいわない。＞\n7382.58　ドオマイ　＜農家ではこう言っているようだ＞（普調査者は非農家である。）\n7382.97　コメ　＜特別の名はない。ハンマイとは言わぬ。＞\n7383.83　N.R.　（非農家。ハンマイ、ツカイジュウなどとは言わない。）\n7385.38　N.R.　（純農民でないから答えられないのだろう。試みに質問してみた。）\n7392.33　ゴゼン／マイ　＜ユ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05228.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05228",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05228.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7392.45",
+      "7395.63",
+      "7401.92",
+      "7402.42",
+      "7403.21",
+      "7406.53",
+      "7410.57",
+      "7415.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-29\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( ) [ ] は厳密にする。\n（欄） 質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (46)\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n7392.45  N.R. ＜米ノ残ッタ ぐらいしか言わぬ＞\n7395.63  O.F. ← ku:jatsu (食う奴) ...(これでは俗に ならないかも知れないが記しておく。)\n7401.92  hojumai (このほかの語がなかった)\n7402.42  ha^nmai ＜ha^nmaiに充分なだけの収穫のあるものを toku mai-motsu という。＞\n7403.21  *kuirjo: (米作農家ではない)\n7406.53  kome  米作せず 後ろなどしないが コメとしてしかいわない。\n7410.57  ha^nmai (飯米意識だけの言い方のようである)\n7415.01  taberijo: (?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05229.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05229",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05229.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7423.80",
+      "7430.15",
+      "7432.44",
+      "7436.40",
+      "7440.72",
+      "7422.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-30\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n質問番号　地図番号　170\n項目名　飯米　176\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(47)\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n7423.80  motgi mae　175 精　同地名は motigome ゆえ混乱しは思えず。但し 7422.26 に標も子マイ [motgi mae] がある。高知にはここひとつ。豪姫にはある。TOK.\n7430.15  kuimai < kuimai ni oka-na iken kep > wakaren zo などという\n7432.44  ～KOME  <utji de tukau kome>\n7436.40  質問せず　（参考） hammae\n7440.72  N.R.　〈maruo（丸穂）あたりの hijakus o: は sakum といっている。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05230.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05230",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05230.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7441.63",
+      "7446.26",
+      "7501.68",
+      "7502.22",
+      "7503.48",
+      "7504.27",
+      "7513.69",
+      "7514.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-31\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )[ ]は厳密にする。\n質問番号　地図番号　170\n項目名　飯米　176\nA　普通注記　ページ　[B　除いた共通語]　[C　除いた特殊語]（48）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n7441.63 kuitjo:（パロール的色彩か？強すぎるか）\n7446.26 [ham:ai]\n7501.68 モチマイ　〈ク〉〈持ち米の意〉\n　同地異は175 moti/yome であるが、付近にモチマイが多い。Tok.\n7502.22 疑問せず　米作しない。\n7503.48 hammai　米作しないか 誤いた。\n7504.27 質問せず　非農。\n7513.69 クリヨオ　〈ク〉　ハンマエ\n7514.21 -> 次頁へ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05231.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05231",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05231.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "7514.21",
+      "7523.74",
+      "7659.40",
+      "8248.18",
+      "8300.25",
+      "8300.80"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    52-32\n質問番号　地図番号　／　170\n項目名　飯米　176\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　（49）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n地点番号／A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n手書きメモ（上から順に）:\nku'irjo: , (餅米ではなく、持米か なにか)\nmotijimai （であろう）\nこの地区175. motijome であるか\n3 hammai くも　は近にモチマイ多し。Tok.\n＜3,1,2の順に古い＞\n\ndzimai ←（自米）という話かそれに当るか（緒）\n\nN.R. （米作地帯ではない）\n\nku:ju: （食用の説）\nkuimai [疑?]\n質問せず。豊家でないから。\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05232.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05232",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05232.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "8301.76",
+      "8302.55",
+      "8303.13",
+      "8305.73",
+      "8310.87",
+      "8315.89",
+      "8320.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-33\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記 (B 除いた共通語) [C 除いた特殊語] ページ (50)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）[ ]は厳密にする。\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n8301.76 仮問せず。 (米作しないから)\n8302.55 ホユウマイ <？> <終戦後 こういうようになったか、戦争のことばは知らない。>\n8303.13 tsukaijo: (但し米に限らずいろ)\n8305.73 N.R. <この辺は山ばかりだから 米も少ししかとれない。米を供出するはないし、全てが自家の食用で、それでも足らない。>\n8310.87 hamme (米作はしないか)\n8315.89 defa (Falの音は減多に現れない)\n8320.59 仮問せず。＜米作しない。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05233.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05233",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05233.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "8321.58",
+      "8322.68",
+      "8324.26",
+      "8332.59",
+      "8335.11",
+      "8335.48",
+      "8335.83",
+      "8341.12",
+      "8341.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-34\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　170\n項目名　坂本 176\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (5)\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書きメモ（各行 A欄）:\njikajo: <新> <名は特別言わないか? 強いていえば。>\n質問せず <米作せず>\nhamme, deha 両者とも <否>\njikajo: <新>\nde'pa 句は 屋の様のは そう著しくない。\n質問せず (この辺りの農家では hamme という)\n#kumijoykome (食用の米の意)\ntjikejo: <新, 少>    tamoijo:\njikajo: <新しい語で現わす>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05234.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05234",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05234.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "8342.35",
+      "8342.51",
+      "8350.68",
+      "8352.29",
+      "8352.40",
+      "8353.68",
+      "8361.31",
+      "8362.34"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-35\n質問番号　地図番号　170\n項目名　飯米　176\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（52）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n8342.35　仮問せず　〈特別に名寄なし〉（米作農家ではない）\n8342.51　kujo　（倉う用意のみ）\n8350.68　jikajo:　〈別〉（農家ではないか。）\n8352.29　kujo　（クレヨウ（倉用）の言い方）（米作農家ではない）\n8352.40　仮問せず　〈特別の言い方はない〉\n8353.68　同上　〈米作しない〉\n8361.31　同上　米作者となりず\n8362.34　kome　特別の言い方はない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05235.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05235",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05235.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "8373.43",
+      "9303.88",
+      "0246.97",
+      "0247.56",
+      "0249.17",
+      "0257.43",
+      "0275.97",
+      "0294.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-36\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　170\n項目名　飯米　176\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (53)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]\n8373.43　kOME <- wagai:ku: kome　（我家　喰　米）\n9303.88　kwi:jo: (食用の詰り)　hamme:\n0246.97　仮問せず　＜米作しない＞\n0247.56　N.R.　＜コトバがない＞\n0249.17　仮問せず　＜米作しない＞\n0257.43　N.R.　＜特別の語がない＞\n0275.97　hamme　＜人によって hamme という＞\n0294.66　hamme, Famme　（発音上の違い、下が本来）　上を普通に使う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05236.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05236",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05236.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "0340.00",
+      "1148.59",
+      "1223.91",
+      "1231.72",
+      "1232.29",
+      "1233.61",
+      "1241.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-37\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (54)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き注記行:\n飯何せず　＜米作しない＞\nN.R.　米作しない\nN.R.　＜pamme: という語は食糧とか弁当の意に用いる。＞\nN.R.　＜P'amme: 食糧の意＞\nN.R.　＜pamme: という語があるが、食糧とか弁当の意に用いる。＞\ntabuigumi ?\nN.R.　＜hamme: gumi は何飯に炊くお米。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05237.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05237",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05237.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "1242.22",
+      "1251.04",
+      "1251.27",
+      "1251.98",
+      "1260.78",
+      "1261.01",
+      "1261.16",
+      "1261.32",
+      "1270.29"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-38 質問番号 地図番号 120 項目名 飯米 176 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (55)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nN.R. <pamme: は食糧、弁当の意味に使う>\nN.R. <特にいわない>\nN.R. <特別な名はない。米作はするが自家米だけである。>\nN.R. <hamme: は食糧、弁当の意に用いる>\n仮問せず (米作しない)\n同上\n同上\nN.R. <hamme: は食糧、弁当の意に用いる>\n同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05238.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05238",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05238.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "1271.05",
+      "2074.69",
+      "2076.98",
+      "2086.03",
+      "2095.60",
+      "2140.96",
+      "2141.71"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-39\n質問番号　地図番号　170\n項目名　飯米　176\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（ページ）(56)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\n（手書き記入欄）\nN.R.　米作しない。\nO.F.　<- juimai ( ? )\npammai　〈倉穀の実にも用いる〉\nhamai　〈?〉\nO.F.　<- atama:\nN.R.　〈pammaiは穀類の粳飯をいう。麦、栗、米など〉\nN.R.　〈特別な名はない。病気のためとか行事のためとかのとっておきの米を jui munu という。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05239.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05239",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05239.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "2150.07",
+      "2150.17",
+      "2151.11",
+      "2151.20",
+      "2151.67"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-40\n質問番号　地図番号　/170\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (57)\n項目名　飯米　176\n\n地 点 番 号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n2150.07　N.R.　<仲地には困がない。>\n2150.17　N.R.　<pammaiは食糧の意で、米でも粟でも麦でもいろ。伊良部には困がなく、特別に自分の家の食用にする米をわけておかない。>\n2151.11　N.R.　<pammaiは食糧の意に用いる。米のゆ飯でも芋でも。>\n2151.20　N.R.　<pammaiは食糧、弁当などの意。畑に持って行く食糧にもいう。>\n2151.67　N.R.　<畑に持ち運んで食べる食糧を pammaiという。>\n\n以上。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05240.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05240",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05240.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "1848.24",
+      "1854.24",
+      "1863.48",
+      "3609.47",
+      "3704.42",
+      "3744.18",
+      "3754.37",
+      "3762.85"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 52-41 質問番号 地図番号 170 項目名 飯米 176 A 普通注記 ページ ( ) B 除いた共通語 C 除いた特殊語 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 1848.24 N.R. ?hoju:mai 1854.24 N.R. dzi'kajo:(mai) ...(米作り?) <hojumi:mai と 政府は いうが> 1863.48 ハンマイ <こゝごろ>, ホユウマイ <今> ジャカヨオ 3609.47 質問不要 3704.42 N.R. hammai〈農民のことば〉 ホユウマイ <強いえいえば 保存米という> 3744.18 キスネ <これは 糧をす> コメ 3754.37 ヒョーラ (リスより少奥の地で言う由) コメ 3762.85 hammae (今) kūkome",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05241.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05241",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05241.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "3776.51",
+      "3795.86",
+      "4609.68",
+      "4629.43",
+      "4648.42",
+      "4654.52",
+      "4665.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-42 質問番号 地図番号 170 項目名 飯米 176 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 3776.51 キシネ …糠・粱を精白したもので、米を常食とするのは新しいことらしく、これをキシネとはいわない。 コメ 3795.86 アガナエ コメ 4609.68 hammal <丁寧にいえば> ホユーメア 特にないと言った。 4629.43 hammal <改まったとき> 4648.42 djikajo: (第二次世界大戦中から用いるようになった) kuejo: 4654.52 [hojru:mai] <戦争中からの使用> hammal <昔から使っている> 4665.87 次頁へ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05242.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05242",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05242.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "4665.87",
+      "4666.99",
+      "4675.45",
+      "4676.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-43 質問番号 地図番号 A 普通注記 ページ 項目名 飯米 176 A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >（ ）[ ]は厳密にする。 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 4665.87 hojume: me: <詞><昭和時代の語> hammae <明治大正時代がるの?> budziki (古) (nengomaiの反対は何ですか?) という問に対する答え。 明治時代に用いた。 4666.99 hammae <大正時代から用いる> dzikajɔ: mae (昭和時代の語) budziki 4675.45 dzikajɔ: mae <詞> budziki 4676.60 hojume: <詞> (戦争中よりの言い方。 これは「ないにありませんか?」の問に対する答え。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05243.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05243",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05243.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "4685.88",
+      "4686.52",
+      "4689.62",
+      "4694.95",
+      "4696.82",
+      "4706.53",
+      "4712.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-44\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記  ページ\nB 除いた共通語\nC 除いた特殊語 (4)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）「　」は厳密にする。\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n4685.88    hammae [外?]    burcki ... itsjinemburcki は一年分の飯米。\n4686.52    hammae <新>    budziki\n4689.62    同上    kumei:\n4694.95    hammae (新)    [budziki] <希> <被調査者の七父は、よくこの語を用いた。>\n4696.82    zo: mae (被調査者の自然の談話の中にあった。)    kuugome\n4706.53    hojui: mae <汎?>    hammae <左>\n4712.54    hammae <締>    kome <?>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05244.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05244",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05244.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "4716.20",
+      "4762.44",
+      "4780.64",
+      "5566.95",
+      "5588.78",
+      "5605.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-45\n質問番号　地図番号　170\n項目名　飯米 176\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (5)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4716.20　gassu・gakoe <古> <米だけでなく、穀物全般についている。>　#hojui: mae\n4762.44　キマイ　古　ハンメ\n4780.64　ileme:　<古>（「入れ米」か？）　kuime:　<卵>\n5566.95　アマリコメ\n\n5588.78　ジカヨオ　<卵>　ハンマイ\n5605.57　ハンマエ（新）、ソラゴメ（古）ソラに下げる米の意。ケシネ（古）\n\n屋根裏に下げて保管する処から言ったものであろう。\nススゴメという語もあったという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05245.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05245",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05245.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "5611.81",
+      "5613.53",
+      "5614.68",
+      "5615.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-46\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (6)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n5611.81 hojuu:mai (供出制るか出来て以来の使用) O.F. <kuzumai,> <kirinomai>\n5613.53 hammae (現代の言い方) budziki (古く、しかも今は使うことば)\n5614.68 dzikajo:mae , hammae <外> utside ku: kome\n5615.20 hammae, dzikajɔ: (米の供出制るか出来て以来の使用) teme: no kome , kejine <古>\n\n(昔は何と云いましたかの問いに対する答え。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05246.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05246",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05246.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "5615.28",
+      "5615.74",
+      "5645.89",
+      "5652.06",
+      "5652.22",
+      "5654.94",
+      "5657.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-47\n質問番号 地図番号 170 項目名 飯米 176 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (7)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\nhammae <外>    kuikome <- outside kuikome (内で食う米)\n今、90才以上の老人は、昔は kejine mae, 又は kejine という語を使った。\nhammae <外>    [budziki] (一年中/時季の飯米をいう。)\nジカヨオ <外>    オトットキマイ\nhammai <外>    ?temot (j-nome)\nhoju:mai <外>    kuibutji\nホユウマイ <役場 関係のとき>    コメ\nホユウマイ <外>    タリョオ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05247.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05247",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05247.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "5667.24",
+      "5667.81",
+      "5676.28",
+      "5676.84",
+      "5678.59",
+      "5682.37",
+      "5690.96",
+      "5691.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-48\n質問番号　地図番号　170\n項目名　飯米　176\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ（8）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（）[]は厳密にする。\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n5667.24　イクマイ　〈古〉　ハンリョオ\n5667.81　ホユウ　〈昭和24年/食料管理法が実施されてから〉　ジカマイ\n5676.28　hammai　[浜]　utsjizūkai no kome\n5676.84　ハンマイ　〈郷〉　オコメ〈老人〉, コメ〈昔〉\n5678.59　hammai　〈供与制ができてから始まったことは一般的でない。〉　taberjo:\n5682.37　hoju:　〈考〉〈戦後〉　kuibutji\n5690.96　hoju:mai 語　〈はやりこと/はだな。〉　kate:mai\n5691.37　hammai　〈略〉　kuitsunanji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05248.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05248",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05248.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "5692.53",
+      "5711.85",
+      "5733.02",
+      "5760.57",
+      "6408.15",
+      "6409.35",
+      "6414.17",
+      "6418.75",
+      "6426.04",
+      "6428.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-49\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ]は厳密にする。\n質問番号 地図番号 170\n項目名 飯米 176\nA 普通注記  B (除いた共通語)  C (除いた特殊語)  ページ (9)\n表ヘッダ: 地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n行1: hammai <共>    hamme:\n行2: hoju:mae <卯?>    kue, mae\n行3: hanme: [註?]    kezinome\n行4: hammae <好>    küerjo:\n行5: =ハンゴメ    ハンメアア\n行6: ホユラメア <失,希>    O.F ← ハンメア? - HANMEEか。\n行7: hoju:mai <好>    hoju: mai [好]\n行8: ホユラメア <共>    ハンメアア\n行9: [kuiirjo:] 他    hojum:mai [好]\n行10: ホユラメア <共>    ハンメアア, クリヨオ\n(注: 上記は読み取り可能な印刷・手書き文字の粗い逐語転写。地点番号は別配列に抽出。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05249.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05249",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05249.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "6433.34",
+      "6449.19",
+      "6451.79",
+      "6455.27",
+      "6485.14",
+      "6487.43",
+      "6506.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-50 質問番号 地図番号 170 項目名 飯米 176 A 普通注記 (B) 除いた共通語 (C) 除いた特殊語 ページ (10) ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）（）[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6433.34 ホユウマエ (?) フタマエエ 古 6449.19 キユウアイ <妙> ハンマイ 6451.79 ホユウマイ ハンマイ 6455.27 ホユウマエ <最近のこと> クイマエエ <昔> 6485.14 ホユウマイ <妙> ハンマイ 6487.43 タクハイゴメ <但しこれは例えば 結婚式、葬式 など。大勢をよんで特別に多く必要 なため備えておく米をいう。> 6506.55 ホユウマイ <共、新> (保有米で、戦中・戦後の語である) ※手書きの表記あり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05250.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05250",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05250.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "6509.38",
+      "6514.38",
+      "6526.45",
+      "6528.06",
+      "6530.23",
+      "6531.53",
+      "6533.36"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）（　）は厳密にする。 日本言語地図資料用紙　注記一覧　52-51 質問番号　地図番号　170 項目名　飯米　176 A　普通注記　B　除いた共通語　C　除いた特殊語　ページ（//） 地点番号　A　語形とその注［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］ 6509.38　ホユウマイ　＜紛＞　ハンマイ（注記手書き） 6514.38　hoju:mai　＜戦後のことば＞　hanmai 6526.45　ホユウマイ　＜!紛＞　ハンマイ 6528.06　kaerimare　〈約〉　hoju:maō?（手書き注） 6530.23　ホユウマイ　＜希＞　ハンマイ 6531.53　ジカヨオマイ　＜共＞　ハンマイ 6533.36　sime mai　＜虫、ねずみの害を防ぐために…後のなわをかたくしめるところからこの名がある。＞　hammai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05251.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05251",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05251.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "6540.52",
+      "6545.19",
+      "6558.10",
+      "6559.67",
+      "6565.22",
+      "6571.15",
+      "6576.32",
+      "6645.37",
+      "6646.23",
+      "7279.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-52\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n(地図番号) 170　項目名 飯米 176\nA 普通注記　B 除いた共通語　C 除いた特殊語　(ページ) (12)\n\n表の行:\nホユウマイ ＜外、共＞\tハンマイ ＜玄米も白米も含む＞\nhoju:mai ＜外＞\thammai\ndzikajo:\thammai\nhoju:mai ＜外＞\tkuimai\nホユウマイ\tハンマイ ＜多＞\tコメ\nhoju:mai ＜注。戦時中からの用語＞\thammai ＜古＞\nzikajo:\thammai\nN.R. (農家だが特に名なし)\nジカヨオ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05252.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05252",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05252.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "7320.59",
+      "7326.41",
+      "7326.69",
+      "7335.19",
+      "7335.34",
+      "7350.21",
+      "7351.09",
+      "7354.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-53\n質問番号　地図番号　170\n項目名　飯米　176\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (13)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n\n表ヘッダ：地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C　残した語形とその注]\n\nhoju: mae　今（供出制客か実施されて以後）　gjo:ro:（昔）（女もいる）\nha'mmai　〈幼〉　go:ro:〈古〉\n同　上　# go:ro:\n-hammai　〈幼〉　-go:ro: mai\n同　上　go:ro:\nhammja: gome　〈幼〉　sakumja: gome 〈右〉\nhoju: mae　（幼）　rjo: mae （昔, カ）\nジカヨオ　ホエウマイ　O.F.（ウザイ オクト あるは 連接による表現が 基本であるらしい。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05253.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05253",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05253.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "7363.85",
+      "7365.67",
+      "7366.14",
+      "7366.87",
+      "7367.61",
+      "7372.96",
+      "7390.70"
+    ],
+    "other_text": "日本言語地域資料用紙 注記一覧 52-54\n質問番号　地図番号　/170\n項目名　飯米　176\nA　普通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ (14)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　[　]）は厳密にする。\n\n（表ヘッダ）　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き項目（各行）:\nジカヨオイマイ　〈共〉\nホミウマイ\nO.F. ← ウチウカウト\nこれはへんな落ゆえ、その他とする。\n\ntaberjo:　〈上〉\nkuirjo:\nhammai　〈外〉\nkuirju:\n同　上\n同　上\n# ウチテンツカウ\n* 〈ウチノクイジュウ〉\n\n# ワガエン モミブリ\nツカイジュウマイ、ジカマイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05254.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05254",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05254.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "7391.44",
+      "7392.33",
+      "7394.14",
+      "7403.21",
+      "7404.12",
+      "7404.56",
+      "7412.71",
+      "7420.18"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-55\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）［　］は厳密にする。\n質問番号　地図番号　170\n項目名　飯米　176\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ（15）\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7391.44　ハンマイ　〈希〉　　　ヒョロ\n7392.33　ハンマイ　〈幼〉　　　O.F. ← ゴゼンマイ〈ユ〉\n7394.14　dzikajo: mai　〈約〉　　sakuno kome\n7403.21　sojumai　(hoju:maiという言い方からの混雑らしい。)\n7404.12　tabe-rjo:　〈上〉\n7404.56　hojo:mai　〈約〉　kuirjo:（米作農家ではない）\n7412.71　hammai　〈希〉　haprjo:\n7420.18　taberjoi　〈上〉　kuirjo:\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05255.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05255",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05255.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "7425.82",
+      "8306.42",
+      "8324.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　52-56\n\n質問番号　地図番号　/70\n項目名　飯米　176\nA　普通注記\nB　除いた共通語\nC　除いた特殊語　(16)ページ\n\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく > ( ) [ ] は厳密にする。\n\n表ヘッダ：地点番号　A　語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n手書き記入欄（おおよそ）:\n7425.82    hoju: mae 〈共?〉    Futjimae\n8306.42    hoju: mai 〈訛〉     deha\n8324.26    dzikajo: mai 〈共。現在はこれを使う。〉    hamme, deha　ともに〈古〉\n\n以上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05256.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M170Q176/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05256",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05256.tif",
+    "source_ljc_id": "LJC-M170Q176",
+    "source_map_numbers": [
+      "170"
+    ],
+    "source_title": "はんまい (飯米)"
+  }
+]

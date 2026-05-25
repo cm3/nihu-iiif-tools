@@ -1,0 +1,1466 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1756.32",
+      "1862.48",
+      "2763.89",
+      "2771.64",
+      "2782.67",
+      "2783.48",
+      "2783.73",
+      "2791.15",
+      "2791.88"
+    ],
+    "other_text": "▲ A・(B)・(C)ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜＞（）〔〕は厳密にする。\n\n日本言語地図資料用紙　注記一覧　17-62\n管理番号　地図番号\n030 S　78\n項目名　オドロク（吃驚する）\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（1）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n1756.32　1.　＜ビックリも使う＞\n1862.48　5.　＜ビックリ＝シタとかタマゲタという＞\n2763.89　3.(2)　＜普通は bikuri si mu＞＜共＞\n2771.64　5.　＜びっくりする意には dotten si を使う＞\n2782.67　5.　＜dotte~siruという＞\n2783.48　5.　＜bikkuri si と言う＞\n2783.73　5.　dotte～siruという\n2791.15　2(3)　＜共通語的に使うシル＞＜普通は　dotten si bikwyrato si という＞＜希＞\n2791.88　5.　＜dotten siと言う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01762.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01762",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01762.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2792.07",
+      "2792.13",
+      "2793.00",
+      "2794.85",
+      "2795.72",
+      "3609.47",
+      "3639.49",
+      "3649.16",
+      "3649.64"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は散語にする。\n\n日本言語地図資料用紙　注記一覧\t\t\t\t17-63\n管理番号　地図番号\n030 S\t78\n項目名　オドロク（吃驚する）\nA 普通注記\t[B 除いた共通語]\t[C 除いた特殊語]\t(2.)\n\n地点番号\tA語形とその注記（B・C除いた語形とその注）\tA注のない語形（B・C 残した語形とその注）\n\n2792.07\t5. <dotten si, あるいは bikkura siと言う>\n2792.13\t3.(2) <しかし、普通は bikkura siと言う>\n2793.00\t3.2(3) <しかし、 bikkuri si, dotten si を多く>\n2794.85\t5. <bikkutoayarucと言う>\n2795.72\t5. <bikkuri siruと言う>\n3609.47\t3.(2) <普通は dotten si, bikkura si を用いる> <井>\n3639.49\t3.(2) 但し 共通語。方言は doden sūriu\n3649.16\t3.(2) 但し 〃 。 doden sūriu\n3649.64\t2.(3) ドテンスル が普通\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01763.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01763",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01763.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3699.55",
+      "3701.37",
+      "3702.81",
+      "3704.57",
+      "3706.91",
+      "3712.15",
+      "3712.89",
+      "3722.32",
+      "3722.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 17-64\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n（右上の欄） 030 S 78\n項目名 オドロク（吓驚する）\nA 普通注記　（B 除いた共通語）（C 除いた特殊語）(3.)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n3699.55　5.　オボケダをつつう\n3701.37　5.　くしない「あどろく」、がびっくりする意に\n　　　　（使われることは知っている。）\n3702.81　3.(2)　ふつうは dote~siru.　＜共＞\n3704.57　3.(2)　[テ] bikkuri siru. doiten siru. [共]\n3706.91　5.　<dodensiruと言う>\n3712.15　1.　<dotten siとも言う>\n3712.89　3.(2)　方言は dodensiruu.　共通語\n3722.32　3.(2)　dodensuru という\n3722.97　3.(2)　dodensiruu.　共通語",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01764.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01764",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01764.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3723.21",
+      "3730.43",
+      "3733.18",
+      "3733.22",
+      "3740.33",
+      "3740.82",
+      "3750.75",
+      "3751.81",
+      "3760.58",
+      "3761.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 17-65\n資料番号 地図番号 030 S 78\n項目名 オドロク（吃驚する）\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (4)\n\n地点番号    A語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n3723.21    5. doden sürü\n3730.43    3.(2) 普通 doden sü(rü) という。（共）\n3733.18    2.(3) ドデンスル・タヅケールが普通\n3733.22    5. ドデンスルという。\n3740.33    5. doden sürü を使う\n3740.82    2.(3) doden sü(rü) が普通\n3750.75    2.(3) たし doden sü(rü) が普通\n3751.81    3.(2) 元音は dodensi または dodensirü、共通語表現として\n3760.58    3.(2) 一般には doden sürü という、共通語\n3761.74    2.(3) dodens sürü が普通",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01765.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01765",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01765.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3762.42",
+      "3771.29",
+      "3781.49",
+      "3787.45",
+      "4597.66",
+      "4629.43",
+      "4643.47",
+      "4647.87",
+      "4652.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-66　質問番号　地図番号　030 S 78　項目名　オドロク（吃驚する）　A 普通注記　[B] 除いた共通語　[C] 除いた特殊語　（5.）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n3762.42　5. 〔ドテンスル〕〔タマケル〕が使われる。\n3771.29　2.(3) 但し ドテンスルが普通。\n3781.49　3.(2) 方言では doden sūru（表記不明）。\n3787.45　2.(3) ＜少しく＞\n4597.66　5. ＜ビックリスル＞という。\n4629.43　3.(2) ＜ヒ＞（普通はタマルを使う）\n4643.47　3.(2) ＜共＞\n4647.87　3.(2) ＜若い者は使う＞\n4652.79　3.(2) ＜改まった場合、共通語的場面では使うこともあろう＞\n使うこともあろう",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01766.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01766",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01766.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4663.06",
+      "4663.49",
+      "4666.51",
+      "4672.19",
+      "4679.65"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略筆にする。\n日本言語地図資料用紙　注記一覧　17-67\n管理番号　地図番号　030 S　78\n項目名　オドロク（吃驚する）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(6.)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n4663.06　3.(2)<共> otoeruというが普通。\n4663.49　3.(2)[共]、[方]は oboeru。\n4666.51　3.(2) <共通語的場面で改まった時には使う>\n4672.19　5.（但し、大変変ったことや大変大きい問題にびっくりした時は ororoita（おどろいた）事と云うこともある。普通の驚きには tamageru を使うと説明していた）\n4679.65　3.(2)（共通語として知っているか、又は強いて使うと言う程度で、通常は「たまげた」と言うようであろう）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01767.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01767",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01767.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4685.28",
+      "4685.72",
+      "4685.88",
+      "4688.45",
+      "4689.14",
+      "4689.62",
+      "4689.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 17-68\n資料番号 030 S    地図番号 78\n項目名 オドロク（吃驚する）\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (7.)\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C残した語形とその注）\n\n4685.28    3.(2) （改まった上品な言い方では使うことがある。）\n4685.72    3.(2) ＜共＞ 共通語的場合等に現在使う。 若い頃は使わず、その時は tamageru を使った。\n4685.88    3.(2) （＜共＞として）\n4688.45    3.(2) ＜昔は使わなかった＞\n4689.14    5. ＜tamagedaと云う＞\n4689.62    5. ＜tamayeruをつかう＞\n4689.76    5. tamayeta",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01768.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01768",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01768.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4694.81",
+      "4694.95",
+      "4695.19",
+      "4697.92",
+      "4698.15",
+      "4711.41",
+      "4716.20",
+      "4721.36"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-69\n資料番号　地図番号\n030 S　.78\n項目名　オドロク(吃驚する)\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　(8.)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n4694.81　3.(2)　己丈まった時には使う\n4694.95　3.(2)　<共>　改まった時使う\n4695.19　3.(2)　(共)、<友達同志に…は使わない>\n4697.92　5.　<tamaneruをつかう>\n4698.15　5.　<本人は使わず tamayeruと言うが　家族の時に子供らは使用している>\n4711.41　3.(2)　稀、<新><ドデンスタを多く使う>\n4716.20　5.　<びっくりする・たまげると言うことはを使う>\n4721.36　5.　<ヒックラスルをつかう>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01769.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01769",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01769.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4731.42",
+      "4731.85",
+      "4734.56",
+      "4735.37",
+      "4750.32",
+      "4752.27"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n日本言語地図資料用紙　注記一覧　17-70\n管聞番号　地図番号\n030　S　78\n項目名　オドロク（吃驚する）\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n4731.42　5.（但し次の様な場合はつかう。〈太い奴だ。あの奴にはオドロイタンという様な場合。意外だ、といった感じであろう〉）\n\n4731.85　3.(2)　〈新〉〈共通語は、普通はタマゲダを使う〉\n\n4734.56　3.(2)　〈使うとすればそれは上品な言い方であって、不言的ではない〉\n\n4735.37　5.　〈方言ではオドロクという言葉はない〉\n\n4750.32　5.　わかるが使わない。タマゲダをつかう。\n\n4752.27　3.(2)　〈その時すぐに使わない。あとでそのこと〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01770.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01770",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01770.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（　）[　]は数字にする。\n\n日本言語地図資料用紙 注記一覧 17-71\n資料番号 030 S   地図番号 78\n項目名 オドロク(吃驚する)\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (10.)\n\n地点番号  A 語形とその注記 (B・C 除いた語形とその注)  A 注のない語形 [B・C 残した語形とその注]\n\nを回想したりするときに使うことがある\nが英語語に近いである。元言としては\ndo:ten sIta. bikkuri sIta 等\n(030の場合に使われている。)\n\n3・(2) くその時にすぐ口からでる言葉ではない。\nしかし、あとで思い出して、あの時は\nオトロイタというふうには使うこともある\n\n3・(2) (そのしゅん間には使わないが、あとで\nその人を客観的に述べるときには\n使う可能性がある)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01771.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01771",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01771.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4762.77",
+      "4763.45",
+      "4771.92",
+      "4773.27",
+      "4780.64"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 17-72\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は熟語にする。\n\n資料番号 030 S   地図番号 78\n項目名 オドロク(吃驚する)\nA 常通注記　[B 除いた共通語]　[C 除いた特殊語] (11)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n4762.77　5.　＜doden suruをつかう＞\n4763.45　3.(2)　（オドロクという言葉は声をかけられて\nすぐ口をついて出るコトバではない。たとい、\nあとでそのことを客観的に記述する\nときには使う。多「ビックリしてオドロクもの\nだった」）\n4771.92　3.(2)　（使うという語支が出たが、共通語の\n場面のことと考える）\n4773.27　5.　＜odorotta, tamajeta などという＞\n4780.64　5.　＜特々年にしていて意味は分るが節では\ntamaye(し)と言う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01772.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01772",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01772.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4781.86",
+      "4782.04",
+      "4784.41",
+      "4790.74",
+      "5463.73",
+      "5508.19"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n日本音語地図資料用紙　注記一覧　17-73\n\n質問番号　地図番号\n030 S 78\n項目名　オドロク(吃驚する)\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語] (12)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n\n4781.86　5.　<tamanayeru, buttamanayeru を使う>\n4782.04　5.　<tamanayeru をつかう>\n4784.41　2.(3)　<ふつうは bikkuri suru, tamāgeru をつかう。又、odoro-ku は odcorotta の形でつかう>\n\n4790.74　5.　<tamaneyru を使う>\n5463.73　5.　<びっくり = オヒエタ>\n5508.19　3.　<共通語的場面なら使うともまれ、ほとんど使わないといってよい。ビックリスルが常用、という>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01773.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01773",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01773.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5516.19",
+      "5517.24",
+      "5517.78",
+      "5527.15",
+      "5536.99",
+      "5538.50",
+      "5538.88"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での指標は地点番号順に並べる。 注記の＜＞（）は旅客にする。\n日本言語地図資料用紙 注記一覧 17-74\n資料番号 030 S 地図番号 78\n項目名 オドロク（吃驚する）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (13)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形・（B・C残した語形とその注）\n\n5. ＜ビックリスル＞という\n2.(3) ＜希＞ ＜bikkuri suru＞ということが多い（ためだという）\n5. ＜ビックリスルを使う＞\n2.(3) ＜希＞\n5. ＜ビックリシル＞を使う。『あどろいた』は聞けばその意味は分るが、この意味の発表には『ビックリシル』を使うようである。\n5. イキソル・ビックリスルを使う。\n2.(3) しかしビックリスルが多いという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01774.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01774",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01774.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5539.43",
+      "5547.96",
+      "5548.58",
+      "5558.67",
+      "5565.12",
+      "5565.55",
+      "5566.95",
+      "5579.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は散記にする。  日本語語地図資料用紙　注記一覧　17-75  資問番号　地図番号  030 S　78  項目名　オドロク（吃驚する）  A　普通注記  [B　除いた共通語]  [C　除いた特殊語]　（14）  地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）  5539.43　2.(3)　しかし〈ビックリスル　ガタタル〉〈ソボレアヤル　せ使う〉という。  5547.96　2.(3)　しかし　ビックリスルを多く使う。  5548.58　3.(2)　〈新〉〈希〉（普通 bikkuri jiru という）  5558.67　3.(2)　〈新〉  5565.12　2.(3)　〈たまにしか使わない〉  5565.55　5.　〈〈bikkuri suru〉を使う〉  5566.95　5.　〈ビックリスル〉という。  5579.10　5.　〈おどろいたということは不言ではないから〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01775.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01775",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01775.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5575.09",
+      "5590.53",
+      "5599.41",
+      "5599.75",
+      "5603.78",
+      "5605.11",
+      "5608.51"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞〔〕は厳密にする。\n日本言語地図資料用紙 注記一覧 17-76\n資問番号 地図番号 030 S 78\n項目名 オドロク（吃驚する）\nA 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語) (15)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n2.(3)　<使うことは使うが，こうしたようなときは\n　ビックリシタという方がずっと多い>\n\n3.(2)　<改まった感じ，普通には「ビックリスル」\n　という語形を用いる.>\n\n3.(2)　<ただし，共通語を意識して使う場合\n　にすぎる.>\n\n3.(2)　<共>\n\n5.　<tanageruと言う>\n\n3.(2)　上品な改まった言い方には使う.\n\n5.　<タマゲルと言う>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01776.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01776",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01776.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5611.74",
+      "5611.81",
+      "5612.39",
+      "5613.53",
+      "5617.85",
+      "5620.32",
+      "5622.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉()[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　17-77\n\n資料番号　030 S　地図番号　78\n項目名　オドロク（吃驚する）\nA　普通注記　　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(16.)\n\n地点番号　　A語形とその注記[ B・C除いた語形とその注 ]　　A注のない語形 [B・C 残した語形とその注]\n5611.74　　5.　オベレと言う。\n5611.81　　3.(2)　〈但し改まった場合、共通語的な場面に限る。普通は〈tamageta〉を使う〉\n5612.39　　3.(2) ?　共通語的場面において使うもの　であろう。\n5613.53　　5.　〈tamagetaと言う〉\n5617.85　　5.　〈tamageruを使う〉\n5620.32　　2.(3)　しかし、オドロクよりもビックリ・スルを多く使うという。\n5622.48　　5.　tamageruと言う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01777.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01777",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01777.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5623.27",
+      "5623.85",
+      "5624.85",
+      "5628.23",
+      "5632.28",
+      "5632.83",
+      "5633.45",
+      "5639.80"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-78\n資料番号　地図番号\n030 S　78\n項目名　オドロク（吃驚する）\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]（17.）\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n（表見出し）\nA　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5. <tamaeta tamaetaを使う>\n2.(3) <tamaeta がふつう>\n5. <tamageruと言う>\n5. <tamayeruという>\n5. <知ってはいるが使わない>(tamayeruを使う)\n3.(2) <オドロクと言えばいいことはだし、普通は オドケタ.>\n5. <tamayetaという>\n5. <使う人もあるが、私は使わない。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01778.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01778",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01778.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5641.13",
+      "5642.17",
+      "5642.31",
+      "5643.33",
+      "5648.13",
+      "5652.06",
+      "5652.22",
+      "5653.42",
+      "5659.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本語語地図資料用紙　注記一覧　17-79\n\n項目番号　地図番号\n030 S　78\n項目名　オドロク（吃驚する）\nA 普通注記\n（B 除いた共通語）\n（C 除いた特殊語） (18.)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）\nタマケルという>\n\n5641.13　1.　<odokasare te odoroku>\n5642.17　2.(3)　<希> <tamayetaが多い>\n5642.31　2.(3)　<希> <odoketaと言う>\n5643.33　5.　<裏がだった場合は odoroitaという>\n5648.13　5.　<tamageruという>\n5652.06　2.(3)　<希>\n5652.22　5.　<odoketa jo!>\n5653.42　5.　<odoketa・odokeruという>\n5659.46　5.　タマケタを使う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01779.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01779",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01779.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5661.34",
+      "5662.78",
+      "5663.01",
+      "5664.51",
+      "5665.11",
+      "5667.24",
+      "5667.77",
+      "5669.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n日本言語地図資料用紙　注記一覧　17-80\n管理番号　地図番号\n030 S 78\n項目名　オドロク（吃驚する）\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]　(19.)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5.　<odoketaとだけ言う>\n5.　<odoketaを普通に使う> <ザンコク>　なことがあった時には bikkurijitaと言う>\n5.　<度合の強いとき odoketa、ふつうの時 tamayeta>\n5.　<知っているだけだ>\n5.　<ビックリスルという>\n5.　<タマゲタ>\n3:(2)　<（某ことにて）普通は ottamageru>\n2:(3)　普通 tamageru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01780.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01780",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01780.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5671.36",
+      "5672.52",
+      "5672.75",
+      "5676.28",
+      "5677.14",
+      "5678.59",
+      "5678.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 17-81\n調査番号 地図番号 030 S 78\n項目名 オドロク（吃驚する）\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (20.)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5671.36　5.　<若い者は odoroitaを使う、この辺では tamagetaという>\n5672.52　3.(2)　<上>\n5672.75　1.　<bikkura とも言う>\n5676.28　5.　<tamageruという>\n5677.14　2.(3)　<普通 tamageru を使う>\n5678.59　2.(3)　しかし、tamageta、もっと強く ottamagetaという人の方が多い。\n5678.71　2.(3)　<おどろいたともいうが、普通 タマゲルという>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01781.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01781",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01781.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5679.86",
+      "5680.34",
+      "5681.41",
+      "5682.37",
+      "5686.31",
+      "5689.98",
+      "5690.27",
+      "5693.78"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 \n日本語語地図資料用紙 注記一覧 17-82\n資料番号 地図番号 030 S 78\n項目名 オドロク（吃驚する）\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ（2）\n\n（表ヘッダ） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5. 荒っ使う\n2.(3) <希・共> <ふだんは (wt) tamayeru と云う>\n3.(2) <新> <土せの人同志では使わない> <ふつうは tamageta と言う>\n2.(3) <希> <ふつうは odoketa>\n2.(3) <希> <ふつう tamageru と言う>\n3.(2) <しかし、普通は [tama] を使う。 codoraita は共通語的場面で使う>\n3.(2) <新>\n2.(3) <一般にはビックリするを使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01782.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01782",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01782.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5694.82",
+      "5703.70",
+      "5711.85",
+      "5712.70",
+      "5723.36",
+      "5733.02",
+      "5730.57",
+      "5741.25"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 17-83 管理番号 030 S 地図番号 78 項目名 オドロク（吃驚する） A 普通注記 [B 除いた共通語] [C 除いた特殊語] (22) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 3.(2) [共通的場面で] 多くはビックリシタ、を使う 3.(2) <新> <ふつう tamayeru> 3.(2) <おどろくのかわりに tamayeru をつかうのは古風> 3.(2) <共> ふつうは tamayeru という 5. <tamayeru をつう> 3.(2) <共>として 2.(3) <但し、タマケルという方が普通の言い方> 5. <tamayeru を使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01783.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01783",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01783.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5741.66",
+      "5742.65",
+      "5760.24",
+      "5770.46",
+      "5771.42",
+      "5780.11",
+      "5781.65",
+      "5782.79",
+      "5782.94",
+      "6349.23"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-84\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n資料番号　030 S　地図番号　78\nオドロク（吃驚する）\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　（23）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n2.(3)　＜希＞　一般は tamayeru\n2.(3)　ただし、最近、ふつうは tamayeru.\n5.　＜tamagetaという＞\n3.(2)　＜新＞　使わない\n2.(3)　ふつうは tamayeda\n5.　使う人もある\n5.　＜tamagetaという＞\n5.　＜tamayeruが多い＞\n5.　＜tamagetaという＞\n2.(3)　＜多くはタマケルと言う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01784.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01784",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01784.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6369.32",
+      "6373.59",
+      "6377.65",
+      "6378.87",
+      "6379.31",
+      "6385.63",
+      "6379.98",
+      "6395.21",
+      "6407.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での音韻は地点番号順に並べる。 注記の＜＞（）（）[]は厳密にする。 日本言語地図資料用紙　注記一覧　17-85 資料番号　030 S　地図番号　78 項目名　オドロク（吃驚する） A　普通注記 (B　除いた共通語) (C　除いた特殊語) (24) 地点番号　A　音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 3・(2)　新．＜普通はタマケルを使う＞ 3・(2)　＜現在は使う＞ 5.　＜びっくりはタマケタ＞ 3・(2)　＜新＞（新） 2・(3)　＜未希＞ 3・(2)　＜新＞ 3・(2)　新 2・(3)　＜しかし あまり使わない 普通タマケタ と云う＞ 2・(3)　#　＜希＞、＜一般＞使わない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01785.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01785",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01785.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6411.66",
+      "6412.12",
+      "6413.10",
+      "6419.25",
+      "6419.50",
+      "6420.34",
+      "6423.75",
+      "6428.76",
+      "6429.15",
+      "6433.97"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本語音地図資料用紙 注記一覧 17-86 030 S 78 項目名 オドロク（吃驚する） A 普通注記 [B 除いた共通語] [C 除いた特殊語] （25） 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） 6411.66 2.(3) ＜多くは、びっくりしたことをオベタと言う＞ 6412.12 2.(3) ＜一般にはオベタと言う＞ 6413.10 3.(2) ＜新しい言い方。ビックリスルが普通＞ 6419.25 2.(3) 希（普通はビックリタを用いる） 6419.50 2.(3) ＜希・共＞ 6420.34 5. ＜オヒェタと言う＞ 6423.75 2.(3) ＜稀。普通 オヒエルと言う＞ 6428.76 1. ＜オヒエルとも言う＞ 6429.15 2.(3) ＜希＞（日常語はビックリタである） 6433.97 3.(2) ＜共＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01786.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01786",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01786.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6434.57",
+      "6439.01",
+      "6439.77",
+      "6442.35",
+      "6442.80",
+      "6444.89",
+      "6447.08",
+      "6447.84",
+      "6448.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は簡潔にする。\n日本言語地図資料用紙 注記一覧 17-87\n資料番号 地図番号 030 S 78\n項目名 オドロク（吃驚する）\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] （26）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6434.57　5.　＜オドロクという言葉そのものを使うことがない＞\n6439.01　3.(2)　＜希＞\n6439.77　1.　ビックリシタ・オドロイタ\n6442.35　5.　新しい人は使う。\n6442.80　3.(2)　新\n6444.89　3.(2)　＜共＞＜よそいきの場合に使う＞\n6447.08　3.(2)　(<<非>?)\n6447.84　5.　オビエタ、ビックリシタ\n6448.61　3.(2)　＜新＞　ビックリスル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01787.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01787",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01787.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6449.19",
+      "6449.20",
+      "6449.33",
+      "6454.24",
+      "6455.27",
+      "6455.88",
+      "6457.45",
+      "6458.08",
+      "6458.40",
+      "6466.16"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-88\n030 S　78\n項目名　オドロク（吃驚する）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(27.)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6449.19　5.　ビックリスル（?わ）\n6449.20　5.　オビエタ・ビックリスル\n6449.33　1.　ビックリスル\n6454.24　3.(2)　＜共通語的場面では使うこともあろう＞\n6455.27　5.　＜びっくりするを使う＞\n6455.88　3.(2)　＜共＞＜ビックリスルが普通＞\n6457.45　2.(3)　あまり使わない\n6458.08　5.　ビックリスル\n6458.40　3.(2)　＜新・希＞ビックリシク\n6466.16　3.(2)　＜オドロイタはよそ行きことばで、平住は使わぬ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01788.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01788",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01788.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6470.71",
+      "6474.03",
+      "6475.07",
+      "6475.32",
+      "6476.93",
+      "6479.26",
+      "6479.51",
+      "6479.95",
+      "6480.41"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-89\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞〔〕は厳密にする。\n管理番号 030 S　地図番号 78\n項目名 オドロク(吃驚する)\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (28)\n\n地点番号　A語形とその注記　(B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n6470.71　3.(2)　新\n6474.03　3.(2)　<共>\n6475.07　3.(2)　(共)\n6475.32　3.(2)　<共>\n6476.93　5.　このような時には オーケタが ホンマニ、\n　というように、オーケル又はビックリスルを用いる。\n6479.26　2.(3)　<希>、ビックリシタ(ふた人)\n6479.51　5.　bikkuri suru という\n6479.95　3.(2)　<上>　ビックリスル\n6480.41　3.(2)　(新)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01789.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01789",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01789.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6480.91",
+      "6482.23",
+      "6482.52",
+      "6484.78",
+      "6486.07",
+      "6486.50",
+      "6491.49",
+      "6491.65",
+      "6492.11",
+      "6500.22"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　17-90\n項目番号　030 S　地図番号　78\n項目名　オドロク（吃驚する）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]（29.）\n\n■ A・[B]・[C]ごとに別紙を使用する。\n■ その中での情報は地点番号順に並べる。\n■ 注記の＜＞（）[]は厳密にする。\n\n地点番号　A語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C　残した語形とその注〕\n6480.91　3.(2)　＜近頃の若いもん＞\n6482.23　3.(2)　新\n6482.52　2.(3)　＜tamage-taという手が多い＞\n6484.78　5.　ビックリスルという\n6486.07　5.　オオケタ（過去）、オオケルの言葉を用いる。\n6486.50　5.　オトロシカッタ・ビックリシタという\n6491.49　5.　＜tamage-taという＞\n6491.65　5.　＜bik:uri sjta . tamage-taなどという＞\n6492.11　5.　tamagetaという\n6500.22　3.(2)　＜改まった感じ＞　普通には「ビックリスル」",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01790.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01790",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01790.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6503.66",
+      "6509.38",
+      "6509.43",
+      "6514.38",
+      "6517.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　17-91\n資料番号　地図番号　030 S 78\n項目名　オドロク（吃驚する）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (30.)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形 [B・C 残した語形とその注]\n\n形を用いる。\n\n6503.66　3・(2)　上品ない行。普通は「びっくりする」。\n6509.38　5.　＜ビックリシタとか、ビックラコイタなども使う＞\n6509.43　5.　＜おどろいたという言葉は方言ではない＞\n6514.38　3・(2)　＜共＞＜ビックリシタが普通のいい方＞\n6517.31　3・(2)　＜共＞（＜共＞と記したのは「ちょどろく」、\nという言葉は方言ではなく、標準語だ。　そして共通の場所ではこの語を...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01791.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01791",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01791.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6518.87",
+      "6519.43",
+      "6519.67",
+      "6521.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-92\n調査番号　地図番号\n030 S　78\n項目名　オドロク（吃驚する）\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\n(31.)　ページ\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nびっくりするの意味に使うという被調査者\nの言葉があったためである。\n\n6518.87　3:(2)　＜共＞＜ふだんはビックリセルという＞\n6519.43　.5.　＃（おどろくという語はびっくりする\nと、たまげるという意味を含らわしている\nことは被調査者もわかっているが、方言は\nビックリ来ルという言葉を使用するので、\nここでは使わないと答えたのであろう）\n\n6519.67　5.　＜普＞ビックリスル　＜特＞オドレル\n6521.17　5.　「オドロク」という語形がない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01792.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01792",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01792.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6523.86",
+      "6527.22",
+      "6527.44",
+      "6528.06",
+      "6528.21",
+      "6528.64"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-93\n030 S   78\n項目名　オドロク(吃驚する)\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (32.)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n6523.86　3.(2)　<共> <ビックリスルをフツウに使う>\n6527.22　3.(2)　<特別上品に言う時は希に使うこと> もちろん 普通は bikkurijita\n6527.44　3.(2)　但し[雅]. 普通は bikkurijita\n6528.06　3.(2)　<普通は bikkuri koata というが特別上等ないい方としてならば「おどろいた」ということも希にある>\n6528.21　3.(2)　<但し 特別上等のことはとして極く希れに使うこともあるが 普通は bikkuriseru>\n6528.64　2.(3)　<但し 普通は bikkurijita が多い>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01793.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01793",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01793.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6530.23",
+      "6532.70",
+      "6533.31",
+      "6537.06",
+      "6537.21",
+      "6538.46",
+      "6539.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での指摘は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　17-94\n資料番号　030 S　地図番号　78\n項目名　オドロク(吃驚する)\nA 普通注記　B 除いた共通語　C 除いた特殊語 (33)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nodoroku は [雅]\n6530.23　2.(3)　〈普通はビックリスルを用いる〉\n6532.70　3.(2)　〈改まった時〉普通はビックリスルという\n語形を用いる。オドロクという語形自体が余り使用されない訳である。\n6533.31　3.(2)　最近は少し使う。\n6537.06　3.(2)　〈特別上品な語で普通は bikkuri; suru〉\n6537.21　5.　〈bikkuri kokuという〉\n6538.46　5.　〈普通は bikkuri; seru〉\n6539.12　3.(2)　〈但し公であってあらたまった言い方〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01794.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01794",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01794.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6541.27",
+      "6541.66",
+      "6544.69",
+      "6547.24",
+      "6547.67",
+      "6548.02",
+      "6548.82"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 17-95 管理番号　地図番号 030 S　78 項目名　オドロク（吃驚する） A 普通注記 (B 除いた共通語) (C 除いた特殊語) （3ト） ページ 地点番号　A書形とその注記 [B・C除いた書形とその注]　A注のない語形 [B・C 残した語形とその注] 普通は bikkuri jita ビックリスル 2.(3) ビックリスルの... 5. <びっくりすると言う> 3.(2) <但し［共］で［雅］> <普通は bikkuri jita> ザタク? 5. <bikkuri jitaを使う> 3.(2) 但し［雅］で、普通は bikkuri jita 3.(2) <但しやや上品、普通は codoketai をより多く用う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01795.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01795",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01795.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6549.60",
+      "6549.69",
+      "6550.13",
+      "6550.96",
+      "6552.88",
+      "6553.47",
+      "6554.45",
+      "6555.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 17-96\n\n資料番号 030 S 地図番号 78\n項目名 オドロク(吃驚する)\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (35)\n\n地点番号  A語形とその注記 【B・C除いた語形とその注】  A注のない語形 【B・C 残した語形とその注】\n\n6549.60    5. <普通は odoketa という>\n6549.69    5. <普通は odokeru>\n6550.13    1. (？) ビックリシタ\n6550.96    5. ビックリスルという\n6552.88    3.(2) <今は使う> <昔は bikkurisuruta だけ>\n6553.47    3.(2) <共> <ただしこれは手紙などに書くと はで, ふつうは「ビックリスル」という>\n6554.45    2.(3) <普通は ビックリスルという言葉を使う>\n6555.65    3.(2) <今は判るが, 昔はオドロクなどという言葉を使わなかった>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01796.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01796",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01796.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6558.10",
+      "6559.22",
+      "6560.22",
+      "6563.43",
+      "6563.58",
+      "6563.84",
+      "6564.33",
+      "6564.51"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙　注記一覧\t17-97\n\t\t030 S\t78\n項目名　オドロク（吃驚する）\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\t(36.)\n\n地点番号\tA　語形とその注記（B・C除いた語形とその注）\tA注のない語形（B・C残した語形とその注）\n\n5.\t普通は odokeru, bikkuri suru\n3.(2)\t＜但し（共）的な[雅]。普通は odoketa＞\n5.\tビックリシタという\n2.(3)\t＜ふつうは「ビックリスル」という。＞\n5.\t＜bikkuri jita を使う＞\n5.\t＜bikkuri jita かな普通＞\n3.(2)\t＜普通は「ビックリスル」という。従って 公的場面で「オドロク」を用いるわけである＞\n3.(2)\t＜共＞＜ただし、普通はビックリスルと言う＞\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01797.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01797",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01797.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6567.17",
+      "6571.63",
+      "6572.97",
+      "6573.17",
+      "6574.06",
+      "6576.56"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-98\n資料番号　030 S　地図番号　78\n項目名　オドロク（吃驚する）\nA 普通注記　ページ\n[B　除いた共通語]　[C　除いた特殊語]　(37.)\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n6567.17　2.(3)　<odorokuといっコトを使うのはよほど気のきいた人で、我々は bikkuri, jita と言う>\n6571.63　2.(3)　<但し bikkuri suru の方を多く使う>\n6572.97　3.(2)　<ただし、小学校の時に習ったことはないが ふつうは「ビックリタ」という。「おどろいた」は気取った時に使う。>\n6573.17　3.(2)　<ただし、ふつうは「ビックリスル」と言う。公的場面で使うのは「オドロク」である。>\n6574.06　2.(3)　<ただし、ふつうは「ビックリスル」を使う>\n6576.56　3.(2)　[共]「（注）bikkuri suru」",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01798.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01798",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01798.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6580.33",
+      "6580.66",
+      "6571.36",
+      "6582.48",
+      "6582.73",
+      "6590.08",
+      "6590.87",
+      "6591.02",
+      "6603.08"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は敬語にする。\n\n日本言語地図資料用紙　注記一覧　18-1\n質問番号　地図番号\n030　S　78\n項目名　オドロク（吃驚する）\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（38）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n6580.33　2.(3)　＜ビックリスルの方を多く使う＞\n6580.66　2.(3)　＜普通はビックリスルという＞\n6571.36　5.　＜意味はわかるが、使用頻度はビックリスルである＞\n6582.48　5.　bikkuri,suruという\n6582.73　3.(2)　＜新＞\n6590.08　2.(3)　＜ビックリスルの方を多く使う＞\n6590.87　5.　＜ビックリスルを使う＞\n6591.02　5.　＜〃　という＞\n6603.08　2.(3)　＜多くはビックリスルを使う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01801.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01801",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01801.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6605.84",
+      "6606.38",
+      "6607.84",
+      "6610.77",
+      "6613.07",
+      "6613.54"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での指示は地点番号順に並べる。\n注記の＜＞（）は略記にする。\n日本言語地図資料用紙　注記一覧　18-2\n資料番号　030 S　地図番号　78\n項目名　オドロク（吃驚する）\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（39）\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6605.84　3.(2)　使う　<<多くが共通語形として使う。ビックリタが多い>>\n6606.38　1.　＜codore:ta＞という\n6607.84　1.　bikkuri, jitaという。\n6610.77　1.　[タスケルはちょっとちがう。予期したことがはずれたとき－例えば おの娘があり男のところに嫁に行くとはタマケタなどーに使う]\n\n6613.07　2.(3)　＜ビックリスルの方が多く使われている＞\n6613.54　5.　bikkuri, ri.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01802.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01802",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01802.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6619.76",
+      "6626.30",
+      "6626.46",
+      "6630.43",
+      "6634.32",
+      "6635.54",
+      "6639.43",
+      "6639.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n質問番号 030 S　地図番号 78　項目名 オドロク（吃驚する）　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (40.)\n\n表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n2.(3)　但し、普通は [tamageta] を使う。\n1.　bikkuri shita\n2.(3)　<だいしあまり多くは使わない>\n3.(2)　<但し odoketa という方がより一般的であろう　odoroita は [稀]>\n2.(3)　「おどろいた」よりも「たまげた」- tamageta を多く使う。\n2.(3)　「たまげる」を多く使う。\n2.(3)　（併し、「タヌケル」を普通使う）\n2.(3)　<しかし、tamageru の方が多い>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01803.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01803",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01803.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6641.97",
+      "6645.37",
+      "6650.79",
+      "6656.31",
+      "6657.96",
+      "6700.25",
+      "6700.48",
+      "6701.01",
+      "6710.55",
+      "6711.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-4\n\n質問番号　地図番号\n030 S　78\n項目名　オドロク（吃驚する）\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(41.)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6641.97　2.(3)　普通には言わない。odokeruを使う\n6645.37　2.(3)　〈希〉くたまげた、びっくりしたを使う\n6650.79　2.(3)　ビックリスルを多く使う\n6656.31　5.　〈びっくりするという〉\n6657.96　4.　〈昔〉〈今は bikkurijita と云う〉\n6700.25　2.(3)　〈tamageru が普通〉\n6700.48　2.(3)　〈但し、タマゲルが普通〉\n6701.01　2.(3)　普通は〈tamageta〉を使う\n6710.55　2.(3)　普通（tamageta）を使う。\n6711.12　2.(3)　〈但し「タマゲル」を普通に使う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01804.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01804",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01804.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6711.60",
+      "6720.23",
+      "7239.85",
+      "7249.35",
+      "7249.95",
+      "7279.01",
+      "7302.87"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での箇条は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　18-5\n質問番号　地図番号\n030 S 78\n項目名　ナドロク（吃驚する）\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]（42）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6711.60　2(3)　＜しかし, tamageruの方が多い＞\n6720.23　2.(3)　普通は[tamageta]と言う\n7239.85　5　＜ビックリシタという語を使う＞\n7249.35　5　＜驚いたというときはタマガッタ　ビッディシタ、ビックインタなどという＞\n7249.95　3.(2)　【新】ビッティスルというのがふつう　いい方である。\n7279.01　1　ビックリシタということもある。\n7302.87　5　＜普通は tamagat:a という＞（共通語としてなら小学生などはこう）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01805.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01805",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01805.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7303.29",
+      "7303.61",
+      "7311.68",
+      "7312.69",
+      "7320.59",
+      "7322.17",
+      "7322.81",
+      "7323.17",
+      "7331.27",
+      "7331.41"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-6\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n項目番号 030 S 地図番号 78\n項目名　オドロク（吃驚する）\nA 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語]　(43)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7303.29　5.　（タマゲルと言う）\n7303.61　5.　＜bikurijitaという＞\n7311.68　5.　＜tamagataということが多い＞\n7312.69　5.　bik:urisuru\n7320.59　5.　tamagaruという\n7322.17　5.　bik:urisuruという\n7322.81　1.　＜bik:urijitaと云う＞\n7323.17　5.　bik:urisuruという\n7331.27　5.　＜tamagataという＞\n7331.41　5.　オドロクという語はたく、ビッキズン\n\n（表内手書き注記・ローマ字表記は原文のまま）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01806.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01806",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01806.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7332.46",
+      "7332.97",
+      "7333.51",
+      "7338.55",
+      "7339.27",
+      "7341.42",
+      "7341.47",
+      "7342.12"
+    ],
+    "other_text": "日本普通地図資料用紙　注記一覧　18-7\n質問番号　地図番号\n030 S　78\n項目名　オドロク（吃驚する）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（44）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nビックリスッなどを使う\n\n7332.46　5.　<tamagatiaという>\n7332.97　1.　タマサッタ・ビックリシタとも云う。\n7333.51　5.　<bikurijitaという>\n7338.55　5.　<tamage?uという>\n7339.27　5.　<tamage-ta・bikuri-jitaという>\n7341.42　3.(2)　〈新・上〉ビックリシタを使う\n7341.47　3.(2)　〈新〉〈古くはビックリシタという〉\n7342.12　3.(2)　〈但し、共通語形としての意識の時に限ると推定〉通常はbikurijita",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01807.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01807",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01807.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7342.76",
+      "7347.55",
+      "7349.07",
+      "7350.21",
+      "7351.09",
+      "7351.68",
+      "7352.61",
+      "7352.97"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 18-8\n資料番号 030 S 78\n項目名 オドロク(吃驚する) ページ (45)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注)\n\n7342.76  2.(3)  (tamagat: a ･･･ 一般方言形の音であろ)\n但し 普通は <bikurisuwru> というと書く。\n7347.55  5.  <タマガッタ かぶつう>\n7349.07  3.(2)  <tamage-taというのよりも odoroi-taという方がよい言い方 da jo:na.>\n7350.21  3.(2)  <新や<ふつう>はビックイシタを使う>\n7351.09  5.  tamagat:aという 〈使う〉\n7351.68  3.(2)  標準語としては使う\n7352.61  5.  タマサッタを用う\n7352.97  5.  <””>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01808.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01808",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01808.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7357.64",
+      "7362.67",
+      "7363.12",
+      "7363.85",
+      "7365.25"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-9\n管理番号　地図番号\n030 S　78\n項目名　オドロク（吃驚する）　ページ（46）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7357.64　3.<2>　<共> <ビックリシタの方がヒンとしてくる>\n7362.67　3.<2>　<タマサルを使う> <よその人、教師 のあるもの相互互たらばオドロクと さわない場合もないではないが音通りことはではない>\n7363.12　5.　タマサッタを叩う\n7363.85　3.<2>　（共通語として希に使うこともあろう けれども日常生活の語とは言えな いようである。基本はタマサル）\n7365.25　3.<2>　<たゝい、未通話的場所では使う こともあろう>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01809.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01809",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01809.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7366.14",
+      "7367.25",
+      "7372.96",
+      "7373.23",
+      "7374.75",
+      "7375.71"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-10\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）は厳密にする。\n\n調査番号　030 S　地図番号　78\n項目名　オドロク（吃驚する）\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(47.)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n7366.14　5.　＜タマサルという＞\n7367.25　2.(3)　＜タマサルという方が多い＞\n7372.96　3.(2)　(?)　＜希‹某›‹上›の条件で使うと\nいう答を得たが、基本的、日常生活の\nことばとしてはタマヤッタ・オトロシカッタ\nであるという答であろう＞\n\n7373.23　5.　＜タマガッタを用いる＞\n7374.75　3.(2)　＜標準語として意識はしているらしいが\n実生活には用いないようである＞\n7375.71　5.　tamagauを更に使う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01810.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01810",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01810.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7375.96",
+      "7380.74",
+      "7381.47",
+      "7381.97",
+      "7382.58",
+      "7382.97",
+      "7383.83",
+      "7384.16",
+      "7385.61",
+      "7386.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 18-11 調査番号 030 S 地図番号 78 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (48) 項目名 オドロク（吃驚する） 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7375.96 2・(3) <希>、通常 tamagaruという 7380.74 5. <ビックリシタ・タマガッタを使う> 7381.47 5. <タマガルを使う> 7381.97 5. タマグル・タマサルを用う 7382.58 5. <タンガルを用いる> 7382.97 5. タマサルを使う 7383.83 5. <タマザッタを用いる> 7384.16 2・(3) <tamagaruを普通使う> 7385.61 2・(3) <通常 tamagaruという> 7386.55 3・(2) 共通語的場面に限る、方言的場面に",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01811.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01811",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01811.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "7390.70",
+      "7391.44",
+      "7394.14",
+      "7396.53",
+      "7400.15",
+      "7401.11",
+      "7402.42",
+      "7402.47",
+      "7403.16"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) は厳密にする。\n日本言語地図資料用紙 注記一覧 18-12\n資料番号 030 S 地図番号 78\n項目名 オドロク(吃驚する)\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  (49.)\n地点番号　A語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\nでは タマガルを使う。\n5. オトロシカを用いる\n5. タマガルを用いる\n5. <tamagaruを使う>\n2.(3) 普通 /tamagatta/ という\n5. <tamageruという>\n2.(3) <tamageruということが多い>\n5. tamage-ta という\n1 <tamageru ja nai ka> ともいう\n1 (<tamageta>とも言うことがある由)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01812.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01812",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01812.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "7404.12",
+      "7414.43",
+      "7424.60",
+      "7431.82",
+      "7432.44",
+      "7440.69",
+      "7441.89"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-13\n質問番号　地図番号\n030 S　78\n項目名　オドロク（吃驚する）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7404.12　5.　＜tamageta＞という。\n7414.43　3.(2)　＜た…うんと改まった場合には…＞\n　　　　＜使わぬこともない。普通にはビックリスルを使用＞\n7424.60　5.　4（この意味ではビックリスルを使うようだ）\n7431.82　5.　＜tamageruという＞\n7432.44　5.　タマゲタという。\n7440.69　5.　＜tamage-taという＞\n7441.89　2.(3)　＜稀＞（普通はタマゲタを使用するようだ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01813.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01813",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01813.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "7502.22",
+      "7503.11",
+      "7504.27",
+      "7510.18",
+      "7511.66",
+      "7513.69",
+      "7522.94",
+      "7523.05"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙　注記一覧　18-14 資料番号　地図番号　030 S　78 項目名　オドロク（吃驚する） A 普通注記 [B 除いた共通語] [C 除いた特殊語] （51） 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 7502.22　5.　bikkuri suruという 7503.11　3.(2)　＜だし 学校で習った言葉であろう＞ は「ビックリスルを使う」 7504.27　3.(2)　［共］ 7510.18　5.　＜ビックリスルを使う＞ 7511.66　5.　＜　”　＞ 7513.69　3.(2)　＜だし、新しい共通語的な言い方であって、普通はビックリスルを使う＞ 7522.94　5.　＜ビックリスルを使う＞ 7523.05　5.　＜　”　＞　理解はできるが",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01814.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01814",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01814.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "8300.80",
+      "8301.19",
+      "8301.76",
+      "8303.47",
+      "8305.73",
+      "8311.63",
+      "8312.75"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-15\n資料番号　030 S　地図番号　78\n項目名　オドロク（吃驚する）\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(52)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n（表見出し）\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5.　タマヤルという。\n5.　＜　＞\n5.　＜タマガッタを用いる＞\n3.(2)　＜タマヤルが基本であるが標準語的敬語的表現的な敬語的表現として、上品なわいさつ語としてオドロキマシタと云うような言い方をする＞\n2.(3)　普通／tamagaru／という\n3.(2)　［共］\n3.(2)　［共］",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01815.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01815",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01815.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "8313.72",
+      "8313.88",
+      "8315.89",
+      "8316.20",
+      "8323.59",
+      "8325.77",
+      "8332.42",
+      "8345.27",
+      "8355.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-16\n資料番号 地図番号 030 S 78\n項目名 オドロク (吃驚する) ページ (53)\nA・〔B〕・〔C〕ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n8313.72　5.　<tamagaruという>\n8313.88　5.　< ” ” >\n8315.89　2.(3)　稀。通常 /cittamagaru/ という\n8316.20　2.(3)　希。　”　tamagaruという,\n8323.59　5.　tamagaruを使い, tamagattaという,\n8325.77　5.　<tamagaruという>\n8332.42　3.(2)　[共]\n8345.27　2.(3)　<希> 普通 /tamagatta/ という,\n8355.23　5.　<“おどろく”がびっくりする意であろことは 知っているが使いたい。 tamagaru/という>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01816.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01816",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01816.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "8361.31",
+      "8364.33",
+      "0228.96",
+      "0237.79",
+      "0237.84",
+      "0238.55",
+      "0246.97",
+      "0247.31",
+      "0247.56",
+      "0248.00"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語彙は地点番号順に並べる。 注記のく<>（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-17\n質問番号 030 S　地図番号 78\n項目名　オドロク（吃驚する）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (54)\n\n（表ヘッダ）\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\nA欄の記載（各行、地点番号を除く）:\n3.(2)　[共]\n3.(2)　[共]\n1　udurukjun\n1　udurukjuri\n1　udurikjuri\n1　udukkjun\n1　udurukjum (おどろくの誤音とみて)\n1　udurukjun\n1　udukkjuri\n1　urukun (udurukunの略とみられる)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01817.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01817",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01817.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "0249.17",
+      "0256.08",
+      "0256.76",
+      "0257.12",
+      "0257.43",
+      "0265.96",
+      "0275.36",
+      "0275.97",
+      "0276.50",
+      "0294.66"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくくり（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-18\n調査番号　地図番号\n030 S 78\n項目名　オドロク（吃驚する）\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (55)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n0249.17　1　udutjuri\n0256.08　1　udurukjum\n0256.76　1　〃\n0257.12　1　udukkjum\n0257.43　5　<ube:herjumというコトバであらわす>\n0265.96　1　uduykjun・uduykjui\n0275.36　1　uduykjun\n0275.97　1　udurjukjun・udurjukjuri\n0276.50　1　udunkjun・udunkjui\n0294.66　1　udurutjun",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01818.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01818",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01818.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "0294.93",
+      "0340.00",
+      "1213.76",
+      "1231.88",
+      "1261.16",
+      "2068.28",
+      "2076.25",
+      "2076.96",
+      "2076.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-19\n質問番号 地図番号\n030 S 78\n項目名 オドロク(吃驚する)\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (56)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A注のない語形、（B・C 残した語形とその注）\n0294.93    1. udurukjun. udurukjumu\n0340.00    1. uduttsui\n1213.76    1. udurukjun. udurukjuji\n1231.88    1. udurutjan (おどろいた). udurutsun\n(おどろく)\n1261.16    1. <udurutsay>\n2068.28    1. udurukti: という\n2076.25    1. <udurugi atasa: 驚いた>\n2076.96    5. <おどろく意には ubairuy を用いる>\n2076.97    5. <ubairun という>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01819.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01819",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01819.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "2076.98",
+      "2076.99",
+      "2075.69",
+      "2086.03",
+      "2140.49"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-20\n030 S 78\n項目名 オドロク(吃驚する)\nA 音注記 [B 除いた共通語] [C 除いた特殊語] (57)\n\n地点番号  A 語形とその注記 (B・C 除いた語形とその注)  A 注のない語形 (B・C 残した語形とその注)\n2076.98  1.  <びっくりする意には uduruguyよりは ubairuyを多く用いる.>\n2076.99  1.  (おどろくに当る語形は uduruguy)\n2075.69  1.  <udurakuyは新しく bairunyを多く用いる>  (bairuny > ubairuny)\n2086.03  1.  (おどろきは uduruiという)\n2140.49  1.  <おどろくは uduruki:>\n\n(注) 2と3は統合した.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01820.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M078Q030/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01820",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01820.tif",
+    "source_ljc_id": "LJC-M078Q030",
+    "source_map_numbers": [
+      "078"
+    ],
+    "source_title": "オドロクを“驚く”の意味で使うか"
+  }
+]

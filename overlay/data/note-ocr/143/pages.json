@@ -1,0 +1,1819 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0861.48",
+      "1718.38",
+      "2754.11",
+      "2795.66",
+      "2775.72",
+      "3705.47",
+      "3705.82",
+      "3714.96",
+      "3716.27",
+      "3716.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-74\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( ) [ ]は厳密にする。\n質問番号 地図番号 082 143 (手書き) A 普通注記 ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n項目名 凧 082\n（表ヘッダ）地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\nrows:\n- tako <父は ikn といった>  (A列手書きローマ字・注)\n- タコ <京都から来た人は(か/ホリという)>  (A列手書き)\n- tagobada <普通>    (A列手書き)\n- tennobada <tenno-は「手」の意>    (A列手書き)\n- hadda <た>    (A列手書き)    -> tago (右列)\n- hadda <た>    -> tago\n- hadda <た>    -> tago\n- tenyobada <た>    -> takko\n- tenyobada <た>    -> tago\n- tenyobada <た>    -> tago\n(上記は手書きの英字表記・かな表記および簡易注記の粗い転写)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04074.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04074",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04074.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3725.72",
+      "3726.21",
+      "3733.22",
+      "3733.88",
+      "3734.42",
+      "3735.77",
+      "3737.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-75\n質問番号　地図番号\n682　143\n項目名　凧　082\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (2)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n3725.72　ハダー　<角なもの>\n3726.21　タコー <奴風?> / テンゴオへンダー <せ2風?>\n3733.22　タコー　<角形>\n3733.88　ハター　(客)\n3734.42　tagopada　(う)\n3735.77　テングハンダー　<も>\n3737.32　ハター　<右>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04075.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04075",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04075.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3740.82",
+      "3745.62",
+      "3747.81",
+      "3757.59",
+      "3761.74",
+      "3763.17",
+      "3767.87",
+      "3768.50",
+      "3774.44"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-76\n質問番号　地図番号　082　143\n項目名　凡　082\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n地 点 番 号\n3740.82　tago　武士の絵像とある。\n3745.62　N.R.　（この語具は用いるものない用）\n3747.81　ハター　<も>\n3757.59　テンバター　<希>\n3761.74　tago　<j?kko d?go, kagü dagu あり>\n3763.17　ハタ　<も>\n3767.87　水セー　<も>\n3768.50　トーモー　<今>\n3774.44　スルメパタ　<小,?>\n（表の右側にさらに注記欄、ページ番号などあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04076.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04076",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04076.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3774.61",
+      "3778.00",
+      "3786.01",
+      "3795.18",
+      "3795.33",
+      "4598.33",
+      "4637.68",
+      "4638.43",
+      "4644.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 40-77 質問番号 地図番号 082 143 項目名 凧 082 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (4) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 3774.61 ハダー (b) タコー 3778.00 テンハター <b> 3786.01 タコー (小型ゝもの) テンハター 3795.18 テンハター (奴) 3795.33 テンハター <b> 4598.33 eka <b> tako 4637.68 eka <希> tako 4638.43 ega ..古くから用い現在もこれを多く用いる。 4644.10 tako <絵の如き多> benをつけて書く案あり ika <ikaと訓めるのは動長い形で一色はあり>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04077.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04077",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04077.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4648.42",
+      "4653.47",
+      "4653.84",
+      "4654.52",
+      "4657.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-78\n質問番号　地図番号\n（欄内）082　143\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（5）\n項目名\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n4648.42    ega    している日が多い　<ちょくから用い現在もこれを多く用いる>\n4653.47    ika    <ち>　'ika ageaka' など 一方時代に用いた\n4653.84    ika <ち>    tako\n4654.52    ika　<ちー現>\n4657.88    tako    (奴風の様な形のものをいう)\n\nega （角型のものを云う）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04078.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04078",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04078.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4657.88",
+      "4659.85",
+      "4663.06",
+      "4665.87",
+      "4666.51",
+      "4669.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-79\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >() [ ] は厳密にする。\n\n質問番号 地図番号\n082 (143)\n項目名 風 082\nA 普通注記\nページ (6)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\negn　(絵柄)\ntegyu-badda　<くもと>\nika　昔は~かった。\neka　<希>\n<幼い時はこんを使ったが今は希>\neka　<もー現>\ntegyubadda　<もと,今は絵>    tago",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04079.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04079",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04079.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4672.19",
+      "4675.45",
+      "4676.60",
+      "4676.67",
+      "4678.71",
+      "4685.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-80\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n（右上欄）質問番号 082 地図番号 (143) A 普通注記 ページ\n項目名 飯 082\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4672.19    ika    <くち-現>\n（音、若い頃 さかんに用い、現在も こんど多く用いる。）\n4675.45    ika    <くち>\n4676.60    ika    <昔から ika いった。>\n中の□の対岸湾と云こ合戦をや..?（手書きで判読困難）\n4676.67    egd    <お供は tugo と云ろう>\n4678.71    ikadaako. (尾が長く、いかの形をしたもの) tako.\n4685.10    e(ka)   <奴なこはたたkoのい>（手書き判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04080.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04080",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04080.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4685.72"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）（　）[　]は厳密にする。 日本言語地図資料用紙　注記一覧　40-81 質問番号　地図番号　082　143 A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ (8) 項目名　風　082 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注] ものは e ka という，絵材を e ka という。 > たこ，> tako (tako は総称と考えられる。たこっ種類に ekadako, makidako 等があることから とり考えられるが，又 tako は O の形の??  すは女? 風や口似で角風等か? 経類の例?  (大面形（□）の大きい例を示す。) （隣に風合戦で有名な白根町か）ある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04081.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04081",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04081.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4685.88",
+      "4686.52",
+      "4686.96",
+      "4684.95"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-82\n資問番号　地図番号\n082　143\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n(9)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4685.88    ika    □ --- ika  } であるか、絵柄とは\n           φ --- tako } ;ika\n\n4686.52    eka -> (口形のものを e ka という。)\n           tako (やっこ形のものを tako という)\n           (eka age ということは かゝあるから)\n           eka を絵柄と考えてよかろう。\n           長男の言によれば、若い人は takoage と言う。\n\n4686.96    tako , eka　<...>\n\n4684.95    ika　<音から ika と云っている。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04082.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04082",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04082.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4700.78",
+      "4703.88",
+      "4704.45",
+      "4711.41",
+      "4713.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-83\n質問番号　地図番号\n082　143\n項目名　風　082\nA 普通注記　(B 除いた共通語)　[C 除いた特殊語]　ページ (10)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)［　］は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n4700.78    tako.    たことはえわなかっ た。　＜昔から遊んだ。＞\n4703.88    tebata    （手旗信号などという）をきる / tebata\n4704.45    ヤッコダニコ　〈奴風〉\n4711.41    [tago]\n4713.45    tembata    ＜最近タコを買ってくれと＞\n\n(手書き注記や文字は一部判読困難。上は読み取れる範囲のラフな転記。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04083.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04083",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04083.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4721.36",
+      "4731.15",
+      "4731.42",
+      "4731.85",
+      "4742.37",
+      "4742.43",
+      "4743.44",
+      "4744.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 日本言語地図資料用紙 注記一覧 40-84 質問番号 082 地図番号 143 項目名 風 082 A 普通注記 ページ (11) [B 除いた共通語] [C 除いた特殊語] 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注] えんまえーこんをタコと言うことを 知らなかった。 [tembada] tembata eは狭い e [koarada] [tembada] [tembata] tembada <ら> tembata <ら> tembata <通称><ぐ谷> tako tako tako",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04084.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04084",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04084.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4746.20",
+      "4760.78",
+      "4761.07",
+      "4763.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-85\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n質問番号　地図番号　082　143\nA ○ 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（12）\n項目名　扁　082\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\ntembata　＜b＞\ntako\ntako　＜絵でいえば左の四角いもの、大＞\nko~bata　＜尾がついている△形のもの。小＞\n→形によって（カの形）をしている\nekako~bataともいう。\ni は狭い e.\n\ntako　＜総称＞\ntakote~mbata　＜やつ型のものがけ＞\ntembata　＜四角のもの、および総称＞\ntekipata　＜天領の話とか＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04085.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04085",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04085.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4771.98",
+      "4792.48",
+      "5499.98",
+      "5506.68",
+      "5508.43",
+      "5517.8",
+      "5527.61",
+      "5529.77",
+      "5536.78",
+      "5536.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-86\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n質問番号 082    地図番号 143\n項目名  風   082\n(A) 普通注記    [B] 除いた共通語    [C] 除いた特殊語    ページ (13)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n4771.98  tembata.  音\n4792.48  tembada  <ち>    tago\n5499.98  (イカ／ホーリ) ・どちらもイカノホリという\n5506.68  eka  <ち>    tako\n5508.43  ikatako  <ち>    tako\n5517.80  eka  <ち>    tako\n5527.61  ika  <ち>    tako\n5529.77  eka  <ち>    tako\n5536.78  ika  <ち>    tako\n5536.99  ika  <ち>  <イカ＝筋か?> という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04086.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04086",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04086.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5538.33",
+      "5538.49",
+      "5549.32",
+      "5549.55",
+      "5557.48",
+      "5564.79",
+      "5575.55",
+      "5579.10",
+      "5584.22",
+      "5585.09"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-87\n質問番号 082　地図番号 143\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (14)\n項目名 風 082\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（手書きの行・地点番号は省略）\nika <くち>    tako\neka <くち>    tako\ntako ika <くち>    tako\neka <くち>    tako\neka <くち>    tako\neka <くち>    tako\nika <墨?>    tako\nika <くかというのは四角な形のもの>    92\nika が優位。\n\n（右欄に繰り返し \"tako\" の表記、各行に語形と簡単な注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04087.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04087",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04087.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5586.56",
+      "5586.70",
+      "5588.78",
+      "5591.60",
+      "5585.05",
+      "5595.20",
+      "5604.52"
+    ],
+    "other_text": "日本語地図資料用紙注記一覧　40-88\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n（表） 資問番号 082　地図番号 143\n項目名　凧　082\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　(15)\n\n地 点 番 号　　A 語形とその注記 [B・C 除いた語形とその注]\n\n5586.56    tako　〈希とみとむ〉　　　ika. 優先\n5586.70    nobori　両刃共存\n5588.78    tako\n5591.60    ﾀｶ　〈くち〉　　　　　　タコ\n5585.05    tako　優先\n5595.20    ika　優位\n5604.52    eka　〈くち〉\n\n小さい時代に使ったように tako",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04088.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04088",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04088.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5604.65",
+      "5611.39",
+      "5614.62",
+      "5620.30",
+      "5623.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-89\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n質問番号　地図番号\n082　143\n項目名　風　082\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（6）\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n（手書きメモ）\n思われる。あまりは戻りついた\nたこをえったのかもしれない\n両方用いる。昔は\nエカ。＜今タコと用いる。＞\ntako　＜子供の時から今まで＞\n1kα　＜四角の形のものはikaといった＞\ntako　＜こうしたあそびは昔も今も（したことがない）＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04089.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04089",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04089.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5624.85",
+      "5635.65",
+      "5644.74",
+      "5655.57",
+      "5657.73",
+      "5666.18",
+      "5667.77",
+      "5680.34",
+      "5696.13"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-90\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞（　）[　]は厳密にする。\n（右上の箱）質問番号　地図番号\n082　(143)\n項目名　風　082\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(17)\n\n表見出し：地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n5624.85    tako　（あまり波はないらしい）\n5635.65    タコ　（共）\n5644.74    タコ　（共）\n5655.57    タコ　（共）\n5657.73    タコ　（共）\n5666.18    タコ　（共）\n5667.77    tako　（中の形のものは tombidako）\n5680.34    tako　〔tako〕　（あまりしないらしい）\n5696.13    タコ　この終りたこは\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04090.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04090",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04090.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5741.25",
+      "6338.44",
+      "6357.74",
+      "6367.09",
+      "6368.60",
+      "6377.11",
+      "6379.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-91\n質問番号　地図番号　082　143\n項目名　風　082\nA　普通注記　　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(18)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形【B・C　残した語形とその注】\n\n（手書き）tako\nタコ\n（その他手書きの注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04091.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04091",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04091.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6383.77",
+      "6384.25",
+      "6402.53",
+      "6406.82",
+      "6407.43",
+      "6409.00",
+      "6409.72",
+      "6413.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-92\n質問番号　地図番号\n082　143\n項目名　風　082\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (19)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\njo:zu <ち>    tako\njo:zu <ち>    tako\nフコ <ミシャー方形、武者凡>    タコ\nイカノホリ (ち)    タコ\nイカノホリ <ち>\nイカ <ち> (ち希)\ntak:o (タコではなくタッコと発音を入れておく)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04092.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04092",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04092.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6414.17",
+      "6415.23",
+      "6415.78",
+      "6415.80",
+      "6415.83",
+      "6416.31",
+      "6417.14",
+      "6417.85",
+      "6418.75",
+      "6419.09"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40.93\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n（上部ボックス）質問番号 082　地図番号 143　項目名 凪 082　普通注記　ページ (20)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6414.17　ikanobori　<くち>\n6415.23　ika　<ち>\n6415.78　ikanobori　<ち・多く言う>\n6415.80　ika　<ち>\n6415.83　ika　<ち・希>\n6416.31　ikanobori　<昔言われか今は言わない>\n6417.14　ikanobori　<ち.希>\n6417.85　nobori　<ち>\n6418.75　チカ　<ち>\n6419.09　チカ　<ち>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04093.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04093",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04093.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6419.25",
+      "6419.50",
+      "6424.89",
+      "6426.83",
+      "6427.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-94\n質問番号　地図番号\n082　143\n項目名　凪　082\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(2/)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n6419.25\tイカ／ホーリ\t<くち>\n6419.50\tイカ\t<くち、せえなーこ>\n6424.89\tika\t<くち>\n6426.83\tイカ\t<くち>\tタコ\n6427.27\tikanobori [廃語]\n\n<現在、全然使わないことはない>\n(手書きの長い注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04094.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04094",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04094.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6427.6",
+      "6428.15",
+      "6434.57",
+      "6435.03",
+      "6436.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-95\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞(　)［　］は厳密にする。\n\n質問番号 082　地図番号 143\n項目名 風　082\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (22)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6427.60　ikanobori　(この地方はイカノボーリという)　方が多いということ。もっと外の言い方がないかと聞いたら、(カノボーリといった。)\n6428.15　イカ　<も><今、希>\n6434.57　イカ、タコ　(他にイカノホーという言い方も)\n6435.03　イカ　<も>\n6436.28　イカ　<も>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04095.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04095",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04095.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6437.94",
+      "6439.01",
+      "6440.67",
+      "6444.62",
+      "6445.57",
+      "6446.05",
+      "6447.08"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 40-96\n質問番号　地図番号　082　143\n項目名　颪　082\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (23)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6437.94　イカ　<ち>　　　タコ\n6439.01　イカ　<ち>\n6440.67　ヨオスー　<ちつ>\n6444.62　イカ　<書>\n6445.57　タコ　<普通>\n6446.05　イカ　<ち>\n6447.08　i ka ta ko　えこ親といって変\nたぶん(i ka ta ko も 同じ)\nものをいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04096.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04096",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04096.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6447.84",
+      "6449.17",
+      "6449.20",
+      "6449.33",
+      "6452.17",
+      "6453.59",
+      "6453.64",
+      "6454.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　40-97\n質問番号　地図番号　082　143\n項目名　凧　082\nA　普通注記　ページ（24）\n[B　除いた共通語]\n[C　除いた特殊語]\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく〈〉( )[ ]は厳密にする。\n\n表見出し：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n6447.84　（手書き）イカ/ボシ?　<新>　タコ\n6449.17　（手書き）イカホーン　<ち>\n6449.20　（手書き）イカ　<ち>\n6449.33　（手書き）イカ　<ち>\n6452.17　（手書き）ヨースー　<稀,ち>\n\n6453.59　（手書き）イカ　ち\n6453.64　（手書き）イカンボオル　<ち>\n6454.24　（手書き）イカ　<藁>\n\n（手書きの語形は判読が不確かな箇所があります。）」}<pair_uuid_notification_invalid_uuid_invalid_UUIDBadge.hidden_FOR_COMPLIANCE_NOT_REQUIRED_REMOVE>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04097.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04097",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04097.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6454.88",
+      "6455.31",
+      "6456.23",
+      "6456.57",
+      "6456.73",
+      "6457.45",
+      "6458.26",
+      "6458.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n日本言語地図資料用紙注記一覧 40-98\n質問番号 082    地図番号 (143)\n項目名 風 082\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]    ページ (25)\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n6454.88    タコ、イカ　(区別なし)\n6455.31    tako　<ika to iu hito mo iru>\n6456.23    イカ　(も)\n6456.57    イカ、タコ　(区別なし)\n6456.73    tako　(く夢)\n6457.45    イカ／ホリ　(も)\n6458.26    イカ／ホリ　(奴の形の分を特に)\n6458.91    タカンホリ　くあ>　タコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04098.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04098",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04098.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6459.52",
+      "6464.90",
+      "6465.40",
+      "6466.01",
+      "6466.16",
+      "6470.11",
+      "6476.13",
+      "6476.92",
+      "6482.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-01\n質問番号 地図番号 082 143\n項目名 風 082\nA 普通注記 ページ (26)\n[B 除いた共通語]\n[C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n地点番号  A語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n6459.52  イカ  ＜古＞\n6464.90  イカ  ＜新＞\n6465.40  イカンボリ ＜新＞\n6466.01  イカ  ＜くく力が普通である。＞\n6466.16  イカ、タコ （記号なし）\n6470.11  joka be ＜古＞\n6476.13  イカ  ＜古＞\n6476.92  イカ  ＜古＞\n6482.75  joka~be （<奴なごをいうのが/ほんとう>）\n（手書き注記・カタカナ表記・一部判読不明）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04101.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04101",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04101.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6484.43",
+      "6485.30",
+      "6485.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-02\n質問番号　地図番号\n082　143\n項目名　風　082\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）[　]は厳密にする。\n\n地点番号\tA 語形とその注記［B・C除いた語形とその注］\tA注のない語形［B・C 残した語形とその注］\n\n6484.43\tイカ\t＜イカトハベスといった。たこあげすることとある。＞\n6485.30\tイカ\t＜マスイカ（四角、長方形のもの）　ユオカハエ（奴なー）＞\n6485.82\tイカ\t＜も＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04102.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04102",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04102.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6488.48",
+      "6489.01",
+      "6481.65",
+      "6482.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-03\n質問番号　地図番号　082　143\n項目名　凧　082\nA　普通注記　ページ（28）\n[B　除いた共通語]\n[C　除いた特殊語]\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の〈〉( ) [ ]は厳密にする。\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n（手書き）法辺室へ参うランカ。\nイカコオテトハーサンカ。\nア×ユオテネフランカ。\nといって楽しみ遊んだ。>\n（手書き）tako.　〈角風〉\njokambe　〈人か／風〉\nヨカンベエ　〈人の形のむしけ〉\n〈joka~be〉（奴やのことは〈joka~be〉 tako.\n（その他手書きの注記、語形のメモあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04103.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04103",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04103.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6494.21",
+      "6496.56",
+      "6497.77",
+      "6498.00",
+      "6498.61",
+      "6504.98",
+      "6511.85",
+      "6512.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 41-04\n質問番号　地図番号\n082　143\n項目名\n風 082\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\nページ (29)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n<jo:gi>　うなりをつけた角たこ。\nika　<も?>　ika.　takoとも言うか；kaがない\njakko.　<形にとらわれず、子供のあそびもの>\ntako.　takoと言えば、やっこタコを言う　kakudako.\ntako.　takoと言えば、やっこタコを言う\nika, tako.　たこがきりょうか？\nikanobori　（他の別に調査した被相調者は）\nnobori　<b>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04104.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04104",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04104.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6513.57",
+      "6514.61",
+      "6520.79",
+      "6522.03",
+      "6523.54",
+      "6523.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-05\n質問番号　地図番号\nOP2　143\n項目名　風　082\n(A) 普通注記　ページ　(30)\n[A] 除いた共通語　[C] 除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n（表見出し）地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C・残した語形とその注]\nika, tako.　2形同等。\nika.　〈昔〉\nタコとイカ　（最近）\nイカ　（古）\n・「イカ」は、今ではほとんど使わない。\nタコ。フコは四角い形のをいう。\nタコは四角い形のをいう。\nやっこだこ。やっこだこはやっこだこにいる。\nika.　〈子供の時か〉（あずか）\ntako.　今は、takoの方が多い。 \nika.　〈呼上りはあまりしない〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04105.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04105",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04105.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6524.01",
+      "6525.75",
+      "6525.90",
+      "6530.58",
+      "6532.89"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-06\n質問番号　地図番号\n082　143\n項目名　凧　082\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(31)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n6524.01　ika.　<ク>　　　　　　　　　　　　たこ。\n6525.75　ika.　<顔の書いてあるもの>　　　　tako.\n6525.90　ika.　<ケ>　　　　　　　　　　　　tako\n6530.58　タコ。（タコと呼ぶ方が多いと答えた後）\n　　　　イカ。タコとイカと同じ程度に言っている\n　　　　と答えた。どちらも言い方など\n　　　　答えた。しかし篠山河原町広瀬氏\n6532.89　イカ　<く>　　　　　　　　　　　　タコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04106.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04106",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04106.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6532.83",
+      "6534.37",
+      "6534.85",
+      "6542.58",
+      "6546.73",
+      "6551.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-07\n質問番号　082　地図番号　(143)\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（32）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[　]は厳密にする。\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C　残した語形とその注］\n6532.83　　ジョーじーイカ、（B）　四角いす。\n6534.37　　タモトイカ　（B）　ヤッコダコという。\n6534.85　　タコ。　しかし今はすべてタコである。\n6542.58　　タコ\n6546.73　　ika　<女はikaをえつれ。>\n6551.52　　イカ　（b）\n（頁下部にさらに手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04107.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04107",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04107.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6551.77",
+      "6552.46",
+      "6552.90",
+      "6553.22",
+      "6553.47",
+      "6553.52",
+      "6553.83",
+      "6553.98"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。  ▲ その中での情報は地点番号順に並べる。  ▲ 注記の＜＞（　）は厳密にする。  日本官語地図資料用紙 注記一覧 41-08  質問番号 地図番号 082 143  項目名 佩 082  (A)普通注記  ページ  (B 除いた共通語)  (C 除いた特殊語)  地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]  ;ika  <ち>  ;ika  <ち>  ;ika  <ち>  <「ｸﾞﾘｶ」はちい。>  ;ika  <最近は「タ」というか、 多時は「イーカ」といった。>  ;ika  <ち>  ;ika  <ち>  その他手書き注記あり",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04108.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04108",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04108.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "0065.0",
+      "6560.40",
+      "6562.48",
+      "6563.43",
+      "6563.58",
+      "6564.33",
+      "6564.51",
+      "6571.34",
+      "6572.04",
+      "6572.29"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-09 質問番号 地図番号 082 143 A 普通注記 ページ (34) 項目名 凪 082 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 65 N.K. [ヨオカンベェ] 6560.40 1 ホリ <む> 6562.48 イカ <む> 6563.43 tako <「イカ」は用いない。> 6563.58 ika <む> 6564.33 tako <外部転（江の人は「イカ」ということあり。）> 6564.51 ika <む> 6571.34 nobori <巻> 6572.04 ika <む> 6572.29 ika (昔は「イカ」、今は「タコ」という。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04109.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04109",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04109.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6573.17",
+      "6573.71",
+      "6580.06",
+      "6582.12",
+      "6583.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-10\n質問番号 082   地図番号 (143)\n項目名 凾 082\nA 普通注記   [B 除いた共通語]   [C 除いた特殊語]   ページ (35)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n6573.17    ika   <タコ>とは言わない。「イカ」はよく笑の頃 にきったもった。「タコ」というのは最近の…\n6573.71    ika   <最近では[たね]といっているらしいが、> われらの時代には全部「イカ」といった>\n6580.06    1 ホシ   <ち>\n6582.12    イカ   <イカ アゲルと用う。>\n6583.19    ika   <ち>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04110.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04110",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04110.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6583.41",
+      "6583.45",
+      "6583.93",
+      "6584.90",
+      "6586.29",
+      "6590.87",
+      "6582.35"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 41-11 質問番号 地図番号 082 143 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (36) 項目名 凧 082\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）[　]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き行（おおまかな転写）:\ntako　<「クカ」とは言わない。>\nika　<ども今も[ika]である。>\nika　<昔>\ntako　<子>\nika　<ウ。あ>\nikanobori (いかに形が似ていても...)　（続きの注記）\nikanta-　(語源不明)\ntako　(イカとはきわないとのこと)\n（その他手書き注記、読みや注釈が複数行にわたって続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04111.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04111",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04111.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6593.30",
+      "6593.98",
+      "6609.05",
+      "6617.25",
+      "6618.46",
+      "6631.05",
+      "6656.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-12\n質問番号　地図番号\n082　(143)\n項目名　凧 082\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (37)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6593.30　ika　<尻尾をたくさんつければ鳥賊と言った。>\n6593.98　ika　<くち>\n6609.05　タコ　<ヤッコダコ、シカクダコ、などあると>\n6617.25　タコ　<ヤジロベエダコ・・・やっこだこ>\n6618.46　タコ　<ヤッコダコとフモンリュウダコ>\n6631.05　tako　(会話中)　jakkodako\n6656.31　tako　<いかなたこ e.g. unjo;jidako とい>\n\nこの地名付近にイカタコなし",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04112.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04112",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04112.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7208.97",
+      "7248.35",
+      "7259.22",
+      "7266.34"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-13\n質問番号 地図番号 082 143\n項目名 風 082\nA 普通注記  (B 除いた共通語) (C 除いた特殊語) ページ (38)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <> ( ) [ ] は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n7208.97  tako  <奴隷風は ningjo:dako> □卵は a~nodako ◇卵に tombidako >  jo:kju: 鬼たこ\n\n7248.35  トオベタ <◇形のものか; トオベタ, □形)の\n\n7259.22  to:bata <昔>\n\n7266.34  トンビ。以前はトンビと言った",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04113.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04113",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04113.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7266.60",
+      "7268.87",
+      "7278.01",
+      "7302.87",
+      "7303.61",
+      "7320.59",
+      "7330.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞( )( )は厳密にする。 日本言語地図資料用紙 注記一覧 41-14 質問番号 地図番号 082 (143) 普通注記 ページ (38) [B 除いた共通語] [C 除いた特殊語] 項目名 風 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] tako 〈hnataは使わない〉 hata 〈神の浦はtakoという〉 トオバタ (B) ハタ (今) tako (福岡県東部はタコである。) takobata (タカハタとはえらぬと答う) tako taka_bata タカ_bata タコ (女叫はやっこ ダー 大隅はアメトゥワタ) (これが旅町地域の共通特徵なのある。) 一活形化している。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04114.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04114",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04114.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7339.27",
+      "7341.47",
+      "7343.14",
+      "7346.58",
+      "7347.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　41-15\n質問番号　082　地図番号　143\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (40)\n項目名\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7339.27　tako　（意味不明）という。　〈角のは so:ji dako〉　他のは joko:dako という〉　を絵について説明。\n7341.47　ナンハン　〈せメ風は やっこ オンナハン〉　大体は ジョオじナンバン など→\n7343.14　namidan.　〈ち〉\n7346.58　ikanobori　〈ち〉　tako\n7347.93　gaku　（被捕者は か〜く が タコ？）　絵符というが、ちょっとあやしい。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04115.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04115",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04115.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "7349.07",
+      "7351.09",
+      "7351.68",
+      "7352.14",
+      "7352.61",
+      "7356.88"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n日本官語地図資料用紙 注記一覧 41-16\n質問番号    地図番号\n082        143\n項目名\n風 082\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (41/)\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]\n7349.07    tako.  <andon-dako など-形いろいろある。>\n7351.09    fumi rjo  <ナンバーなし、タコなし>\n7351.68    (手書き) ナンバーなし\n7352.14    ハタ (陸)\n7352.61    タワ (方)\n7356.88    ikanobori <タコの名称社であるが、人形り> タコをさすことが多い。す形なのは\n(残りの手書き注記ありが不鮮明)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04116.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04116",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04116.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7352.31",
+      "7361.82",
+      "7362.42",
+      "7363.59",
+      "7363.85",
+      "7364.34",
+      "7371.83"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 41-17\n質問番号 地図番号 082 143\n項目名 風 082\n(A) 普通注記    ページ\n[B] 除いた共通語\n[C] 除いた特殊語 (42)\n地点番号   A語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n7352.31    gaku    gaku と言う >\n7361.82    to:dzim bata  <支那から来たから>\n7362.42    タリ  <ち>\n7363.59    タク  <ち・希>\n7363.85    タク  <ちくからういい方>\n7364.34    タク  <タクとは言わない>\n7371.83    hata <新> jokampe  (手書き注記)\n（その他手書き注記、ローマ字表記や比較注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04117.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04117",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04117.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7372.27",
+      "7374.15",
+      "7374.25",
+      "7381.38",
+      "7382.87",
+      "7390.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-18\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n質問番号　地図番号\n082　143\n項目名　凧　082\n\nA 普通注記　ページ (43)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7372.27　くちくは絵称がなく、えんそくれ\nandonbata □角凧 doijin✧\n筆とりていた>という\n\n7372.27　タワ　<やっ.あ> <希>　タコ\n7374.15　タァワ　<む> <希>　タコ\n7374.25　タコ　<タリは知らない>　タコ\n7381.38　タコ　<く両はタコという>　タコ\n7382.87　タワ　(も)　タコ\n7390.75　タカ　(◇すなうな形のもの)\n\n(名称ナシ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04118.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04118",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04118.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7393.62",
+      "7401.11",
+      "7403.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-19\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号\n082　143\n項目名　凧　082\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (××)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7393.62　タコ、ハルダー２\n＜共に現用しているか:タコの方か＞\nハルダンより古い法かと思う(?)＞\n\n7401.11　tako.　＜形や接様で: sode doko＞\n3;idako\n-　なとともいう。＞\n\n7403.86　ika, takeo\n(両語とも形その他に区別はない)\nどちらもその時の場で使う。\n<ika age jata ka>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04119.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04119",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04119.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7436.40",
+      "7440.69",
+      "7450.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-20\n質問番号　地図番号\n082　143\n項目名　凡　082\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (45-)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n< tako age jo:ja >\nなどというは。\n\n7436.40　tako　四角ばったものを sengengen り。（注）たなし その他ゆえ地図上にせぬ（便り注）\n7440.69　tako　<形によつて daruma dako / kaku dako>\n7450.20　tako　<形により masu dako / kaku dako という。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04120.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04120",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04120.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7503.48",
+      "7504.11",
+      "8239.31",
+      "8300.11",
+      "8300.87",
+      "8301.19"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-21\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n（右上の枠）\n質問番号　082　　地図番号　143\n項目名　颪　082\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (46)\n\n表ヘッダ：\n地点番号　　A　語形とその注記〔B・C 除いた語形とその注〕　　A 注のない語形〔B・C 残した語形とその注〕\n\n7503.48　teykobata　<小さいときはこういった。>\n7504.11　teykobata　<石>　　　　tako\n8239.31　taga　（タカの話し）\n8300.11　（トモー）　<ニンギョオトセー>\n　　　　やっコターコ　}　などーの\n　　　　種類があるか?　絵柄はトセ?　てある>\n8300.87　taka　— は1個違いてーないことを示す\n8301.19　タワ　<石>　　　　タコ\n　　　　タアワ　<石>\n\n（手書きの注記や小さな書き込み多数、判読困難な箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04121.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04121",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04121.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "8302.55",
+      "8302.91",
+      "8303.70",
+      "8335.11",
+      "8345.18",
+      "8345.24",
+      "0294.66"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-22\n質問番号　地図番号　082　143\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（47）\n項目名　凧\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜＞（　）[　]は厳密にする。\n\n（表見出し）\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n（各行の手書きメモ、地点番号は除く）\nハリターつ　＜奄？くやった＞　タコ\nハイターコ　＜古.今は言はない＞　タコ\n＜[ハルターコ]＞＜む＞　タコ\ntako　[龍では kumome という]\ntak o　[龍では kumomeという]\nkumonage　＜子供っ頂きっていた＞\ntako　＜新＞\nkumome　＜宮＞\n\nbubundaku [bubunは撥声指示　タコ?]\n（風になうかれた？）（かなり類似音　個人差あり。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04122.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04122",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04122.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "1231.72",
+      "1233.61",
+      "1261.32",
+      "2072.20"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 41-23\n質問番号 082    地図番号 143\n項目名 風 082\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (6A)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n1231.72    bum buntaɸu <b>    taɸu\n1233.61    tako <音はなか, ta>\n1261.32    mattaku: <最近は mattaku: ともいう, 2013.>  bu.bu: taka\n2072.20    taku 新    tagantabja",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04123.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04123",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04123.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "3705.47",
+      "3715.57",
+      "3733.22",
+      "3768.50",
+      "3775.11",
+      "3778.00",
+      "3786.44",
+      "3795.33",
+      "4589.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-24\n質問番号　地図番号\n（手書き）682　143\nA　普通注記　　B　除いた共通語　　C　除いた特殊語　ページ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形（B・C 残した語形とその注）\n3705.47　tako　<新>　　　hada　<古>\n3715.57　tako　<新>　　　teyyobada\n3733.22　tago　<今>　　　hada　（昔）\n3768.50　タコー　<せ?>　　　トーモー　<今>\n3775.11　タコー　<サ>　　　ハター\n3778.00　タコー　<新>　　　テンパター　<古>\n3786.44　タコー　（サ）　　テンパター\n3795.33　タコー　<新>　　　テンパター　<古>\n4589.83　tako　<新>　　　eka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04124.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04124",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04124.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "4638.22",
+      "4638.43",
+      "4647.69",
+      "4648.42",
+      "4654.52",
+      "4659.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-25\n質問番号　地図番号\n082　143\n項目名　（類）082\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4638.22　tako　＜今はこのすかか 著通＞　eka　＜小さいときにこういう人＞\n4638.43　tago　＜新＞　ega　・・ちくから用い、現在もこれを多く用いる\n4647.69　tako　＜幸＞　eka\n4648.42　tago　＜新＞＜くる＞　ega　＜ちくから用い 現在も これを多く用いる＞\n4654.52　tako　＜くち（某）く新＞　＜新しいことばで〜に対して用いる＞\n4659.85　tago　＜います＞　tengubadda　＜くも＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04125.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04125",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04125.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "4663.06",
+      "4665.87",
+      "4666.51",
+      "4666.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-26\n質問番号 地図番号 082 (143)\n項目名 風 082\nA 普通注記  B 除いた共通語  C 除いた特殊語 ページ (3)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n4663.06\ttako\t今はこちらも同じくらい（使）\n4665.87\ttako\t<新>\n4666.51\ttako\t<新英>\n4666.99\ttako\t<共>\n（右欄手書き） ika 昔はみるかった。 eka <希> <幼い時分これを使ったか今は希>\n（その他手書き注記多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04126.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04126",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04126.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "4672.18",
+      "4675.45",
+      "4684.77",
+      "4686.02",
+      "4714.68",
+      "4736.63"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-27\n質問番号　地図番号\n082　143\n項目名　風　082\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\nページ (41)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n地点番号　A 語形とその注記〔B・C除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\n4672.18　tako　(新)　:ika　<くちー現>\n(共通語場面で用いる。)\n<jakkodakoを昔は soreetoka>\n(袖いか)とえ、丸。\n4675.45　tako　<新>\n4684.77　tako.　(takoは新しい言い方である)\n4686.02　tako　<共>\n4714.68　tako　<新>\n4736.63　tako　<新>\n右列手書き注記: (昔若い頃すかんに) (例：現在もこんと なく用いる。)\neka, tembata, tembata de\n(手書きの細かい注記多数)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04127.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04127",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04127.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "4740.93",
+      "4741.44",
+      "4760.64",
+      "4761.07",
+      "4761.57",
+      "4762.77"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n質問番号　地図番号\n082　(143)\n項目名　凧　082\nA　普通注記　B　除いた共通語　[C　除いた特殊語]　ページ（5）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n4740.93　tago　<今の子供ら>　teyobada\n4741.44　タコー　[世]\n4760.64　tago　<新>　kotarada\n4761.07　tako　<改まったとき>　takotembata\n4761.57　tako　<今、これ使>　tembata\n4762.77　tago　<新>　te~bada\n\nたこーは最近さく様になった。\ntembata　<四角のもの、および絵柄>\n絵柄>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04128.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04128",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04128.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "4771.92",
+      "4771.98",
+      "4772.33",
+      "5536.99",
+      "5538.90",
+      "5539.43",
+      "5555.84",
+      "5557.48",
+      "5558.09",
+      "5564.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-29\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n質問番号 地図番号 082 (43)\nA 普通注記  (B 除いた共通語)  [C 除いた特殊語]  ページ (6)\n項目名 風 082\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\ntago　<希>　　　tem-bada\ntako　今　　　　tem-bata　昔\ntako　<これも今はう>　　tembata\nタコ　<新>　<絵がある>という　　いかくち><前形>という\ntako　<新>　　　eka\nタコ　<新>　タコは新しいえいかんという　　ika\ntako　<新>　　　eka <くち>\ntako　<新>　　　ika\nika　<古?>　　　tako",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04129.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04129",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04129.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "5564.79",
+      "5566.95",
+      "5568.22",
+      "5569.36",
+      "5575.93",
+      "5584.22",
+      "5585.09",
+      "5585.63",
+      "5586.56",
+      "5594.37"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。\n日本言語地図資料用紙　注記一覧　41-30\n質問番号　地図番号\n（上のボックス）　082　(143)\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ（2）\n項目名　凪　082\n（表ヘッダ）地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n手書き行（一部）:\n・tako　<希とみとむ>　ika　優先\n・タコ　<新>　イカ\n・タコ　<共>　イカ/ホーリ\n・タコ　<共>　イカ\n・tako　<針>　ika\n・tako　<希>　ika　ikaが優位\n・tako　<針>　ika　<ち>\n・tako　むかしは ika といい、いまは tako という。　ika\n・tako　<希とみとむ>　ika　優先\n（下部に継続する手書き注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04130.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04130",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04130.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "5595.20",
+      "5602.89",
+      "5604.65",
+      "5733.02",
+      "6395.61",
+      "6408.88",
+      "6409.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-31\n質問番号　082　地図番号　143\n項目名　風　082\nA 普通注記　B（除いた共通語）　C（除いた特殊語）　ページ（8）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく　>( ) [ ] は厳密にする。\n\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C　残した語形とその注］\n5595.20\ttako\t\ti ka.　傍注\n5602.89\ttako\t<? >\tikago\n5604.65\tタコ\t<新>\tエカ。\n\n5733.02\ttako\t[新]\ttako\n6395.61\ttako\t<新>\tjo:dz u <ち>\n6408.88\tタコ\t<共新, 弔>\tイカ\n6409.00\tタコ\t<新>\tイカ　<古常>\n\n(手書きの注記や傍書が多数あり、一部判読不確実)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04131.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04131",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04131.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "6409.72",
+      "6414.17",
+      "6415.23",
+      "6415.80",
+      "6416.09",
+      "6417.14",
+      "6418.75",
+      "6419.09"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-32\n質問番号　地図番号　082　143\n項目名　凧 082\nA　普通注記\nB　除いた共通語\nC　除いた特殊語\nページ (9)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6409.72　タコ　＜新＞　イカ　＜くち＞\n6414.17　tako　＜新・名＞　ikanobori　＜くち＞\n6415.23　tako　＜新＞　ika　＜くち＞\n6415.80　tako　＜名・新＞　ika　＜くち＞\n6416.09　タコ　＜新＞　イカ　＜くち＞\n6417.14　tako　＜新・名＞　ikanobori　＜くち・希＞\n6418.75　タコ　＜新＞　イカ　＜くち＞\n6419.09　タコ　＜今＞　イカ　＜くち＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04132.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04132",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04132.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "6419.25",
+      "6419.69",
+      "6424.92",
+      "6426.83",
+      "6427.40"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 41-33 質問番号　地図番号 082　(143) A　普通注記 (B)　除いた共通語 [C　除いた特殊語] ページ　(10) 項目名　帆　082 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 6419.25　タコ　＜新、四角むこ＞　イカ　くち、奴ひこつ 6419.69　タコ　＜新、常＞　イカ 6424.92　タコ　＜新＞　タカ／ホリ 6426.83　タコ　＜新＞　イカ　＜くち＞ 6427.40　tako　＜常＞（使い註）　ikanobori ＜現在、全然使わない＞ ＜この地方は（カノボリ）＞ ことはない／という方が多いと思う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04133.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04133",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04133.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "6428.13",
+      "6428.91",
+      "6429.30",
+      "6429.61",
+      "6439.01",
+      "6440.67",
+      "6444.62",
+      "6448.19"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく ><() [ ] は厳密にする。\n日本言語地図資料用紙　注記一覧　41-34\n質問番号　082　地図番号　143\n項目名\n凡　082\nA　普通注記　　ページ\n(B) 除いた共通語\n[C 除いた特殊語]\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C　残した語形とその注］\nタコ　〈共、希〉\tイカ\nタコ　〈新、希共〉\tイカ\nタコ　〈新、希〉\tイカ\nタコ　〈希、共〉\tイカ\nタコ　〈新〉\tイカ〈くも〉\nタコ　〈新〉\tヨオスー〈古〉\nタコ　〈希〉とみえる（疑り？）\nタコ　〈新〉\tイカホーン〈くる〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04134.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04134",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04134.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "6449.20",
+      "6451.79",
+      "6453.64",
+      "6454.24",
+      "6457.45",
+      "6459.52",
+      "6465.40",
+      "6466.01"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙　注記一覧　41-35\n質問番号　082　地図番号　143　頁（12）\nA　普通注記　　B（除いた共通語）　　C（除いた特殊語）\n項目名\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C残した語形とその注］\n\n6449.20　タコ　＜新＞　イカくち（？）\n6451.79　タコ　（新）　ヨォスー\n6453.64　タコ　＜新＞　イカンホォル　＜くち＞\n6454.24　タコ　希とみる（徳り注？）　イカく菓（？）\n6457.45　タコ　＜新＞　イカ／ホーリ　＜くち＞\n6459.52　タコ　＜新＞　イカ　＜くち＞\n6465.40　タコ　＜希とみせ＞（復り注）　イカ＜イカが普通で＞\n6466.01　タコ　タコ　新とみる（復り注）　イカ＜黄、仮どおり？＞\n\n（手書きの語形注記が多数あり、上は読み取りの可否により概略を記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04135.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04135",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04135.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "6469.77",
+      "6474.83",
+      "6476.13",
+      "6476.82",
+      "6482.23",
+      "6482.75",
+      "6484.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〈〉( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 41-36 質問番号 地図番号 082 (14) 項目名 風 082 A 普通注記 B 除いた共通語 [C] 除いた特殊語 ページ (13) 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] タコ　<新>　イカノホシリ タコ　<今の子供はタコ>　タカ タコ　<新>　タカ <古> タコ　<新>　タカ <古> タコ　新　ヨオスン tako　<売>　jokambe （くせんこをいうか？） ほんとり たろうが> など タコ　<新>　イカ <イカトバスと>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04136.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04136",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04136.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "6485.82"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 41-37 ▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の＜＞( )[ ]は厳密にする。 質問番号 地図番号 082 (143) A 普通注記 ページ (14) B 除いた共通語 C 除いた特殊語 項目名 颪 082 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6485.82 タコ <新> いった。たこあげをすることである> ちか <ち> <旧 = A - b(太郎) いくらか12近く  法然堂へ皆お参りする。父の時を供えたりは 法然堂へ参る  イカヲテトハサ? アメコオテネフクラノ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04137.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04137",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04137.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "6486.50",
+      "6487.43",
+      "6484.21",
+      "6496.56",
+      "6487.77",
+      "6500.83",
+      "6512.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-38\n質問番号　地図番号　082　143\n項目名　　屈　082?\nA　普通注記\n(B)　除いた共通語\n[C]　除いた特殊語\nページ　(15)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n表見出し: 地点番号　A　語形とその注記　[B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（各行の手書きメモ、読み取り困難な箇所は推定）\n行1: タコ.　新.　　といって楽しみ遊んだ。\n行2: タコ　〈新〉　　イカ\n行3: タコ　〈新〉　　イカ〈くち〉\n行4: tako.　　ika　takoをもぎろか、 ikenがない。\n行5: tako.　〈このせ方にない、むやの方にある...jakko 〈形/にとられず〉〉　wa~wan などという、大人がする。\n行6: タコ.　〈新〉　　イカ\n行7: tako.　〈新〉　　nobori 〈くち〉\n\n（その他罫線、欄外の余白など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04138.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04138",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04138.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "6514.61",
+      "6521.94",
+      "6524.01",
+      "6524.66",
+      "6533.31",
+      "6534.37",
+      "6534.41",
+      "6534.85",
+      "6535.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-39\n質問番号 地図番号 082 143\n項目名 凡 082\nA 普通注記 (B) 除いた共通語 (C 除いた特殊語) ページ (16)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6514.61    tako. <小学校教科書から>    ika. <昔>\n6521.94    タコ <新>    イカ\n6524.01    tako. <新>    ikd. <ち>\n6524.66    tako. <新>    ikd.\n6533.31    タコ <新>    イカ\n6534.37    tako <新>    ika <ち>\n6534.41    tako <共>    ika.\n6534.85    tako <新>    ika\n6535.90    tako <今の呼び方/使用形>    ika\n\n(手書きの語形は判読に基づく概略転記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04139.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04139",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04139.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "6540.82",
+      "6540.79",
+      "6541.27",
+      "6541.52",
+      "6543.56",
+      "6545.41",
+      "6546.73"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-40\n質問番号　地図番号\nOP2　143\n項目名　瓜　082\nA　普通注記\n(B)　除いた共通語\n[C]　除いた特殊語\nページ　(17)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）［　］は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n6540.82　タコ　＜斬来希＞　イカ\n6540.79　タコ　＜斬＞　（両形とも使用いる）　イカ\n6541.27　タコ　＜斬＞　イカ\n6541.52　タコ　＜斬＞　イカ\n6543.56　タコ　＜斬＞　イカ\n6545.41　tako　＜くよ＞　イカ\n6545.41　tako　＜くる＞　<大人は使わない、子供も…>　i ka\n6546.73　tako　＜斬とみる＞（読み難）　ika、＜客はikaと言う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04140.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04140",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04140.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "6551.52",
+      "6551.77",
+      "6552.46",
+      "6552.90",
+      "6553.22",
+      "6553.47"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記のく＞(　)［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 41-41\n質問番号　地図番号\n082　143\n項目名\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (18)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6551.52　タコ　<新>　ika <くち>\n6551.77　tako　<新>　ika <くち>\n6552.46　tako　<新>　ika <ち>\n6552.90　tako　<新>　ika <ち>\n6553.22　tako　<新>\n6553.47　tako　<新>\n<「タコ」は日露戦争以後（ユリとか→）>\n被調査者・得意トスル所　（手書き注記）\n（下部にさらに手書きの注が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04141.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04141",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04141.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "6553.52",
+      "6553.83",
+      "6553.99",
+      "6556.60",
+      "6560.40",
+      "6563.58",
+      "6564.51",
+      "6571.34"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-42\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n（右上の枠）\n質問番号　地図番号\n082　143\n項目名　凧　082\nA　普通注記\n(B)　除いた共通語\n[C]　除いた特殊語\nページ　(63)\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（手書き行項目）\ntako　<新>\n<最近のよく使は「タコ」という。>\n.tako　新\n——（いろいろな形に対する名前はなり）\n\ntako　<新>\n92　<共>\nタコ　<新>\ntako　<新>\nika　<る>\nika　くち\n\nnobori　<共>\n1 ホリ <くち>\n\n（以下、手書きの語と注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04142.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04142",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04142.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "6572.04",
+      "6572.29",
+      "6572.87",
+      "6574.06",
+      "6576.28",
+      "6582.12",
+      "6583.19",
+      "6583.98",
+      "1259.22"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-43\n質問番号　地図番号\n082　143\n項目名　風　082\nA　普通注記　　B　除いた共通語　　[C]　除いた特殊語　　ページ（20）\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞(　)［　］は厳密にする。\n\n表ヘッダ：地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n手書き欄（地点番号列は除く、行ごとの概略）:\n・tako　＜新＞　　　ika　＜くち＞\n・tako　＜新＞　　　ika\n・tako　新　　　　　ika\n・tako　新　　　　　ika\n・52　＜共＞　　　　ハタ\n・タコ　＜共＞　　　イカ　（＜イカ　アグルと用＞？）\n・tako　＜新＞　　　ika　＜くち＞\n・tako　＜新＞　　　ika　＜くち＞\n・tako　＜今＞　　　to: bota　＜昔＞\n\n（手書きは不鮮明な箇所あり。上は読み取れる範囲の概略。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04143.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04143",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04143.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "7266.34",
+      "7268.87",
+      "9303.17",
+      "7332.97",
+      "7342.12",
+      "7353.51",
+      "7361.17",
+      "7362.42",
+      "7362.67"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜　＞( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 41-44 質問番号 地図番号 082 143 項目名 風 A 普通注記 B (除いた共通語) [C 除いた特殊語] ページ (21) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7266.34 タコ (新) (仮の註) トンセー 以前はトンヒトと言った。 7268.87 tako <神の浦はtankoという。> 9303.17 tako (上品に言うとき) 7332.97 tako (新) 7342.12 tako agwan (③) 7353.51 タコ <共> <くゝ> 7361.17 タコ (新) 7362.42 タコ <新> 7362.67 タコ <共>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04144.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04144",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04144.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "7363.59",
+      "7363.85",
+      "7372.86",
+      "7373.92",
+      "7373.89",
+      "7382.93",
+      "7390.26",
+      "7382.33",
+      "7382.45",
+      "7403.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　41-45\n質問番号　082　地図番号　143\nA　普通注記　ページ (22)\n項目名　風　082\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き例（表中の文字）:\n7363.59　タコ　<新>　　タツ　くち・革(?)\n7363.85　タコ　<新とみとむ>(返り注?)　　タコ　くちくらいのいい方\n7372.86　タコ　<新>\n7373.92　タコ　<新>\n7373.89　タコ　<新>\n7382.93　タコ　< ! > <新>\n7390.26　タコ　<共>\n7382.33　タコ　<新・共>\n7382.45　タコ　<新>\n7403.16　たこ　<新>　ika",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04145.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04145",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04145.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "7404.56",
+      "7406.25",
+      "7406.53",
+      "7503.48",
+      "8311.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-46\n質問番号　地図番号\n（手書き）082　143\n項目名　扇　082\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ（23）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n手書き行（左の地点番号は除く）:\nたこ　<新>　　ika\nたこ　<新しい言い方>　　ika\nたこ　<今>　　ika　<昔>\nたこ　<今は>　　teykobata　　<小さいとやはこういれ>\nたこ　<新>　　taka.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04146.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04146",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04146.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "3725.12",
+      "3740.82",
+      "4731.85",
+      "6367.09",
+      "6412.09"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-47\n質問番号　地図番号\n082 (143)\n項目名　風　082\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n3725.12　タガアマ\n3740.82　berabodago (女児用タコ)　花など加えてあるよし\n4731.85　[tago]　<共>\n6367.09　カタターコ　<角帆>\n6412.09　かアアー　<も>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04147.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04147",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04147.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "6424.35",
+      "6532.83",
+      "6560.40",
+      "6581.36",
+      "9249.35"
+    ],
+    "other_text": "日本音語地図資料用紙　注記一覧　41-48\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉()[]は厳密にする。\n\n質問番号　082　　地図番号　143\n項目名　風　082\nA　普通注記　　　ページ\n[B]　除いた共通語\n(C)　除いた特殊語　(2)\n\n地点番号　　A　語形とその注記　［B・C除いた語形とその注］　　A注のない語形　［B・C　残した語形とその注］\n\nタコ。〈現在の子供はタコ〉　　くらのホーリ\nタンゴヘイ。（ち）　ヤッコスターコをいう。　ショージ＝イカ（ち）\nセンカイ　〈ち〉　／ホーリ〈ち〉\nハナサヨウ〈ち〉　　タコ。\nジュウモンニ一　〈口形のもの〉　トオバタ、タコ\n\n（その他手書きの注記多数、判読困難な部分あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04148.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04148",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04148.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "7390.75"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-49\n質問番号　082　地図番号　143　A　普通注記　ページ　[B　除いた共通語]　C　除いた特殊語　(3)\n項目名　凧　082\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）[　]は厳密にする。\n地 点 番 号\nA 語形とその注記　[B・C 除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\n手書き記入欄:\n7390.75　パラモン　(□のような形のもの)\nタフ　(◇のような形のもの)\n（絵符なし）\n右欄手書きメモ: <◇形のものかトオハツ>\n口形のものがこうらしい。\n女2/向かタコと区別するか。\n一般にはトオハツアラう　あがる　という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04149.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M143Q082/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04149",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04149.tif",
+    "source_ljc_id": "LJC-M143Q082",
+    "source_map_numbers": [
+      "143"
+    ],
+    "source_title": "たこ (凧)"
+  }
+]

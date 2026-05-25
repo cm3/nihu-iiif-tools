@@ -1,0 +1,973 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0840.33",
+      "0861.48",
+      "0873.94",
+      "1742.04",
+      "1747.55",
+      "1862.52",
+      "2731.97",
+      "1744.60"
+    ],
+    "other_text": "1744.60　ショッパイ（カライとは全然言わない）\n日本言語地図資料用紙 注記一覧　9-64\n質問番号 049　地図番号 039\n項目名　シオカライ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ ( / )\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nsoppai <タ?>　siokarai <ケ?>\nsoppai <特別 j iokarai 時,言う>　siokarai\nsoppai <タ?>　karai\nショッパイ <希>　カライ、シオカライ\nsokarai（早口の時）\nsokkarai（ゆっくり言う時 促音化する）\nワドイ（あとで思い出して言われ）　カライ\nソッペ <極度になるとショッカレと言う>　ソッ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00964.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00964",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00964.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2741.46",
+      "3705.47",
+      "3733.88",
+      "3757.59",
+      "4638.43",
+      "4652.79",
+      "4653.47",
+      "4654.52",
+      "4659.85",
+      "3784.87",
+      "4653.02",
+      "4643.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-65\n質問番号 049    地図番号 039\n項目名 シオカライ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(2)\n\n*ショッペア\n3784.87 46:37.20 4653.02 4643.41 など（手書きの上部走り書き）\nsokarae (ae は e の感もある)\nkare: <o と e を区別すると言う>\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]\n2741.46　ショッペ　<カライは使わぬ、聞かぬ>\n3705.47　sopae <古>\n3733.88　ショッパイ <古>\n3757.59　ショッ　カライ <強い時>\n4638.43　suppare: <普通の時はこれを多く用いる>\n（取り消し線の語あり）\n\n4652.79　jiokarai <汁類の塩分の強い時に言う>　kare:\n4653.47　jokkarai <唐辛子のからさと区別する時>　kare:\n4654.52　jiogarai (唐辛子の辛さと区別する必要ある時)\n\n4659.85　soppe◎長    (下部手書き)\n\n右欄メモ: sopaｅ シオカライ ショッペア\n（ページ内の手書き注記を含む。判読できない字は推定で記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00965.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00965",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00965.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4666.17",
+      "4666.57",
+      "4687.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注意一覧 9-66\n項目名 シオカライ\n（印刷文）A・[B]・[C]ごとに別紙を使用する。／その中での情報は地点番号順に並べる。／注記の＜　＞（　）［　］は厳密にする。\n（右上欄）049 039 A 普通注記 [B 除いた共通語] [C 除いた特殊語] （ページ (3)）\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C 残した語形とその注）\n\n4666.17    ʃa:karae （他の味と区別して言う時）\n           ʃokkarae\n           ʃoppae ＜塩気が強い時＞（塩辛い！と感動して言う時用いる。）（沢庵では普通の塩味をʃoppae；濃い場合ʃokkaraeというと説明した人があった。）\n\n4666.57    ʃoppai（古－現）\n           ʃokkarei ＜新＞\n\n4687.01    ʃoppae ＜希＞（若い時はよく用いたが今はみ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00966.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00966",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00966.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4694.26",
+      "4699.42",
+      "4714.68",
+      "4695.87",
+      "4700.37",
+      "4711.41"
+    ],
+    "other_text": "4695.87 SoTkarae. (促音はかすかである.) 4700.37 Joppae j'etlとは不定. Soppal 4711.41 [Sjoppe?] 日本言語地図資料用紙 注記一覧 9-67 質問番号 049 地図番号 839 項目名 シオカライ A 普通注記 [B 除いた共通語] [C 除いた特殊語] 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] SoTkarae <今はこれを多く用いる.> （共通語という意識で使っている。 しかし共通語場面とは限らない。） (057の答から再びかえって質問して得た答。) 4694.26 Joppae <子供の時、多く用いた.> so:karae 4699.42 Jiokare: <塩に対して> Joppe: <味そ、しょう油に対して> 4714.68 Joppae (そんなさいに発音すると Joppe: にまるらしい。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00967.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00967",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00967.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4721.36",
+      "5517.57",
+      "5536.29",
+      "5537.34",
+      "5537.99",
+      "5538.33",
+      "5546.34",
+      "5548.60",
+      "5508.19",
+      "4731.42",
+      "4731.85",
+      "4760.64"
+    ],
+    "other_text": "4731.42 [soppae?]\n4731.85 [sokkaræ?]\n4760.64 [soppæ]（（so）は正確には口蓋化。音[so]である様だが今は商田表記に従う。）\n日本言語地図資料用紙 注記一覧\n049 039 シオカライ\n9-68 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (5.)\n地点番号 A 語形とその注記 [B・C 除いた語形とその注]\n4721.36 [jiokarae]（れそしこれは、塩味が[soppæ]強すぎた場合に言う語である。） [soppæ]\n5517.57 karai 〈共〉\n5536.29 kudoi 〈汁まと?について〉 karai\n5537.34 kudoi 〈汁などに言う〉 karai\n5537.99 soppai 〈新〉 kudoi\n5538.33 kudoi みそけまど?に言う karai\n5546.34 kudoi れれし、汁に言う karai\n5548.60 kudoi 〈汁に言う〉 karai\n5508.19 karai (OSI? マイの反対つまり塩味の濃いのは jiokarai という)\n（注記のく <> () [] は厳密にする。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00968.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00968",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00968.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5549.09",
+      "5555.09",
+      "5557.85",
+      "5558.33",
+      "5558.67",
+      "5565.12",
+      "5576.60",
+      "5576.96",
+      "5586.70",
+      "5597.78",
+      "5566.95"
+    ],
+    "other_text": "5566.95 ショオフェエ ショオワエ 単用 S10HA11 加藤シルス\n日本言語地図資料用紙 注記一覧 9-69\n質問番号 049 地図番号 039 項目名 シオカライ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[]は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nkudoi <希>    karai\nkudoi <希>    karai\nkarai <古>    kudoi\nkudoi <汁まどに言う>    karai\njoppai <新>    karai\nクドイ <上、たまに使う>    カライ\nkarai <上>    kudoi\nkīi doi 　希。    Ji wal\nkii doi 　多    Sop: a?    (uncertain)\nシヲカライ（単にカライというよりも濁）    カライ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00969.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00969",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00969.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5611.74",
+      "5611.81",
+      "5615.28",
+      "5625.9",
+      "5635.48",
+      "5632.83"
+    ],
+    "other_text": "56 11.74 ショッカラエ, ショッパエ, ショッパエ（古） 5632.83 Joppai (とくいげに答えてくれ.) 日本言語地図資料用紙 注記一覧 9-70 質問番号 049 地図番号 039 項目名 シオカライ A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (7) 確な表現を必要とする場合に使う 5611.74 ショッパエ（古） ショッカラエ 5611.81 jjoppai ＜少年の時代から今まで使っている。＞ jjo:karai (jjo:karaiは後で答えた語で、jjoppaiよりも新しい語であろう。) 5615.28 Jokkare:（共） Joppé 5625.9 Joppae (B) [Joppae] 5635.48 ショッペエ（タ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00970.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00970",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00970.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5635.65",
+      "5638.54",
+      "5641.73",
+      "5644.94",
+      "5645.43",
+      "5652.37",
+      "5653.65",
+      "5655.57",
+      "5657.53",
+      "5657.73"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく <> [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧    9-71\n質問番号　049　　地図番号　039\n項目名　ラオカライ\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (8)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5635.65.　ショッパイ〈共〉\n5638.54.　ショッパイ〈多〉　　シオカライ\n5641.73.　karai〈新〉　　　　Joppai\n5644.94.　ショッペエ〈共〉\n5645.43.　ショッパイ〈古〉　　カライ\n5652.37.　Joppe〈ごくふつうに〉　　Joppae\n5653.65.　karae〈共〉　　　　Joppae\n5655.57.　ショッパイ〈共〉　　ショッパイ\n5657.53.　カライ〈少〉\n5657.73.　カライ〈共〉\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00971.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00971",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00971.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5661.34",
+      "5665.12",
+      "5666.18",
+      "5667.08",
+      "5667.77",
+      "5672.75",
+      "5673.28",
+      "5675.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-72\n資料番号 049 地図番号 039 項目名 シオカライ (9)\nA 普通注記 [B 除いた共通語] [C 除いた特殊語]\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5661.34  soppe <家の者と話す時>      Joppai カライ\n5665.12  ショッパイ <多>\n5666.18  シオッカレエ (共)\n         ショッ、カレエ (共)\n5667.08  ショッパイ <児>             カライ, シオカライ\n5667.77  Jokkare: 塩の味\n         Joppe: しょうゆの味\n5672.75  Joppai <俗>                  Joppai\n5673.28  karai <上>                   soppai ショッカライ\n5675.87  ショッパイ …普通           Joppai ショッカライ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00972.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00972",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00972.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5676.10",
+      "5677.28",
+      "5677.60",
+      "5677.85",
+      "5678.33",
+      "5678.59",
+      "5679.86",
+      "5681.47",
+      "5680.34",
+      "5681.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-73\n質問番号 049 地図番号 039 項目名 シオカライ ページ (10)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n（表ヘッダ）地点番号 A・語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\nsoppai <塩自体でなく食品の味のとき> karai\nシオッカライ <非常にカライ時のことば> カライ\nショッパイ <塩の味が強い時>\nショッパイ <煮た時の味がカライであるとのこと>\nショッパイ <普> カライ\nsoppai この方が多い karai\nsoppae (荒) / joppae\nkarai <荒> joppai\nJappai <pe:でぇい>\nJoppai, siokarai <両語とも意味・用法上の区別なし>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00973.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00973",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00973.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5682.92",
+      "5684.11",
+      "5684.26",
+      "5685.02",
+      "5688.86",
+      "5690.12",
+      "5695.61",
+      "5696.68",
+      "5686.67",
+      "5687.32",
+      "5687.59",
+      "5687.86",
+      "5689.43"
+    ],
+    "other_text": "5686.67 カライく言うことは言う程度 ショッパイ ショッパイ\n5687.32 ショォッカライ（ショッカライのようでもあれし、ショォッカラのようでもあれん）\n5687.59 *soppai\n5687.86 ショッパイ〈塩の味〉\n5689.43 siokarai（人によってはこうも言う）\n日本言語地図資料用紙 注記一覧 9-74\n質問番号 049　地図番号 039\n項目名　シオカライ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(1)\n（表見出し）地点番号　A 語形とその注記〔B・C除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\n\n（A欄の語形と注記）\nkarai <共>\njiokkarai <新>\nkarae <上>〈女の人は jokkare: ということが多い〉\nsoppajai（共らしい）\nシオカライ〈刺激や生のもの…カライ〉\nkarai <希>\nシオッカライ <共>\nkarai <家庭内で多く使う>\nsoppai <公的または場面で->\n\n（右欄の語形）\nsoppai\nsoppai\nsoppae\nsoppe:\njiokkarai\nショッパサイ（手書き）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00974.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00974",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00974.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5699.53",
+      "5698.19",
+      "5699.89",
+      "5723.60",
+      "5752.94",
+      "6402.53",
+      "6413.76",
+      "6415.83",
+      "6424.20",
+      "6396.86",
+      "6402.94",
+      "6407.28"
+    ],
+    "other_text": "6396.86  * igarzi\n6402.94  カラァ（音便）\n6407.28  カリャア（リャ rja）\n\n日本言語地図資料用紙 注記一覧 9-75\n質問番号 049  地図番号 839  項目名 シオカライ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]\n\n5699.53  soppai <jokkarani: 次ぐ塩気>\n         soppe: <同上>\n         jokkarai <塩気の一番強い時>\n5698.19  soppai <多く使う>                    karai\n5699.89  soppai <少>\n5723.60  karae <希>                            *joppae\n5752.94  soppai <多>\n6402.53  カライ.　[カヤと発音する]\n6413.76  カリャ　多                             カラエ\n6415.83  Karai <karja:と言う人かあるか:自\n6424.20  karaei (karaeiはややkaræeに近い、\n         siokaraei karæeとすべきか。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00975.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00975",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00975.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6426.04",
+      "6472.58",
+      "6494.55",
+      "6515.70",
+      "6579.43",
+      "6520.94",
+      "6443.00",
+      "6462.59",
+      "6470.11",
+      "6470.59",
+      "6500.83"
+    ],
+    "other_text": "6443.00. <タ> ガライ ＊\n6462.59 カライェ, ど:ままでない\n6470.11 karaamai ... ＊\n6470.59 カライ・・・カラアにちかい\n6500.83 カライ\n\n日本言語地図資料用紙 注記一覧 9-76\n質問番号 049 地図番号 839\n項目名 シオカライ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (13)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n今は言わない.>\n6426.04 kare: (自分の家ではカレーと言うが:人\n    Karai の前ではカライと言うそうである)\n6472.58 ドガラエ ... 非常に辛いのを言う。    カライ\n6494.55 ショカライ <ショカライは他のカライと    カライ\n    SIOKARAIに区別するときに用いる。>\n6515.70 siohae: <古>\n6579.43 シオカライ <トウガラシなどとかラさ\n    を区別するときに言う。>    カライ\n6520.94 シオッカライ <はっきり言えば: シオッカ\n\n（手書きの注や丸で囲んだ語、取り消し線などあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00976.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00976",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00976.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6522.03",
+      "6536.00",
+      "6540.16",
+      "6544.69",
+      "6552.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-77\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n【質問番号】049　【地図番号】039　項目名　シオカライ\n(A)普通注記　( B 除いた共通語 )　(C 除いた特殊語)　(14)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nカライ\nライ、略してカライとも言う。\nどちらも区別よく用いる。>\n6522.03 シオカライ、単にカライとは言わない。\n6536.00 karai <強調形 totjigarai?>\n6540.16 so:karai ...くわしく言ったもの。\n6544.69 sio karai <塩の場合>\nkarai <一般には>\n<醤油のとき so:jukarai?>\n6552.90 karai <普通>\njijo karai <塩味の時のみに言う。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00977.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00977",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00977.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6553.52",
+      "6553.83",
+      "6564.33",
+      "6567.99",
+      "6553.99",
+      "6557.36",
+      "6563.43"
+    ],
+    "other_text": "6553.99 karai (カライ, 'シボカライ', [B]は円唇摩擦有声音) 6557.36 [siokarai] 6563.43 karai siokaraiの有声(?) ... 日本言語地図資料用紙 注記一覧 9-78 資料番号 049 地図番号 039 ページ (15) 項目名 シオカライ 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] siokarai (塩の味のひとくち感じられるとき) karai siokarai <塩の味そのものはシオカライで karai ある。しかし味の辛い場合は単にカライという。> karai <カライは、塩、こしょう、大根おろし、しれもの、唐辛子などに用いる。しょう油はイカライ、芋のからく、えぐいものは、イクワイと言う。> siokarai siokarai <塩であることがはっきりしているとき> karai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00978.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00978",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00978.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6571.34",
+      "6572.04",
+      "6572.22",
+      "6572.29",
+      "6573.7"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の< >[ ]は厳密にする。 日本言語地図資料用紙　注記一覧　9-79 質問番号　049　地図番号　039 項目名　シオカライ A 普通注記 (B 除いた共通語) (C 除いた特殊語) (16) 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） いるときは、こうも言う。 6571.34 karai (普通) siokarai (特別) (塩味の強い時にのみ言う。) 6572.04 karai <シオカライはまだ煮ていない時の味。> 6572.22 シオカライくたれカライとのみは言わぬ 6572.29 karai (「シオカライ」とはことさら言わない) 6573.7 karai；＜塩のときは単に「カライ」と言う。もし塩の利きすぎた料理...＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00979.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00979",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00979.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6575.17",
+      "6585.25",
+      "6586.27",
+      "6594.67",
+      "6582.48",
+      "6583.45",
+      "6583.93"
+    ],
+    "other_text": "6582.48 jiohai ...塩からい。 6583.45 karai: (lai] -> [a:]) 6583.93 karja: -> vjはろに近くなる\n\n日本語地図資料用紙 注記一覧 9-80\n資料番号 049  地図番号 039\n項目名 シオカライ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (17)\n\nや魚のときには、[jiokarai]のように「シオ」をつける。\n6575.17 カライ。〈特に、区別するときは: シオカライ シオカライ、だが、普通は、カライで、すましている。〉\n6585.25 カライ〈特に、シオカライと言うことあり〉\n6586.27 Jokarai (siokaraiと言ってから、思いなおして、笑いながら Jokarai ですと答えた。)\n6594.67 カライ〈特に辛いもの、イガライ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00980.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00980",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00980.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6600.97",
+      "6602.62",
+      "6607.68",
+      "6610.00",
+      "6610.77",
+      "6611.61",
+      "6604.98"
+    ],
+    "other_text": "6604.98　ショッパイ。くイはし：の化身向かがある\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n日本言語地図資料用紙 注記一覧　9-81\n質問番号 049　地図番号 039　A 普通注記　ページ 18\n項目名 シオカライ\n[B 除いた共通語]　[C 除いた特殊語]\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6600.97　soppai <希.芸><旅から来た人がこら karai>　いろので。自分れちも soppai と言うようにまれ。>\n6602.62　karai <上>　　　　　　　　　　　　　　　　soppai\n6607.68　sio karai <塩の場合>\n　　　　joppai <しょうゆの塩場合>\n6610.00　シオカライ、く他のカライものと区別して　カライ\n　　　　いう場合に、こう言う>\n6610.77　soppai: <ひとくち舐めの時>　　　　　　　karai\n6611.61　kare: <ぞえさ〜な言い方>　　　　　　　siokkarai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00981.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00981",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00981.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6621.94",
+      "6623.28",
+      "6623.53",
+      "6624.13",
+      "6624.65",
+      "6625.17",
+      "6629.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　9-82\n資料番号　049　地図番号　039\n項目名　シオカライ\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (19)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[　]は厳密にする。\n\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形（B・C 残した語形とその注）\n\n6621.94　　ʃo'pai　〈しょう油のからさのとき〉\n　　　　　ʃiozo'pai　〈七塩のからさのとき〉\n6623.28　　カライ〈先〉\n6623.53　　ʃom bai〈希〉\n　　　　　karai〈新〉\n6624.13　　ʃo'karai　少\n6624.65　　ʃo'pai　希\n6625.17　　karai　上\n6629.98　　ʃokkare:　〈極端な塩のからさ〉\n　　　　　ʃoppe:　〈しょうゆまとゝの塩からさ〉\n\n右欄注記:　ショッパイ\n　　　　　ʃo'pai\n　　　　　ʃo'pe:\n　　　　　ʃo'pare; ʃo'kare:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00982.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00982",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00982.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6631.69",
+      "6633.89",
+      "6634.07",
+      "6635.87",
+      "6636.05",
+      "6641.43",
+      "6641.82",
+      "6632.88",
+      "6642.58",
+      "6643.16",
+      "6632.64"
+    ],
+    "other_text": "6632.64 somai ... *\n日本言語地図資料用紙 注記一覧    9-83\n質問番号 地図番号 049 039\n項目名 シオカライ\nA 普通注記  [B 除いた共通語] [C 除いた特殊語] ページ (2d)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　><　(　)　は厳密にする。\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n6631.69  karai 新.            So'pai, So'karai\n6633.89  Jombai 多.           So'karai\n6634.07  So'karai 希.         So'pai\n6635.87  So'karai 希.         So'pai\n6636.05  Siokarai 上.         So'pai\n6641.43  So'karai <新>        Sonbai\n6641.82  So'karai <古>        Jombai\n6632.88  karai J ?au.         Jombai\n6642.58  karai 新.            Jombai\n6643.16  So'karai 夕          So'pai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00983.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00983",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00983.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6651.32",
+      "6651.64",
+      "6655.87",
+      "6662.38",
+      "6665.25",
+      "6697.39",
+      "6697.59",
+      "6698.20",
+      "7208.97",
+      "6700.25",
+      "6711.95",
+      "6721.31"
+    ],
+    "other_text": "6700.25 Kare○...長\n6711.95 (?)Kare:\n6721.31 *Joppe:\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 9-84\n質問番号 地図番号 049 039\n項目名 シオカライ\n(A) 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (2/1)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nJonbai <古>　　　　　　　　　　　　karai, jo'pai\njo'pai , karai はとうがらしと;\njo'pare: <多>　　　　　　　　　　jo'pe:\nkarai 希.　　　　　　　　　　　　jo'pai\njo'karai 〈くよ依のときから両方を使\njo'paraj〉　っている。　　　　　jo'pai?\nJopparai <古>　　　　　　　　　　Joppal\nJoppare: <昔からの言い方>　　　　Sokkare:\nJopparal <古>　　　　　　　　　　Joppal\nkaraka (在では karuka)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00984.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00984",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00984.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7218.09",
+      "7218.58",
+      "7246.45",
+      "7259.22",
+      "7279.93",
+      "7284.16",
+      "7343.76",
+      "7239.29",
+      "7246.82",
+      "7258.64",
+      "7266.60"
+    ],
+    "other_text": "7239.29 7246.82 7258.64 7266.60\n日本言語地図資料用紙 注記一覧 9-85\n質問番号 049 地図番号 039 注記名 シオカライ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (22)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n7218.09 karaka <古>    karai\n7218.58 karaka <普>    karai\n7246.45 karka. 50との区別が必要な場合は sion/karka (塩が辛い) という。\n7259.22 karuka <多>    karaka\n7279.93 kakka <古>     karuka\n7284.16 karaka ...多。  kakka\n7343.76 karai (kare: か? 他の形容詞 ai > e がある。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00985.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00985",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00985.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7347.55",
+      "7356.98",
+      "7363.85",
+      "7372.27",
+      "7373.56",
+      "7383.98",
+      "7402.47",
+      "7403.86",
+      "7381.47",
+      "7340.27",
+      "7342.12",
+      "7366.14",
+      "7375.37",
+      "7375.96"
+    ],
+    "other_text": "7340.27 siwon karaka. (～ka:ka というのを聞くこともあるが、多くは夕久地方のいい方だ。)\n7342.12 karai <- ka とも言う>\n7366.14 * jijogare:\n▶ A・[B]・[C]ごとに別紙を使用する。\n7375.37 kare: (cr の音がそり古のように見ゆれる。)\n▶ 注記の＜＞\n7375.96 Kare: 説明書参照\n（用紙ヘッダ）日本言語地図資料用紙 注記一覧 9-86\n（枠内）質問番号 049 地図番号 039 項目名 シオカライ ページ 23\n地點番号　A語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7347.55 Kare: ＜広く言って＞　　Jijokare:\n7356.98 sijo hai: ＜ウマ塩気がある程度＞　　kare; jiogare:\n7363.85 カラカ ＜上＞　　カリャア\n7372.27 カリャア ＜親近語＞　　カラカ\n7373.56 カリャア ＜古来の言い方＞　　カラカ\n7383.98 カリャア ＜希＞　　カラカ\n7402.47 jiogarai (からさを強調する気持ちが強いらしい。)　　Karai\n7403.86 karai (今年4葉県新川初にある和洋女子大へ入学した孫娘はkarai)\n7381.47 カルカ，カラカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00986.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00986",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00986.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7380.74",
+      "7381.38",
+      "7381.97",
+      "7385.61",
+      "7390.70",
+      "7391.44",
+      "7503.11"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 9-87\n資問番号 049 地図番号 039\n項目名 シオカライ\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ 24 (25)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n7380.74 カルカ [kayuka]\n7381.38 カルカ りu\n7381.97 カルカ [kayuka]\n7385.61 karē: , e: 説明書 参照\n7390.70 カルカ [kayuka]\n7391.44 カルカ [kayuka]\n7503.11 siwokarae (lai は [ae] であれ。塩の味は [siwokarae] なのである.)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00987.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00987",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00987.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7411.27",
+      "7420.18",
+      "7421.38",
+      "7503.48",
+      "2573.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >〔 〕( )は厳密にする。\n\n質問番号 049   地図番号 039\n項目名 シオカライ\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ 25\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\nと言って笑われ、Jopaiを覚えたと話していた。＞ちょうどその時同席(していて)\n\n7411.27  jiogarai くつけた味に塩気が強いのを言う。  karai\n\n7420.18  jiogarai <煮たものなどの塩あじが強いときに言う。>  karai\n\n7421.38  jiogarai <食品の塩あじがききすぎているのを言う。>  karai\n\n7503.48  kara: <古>  karai\n\n2573.69  カライ <普通に言うとき>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00988.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00988",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00988.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "8305.76",
+      "8306.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<>()[]は厳密にする。\n\n日本言語地図資料用紙注記一覧 9-89\n\n質問番号 049  地図番号 039  A 普通注記\n[B 除いた共通語]  [C 除いた特殊語]  ページ 26 (25)\n項目名 シオカライ\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n8305.76  kare: (東京語の Cai に対して、CwVV が対応するのが普通であるか／rai, /gai, /dai/の場合はそれぞれ /ree/, /gee/, /dee/ が対応し、「w」を含まない。これは国研調査終了後調べてみて、わかった。)\n\n8306,42  kare: (Karʷe: ではない。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00989.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00989",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00989.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7522.48",
+      "7533.11",
+      "8302.19",
+      "8302.91",
+      "8305.40"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 9-90\n質問番号 049 地図番号 039\n項目名 シオカライ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ 27\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形【B・C 残した語形とその注】\n\nシオカライ <塩の味をとくに言うとき>\n7522.48. シオカライ <タタ>\nカライ\n7533.11 カライ <ヒカライという人もある>\n8302.19 カラカ <カリャア、カレエとは言わぬ>\n8302.91 カラカ <カレー、カリャアとは言わず>\n8305.40 kare:; ～kare: 平素無自覚に言う時は [kare:] の方で 地図には あろうと思う。とりたてて言わ すと [kare:] のようにも聞える。\nKAREE.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00990.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00990",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00990.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "8332.59",
+      "8334.63",
+      "8335.11",
+      "8341.12",
+      "8352.42",
+      "8394.07",
+      "8362.85"
+    ],
+    "other_text": "8362.85. Karika. (kare>kari これに更に力語尾をつけた形)\n日本言語地図資料用紙注記一覧         9-91\n調査番号 049   地図番号 039\n項目名 シオカライ\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ 28\n（表の上部）\n地点番号    A 語形とその注記（B・C 除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\nkai (karai>kare>kari>kai)\nkare'（単独で言うので：いくらか、語尾が引音にあるか；日常の会話では、kareであると思う。）（ame*も同様）\nsiohai <古>\n(sio kari)（海の水の呼びらしい。sio-karakaではないらしい）　karika\nkaika <kaikaの方が多い>（kaikaはkariと一旦人語尾化し、更に力語尾をつけて生じたものらしい。）\nkari\nkaraka <古>    karai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00991.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00991",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00991.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "9310.27",
+      "275.99",
+      "0294.66",
+      "0294.93",
+      "1156.89",
+      "1213.76",
+      "1232.75",
+      "9322.52"
+    ],
+    "other_text": "9322.52 kaika (誤記にあらず)(がらいの誤り)\n日本言語地図資料用紙 注記一覧 9-92\n049 039 シオカライ ページ 29\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<>()[]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n9310.27 karaka <古>\n0275.99 karahan <karahahiという人もある>\n0294.66 harasa <harasanという人もある>\n0294.93 harasan, harasa でも承とする。\n1156.89 karaha (語尾のNは有略される）\n1213.76 harasaji, harasaで終止することも多い。\n1232.75 karahan <普通はkarasan / supū karahan を用いる。>\n（右欄）karai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00992.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00992",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00992.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "1250.59",
+      "2140.49",
+      "2141.61",
+      "2150.17",
+      "1271.05"
+    ],
+    "other_text": "1271.05. * Sippuharaθan θ=! \n20.74.69 Sikora:daru (シホカラサゾアルに当る語形)\n\n日本言語地図資料用紙 注記一覧 9-93\n質問番号 049 地図番号 039\n項目名 シオカライ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ 30\n\n地点番号  A 語形とその注記 (B・C 除いた語形とその注)  A 注のない語形 [B・C] 残した語形とその注\n\n1250.59 karasɂan. 唐辛子の味とヒリリする様\nhama:sugarasan\n\n2140.49 sykaramunu <主として使う> → sykarafuda:itu (シホカラワゾアルの変化)\n\n2141.61 sukura (語幹で〜終止に用いる。『から』なという意には suku-ra:m という。終止には suku-ramunu も用いる。)\n\n2150.17 sykarafudo: (「シホカラワゾアル」の変化)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00993.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00993",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00993.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "1756.32",
+      "3699.55",
+      "4638.43",
+      "4675.62",
+      "4685.10",
+      "4744.10",
+      "5567.46",
+      "5625.91",
+      "1763.60",
+      "2734.05",
+      "3688.82",
+      "4643.47",
+      "5517.57",
+      "5566.51",
+      "5620.32"
+    ],
+    "other_text": "1763.60   シオカライ\n2734.05   ソッカレ ... O:F\n3688.82   фyoppe (二回めの発音)\n4643.47   siogakare:\nA・[B]・[C]ごとに別紙を使用する。\n5517.57   noborija\nその中での情報は地点番号順に並べる。\n5566.51   gudoi\n注記の< >()は除籍にする。\n5620.32   ユイ\n\n（右上欄）\n質問番号 049   地図番号 039\n項目名 シオカライ\n（注記欄） ショッパイ（米） ソッペ Goppe（二回めの発音）\n\n表ヘッダ：\n地点番号　A 書形とその注記 [B・C 除いた書形とその注]　A 注のない語形 [B・C 残した書形とその注]\n\n1756.32　=ニカイ〈希〉\tショッパイ\n3699.55　シュピェ & ショッピェ　かつ普通\tショペェ、ショッペェ\n4638.43　Sukkare:〈共〉\tSuppare:〈普通の時は、これを多く用う〉\n4675.62　siokarae 〈上〉\t/ oppae / joppe\n4685.10　sokkarae 〈上〉 (教育やマスコミから覚えたことばである)\tJoppe.\n　　　karae 〈共〉\n4744.10　siokarae 〈共〉\tSoppe\n5567.46　シヲカライ 〈共〉\tSoppe シュハイエイ\n5625.91　siokarae 〈新〉〈共〉\tSoppae [soppae]\n\n（ページ下余白の手書き注記や線など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00994.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00994",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00994.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5631.75",
+      "5633.96",
+      "5636.49",
+      "5641.07",
+      "5641.94",
+      "5642.67",
+      "5644.74",
+      "5652.37",
+      "5655.57",
+      "5656.56"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞（ ）〔 〕は厳密にする。 日本言語地図資料用紙 注記一覧 9-95 質問番号 049 地図番号 039 項目名 シオカライ A 普通注記（除いた共通語）（除いた特殊語） (2) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] jiokarai〈新〉 jiokkarae〈共〉 シオカライ〈少〉 jiokarae〈共〉 jiokarai〈新〉 jiokarae〈共〉 ショッパイ〈共〉 jiokarae〈共〉 シオカライ〈共〉 シオカライ、ショッパイ soppai, sjozoppai soppaze ショッペエ soppae soppai soppaze ショッペエ〈共〉 soppae soppe〈ごく普通に〉 ショッパイ〈共〉 シオカレエ ショッペエ 56 35.48 ショッパイ 56 36.74 ショッパイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00995.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00995",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00995.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5661.34",
+      "5661.68",
+      "5663.68",
+      "5666.18",
+      "5671.00",
+      "5671.38",
+      "5671.94",
+      "5672.67",
+      "5666.85",
+      "5670.47"
+    ],
+    "other_text": "5666.85　ショッパイ\n5670.47　Sappai\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)は厳密にする。\n\n日本言語地図　(部分)\n質問番号 049　地区番号 839\n項目名　シオカライ\nA 普通注記\n(除いた共通語)　(除いた特殊語)\nページ (3)\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n5661.34　Siokarai 〈上、希〉　　　　Joppai / Joppe (家の者と言う)\n5661.68　Jiokarai 〈共〉　　　　　　Soppai\n5663.68　Jiokarae 〈上〉　　　　　　Joppae, Joppe;\n5666.18　シオッカライ (共)　　　　　シオッカレ (共)\n　　　　ショッカライ (共)　　　　　ショッカレ (共)\n5671.00　Jiokarai 〈上〉　　　　　　Joppai\n5671.38　Jiokarai 〈上〉　　　　　　Joppai, Joppe:\n5671.94　Jiokarai 〈上〉　　　　　　Joppai\n5672.67　Joppai 〈新〉　　　　　　　Joppae:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00996.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00996",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00996.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "5672.75",
+      "5676.84",
+      "5682.34",
+      "5687.59",
+      "5692.53",
+      "5698.19",
+      "5699.89",
+      "6287.71",
+      "5723.60",
+      "5679.86",
+      "5689.98"
+    ],
+    "other_text": "5679,86. nijasoppae\n5689,98. siokarai\n5723.60. Joppe:\n* soppæ karai <希>\nSoppae (荒) Soppae\nJoppai, Jokkazai, karai\n\n日本言語地図資料用紙注記一覧\n質問番号 049  地図番号 039\n項目名 シオカライ\nA 普通注記  ページ 9-97\n\n(A)・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の <　> (　) [　] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n5672.75  siokarai　<共>           Soppai　<俗>　ショッパイ\n5676.84  カライ　<女の人>\n5682.34  siokarai　<上>            Joppai, kare:\n5687.59  siokkarai　<海の水>\n          karai　<汁, 焼魚>       *joppai\n5692.53  siokarai　<共>           Joppai\n5698.19  sutppai　<希> <くれえは=汁の水が; \"suttppai\" のように>   soppai　<妙>  karai\n5699.89  soppoi　<少>             Soppai　<名>\n6287.71  karai　<新>              kare:\n\n（その他手書きメモや注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00997.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00997",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00997.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6411.66",
+      "6472.58",
+      "6482.26",
+      "6517.31",
+      "6567.86",
+      "6409.92",
+      "6539.78",
+      "6583.93",
+      "6605.37",
+      "6620.49",
+      "6624.13",
+      "6632.88",
+      "6642.58"
+    ],
+    "other_text": "カライ.\nドガラエ - 非常に辛いのをいう.\nドスガライ\nカライ - カラァという方 言形(?) 代表せる。Kat シルス.\nA・[B]・[C]ごとに別紙を使用\nその中での情報は地点番号順に並べる\n注記のく<( )[ ]は厳密にする>\nSiokare? (nre は半長母音)\n日本言語地図資料用紙注記一覧 9-98\n地図番号 049 039\n項目名 シオカライ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\n(5)\nシオカライ〈共〉    シオカレァP\nkarai〈共〉          kare:\nkarja:a:〈非常にからい時〉  karai, karja: -> 別なる近くなる? ショッパイ\nシオカライ〈共〉    soppai\nsio karai 〈共〉     so'karai 少\nsiokarai 少         so'pai\nso'pai 希           karai J, Jonbai\nsopai 少            karai 新, jonbai\nkarai 新.           Jo'pai, Jo'karai\nkarai               kare: (そえんさいな言い方)\nJiokkarai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00998.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00998",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00998.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6645.62",
+      "6650.12",
+      "6650.70",
+      "6698.20",
+      "7325.57",
+      "7394.60",
+      "8325.77",
+      "8335.11",
+      "1271.05",
+      "6623.53",
+      "6721.31",
+      "7246.82",
+      "7258.64",
+      "7340.50",
+      "7340.74",
+      "7363.12",
+      "7366.14"
+    ],
+    "other_text": "6623.53 so'bai\n6721.31 kare:\n7246.82 karui\n7258.64 カラカ\n7340.50 siwon ka:ka\n7340.74 kamaka\n7363.12 アダシオカリャ(?)\n\n＊カルカ\nsionka:ka\n＊ka:ka\nカツア\nガリヤア\n049 039\n質問番号 地図番号 項目名 シオカライ\nページ (6)\n\n地点番号 A 音形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n6645.62 siwokarae <希>    so'pae\n6650.12 sio'karai 希      karai\n6650.70 sio karai <希>    karai\n6698.20 siokarai <共>     sopparai <古>\n\n7325.57 karai <上>        joppai kara:\n7394.60 キツカ <やや古>  <注> コンシシオワキツカサイ>  カラカ\n8325.77 karai <上>        kare:\n8335.11 sio kare <新>     siohai <くち>\n1271.05 ju:hara Qan. θ =1  *jippuhara Qan, θ=1\n7366,14 kare:              *sijogare:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01001.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M039Q049/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01001",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01001.tif",
+    "source_ljc_id": "LJC-M039Q049",
+    "source_map_numbers": [
+      "039"
+    ],
+    "source_title": "しおからい (鹹い)"
+  }
+]

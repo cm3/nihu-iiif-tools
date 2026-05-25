@@ -1,0 +1,530 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.12",
+      "0990.97",
+      "2765.02",
+      "2771.22",
+      "2772.05",
+      "2775.45",
+      "2781.91",
+      "2782.16",
+      "2784.63"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧    1-50\n資料番号 275.  地図番号 505.   A 普通注記  [B 除いた共通語] [C 除いた特殊語] ページ (1)\n項目名 カーソジツ(?)\n\n地点番号   A 語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C 残した語形とその注）\n0724.12    ganzitsu <夕>                                       gantan\n0990.97    ganzitsu （両親（石川、越中）、は）\n           gantan. otsuitatji>\n2765.02    gʷandziitsi <wかすか>\n2771.22    gʷandziitsi (wかすか)\n2772.05    gʷandziitsi (w弱し)\n2775.45    gʷandziitsi (w弱し)\n2781.91    gʷan dziidzi (w微弱)\n2782.16    #gʷandziitsi (w弱し)\n2784.63    gʷandziitsi (wかすか)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00150.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00150",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00150.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3700.19",
+      "3702.89",
+      "3724.20",
+      "3733.73",
+      "3753.88",
+      "4638.22",
+      "4685.10",
+      "4686.02",
+      "4687.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-51\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくく〔〕は厳密にする。\n\n調査番号 275.005 地図番号 ___ A 普通注記\n項目名 ガーンジツ\n[B 除いた共通語] [C 除いた特殊語] ページ (2)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ngʷandzítsi　[w]かすか\ngʷandzi'tsi　[w]弱し\ngʷantʃo　(はじめgで；くりかえさ)\ngʷandzi'tsi　せると、弱くw.入る。\ngandzitsuu　[gwa]なし。\nグゥソニズ　〈古〉　　ガーソニズ。\ngʷanzítsü, üはごくわずかの中舌化\ngwanzüütsu.\ngwandzitsu　〈表〉\ngwandzitsu　(dgaiはio感じがした)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00151.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00151",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00151.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4701.14",
+      "4703.18",
+      "4706.84",
+      "4716.72"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく＜＞（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 1-52\n資料番号 275　地図番号 005　項目名 ガーンジツ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (.3)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4701.14 gwanzitsiu （丁寧に発音すると ga である。）\n4703.18 ganniitji （ガンジツとは言わないがソニチが共通語だと思っているらしい。）\n4706.84 gannitsi, 下線上は地図で ga になっている。原稿時代のものをみると、ある段階でりを gi にしている。Tok シルス。\n4716.72 gantan （ただし、隣り名足部落の及り）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00152.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00152",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00152.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4725.92",
+      "4726.80",
+      "4732.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-53\n資料番号 275 地図番号 005\n項目名 ガンジツ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記\n源十郎氏（明30年生まれ）を別に調査したら、gwantzanであった。\n4725.92 gandzitsuu (gannitsituだけしか使わないと言い張った。そこでそれはどういう意味ですかとたずねたら、gandzitsuuのことだと言った。)\n4726.80 *gandzitsuu（共）\n4732.86 gannitsuu（どうしてもガンジッツとは言わない。ガーニチが共通語）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00153.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00153",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00153.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4733.91",
+      "4734.20",
+      "4742.43",
+      "4743.61",
+      "4744.10",
+      "4744.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-54\n質問番号 376 地図番号 005 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (5)\n項目名 ガーンジツ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\nであると思っているふうであった）\n\ngandzitsutt 〈共〉\n\ngannitsutt （これは共通語と同じだと思っているらしい。ついに、ガーンジツという語形を言わせることができなかった）\n\ngandzudzutt 〈希〉\n\ngannitsutt （ガーニチとか言わない）\n\ngandzitsutt 【gannitsitとかしか言わない】\n\ngannitsutt （ガーンジツという共通語で",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00154.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00154",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00154.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4746.20",
+      "4760.98",
+      "4762.56",
+      "5472.31",
+      "5558.09",
+      "5574.68",
+      "5591.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）は厳密にする。\n日本言語地図資料用紙 注記一覧 1-55\n資料番号 295　地図番号 005　項目名　ガーンジツ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n発音させてみるのを忘れてしまった\n* gandzitsu\nganzi'tsü, üiはごく軽い中舌母音\ngandzüütsui〈共〉\nガーンジツ〈古〉（古くがガンであ。）　グワンジツ〈新〉（れと言う。）\ngwanjitsu（あるいは gwandzitsu?）\notsüitat]; gandzi.tsüiは、あまり言わぬ。\nガンジツ、やや新しい感じの語。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00155.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00155",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00155.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5594.02",
+      "5595.05",
+      "5602.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-56\n質問番号 295. 地図番号 005  A 普通注記  (B 除いた共通語) (C 除いた特殊語) 項目名 ガンジツ ページ (7)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号\n5594.02  jo:natsu, ガンジツと言はないので、念のため聞いたれした。\nショオガツは、1日〜3日の間のみふ、3日間がショウガツの由、すなはち一月を正月とは言はない。当地方がガンジツの言い方をしない。\n\n5595.05 gandzi:tsu 上品\n5602.99 gwantan / gwandzitsu 自然な発音の時出れ型. gandzitsu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00156.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00156",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00156.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5613.33",
+      "5641.07",
+      "6365.91",
+      "6414.25",
+      "6433.34"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )［ ］は厳密にする。\n\n日本言語地図資料用紙 注記一覧    1-57\n資料番号 325   地図番号 005\n項目名 ガンジツ\nA 普通注記   [B 除いた共通語]   [C 除いた特殊語]   ページ (8)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5613.33   gandzitsu\n5641.07   gwandzitsu.\n6365.91   tsuitatfi  ＜正月でも＞\n6414.25   gwandzitsu （古）\n6433.34   ガンジツ 「元日」は [ganzitsu]\n           であるが、[gwa]も、わずかに存在す。聞き得のは、\n           2月、3月、5月、8月である。\n           例えば、5月は [gogetsu]\n           とも言うが、[gogwatsu]と",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00157.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00157",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00157.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6437.94",
+      "6476.92",
+      "6482.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 1-58\n資料番号 275.005　地図番号 005　項目名 ガンジツ　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (9)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nも言う。聞き返したら、もう濁点目で、[gogatsu]となってしまう。[gwa]の滅亡寸前であろう。\n6437.94　ガンジツ　〈1月1日を指す〉\n6476.92　ガンタン　（グワの音は気をつけて）\nグゥンタン　いれが、274、276、287とも\nに、がである。元日のときはグワが聞かれる。）\n6482.75　gwaⁿ'zitsu（くりかえして聞いてみれば、これだけはgwaであった）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00158.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00158",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00158.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6489.87",
+      "6494.21",
+      "6498.93",
+      "6520.79",
+      "6529.63",
+      "6537.58",
+      "6539.5",
+      "6539.78",
+      "6548.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-59\n資料番号 地図番号 275.805.\n項目名 ガンジツ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (40)\n\n地点番号 | A 音形とその注記（B・C除いた音形とその注） | A 注のない語形（B・C残した語形とその注）\n\n6489,87  N.R.  〈イナガッイチジツ〉\n6494,21  グゥンジツ 〈古〉    ガンジツ\n6498,93  ganzitsu. 頭音が音に近い\n6520,79  ショーガッツ, ガンジツとは言わない\n6529,63  gaːjitsu 〈共〉〈くっ…（かれい言方）〉\n6537,58  gaẽjitsu 〈新〉  #Jo: yatsu.\n6539,50  tsüitat;j: 〈gandzitsu はほとんど言はぬ〉\n6539,78  gai̯jitsu 〈itj;retsuと言ってもよい〉（調査の主旨に合せて）\n6548,26  gandzitsu （調査の主旨に合せて）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00159.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00159",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00159.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6551.77",
+      "6552.46",
+      "6552.90",
+      "6554.88",
+      "6565.90"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 1-60\n275 005 A 普通注記 項目名 ガンジツ (1)\n（A・B・Cごとに別紙を使用する。）\n（その中での情報は地点番号順に並べる。）\n（注記の＜＞（　）［　］は厳密にする。）\n地点番号　A語形とその注記（B・C除いた語形とその注）\n諸導した形〉くいく分改まれ ときには oganzitsu ><かたい言い方\n6551.77 ganzitsu (/gw/の音なし)\n6552.46 ganjitsu （これは「ガンジツ」で「グゥン」ではない。）\n6552.90 ganzitsu ＜「グゥ」の発音はしない。＞\n6554.88 ganzitsu 〈新〉\n6565.90 Jo:gatsu ( ganzitsuということばは、使わない。もちろん,gwaーともならない。)\njo:natsu notsu'ita (手書き注記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00160.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00160",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00160.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6567.86",
+      "6568.13",
+      "6572.29"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）〔 〕は厳密にする。\n\n日本音韻地図資料用紙 注記一覧 1-61\n資料番号　地図番号　275　005\n項目名　ガンジツ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (12)\n\n[表ヘッダ] 地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\ntsu'itatsi　（一月一日のこと。gwa〜となることはない。）\n\ngandzitsu　（調査の主旨に合せて誘導したもの、しかしインフォマトは共通的な場面で形式ばって言う時には、このように言ってもよい。と答え。）\n\nganzitsu　([gwa-]ではない。)\n（但し、[kegkwa][kwazi]、[kwa:jin]（菓子）にも /kw/）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00161.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00161",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00161.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6572.55",
+      "6577.86",
+      "6595.90"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）〔 〕は厳密にする。\n\n日本語語地図資料用紙注記一覧　1-62\n調査番号　地図番号\n275　005\n項目名　ガンジツ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n(13)\n\n（を残す）\n\ngandzitsü, ① gwanzitsü\nganzitsu ＜希＞\nN.R. ＜三ヶ日を so:gatsuと言う のみである。＞\ngwanzitsu （/gw/あり）\nso:gatsu ＜一月一日のことである。＞\n＊ganzitsu（これも正規の答とする。） gantan\ngandzitsu ...（調査者の「元日」と言う文 gantan／字による問の答え。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00162.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00162",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00162.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6653.30",
+      "7229.50",
+      "7229.75",
+      "7246.45",
+      "7303.17",
+      "7308.33",
+      "7309.61",
+      "7313.34"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-63 資料番号 275 地図番号 005 普通注記 ページ (B 除いた共通語) (C 除いた特殊語) ガンジツ 項目名 地点番号 A語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) 6653.30 gandzitsu, 上, otsuitatji 7229.50 ganzitsu 7229.75 ganzitsu (g˘anとはならない) 7246.45 gwandzetº, 口は内破音 7303.17 ganzitsu (g˘aでない, 語頭に来る時) 7308.33 gandzitsu <新> 7309.61 gandzitsu <新> 7313.34 ganzitsu (語頭なのでgaであれ) (語中は, 2月を, narabi jo: )",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00163.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00163",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00163.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7313.68",
+      "7324.24",
+      "7324.47",
+      "7324.96",
+      "7329.57",
+      "7332.27",
+      "7332.52",
+      "7334.44"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n日本言語地図資料用紙注記一覧 1-64\n質問番号 275    地図番号 605    (A) 普通注記\n項目名 ガンジツ (B 除いた共通語) (C 除いた特殊語) (15)\n\n地点番号   A 語形とその注記 (B・C 除いた語形とその注)   A 注のない語形 (B・C 残した語形とその注)\n\ng'atzɯと言った。\n7313.68   g'anzitsɯ (語頭れが g^a と出た。)\n7324.24   ganzitsɯ [語頭なので g a と出た。] (意識的な気のである。語中では g^a と濁り音を伴う。)\n7324.47   g'anzitsɯ (この人は語頭も g^a であれ)\n7324.96   gandzitsu\n7329.57   ganzitsɯ\n7332.27   gwanzitsɯ、軽い唇音を伴う。\n7332.52   gwanzitsɯ、軽い唇音を伴う。\n7334.44   g'andʒit (t は内破音か? ジに強めあり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00164.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00164",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00164.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "7342.10",
+      "7351.06",
+      "7403.86",
+      "7412.31",
+      "7420.91",
+      "7421.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　1-65\n\n▸ A・[B]・[C] ごとに別紙を使用する。\n▸ その中での情報は地点番号順に並べる。\n▸ 注記のく <> () [] は厳密にする。\n\n質問番号　地図番号\n275　005.\n項目名　カンジツ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (16)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n7342.10　gwanjitsu、　軽く唇音化する。\n7351.06　gwanjitsu　軽い唇音を伴う。\n7403.86　ga^njitsu\n7412.31　gwaʔjitsu（gwaほど明瞭ではないが、gaではなく、g音の前に軽く“v”が認められる。）\n\n7420.91　ganzjitsu\n7421.62　ganzitsu　[老人の中には gwanjitsu と発音するものもある。]\n\n（小田中学校長、小田町大平）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00165.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00165",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00165.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7430.15",
+      "7430.75",
+      "7503.48",
+      "8302.91",
+      "8304.66",
+      "8320.59",
+      "9310.27",
+      "1251.98"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 1-66\n質問番号 275 地図番号 005\n項目名 ガンジツ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (17)\n\n（表見出し）地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n生れ⇒氏自身の発音もgwa-である\n\n7430,15 ganzitsu\n7430,75 gantan (外国、映画などでも聞いてみたが、gwaは聞かれなかった)\n7503,48 (w) ganzitsu (wは外１回だけ、ちょっと出た)\n8302,91 gwanzitsu\n8304,66 gwançi;tsu\n8320,59 gwantɕu <古> gwantan\n9310,27 gantan. (元日は出てこなかった。)\n1251,98 (?) gwantan [gwandʒitɕi]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00166.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00166",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00166.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "4725.92",
+      "4726.80",
+      "4733.91",
+      "4742.43",
+      "4743.44",
+      "4746.20",
+      "4762.56"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 1-67 資料番号 地図番号 275 005 項目名 ガーンジツ A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）は厳密にする。 (欄) A 普通注記 B 除いた共通語 C 除いた特殊語 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 4725.92 gannitsi (これだけしか使わるいと言い張った。そこで、それは、どういう意味ですかとたずねたら、 gandzitsutt のことだと言った) 4726.80 gannitsutt ＊gandzitsutt (共) 4733.91 gannitsi gandzitsutt <共> 4742.43 gannitsutt <昔からの言い方で普通> gandzutt dzett <希> 4743.44 gannitsi ganzitsutt 4746.20 gannitsutt ＊gandzitsutt 4762,56 gannitsiü gandzütsüu <共>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00167.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00167",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00167.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5575.00",
+      "5591.60",
+      "5595.05",
+      "5628.66",
+      "5675.87",
+      "5677.60",
+      "5682.6",
+      "5750.84",
+      "6366.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧        1-68\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n質問番号　地図番号\n275   005\n項目名　ガンジツ\nA 普通注記　B（除いた共通語）　C（除いた特殊語）　(2)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5575.00   gantan.                          gandjitsu\n5591.60   ガンタン・・・やや新しい感じの語。    ガンジツ・・・やや新しい感じの語。\n5595.05   tsuitatji                         gandjitsu 上品\n5628.66   gantan.                           gandjitsu\n5675.87   ツィタチ                          オガンジツ\n5677.60   ツイタチ.                         ガンジツ\n5682.60   オツイタチ　＜多少＞                ガーンジツ\n5750.84   gantan                            gandjitsu.\n6366.16   gantan                            gandjitsu.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00168.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00168",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00168.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6366.67",
+      "6398.28",
+      "6437.94",
+      "6444.25",
+      "6471.59",
+      "6529.63",
+      "6534.41",
+      "6541.52",
+      "6548.26"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）（　）は厳密にする。\n日本官署地図資料用紙 注記一覧 1-69\n質問番号 275 地図番号 005 項目名 ガーンジツ A 普通注記 B (除いた共通語) C (除いた特殊語) ページ (3)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6366.67 tsuitatji    gandzjitsu.\n6398.28 tsuitatji    gandzjitsu.\n6437.94 ガンタン <1月1日を指す>    ガンジツ <1月1日を指す>\n6444.25 4イタ4    ガンジツ\n6471.59 ツィタチ (3) te:tati;    ガンジツ\n6529.63 otsuitatji    gaizitsu <共>\n6534.41 gantan    gandzjitsu\n6541.52 オショオ グッソ（表記不明）    ガーンジツ\n6548.26 ogandzjitsu. <いく分改ったときには、o-をとってもよいと思う。か 主旨に合せて諸変した形>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00169.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00169",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00169.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6565.90",
+      "6568.13"
+    ],
+    "other_text": "日本官話地図資料用紙 注記一覧    1-70\n質問番号　地図番号\n275　005\n項目名　ガンジツ\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ　(4)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n〈れい言い方〉\n\n6565.90    tsu'itatji\n\n6568.13.   otsuitatji\n\nso:gatsu (ganzitsu ということばは使わない\nもちろん gwa~ ともならない.)\n\ngandzitsu (調査の主旨に合せて, 誘導したもの. しかし, インフォマントは\n（共通的な場合で形式はって言うときには、この...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00170.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00170",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00170.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6577.86",
+      "6584.90",
+      "6632.88",
+      "7308.33",
+      "7309.61",
+      "7338.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <> () [] は厳密にする。\n\n日本言語地図資料用紙 注記一覧　1-71\n\n質問番号　地図番号\n275　005\n項目名　ガンジツ\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ (5)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\notsui;tatji;\nように言ってもよい>と答え\nganzitsu <希>\n\ng'an'dzitsu, そは舌先が上歯茎のすぐ奥にあがって発音したもの\n\ngantan 希-あいさつのときに言う。　gandzitsu.\n\njo:gatsu <一月一日のことを言う>　gandzitsu <新>\n\no:zuitatji;\ngandzitsu <新>\n\notsuiitatji <改まったいい方のとき>　ga\"zi:tsu.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00171.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M005Q275/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00171",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00171.tif",
+    "source_ljc_id": "LJC-M005Q275",
+    "source_map_numbers": [
+      "005"
+    ],
+    "source_title": "ガンジツ (元日)"
+  }
+]

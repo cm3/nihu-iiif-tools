@@ -1,0 +1,1363 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "3742.82",
+      "4598.59",
+      "4638.43",
+      "4644.10",
+      "4648.04",
+      "4663.49",
+      "4676.39",
+      "4685.10",
+      "4685.72",
+      "4686.95"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[]）は厳密にする。\n日本言語地図資料用紙　注記一覧　15-56\n質問番号　地図番号\n202　S　63\n項目名　ス・テル（失う）\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　(1)\n\n（表見出し）\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　(B・C残した語形とその注)\n\n5. nāyeru\n5. <ho:karuという>\n5. ondarutoいう（ondaruという）\n1. [使わない]\n5. <ndaruという>\n5. 捨てる = bit(aru)　なくす = no:siru\n5. なくす = [no:siru]　すてる = <su:te(aru)>\n5. (nɔ:jiruという)\n5. but(aruという)\n5. nageruという",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01556.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01556",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01556.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4687.01",
+      "4695.21",
+      "4695.87",
+      "4781.86",
+      "4784.41",
+      "5508.16",
+      "5548.24",
+      "5549.09",
+      "5558.09",
+      "5558.33"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での指示は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧\n15-57\n質問番号　地図番号\n202 S　63\n項目名\nステル（失う）\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（2）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5. but(aruという)\n5. but(aruという)\n5. (pigasuという)\n5. <ho:roguをつかう>\n5. <ho:roguをつかう>\n1. <ステタは「落した」ことになる>\n5. <hokkaruという>\n5. ナゲルを使う。\n5. <hokaruという>\n5. <ホッケルという>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01557.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01557",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01557.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5568.57",
+      "5568.92",
+      "5569.02",
+      "5577.88",
+      "5579.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-58\n調査番号　202 S　地図番号　63\n項目名　ステル（失う）\nA　常通注記　(B　除いた共通語)　(C　除いた特殊語)　（3.）\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（　）は敬語にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5568.57　1.（ステルは　シテルともいう。）\n5568.92　1.＜シテルという言い方の方が普通、ステルは上品な言い方＞\n5569.02　1.＜サイフラ　ステタ　シテタ＞（一般には、ステルは上品なことはシテルを使う。）\n5577.88　1.＜ステルは＜失＞の言いかたで、一般にはシテルという。＞\n5579.01　1.＜シテルということはを使う＞（シテルということははなくなる。紛失するという意味に使う。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01558.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01558",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01558.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5579.3",
+      "5597.26",
+      "5604.28",
+      "5604.52",
+      "5614.62",
+      "5617.85",
+      "5622.48",
+      "5676.28"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-59\n資料番号　地図番号\n202 S　63\n項目名　ステル(失う)\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(4.)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5579.30　1.　<シテルを紛失ちうの意に使う。>\n5597.26　1.　<シテルという。>\n5604.28　5.　<butjaruという?>\n5604.52　5.　nigasuという。\n5614.62　5.　bitjaruという。\n5617.85　5.　<ho:rokuを使う>\n5622.48　5.　bitjaruと云う。\n5676.28　5.　(使わないが<使>と答えそうである。せなら wtjaru(捨て捨てる,うっちゃる)を紛失の意にも用いるならであろう。saihuo wtʃattaのように)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01559.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01559",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01559.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5676.52",
+      "5676.84",
+      "5678.71",
+      "5680.34",
+      "5687.85",
+      "5691.37"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-60\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n質問番号　202 S　地図番号　63\n項目名　ステル(失う)\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]（5.）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n3.（なくすが多いがと前置して、しばらく考えてよりの答え）\n1.　ザーマクチ　オ　オトンタ\n　　\"\"　ステタ　両方同じ意味。\n5.　普通「ウッチャル」という。\n5.　＜bitjaは捨てる、失うの両義に使う＞\n5.　＜たまには時計をステチャッタ（なくした意）という人もいるが、負け惜しみ的、又はそれでいう時＞\n5.　＜butjaru と云う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01560.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01560",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01560.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5695.61",
+      "5696.54",
+      "5696.68",
+      "5711.85",
+      "5712.70"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-61\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）は略符にする。\n\n資料番号　地図番号\n202 S　(記入欄に符号)\n項目名　ステル(失う)\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (6.)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n5695.61　5. <オフ-チヲルという>\n5696.54　4. <新><前は uttjaru という言葉を捨てる、又「給失ちろ」「なくち」と言う意味に使った。後 uttjaru に代って新しく suteru が入って来て、suteru を「給失ちる」「なくち」という意味に使うようになった>\n\n5696.68　1. <たとえば「ソンナトコロエモノ／オイルトクト ステルゾ」というように>\n5711.85　5. <ho:roku を使う>\n5712.70　5. <ho:ttaro:ka などとはえうか…> [使う]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01561.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01561",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01561.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5723.36",
+      "5760.24",
+      "6359.38",
+      "6366.24",
+      "6368.60",
+      "6369.32",
+      "6373.59",
+      "6373.84",
+      "6379.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語群は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 日本言語地図資料用紙 注記一覧 15-62 質問番号 地図番号 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ 202 S 63 項目名 ステル(失う) 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 5. <okkodosu, po:roguを使う> 5. <tʃa:ruという> 4. 昔はオトヒタと言っていた。 1. (？)くすてたという言い方で使う 1. (ちょっと不安) 5. (？) 1. (？)くすてたという言い方はちる、すぐるとは云わない 1. <sutetetaという言い方で使う> 6. よく分らぬ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01562.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01562",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01562.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6384.73",
+      "6385.28",
+      "6385.63",
+      "6395.61",
+      "6398.78",
+      "6405.77",
+      "6411.66"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-63\n（上部箱）資料番号　202 S　地図番号　63　項目名　ステル（失う）\nA・[B]・[C]ごとに別紙を使用する。\nその中での音標は地点番号順に並べる。\n注記の< > ( )は厳密にする。\n\n（表ヘッダ）地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6384.73　1.　〈すてた〉という過去の形でだけ使う。\n　　　　「すてる」とは言わない\n6385.28　1.　但し suteta という過去の形でのみ使用\n6385.63　1.　(?)　〈「すてた」という過去形では使うが「すてる」とは言わない〉\n6395.61　1.　但し、sutaruという\n6398.78　1.　〈ただし、suteことという過去形で〉\n6405.77　5.　?　〈用いると思ったが、用いないと答えた。えた、金を押したけれど〉\n6411.66　1.　〈ただし、戸外の場合である〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01563.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01563",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01563.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6414.17",
+      "6415.80",
+      "6416.31",
+      "6417.14",
+      "6430.53",
+      "6439.77",
+      "6440.25",
+      "6449.19",
+      "6450.45",
+      "6452.17"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）は略称にする。\n日本言語地図資料用紙　注記一覧　15-64\n資料番号　202 S　地図番号　63\n項目名　ステル（失う）\nA　普通注記　（B　除いた共通語）　（C　除いた特殊語）　（9.）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n1.　但し、シテルと言う、\n1.　＜但し、ステルでなくシテルと言う。＞\n5.　＜otoitaと言う＞\n5.　＜オテータと言う＞\n5.　＜なくち＝ノテッタ＞\n5.　ウシナウ\n1.　＜スタッタとは言う＞\n5.　ホカス\n3.　＜恐らく使っていると思われる＞\n3.　（？）（使っているらしい）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01564.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01564",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01564.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6452.83",
+      "6456.23",
+      "6457.51",
+      "6458.40",
+      "6461.53",
+      "6462.52",
+      "6466.01",
+      "6469.77",
+      "6471.26",
+      "6472.05"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 15-65 資問番号 地図番号 202 S 63 項目名 ステル（失う）： A 普通注記 [B 除いた共通語] [C 除いた特殊語] (10.) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 1. ＜ステタ、スタッタ 両用する＞ 1. ＜財布を落としたような場合＞ 1. (siteru) 5. ホカス 3. (？) 1. ＜ステタは「なくした」の意＞ 1. （ただし、シダル（紛失する）を使う） 5. ホル 1. ？ 1. ただし najo:nnattaとも",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01565.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01565",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01565.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6476.13",
+      "6476.17",
+      "6479.26",
+      "6482.52",
+      "6482.75",
+      "6484.43",
+      "6491.49",
+      "6491.65"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧    15-66\n\n資料番号 202 S    地図番号 63\n項目名 ステル(失う)\n\nA 普通注記    B 除いた共通語    C 除いた特殊語 (11.)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n1. <タバコイレオステタ>\n1. <くだい シテルとなる、フロンキシテシモタ。>\n    オシコトシタ、オシコトヤタ、サイフシテテナ。\n    というように使う>\n\n5. ホル\n\n1. <suteta, sutata, という>\n\n1. <sutatta, Siteta という>\n\n1. <但し、シテル、シテタという>\n\n1. <hiteru, sutaryuという>\n\n1. <hiteru という>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01566.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01566",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01566.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6492.11",
+      "6492.50",
+      "6494.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は略語にする。\n日本言語地図資料用紙　注記一覧　15 67\n質問番号　地図番号\n202 S　　63\n項目名　ステル（失う）\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(12,)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\n1. 6492.11　1. sutat: a という\n\n2. 6492.50　1. <Sitemu, Sita'taのようにいうことが多い>\n\n3. 6494.55　1. <メガネ　ステテ　シモ　テコッタ　ガン>（この使\n\nい系は香川県では小豆郡土庄町以外ではまれ\n珍しい器であり、かつ高い値した容器であった\nので、調査後、調査場所とした豊浜中学校の校長\n（二）土地の人、50才程、田中又義氏にききたしたところ、\n\"使わない\"ということであった。そこで少し疑しく\nなるのであろが、近くの豪農家でかなり良く使われ\nているので、その近接地である豊浜で使われていたとは",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01567.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01567",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01567.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6509.38",
+      "6509.43",
+      "6519.43",
+      "6542.71",
+      "6550.13",
+      "6561.49",
+      "6562.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-68\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）〔　〕は厳密にする。\n\n資問番号　地図番号\n202 S　63\n項目名　ステル(失う)\nA　常通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(13.)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n言い切れないので事実をそのままにしろう次第である。\n1.　<フテルと発音して、紛失する、たくろうの意味にフサう>\n5.　<ノオスルという>\n6.　(使わないと思う)\n5.　ujino:taという\n5.　オトシタ・ホカス\n5.　<ホレと言う>\n5.　<ウシナウという>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01568.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01568",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01568.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6567.86",
+      "6569.12",
+      "6577.86",
+      "6585.49",
+      "6586.32",
+      "6594.67",
+      "6595.32",
+      "6595.90"
+    ],
+    "other_text": "日本音声地図資料用紙　注記一覧　15-69\n質問番号　地図番号\n202 S　63\n項目名　ステル(失う)\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(14.)\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n6567.86　5. <nona'ittata という>\n6569.12　5. otoita などという\n6577.86　1. <たゐし Euteru の形である. Euteru は horu と違う>\n6585.49　1. (たゐし Eutetata のように Euteru という形を有いる)\n6586.32　1. (たゐし Euteta という)\n6594.67　1. <フテルという語は紛失するという意味である>\n6595.32　1. <フテル>\n6595.90　1. <たゐし Euteru>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01569.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01569",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01569.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6603.24",
+      "6603.52",
+      "6604.98",
+      "6605.84",
+      "6608.22",
+      "6608.69",
+      "6615.09",
+      "6617.75",
+      "6618.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()は厳密にする。\n\n日本言語地図資料用紙　注記一覧　15-70\n\n質問番号　地図番号\n202 S　63\n項目名\nステル(失う)\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(15.)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6603.24  5.　<オプチャアルという>\n6603.52  1.　mbuifa:hu  su:te:fu\n6604.98  5.　<ウチャアルという>\n6605.84  5.　<ウッキャッタという>　言葉は紛失した意の時に用いる\n6608.22  5.　<ウッチャルという>\n6608.69  5.　uttjaruと言う、と答える\n6615.09  5.　<ウヂャルという>\n6617.75  5.　<”　”>\n6618.46  5.　<　　>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01570.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01570",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01570.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6625.17",
+      "6633.89",
+      "6634.07",
+      "6641.97",
+      "6642.58",
+      "6643.16",
+      "6643.72",
+      "6655.87",
+      "6677.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は略記にする。\n\n資料番号 202 S    地図番号 63\n項目名 ステル（失う）\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  （16.）\n\n地 点 番 号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形（B・C 残した語形とその注）\n\n5. すてるとは言わないが u'tjaru という。\n5. 多く u'tjaru を使う。\n5. u'tjaru という。\n5.\n5.\n5. 「すてる」は使わないが, u'tjaru（なくす、すてる意）は使う。\n5. 「うっちゃる」を使う。\n5. （うっちゃるという）\n5. u'ttjaru をたくす意味として使う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01571.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01571",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01571.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6677.70",
+      "6686.75",
+      "6697.49",
+      "6697.59",
+      "7208.97",
+      "7239.82",
+      "7239.85"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-72\n\n質問番号　地図番号\n202 S      63\n項目名　ステル(失う)\n\nA　普通注記　　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(17.)\n\n地点番号　A　語形とその注記　(B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n\n6677.70　5. uttjaru は 紛失する、なくすという意味で使う。\n6686.75　5. \"\n6697.49　5. ただし、uttjaru くすてる意＞には「なくす」意味あり。\n6697.59　5. 但し、uttjaru には「落てる、なくす」の意味がある。例 saifu o utsutta (財布をなくした)\n7208.97　1. <usutsulという>\n7239.82　1. <ujitetaというのをどこかで落してなくした時に使うことがある>\n7239.85　5. <ウシノオタという>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01572.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01572",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01572.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7249.95",
+      "7257.94",
+      "7266.09",
+      "7284.16",
+      "7289.31",
+      "7301.67",
+      "7302.87",
+      "7303.37",
+      "7303.61",
+      "7311.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-73\nA・[B]・[C]ごとに別紙を使用する。\nその中での情形は地点番号順に並べる。\n注記の< > ( )は厳密にする。\n[小欄] 202 S 63\n項目名 ステル(失う)\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (18.)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]\n7249.95  5. ウシナウという。\n7257.94  1. usseta\n        <ussuruという形で>\n7266.09  1. <ussetaという>\n7284.16  1. (otsut')\n7289.31  5. 「失う」は ujinau no: nasu.\n7301.67  5. nō:nāt:aという\n7302.87  5. <usuneta>という\n7303.37  5. otojitaという\n7303.61  5. <四国の人の言うのを聞いたことはある>\n7311.68  5. <otoitaという>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01573.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01573",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01573.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7312.69",
+      "7320.59",
+      "7322.81",
+      "7323.17",
+      "7324.24",
+      "7324.47",
+      "7324.96",
+      "7329.39",
+      "7329.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-74\nA・{B}・{C}ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n質問番号　地図番号\n202 S　63\n項目名\nステル（失う）：\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (19.)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5. sukeruという。\n5. usino:taという。\n5. <otojitaという>\n5. otojitaという。\n5. 〃\n1 usuruという。\n1 us:ieruという。\n5. <otosi-taという>\n3. <意識して捨てるのにいうが、時に、知らぬまに紛失したのをsute-taということもある>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01574.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01574",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01574.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7331.27",
+      "7332.46",
+      "7332.97",
+      "7338.48",
+      "7338.55",
+      "7341.42",
+      "7342.12",
+      "7342.72"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 15-75 質問番号 202 S 地図番号 63 項目名 ステル(失う) A 普通注記 [B 除いた共通語] [C 除いた特殊語] (20) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注） 1. dokoka e suteた の様に云う hotarakaita 5. <otofitaという> 5. (no:nat:aと云う) 1. (ただし、Sitaruの形である。<sita'taのようにいう>) 1. <Sitetataという> 5. <ウシナウという> 5. <otojitaという> 5. hottsuruという",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01575.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01575",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01575.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7342.76",
+      "7343.76",
+      "7349.07",
+      "7351.09",
+      "7352.14",
+      "7352.61",
+      "7352.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-76\nA・[B]・[C]ごとに別紙を使用する。\nその中での語欄は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n（右上）資料番号 202 S1 地図番号 63 項目名 ステル（失う）\n表ヘッダ: 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n7342.76　5. <uʃino:ta>という\n7343.76　1. uʃitsuru 又は ssuruという\n7349.07　1. <dokoi sute tsuro: 左と使う>\n7351.09　5. <uʃinotaという>\n7352.14　3. <ウシエタ・ウシエタ・チアケタという>\n7352.61　5. <ウシノタ・ノオタを用いる。ウニテタを使うのは、やはり意識して捨てる場合にいう>\n（空行）\n7352.97　3. (?) <ウシノタ・ウシデタ・ステタとに使う> けれどもウシノタが基本形、<ウシギッタ?オオカともいう>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01576.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01576",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01576.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7353.51",
+      "7354.23",
+      "7355.81",
+      "7356.70",
+      "7359.78",
+      "7361.17",
+      "7362.42",
+      "7362.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-77\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞（ ）は敢精にする。\n\n質問番号 202 S   地図番号 63\n項目名 ステル(失う)\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (22)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7353.51　5. <ウシノタが基本。ウシツルは自分からわざと 捨てることに用いるのが基本である。>\n7354.23　5. <オトシタ、「オナラカシタという」>\n7355.81　1. (ujitsuruをなくすの意に)\n7356.70　5. <no:narikasuという>\n7359.78　5. <otosu>\n7361.17　5. <ウシノオタという>\n7362.42　5. <ウシノタ・ツコキアタを用いる>\n7362.67　5. <ウシノオタが基本。オトシク・ホカシタも 用いることあり>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01577.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01577",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01577.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7363.12",
+      "7363.59",
+      "7364.34",
+      "7365.51",
+      "7367.25",
+      "7372.03",
+      "7372.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-78\nA・[B]・[C]ごとに別紙を使用する。\nその中での指標は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n質問番号 202 S    地図番号 63\n項目名 ステル(失う)\nA 普通注記   [B] 除いた共通語   [C] 除いた特殊語   ページ (23)\n\n（表の見出し）地点番号　A 語形とその注記　[B・C除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n5. ＜ノテッタが普通。ウステタ ウチステタは わざわざ自分の意志で捨てたという意味になる＞\n1. ＜トゲエ ウシテタ ロオカという＞\n1. ＜ウシテタ ロオカという＞\n1. (？)\n3. ＜ふつうはノーナラカシタというが＞\n5. ＜ツコキャアタ・ウシノオタという＞\n3. ①ウシノオタのウッツェタという。②は強く表現する場合に使うという。ウッツェタはウエステタ\n表現する場合に使うという。ウッツェタはウエステタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01578.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01578",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01578.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7372.96",
+      "7373.23",
+      "7373.56",
+      "7373.92"
+    ],
+    "other_text": "A・(B)・(C) ごとに別紙を使用する。 その中での書誌は地点番号順に並べる。 注記のくく( )は談話形にする。 日本言語地図資料利用紙 注記一覧 15-79 質問番号 202 S 地図番号 63 項目名 ステル（失う） A 常道注記 B 聞いた共通語 C 聞いた特殊語 ページ (24) 地点番号／A 言形とその注記（B・C 欄いた語形とその他） と解することができる、例に、ドコニ ステル ロボ? は自で能動的にすることに用いるという） 5. ＜ウシノオタを用いる。ウシヌタは不要のものを落すこと＞ 5. ＜ウシノオタというのが基本＞ 5. ＜ツコヤテタ・ウシノオタという＞＜クシツルは不要のものを捨りすること＞ 3. ＜ふつう ドンデェ ウシノオカ — オチタ ヨオカ（という）＞ 〜 ツコヤテタ ロオカ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01579.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01579",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01579.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7373.99",
+      "7374.15",
+      "7374.75",
+      "7375.30",
+      "7375.37"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-80\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の < >（ ）［ ］ は厳密にする。\n\n頁問番号　地図番号　202 S 63\n項目名　ステル（失う）\nA　普通注記　　B　除いた共通語　　C　除いた特殊語　（25）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7373.99　1. (C?) ウシナウがもっとも優勢で、アイシナルともいうのであろか、ウシツルともいうことがある。\n\n7374.15　1. <①ドコデ オトシタ ロオネ ②ドコデ ウシイタ ロオネ ③ドコデ ウシテタ ロオネ 共に用いる>\n[ドヶエ ウンテク ロオネは普通に用いる。ドヶエ ウンテク ロオネは上品な言い方の場合に用いる]\n\n7374.75　1. <ドヶエ ウンテタ ロオネは置き所が不明の場所に云う>\n\n7375.30　1. (但し, fujitsuruとして)\n\n7375.37　1. < ,  \"  \" >",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01580.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01580",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01580.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7375.71",
+      "7375.96",
+      "7376.62",
+      "7376.68",
+      "7377.27",
+      "7377.72",
+      "7380.74",
+      "7381.38",
+      "7381.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙　注記一覧　15-81\n\n質問番号　地図番号　A　普通注記　ページ\n202 S　63\n項目名　ステル(失う)\n[B　除いた共通語]　[C　除いた特殊語]　(26.)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7375.71　1　ujitsuruとして。\n7375.96　1　〃\n7376.62　1　〃\n7376.68　1　(但し, ujitsuruという)\n7377.27　1　<putteta>\n7377.72　1　<但し, ussuruという>\n7380.74　5　<トケーカ ウシータ バイというのが基本>\n7381.38　5　<(1)ツコキャアタ (2)ウシノオタが基本>\n　　　　ウシテルは自分で捨てることをいう\n7381.47　5　<ドケカ ツコキャアタ・ドケカ オトシタが普通>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01581.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01581",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01581.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7381.97",
+      "7382.58",
+      "7382.93",
+      "7382.97",
+      "7383.83"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[]）は厳密にする。\n日本言語地図資料用紙　注記一覧　15-82\n資料番号　202 S　地図番号　63\n項目名　ステル（失う）\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　（27.）\n\n（表ヘッダ）\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\nドゲンステタロオカというのをきいてもおかしい感じはしないがまあ自分は云わない>\n\n5.　オラ　ゼンイルドケエ　ウシドッドサイ or ウシノタロオカのようにいう。\n\n3.　（?）ウシノオタ（やや優勢）　ウシタク（やや純粋）　＜共に使う＞\n\n1.　ウスツルという。\n\n3.　（ウシノオタが基本。サイフにドケエ、ウシノタ　ロオカ、ステタ・オトシタ（等））\n\n1.　ウシテタ（母音）、ウシツルを用いる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01582.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01582",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01582.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7383.98",
+      "7385.38",
+      "7385.61",
+      "7385.74",
+      "7386.55",
+      "7386.56",
+      "7386.63",
+      "7390.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-83\n質問番号 202 S    地図番号 63\n項目名 ステル(失う)\n(A 普通注記)  (B 除いた共通語)  (C 除いた特殊語) (28)\n\n地点番号    A 語形とその注 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n7383.98    3.(?) <オトシタが基本> 言う\n7385.38    1. <但し、ussuruと言う>\n7385.61    1. <但し、sutsuru or usutsuru という>\n7385.74    1. <但し、u(jitsuruという)>\n7386.55    1. ウシツル (ujitsuru) <何時の間にか、横から 落してなくした場合に言う>\n7386.56    1. (<u)jitsuru、(u)jitetaという形で>\n7386.63    1. <但し、u)itsuruという>\n7390.26    5. (ウスツル・ウシテタ(過去形)という時は 自分からの意志ですてる場合にいう)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01583.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01583",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01583.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7390.70",
+      "7390.75",
+      "7391.01",
+      "7391.44",
+      "7391.94",
+      "7392.33",
+      "7392.45",
+      "7392.94"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での語順は地点番号順に並べる。 ▶ 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧　15-84 調査番号　地図番号　A 普通注記　ページ 202 S　63 項目名　ステル（失う） [B　除いた共通語] [C　除いた特殊語] (29) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注） 7390.70　5.　＜ウシ／オテキタを使う＞ 7390.75　5.　＜ウシ／オタという＞ 7391.01　5.　＜　”　”　＞ 7391.44　5.　” 7391.94　1.　＜オラヲ　ドチ　イシテタ　ロオカ＞　”　”　ウシテタ　ロオカ＞ 7392.33　1.　＜ドヘェ　イシテタ　ロオカという＞ 7392.45　1.　＜ウシナウ・ウシシル　ともに同じろ＞ 7392.94　1.　多　ウシ　チェタ・イッテタ〈ウッステタの詠形と見られる〉ツッコキアタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01584.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01584",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01584.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7392.62",
+      "7394.14",
+      "7394.60",
+      "7395.09",
+      "7395.25",
+      "7395.63",
+      "7395.88",
+      "7396.16"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は敢筆にする。\n\n日本言語地図資料用紙　注記一覧　15-85\n資料番号 202 S　地図番号 63\n項目名　ステル(失う)\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語 (30.)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)\n\n7392.62　1.　<ウシツルという>\n7394.14　1.　ujitsuruとして\n7394.60　5.　(センイレドドチェ　ツコキアタロ？　オトシタ　(昔かという))\n7395.09　1.　ujitsuru　〜　ussuruとして\n7395.25　1.　ujitsuruとして\n7395.63　1.　(但し、ujitsuruとして)\n7395.88　1.　但し、ussuruという。　船の意志で損　てる場合には turakasuというだろう。\n7396.16　1.　ussuruとして",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01585.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01585",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01585.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7396.53",
+      "7400.15",
+      "7401.11",
+      "7402.42",
+      "7402.47",
+      "7404.12",
+      "7408.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-86\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）は厳密にする。\n\n資料番号 202 S   地図番号 63\n項目名 ステル(失う)\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語  ページ (31.)\n\n地点番号　A語形とその注記 (B・C除いた語形とその注)\nA注のない語形 (B・C残した語形とその注)\n\n1. 但し, ussuru として。\n1. (jiran ma ni sutato:ta とか, saifu suteta kai no のような言い方をする。)\n5. <usata という, suteru は意識してするのにいう>\n1. <sutaru という, suteru は意識してする場合>\n5. otosi:ta という\n5. ″\n1. siteru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01586.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01586",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01586.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7411.27",
+      "7411.61",
+      "7412.31",
+      "7414.06",
+      "7414.87",
+      "7415.47",
+      "7420.18",
+      "7420.91",
+      "7421.38",
+      "7421.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-87\n\n202 S1 63\n項目名 ステル(失う)\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (32)\n\nA・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( )は厳密にする。\n\n地點番号 A 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 (B・C 残した語形とその注)\n\n5. <no:nattaという.>\n1. <Site-ta, Sitat:a>という\n1. <Sitatta>という由.\n1. <siteruが多い>\n1. <くだし, Futeru>\n1. <Futeluを普通に使う>\n1. <sute-ta> <Site-ta> <otoji-ta>という.\n1. (Sumaruという形では使うらしい)\n1. (<<stat:a>のようにいう由.)\n5. <usasu, usaji-taという.>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01587.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01587",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01587.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7430.75",
+      "7431.82",
+      "7436.73",
+      "7441.19",
+      "7450.44",
+      "7452.08",
+      "7452.54",
+      "7460.23",
+      "7460.30",
+      "7461.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙　注記一覧　15-88\n質問番号　地図番号\n202 S　63\n項目名　ステル（失う）\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（33）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7430.75　1. <suteta·suta-ta>\n7431.82　1. <Sitat:aのように使う>\n7436.73　1. <たゝし, Futeruを使う>\n7441.19　1. çiteru\n7450.44　1. Siteruと使う\n7452.08　1. Suteru\n7452.54　1. [giteru]\n7460.23　1. たゝし, Siteru (or giteru) という\n7460.30　1. çitetuと言う\n7461.39　1. <たゝし, Futeru>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01588.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01588",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01588.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7461.77",
+      "7471.38",
+      "7502.22",
+      "7502.89",
+      "7504.64",
+      "7512.43",
+      "7522.94",
+      "7523.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-89\n資料番号 202 S　地図番号 63\n項目名 ステル（失う）\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (34.)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）\n7461.77\t1. たいし suteru\n7471.38\t1. フテルという。\n7502.22\t1. ju:be saifu sutete jowatta の如くいう\n7502.89\t1. outeta\n7504.64\t1. ＜たゝし, hutete (imotaのようにいう). なお huteruという形は用いない＞\n7512.43\t1. ＜フテルという＞（また、フツル）\n7522.94\t1. ＜サッコ エイケミチデ ホォン フテタ＞（学校へ行く道で帽子をなくした）\n7523.27\t1. ＜フテル＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01589.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01589",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01589.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7523.30",
+      "7533.12",
+      "8229.96",
+      "8239.31",
+      "8248.18",
+      "8300.11",
+      "8300.80"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　15-90\n質問番号　地図番号\n202 S   63\n項目名　ステル(失う)\nA 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語] (35.)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n1. 〈フテルという〉\n1. 〈万年筆 フテテキタ と使う〉\n1. 〈共〉(gittsujiとして、ウッスイの誤り)\n1. ġittsuru .issuru\n1. ġittsru (うしつるの誤り)\n5. 〈ドコエ ウェエタ ロォナ〉\n　　“ウシオタ ロォナ という”\n1. (A) シッテテキタ (B) イナカンテキタの両形\nとも用いるが (A) の方が使いやすい。\nジェンフクロ（見本）シッテテキタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01590.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01590",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01590.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "8300.87",
+      "8301.19",
+      "8301.76",
+      "8302.19",
+      "8302.55",
+      "8302.91",
+      "8303.47"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-91\n（右上の枠内）202 S　63　項目名　ステル(失う)\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(36.)\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜＞（）は厳密にする。\n\n（表ヘッダ）地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n8300.87　1. Ujitsut\n8301.19　1. <文例 トゲェ シテタ ロオナ　〜シッテタ〜 >\n8301.76　1. ウシテルを用いる。\n8302.19　3. (?) <ドコテ オチタロオカということが多い　サ　ドコニ ウシテタロオカともいう>\n8302.55　1. <ドコテ ウシテタ ロオカ>\n8302.91　1. <ドチエ>\n8303.47　1. ウシテル（タクは過去形としてドチエュ　ウシテタロオカのようにする、ツユコキャア用いる）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01591.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01591",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01591.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "8303.70",
+      "8303.84",
+      "8304.66",
+      "8305.40",
+      "8305.76",
+      "8306.04",
+      "8306.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-92\n調査番号 202 S　地図番号 63\n項目名　ステル（失う）\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (37)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）{}は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n8303.70　5. <?> <オトシタ ウシ・オタを用う?く ウシテレは 知っていて気づすることだ>\n8303.84　1. <?> <ウシッル・ツゥユキャス いずれもい>\n8304.66　1. 但し, ujitsuruとして, 普通 母去形で ujitetaと言う\n8305.40　1. ujitsuruという\n8305.76　1. (但し, [ussuru]として。)\n8306.04　1. (　”　)\n8306.42　1. (sutsuruあるいはussuruという。 鍵を 紛失した時 dzeni, ussetaという)\n\n（下部：紛失した時 dzeni, ussetaという）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01592.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01592",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01592.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "8310.26",
+      "8310.87",
+      "8311.41",
+      "8311.59",
+      "8311.63",
+      "8312.33",
+      "8312.75",
+      "8313.72",
+      "8313.74"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　15-93\n質問番号　202 S　地図番号　63\n項目名　ステル（失う）\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(38)\n\n表ヘッダ：\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n1. ujitsut\n1. ussut\n1. ujitsut. suteru <共>\n1. ussut. suteru <標準語をまじえてしゃべるとき>\n1. [共] wssut を失う意味に使う。\n1. ujitsut\n1. [共]\n1. <ussetaという>\n1. <\"\" >",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01593.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01593",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01593.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "8313.88",
+      "8314.52",
+      "8315.42",
+      "8315.46",
+      "8315.89",
+      "8316.20",
+      "8320.59",
+      "8320.98",
+      "8321.58",
+      "8322.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-94\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n資料番号 202 S    地図番号 63\n項目名 ステル（失う）\nA 普通注記    [B 除いた共通語]    [C 除いた特殊語]    (39)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）\n8313.88　1. ＜但し, ussuiと言う＞\n8314.52　1. ＜ussuruと言う＞\n8315.42　1. （ただし, usuruという形で）\n8315.46　1　（ussuruという形で）\n8315.89　1　但し,/ussuru/と言う。\n8316.20　1　（ussuyuとして）\n8320.59　-　ucitsut\n8320.98　1　Ussuru\n8321.58　1　ussut\n8322.43　1　ucitsut",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01594.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01594",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01594.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "8322.68",
+      "8323.59",
+      "8324.26",
+      "8324.73",
+      "8325.03",
+      "8325.56",
+      "8325.77",
+      "8330.58",
+      "8331.12",
+      "8331.17"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙　注記一覧　15-95\n質問番号　地図番号\n202　S　63\n項目名　ステル（失う）\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　(40.)　ページ\n\n地点番号　A　語形とその注記　（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n8322.68　1. ussut\n8323.59　1. ussuiとして\n8324.26　1. (但し, ussuru, そう)\n8324.73　1. (但し, ussuiとして)\n8325.03　1. 但し, ussuruという形で\n8325.56　1.\n8325.77　1. ＜、＞\n8330.58　1. ussut\n8331.12　1. ”\n8331.17　1. ”",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01595.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01595",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01595.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "8331.98",
+      "8332.07",
+      "8332.42",
+      "8332.59",
+      "8332.84",
+      "8333.79",
+      "8333.92",
+      "8334.25",
+      "8334.63"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での情報は地点番号順に並べる。\n▸ 注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　15-96\n\n202 S　63\n項目名　ステル(失う)\nA　普通注記　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　(41.)\n\n地 点 番 号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n1. usseta　捨てた・おとした　両方の意味に使う\n1. ussut\n1. [共] ussutを失う意味に使う\n1. ussut\n1. ussut suteru <共>\n1. ussui; ussut\n1. ussutを失う意味に使う。　ただし、共通語的\nなステルは失う意味に使わない。\n1. 但し(ussuiという語形)\n1. (但し ussuru〜ussuiとして><紛失した)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01596.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01596",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01596.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "8335.05",
+      "8335.48",
+      "8335.83",
+      "8341.46",
+      "8341.94",
+      "8342.35",
+      "8342.51",
+      "8343.06",
+      "8343.74"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 15-97 質問番号 地図番号 202 S 63 A 普通注記 ページ (B 除いた共通語) (C 除いた特殊語) (4-2.) 項目名 ステル(失う) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 (B・C 残した語形とその注) 時は, ussetaという? 8335.05 1. (<ussuru>という表現で.) 8335.48 1. cussuru を使う) 8335.83 1. 但し, ussuruとして 8341.46 1. ussut 8341.94 1. ussut. suteru <失> 8342.35 1. \" 8342.51 1. ussut 8343.06 1. \" 8343.74 1. ussui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01597.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01597",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01597.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "8344.11",
+      "8344.71",
+      "8345.10",
+      "8345.18",
+      "8345.24",
+      "8345.74",
+      "8350.68",
+      "8351.07",
+      "8351.41"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での語は地点番号順に並べる。\n▸ 注記の< >()[]は厳密にする。\n日本言語地図資料用紙　注記一覧　15-98\n質問番号　地図番号\n202 S　63\n項目名　ステル(失う)\nA　普通注記　　[B　除いた共通語]　[C　除いた特殊語]　(43)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n8344.11　1. ussui suteru <失う>\n8344.71　1. ussut\n8345.10　1. ussuruとして\n8345.18　1. \"\n8345.24　1. 普通 / usseta / の形で出る。終止形は\n　　　　ussuruてある。\n8345.74　1. <但し, ussuruという>\n8350.68　1. ussut\n8351.07　1. \"\n8351.41　1. \" ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01598.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01598",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01598.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "8351.65",
+      "8352.29",
+      "8352.40",
+      "8353.63",
+      "8353.68",
+      "8354.14",
+      "8354.29"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。 その中での音順は地点番号順に並べる。 注記の< > ( )は厳密にする。\n日本言語地図資料用紙 注記−16-1\n質問番号 202 S　地図番号 63　項目名 ステル(失う)\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) （44.）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n8351.65　1. ussut\n8352.29　5. <ussut>という語があるが、それは紛失でなく\n　持ちうてることであろう（他の多くの地区と違う）実である。\n8352.40　1. ussut\n8353.63　1. [共]. ussutを失う意味に使う。\n8353.68　1. ussut\n8354.14　1. [共]. ussuiを失う意味に使う\n8354.29　1. ussuru・suteru <共> <ussuruはふだん\n1. suteruは共通語で-話すようなとき>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01601.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01601",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01601.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "8355.23",
+      "8355.62",
+      "8360.39",
+      "8361.28",
+      "8361.31",
+      "8362.34",
+      "8362.81",
+      "8362.58",
+      "8363.51",
+      "8363.64"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　16-2\n資料番号　地図番号\n202 S　63\n項目名　ステル(失う)\nA　普通注記　ページ\n[B]　除いた共通語\n(C　除いた特殊語)　(45)\n\n地点番号　A語形とその注記 (B・C除いた語形とその注)\n8355.23\t1. (ussuru という形で)\n8355.62\t1. \"\n8360.39\t1. ussut\n8361.28\t1. <共> ussui\n8361.31\t1. [共] ussut を失う意味に使う。\n8362.34\t1. [共]\n8362.81\t1. ussuru\n8362.58\t1. ussut  ussui\n8363.51\t1. ussut\n8363.64\t1. \"\n\nA注のない語形 [B・C 残した語形とその注]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01602.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01602",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01602.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "8364.33",
+      "8372.47",
+      "8372.87",
+      "8373.08",
+      "8393.69",
+      "9303.87",
+      "9312.42",
+      "9313.55",
+      "9322.52",
+      "0228.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での音標は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　16-3\n\n202 S   63\n項目名　ステル（失う）\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ（46 25）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n1. [共]\n1. ussut\n1. ussui\n1. ussut\n1. Fussuru Sutsuru <共> . ussuru\n1. ussuru\n1. ussit . ステル<共>\n1. ussuru\n1. ussut\n1. sitin",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01603.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01603",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01603.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "0237.79",
+      "237.74",
+      "0238.55",
+      "0246.48",
+      "0246.97",
+      "0247.31",
+      "0247.56",
+      "0248.00",
+      "0256.08",
+      "0256.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での音称は地点番号順に並べる。\n注記の< > ( ) [ ]は敬書にする。\n\n日本音語地図資料用紙 注記一覧 16-4\n（上欄の枠内）202 S   63\n項目名 ステル（失う）\nA 普通注記　（B 除いた共通語）　（C 除いた特殊語）　ページ（47 20）\n\n表見出し：地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n1. sutirjuri\n1. sitirjun\n1. sútirjun\n1. sutijum\n1. sutijum\n1. sitirjun\n1. sitijuri\n1. sitirun\n1. si'tirjum\n1. sitijum",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01604.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01604",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01604.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "0256.89",
+      "0257.12",
+      "0257.43",
+      "0294.66",
+      "1156.89",
+      "1167.01",
+      "1169.84",
+      "1223.91",
+      "1231.72",
+      "1231.88"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は略称にする。\n\n日本言語地図資料用紙　注記一覧　16-5\n資料番号　 地図番号\n202 S　 63\n項目名　ステル（失う）\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) （48）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n0256.89　1. S'itijum\n0257.12　1. su'tijum <共>\n0257.43　1. su'tijum\n0294.66　4. <共>\n1156.89　1. Siti:\n1167.01　1. tijun\n1169.84　1. ＜すてる＞に当る語形は Siti:N 又は hiti:N＞\n1223.91　1. ＜　＞　 Siti:N\n1231.72　5. ＜すてるは iwette:juV という＞\n1231.88　1. Siti:run\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01605.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01605",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01605.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "1232.29",
+      "1232.75",
+      "1241.05",
+      "1241.49",
+      "1241.96",
+      "1242.22",
+      "1250.59",
+      "1251.27",
+      "1251.73",
+      "1251.98"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。\nその中での番号は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　16-6\n\n質問番号　地図番号\n202 S　63\n項目名　ステル（失う）\n\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)　(49)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n1.　<くすてるに当る語形は hit:i:N>\n1.　<〃　〃　hit:i:N>\n1.　<〃　〃　hit'i:N>\n1.　<〃　〃　hit'i:N>\n1.　<Çitirun - すてる>\n1.　<くすてるに当る語形は hiti:ruN>\n1.　<〃　〃　ʃiti:N>\n1.　<ʃiti:Nという>\n1.　<くすてるに当る語形は ʃiti:N>\n1.　<〃　〃　hit:i:N>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01606.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01606",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01606.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "1260.78",
+      "1260.87",
+      "1261.70",
+      "1261.80",
+      "1270.26",
+      "1270.29",
+      "1271.05",
+      "1271.20",
+      "2074.69",
+      "2075.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙　注記一覧　16-7\n質問番号　地図番号\n202 S　63\n項目名　ステル（失う）\nA 普通注記　ページ\n(B 除いた共通語)　(C 除いた特殊語)　(50.)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n1260.78　1. くすてるに当る語形 (siti:N)\n1260.87　1. く　〃　(siti:N)\n1261.70　1. <siti:Nという>\n1261.80　1. (　〃　)\n1270.26　1. くすてるに当る語形は (hiti:N)\n1270.29　1. く　〃　〃　(siti:N)\n1271.05　1. [siti:N]という、紛失する・なくすの意。\n1271.20　1. hiti:N\n2074.69　1. <すてるに当る語形は sitirun>\n2075.22　1. <　〃　> sitirun",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01607.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01607",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01607.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "2076.25",
+      "2076.96",
+      "2076.97",
+      "2076.98",
+      "2076.99",
+      "2086.03",
+      "2095.60",
+      "2140.49",
+      "2140.96",
+      "2141.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での順序は地点番号順に従える。 注記の＜＞()[]は厳密にする。 日本言語地図資料用紙 注記一覧 16-8 質問番号 202 S 地図番号 63 A 常通注記 (B 除いた共通語) (C 除いた特殊語) ページ (51.) 項目名 ステル(失う) 地点番号 | A語形とその注記 (B・C除いた語形とその注) | A注のない語形 (B・C 残した語形とその注) 1. ＜すてるに当る語形＞ (sitin) 1. ＜” ”＞ (sitiŋ 又は sitiruy) 1. ＜”＞ (sitiruN) 1. ＜”＞ (sitirun) 1. ＜”＞ (sitiruy) 1. ＜”＞ sitiruy 1. ＜”＞ (ssirun) 1. ＜”＞ (sitti:) 1. ＜”＞ (sittiɫt>) 1. §1 ＜”＞ sitig>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01608.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01608",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01608.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "2141.71",
+      "2150.06",
+      "2150.07",
+      "2150.17",
+      "2151.11",
+      "2151.20",
+      "2151.51",
+      "2151.64",
+      "2151.67"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-9\n質問番号　202 S　地図番号　63\n項目名　ステル(失う)\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(52)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n2141.71　1.　〈すてる〉に当る語形は stt(j)j\n2150.06　1.　〈“〉　stt(i)j\n2150.07　1.　〈“〉　stt(iʔ)\n2150.17　1.　〈“〉　s t t i z ɿ>\n2151.11　1.　〈“〉　s t t i ɟ>\n2151.20　1.　〈“〉　s t t i ɟ>\n2151.51　1.　〈“〉　s t t i ɟ>\n2151.64　5.　〈捨てる意味の語は jagtてあるが、細状する意味もある〉\n2151.67　1.　〈すてる〉に当る語形は stt(j)i>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01609.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M063Q202/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01609",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01609.tif",
+    "source_ljc_id": "LJC-M063Q202",
+    "source_map_numbers": [
+      "063"
+    ],
+    "source_title": "ステルを“紛失する”の意味で使うか"
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "日本語語地図資料用紙　注記一覧　16-31\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n（右上小表） 質問番号　地図番号\n262　65\n項目名　しょう\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A語形とその注記\n0547. 70　katsuyu / souru　〈どちらとも使う〉\n1738. 19　oou / soru　〈両方言〉\n2772. 74　soru　〈共〉\n2793. 51　Fukadzigu（荷綱で背につけることを soruと言う）\n2812. 96　soru, katsunyu（soru は katsunyu と言うが katsunyu ことは / ou とは言わない）\n\n4598. 59　kan（古）　kadzuku\n4663. 92　o:　〈ショウはあまり使わない。新しいことば〉\n4668. 27　＊gikkatsunermu　はじめ / （ou といってあとで訂正した）\n4686. 96　kazukku　〈共〉　bu:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01631.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01631",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01631.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-32\n資料番号　262　地図番号　65　頁名　しょう\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2)\nA・(B)・(C) ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　A 語形とその注記\n4687. 01. katsuguu, joru\n(用法の差は不明だが joru が古い言い方で katsuguu が新しいものではなかろうか。)\n4695. 87 bui: <肥料桶を両肩に負うのも bui: という>\n4716. 72 so: (jou ではない。ほかの動詞も。omo: 酔う jo: のように o: である。)\n5564. 79 ninau, kadzukuu　両者同等\n5586. 70 seru. kadzukuu　2形並存\n5602. 99 sou. (多)\n5613. 80 sou (……いやすく、昔から使い、今も使う) sou (新)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01632.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01632",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01632.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-33\n資料番号 262   地図番号 65\n項目名 しょう\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は数箇所にする。\n\n地点番号    A 語形とその注記（B・C 除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n5615. 65    50:（共）                                      50:\n5623. 42.   sou （しょっていくは sotteku）\n5638. 54.   ショウ　〈多く使う〉                           セオウ\n5639. 13.   ショウ　〈多く使う〉                           セオウ\n5665. 89.   ショウ　〈少〉                                 セオウ\n5696. 68.   seou　〈改った言い方〉                        sou\n5740. 43.   ショウ　〈多く使う〉                           セオウ\n5750. 84.   ショウ　〈普通の言方で多く使う〉\n            セオウ　〈やや改まった言い方〉\n6287 42     karo:　〈打消は karowan〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01633.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01633",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01633.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "6459.87",
+      "6488.48",
+      "6494.08",
+      "6503.73",
+      "6516.10",
+      "6526.98",
+      "6542.58"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　16-34\n質問番号　262　地図番号　65\n項目名　しょう\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(4)\n\n地点番号　　A 音形とその注記　　　A 注のない語形\n\nセオウ　〈新.希〉　　　オウ\notasu　〈古〉　　　ou\nセオウ　〈共〉　　　オウ\nou. katsunui　双方同等に言う\nワイガケル（ワイガケルは本来は脱抑けることであるが　それを誤用しているという相談者の説明）\n〈オネル・ショウが正しいのであろう〉　　　オネル・ショウ\n\nカツグ　〈共〉　　　オイネル・ショガネル\nセタロー（古）・セタローは被詞調査者が子供の頃までは時々耳にしたことば　　　セオウ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01634.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01634",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01634.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6543.56",
+      "6553.22",
+      "6583.45",
+      "6601.93",
+      "6635.36",
+      "7338.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（　）は厳密にする。 日本言語地図資料用紙 注記一覧 16-35 資料番号 262 地図番号 65 項目名 しょう A 普通注記 (B 除いた共通語) (C 除いた特殊語) (5) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 6542. 71. seou settarakafite kure とはいう。 settarau とはいわぬ 6543.56. ワイガケル〈古〉 オウ 6553.22. oineru.〈子供は「オネ」荷物は「オイネル」のように区別がある。〉 6583.45 seou 〈多〉 settaradu 〈少〉 6601.93. seou 〈共〉 sou 6635.36 gitjou 車 jou 7338.48 karou (船着の渡海船の漕ぎ手(または着人?)は(し?)に karau, karatte と言っていた。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01635.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01635",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01635.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "▶ A・〔B〕・〔C〕ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[]は厳密にする。\n\n日本音韻地図資料用紙　注記一覧　16-36\n（欄）　質問番号　地図番号　項目名\n手書き欄：262　65　しょう\nA 普通注記　（B 除いた共通語）　（C 除いた特殊語）　（6）\n\n表ヘッダ：地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nkarau　〈古くからのいい方〉　ou. seow\nkaru:　〈優勢〉　karau\nkaru:　〈優勢〉　karau\nkatsugu (senakae katsugu)　seou\nkarumu　布　ou\nkarumu　〈oiko（背負い椎？）に nosetemo karumu〉 desu\nkaru:　（荷物のほとんどが背中に当るようなやり方ならば）　ou. beou\nkaru　〈なわをかけた場合〉　ou\nkaru:　（=ミツオ カルーチョル など）\now　〈すこし少い〉　seow\now　〈多〉　seow 〈少〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01636.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01636",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01636.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　16-37\n\n資料番号　地図番号\n262　65\n項目名　しょう\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)　(7)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7502. 91.　ow　〈多〉　seow　〈少〉　　ow\n7512. 43.　seow　〈共〉　　　　　　　　ow\n8306. 42.　karu:　〈昔からあり、多く使う〉　ou\n8325. 56.　seou　〈今は時たま使う〉　　　karu:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01637.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01637",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01637.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4706.84",
+      "5602.99",
+      "5620.30",
+      "6537.58",
+      "6591.57",
+      "6653.30",
+      "7229.75",
+      "7329.57",
+      "7501.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-38\n資料番号 262 地図番号 65\n項目名 しょう\nA 普通注記  B 除いた共通語  C 除いた特殊語 (1)\n\n地点番号\n4706.84.  sou 〈新〉\n5602.99.  sou 〈希〉〈くっかりして使う。 このことをきいているから、自然出る のだろう〉〈土地の人は一般にsouと言うのかもしれない〉  soul 〈心を多く用いる〉\n5620.30.  sou 〈新〉  kadzuku\n6537.58.  sou 〈共〉  / soko naru\n6591.57.  sou 〈日常語としては用いない。〉  settargu\n6653.30.  sou 希  ombu:\n7229.75.  karau 〈karo:te〉\n7329.57.  seow 上 karou 古  oun\n7501.14.  sou 〈日常生活語としては用いない〉  seow, ow\n\n（表内の注記や手書きの読み等をおおよそ転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01638.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01638",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01638.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 \nその中での語順は地点番号順に並べる。 \n注記の＜＞（）には厳密にする。 \n日本言語地図資料用紙　注記一覧　16-39 \n資料番号　262　地図番号　65 \n項目名　しょう \nA　普通注記 \nB　除いた共通語 \nC　除いた特殊語　(2) \n地点番号 \n7501. 68    low　（共）    settaraw",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01639.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01639",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01639.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本音声地図資料用紙　注記一覧　16-40\n質問番号 地図番号 262 65\n項目名 よう\nA 普通注記\n[B 除いた共通語]\n(C 除いた特殊語) (1)\n（表の見出し）地点番号　（B・C除いた語形とその注）　（残した語形とその注）\n\n2772. 74   Fukkageru   〈引掛けるの意〉        soru 〈共〉\n3767. 22   シッケジョエ   〈とも〉             ソウ\n4686. 96   sotte 〈共〉 連用形である。       bui: kazuku (笑)\n5569. 36   ビッカケル                  ヒッカケオネル\n5642. 67   kata kakeni suru             sou 〈どちらを使う〉\n5663. 64   do: jindzoi ni jou           jou\n5671. 00   kata ni sikkakeru. katayake ni suru   (OF)\n6379. 74   1セル （希）                オラ\n6413. 43   otorii                      O:\n6541. 52   セナカニオウ.                オウ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01640.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01640",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01640.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は散布表にする。\n日本言語地図資料用紙　注記一覧　16-41\n質問番号　262　地図番号　65\n項目名　しょう\nA　普通注記　(B　除いた共通語)　C　除いた特殊語　(2)\n（表ヘッダ）地点番号　A 音形とその注記（B・C 除いた語形とその注）\nkatakakepoi ni suru　〈くわしく言えば〉　sou\ngikakezoi　名詞形　jou\nkatae uchikakeru　seou\nsenaka e katsuguu　seou\nkaburu, maku　〈首に〉　OF\nkaku: tjoru　karau",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01641.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M065Q262/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01641",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01641.tif",
+    "source_ljc_id": "LJC-M065Q262",
+    "source_map_numbers": [
+      "065"
+    ],
+    "source_title": "しょう (包を背負う)"
+  }
+]

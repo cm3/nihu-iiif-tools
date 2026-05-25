@@ -1,0 +1,664 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0789.95",
+      "1863.48",
+      "0942.03",
+      "2785.31",
+      "2795.66",
+      "3701.70",
+      "3744.18",
+      "3774.44",
+      "3785.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　＞〈　〉［　］は厳密にする。\n日本言語地図資料用紙 注記一覧  53-03\n質問番号　地図番号\n項目名　穀 139\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (／)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nnuka' <多>　　　　　　　　　　　　komenuka\nコメヌカ <少>, コヌカ（むに:行くなどいう時） 又力\nnuka' <多>, komenuka （土手上 麦ぬか）\n\nkonuga <新>　　　　　　　　　　　　nuga\nkonuga <普通に使う>　　　　　　nuga\nkoyga <て..ね..に言えば konuga>\nコニガ、コスガ　この「こ・ゑ」はすこぶる（読み難い）\nヌガ <新>、サブズ <古>\nコノガ（これはコノガ＝今もたらん） サグズ の読みのときにだけ言う\n\n（注：手書き部分は判読困難な箇所あり。上はおおよその転記。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05303.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05303",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05303.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4619.29",
+      "4639.69",
+      "4678.71",
+      "4685.10",
+      "4685.32",
+      "4694.81",
+      "4695.33",
+      "4711.41",
+      "4712.54"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 53-04\n質問番号　地図番号　/72\n項目名　様 139　A 普通注記 （2）\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n4619.29 konogg <今も若も> konunga <人によ?>\n4639.69 konoka <普通> konuika\n4678.71 konuka <新> konoka\n4685.10 konuka <多く用いる> numka\n4685.32 konuka <多く用いる>\n4694.81 スカ 多く用いる\n4695.33 numka <numkamisoにする> komenunka\n4711.41 [konogd]\n4712.54 sakawddza <ち 粗> konukka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05304.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05304",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05304.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4721.36",
+      "4730.45",
+      "4731.42",
+      "4731.85",
+      "4742.85",
+      "4746.20",
+      "4760.64",
+      "4763.45",
+      "4772.68",
+      "4783.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-05\n質問番号　地図番号　1/72\n項目名　標 129\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( )[ ]は厳密にする。\n（表ヘッダ）地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n4721.36　[konugda]\n4730.45　konugda <新>\n4731.42　[konugda]\n4731.85　[konugda]\n4742.85　konuka <新><失>\n4746.20　sakoːdzut <ち>\n4760.64　[konugda]\n4763.45　sakudzum <ち>, komenuka <新>\n4772.68　sagudzum <新>\n4783.24　sagudzum konugza <やまい>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05305.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05305",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05305.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4784.41",
+      "4794.30",
+      "5579.42",
+      "5584.57",
+      "5594.02",
+      "5598.67",
+      "5604.52",
+      "5604.65",
+      "5613.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-06\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n質問番号 地図番号 172 普通注記 ページ\n項目名 様 179\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4784.41 konuka g2 <共>    sagutd zut\n4794.30 konukka <今>, sakudz u i <ち>\n5579.42 kotnuka <ち> <る>\n5584.57 nuka <178./179 ともに nukas>\n5594.02 konka 1 (筆記) nui ka\n5598.67 コメスカ <英>\n5604.52 konmuka <共>\n5604.65 スカ <...>\n5613.33 konoka <多く用いる>\n（手書き注記・読みは不確か、念のため原本参照）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05306.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05306",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05306.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5617.85",
+      "5624.05",
+      "5631.95",
+      "5653.08",
+      "5669.12",
+      "5672.62",
+      "5624.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-07\n質問番号 地図番号 /72\n項目名 糠 179\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (5)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5617.85  konuka <雑穀> からは konukda はな... awanuka など しれた ものだ >\n5624.05  konoka <くら(…)>  komenuuka\n5631.95  konokd <ち>  konuka\n5653.08  konuka <茅>  konoka\n5669.12  nüuka (言旁) Komenuüka\n5672.62  konuka <芥>  konoka\n5624.54  konoka < konuka と言わないで >",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05307.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05307",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05307.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5677.85",
+      "5678.33",
+      "5679.31",
+      "5679.86",
+      "5683.61",
+      "5685.02",
+      "5685.37",
+      "5687.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-08\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　項目名\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5677.85　コヌカ <普>　ヌカ\n5678.33　コヌカ <普> / コメヌカ　麦のヌカ、米のヌカ、小麦のヌカ\n5679.31　ヌカ　nüika　誘 komüika\n5679.86　nuka (荒) nuga　komenuga\n5683.61　コヌカ <新>\n5685.02　konukka <米は作らない>\n5685.37　konukka (手書き)\n5687.32　コヌカ <麦のヌカと区別して>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05308.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05308",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05308.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5690.12",
+      "5690.27",
+      "5697.86",
+      "5711.85",
+      "5720.71",
+      "5733.02",
+      "5740.16",
+      "5741.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-09 質問番号 地図番号 72 項目名 様 179 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (7)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）［］は厳密にする。\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n5690.12 konoka <くち> konuka\n5690.27 konuka <このテが正しい> konoka\n5697.86 nuka? <くわしく… えは [kome?nuka]> \n5711.85 komenuka <muyinmukaに対して> konuka\n(行) komenukaという>\n5720.71 ヌカ 普通 コメヌカ\n5733.02 Konuka <多く用いる> nuka\n5740.16 コメヌカ 多く使う ヌカ\n5741.66 Komenuka 大麦のとき muyinmuka 小麦なら ふすいま (手書き注記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05309.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05309",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05309.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5752.94",
+      "5780.11",
+      "5780.57",
+      "5782.25",
+      "6411.33",
+      "6820.58",
+      "6431.85",
+      "6436.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-10\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号 地図番号\n項目名\n\n普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5752.94    nuka <多> , 言語 konnuka\n5780.11    nüüga <普通> (言語) komenüga\n5780.57    nüüga (語) komenüga\n5782.25    nuka <総称>\navanuka <...>（筆記）\nkonuuka <あとがらゐるこまいもの>\n\n6411.33    ネカ <右>\n6820.58    ネカ <右>\n6431.85    ユヌカ これは米粟の意なりと\n6436.33    Romenuka (表記) nuka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05310.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05310",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05310.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6441.71",
+      "6449.20",
+      "6458.26",
+      "6466.01",
+      "6467.73",
+      "6476.17",
+      "6485.14",
+      "6485.82",
+      "6487.66",
+      "6494.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-11\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　/172\n項目名　穀　139\nA 通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (9)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nヌカ　もしくはチョオズヌカと言った。\nチョヌカ(米の?)　ヌカ\nコメヌカ <希>\nヌカ（ヌカと言えば米のヌカ、麦のヌカはムギヌカ） コメヌカ\nkomenuka <麦ヌカとこめ>\nヌカ（総称） コメヌカ（麦の場合ムギヌカ）\nヌカ <コメヌカ、ムギヌカとある。>\n同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05311.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05311",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05311.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6511.49",
+      "6511.85",
+      "6515.28",
+      "6521.20",
+      "6523.86",
+      "6536.32",
+      "6547.09"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-12\n質問番号　地図番号　/72　普通注記　ページ\n項目名　様 129\n[A]・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n6511.49　ヌカ　後で(69-1X-30)問合わせ?　補った（高田）\n6511.85　tfo:zunuka <kotu...> 手を洗うからか　komenuka\n6515.28　konka (konuka と...)\n6521.20　komenuka [新]\n6523.86　nuka / konuka\n6536.32　konmuka <よく用いる>　komenmuka\n6547.09　(ko)nuka <...> nukara\n\nけで完合通ずる",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05312.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05312",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05312.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6547.79",
+      "6566.6",
+      "6565.22",
+      "6568.09",
+      "6575.40",
+      "6576.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-13\n質問番号　地図番号　ク-2\n項目名　様 129\n（A）普通注記　（B）除いた共通語　（C）除いた特殊語\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6547.79 konuka（どちらも同じで。新古・上下）\nnuka などのこ別はない>\n6566.60 コメヌカ（ムギヌカと区別するときにいう）　ヌカ\n6565.22 コメヌカ〈特に詳しく言えば〉　ヌカ\n6568.09 komenuka〈muri nukkaと区別する語〉\nnur'ka' 〈多くこの語を用う〉\n6575.40 Konuka〈米のときのみ〉\n6576.32 komenuka〈玄米を同米にするときに〉\n（以降続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05313.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05313",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05313.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6586.27",
+      "6587.42",
+      "6591.02",
+      "6595.90",
+      "6600.97",
+      "6607.18",
+      "6607.84",
+      "6621.34"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号\n項目名　穀 179\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (✓2)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nkomenuka <必ずコメをつける。ムギヌカと区別するために。>\nメカ <特に麦のものと区別するとき コメヌカという>\nメカ（コメヌカともいう。）\nmuka <小米とヌカのまじったものをmenukaという>\nkonuka <麦> konoka\nko'nuka <くち> nuka\n[nuka] <麦ヌカなどを含む>\n[konuka] <米のぬかのみを言う>\nkonuka <コメヌカっていうことだな>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05314.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05314",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05314.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6621.94",
+      "6623.53",
+      "6624.13",
+      "6624.65",
+      "6625.17",
+      "6626.06",
+      "6626.46"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞(・)［］は厳密にする。 日本言語地図資料用紙 注記一覧 53-15 質問番号 地図番号 1/72 項目名 普通注記 A [B 除いた共通語] [C 除いた特殊語] ページ (／3) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6621.94 konuka (ただ・nukaとはいわぬ) 6623.53 konuka (nukaはむずぬかのこと。米を作らず・ひぎ・あわを作る) 6624.13 nunka 米・麦などのものの総称 komenuka 6624.65 konuka 多く言う komenwuka 6625.17 komenuka 新 konuka 6626.06 konuka ([komenuka]の意味の(表現)…) 6626.46 konuka' (昔話に多量の…)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05315.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05315",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05315.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6631.05",
+      "6631.69",
+      "6633.27",
+      "6633.33",
+      "6633.89",
+      "6635.36",
+      "6635.54",
+      "6636.62",
+      "6641.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-16\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n質問番号　地図番号　172\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n項目名　糠\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nkonuka <細かいヌカ>   komenuka\nkonuka   komenuka\nnuka   konuka\nkomenuka = nuka 「こめぬかだけ」 konuka\nnuka  むぎは muhinuka  (手書き注記、判読難)\nkonuka   nuka\nkonuka 来のぬかだけ　nuka\nnuka <くさ> konuka\nnuka 無。 konmuka\nKomenuka\n61.-9-24\n発言のハガキで訂正\n(手書き注記多数、上は概略の読み)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05316.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05316",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05316.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6641.82",
+      "6642.33",
+      "6642.85",
+      "6643.16",
+      "6643.32",
+      "6645.37"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 53-17\n質問番号　地図番号\n項目名\n様 139\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6641.82  nuka <米のぬかにも、麦ぬかなどを含めた 総称と/という>\n6642.33  nuka　最も多く使う　konmuka, komenuka\n6642.85  nuka　麦 nuka をこゝ引するともき komemuka\n6643.16  komuka や　nuka\n6643.32  komuka nuka はじめむぎの総称\n6645.37  nuka <ふつからもぬかも nuka という> konmuka <たまにぬかとする例>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05317.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05317",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05317.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6645.62",
+      "6646.23",
+      "6650.70",
+      "6650.79",
+      "6651.64",
+      "6652.06",
+      "6652.77"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-18\n質問番号　地図番号　項目名\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n手書き（抜粋）:\nkomenuka <希>    nuka\nkonuka <むぎぬかと区別する必要のとき>\nnuka <くっつう>\nkonuka <希>\nnuka （コメヌカのこと）\nkonuka\nnuka　最も普通に使う　komenuka, konuka\nnuka　コメのヌカだけにいう。\nkonuka mujin nuka など",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05318.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05318",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05318.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6653.30",
+      "6655.51",
+      "6655.87",
+      "6655.97",
+      "6656.31",
+      "6661.02",
+      "6662.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-19\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > ( ) [ ] は厳密にする。\n質問番号 地図番号 1/72 項目名 (穂) 179 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\nkomenuka 特にムギのスカと区別するとき nuka\nkomenuka <希>\nnuka <半ぬか及び総称>\nkomenuka <mujinuka と区別する>\n必要のあるときだけ\nkomenuka 細か…方のヌカ (被調査者)\nnuka は精米業をやって…た)\nnuka (麦のときだけは特に mujinuka という)\nkomenuka <希> nuka\nkomenuka 上 komenuka, nuka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05319.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05319",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05319.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6665.25",
+      "6711.16",
+      "7239.24",
+      "7246.82",
+      "7269.51",
+      "7279.93",
+      "7329.57",
+      "7330.91"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-20\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n（上部枠）　質問番号　地図番号　/172\n項目名\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (18)\n\n地 点 番 号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n6665.25　komenuka <上>　　　　nuka.\n6711.16　komenuka <普>　　　　komenuka\n7239.24　teyka <ち> <麦のようにすぐれているから浜といふ>　nuka\n7246.82　ko'menuka <ち>　　　　nuka\n7269.51　nuka (麦の場合にも言い得る?)　Komenuka 米の場合に限(る?)\n7279.93　nuka <konuka, aranukari: ...>\n7329.57　komenuka　　　　komenuka\n7330.91　teyka -yka -nuka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05320.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05320",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05320.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7332.52",
+      "7340.24",
+      "7341.42",
+      "7341.51",
+      "7342.72",
+      "7350.2"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-21\n質問番号 地図番号 /72 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (19) 項目名 謹 199\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）[ ]は厳密にする。\n\n地点番号  A語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n7332.52  fozumoko (手水の粉である。昔 komenuka)\n7340.24  サクヅ  sakudzu (ツの場合、まつ?)\n7341.42  ヌカ (ぬかは又を包んであか 落しに使った)\n7341.51  sakudzu <ち> ぬか\n7342.72  sakuzui <ち>\n7350.2   サクツ (糠はという時はサクヅァと なる>)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05321.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05321",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05321.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7351.09",
+      "7353.61",
+      "7355.81",
+      "7356.55",
+      "7356.70",
+      "7361.17",
+      "7370.16",
+      "7373.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-22\n質問番号　地図番号　(72)　普通注記　ページ (20)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7351.09 tenoko (手の粉の意か)\n7353.61 konka (小ぬか)(糠米糠の意か)　テンカ\n7355.81 +foizunuka (もとに糠顔に使ったから)\n7356.55 nuka (この地方の農民はコヌカ)\n7356.70 komenuka (こめぬかというのがようう)\n7361.17 コメヌカ <新>\n7370.16 tenka <特に米糠へ=も> nuka\n7373.92 コヌカ (<やっち?>)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05322.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05322",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05322.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7375.30",
+      "7375.37",
+      "7392.33",
+      "7394.60",
+      "7404.12",
+      "7404.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-23\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　><( )[ ]は厳密にする。\n\n質問番号　地図番号　/72\n項目名　様　139\n普通注記　[A]\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (2/)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7375.30 konuka (この場合は、この方がぴったり n u k a)\n(り(た答のようである。))\n\n7375.37 nukka <通釈として使う> konuka\n\n7392.33 ユヌカ { (同)(にく昔から使っている) }\n\n7394.60 コヌカ <すぐから語。(掌銘でもある)> フキヌカ、ヌカ\n\n7404.12 komenuka (米のぬかであることを nuka)\n\n7404.56 nukka [参考] +o:zu-nu-nukka\n(布袋に入れて湯に入った時に体を洗うのに使ったものを言っていた。)\n—夫人の談—",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05323.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05323",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05323.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7416.36",
+      "7436.40",
+      "7451.22",
+      "7500.66",
+      "7503.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-24\n質問番号　地図番号　122　項目名　様 139\n普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (22)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nkonemuka <む,?>\nko~nuka. <新?>\nnuka\nnuka　メガ糠の内にと来るものを mezaki という。\nkonuka <む>\nヌカ　（普通のときはヌカの方を用う）\nコメヌカ　コメヌカは麦のヌカと区別する意味\nkonuka <麦のぬかは「ムギヌカ」> という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05324.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05324",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05324.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7510.18",
+      "7521.16",
+      "7523.30",
+      "7533.11",
+      "8239.31",
+      "8300.11",
+      "8302.55",
+      "8302.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-25\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >〈 〉[ ]は厳密にする。\n質問番号 地図番号 普通注記 A [B 除いた共通語] [C 除いた特殊語] ページ (23)\n項目名 様 129\n（表ヘッダ） A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\nコンコヌカ〈漬物用にするとこらから〉　コメヌカ\nコメヌカ〈て･･･ね･･･にいう形〉　ヌカ\nコメヌカ〈ムギヌカがあるから･･･〉　ヌカ\nコメヌカ〈特に･･･ぎヌカと区別するとき〉　ヌカ\nkopuka〈希〉　kopuka\nコヌカ／コヌカ（米）〈総称は〉　ヌカ\n(？)ゲンマイスカ〈アワヌカ・ムギヌカ・ゲンマイ ヌカ〉　ヌカと区別していうことが多い\n〈？〉 コヌカ　コメヌカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05325.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05325",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05325.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "8303.67",
+      "8322.43",
+      "8323.59",
+      "8361.28",
+      "2150.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-26\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n\n質問番号　地図番号\n項目名　穀 179\n（A）普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n8303.67　ヌカ [niika]\n8322.43　konka <くち> (=にぬがの義)　nuka\n8323.59　gemmdi nuka <新>　nuka\n8361.28　konuka <や・改まる>　koyka\n2150.07　Puki <「ぬみがら」も「ぬか-」という>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05326.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05326",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05326.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5602.99",
+      "5613.33",
+      "5661.68",
+      "6649.2",
+      "6546.73",
+      "6575.40",
+      "6634.07",
+      "6652.30",
+      "2342.72"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-27\n質問番号 地図番号 172\n項目名 糠 139\nA 普通注記  B 除いた共通語  除いた特殊語  ページ ( / )\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n5602.99  nuka2 (はじめ nukaと答え後で訂正した)  konuka\n5613.33  nuka <希>  konuka <多く用...>\n5661.68  nuka <希> <漬物をするときに限って>  konuka\n6649.20  ﾅｷﾇｶ 〈麦の〉  チョヌカ(糠)力\n6546.73  [konuka という]  konuka\n6575.40  nuka <妻などのときには>  konuka <米のきのみ>\n6634.07  nuka 希  konuka\n6652.30  nuka 新  konuka\n2342.72  nuka <新>  sakuziü <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05327.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05327",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05327.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7376.15",
+      "7392.96",
+      "7393.62",
+      "8303.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-28\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉(　)［　］は厳密にする。\n（右上表）質問番号　地図番号　1/72　A　普通注記　ページ\n項目名　様　179\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n手書き欄（左から）\n7376.15　N R\n7392.96　ヌカ　〈新〉\n7393.62　同上\n8303.84　ヌカ　〈新〉\n右欄手書き：（コメヌカ）　コヌカ　同上　コンカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05328.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M172Q179/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05328",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05328.tif",
+    "source_ljc_id": "LJC-M172Q179",
+    "source_map_numbers": [
+      "172"
+    ],
+    "source_title": "ぬか (糠)"
+  }
+]

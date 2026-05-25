@@ -1,0 +1,372 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "2608.90",
+      "2734.05",
+      "2750.44",
+      "2765.66",
+      "2771.83",
+      "2775.45",
+      "2784.63",
+      "3609.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-21\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n資料番号 地図番号\n277 003 015\n項目名 カジ\n(A)普通注記 (B 除いた共通語) (C 除いた特殊語) (1)\n\n地点番号　A 語形とその注記〔B・C 除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\n\n2608.90  kwa zida (三度発音したが、すべてkwaであった。)\n2734.05  kaːzida (3回発音する間に2回は、kwaːziːda / kaːziであった。)    kwaːziːda\n2750.44  kwaːnziːda\n2765.66  kwandziida (wやや弱い)\n2771.83  kwandzii (w かすか)\n2775.45  kwandziida (w 弱し)\n2784.63  kwandzii  wかすか\n3609.17  kwandzi-da, [w]かすか",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00121.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00121",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00121.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3701.49",
+      "3724.20",
+      "3754.13",
+      "3765.03",
+      "3782.71",
+      "4678.77"
+    ],
+    "other_text": "日本音韻地図資料用紙 注記一覧 1-22\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記のく < > ( ) [ ] は厳密にする。\n調査番号 277 地図番号 003 015 項目名 カジ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (2)\n地点番号　A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n3701.49 kʷandzi da [w]弱い\n3724.20 kʷadzi da （くりかえさせると、wが弱く入る。）\n3754.13 カズダ （ワの音少しあり）。kʷa と認める。\n3765.03 カズダ （ワの音がないようである。）\n3782.71 kàdzi, kwadzi なるべきだが、これは「カジ」だと言う。\n4678.77 kadzjida （2回目に答えるともよく言う。Kwadjida。自然の発音では意外に...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00122.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00122",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00122.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4711.82",
+      "4716.72",
+      "4648.04",
+      "4744.32",
+      "5517.57",
+      "5641.07"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 1-23\n資料番号 277　地図番号 003　015\n項目名 カジ\n(A 普通注記) (B 除いた共通語) (C 除いた特殊語) (3)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nw音がほとんどひびかなかった。\n4711,82 kadziura (r2はダの訛とり)\n4716,72 kadzida (隣部落の名足の及川源十郎氏を別に訪問すると、kwaʔdziであって、舟の“舳”とは区別があった。)\n4648,04 [kwadzjida]\n4744,32 kaʔdzida (舟の“舳”と全く同音。)\n5517,57 kwazija <共>\n5641,07 kwazida",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00123.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00123",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00123.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5690.12",
+      "5732.73",
+      "6287.42",
+      "6369.37"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本音韻地図資料用紙 注記一覧 1-24 質問番号 277 地図番号 003 015 A (普通注記) [B 除いた共通語] [C 除いた特殊語] 項目名 カジ (4)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5690.12  kwazida　(kaziとも言っている)(被調 直者の反応は、この語に限って kwazi)\n5732.73  katji / kadzida　(はじめカチとしか言いついてカジダと答えた)\n6287.42  kwaʒi　(この場合はkwaよりも kʷaとすべきか。)\n6369.37  カジダ／カジジャ／カジジャ　カジンダ、カジンジャとも言うのが不明瞭。改まると、ジャが普通である。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00124.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00124",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00124.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6405.95",
+      "6414.25",
+      "6439.17",
+      "6477.02",
+      "6482.75",
+      "6485.46",
+      "6501.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　1-25\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n質問番号 297　地図番号 003 015\n項目名　カジ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6405.95 kazida　(クワジとはならなかった。)\n6414.25 kwazi　(古)\n6439.17 kaziza　<このような緊急な時は -ja より -za の方が多いし普通だろう。>\nkazija　<少し改まると、-jaと言う。>\n6477.02　カッジャ　<これは急いで激した言い方> カジジャ\n6482.75　Kazi.za\n6485.46　クゥ ジャ　<急いで激していう時、こうなる> クゥ ジジャ\n6501.86　カジヤ　<やや多>　カジジャ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00125.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00125",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00125.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6521.20",
+      "6526.98",
+      "6547.79",
+      "6551.77",
+      "6552.90",
+      "6553.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-26\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉〈〉( ) は厳密にする。\n資料番号 277   地図番号 003 015   ページ (6)\n項目名 カジ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]\n地点番号　A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n6521.20  kazi （「ダ」の部分を聞くのを失念した）\n6526.98  カジダ 〈カジヤというと、かじ屋さんとまちがうから。〉\n6547.79  kwaze 〈古〉〈80,90以上の老人にこのkaziように言う人がいる。〉\n6551.77  kazi ja （/kw/の音なし）\n6552.90  kazi ja 〈「クヮ」の発音はしない。〉\n6553.52  kwazi ja （〔kw〕の音は、この語においてのみ聞かれた。喧嘩、外国などには、聞かれず。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00126.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00126",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00126.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6554.88",
+      "6572.04",
+      "6580.06",
+      "6584.90",
+      "6591.57",
+      "6592.35",
+      "7208.97",
+      "7246.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n277 003 015\nカジ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\nkazija （野村では kwazija）\nkwazjja （「クヮジヤ」が「クワッジャ」となる）\nクヮジヤ\nkwadiza. dは舌先が上歯茎の少し奥にあかる発音。\nkwazi za （kwaは時に k2 となる。）\nkwazi da ＜日常使用語ではない。＞\nkwazija （/kw/あり。）\n*kwazi bai\nkwazɛ 同島神の浦では、kwai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00127.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00127",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00127.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "7268.87",
+      "7303.17",
+      "7313.34",
+      "7313.68",
+      "7321.87",
+      "7324.24"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜　＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧　1-28\n\n質問番号　地図番号\n277　003　015\n項目名　カジ\n(A) 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (8)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7268.87　kazi　〈内海の村松あたりでは kwaziと言う。〉\n7303.17　kazidza　（kwaでない）\n7313.34　kadzidza　（kwaでない語頭音）（ʒiでなく、dʒiである。）\n7313.68　kʷadziʒa　（この人はkʷaと出た。）\n　　　　（dを軽く伴っている。）\n7321.87　kazi　（だを聞きおとし。）\n7324.24　kaʒiʒa　［語頭音のでkʷaと出れ、ziでまく軽い破裂音dを伴っている。］",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00128.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00128",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00128.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "7351.06"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-29\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n質問番号　地図番号\n277　003 015\n項目名　カジ\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n(9)\n\nA 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nkazi 3a 　3aも同様. (菓子、貨物などもともれすねてみれ が、kwaではよかった、)\nkazi 3a\nkwa 3i 3a\nkazi 3a\nkwa 3i d3a, 下線は軽い唇音を伴う。\nkwa3i no jakejoru, 下線は軽い唇音を伴う。\nkwazi 3i, kwa2 促音　○…T O K シルス",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00129.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00129",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00129.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7382.01",
+      "7382.93",
+      "7383.98",
+      "7391.94",
+      "7392.45",
+      "7400.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-30\n（左上箇所）277 003 015\n項目名　カジ\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(10)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n（指定辞は出ず、名詞形による陳述法のみが用いられん。）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）\n\n7382.01  kʷazizo  <タ?>\n7382.93  kwazi zo: 、線上。弱い音。\n7383.98  kwazi daa →（？）\n7391.94  kwa:ji dza 〈希〉\n7392.45  kwazi ... 3i ○ － TOKシルス\n        kwa2 ... （促音）\n7400.11  kʷazi （kwaほどに w音が強く長いが ka ではない。）\n\n右欄注記：kʷazida\n　　　　kwa:zi zo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00130.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00130",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00130.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "7401.60",
+      "7401.92",
+      "7403.86",
+      "7412.31",
+      "7420.91",
+      "7430.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧    1-31\n\n質問番号 277\n地図番号 003 015\n項目名 カジ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]\n\n（表の見出し）\nA 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\nkazi 3a （火事、貨車、菓子などでも聞いてみたが、みなkaziで、kwaではない。）\nkwa zi\nkwazi 3a 古\nkwa zi 3a （これは明瞭にkwa音である。）\nkazi 3a\nkazi da （観音経、菓子などでも聞いてみたが、kwaは聞かれなかった）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00131.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00131",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00131.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "7430.15",
+      "7431.13",
+      "7503.48",
+      "8302.91",
+      "8311.59",
+      "8324.83"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 1-32\n資料番号 277   地図番号 003 / 015\n項目名 カジ    A 普通注記  (B 除いた共通語) (C 除いた特殊語)  ページ (12)\n\n(表ヘッダ) 地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A注のない語形 [B・C 残した語形とその注]\n\nkazi 32.\nkazi 32 (kwa音は他にも多いらしい)\nkwazi (これだけはkwaと発音する。再度調べたいが)\nKwaʒi 〈ということもあるかも知れない〉 kazi\nいずれにしても w は古い。\nkwazi zo: (希)    kwazi za / kwazi bai\nkwazi za kwazza -> zi の中へ入れる。加藤シルス\nkwaji dza (kwa, gwa の音は、明日要で）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00132.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00132",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00132.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "8334.63",
+      "8360.39",
+      "0246.48",
+      "8352.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 1-33\n質問番号 地図番号\n277 003 015\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (13)\n項目名 カジ\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nある。kwaziではなく.kwafiである。)\n\n8334.63  kwazi dza（クワ、グワの音は、はっきりと出る。）\n\n8352,92  kʷaliza\n\n8360.39  kʷasi jat（ゆっくりと発）\n        kʷazizat（早めの発音）\n\n0246.48  'kwaddo（上のを侮めていうわけ）\n-下、TOKシルス\n\n'kwaji do: 3in注. TOKシルス.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00133.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00133",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00133.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "1223.91",
+      "1232.75",
+      "1242.22",
+      "1251.98",
+      "2067.52",
+      "2072.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 1-34 質問番号 277 地図番号 003 015 項目名 カジ A 普通注記 [B 除いた共通語] [C 除いた特殊語] (14) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 1223.91 kwadzi（名詞だけで言って、指定の助動詞はつけない。） 1232.75 ?kwazi 1242.22 k'wadzi: （？）（体言だけで言う）（新しい言葉） 1251.98 hi: jando: （火だぞ） 2067.52 ja:nu muja:ru ＜家が燃えるッ＞ 2072.20 tji do: ＜火だッ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00134.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00134",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00134.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5517.57",
+      "6552.46",
+      "7208.99",
+      "7403.86",
+      "1148.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <> () [] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 1-35\n\n質問番号　地図番号\n277. 003/015.\n項目名　カジ\nA　普通注記　(除いた共通語)　(除いた特殊語)　ページ (1)\n\n地点番号　A 音形とその注記 [B・C除いた音形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5517.57　jakeja.　kwazija <共>\n6552.46　kazi ja <新>　kwazi ja.\n7208.99　kazi bai　* kwazi bai\n7403.86　kazi za 新　kwazi za 古.\n1148.59　fo:hai　kwadzido:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00135.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M003Q277/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00135",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00135.tif",
+    "source_ljc_id": "LJC-M003Q277",
+    "source_map_numbers": [
+      "003",
+      "015"
+    ],
+    "source_title": "カジ (火事)"
+  }
+]

@@ -1,0 +1,1084 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.12",
+      "0779.03"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙　注記一覧　34-17 資料番号　地図番号　/ 128 項目名　くるぶし　233 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (1) ページ 地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） * ku'roboʔji 〈内側は utji kurobosi 外側は sotokurobosi〉 ku'ruːbusi {内側は utji kurumubusi 外側は soto kurumubusi} ku'rūːbusi [kurobosi ともいうか 〈内外を区別しない〉 kurumubusi の方が多い] ku'rūbusi {内 — utji 'kurumbuːji' 外 — soto kurumubuːji} ku'roʔbumgi 〈内、外を区別しない〉 kurokobosi 〈同上〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03417.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03417",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03417.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 註記 一覧 34-18\n質問番号 地図番号 128\n項目名 くるぶし 283\nページ (2)\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に記入する。\n註記のく<>（）は厳密にする。\n見出し: 地点番号 / A 語形とその註記（B・C 聞いた語形とその註記） / A 注のない語形（B・C 残した語形とその註記）\n\nkurobosi（総称） utsi kurobosi / soto kurobosi\nkurimbusi（総称） utsi-kuribusi; soto-kuribusi\nsoto kobusi（外） utsi kobusi（内）\nkobosi { … } あり\nkuroposi udzi— / sodo— あり\nkurobutsi 同上\nkurobusi 同上\nTok. 注 もう一枚カードがあって、kurobosi（内）udzi—、（外）sodo—",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03418.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03418",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03418.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-19\n質問番号  地図番号 128\n項目名 くるぶし 283\nA 普通注記  B 限いた共通語  C 限いた特殊語  （ページ 3）\n見出し：地点番号／A 語形とその注記（B・C 限いた語形とその注）／A 注のない語形（B・C 限した語形とその注）\nA欄記入例：\nkūrobosi' {utsi— / sodo—}\nkūrokobosi' {tudzì— / sodo—}\nkūrokobosi' {ツチ—} あり\nkurokobosi' {udzi— / sodo—}\n同 上\n同 上\nkūrokobosi' {ツィ— / ソドー} とあり\nクロゴブス\nkūrokobosi' {ツィグ—}\n同 上\n注意：A・〔B〕・〔C〕ごとに別表を使用する／その中での情報は地点番号順に並べる／注記のく＜＞（）は省略にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03419.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03419",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03419.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3765.03",
+      "3767.18",
+      "3767.22",
+      "3771.97",
+      "3782.38",
+      "3790.27",
+      "3791.02"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　34-20\n資料番号　地図番号　128\n項目名　くるぶし 233\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (4)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > () [ ] は厳密にする。\n\n（表の見出し）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nクロゴボス　<特に内外の区別なし>\nkobusi { (soto 'kobusi' <古>) (soto 'pono' <新>) mutsî 'kobusi'\nウズ コブス　<内側も外側も>\nkuirokobosi { sodo 'wudzi'—— } と同者の2別あり。\nkũrokobosi ウチー、ソトー、あり。\nkuttrokobosi { wdzi—— { sodo——\nkuroyomosi (M) kurobusi\nutsgkurobusi しは\n特に大切で、（虫にさされても）ならないと 古い伝える。\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03420.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03420",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03420.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料調査用紙 語彙一覧 34-21\nA・〔B〕・〔C〕ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は注釈にする。\n質問番号／地図番号 128\n項目名 くるぶし\nA 普通語（B 除いた共通語 C 除いた特殊語） ページ（5）\n表見出し：地点番号／A 語形とその注記（B・C欄とその注）／A 法のない語形（B・C 残した語形とその注）\n記入例・語形など：\nright欄: kurobusi\nA欄: torikubi ＜古＞\nkuroppunsi（自然な発音）\nkurobusi ＜内・外の別がある＞\nkurobunsi … ＜utsi―／soto―＞\nkurobusi\nkurokobusi ＜うち〜 と そと〜 という＞\nkurobunsi（内くろこぶし・外くろぶし と別）\n（調査し忘れ）\nkofo kobusi ＜utsi―、soto― と区別＞\nkōbusi ＜外 soto―、内 utsū―＞",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03421.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03421",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03421.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 34-22\nA・(B)・(C)ごとに調査を使用する。\nその中での順序は地点番号順に並べる。\n注記の＜＞（）は注記にする。\n\n質問番号／地図番号　地点番号(128)\n項目名　くるぶし　238\nA 普通語注記（B 除いた共通語／C 除いた特殊語）\nページ (6)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n\nkôbusti（内…utsi〜，外…soto〜）\nkobusti ＜総称＞ utji kobu(si) ＜内くるぶし＞／soto kobu(si) ＜外くるぶし＞\nkurokobosi ＜総称であると共に、外くるぶしの名称である＞ ＜内側のくるぶしを特に言う場合は utsu kobosi である＞\nkôbusti ［外は soto kobusti］［内は utsuto kobusti］\nkumobposi ＜内、外… utsuto〜，soto〜＞ これは（他項目）と同音語である。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03422.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03422",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03422.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-23  質問番号／地図番号 128  A 普通語  項目名 くるぶし 238  ページ (7)\n・A・[B]・[C] ごとに別紙を使用する。  ・その中での情報は地点番号順に並べる。  ・注記のく＜＞（）は注線にする。\n見出し：地点番号／A 語形とその注記（B・C 該当した語形とその他）／A 注のたい訳等（B・C 残した語形とその他）\n47 42.95: kōbusi（総称は kobusi か） soto —— ＜外くぶし＞  utsi —— ＜内くぶし＞\n47 44.10: korobosi ＜？＞  ことどろうの発音でもよい  kurumpusi ＜？＞\n47 44.32: kobu（ただ kobu とだけ言う。総称は前と同じ）  soto kobutt・utsi kobutt ＜外くぶし＞＜内くぶし＞\n47 46.20: kobun ＜？＞\n47 52.1: kuroboji uts ——（内くぶし）  soto ——（外くぶし）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03423.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03423",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03423.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4761.93",
+      "4762.56",
+      "4762.90",
+      "4771.98",
+      "4773.70",
+      "4780.26",
+      "4780.60",
+      "4781.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-24\n資料番号　地図番号　/128\n項目名　くるぶし　283\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nkibisū　＜内キビス、外キビスも使う＞\n\nkibisū　＜ウナキビス、外キビスなどと言って2別することもある。aguto（かかと）とは違う＞\n\nkibisū　＜内キビス、外キビスを使う＞\n\nkibisū　（外キビス、内キビスを2別する）\n\n同上\n\n同上\n\n同上\n\nkibisū　＜2別する時は外キビス 内キビスのようにいう＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03424.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03424",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03424.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4783.38",
+      "4790.30",
+      "4791.12",
+      "4791.39",
+      "4791.61",
+      "4791.65",
+      "4792.80",
+      "4793.41",
+      "4794.30"
+    ],
+    "other_text": "日本言語地図資料用紙 記述一覧 34-25\n▶ A・(B)・(C)ごとに用紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＜＞（）は厳密にする。\n質問番号／地図番号 128\n項目名 くるぶし 283\nA 普通語注記（B 除いた共通語）（C 除いた特殊語）\nページ 9\n見出し：地点番号／A 語形とその注記（B・C 除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注）\n1行目: kibisuu ＜内キビス、外キビスも使う＞\n2行目: 同上\n3行目: 同上\n4行目: 同上\n5行目: 同上\n6行目: kibisuu ＜区別する所はウチキビスという＞ ソトキビス\n7行目: kibisuu ＜同上＞\n8行目: kibisuu ＜同上＞\n9行目: 同上\n10行目: NR ＜言わない。足首のことをクリリと言う＞",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03425.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03425",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03425.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5463.64",
+      "5499.98",
+      "5517.57",
+      "5567.46",
+      "5577.06",
+      "5595.89",
+      "5598.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-26\nA・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<>（）は厳密にする。\n資料番号　地図番号　128\n項目名　くるぶし 238\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (10)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C　残した語形とその注）\n\n5463.64　N.R.　<関節（足首）をクリリンと言うだけで　あまり言わない>\n5499.98　リブリムシ。由来は不明である\n5517.57　kurobōsi　o＝狭い方\n5567.46　クロブシ（総称）　ウチー、ソトー\n5577.06　コブラ　<ウチー、ソトー>\n5595.89　同上\n5598.67　クルブシ（総称）　ウワクルブシ、ソトクルブシ　（内くるぶし）（外くるぶし）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03426.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03426",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03426.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5606.83",
+      "5607.17",
+      "5608.16",
+      "5609.81",
+      "5615.20",
+      "5619.67",
+      "5624.05"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の<>()[]は厳密にする。 日本言語地図資料用紙 注記一覧 34-27 資料番号 地図番号 128 項目名 くるぶし 233 A 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 5606.83 kurumi (総称で、外は sotokurumi 内のは utsjikurumi という) kurobusi (「kurumiのすぐ下の軟かい関節の部分まで含むのではあろうか」と報調査者は考えている。内側、外側のを統統して言う。) 5607.17 kurobuji（内クロブシ、外クロブシを分ける） 5608.16 同上 5609.81 同上 5615.20 kurumi 総称 utsjikkurumi sotokkurumi 5619.67 キビス ＜ウキビス、ソトキビス　2別あり＞ 5624.05 kurumi 総称",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03427.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03427",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03427.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 記述一覧 34-26\n質問番号／地図番号／ページ　128／(12)\n項目名　くるぶし 238\nA 普通語注記（B 除いた共通語）（C 除いた特殊語）\nA・(B・C)ごとに別紙を使用する。／その中での情報は地点番号順に並べる。／注記のく<>()は厳密にする。\n地点番号　A 語形とその注記（B・C除いた語形とその注記）　A 注のない語形（B・C残した語形とその注記）\nクルブシ〈総称。ソトクルブシとウチクルブシもある。〉\nkurumi〈nakayurumi, sotonyurumi〉\nクルブシ〈ナカクルブシ、ソトクルブシの区別あり〉\nキビジョ?〈ウチキビジョ、ソトキビジョの区別あり〉\nkurumi (sotonyurumi, utsinyurumi)\nkurumi 同上　　kurubusi\n同上／同上／同上",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03428.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03428",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03428.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5647.27",
+      "5651.45",
+      "5651.95",
+      "5652.37",
+      "5652.81",
+      "5653.08",
+      "5653.65",
+      "5654.98",
+      "5655.41"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）{}は注釈にする。 日本言語地図資料用紙 記入一覧 34-29 質問番号　 地図番号 128 項目名 くるぶし 238 A（常通語） B（除いた共通語） C（除いた特殊語） ページ（13） 見出し：地点番号／A 語形とその注記（B・C 除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記） 記入例： クロブシ（ウチクロブシ／ソトクロブシ） kurumi（utsigururumi／sotogurumi） 同　上 同　上 同　上 同　上 同　上 同　上",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03429.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03429",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03429.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-30\nA・〔B〕・〔C〕ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉（ ）は傍線にする。\n質問番号　地図番号　128\n項目名　くるぶし　238\nページ（14）\n\n地点番号／A 語形とその注記（B・C 限いた語形とその注記）／A 注のたい語形（B・C 残した語形とその注記）\nクルミ〈右〉　　クロブシ\nkurumi（utsigurumi; sotogurumi）\n同上\n同上\n同上\nクロブシ（ウチクロブシ〈ソトワキカナイ〉）\nkurobushi〈内外等には…合せない。…こっちで「くろぶし」などという〉\nkurumi　utsigurumi; sotogurumi",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03430.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03430",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03430.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-31\n質問番号  地図番号 128\n項目名 くるぶし 283\nA 普通語（B 除いた共通語）（C 除いた特殊語） ページ(15)\nA・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＜＞（）は注釈語にする。\n見出し: 地点番号 / A 語形とその注記（B・C 除いた語形とその注） / A 注のない部分（B・C 残した語形とその注）\n1行目: kurumi (utjigurumi) sotogurumi\n2行目: 同 上\n3行目: 同 上\n4行目: 同 上\n5行目: 同 上\n6行目: 同 上\n7行目: 同 上\n8行目: 同 上\n9行目: クルミ　ウチクルミ…内　ソトクルミ…外",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03431.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03431",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03431.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5676.52",
+      "5676.84",
+      "5677.28",
+      "5678.33",
+      "5679.41",
+      "5681.47"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）は厳密にする。 日本言語地図資料用紙 注記一覧 34-32 資料番号 地図番号 128 項目名 くるぶし 238 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (16) 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） フルン ブシン（2,3回 ロで言ってから） ウチ — ソト — の区別あり フルミ〈普〉 クロギシ〈ウチクルブシ、ソトクルブシの別あり〉 クロギシ ウチクロギシ、ソトクロギシの区別あり kuroboji〈総称〉 sotokkuroboji〈外〉 utjikkuroboji〈内〉 kurumi (sotoyurumi utjigurumi)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03432.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03432",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03432.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5682.34",
+      "5683.61",
+      "5683.77",
+      "5684.11",
+      "5684.26",
+      "5686.15",
+      "5687.60"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )は厳密にする。\n日本言語地図資料用紙 注記一覧 34-33\n質問番号　地図番号　128　項目名　くるぶし\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5682.34　kurumi (utji jurumi / soto jurumi)\n5683.61　同上\n5683.77　同上\n5684.11　kurumi ＜希＞ (utji jurumi / soto jurumi)\n5684.26　kurumi　同上\n5686.15　kurumi (内ー utji gurumi / 外ー soto)\n5687.60　kurobosi (ウチフクロボシ　ソトフクロボシ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03433.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03433",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03433.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5687.86",
+      "5688.01",
+      "5688.37",
+      "5690.12",
+      "5693.13",
+      "5694.31",
+      "5695.10",
+      "5695.61",
+      "5700.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-34\n地図番号 128\n項目名 くるぶし 238\nA（普通注記） (B 除いた共通語) (C 除いた特殊語) (18)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5687.86   # クロおシ （ソトフおシ　ウチクロおシ　28判あり）\n5688.01   クロおシ　＜ 同　上 ＞\n5688.37   同　上\n5690.12   kurumi (utji gurumi, sotoyurumi)\n　　　　（右欄）クロフシン？\n5693.13   同　上\n5694.31   同　上\n5695.10   同　上\n5695.61   同　上\n5700.28   kibism utji- , soto- と28判ある",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03434.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03434",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03434.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5700.32",
+      "5700.96",
+      "5701.73",
+      "5702.07",
+      "5702.52",
+      "5703.03",
+      "5710.84",
+      "5712.17",
+      "5721.26",
+      "5723.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-35 A 普通注記 （B 除いた共通語） （C 除いた特殊語） 質問番号  地図番号 128 項目名 くるぶし 238 ページ (19) ▶ A・(B・C)ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の〈 〉（ ）は厳格にする。 地点番号  A 語形とその注記（B・C 除いた語形とその注記）  A 注のない語形（B・C 残した語形とその注記） kibisū 〈内キビス，外キビスも使う〉 同上 kibisū 〈同上〉 同上 同上 kibisū 〈同上〉 同上 同上 同上 同上",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03435.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03435",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03435.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5731.67"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞〈〉[ ]は厳密にする。 日本言語地図資料用紙注記一覧 34-36 資料番号 地図番号 128 項目名 くるぶし 288 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (20) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] kibisum (総称) utsi kibisum (内くるぶし) soto — (外 — ) kibisum <総称> utji kibisum <内くるぶし> soto — <外 — > kibisü <総称> utji kibisü <内くるぶし> soto — <外 — > 同上 kibisü (内外の区別なし) kibifi <総称> utji kibiji <内くるぶし> sotokkibi fi <外 — > kibisum <総称> utjiki bisum <内> sotokibisum <外>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03436.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03436",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03436.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5751.24",
+      "5751.60",
+      "5751.78",
+      "5752.32",
+      "5761.27",
+      "5761.77"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >()[]は厳密にする。\n日本言語地図資料用紙 注記一覧 34-37\n質問番号　地図番号　128\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2/)\n項目名　くるぶし 238\n\n表見出し: 地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\nkibiji <総称> {soto kibiji <外>} {uti kibiji <内>}\nkibiji <内外の違いはない>\nkibisü <内外ともに kibisü という。 いいかげんの要がある時は soto/kawa no kibisü とか naka no kibisü とかいう>\nkibisum <総称> {uti/kibisum <内>} {soto <外>}\nkibiji <総称> {uti/kibiji <内>} {soto <外>}\nkibisum <総称> {uti kibisum <内>} {soto <外>}\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03437.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03437",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03437.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5762.41",
+      "5770.57",
+      "5770.60",
+      "5772.60",
+      "5772.84",
+      "5782.25",
+      "5790.03"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > < ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧    34-38\n質問番号　地図番号　128\n項目名　くるぶし\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n\n（表ヘッダ）\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\nkibiji (総称)  {utji/kibiji (内くるぶし)  soto (外)}\nkibisuu  <特に説明せず　内外ともにいる>\nkibiji  <内外の別なし>\nkurumboji  <総称> {utji/kurumboji (内)  soto (外)}\nkuroboji  <総称> {utji/kuroboji (内)  soto (外)}\nkurubusi?  <総称> {utji/kurumubusi (内)  soto (外)}\nkurobuji  内くるぶしと外くるぶしの区別あり\n（足の図：くるぶしの位置を示すスケッチ／図中に注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03438.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03438",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03438.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5792.62",
+      "6267.84",
+      "6287.71",
+      "6296.27",
+      "6349.80",
+      "6354.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＜＞〔〕は厳密にする。 日本音語地図資料用紙 注記一覧 34-39 質問番号 地図番号 128 項目名 くるぶし 238 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (23) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5792.62 ifinayo <外><続称> utsi ifinayo <内> 6267.84 NR <名はなし> 6287.71 ? gorigori 6296.27 mekug (語尾は用変音) 6349.80 gakunitji kobu <内側> ----- sennitji kobu <外側> いためた時に直りにくいことをいう。 6354.46 ajino kobu <外側 — soto kobu 内側 — utsji kobu>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03439.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03439",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03439.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-40 A 普通注記 質問番号 地図番号 128 項目名 くるぶし ページ (24)\n地点番号／A 語形とその注記（B・C 除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\nasi kobun ＜内 utji kobun＞ ＜外 soto kobun＞\nkobun ＜同上＞\nasji no kobun ＜同上＞\n（？）アシコブ\nkobun （utji kobun 内／soto kobun 外）\naji no kobun ＜同上＞\naji kobun ＜同上＞\naji no kobun ＜内側 utji no kobun＞ ＜外側 soto no kobun＞\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞（ ）[ ]は表記にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03440.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03440",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03440.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-41 質問番号 地図番号 128 項目名 くるぶし 258 A 普通注記（B 除いた共通語）（C 除いた特殊語） ページ（21） 地点番号 A 語形とその注記［B・C 除いた語形とその注］ A 注のない語形［B・C 残した語形とその注］ aji no kobu（総称）〈soto kobu（外くぶし）／utji kobu（内—）〉 同上〈同上〉 トリコブシ（内外の区別なし） ソトコブ ？ kobu〈ソトコブ、ウチコブ〉 toriko no Fusi〈内・外の区別なし〉 kobu〈外限 soto kobu、内限 utji kobu〉 aji no kobu〈同上〉 同上 ▶ A・[B]・[C]ごとに別紙を使用する。▶ その中での情報は地点番号順に並べる。▶ 注記のく＜＞（）［］は厳密にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03441.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03441",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03441.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6389.22",
+      "6389.56",
+      "6393.41",
+      "6396.08",
+      "6396.83",
+      "6397.24",
+      "6398.42",
+      "6398.78",
+      "6408.72"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の < > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙注記一覧 34-42\n質問番号　地図番号　128\n項目名　くるぶし　238\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(26)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\n6389.22　アシコブ　総称　(ウチコブ・ソトコブ)\n6389.56　コブ　同上\n6393.41　? aji no kobu <内,外の区別なし>\n6396.08　aji no kobu <同上>\n6396.83　kobu <内側を utji kobu, 外側を sotokobu>\n6397.24　aji no kobu <utji kobu, sotokobu という>\n6398.42　同　上\n6398.78　同　上\n6408.72　kobo (utji kobo <内くるぶし>) (sotokobo <外くるぶし>)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03442.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03442",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03442.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 34-43 質問番号 地図番号 128 項目名 くるぶし ページ (27) A 質問語形 地点番号 A 語形とその注記（B・C 除いた語形とその注） A 注のない語形（B・C 残した語形とその注） 64 13.29 suwada'ko (？) 64 17.72 kobu {sotokobu} {utjikobu} 64 22.77 〈?〉 トリコフシ 64 23.23 sūwa: kobū 座りこぶっと 64 26.04 tsumobosi（内、外の区別はない） 64 26.47 umebosi〈古〉 {sotobone〈外くるぶし〉} {utjibone〈内くるぶし〉} 64 26.83 kobu（ウチコブ／ソトコブ）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03443.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03443",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03443.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-44i\n質問番号／地図番号 128\n項目名 くるぶし 238\nA 普通語（B 除いた共通語）（C 除いた特殊語）\nページ (28)\n- A・(B)・(C)ごとに別紙を使用する。\n- その中での情報は地点番号順に並べる。\n- 注記の＜ ＞（ ）［ ］は略符にする。\n見出し：地点番号／A 語形とその注記（B・C 書いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n1行目: kobu（sotokobu…外／utikobu…内）\n2行目: 同上\n3行目: 同上\n4行目: ツクラブシ（ワノコブシ）同用\n5行目: ムメボシ〈新・番〉　ツクラボシ\n6行目: ？ アシコブシ\n7行目: kobu sotokobu などという\n8行目: kobu（ソトコブ〈外側〉／ウチコブ〈内側〉）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03444.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03444",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03444.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞＜（ ）［ ］は厳密にする。\n日本言語地図資料用紙 注記一覧 34-45\n質問番号 地図番号 128\n項目名 くるぶし 238\nA 普通語注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (29)\n地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n# tsukuri'busi　稲枝で聞いた所によると u'mebo'ji\nmmebo'si　外面の方の名のような気がするが 〔…〕\n知らない\nキビサ コブ（？）\nアシノメボシ？／グリグリ  } 坊勢島でも同じ\n＊？ コブ\nkurubusi〈他〉 ⑪ NR",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03445.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03445",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03445.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6470.59",
+      "6471.99",
+      "6477.02",
+      "6484.43",
+      "6485.30",
+      "6485.46",
+      "6494.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-46\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n（右上の枠）\n地図番号 128\n項目名 くるぶし 238\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (30)\n\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6470.59　知らぬ\n6471.99　?\n6477.02　NR <名前を知らない。一般に名称はないと思う>\n6484.43　トリコノフシ <外くるぶし内くるぶし共に トリコノフシという>\n6485.30　#（アシノ）シメホシ\n＜指の骨の丸く出た所、足の前側の骨のまた所など、全てでひっくるめてシメホシ（指か）という。足のは一度にしている。アシノメホシである。その外例にスワリコブができる＞\n6485.46　# 名こなし（名前ないと考えているようである）\n6494.55　コブシ 手のコブシという。テノコブシ、アシノコブシと区別している。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03446.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03446",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03446.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-47\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<>[]は厳密にする。\n\n質問番号／地図番号 128\n項目名 くるぶし 285\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (31)\n\n[欄見出し]\n地点番号／A 言形とその注記（B・C 除いた言形とその注）／A 注のない言形（B・C 残した言形とその注）\n\n# kobusi <？>\nkurobushi; この両者を混同しているかとも思われ、再三問い正したが、双方の行と答えとなった。\nkibisu\nkoroboshi（号音） ソコロボシ／ウチコロボシ（終辞 答えさ？）\nコブシ 「コブシ」ではなかった\nアシリウメボシ。用いる意味がつかない 247シ？\nウメボシ〈会う多くない〉\nウメボシ。形に似ている所から、こういったのことである。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03447.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03447",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03447.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6533.89",
+      "6542.27",
+      "6542.32",
+      "6545.64",
+      "6547.09",
+      "6551.77",
+      "6553.99"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　34-48\n\n質問番号　地図番号　128\n項目名　くるぶし　238\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(32)\n\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n6533.89  mmeboji　(内外と別なし)\n6542.27  ウメボシ　＜古＞\n6542.32  同　上\n6545.64  guriboji　［関では guribusi］\n6547.09  *[!guriguri]　一応　記入したもの。〈それはなんでも子供っぽい云々。他に何かあるような気がする〉といったがそれは言わなかった。\n\n6551.77  umeboji　（lmmeboji に非ず）\n6553.99  kurumi　＜多＞\n　　　　mmeboji　＜タ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03448.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03448",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03448.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6565.56"
+    ],
+    "other_text": "日本言語地図資料用紙 註記一覧 34-49\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞〔 〕は鉤括弧にする。\n質問番号／地図番号 128\n項目名 くるぶし 288\nA 普通注記／B 除いた共通語／C 除いた特殊語\nページ (33)\n見出し: 地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\nasikunubi［…では kuruboji］\nkurubuji ＜内くるぶし uchi 〜／外くるぶし soto 〜＞\nN.R.（どう言っても答えなかった。最後に共通語を与えてみたが、知らないという風であった。）\n名前がない\ngurubuji ＜但し、同所も区別していうときは uchi kurubuji, soto kurubuji であって g〜 とはならない。＞\numebosi ＜少＞",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03449.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03449",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03449.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6572.29",
+      "6572.55",
+      "6575.40",
+      "6576.32",
+      "6577.86",
+      "6583.45",
+      "6585.83"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙注記一覧 34-50\n質問番号　地図番号 128\n項目名　くるぶし 238\n(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語　（34）\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nA列記載（原文手書きローマ字と注記の概略）:\numeboji （手首の「くるぶし」も「ウメボシ」という）\nkurumiboji　→ mmeboji（手書き）\nkūru bi / kürubi < soto k~ utji 〜 > といった注記\ntsukubo < 内 nakadzuku > 外 soto dzuku\nsuwarikobu (utsikobu と soto kobu の別あり。)\numeboji （「足のふ所」にあたる）\nkobu（重足） utsfikobu　sotokobu（総称はない）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03450.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03450",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03450.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6600.97",
+      "6604.02",
+      "6591.81",
+      "6592.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-51\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号　128　　項目名　くるぶし　288\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (35)\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]\n6591.81　　ツボムシ　<内外の名称なし>\n6592.10　　ワノブシ　<希>　　　（右欄）ウメチシン\n65-92.35　 tsunobuji　（右欄：「ウチ(ソト)ツノブシ」という）\n65 94.19　 kobu　（utj/kobu, sotokobu の別あり）\n65 95.90　 kobu　（宣言）　sotokobu, utjikobu　<ただkobuではややしも これをすとはいえない>\n6600.97　　kurumi　(utj/jurumi, soto jurumi)\n66 03.24　 クルミ〈総称。内とるふしをウチクルミ、外くるみをソトクルミ〉\n6604.02　　同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03451.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03451",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03451.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6604.15",
+      "6604.38",
+      "6604.98",
+      "6606.89",
+      "6607.18",
+      "6614.04",
+      "6615.09"
+    ],
+    "other_text": "日本言語地図資料利用紙 注記一覧 34-52\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈 〉( ) [ ] は厳密にする。\n質問番号　　地図番号 128\n項目名　くるぶし　238　　ページ (36)\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n見出し: 地点番号／A 語形とその注記〔B・C 除いた語形とその注〕／A 注のない語形〔B・C 残した語形とその注〕\n6604.15 クルブシ〈外はソトクルブシ、内はウチクルブシ〉\n6604.38 同 上\n6604.98 同 上\n6606.89 [-kuroboji]〈総称〉〈内は [utchi 'kuroboji]、外は [soto 'kuroboji]〉\n6607.18 kuroboji〈今のことば?〉　ko'bushi\n6614.04 クルブシ〈ウチクルブシ、ソトクルブシという〉\n6615.09 同 上",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03452.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03452",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03452.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での番号は地点番号順に変える。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 34-53 質問番号／地図番号 128 項目名 くるぶし 238 A 普通注記 （B 欠いた共通語） （C 欠いた特殊語） ページ（37） 地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注） ajikk'urubusi（総称） ｛utjikk'urubusi＝内くるぶし；sotokkurubusi＝外くるぶし｝ — kurubosi；＜同上・外別りで名称を分けしない？＞ kurobusi（同上） kurumi； sotogurumi（外くるぶし）； utjigurumi（内—） kurumi（重員）｛同上｝ 右欄：guriguri kurnubusi（総称） utjikurubusi； soto〜（内外？）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03453.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03453",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03453.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での情報は地点番号等順に並べる。 ▶ 注記のく＜＞（）は厳格に守る。 日本言語地図資料用紙 注記一覧 34-54 質問番号／地図番号 128 項目名 くるぶし 258 ページ (38) 区分: A 普通注記 (B) (C) 表見出し: 地点番号｜A 語形とその注記（B・C 聞いた語形とその注）｜A 注のたい語形（B・C 異れた語形とその注） 記入語形: kurubusi 〈uti kurubusi, soto kurubusi ともいう〉; kuro'busi 〈内側は uti kurubusi；外側は kuro'busi〉; menuki 〈…とする人あり〉; kurumi 〈uti kurumi（内くるぶしだけで、外くるぶしの名称はない）〉; kurumi 〈…（内外の呼称なし）〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03454.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03454",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03454.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6645.62",
+      "6651.32",
+      "6661.02",
+      "7237.67",
+      "7238.82",
+      "7239.29",
+      "7246.82",
+      "7258.82",
+      "7302.71",
+      "7303.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-55\n質問番号 地図番号 128  項目名 くるぶし 238  ページ(39)\nA 普通注記 / B 除いた共通語 / C 除いた特殊語\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順にそろえる。\n注記の<>[]は厳密にする。\n地点番号 / A 語形とその注記（B・C除いた語形とその注） / A 注のない語形（B・C 残した語形とその注）\nkuroboshi <sotokuroboshi><utjikuroboshi>\nmemuki〈内 きの8はない〉\n同 上\nN.R.（由城では kugibone）\n? ajino kobuji\n? kakato kko?\nnaki bisu bune〈外くるぶし〉\n[ume no sane]    momobusi\n? なんというのだ〈kurubusi/ 痛いたくない〉答う\nわからん と答う。 同 上",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03455.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03455",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03455.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7304.26",
+      "7307.14",
+      "7307.48",
+      "7313.34",
+      "7317.29",
+      "7318.04",
+      "7320.95",
+      "7324.24"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）[　]は厳密にする。\n日本言語地図資料用紙 注記一覧 34-56\n資料番号　地図番号　/28\n項目名　くるぶし 238\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (40)\n地点番号　A 音形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7304.26  gidzi (重足?)  # (<??>) utji no gidzi ((<?>)) soto no gidzi\n7307.14  aji no kobu (総称) {utji kobu (内側)} {soto kobu (外側)}\n7307.48  同上\n7313.34  特別の名はない, ?\n7317.29  aji no kobu <sotokobu> (外側?) utji kobu\n7318.04  aji kobu <同上>\n7320.95  別に名はない\n7324.24  guriguri (字当は何といいますか、と反同した)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03456.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03456",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03456.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [],
+    "other_text": "・A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 34-57\n質問番号／地図番号 128\n項目名 くるぶし 288\nA 普通注記  B 省いた共通語  C 省いた特殊語\nページ (41)\nA 語形とその注記（B・C除いた語形とその注）／A 注のたい語形（B・C 残した語形とその注）\n特別にいわない。 mmeboji（前の地とどう）\n-kobura (?)\n? トイコノフシ（ふう）使わない。この地方の言い方に toikono huji = トイコノフシ というのか、その部分のことをいっているのだが。\n〈共〉kurubusi\n? tojkoji\n〈?〉garuguru\nasi no ko’（?） 念を押したら、自分の足のフルアシを… ここもいう、といっていた。momobusi?\nモモブシ? そこでもアシ、シマでアシという(?)\n? torikombusi",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03457.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03457",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03457.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7359.78",
+      "7361.82",
+      "7362.42",
+      "7363.59",
+      "7367.49",
+      "7373.92",
+      "7382.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-58\n質問番号　地図番号　128\n項目名　くるぶし　238\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (42)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7359.78　kobu　(室貝)　{sotokobu (外くるぶし) / utsi kobu (内くるぶし)}\n7361.82　momobuji　(utji momobuji (内くるぶし) / soto (外))\n7362.42　メガシ　＜図例のは 無名＞\n7363.59　aji no tsuto　＜内外の区別なし＞\n7367.49　aji no kobu　(utji kobu　内くるぶし / soto　外くるぶし)\n7373.92　NR　(特別の名称がないようである)\n7382.93　<?> aji no kubi no hone (?)　(特別の名称はないようである) (mmeboji とは云わないという)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03458.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03458",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03458.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7383.98",
+      "7386.56",
+      "7390.26",
+      "7390.75",
+      "7391.01",
+      "7394.60"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 34-59\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　/ 128\n項目名　くるぶし 238\n(A 普通注記)　(B 除いた共通語)　(C 除いた特殊語)　(43)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7383.98　アシノコブ　(外くろぶし　ソトコブ　内　ウチコブ)\n7386.56　NR　(使用語彙としては分布、理解語彙としてもないようである。)\n7390.26　アシノコブ　(内外ともにアシノコブ。別列の必要があれば？　(アシ)ソトコブ　(アシ)ウチコブ　という)\n7390.75　NR　(無効か)\n7391.01　〈名称知らず。強いて云えば？ アシノシタノコブとでも言うべきか〉\n7394.60　momobuji　(記号するときは ウチモモブシ(ウチモモ)　ソトモモブシ(ソトモモ)という)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03459.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03459",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03459.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7395.09",
+      "7403.21",
+      "7410.57",
+      "7442.39",
+      "7470.72",
+      "7502.91",
+      "7503.48",
+      "7511.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 34-60\n質問番号　地図番号　128\n項目名　くるぶし 238\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語) (44)\n\n表ヘッダ: A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n(asino kobu) --- <a(ino kobu とでも言う　ぐらいなことである>\n(注: 小さな丸括弧内の注記)\n\nN.R. (協力者も知らないと言っていた)\n\ntoriko no Fuji (内、外の言い分けはしていないようである)\n\n[totiko no Fuji]\n\najikubi (？)\n\nトリコブ　<ウチトリコブ, ソトトリコブ>\n\n同上\n\nコフ　<内,外による名はない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03460.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03460",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03460.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の< > ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 34-61 質問番号／地図番号／項目名 くるぶし 238 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (45) 地点番号｜A 語形とその注記 [B・C 除いた語形とその注]｜A 注のない語形 [B・C 残した語形とその注] トリコブ <内・外側の区別がない> コブ <ウチコブ、ソトコブという> 同上 同上 コブ’（資料） {ソトコア、ソートコア〈←〉} よく くるぶし／{ウチコア} ない くるぶし ke:busi （登家） {soto keibusi; utji} ko:usu {utji no ko:usu; soto-no} ki:busi — soto kibusi, utji —",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03461.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03461",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03461.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-62\n質問番号　地図番号 124\n項目名 くるぶし 238\nA 普通注記／B 除いた共通語／C 除いた特殊語\nページ (46)\nA・B・Cごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞＜（）［］は厳密にする。\n地点番号／A 語形とその注記［B・C 除いた語形とその注］\nkibusi（室取）｛soto kibusi／utji kibusi｝\nmomobusi〈…〉 utji monobusi／soto\nmomobusi〈… タモモブシ、ソトモフシ〉\nN.R.（被調査者以外の人に聞いてみれば？）\n［kobusi］\nmomobusi〈？〉\nazno genno kuz（最後の kuz は口の意）\nmomo zane（桃実）\nN.R.（名字がなんように思う）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03462.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03462",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03462.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "0256.89",
+      "2095.60"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での順序は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 日本言語地図資料用紙　注記一覧　34-63 地図番号　128　項目名　くるぶし　288 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (47) 地点番号　 A 語形とその注記 (B・C除いた語形とその注) 83 55.62 kobu (○?) sotokobu … 外くるぶし ut/jng kobu — 内くるぶし 83 94.01 momozane <桃の実という意味> 0256.89 sėgabu sĕgabu (「s」とは動揺する) 11 48.59 tanabuji 外股? 20 72.20 N.R. (知らない) 20 76.99 (調査もれ) 20 85.69 (同上) 2095.60 bukisan <kisan は牛島のひづめ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03463.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03463",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03463.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 記入一覧 34-64\n質問番号／地図番号 128\n項目名 くるぶし\nA 普通語注　B 除いた普通語　C 除いた特殊語　ページ (1)\n\n見出し: 地点番号／A 言形とその注記〔B・C 除いた語形とその注記〕／A 注のない語形〔B・C 残した語形とその注記〕\n\n〔欄内の記入例・注記（判読不完全）〕\nkurumbushi　〈こう言う、クルクルするから〉\nクルブシ　〈共〉\nkurubusi　〈共〉\nkurububusi　〈希〉\n\n右欄メモ:\n# kuroboshi\nkuroboshi\nguriguri, sotogurumi\nskurumi, {utfi}",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03464.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03464",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03464.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6428.13",
+      "6462.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 34-65\n資料番号　地図番号　/128\n項目名　くるぶし 238\nA 普通注記　[B 除いた共通語]　(C 除いた特殊語) (1)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n07 24.12    kurobusi    kuroppusi (自然な発音)\n46 48.59    kurobusi 〈共〉（丁寧な発音）    kobm <?>\n47 46.20    * N.R.\n47 50.76    kuxokobusiü    kuroko bussiü\n47 62.99    #ko̞busi〈?〉    *kiːbisü\n56 76.84    クル    クルミ〈普〉\n56 84.11    kururi    kukumi〈希〉 utsigurumi soto\n6428.13     ウメオシ〈新, 希〉    リノコワシ\n6462.59     コブラカレシ    トリコノフシ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03465.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03465",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03465.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙 注記一覧 34-66\n▶ A・(B)・(C)ごとに別表を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく<>（）は註釈にする。\n質問番号／地区番号／地図番号　項目名 くるぶし 128 238\nA 音韻注記　(B 除いた共通語)　(C 除いた特殊語)（2）\n地点番号　A 語形とその注記（B・C 除いた語形とその注記）　A 注のない語形（B・C 除いた語形とその注記）\nkurikuri <37>（何らの発音なし）\nN.R.\ntanosi <多>「タノシとは『たたし』のことだ。形が似ているから、命名。」　umebosi <ケ>\nçijiyane\n右欄の書き込み：\nmmebosi\n* L! guriguri\n（一応…聞き取り不完全…と言ったか？ それはよくあった。）\numebosi <ケ>\nmenuki <他>\n（同じ意味か？ 使い分けがあるか。私は çijiyane というのが普通。）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03466.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03466",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03466.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [],
+    "other_text": "・A・(B)・(C)ごとに別表を使用する。\n・その中での併録は地点番号順に並べる。\n・注記の＜＞（）は該辞にする。\n\n日本言語地図資料用紙 注記一覧 34-67\n質問番号\n地図番号 128\n項目名 くるぶし 238\nページ（3）\n見出し：地点番号／A 語形とその注記（B・C 聞いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n\nN.R.（asi no kobue を語としてどうか疑問なので N.R. とした）\n（asinokobu）（実聞）〈asi no kobue とでも言うぐらいなことである〉\n\nN.R.　[tokiko no Fuji]\n\nいそブシ〈希〉　ウメブシ\n\nN.R.　[kobusi]\n\nN.R.（語源は知らない）\n\nφisakubi　内陸　tanabusi　外まわり\n\ngida，gidabuni ともいう　O.F.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03467.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M128Q233/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03467",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03467.tif",
+    "source_ljc_id": "LJC-M128Q233",
+    "source_map_numbers": [
+      "128"
+    ],
+    "source_title": "くるぶし (踝)"
+  }
+]

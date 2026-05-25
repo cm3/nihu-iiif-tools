@@ -1,0 +1,777 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1719.38",
+      "1747.04",
+      "2774.59",
+      "4609.54",
+      "4618.87",
+      "4619.63",
+      "4637.20"
+    ],
+    "other_text": "A・(B)・(C)ごとに別表を使用する。 その中での語順は地点番号順に並べる。 注記の< > ( ) [ ] は散佚にする。 日本言語地図資料用紙 注記一覧 17-16 調問番号 地図番号 101 S 72 項目名 ガッテクル(借りてくる) A 普通注記 (B 除いた共通語) (C 除いた特殊語) (1) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 3. <信州の場合>にはコッテクルも使った 3. <*借ってくる><タ?> コオテクル、カリテクルのように 1. 買う = karu 1. 正確には何れでもないが 買ってくる -> kate kuru 借りてくる -> kadde kuru でもろうちょっと が近い 1. [kate kuru] 1. <kate kuru ともいった> 5. (変?) <但し ko:te kuru と古くから> えい 現在も時々用いる",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01716.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01716",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01716.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-17\n資料番号 101 S　地図番号 72　項目名　カッテクル(借りてくる)　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2)\nA・[B]・[C]ごとに別紙を使用する。　その中での語彙は地点番号順に並べる。　注記の＜＞（）は厳密にする。\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n2. 「買ってくる」は kɔ:tekurɯ と云う。\n2. (買ってくる意は kɔ:de kurru と云う)\n2. 買 … ko:te\n2. 買ってくるは kɔ:te kuru と云う。\n2. 〃　コオテクル\n5. ＜若い時は kɔ:te kuru と云った。\n2. ＜買ってくるは kɔ:te kuru と云う)\n1. kətekurum　促音は短い感じであろう。＜下の方(同様崩れより下深)では kɔ:de kurru と云う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01717.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01717",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01717.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4653.47",
+      "4653.84",
+      "4654.52",
+      "4657.64",
+      "4657.88",
+      "4663.92",
+      "4665.87",
+      "4666.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-18\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での指示は地点番号順に書く。\n注記の＜ ＞（ ）は原音にする。\n\n資料番号　地図番号\n101　S　72\n項目名　カッテクル（借りてくる）\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)　(3)\n\n地点番号　A　語形とその注記（B・C　除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n4653.47　2.　＜買ってくるは ko:te kurumuto こう＞\n4653.84　3.　＜買ってくる、の方が新しい＞\n4654.52　2.　買ってくるは ko:te kurumu\n4657.64　4.　＜但し ko:te という＞\n4657.88　5.　＜但し昔は ko:te kurumu と発声した＞\n4663.92　3.　ただし、買ってくるときに ko:te kurumu という\nことの方が多い。\n4665.87　1.　＜katte kuru と発音する＞\n4666.17　5.　＜新＞（但し普通の人は昔 ko:te kurumu と言う）\n被調査者もそれも使うことがあるのであろう",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01718.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01718",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01718.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4666.42",
+      "4666.51",
+      "4666.99",
+      "4667.33",
+      "4672.19",
+      "4675.45",
+      "4675.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 17-19\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n質問番号 地図番号\n101 S 72\n項目名 ガッテクル(借りてくる)\nA.普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n4666.42  4. <kɔ:tekuru と云う>\n4666.51  5. <新> 発音は kattekuru <新>\n         kɔ:tekuru <古>\n4666.99  4. <発音は 借し kɔ:tekuru と云う>\n4667.33  4. コテクル(買ってくる)、カリテクル(借りてくる) と云う。\n4672.19  5. <kattekuru より kɔ:tekuru を使うことが多い。>\n4675.45  4. <kɔ:tekuru という>\n4675.62  4. <\" >",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01719.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01719",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01719.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4676.39",
+      "4676.60",
+      "4676.67",
+      "4677.65",
+      "4678.71",
+      "4677.77",
+      "4684.77",
+      "4685.10"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での普議は地点番号順に並べる。 注記の＜＞()は敬称にする。\n\n日本言語地図資料用紙　注記一覧　17-20\n\n資料番号　地図番号\n101　S　72\n項目名　カッテクル(借りてくる)\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語　(5)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n4.　買ってきた＝[ko:te kita]　作りてくる＝[kaite kuru]\n5.　共通語として「買ってくる」(ko:te kuru を用いている)\n4.　<但し ko:de kurm を用いる>\n1.　<katte kuru と発音する>\n1.　買 katte kou　信 kattj: kou\n1.　(借りてくるは karite と言う)\n4.　(但し ko:te kumu と言う)\n5.　(ko:te kuru と云う) 共通語的場面では「買ってくる」と云うかもしれない\n\n「買ってくる」と云うかもしれない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01720.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01720",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01720.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4685.28",
+      "4685.72",
+      "4685.88",
+      "4686.02",
+      "4686.52"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料利用紙 注記一覧 17-21 管理番号 地図番号 A 普通注記 (B 除いた共通語) (C 除いた特殊語) 101 S 72 カッテクル（借りてくる） (6.) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 4685.28 5. 共通語として買ってくる意であるとか どちらも使わない。 <ko:te kuru と云う> 4685.72 5. <昔は ko:te kuru と云い、今は ka:te kuru を最も多く用いるが ka:te kuru とも云う> これは最も新しい。 4685.88 4. 買ってくる… ko:te kuru 借りてくる… karte kuru 4686.02 5. <未>（普通 ko:te kuru。共通語場面では katte kuru という） 4686.52 4. ko:te kuru と発音する",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01721.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01721",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01721.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4686.96",
+      "4687.01",
+      "4694.26",
+      "4694.95",
+      "4695.21",
+      "4695.87",
+      "4711.49",
+      "4715.98",
+      "4731.85"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙　注記一覧　17-22 質問番号　101　S　地図番号　72 項目名　ツテクル（借りてくる） A 普通注記 [B 除いた共通語] [C 除いた特殊語] （7） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 5. ＜共＞（普通は ko:te kuru と云う） 4. （ko:te kuru と云う） 5. ＜老人は ko:te kuru と云う＞ 5. 但し、katte kuru は新しい言い方で、 ko:te kuru を多く用いる。 4. 但し ko:te kuru と云う。 5. 共。（普通の場合は ko:te kuru という） 1. 借りてくるはカッテクルという。 1. ＃（あまりにも意外な質問でとまどったもの） 1. ＜借りてくるは (kadde kuru) と云う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01722.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01722",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01722.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4750.32",
+      "4751.42",
+      "5472.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　17-23\n資料番号　地図番号\n101 S 72\n項目名　テクル(借りてくる)\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (8.)\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n47+2.37　1.　買ってくる (katte kuru)　借りてくる (katte kuru)\n〈サッテクルと言えば、両方の意味になるが\n両者はアクセントがちがう(?) 後者はニゴル\n/セ/の無声と有声で区別されるようである。\n後者は /karite kuru/ /の/せ/の有声化のなごり〉〈両方〉\n\n4750.32　1.　サッテクル→買ってくる。サッシェクル→借りてくる。\n\n4751.42　1.　〈借用してくる方は[ kadde kurw ]〉\n\n5472.91　1.　( shkatta — 買ってくる : ke:ta — 借らってくる )",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01723.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01723",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01723.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5602.99",
+      "5603.35",
+      "5604.28",
+      "5604.52",
+      "5611.39",
+      "5611.81",
+      "5612.22",
+      "5612.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞（）〔〕は厳密にする。 日本言語地図資料用紙 注記一覧 17-24 資料番号 地図番号 101 S 72 項目名 カッテクル（借りてくる） A 普通注記 ページ [B] 除いた共通語 [C] 除いた特殊語（9） 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） 1. (kɔ:te kurruとは云わない) 1. katte kuruこと。 5. 共、く買う方は kɔ:te といい、借りる方は karete と云う。 4. 買ってくるーkɔ:te kuru。借りてくるーkarete kuru。 4. ka:te kuruと云う。 5. 但し（katte kurmu）と（kɔ:te kurmu）と二つの云い方をする。 4. 但し ka:te kurmu。 1. 借ってくるは kante kurmuと言う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01724.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01724",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01724.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5614.24",
+      "5614.68",
+      "5615.20",
+      "5621.43",
+      "5622.48",
+      "6339.44",
+      "6339.86",
+      "6349.80",
+      "6357.38",
+      "6358.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（ ）は厳密にする。 日本言語地図資料用紙　注記一覧　17-25 資料番号　地図番号　10 S 72 項目名　カッテクル（借りてくる） A　普通注記 [B　除いた共通語] [C　除いた特殊語]（10.） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C　残した語形とその注） 1. kattekuru 1. 〃 1. 〃　. ko:teと言わない 4. ＜但し ko:te kuruと言う。＞ 1. ko:te kuruとは言わない 2. ＜買ってくる＝コオテクル＞ 2. ＜〃　〃＞ 2. ko:te kuru 3. ＜店なら＞買ってくる、＜店以外＞借ってくる 2. ＜買ってくる＝コオテクル＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01725.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01725",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01725.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6376.33",
+      "6379.68",
+      "6374.25",
+      "6394.43",
+      "6402.53",
+      "6407.28",
+      "6407.43",
+      "6408.15",
+      "6408.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 17-26\n質問番号 101S 地図番号 72\n項目名 カッテクル（借りてくる）\nA 普通注記 [B] 除いた共通語 [C] 除いた特殊語 (11)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n2. <お金を支払う時は ko:tekuru とそう。>\n3. 「買ってくる」ともいうから、両方に使って困る。\n2. ko:tekuru\n2. <お金を支払って品物を手に入れる時は コテクルと言う>\n1. <サテクルと言う>\n4. 買ってくる -> サアテクル；借ってくる -> カレテクル\n4. <〃>\n4. <〃>\n4. 〃",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01726.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01726",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01726.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6409.00",
+      "6409.35",
+      "6409.72",
+      "6410.77",
+      "6412.48",
+      "6412.91",
+      "6413.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-27\n質問番号　地図番号　101 S　72\n項目名　カッテクル（借りてくる）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]（12.）\n\n地点番号　A 語形とその注記（B・C除いた語形と、その注）　A注のない語形（B・C 残した語形とその注）\n\n6409.00  4. 買　カアテクル＜古＞　コオテクル＜新＞　借　カレテクル\n6409.35  4. NR　買　カアテクル、借　カレテクル\n6409.72  4. ＜買　カアテクル、借　カレテクル＞\n6410.77  4. NR　＜買ってくる＝カアテクル＞＜借ってくる＝カリテクル＞\n6412.48  4. ＜カアテクルと言う＞\n6412.91  1. ka'ttekuy.　借りてくるは kaytekuy\n6413.10  1. 買ってくるの方に受取るが、カッテクルの云い方は無い。く買ッテクルは katekwru という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01727.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01727",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01727.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-28\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n資料番号　101 S　地図番号　72\n項目名　ヅテクル（借りてくる）\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　（13）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n出雲系は kawte kuru というウ音便の形\nから カテクル、カーテクルが出たものと思わ\nれる)\n\n64.15.23　5.（カーテクルと云うのが一般の云い方であって\nサッテクルは方言と言わないのではないかと\n思う。仮し意味は分る。）\n\n64.16.09　5.（借ってくるはカレテクル又はカリテクル。\n買ってくるはコーテクルでサッタとは云わぬ。\n島根県一般はカーテクル又はサッテクル。\n鳥取市のユニークの形を用いる。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01728.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01728",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01728.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6417.72",
+      "6418.13",
+      "6418.75",
+      "6419.09",
+      "6419.25",
+      "6419.50",
+      "6419.69",
+      "6421.82",
+      "6422.16",
+      "6422.77"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は略筆にする。\n\n日本言語地図資料用紙　注記一覧　17-29\n資料番号　101 S　地図番号　72\n項目名　ツヅケル（借りてくる）　A 普通注記　（B 除いた共通語）（C 除いた特殊語）　ページ（14）\n\n（表見出し）\nA 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5.　＜但し、この地はサーテクルという＞\n4.　＜買　サアテクル・借　カレテクル＞\n4.　＜　”　　”　＞\n1.　＜借る場合は　サルテクル又はカリテクル＞\n4.　買　コオテクル・借　カレテクル\n4.　＜　”　”　＞\n4.　”　”\n4.　買は ka:tekurum・借は kartekurum\n1.　＜借用＝カリテクル＞\n4.　＜買ってくる＝サアテクル・借ってくる＝カリテクル＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01729.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01729",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01729.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6424.35",
+      "6426.47",
+      "6427.27",
+      "6427.40",
+      "6428.13",
+      "6428.26",
+      "6428.76",
+      "6429.15"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 17-30 資料番号 地図番号 10 S 72 カッテクル(借りてくる) A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 (145) 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注） 4. 不明．コオテクル(買)・カレテクル〈借〉 4. 買ってくる ko:te kuru・借ってくる karete kuru 5. （←テクルサ普通） 5.（←テクルという。サッテの言い方は使わない そうである） 4. ＜買 カアテクル・借 カレテクル＞ 4. NR. 買 カアテクル・借 カレテクル 2. 買 コオテクル・借 サッテクル・カレテクル 3. ＜ただし、買ってくるにはコオテクルの形もある コオテクルの方をよく用いる＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01730.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01730",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01730.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6429.30",
+      "6429.61",
+      "6429.65",
+      "6430.53",
+      "6433.34",
+      "6439.01",
+      "6439.77"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　17-31\n資料番号　地図番号\n101 S 72\n項目名　カッテクル（借りてくる）\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（15）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での音標は地点番号順に並べる。\n▶ 注記の＜＞（）は散釈にする。\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6429.30　4. 買　コオテクル・借　カルテクル\n6429.61　4. NR（買　コオテクル・借　カルテクル）\n6429.65　4. ＜買　コオテクル・借　カルテクル＞\n6430.53　2. ＜買ってくる＝コオテクル＞\n6433.34　4. 不明。コオテクル（買）・カリテクル（借）\n6439.01　3. ＜共希＞＜日常用語は 買 コオテクル 借 カルテクル を用いている＞\n6439.77　3. #借ってくる。〈買ってくる(? ただし、新としてはありうる。内容がこんがらがってしまったのであろうが、最後には取消しにしたらしい?)〉\n（下部手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01731.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01731",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01731.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6440.25",
+      "6440.67",
+      "6448.61",
+      "6449.87",
+      "6461.27",
+      "6462.59"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-32\n質問番号　地図番号\n101　S　72\n項目名　カッテクル(借りてくる)\nA　普通注記　ページ(187)\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形　（B・C　残した語形とその注）\n\n2.　＜買ってくる＝コオテクル＞\n2.　＜〃＞\n3.　買ってくる・借ってくる＜新＞\n2.　借りてくる〈希〉\n2.　＜買物の時金を払わないで借りて品物をもらってくる時に云う。竹諸物品をいゆゆ?　借りる場合も言う＞\n2.　＜金を支払わないで品物を借りてくること。借金で物を買うことであり、買ってくるのは（コオテクル）となる＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01732.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01732",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01732.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6473.04",
+      "6476.93",
+      "6479.95",
+      "6482.52",
+      "6474.78",
+      "6489.01",
+      "6489.27",
+      "6491.65",
+      "6494.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧    17-33\n\n（上部欄）\n資料番号　地図番号\n10 S 72\n項目名　カッテクル（借りてくる）\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n\n（表ヘッダ）\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n（表内容・注記欄）\n7.　カッテクルこと。\n2.　借用してくることをいう。買ってくるはコーテクルである。\n3.　買ってくる〈新〉\n2.　買ってくるは〈ko:te-kuru〉であろ\n2.　〃　コーテクルである\n4.　NR　コオテクル　借　サリテクル\n3.　買ってくる〈新〉\n2.　（買ってくるは〈ko:te-kuru〉）\n2.　〈〃〉　コオテクルであろう\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01733.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01733",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01733.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6500.88",
+      "6536.32",
+      "6540.52"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 17-34\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n質問番号　地図番号\n10　S　72\nオッテクル（借りてくる）\nA 普通注記　（ページ）\n（B 除いた共通語）\n（C 除いた特殊語）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6500.88　4. 「なってくる」という言い方は当地方にはない。\nしかし、このことは証拠があれば、共通語として「買ってくる」のことと判断する。\n＜この地方の言い方としては 買ってくる -> ko:tekuru・椋ってくる -> karettekuru など＞\n6536.32　5. くせってくる・こーてくる 共に「買ってくる」。\nかりてくる -> 「借りてくる」とのことてあろう\n6540.52　2. ＜借ッテクルと借りテクルと同程度に使っている＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01734.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01734",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01734.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6540.79",
+      "6542.71",
+      "6546.73",
+      "6551.18",
+      "6554.08",
+      "6556.60",
+      "6566.51",
+      "6571.15",
+      "6573.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 17-35\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n質問番号 101 S 地図番号 72\n項目名 カッテクル（借りてくる）\nA 普通注記   ページ\n[B 除いた共通語] [C 除いた特殊語]\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C 残した語形とその注）\n\n2. 借りてくる〈希〉\n2. 〈手紙での回答〉\n2. 〈買ってくるのは コーテクルという〉\n7. サッテクル（？）\n2. 〈買ってくるは コォテクルという〉\n2. 〈買ってくるは コォテクル・借ってくるは サッテクル・サリテクル〈共〉〉\n2. 〈買ってくるは ko:tekuru.〉\n3. 〈此土地では「借ってくる」が普通。〉\n2. 〈関東アクセント地点であっても語彙文法はやはりほぼ近畿でちろ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01735.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01735",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01735.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6586.27",
+      "6710.02",
+      "7239.29",
+      "7248.15",
+      "7284.16",
+      "7289.31",
+      "7302.87",
+      "7338.55"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）｛｝は厳密にする。\n日本言語地図資料用紙　注記一覧　17-36\n資料番号　地図番号　101 S　72　項目　カッテクル(借りてくる。)\n地 点 番 号　A 音形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6586.27　3.　＜カッテクルと言えば、7割まで「借ってくる」 3割ほど「買ってくる」だ。「買ってくる」は コオテクルが多いけれども＞\n6710.02　1.（抹消）\n7239.29　1.　＜町方とは全くちがう＞\n7248.15　2.　「借して」は kja:ite となる。\n7284.16　2.　(katte kute')\n7289.31　2.　kattji kuruという\n7302.87　2.　＜買うのなら ko:te:kurm という＞\n7338.55　2.　＜買っては ko:te という＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01736.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01736",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01736.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7342.12",
+      "7342.76",
+      "7352.38",
+      "7361.82",
+      "7365.96",
+      "7391.44",
+      "7396.53",
+      "7400.15",
+      "7401.11"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧\t17-37\n（右上の箱）\n項目番号 101 S\t地図番号 72\nカッテクル（借りてくる）\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（各行の注記）\n2. <買ってくるは ko:te kuru>\n2. <  \"  \"  >\n2. （買って = ko:tji）\n7. 記入なし\n2. 借ってくる・・・・kattji kuru ということが多い。\n   買ってくる・・・・ko:tji kuru.\n2. （買ってくる時は コッツクル、ニッヅクル）\n2. <買ってくるは ko:tji kuru という>\n2. <買ってくるは <ko:te kurum>>\n2. <買っては ko:te という>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01737.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01737",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01737.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7401.92",
+      "7402.42",
+      "7402.47",
+      "7404.12",
+      "7404.56",
+      "7410.57",
+      "7411.27",
+      "7421.62",
+      "7430.75"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n\n日本語言語地図資料用紙　注記一覧　　　　　17-38\n資料番号　地図番号\n101 S 72\nカッテクル（借りてくる）\n(A 普通注記) (B 除いた共通語) (C 除いた特殊語)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n2.　<買ってくるは ko:te-kuru である>\n2.　<〃 　‘‘　という>\n2.　<〃>\n2.　<〃>\n2.　<買うの方は ko:te-kuru・kamu であろう>\n2.　<zeniを支払うのは ko:te-kuru という>\n2.　<買ってくる方は ko:te-kuruという、ka'tekuru　ものはあとで nasuことになる>\n2.　<買ってくるのは ko:te-kuru であろう>\n2.　<〃　‘‘　という>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01738.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01738",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01738.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7431.82",
+      "7440.69",
+      "7440.72",
+      "7450.20",
+      "8306.42",
+      "8323.59",
+      "8341.46",
+      "8345.24",
+      "8345.74",
+      "8355.23"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙　注記一覧　17-39 質問番号　地図番号　A　普通注記 (B　除いた共通語) (C　除いた特殊語) 10 S 72 項目名　カッテクル（借り・いくる） ページ（2㊦） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注） 7431.82　2.　＜買っては ko:te という＞ 7440.69　2.　＜買ってくるは ko:te kuru でおろ＞ 7440.72　2.　＜買ってきたは ko:te kita＞ 7450.20　2.　＜買ってくるは ko:ite kuru＞ 8306.42　2.　＜〃 ko:te kuru＞ 8323.59　2.　買ってくる… kokki, 借りてくる… kakkui 8341.46　2.　# 8345.24　2.　買ってくるはコーテクルという 8345.74　2.　＜〃／kokkuru／という＞ 8355.23　2.　＜〃 〃＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01739.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01739",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01739.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "0228.96",
+      "0238.55",
+      "0246.48",
+      "0247.31",
+      "0248.00",
+      "0249.17",
+      "0256.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 17-40\n質問番号 地図番号\n101 S 72\n項目名 カッテクル(借りいくる)\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)\n\n地点番号  A 語形とその注記 (B・C除いた語形とその注)\n0228.96  5. <共>\n0238.55  5. #. <共>\n0246.48  4. N.R.\n0247.31  5. #. <共>\n0248.00  5. <共>\n0249.17  4  <共通語としてはどちらかとええば\n借ってくる 意味にとるだろう>\n<hoiti suiri 買ってくる>/<ha'ti suiri 借ってくる>\n0256.76  5. <共> <共通語では必ず借用の場合は\nカリテキタ式にいう習慣>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01740.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01740",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01740.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "0256.89",
+      "0257.12",
+      "0265.96",
+      "0275.36",
+      "0275.97",
+      "0276.50",
+      "0294.66",
+      "0294.93",
+      "0340.00"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 17-41 資料番号 地図番号 A 普通注記 (B 除いた共通語) (C 除いた特殊語) 101 S 72 カッテクル(借りてくる。 ページ (2割) 6 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 0256.89 5. ＜共＞＜共通語のときは信用を カリテクダ式 にいく習慣＞ 0257.12 6. ＜方言では 借りてこい を káti kó: という＞ 0265.96 6. ＜共＞ 0275.36 4. NR. ＜共＞ 0275.97 6. ＜共＞ 0276.50 6. ＜共＞ 0294.66 5. ＜共＞ 0294.93 5. ＜共＞ 0340.00 6. ＜共＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01741.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01741",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01741.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "1156.89",
+      "1213.76",
+      "1223.91",
+      "1231.72",
+      "1231.88",
+      "1232.29",
+      "1167.01",
+      "1169.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 17-42\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n質問番号　地図番号\n101 S 72\n項目名　カッテクル(借りてくる)\nA 普通注記　(B 除いた共通語)　ページ 7　(C 除いた特殊語)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)\n\n4. (ko:ti tsu (買ってくる), kati tsu (借てくる) で区別)\n5. [共]\n4. N.R. <買ってくるは ko:ti huin, 借ってくるは kati huin>\n4. N.R. <買ってくるは ho:ti tʃun, 借ってくるは kuti tʃun>\n4. hoiti jun 買ってくる, kati juy 借ってくる\n4. N.R. <買ってくるは ho:ti ɸuIN, 借ってくるは kati ɸuIN という>\n\n4. ko:ti tʃuN 買ってくる, kati tʃuN 借ってくる\n4. N.R. <買ってくるは ko:ti tʃuN, 借ってくるは kati tʃuN>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01742.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01742",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01742.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "1232.75",
+      "1241.05",
+      "1241.96",
+      "1241.49",
+      "1242.00",
+      "1242.22",
+      "1251.73",
+      "1251.98",
+      "1260.78",
+      "1260.87"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙　注記一覧　17-43 質問番号　地図番号　101 S　72 項目名　カッテクル(借りてくる) A　普通注記 [B　除いた共通語] [C　除いた特殊語] ページ (8)(2) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注） 1232.75　6.　N.R.（買ってくるは ho:ti kun, 借ってくるは kat'i kun） 1241.05　4.　N.R.（ho:ti kun, kat'i kun） 1241.96　4.　N.R.（ko:ti kun, kat'i kun） 1241.49　4.　N.R. 1242.00　4.　（買っては ko:ti, 借っては kati） 1242.22　4.　N.R.（買ってくるは ho:ti kun, 借ってくるは kat'i kun） 1251.73　4.　N.R.（ko:ti tju:N, kati tju:N） 1251.98　4.　N.R.（ko:ti tsuN, kati tsuN） 1260.78　4.　N.R.（ko:ti tju:N, kati tju:N） 1260.87　4.　（ko:ti tju:N, kati tju:N）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01743.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01743",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01743.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-44\n101　S　72\n項目名　カッテクル(借りてくる)\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (28)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4. N.R. <買ってくるは ko:ti tʃuːN, 借てくるは kati tʃuːN>\n4. N.R. <\" ko:ti tʃuːN, \" kati tʃuːN>\n4. N.R. <\" ko:ti kuːN, \" kati kuːN>\n4. N.R. <\" ko:ti tʃuːN, \" kati tʃuːN>\n4. <\" ko:ti tsuːN, \" kati tsuːN>\n4. 買ってくるは kai kuN, 借りてくるは kare kuN\n4. <\" kai kuN, \" kari kuN>\n4. N.R.\n4. 買ってくる kai kuy, 借ってくる kari kuy\n4. \" kai kuN, 借りてくる kari kuN\"",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01744.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01744",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01744.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "2076.98",
+      "2076.99",
+      "2085.69",
+      "2086.03",
+      "2095.60",
+      "2140.96",
+      "2140.49",
+      "2141.61",
+      "2141.71"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n日本言語地図資料用紙　注記一覧　17-45\n資料番号　地図番号\n101 S 72\n項目名　カッテクル（借りてくる）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n2076.98　4　＜買って来たは kai kitta，借りてきたは karikitta という＞\n2076.99　4　＜買ってくるは ke:ku?，借りてくるは kui key という＞\n2085.69　4　N.R.\n2086.03　4　買ってくるは kai kuru，借りてくるは kui kuru\n2095.60　4　＜〃　ke:kūn，借ってくるは kāri kun＞\n2140.96　4　N.R.（立ってくるに当る語形がない）\n2140.49　4　N.R.＜買ってこいは kaj: fui，借ってこいは kari: fui，立ってくる語形はない＞\n2141.61　4　N.R.＜買ってくるは kai ku，借ってくるは kari ku；立ってくると言う語形なし＞\n2141.71　4　N.R.＜買って来いは kai ku；借りてこいは kari ku＞\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01745.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01745",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01745.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "2150.06",
+      "2150.07",
+      "2150.17",
+      "2151.11",
+      "2151.20",
+      "2151.51",
+      "2151.64",
+      "2151.67"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-46\n資料番号　地図番号\n101 S　72\n項目名　カッテクル(借りてくる)\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (3)\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n2150.06　4. N.R. <買って来るは kai ku; 借って来るは kari:ku:>\n2150.07　4. N.R. (「行ってくる」に当る語形がない)\n2150.17　4. N.R. <  >\n2151.11　4. N.R. <  > .買ってくるは\n kai ktsi, 借てくるは kari ktsi>\n2151.20　4. N.R. <なってくるの語形がない。買ってくる kai ktsi, 借てくるは zoi ktsi>\n2151.51　4. N.R. (  ) \"kai ku;\" \"kari ku:\"\n2151.64　4. N.R. <  > .買って来い kai ku; 借りて来い kari ku:>\n2151.67　4. なってくるという語形はない、<買って来るは kai tsti; 借って来る kari tsti:>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01746.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M072Q101/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01746",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01746.tif",
+    "source_ljc_id": "LJC-M072Q101",
+    "source_map_numbers": [
+      "072"
+    ],
+    "source_title": "カッテクルを“買ってくる”の意味で使うか,“借 りてくる”の意味で使うか"
+  }
+]

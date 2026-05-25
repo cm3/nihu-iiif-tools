@@ -1,0 +1,1023 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "8740.33",
+      "1739.10",
+      "1739.85",
+      "1747.04",
+      "3649.64",
+      "3722.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-45\n調査番号　地図番号　0195　029　○　普通注記\n項目名　あかい\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)(　)は破線にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n08740.33　使わない。〈集魚灯では薄暗いことをアカイと言う。〉（電池が消耗して、色が赤味をおして、暗いから。）\n1739.10　使わない。〈四国の人は使うか：〉\n1739.85　使わない。〈akariwiと言う。〉\n1747.04　使わない。〈東の方がアカクナッタとも言う。時一（使う）〉\n3649.64　使わない。アガリーと言う。\n3722.32　使う。29?とと言う。[北秋田郡は使う]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00645.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00645",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00645.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3733.18",
+      "3733.22",
+      "3740.29",
+      "3750.75",
+      "3771.29",
+      "4637.68",
+      "4638.43",
+      "4647.87",
+      "4648.59"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 6-46 資料番号 0195 地図番号 029 普通注記 項目名 あかい (2) 地点番号 A語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C残した語形とその注) 使わない。agariと言う 使わない。agariと言う 使わない。agariと言う 使わない。agariと言う 使わない。agarinaと言う 使う。(agariuiのruの脱落したものかもしれない) 使わない。akari:と言う 使わない。わだしアカリーと言う 使わない。<akari:と言う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00646.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00646",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00646.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4659.50",
+      "4659.85",
+      "4676.39"
+    ],
+    "other_text": "日本語地図資料用紙注記一覧　6-47\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n資料番号 0195　地図番号 029　A 普通注記\n項目名　あかい　(3)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n4659.50　使う。但しこの場合のアガイの（レイ）は形容詞の語尾からきたものではなく、「アガリ」（明るいのつま、九音）の「リ」の子音が省略されたものである。（金儀加エ門氏より教わる。）\n\n4659.85　使う。（赤い→アガエ、明るい→アガイと区別する。）\n\n4676.39　使う。ただし、[akari]が[ri]の脱落によって[aka]とも発音される。\n\n（小注）に変更する。加藤シルス",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00647.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00647",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00647.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4679.65",
+      "4697.92",
+      "4771.58",
+      "4780.64",
+      "4781.86",
+      "4784.41",
+      "4790.74",
+      "5463.64",
+      "5472.91",
+      "4706.53"
+    ],
+    "other_text": "4706.53. #使わない。(#は思いがけない質問なので:とまどっ もの)\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 6-48\n\n貴冊番号 0195 地図番号 029\n項目名 あかい\n(A)普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4)\n\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A注のない語形 (B・C残した語形とその注)\n\n3. 赤いは [ake]\n4679.65 使わない。 <agaliと言う>\n4697.92 使わない。 <agari:を使う>\n4771.58 使わない。 <agariを使う>\n4780.64 使わない。 <agaLiと言う。>\n4781.86 使わない。 <agani:を使う>\n4784.41 使わない。 <agari:を使う>\n4790.74 使わない。 <agari:を使う>\n5463.64 使う。 <アケである。>\n5472.91 使う。 ake:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00648.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00648",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00648.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5539.74",
+      "5546.34",
+      "5555.09",
+      "5557.48",
+      "5598.67",
+      "5608.51",
+      "5618.43",
+      "5622.48",
+      "5636.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-49\n資料番号 0195 地図番号 029\n項目名 あかい\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (5)\n\n地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注)\n\n使わない。＜アカルイと言う＞\n使う〈希〉〈しかしアカルイが多い〉という。\n使う〈古〉\n使わない。〈akaruiと言う〉\n使わない。（注 この地方は明るくなることをアカルという。）\n使わない。〈agariと言う〉\n使わない。〈agariを使う〉\n使わない。akari:と言う。\n使わない。＜アカリイと言う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00649.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00649",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00649.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5644.29",
+      "5666.18",
+      "5688.07",
+      "5691.37",
+      "5696.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\nA・(B)・(C)ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記の〈〉( )[ ]は厳密にする。\n\n資料番号 0195　地図番号 029\n項目名　あかい\n(A)普通注記　(B)除いた共通語　(C)除いた特殊語　(6)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注記）\n使わない、〈akaruiと言う〉\n使わない、〈アカリイ〉と言う\n使わない〈ただし、朝日がアカイ\n夕日ガアカイ〉\n\n朝空ノクモガアカイゾは\n使用する。〉\n\n使わない、〈火事の火はマッカに見えるか〉\n使わない、〈ただし、今生きていれば、\n130くらいのおばあさん—ここの\n土地の一は使ふ。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00650.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00650",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00650.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5790.79",
+      "5791.23",
+      "6286.68",
+      "6287.71",
+      "6357.38",
+      "6384.25",
+      "6401.89",
+      "6402.53",
+      "6379.67"
+    ],
+    "other_text": "6379.67 ?\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈　〉（　）（　）は厳密にする。\n日本語語地図資料用紙注記一覧 6-51\n地図番号 029\n項目名 あかい\n（A）通常注記 （B 除いた共通語） （C 除いた特殊語）\n地点番号　A語形とその注記（B・C除いた語形とその注）\n5790.79　使わない、〈akaruiを使う〉\n5791.23　使わない　〈akaruiと言う〉\n6286.68　使う。（ake:）\n6287.71　使う。〈akaruiという言い方はない〉\n6357.38　使う。しかし、アカルイが多い\n6384.25　使う〈少〉\n6401.89　使う（？）〈アカハイであるようだ？〉（使うと言われか後で疑問にした。）\n6402.53　使う。〈発音はアキャ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00651.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00651",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00651.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6410.77",
+      "6411.66",
+      "6412.48",
+      "6416.09",
+      "6416.58",
+      "6417.14",
+      "6421.82"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（）［　］は厳密にする。 日本言語地図資料用紙注記一覧 6-52 地図番号 029 項目名 あかい (A) 普通注記 (B 除いた共通語) (C 除いた特殊語) (8) 地点番号欄ヘッダ A 語形とその注記【B・C除いた語形とその注】 A 注のない語形【B・C残した語形とその注】 使う。＜平常の話ではアケノ＝明いね、と使う＞ 使う。又くアケと言う。＞最初使われる？とれか； 使う。＜たれしアケと言う＞ 使わない。＜アカルイと言い、アカイとは言わぬ。＞ 使う。（答はアケェであれ。） 使う。あkzeiと言う 使わない（？）誘導したか、苦しそうに希に使うと言う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00652.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00652",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00652.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6429.15",
+      "6436.33",
+      "6438.33",
+      "6440.25",
+      "6443.00",
+      "6443.88",
+      "6444.89",
+      "6453.59",
+      "6455.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-53 地図番号 029 あかい (9) A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 6429.15 使う。＜くれだし、共通語的場面では アカルイという形も使う＞ 6436.33 使う。（akai） 6438.33 使う。＜アカルイとは言わぬ＞ 6440.25 使う。＜発音はアコオである＞ 6443.00 使う。アカア 6443.88 使わない。＜アカリイという＞ 6444.89 使う。＜あまり使わない＞ 6453.59 使う。＜今は余り使わない＞ 6455.31 使う akje:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00653.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00653",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00653.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6457.18",
+      "6457.45",
+      "6461.53",
+      "6476.17",
+      "6486.50",
+      "6492.11",
+      "6492.50",
+      "6578.87"
+    ],
+    "other_text": "日本諸語地図資料用紙 注記一覧    6-54\n資冊番号 地図番号 0195 029\n項目名　あかい\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n（右上の丸）A 普通注記 （B 除いた共通語） （C 除いた特殊語）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6457.18　使う　アカルイ〈新〉\n6457.45　使う〈希〉\n6461.53　使う、〈時に〉\n6476.17　使う、〈ボッコアカイ・というように〉\n6486.50　使う　ユヒヤ（部屋）ヨカ（ヨッカ）　コッ.チガアカイデナイカ\n6492.11　使う、〈akai wai〉\n6492.50　使わない、〈akaruiと言う〉\n6578.87　使わない。（迷っていて使うと答えた　トスレ、加藤ラルス　最初？使えば、か、使わないと思う）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00654.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00654",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00654.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6520.79",
+      "6531.53",
+      "6534.37"
+    ],
+    "other_text": "▲ A・(B)・(C)ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜＞( )[ ]は厳密にする。\n\n日本言語地図資料用紙 注意一覧 6-55\n資料番号 0195   地図番号 029\n項目名 あかい\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (1/1)\n\n(電燈が暗くなると電球が赤味がかった色になるが、その状態を念頭において、ロウソクの明るさと比較して、使うと最初答えたようだ)\n使めよい。村（今では町）の人は使ったのを聞かえしと言う。\n\n使う。＜アカルイとは言わぬ＞\n使う。＜古くせえば、マタソトがアカイのように言うが、若い人たちは、アカルイを使うようだ。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00655.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00655",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00655.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6544.26",
+      "6553.47",
+      "6562.48",
+      "6563.58",
+      "6564.33",
+      "6557.36"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 6-56\n調査番号 0195 地点番号 029\n項目名 あかい\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）〈　〉は厳密にする。\n（欄見出し）地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n使う。＜使うことは使うが「明かるい」という形を使うのが普通だ。＞\n使う。（太陽がさしのぼった傾りをあげて「モーアコナッタ、ハヨオキヨ。」（もう明るくなった、早く起きよ。）と言った。）\n使わない。（この町にはアカイと言う人も多い。）\n使わない＜akani：と言う＞\n使わない＜akari＞と言う\n\n（余白書き込み）6557.36 使わない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00656.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00656",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00656.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6574.06",
+      "6583.19",
+      "6583.45",
+      "6593.98",
+      "6594.67",
+      "6616.22",
+      "6617.75",
+      "6571.34"
+    ],
+    "other_text": "6571.34 使う。（発音は[2kkai]）\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n日本言語地図資料用紙注記一覧 6-57\n資料番号 0195   地図番号 029   項目名 あかい\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  (13)\n\n使わない。（「アカリ」[2kari:]と言うのであって、「アカイ」とは言わない）\n使わない〈[2kari:]と言う。〉\n使う。〈「アカーノニャー」（明るいねえ）〉という文例をあげた。\n使わない〈「アカリー」と言う。〉\n使わない、〈若い時には、よかったか、此の頃では、聞くことがある〉\n使わない、〈[2kari:]と言う。〉\n使わない〈アカリヤという〉と。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00657.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00657",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00657.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6619.76",
+      "6730.33",
+      "7208.97",
+      "7229.75",
+      "7239.29",
+      "7246.45",
+      "7247.86",
+      "7266.60"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧    6-58\n\n資料番号 0195    地図番号 029\nA 普通注記    (B 除いた共通語)    (C 除いた特殊語)    ページ (14)\n項目名　あかい\n\n地点番号　　A語形とその注記 [B・C除いた語形とその注]　　A注のない語形 (B・C 残した語形とその注)\n\n6619.76 　使わない、akarui, akari: を使う。\n6730.33 　使わない。[akari-na:] のように明かるいと言う。\n7208.97 　使う（akakaと言う）\n7229.75 　使う（モオ・アユナットルバイなど）\n7239.29 　使われない〈アカイとアカルイとは区別する。〉\n7246.45 　使う（akkaと使う）\n7247.86 　使う。akkaと言う。変りは makkjaakka?\n7266.60 　使う。akkaとなる。\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00658.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00658",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00658.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7268.45",
+      "7275.24",
+      "7301.67",
+      "7302.71",
+      "7302.87",
+      "7303.37",
+      "7316.65",
+      "7320.59",
+      "7321.87",
+      "7322.17"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 6-59\n資料番号 0195 地図番号 029\n項目名 あかい\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (15)\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n使う。 アッカと言う\n使う。〔アッカと言う〕\n使う。 アカイと言う\n使う。 akaiと言う\n使う。 <ako:nat:a>の様に言う。\n使う。 akaiと言う\n使う。 a:ke:\n使う。 ako:nat:aの様に\n使う。 ただし ak2 k2\n使わない。 akaruiと言う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00659.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00659",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00659.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "7322.81",
+      "7329.39",
+      "7330.91",
+      "7332.46",
+      "7332.97",
+      "7335.93"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 6-60 資料番号 0195 地図番号 029 項目名 あかい A 普通知記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C残した語形とその注) 使う。電灯がついてアカイと言う。 使わない。<2karuiと言う。> (調査者の手持資料でも、伊予市あたりから南の地域では、akaiの聞かれる所は少い。) 使う。akkaを。そして、色の「赤い」はakakaという。 使う。<アカイという> 使う。(ケケ〜) 使う a ke:-",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00660.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00660",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00660.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7338.55",
+      "7342.12",
+      "7342.76",
+      "7343.76",
+      "7344.99",
+      "7345.98",
+      "7346.58",
+      "7347.93",
+      "7349.86"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )[ ]は厳密にする。 \n日本言語地図資料用紙 注記一覧 6-61\n資料番号 0195 地図番号 029 項目名 あかい\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (17)\n地点番号　A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注)\n使う　<akarui nat:ると言う>\n使う　ex) ako:na t:a\n使う　(akkaと言う)\n使う　<denki ga tsuite ako:inata>\n使う　... ake'と言う\n使う。akwe:\n使わない。(?) <アカリー>\n使う。ake:\n使う。<アカリィの方が普通>\n使わない　<akaruiと言う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00661.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00661",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00661.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7349.91",
+      "7351.09",
+      "7352.14",
+      "7352.61",
+      "7354.23",
+      "7356.06",
+      "7356.55",
+      "7356.98",
+      "7357.31",
+      "7359.78"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　6-62\n質問番号　0195　地図番号　029\n項目名　あかい\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(18)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<, >( )[ ]は厳密にする。\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n使わない。　<akaruiと言う>\n使う　akaka\n使う。　〈アカカ、アカルともに用う〉\n使う。　アッカ\n使う。　アケエ\n使う　ake:\n使う?　2ke:\n使う。　〈若い人はアカリイ〉\n使う。　〈今はアカリイというのが普通〉\n使わない。　〈akaruiと言う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00662.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00662",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00662.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7361.17",
+      "7362.42",
+      "7362.67",
+      "7363.12",
+      "7363.59",
+      "7363.85",
+      "7364.34",
+      "7370.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-63\n質問番号 0195  地図番号 029\n項目名 あかい\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(19)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n\n地点番号　A語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7361.17　使う　アッカ\n7362.42　使う　アッカ\n7362.67　使う　<アッカネ>\n7363.12　使う　(アキャア)\n7363.59　使う　<akæ:(nai)と言う>\n<akka,2akkaとは言わない>\n7363.85　使う　<例. アカカネエのごとく>\n7364.34　使う　アッカと言う\n7370.41　使う　但し、アッカ（明るい）、アカ（赤い）の区別がある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00663.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00663",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00663.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7372.27",
+      "7373.56",
+      "7373.92",
+      "7374.15"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。 ▲ その中での情報は地点番号順に並べる。 ▲ 注記の < > ( ) [ ] は厳密にする。 6-64 日本言語地図資料用紙 注記一覧 質問番号 0195 地図番号 029 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] 項目名 あかい 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 使う、九だし、アッカと言う 使う <アッカナア> (使う) アッカ（希） アカル（動詞）優勢。 使う アッカ。 使う <アケアを使う> 使う <アッカを使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00664.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00664",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00664.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7381.97",
+      "7382.93",
+      "7383.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n日本言語地図資料用紙　注記一覧　6-65\n資料番号　019s　地図番号　029　項目名　あかい\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ　21\n\n使う　アッカ\n使わない、但し、アッカとは言わず、アカン（ナー）またはアカル（ナー）という。\n使う。（アカル　ゴトアル　電気ノコト　アカルナイのように動詞アカルを用いるのが基本だというが、アカカ、アッカも今も時々使う。この方が古いことばだと思うと言う。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00665.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00665",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00665.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7385.84",
+      "7390.26",
+      "7390.70",
+      "7390.75",
+      "7391.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-66\n資料番号 0195　地図番号 029　項目名 あかい　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (22)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7385.84　使う。 (「あかい」は akja:)\n7390.26　使う　アカル ナァイ ともに用いる。 アッカ ナァイ。 (アカルとは［光輝］というような意味だと言う。)\n\n7390.70　使う。 アッカを用う。\n7390.75　使う。 (アッカ)\n7391.01　使う。 (アカルニャ（明るいなあ）の如く、ア・カルというのが一般のようであるが、これは新しい形、アッカも用いる。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00666.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00666",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00666.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7391.44",
+      "7391.94",
+      "7392.33",
+      "7392.45",
+      "7392.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-67\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )( )は厳密にする。\n\n質問番号 0195  地図番号 029\n項目名 あかり\n(A)普通注記  (B 除いた共通語)  (C 除いた特殊語) (23)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（アッカの方が古来の言い方であると言う。）\n\n7391.44　使う。　アッカ\n7391.94　使う。　アカル（古くからの言い方？）\n　　　　アカン\n　　　　アッカ\n\n7392.33　使う。　アッカ\n7392.45　使う。　〈文例、コラテキャア（モン）〉\n7392.94　使わない。〈アカルネー、アカンネーという〉\n（動詞を用い、アッカは用いない）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00667.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00667",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00667.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7393.62",
+      "7394.60",
+      "7401.60",
+      "7401.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-68\n調査番号 地図番号 0195 029\n項目名 あかい\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (29)\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注]\n7393.62 使う。 アッカ\n7394.60 使う。 <普通はアカル(＝アカル(ヨーアカルナイ))であるが、アッカも使う。れだしこれは、やや古い言い方である>\n7401.60 使う。 〜naったという形の方が多い。akaiという。言い切りの形では、あまり言わない。\n7401.92 使わない。 <2ka?waiと言う?> (武智正人「愛媛の方言」によると、松山（市五明夫との山...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00668.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00668",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00668.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7402.47",
+      "7403.21",
+      "7410.57",
+      "7411.27",
+      "7414.87",
+      "7415.01",
+      "7420.18"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[　]は厳密にする。\n日本言語地図資料用紙 注記一覧 6-69\n資料番号　地図番号\n0195　029\n項目名　あかい\nA　普通注記\nページ (25)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n(部)でも使っている。\n7402.47 使う。　<akaineja>と言う。\n(nejaは、同輩間で使う親助詞。 女子も稀に使う。)\n7403.21 使う。　<akanat:aaのようにも言う>\n7410.57 使わない。（<kakarui>とだけ言う油）\n7411.27 使う。　<akaineja などと言う>\n7414.87 使わない（？）\n7415.01 使わない（アカルという動詞を使うようだ）\n7420.18 使わない　<kakaruiと使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00669.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00669",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00669.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7420.91",
+      "7421.38",
+      "7421.62",
+      "7425.82",
+      "7430.15",
+      "7430.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)は厳密にする。\n日本言語地図資料用紙 注記一覧 6-70\n資料番号 0195 地図番号 029\n項目名 あかい\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (26)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7420.91　使わない　<akarui, akaruun natta と言う。>\n7421.38　使わない（<akarui>という由。）\n7421.62　希、使う（<akaruiという方が多い。>）\n7425.82　使わない（極めて希には、使わぬこともないようである。）\n7430.15　使わない　<akaruiと言う>\n7430.75　使う　<明るくなれば、akarui: nattaということもあるが、 ako:- nattaというほうが多い。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00670.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00670",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00670.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7430.80",
+      "7431.08",
+      "7431.13",
+      "7436.73",
+      "7440.69",
+      "7440.72",
+      "7446.26",
+      "7460.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-71\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉［］は厳密にする。\n\n資料番号　地図番号\n0195　029\n項目名　あかい\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(27)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形 [B・C 残した語形とその注]\n\n使わない　〈2karuiと言う〉\n使わない。（〈2karui〉〈akarunatta〉という由。）\n使わない。（〈2karui, akaru:natta〉という由。）\n使う。〈ただし akanaiと言う〉\n使わない。〈akaruiという。〉\n使わない。〈akaruiと言う〉\n使う。（しかし、アカナイの方を多く使う。）\n使わない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00671.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00671",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00671.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7461.23",
+      "7503.11",
+      "7503.48",
+      "7522.48",
+      "7523.05",
+      "8229.96",
+      "8239.31",
+      "8248.18",
+      "8300.11"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙注記一覧　6-72\n質問番号　地図番号\n0195　029\n項目名　あかい\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(28)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7461.23　使わない。こごくまれには使わぬこともあるが、普通には使わぬ。>\n7503.11　使わない。〈(takarui)という。〉\n7503.48　使わる。〈akari:という〉\n7522.48　使わない。〈アカルイという〉\n7523.05　使わない。〈アカリイと言う〉\n8229.96　使う。akaka.\n8239.31　使う。agaga (akakaの濁音化)\n8248.18　使う　akaka\n8300.11　使う。(アッカ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00672.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00672",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00672.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "8300.87",
+      "8301.19",
+      "8302.19"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n\n0195  029\n項目名　あかい\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\nページ (29)\n\n地点番号    A語形とその注記 [B・C除いた語形とその注]\n8300.87    使う　akka\n8301.19    使う　（この場合は、アッカ n アッカ が終助詞的なもの。を用いる。）\n8302.19    使わない　トスル　Tokシルス\n           （アカルを使う。ヨウアカルナー）\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00673.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00673",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00673.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "8302.55",
+      "8302.91",
+      "8303.70",
+      "8303.84"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　6-74\n質問番号　地図番号\n0195　029\n項目名　あかい\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　(30)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくく( )は厳密にする。\n\n地点番号　A　語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C　残した語形とその注〕\n\n8302.55.　使う　アカカ、〈但し（動詞形）のアカル（ナア）を使うのが優勢であるが〉\n8302.91.　使う　アッカ〈もっと田舎の地方では、アカルという人が多いと思う〉\n8303.70.　使わない　（アカカ、アッカの如き形（方言語註）が多い）（（ヨネ）アカルナーのような動詞形を用いる。）\n8303.84　使う　（基本は、エライアカルネーであるが、エライアカイゴタルともいう）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00674.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00674",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00674.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "8306.04",
+      "8310.26",
+      "8310.87",
+      "8311.41",
+      "8311.59",
+      "8311.63",
+      "8312.33",
+      "8312.75",
+      "8313.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-75\n資料番号 0195 地図番号 029 項目名 あかい\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (31)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉()[]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nようである。\n8306.04　使う。　ake: という言い方で。\n8310.26　使う。　akka.\n8310.87　使う。　akka\n8311.41　使う。　akka.\n8311.59　使う。　akka\n8311.63　使う。　akka.\n8312.33　使う。　akaka\n8312.75　使う。　akaka\n8313.84　使う。　但し[akaka]という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00675.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00675",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00675.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "8315.89",
+      "8320.59",
+      "8320.98",
+      "8321.58",
+      "8322.43",
+      "8322.68",
+      "8325.56",
+      "8330.58",
+      "8331.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-76\n▷ A・[B]・[C]ごとに別紙を使用する。\n▷ その中での情報は地点番号順に並べる。\n▷ 注記の＜＞（　）は厳密にする。\n\n資料番号 0195 地図番号 029\n項目名 あかい\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (32)\n\nA 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n使う。 但し /makke:/ ではなく /ake:/ として。\n使う akka\n使う akka\n使う akaka, ake\n使う ake\n使う ake\n使う 2ke: として。\n使う akka\n使わない。 <アカットル＝赤かっている即、アカルという動詞で表わす。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00676.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00676",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00676.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "8331.17",
+      "8331.98",
+      "8332.07",
+      "8332.42",
+      "8332.59",
+      "8332.84",
+      "8333.79",
+      "8333.92",
+      "8341.46",
+      "8341.94"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n日本言語地図資料用紙 注記一覧    6-77\n質問番号 0195   地図番号 029\n項目名　あかい   (33)\n（A　普通注記）（B　除いた共通語）（C　除いた特殊語）\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]\n8331.17　使う　akaka\n8331.98　使う　2kaka\n8332.07　使う　ake\n8332.42　使う　ake\n8332.59　使う　akaka\n8332.84　使う　ake\n8333.79　使う　ake\n8333.92　使う　ake\n8341.46　使う　akaka\n8341.94　使う　akaka\n（右側の欄は空欄）」}",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00677.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00677",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00677.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "8342.35",
+      "8342.51",
+      "8343.06",
+      "8343.74",
+      "8344.11",
+      "8344.71",
+      "8345.10",
+      "8345.18",
+      "8350.68",
+      "8351.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-78\n質問番号 地図番号 0195 029\n項目名 あかい\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (34)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n8342.35　使う。 ake:\n8342.51　使う。 ake\n8343.06　使う。 ake.\n8343.74　使う。 ake\n8344.11　使う。 ake\n8344.71　使う。 ake.\n8345.10　使う。 ake:として\n8345.18　使う。 ake:として\n8350.68　使う。 akaka\n8351.07　使う。 ake.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00678.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00678",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00678.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "8351.41",
+      "8351.65",
+      "8352.29",
+      "8352.40",
+      "8352.92",
+      "8353.63",
+      "8353.68",
+      "8354.14",
+      "8354.29",
+      "8360.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-79\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく < > ( ) は厳密にする。\n資料番号 0195 地図番号 029\n項目名 あかい\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (35)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n使う akaka\n使う ake\n使う ake\n使う akaka\n使う <くれだし akaka>\n使う ake\n使う ake\n使う ake\n使う ake\n使う akka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00679.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00679",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00679.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "8361.28",
+      "8361.31",
+      "8362.34",
+      "8362.87",
+      "8362.85",
+      "8363.57",
+      "8363.64",
+      "8364.33",
+      "8372.47",
+      "8372.87"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉〔〕は厳密にする。\n\n日本言語地図資料用紙 注記一覧 6-80\n資料番号 0195 地図番号 029\n項目名 あかい (36)\nA(普通注記) [B(除いた共通語)] [C(除いた特殊語)] ページ\n\n地点番号\tA 語形とその注記 [B・C 除いた語形とその注]\tA 注のない語形 [B・C 残した語形とその注]\n8361.28\t使う\takka\n8361.31\t使う\takka, agaga\n8362.34\t使う\takaka\n8362.87\t使う\tagaga\n8362.85\t使う\take\n8363.57\t使う\take\n8363.64\t使う\take\n8364.33\t使う\take\n8372.47\t使う\take\n8372.87\t使う\take",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00680.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00680",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00680.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "8373.08",
+      "8393.69",
+      "9303.88",
+      "9312.42",
+      "9313.55",
+      "9322.52",
+      "0228.96",
+      "1211.69",
+      "1223.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）は厳密にする。\n日本言語地図資料用紙 注記一覧    6-81\n資料番号 0195    地図番号 029\n項目名　あかい\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (37)\n\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形（B・C 残した語形とその注）\n\n8373.08  使う  ake\n8393.69  使わない akaruという?\n9303.88  使う  akka\n9312.42  使う  ake:\n9313.55  使う  akka\n9322.52  使わない  <アガルということはそーあらわす>\n0228.96  使う  a:ka\n1211.69  使う  ahagaily\n1223.91  使われルス（形容詞は用いないで） 加藤ルス 動詞 akagai・N（あか...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00681.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00681",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00681.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "1232.29",
+      "1232.75",
+      "1233.61",
+      "1241.49"
+    ],
+    "other_text": "6-82\n日本言語地図資料用紙注記一覧\n質問番号 0195 地図番号 029\n項目名 あかい\nA（普通注記） (B 除いた共通語) (C 除いた特殊語) (38)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形 [B・C 残した語形とその注]\n\n1232.29　使う　（がる）を用いて表わす。　〈稀〉トゥル、カロ藤、シレス。〈ahagaiNという動詞を普通に用いる。〉\n1232.75　使う　〈ahahaNを使用するよりは、ahagaiNという動詞を用いていう。〉\n1233.61　使わない　〈明かるいは 2hagatoN という。〉\n1241.49　使う　〈ak'ahanより動詞ahagaiN〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00682.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00682",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00682.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "1242.00",
+      "1242.22",
+      "1242.26",
+      "1242.72",
+      "1251.73"
+    ],
+    "other_text": "日本音声地図資料用紙 注記一覧 6-83\n資料番号　地図番号　0195　029\n項目名　あかい\n(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語 (39)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n1242.00　使う　を使って表わす。<一般的に形容詞を用いるよりは akagain という動詞を用いてあらわす。>\n1242.22　使わない、スル、加藤シルス　(形容詞は使わないで akagain という動詞を使用する。)\n1242.26　使う　<akasan という>\n1242.72　使わない　<akagain という>\n1251.73　使う　<稀に使うことはあるか、>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00683.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00683",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00683.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "1251.98",
+      "1260.78",
+      "1261.70",
+      "1261.80"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　6-84\n質問番号　0198　地図番号　629\n項目名　あかい\nA 普通注記\nページ（90）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[]は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形［B・C 残した語形とその注］\n\n2akagaiという動詞を用いるのが普通の用法である。>\n\n使う　<akasanというよりakagainという動詞を使う。>\n\n使わないスル。カロ語シルス。\nただし、2kasaanとは言わえて、2kakarusanという。\n\n使う　<akasanという>\n\n使う　<akagainという動詞を用いて>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00684.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00684",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00684.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "1270.26",
+      "2072.20"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　6-85\n質問番号　地図番号　0195　029\n項目名　あかい\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ（41）\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n表現する場合が多い。\n1270.26　使う（形容詞の akasan をつかうより、akagai という動詞を用いて表現する。）\n2072.20　使う。（agaidu buru 赤くている。あかい。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00685.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M029Q019/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00685",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00685.tif",
+    "source_ljc_id": "LJC-M029Q019",
+    "source_map_numbers": [
+      "029"
+    ],
+    "source_title": "アカイを“明かるい”の意味で使うか"
+  }
+]

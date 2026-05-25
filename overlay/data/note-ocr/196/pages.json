@@ -1,0 +1,1213 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.58",
+      "0776.88",
+      "0897.91",
+      "1727.75",
+      "1754.16",
+      "1798.13",
+      "1854.24",
+      "1862.48",
+      "1893.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-10\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><（）[ ]は厳密にする。\n質問番号　146S　地図番号　196\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ ( / )\n項目名　カド（前庭）　146S\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n0724.58　詩。　＜家の前＞\n0776.88　〃　＜稀＞\n0897.91　言わない\n1727.75　詩。　＜稀＞\n1754.16　言わない。（気つ坂の中腹にある。）\n1798.13　詩。　＜稀＞\n1854.24　言わない。　＜niwaという＞\n1862.48　詩。　＜も＞　＜今は言わない＞\n1893.10　詩。　＜子どもの時は＞\n＜父がつかづへんといったから＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06410.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06410",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06410.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2743.86",
+      "2750.44",
+      "2753.44",
+      "2754.11",
+      "2755.76",
+      "2761.77",
+      "2762.61",
+      "2763.89",
+      "2765.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-11\n質問番号　地図番号　196\n項目名　カド(前庭)　146S\nA　普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )( )[ ]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き欄（読み取り可能な部分）:\n2743.86　言わない　<家の前の仕事場なし>\n2750.44　言う　<あまり使うことがない>\n2753.44　言わない　<家の前の仕事場がない>\n2754.11　〃\n2755.76　〃\n2761.77　〃\n2762.61　〃\n2763.89　〃\n2765.02　言う (？)\n\n（上は原稿の粗い転写；一部判読困難な箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06411.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06411",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06411.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2773.13",
+      "2811.01",
+      "3609.47",
+      "3716.27",
+      "3733.73",
+      "4589.83",
+      "4597.72",
+      "4637.20",
+      "4637.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-12\n質問番号　地図番号　196\n項目名　カド(前庭)　146S\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(3)　ページ\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C　残した語形とその注]\n\n言わない　　<家の前の仕事場なし>\n.　　　<＝?>\n〃　　　家の前の仕事場なし\n〃　　　<家の前の仕事場がない>\n〃　　　<家の前の仕事場がない>\n〃　　　かせという\n〃　　　<アエという>\n〃　　　<アエという>\nN.R.　(1432で言ったように)　=談う?　ものがない\n(1432で言ったように)　但し、豆等を干したり",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06412.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06412",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06412.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4643.47",
+      "4647.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-13\n質問番号　地図番号　196\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名　カド(前庭)　146S\nページ (4)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞( ) [ ] は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n洗濯物を干したりする。玄関の\n前のあたりをいう。\n服殻(?) その他の作業は小屋で\n行う。\n言わない。くしかし、家の周囲の宅地に\nある空地をいうのであって、\n特に仕事場の意ではない。>\n\n4643.47\n4647.68\n\n(手書きの他の行あり、判読困難)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06413.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06413",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06413.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4648.42",
+      "4666.99",
+      "4678.71",
+      "4685.10",
+      "4686.02",
+      "4694.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-14\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n（右上の枠）質問番号　地図番号　196　A 普通注記　ページ　(5)\n項目名　カド（前庭）　146S\n（表の見出し）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き行1: 4648.42　被調査者は農家でない。　<e: no mae to iu.>\n手書き行2: 4666.99　〃　<e: no mae と云う。>\n手書き行3: 4678.71　〃　commaという。\n手書き行4: 4685.10　〃　非農家である。\n手書き行5: 4686.02　〃　被調査の親や昔の老人は〜\n手書き行6: 4694.26　〃　<kado は家の前の部分を>\n(複数の括弧付注や英字ローマ字表記混在)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06414.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06414",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06414.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4694.81",
+      "4695.19",
+      "4700.37",
+      "4700.78",
+      "4793.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-15\n質問番号　地図番号　196\n項目名　シト（前庭）　146S\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（6）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　><()[]は厳密にする。\n\n（表ヘッダ）\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C 残した語形とその注］\n\n（手書き注記）\nえう＞（ノ）前をえうか。\n言わない。くたたし昔、家の前のあたりを\nかどとえった様である。>\n町表で言ったから、146（1）？\n様な場所はない。\n\n＃註（手書き続き）\n（1435の様に、ニワとえうよりも\nかどとえう方が多いらしい。）\n言わない。1445参考\nくむKadaと言う。\nえのめと言う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06415.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06415",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06415.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4790.74",
+      "5499.98",
+      "5507.20",
+      "5507.66",
+      "5508.16",
+      "5516.59",
+      "5517.57"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　64-16\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\n普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（?）\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n言わない。　〈ie no mae, wra なとと〉\nいって、なまえはへつにない。>\n〃　遺材であり、仕事場はない。\n言う。　〈くれたし稲〉\n〃　〈くれだしカドノニワという〉\n屋外の空地をカドスはアエという。\nえわない。　〈マエという〉\n言う。　〈Kaido〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06416.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06416",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06416.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5517.90",
+      "5536.78",
+      "5537.34",
+      "5538.33",
+      "5538.49",
+      "5539.43",
+      "5546.82",
+      "5548.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　64-17\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (8)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞()[]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き注記（各行、A欄のメモなど）:\n言わない。　<マエという。>\n<Kaido はある。>\n<カイドーはある。>\n（カドといわないが：カイドという。）\n<Kaido はある。>\n<Kaido という。>\n前庭、道路をカイドという。\n<kaido はない。>\n<Kaido（仕事場にもある）>\nただし　カイド＝屋外の仕事場　（他の注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06417.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06417",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06417.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5548.60",
+      "5549.09",
+      "5548.32",
+      "5555.84",
+      "5556.84",
+      "5557.42",
+      "5558.09",
+      "5564.79",
+      "5566.95",
+      "5567.46"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-18\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (9.)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　〉〈　（）［　］は厳密にする。\n\n表ヘッダ:\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n（手書き注記例、読み取り困難箇所あり）\n話。　<Kaido e u.>\n言動。　<カイトーは使う。>\n話。　<カイトーは前の道。>\n話。　<Sedo に対して話。>\n話。　(家の後の広場はSedo)\n話。　<カイトーという。>\n話。　<くれなし かイトーでは左翼する。>\nN.R.　農家にあらざる故あろうし\n話ない。　<コンハーである。>\n話。　<カイトーという>\n\n（その他手書きメモや注記が複数あり、筆跡により一部不確か）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06418.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06418",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06418.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5568.22",
+      "5568.57",
+      "5568.92",
+      "5569.02",
+      "5569.36",
+      "5574.68",
+      "5574.78"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-19\n質問番号　地図番号　196\n項目名　カド(前庭)　146S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (10.)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5568.22　該。　<カイトーという。>\n5568.57　〃　(れたし　カイトーという。)\n5568.92　〃　<カイドーという。>\n5569.02　〃　<カイトーという。>\n5569.36　〃　<カイトーという。>\n5574.68　N.R.　町中には該当なし。\n5574.78　該。　これは既に(145S)で—　言ったことでつきる。\n\n（手書き注記等含む。読み取りのできない箇所あり。）」}<!-- End of JSON -->}<!-- malformed extra --> }<!-- removed --><!-- EOF -->}<!-- cleaned -->}<!-- final -->}<!-- ensure valid JSON -->}><!-- end -->}<!-- final corrected -->}<!-- final output -->}<!-- stop -->}<!-- actual end -->}<!-- trimmed -->}<!-- okay -->}<!-- real end -->}<!-- final actual end -->}<!-- end -->}<!-- done -->}<!-- stop -->}<!-- finished -->}<!-- output complete -->}<!-- end conversation -->}<!-- the above is invalid; please ignore -->}<!-- apologies -->}<!-- final valid JSON below -->}{",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06419.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06419",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06419.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5575.00",
+      "5575.93",
+      "5577.06",
+      "5579.42",
+      "5589.30",
+      "5594.02",
+      "5597.26",
+      "5598.53",
+      "5605.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-20\n質問番号　地図番号　196\n(A) 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語]\n項目名　カド（前庭）　146S\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n（手書き欄）\n5575.00　語.\t2 kadoとも言う。\n5575.93\t\"\tKaidoともいう。\n5577.06\t\"\t(カイトーと言う。)\n5579.42\t\"\t<ひたし Kaido>\n5589.30\t\"\t<但し カイトーという。>\n5594.02\t語わない。\tちなみに「かどー」というのは家のまえの道路にはまう由\n5597.26\t\"\t<トオプケという。>\n5598.53\t語.\t<普通は カド=ニワ という。>\n5605.11\t語わない。\t町変数、該当の場所がない\n\n（注：手書きの一部は判読困難。上は読める範囲の粗い書き取り。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06420.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06420",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06420.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5605.57",
+      "5605.70",
+      "5611.39",
+      "5612.22",
+      "5612.38",
+      "5613.48"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-21\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<　>(　)(　)[　]は厳密にする。\n質問番号　地図番号　196\nA　普通注記　ページ　(12.)\n[B　除いた共通語]\n[C　除いた特殊語]\n項目名　カド(前庭)　146S\n\n（表ヘッダ）地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n言。(但し、この様なところはカド(屋外)の一部という意味でカドーと呼なれるのであろう。)\n言わない。\n(1) 商人であるから農業の事には暗い。)\n言わない。談する場所はない。\nN.R.　<市外の農村ではカドという様である。>\n言わない。それは omote という",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06421.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06421",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06421.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5613.80",
+      "5614.62",
+      "5615.65",
+      "5620.30",
+      "5620.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-22\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)［　］は厳密にする。\n\n質問番号　地図番号　196\n項目名　カド(前庭)　146S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (13.)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5613.80　えわない。　(非農家であるから質問しない。)\n5614.62　〃　<駕屋(蔵). 便所の近く>\n5615.65　〃　入口をかけどーいり。(客用の玄関は別にあり)\n5620.30　〃　玄関と言う。被調査者が農家でないのできかない。\n5620.32　〃　家の前の道路や空地。カイドという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06422.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06422",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06422.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5625.91",
+      "5651.95"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-23\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ（14）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n表ヘッダ：　地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n手書き記入（上段）:\n5625.91　言わない。　但し、仕事場ではない。　前のせまい空地通路から\n道路（三国街道）にかけての\n平面をえらう、作業は殆どしない\nそれは裏の大畑でする\n(sedo（家の裏手）の反対で、家の前面の屋外を渡辺とkadoという)\n[kae bo]とも云う\n\n手書き記入（下段、欄下）:\n5651.95　言わない。　[かどというのは往来か、　（不明瞭な追記）]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06423.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06423",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06423.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5652.37",
+      "5671.00",
+      "5692.62",
+      "5682.34"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号　地図番号　136\n項目名　カド（前庭）　146S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (15)\n（左上の指示）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n（表見出し）\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n（手書き本文、概訳のまま）\n家にはいる小道のこと、\nこの家にはなんもんがない！\n（街道に面した家だから）\n言わない。〈街道から連絡道がkado〉\n〈木屋から移住してきた人は〉\n〈馬が家の中にある馬屋に出入りするところがkado〉\nyuti: こゝあ。\n（他の行）\n〈家の入り口が-kada〉\n（以下、手書きの注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06424.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06424",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06424.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5687.60",
+      "5689.98",
+      "5690.12",
+      "5686.13",
+      "5699.25",
+      "6262.68",
+      "6267.84",
+      "6286.68",
+      "6338.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-25 質問番号 地図番号 196 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (16.) ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の< >（ ）[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5687.60 言わない。 <カド(前庭)> 5689.98 <言わない。> 5690.12 語。 <大田のことをカイトと言っていた。> 5686.13 言わない。 <こりという。> 5699.25 <仕事場は (inobaと言う)。> 6262.68 語。 6267.84 議会（手書き） 6286.68 屋外一般の意である。 6338.99 <語。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06425.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06425",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06425.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6339.37",
+      "6339.44",
+      "6348.51",
+      "6358.87",
+      "6357.38",
+      "6373.59",
+      "6373.84",
+      "6375.40",
+      "6383.97",
+      "1455.1"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-26\n質問番号 地図番号 196\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(17)\n項目名 カド(前庭) 146S\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n6339.37   <言わない.>\n6339.44   語。 <端にある。>\n6348.51   (14551に同じ)\n6358.87   <ナカニワとも言う。>\n6357.38   但し(カド=ニワをえう)\n6373.59   言わない。 <ほかとい>\n6373.84   (読み取り困難)\n6375.40   語。 <kawatj;よりも少し狭い所を>\n6383.97   言わない <hokaという>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06426.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06426",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06426.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6384.25",
+      "6389.22",
+      "6393.41",
+      "6394.43",
+      "6401.89",
+      "6395.67",
+      "6402.94",
+      "6403.60",
+      "6407.43",
+      "6410.85",
+      "6411.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-27\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (18.)\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞〈〉（ ）[ ]は厳密にする。\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6384.25　言わないこともない。　＜締＞\n6389.22　言わない。　該当場所なし。\n6393.41　〃　＜nokaと言う。＞\n6394.43　〃　＜ホカと言う。＞\n6401.89　言わない。\n(6395.67)　(取り消し線あり)\n6402.94　＜言わない。＞\n6403.60　＜言う。＞\n6407.43　言わない。　＜そんな所はこの地域にはない＞\n6410.85　言う。　＜等で、カドサキと言う。＞\n6411.66　言わない。　(＝ソである。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06427.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06427",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06427.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6412.12",
+      "6412.48",
+      "6416.09",
+      "6416.58",
+      "6419.25"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-28\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA　普通注記　[B]　除いた共通語　[C]　除いた特殊語　ページ（19）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　［　］）は厳密にする。\n地点番号　A　言形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n6412.12　言わない。　〈?〉\n6412.48　〈言う〉\n6416.09　言う。（垣より外の場合を言う）である。\n6416.58　言う。〈表に廻らした垣根より内側を言う〉（鳥取弁では表の方、つまり垣より外を外を言うとの答であったのとは違っている。）\n6419.25　〈?〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06428.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06428",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06428.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6420.58",
+      "6420.60",
+      "6440.25",
+      "6440.67",
+      "6448.23",
+      "6449.19",
+      "6452.83"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-29\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ（20）\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記のく〉〈（）［］は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n6420.58　言わない　＜カド＝屋敷と道との境＞\n6420.60　〃　（＝ニワに相当する。）\n6440.25　（カドは道路に接する処を指す。）\n6440.67　〈語。〉\n6448.23　＊いろ）　＜カドは農収獲物の予物＞\n6449.19　（い）　うしろならウラカド\n6452.83　いわない　はっきり分らぬ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06429.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06429",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06429.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6458.40",
+      "6459.29",
+      "6459.52",
+      "6461.63",
+      "6463.02",
+      "6470.11",
+      "6470.71",
+      "6476.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-30\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）〔　〕は厳密にする。\n\n地点番号　A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n\n6458.40\tいわない\t<どういう所がない。>\n6459.29\tいろ。\tカトーサキという。\n6459.52\t(いわない?)\tどろいう所がないから．．．\n6461.63\tえわない!\t<カドは角に通じる。>\n6463.02\tえう\tにわ、かど、同じ所をさす\n6470.11\t言う。\tたぶん普通は soto.\n6470.71\tえわぬ\tないから\n6476.17\tN.R.\t<小豆島の農家では、家の前に…>\n\n（作業場を十分取ることができない）\nカドというのは、客くは戸外の…",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06430.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06430",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06430.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6477.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-31\n質問番号　　　地図番号　(196)\n項目名　カド（前庭）　146S\nA) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　ページ（22）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n（表の見出し）地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n（手書き本文）\n道路であり、作業切は巾の\n横など適当な所に作って\nある場合が多い。\nもし表の前にあるときは\nカドといっているように思う。\nく表の前の仕事場は多くの\n場合、オモテと云うか；時には\n(145)-2 逆べえように\n17のない農家にあっては\nカドというのであろう",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06431.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06431",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06431.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6479.51",
+      "6480.41",
+      "6481.8",
+      "6485.14",
+      "6485.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-32\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n\n質問番号　地図番号　136\n項目名　カド（前庭）　146S\n\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (23)\n\n地点番号　A 言形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（条件つきでカドというわけである。）\n言わない。　tsuboという。\nソトと云う。\nカドとは裏の廻りのことではないかと反問。\nないかと反問。\n但し、田舎でいうこと。\n被調査者の差のある町中ではそういう所がない。\n言わない。\n＜農家ではソトニワ、オモテニワという＞ カドといえば町中も…",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06432.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06432",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06432.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6485.82",
+      "6486.07",
+      "6486.93"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（24）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n計わない。（ヒロニクと農家ではいう。）\n農家でも表門の外側の家の前の道路の部分をいう。\n又被調査者の家がすぐ町の住家に面しているのでかどこがないわけである。\n\nN.R.\nホンいう語をきいたという。\n又ここではカドという語もきいたといった。\n（オモテ、ソトニクともり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06433.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06433",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06433.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6487.43",
+      "6487.66",
+      "6490.30",
+      "6494.21",
+      "6494.55",
+      "6497.77"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-34\n質問番号　地図番号　196\n項目名　カド(前庭)　146S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (25)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n言う。　カドというのが最も多い。　(但し農家でいうのであって、被調査者宅にはそれがないわけである。)\n言う。　カトーニングという。\n言わない。　<ソトニワ>という。\n言う。　<かどのすが多くつかわれる>\n言わない。　セロナという。\n言う。　(Ka~do)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06434.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06434",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06434.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6504.01",
+      "6508.06",
+      "6512.14",
+      "6513.51",
+      "6514.38",
+      "6523.54",
+      "6524.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-35\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (26.)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6504.01　詩。　くれなし もこ干しの程度のこと(しか)　1ない。>\n6508.06　詩。　<カイドという。>\n6512.14　言わない。　kadoは道路に出たところ。\n6513.51　詩。　（但し、ソトカドといい、単にカドと多分は言わぬ。）\n6514.38　詩。　くれなし、kaidoという。\n6523.54　言わない。　<koya no mae.>\n6524.66　言わない。　<chojibaという。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06435.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06435",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06435.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6525.05",
+      "6531.53",
+      "6533.36",
+      "6534.37",
+      "6536.68",
+      "6537.06",
+      "6538.6",
+      "6542.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-36\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n質問番号　地図番号　196\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（27）\n項目名　カド（前庭）　146S\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n6525.05　言わない。　<kono jiba という。>\n6531.53　〃　かけと言う。\n6533.36　えう。　144S 参照\n6534.37　言わない。　<家の前の仕事場はホンハンという。>\n6536.68　N.R.　<町家にはどんな場所はないから。>\n6537.06　言わない。　農家ってないから知らない。\n6538.60　言わぬ　omoteと言う\n6542.71　言う。　発音は Kado。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06436.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06436",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06436.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6545.41",
+      "6545.64",
+      "6545.88",
+      "6546.15",
+      "6547.07",
+      "6548.69",
+      "6552.90",
+      "6556.60"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-37\n質問番号　地図番号　196　項目名　カド（前庭）　146S\nA 普通注記　（B 除いた共通語）　（C 除いた特殊語）　ページ（28）\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n6545.41　註.　〈Kaido とおる.〉\n6545.64　〃　〈たなし. Kaido という.〉\n6545.88　（被潰直春の家にはそれに ある場所はない。農家のそれを 想像してもらっての答である）\n6546.15　N.R.　〈町で〜んな場所がないから.〉\n6547.07　えわない。　omote\n6548.69　〃　〈omote という〉\n6552.90　註.　〈但し、外の意味で使う〉\n6556.60　〃　（オモテ（広い））",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06437.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06437",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06437.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6559.46",
+      "6562.22",
+      "6563.58",
+      "6563.84",
+      "6565.56"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-38\n質問番号　地図番号　196　A　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　(29)\n項目名　カド（前庭）　146S\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n（手書き記入）\n6559.46　言わない。　<かど＝は入口だ。>\n6562.22　言う。　<たびし子す竹というつもり>\n6563.58　〃　　<家の前はカド、裏はウラヤカド>\n6563.84　〃　　<屋外がカドなのだから>\n6565.56　〃　　<左たし、kaido?>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06438.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06438",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06438.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6566.51",
+      "6567.86",
+      "6569.12",
+      "6570.89",
+      "6571.15",
+      "6571.34"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-39\n質問番号　地図番号　(196)\n項目名　カド（前庭）　146S\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(30.)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6566.51　言わない　(1435で妻から、omoteと教えられている。)\n6567.86　話。　(さらに通う部分もいうようでーある。ただし、方地の道は家と家との間のごくせまい土地でーもある。)\n6569.12　訪家い。　omoteという\n6570.89　〃　(バアという.)\n6571.15　話。　(しかし、普通には〜という.)\n6571.34　く　(但し、農家でーちければ)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06439.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06439",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06439.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6572.04",
+      "6573.31",
+      "6574.06",
+      "6575.40",
+      "6575.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-40\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（［　］）は厳密にする。\n質問番号　地図番号　(196)\n項目名　カド（前庭）　146S\nA 普通注記　ページ　(3/.)\n[B 除いた共通語]　[C 除いた特殊語]\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6572.04　戸をあけた通路、外の場合にカドという。（この時の発音は ka20 である）\n6573.31　〃　＜表の前は道路なので…＞　やはりカドである。\n6574.06　〃　（物を干す場所を「ニワ」とは「カド」とも言う）\n6575.40　〃　＜たたし Kaido.＞　[Kaido]\n6575.82　諸多い　＜「かど」というのは道と…＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06440.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06440",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06440.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6576.28",
+      "6577.13",
+      "6577.86",
+      "6580.06",
+      "6583.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-41\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\n(A)普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ(32.)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n6576.28　言わない。　ヒロハーという。\n6577.13　N.R.　〈町先でー　そんな場所がないから〉\n6577.86　語。　（ただし、kadoといわない）\n6580.06　“　〈家のまえか、道であっても〉\n6583.45　〈但し、真の前の道路外のこと〉\n\n(読み取り不能な手書き注記あり、上は概略の読み取り)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06441.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06441",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06441.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6585.83",
+      "6586.32",
+      "6581.57",
+      "6593.98",
+      "6584.67",
+      "6585.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-42\n質問番号　地図番号　196\n項目名　カド（前庭） 146S\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ（33）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き注記（抜粋、概略）:\n6585.83  こわない!!　（過疎なのに現実にこのような場所がない！）\n6586.32  〃　（このあたりは過疎である関係上、～工場があるようなつくりにはなっていない。）\n6581.57  〃　＜かけ(?)ともにわ ともい＞\n6593.98  〃　（＝ニワという）\n6584.67  〃　＜くらい場所は始めてないが＞\n6585.32  こわない　＜1435と同様、過疎には＞\n\n（以上、ページ内にある見出し・注釈・手書きメモの読み取り可能な部分の概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06442.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06442",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06442.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6595.90",
+      "6600.97",
+      "6604.98",
+      "6608.22",
+      "6610.77",
+      "6617.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-43\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（34）\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n（手書き本文）\n網を干したり、干物を作るため、魚を乾(し)たりするのは、海岸の砂浜である。>\n\n6595.90　言わない　<chawaという>\n6600.97　言う　<表の外 は Kado だ!>\n6604.98　言わない　<四り角をカドという。>\n6608.22　〃　<コナ シハーという ている>\n6610.77　言う　Kado（角は Kado）\n6617.25　言わない　<こり（くわしくいえば ソトニワ）という>\n\n（下部余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06443.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06443",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06443.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6618.25",
+      "6621.57",
+      "6633.27",
+      "6635.20",
+      "6635.36",
+      "6635.44",
+      "6642.85",
+      "6643.15",
+      "6650.94",
+      "6651.68"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-44\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記のく >< ( ) [ ] は厳密にする。\n\n質問番号　地図番号　196\n項目名　カド(前庭)　14SS\nA　普通注記　　ページ（25）\n[B　除いた共通語]\n[C　除いた特殊語]\n\n（表見出し）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n（手書き注記）\nN.R.　<農家でないからわからない>\n言わない　家の表の入口をいう\nomote to iu\n角の意\n表の表の入口をいう\nomote to iu\nkadoyumi(という)\n肩のかど、左に言う\n\n（注：手書き部分は判読に不確定な箇所があります。）」} ----------------------------------------------------------------------------{",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06444.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06444",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06444.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7239.85",
+      "7269.96",
+      "7301.69",
+      "7302.71",
+      "7302.87",
+      "7303.17",
+      "7303.29"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-45\n質問番号　地図番号　196\n項目名　カド(前庭)　146S\nA 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語] (36.)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\nA注のない語形 [B・C 残した語形とその注]\n\n7239.85　言わない、つぼ・ホカなどという\n7269.96　\"　kado は 木戸に なるとか\n7301.69　えう。 kado と (dʒ = d r.9 中間音)\n7302.71　\"　kado (dʒ = d r.9 中間音)\n7302.87　\"　<kado ni deru> など\n7303.17　えわない　hoka を(かえ)わない\n7303.29　\"　くわからない\n\n(この項目 交辺住宅 1巻)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06445.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06445",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06445.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7303.37",
+      "7303.61",
+      "7304.26",
+      "7311.68",
+      "7312.69",
+      "7312.83",
+      "7313.34"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-46\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n質問番号　地図番号　196\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (37)\n項目名　カド（前庭）　14SS\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n（手書き）えわない。　nokaという\n（手書き）くえう。>\n（手書き）? 言わない。　くこうにはという場所か。ないからわからぬ.>\n（手書き）くえう。>\n（手書き）えわない。　tsumboeい?\n（手書き）\n（手書き）\n\n（下部手書き）掘え込みは miwa\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06446.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06446",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06446.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7313.68",
+      "7321.46",
+      "7322.79",
+      "7322.81"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-47\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (38.)\n\n質問番号　地図番号　196\n項目名　カド(前庭)　145S\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7313.68　えわない、　家の前方にしかえわない、\n(農家の構造の様子を考慮して　質問しないと正誤を得られない)\n\n7321.46　(そういう所がない)\n\n7322.79　え等、(農家の場合)\n\n7322.81　えろ、　<農家ではカドと物干場とは同一?>　(住宅では別である)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06447.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06447",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06447.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7323.02",
+      "7323.17",
+      "7324.96",
+      "7329.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-48\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく 〉〈 〔 〕は厳密にする。\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　ページ（3?）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nカドは庭、物干場の前へ入る\nあたりをいう\n7323.02　えわない　アエニワという\n7323.17　〃　Tsubosaki: eiji\n7324.96　〃　入口に入り\nkado ni dejo\n目下、子供などへの命令形\n29所、広くらわる\nmigo, de yo, okiyo\n7329.39　言わない（耕地への入口や家へ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06448.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06448",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06448.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7330.77",
+      "7331.27",
+      "7332.27",
+      "7332.46",
+      "7333.51",
+      "7336.54",
+      "7336.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-49\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（40）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7330.77　入口も。 hamari kwtsi t　誘. Kadosaki\n7331.27　くえう。>\n7332.27　えわない　omoteという\n7332.46　えり　<tsmboとも言う>\n7333.51　くえわない　<tsmboが多い.>\n7336.54　語。 (?)\n7336.79　言わない　<つぉっと言う。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06449.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06449",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06449.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "7338.48",
+      "7340.27",
+      "7341.42",
+      "7341.47",
+      "7342.12",
+      "7342.72",
+      "7342.26"
+    ],
+    "other_text": "64-50\n日本言語地図資料用紙　注記一覧\n質問番号　地図番号　(196)\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (41.)\n項目名　カド（前庭）　146S\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< ( ) [ ] は厳密にする。\n表見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書きメモ（各行、地点番号に対応）:\n言わない。　<屋敷への入口を kado-guti という。そこにはかなりりにある標識がある。>\n？言う。\n言う。　(やっ、疑わしい。)\n言う。　<表の方に限ってならばいい。>\n言わない。　<tsubo = 庭園>　→　nogiba = 物干場\n言わない。　tsūbo という。\n言わない。　<hoji;ba> という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06450.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06450",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06450.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7343.76",
+      "7349.91",
+      "7351.06",
+      "7352.14",
+      "7352.38"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-51\n質問番号　地図番号　(196?)　項目名　カド（前庭）　146S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n7343.76　言わない。　tsūbotoi?　\n7349.91　〃　<togwtsi no soto to i>　\n7351.06　Kado　とよ　niwa とよ　\n7352.14　言わない。　＜カドは家の周囲の空地のこと。カドニ行タアケ遊へん＞　(続き手書き説明)\n7352.38　Kadosaki　と言えないこともないか？　hoka が多い\n(注記のく <> ( ) [ ] は厳密にする。A・[B]・[C]ごとに別紙を使用する。その中での情報は地点番号順に並べる。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06451.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06451",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06451.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7359.98",
+      "7362.67",
+      "7365.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-52\n質問番号　地図番号 (26)\n項目名　カド（前庭） 146S\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (43.)\n\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7359.98　言う．　<monから中をいろ．>\n7362.67　えわない．　[旧. 田原村て?はり.]　例文, [カド 掃付?]\n　　　　旧, 田原村 (現 碧木町) 2身者. 植木小学校長, 69才.\n\n7365.17　言わない　〈くりおをいう〉\n\n(その他手書きの注記が複数あり、上は読み取れる範囲の概略)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06452.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06452",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06452.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7368.32",
+      "7373.23",
+      "7373.56",
+      "7374.75",
+      "7375.26",
+      "7377.72",
+      "7380.78",
+      "7382.01",
+      "7382.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧      64-53\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n\n質問番号　地図番号　196\n項目名　カド(前庭)　146S\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(49)\n\n地 点 番 号\n7368.32　　(手書き注記：((kazo) と聞える。)\n7373.23　　えわない　<マエという。>\n7373.56　　えわない　<カドは家の隅、まわり角。ことをいう。>\n7374.75　　〃　<こりてあるから、>\n7375.26　　〃　<miwa とい.>\n7377.72　　〃　<tsubo という。>\n7380.78　　〃　イエンス 又は、ホカニクという。\n7382.01　　〃　[mae]という。\n7382.93　　〃　<障屋敷とわが家・との...>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06453.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06453",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06453.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7385.61",
+      "7390.25",
+      "7391.01",
+      "7396.53",
+      "7400.11"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　64-54\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ（65）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n言わない！　＜（くちsub?；という。）＞\n境の地所をカドというと思う。\nえわない　直から屋敷内に入った\nところをカドという。\n家の屋敷地や入口の口（？）　＜tsubo, niwa などという＞\n表の入口をkadoという　＜kado ni tatsu＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06454.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06454",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06454.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7402.42",
+      "7403.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-55\n質問番号　地図番号　126\n項目名　カド（前庭）　146S\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(×6.)\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n気運の意にもいい。\nKado o dasi: toru\n≪陰運≫\nKado o kesu ≪産を失う≫\n… hito-kado hattun\nを独立に一戸を張るのにいう\nsoto to iu\n7402.42　言わない。\n7403.16　言う。\n(miwa が最も多く)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06455.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06455",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06455.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7403.86",
+      "7421.38",
+      "7430.80",
+      "7431.08"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-56\n質問番号　地図番号　196\n項目名　カド(前庭)　146S\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(42)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n7403.86.　言わない。　hino wra, hiropiwa を\n（残り田）　<kado wa ja;iki e no irikwt[; de aru]>\n\n7421.38.　言う。\n<hinoriwa ともいう。>\n\n7430.80.　言わない。　<卯地や裏の出入口を kado ともいう。>\n\n7431.08.　N.R.　(kado は…)\n1. ja;iki e no irikwt[;]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06456.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06456",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06456.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7441.89",
+      "7502.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-57\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA　普通注記（A）　ページ\n[B　除いた共通語]\n[C　除いた特殊語]（くぁ。）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n2. 区画の印地のこと。\nhitokado,\nそこへ新宅をせて、一戸を建て増すと。\nFuta kado に変ったと（いろは）\n7441.89 決らない（？）\n7502.22　〃　domaという\n（いえり。（竪神東 / kmの字）?）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06457.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06457",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06457.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "7510.18",
+      "7513.43",
+      "8300.80",
+      "8302.19",
+      "8325.77",
+      "8394.01",
+      "1169.84",
+      "1261.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 64-58\n質問番号 地図番号 196\n項目名 カド（前庭） 146S\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (ページ?)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7510.18　註（波調査宅は農家ではない！）\n7513.43　〃　＜ニワ、カドは同義である。＞\n8300.80　えわない　＜居敷の入口の内のあたりをカドという。＞\n8302.19　〃　＜カドは屋敷への入口。＞\n8325.77　〃　＜hokaという＞\n8394.01　〃　hokaという\n1169.84　〃　＜お墓の前の広場にはいる。＞\n1261.32　〃　＜つね:という。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06458.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06458",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06458.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "2067.52",
+      "2072.20",
+      "2140.92",
+      "2140.96",
+      "2150.06",
+      "2150.17",
+      "2151.64",
+      "2151.67"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　64-59\n質問番号　地図番号　196\n項目名　カド（前庭）　146S\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ　(50)\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n2067.52　<言わない.>\n2072.20　<言わない.>\n2140.92　言わない.　<minakaという.>\n2140.96　\"　<minakaという.>\n2150.06　\"　<minakaという.>\n2150.17　\"　<minahaという.>\n2151.64　\"　<minahaという.>\n2151.67　\"　<minakaという.>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06459.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M196Q146/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06459",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06459.tif",
+    "source_ljc_id": "LJC-M196Q146",
+    "source_map_numbers": [
+      "196"
+    ],
+    "source_title": "カドを“前庭―仕事場”の意味で使うか"
+  }
+]

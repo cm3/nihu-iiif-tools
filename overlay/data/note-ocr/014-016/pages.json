@@ -1,0 +1,447 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1715.53",
+      "2765.02",
+      "2765.66",
+      "2775.45",
+      "2782.16",
+      "2784.63",
+      "3609.17",
+      "3699.25",
+      "3700.19",
+      "3701.49"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 2-54\n質問番号　地図番号\n226 014 016\n項目名　シナ・カヤリ (手書き)\n（ページ欄（1））\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n1715.53 jitjinatsu (tsuはtji ?)\n2765.02 sitsignatsi (ŋa ?)\n2765.66 sitsignwadzi (wやや弱い)\n2775.45 sitsignwatsi (w 弱し)\n2782.16 sitsignwatsi (w 弱し)\n2784.63 sitsignwatsi wかすか\n3609.17 sitsignwatsi [w]かすか\n3699.25 sji (しとsの間のs)\n3700.19 sitsignwatsi [w]かすか\n3701.49 sitsign'wadzi [w] 弱し",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00254.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00254",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00254.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3724.20",
+      "3746.41",
+      "3753.88",
+      "4609.07",
+      "4637.68",
+      "4638.22",
+      "4648.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-55\n質問番号 276    地図番号 014 016\n項目名 シナカツ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  (2)\n\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)    A注のない語形 (B・C 残した語形とその注)\n3724.20  sjitsinjwatsi  (くりかえさせると、wが弱く入る)\n3746.41  スズケズ  (ザッと言わよかった。)\n3753.88  シズガズ  (自然発声)\n4609.07  si  (よりも前寄り)\n4637.68  sitjingwatsu  <多>\nsitjingetsu  <話し相手がこう言った時用いる。改まった場合でなく、用いることがある。>\n4638.22  sitjigwatsu, ũはごくわずかの中舌化\n4648.59  sitjingwatsu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00255.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00255",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00255.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4653.84",
+      "4700.78",
+      "4703.18",
+      "4725.92",
+      "4733.91",
+      "4744.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-56\n質問番号 276 地図番号 014 016\n項目名 シナガツ (3)\n\n地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注）\n4653.84 sitjigatsu, しはもっと小さく書いた方がいいような発音\n4700.78 si （強い摩擦音が聞かれた）\n4703.18 süitsünyatsü <このように発音してもよい>\n4725.92 sitsunyatsuu, sutよりはsiれに近い発音\n4733.91 sitsunyatsut ＜希＞＜共＞  sitsunyetsut\n4744.10 sitsiriyatsstt （シとス、サとツのまん中、間音なので、母音を添えて表わせし）〔sutt tsunge tsutとか言わない〕",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00256.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00256",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00256.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4760.98",
+      "5472.91",
+      "5499.98",
+      "5602.99",
+      "5614.62",
+      "5641.07",
+      "5692.67",
+      "5682.34"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\n資料番号 276   地図番号 014 016\n項目名 シガツ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (外)\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C 残した語形とその注）\n\n4760.98   ɕit͡ɕinatsuu, uiはごく軽い中母音\n5472.91   ɕit͡ʃigʌtsuu, giになるのは少いんだが\n5499.98   シガツ (ga). これだけはれいかに鼻にかかって発音されていた。\n5602.99   ɕit͡ʃinwatsuu （このようにひびくこともある） jitjigatsuu\n5614.62   ɕit͡ʃigatsuu. simotsuki, jiwasuも. しである。\n5641.07   ɕitjinatsu\n5692.67   citji （質屋も citji2）\n5682.34   citjinatsu （徹底して citji とする。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00257.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00257",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00257.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5695.10",
+      "5696.54",
+      "5698.69",
+      "6427.93",
+      "6472.68",
+      "6482.75",
+      "6485.30",
+      "6485.46"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙注記一覧 2-58 資料番号 276 地図番号 014 016 (A 濁音注記) (B 除いた共通語) (C 除いた特殊語) ページ (5) 項目名 シチガツ 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 質屋も, gitijia ヒチガツ <citjinatsui> citjinatsuu (話者は/hi/と意識) citjinatsuu (話者は/hi/と意識) gitjigatsu <タ> jitjigatsu ヒチガツ、無声化するようでもある。 hitjigatsuu (jよりもhinに近いか. 軽い かびびく。) ヒチガツ ヒチグッツ <シチグッツではない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00258.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00258",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00258.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6486.93",
+      "6501.86",
+      "6521.94",
+      "6532.93",
+      "6543.56",
+      "6552.46",
+      "6552.90"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧          2-59\n資料番号 276    地図番号 014 016\n項目名 シムガツ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (6)\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\n6486.93    ヒチガツ（七月の場合はガッと言った。）\n6501.86    ヒチガツ　〈ややサ〉\n6521.94    シチガツ、ヒチガツという形がありえそうですが、この本夜調査者からは、その形が認められない。[si]\n\n6532.93    ヒチガツ（hi）\n6543.56    ヒチガツ　〈やや古〉[si]                      シチガツ\n\n6552.46    citjigatsu（「ヒチガツ」に非ず）\n6552.90    citjinatsu　〈“シ”を“ヒ”というほり〉\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00259.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00259",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00259.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6553.22",
+      "6553.99",
+      "6571.34",
+      "6572.04"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本語音地図資料用紙注記一覧 2-60\n資料番号 276   地図番号 014 016\n項目名 シナガツ\nA 普通注記  [B] 除いた共通語  [C] 除いた特殊語  ページ (7)\n\n地点番号   A 語形とその注記（B・C除いた語形とその注）   A 注のない語形（B・C 残した語形とその注）\n\ncitijia (質屋)\ncikarareru (叱られる.)\ncitsure: (失礼) など>\n\n6553.22  çitjinatsu (「çi」は母音無声化。 「ガッ」は「ワッツ」とは云えない。)\n6553.99  sitjinatsu (「モチガッ」とは言われなかった)\n6571.34  çitjinatsu (この場合は[çit]ginwatsuとはならぬ。)\n6572.04  çitjinatsu (この場合は[gw]の音がき...)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00260.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00260",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00260.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6572.29",
+      "6581.68",
+      "6583.19",
+      "6583.93",
+      "6591.57"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　2-61\n質問番号　地図番号\n276　014　016\n項目名　34ガツ（手書き）\nA 普遍注記　(B 除いた共通語)　(C 除いた特殊語)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) { }は厳密にする。\n\n（手書き表）\nけなかった。）\n6572.29 sitjinatsu <四月は[siŋyatsu]という>\n6581.68 ヒチゲツ（カタカナ手書き）\n6583.19 sitjinatsu（この時は[sitjinwatsu]とは言わなかった。）\n6583.93 sitjinatu [j:]の口蓋摩擦がそれほどとはっきりしない、[sj]にこれに近いこともある。\n6591.57 sitjinatsu（jがとれ、gin、まれ、gaがとぎれ、pwanとなる。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00261.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00261",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00261.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6592.35",
+      "6593.98",
+      "6600.97",
+      "6662.01",
+      "7229.50",
+      "7229.75"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙注記一覧　2-62\n番号欄: 276　地図番号 014 016\n項目名 34かつ\n(A)普通注記　(B)除いた共通語　(C)除いた特殊語　(9)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6592.35  sitjinatsu ( /gw/なし )\n6593.98  sitjinatsu ([jit]inwatsu)のように\n　　　　は聞こえなかった。\n　　　　(恐らく「正月」「元旦」の場合\n　　　　に限られるのだろう。)\n6600.97  sitji\n　　　　<月をつけて呼ぶときは、\n　　　　sitjiと言う.>\n6662.01  sitjinatsu, bon'zukiとも言う?\n7229.50  sitjigatsu\n7229.75  sitjigatsu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00262.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00262",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00262.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7246.45",
+      "7268.87",
+      "7313.34",
+      "7313.68",
+      "7342.10",
+      "7324.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-63\n資料番号 276 地図番号 014 016 A 普通注記\n項目名 シナガツ\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7246.45  çitligwat° , ロは内破音\n7268.87  çitligatsu\n7313.34  çitjigwatsu (語中はgwa)\n         但し濁り音は極く軽い、消えつつある。\n7313.68  çitsigwatsu (tjiにさい)\n7342.10  çitjigwatsu\n         ジデサイ gaでない\n7324.24  çitʃi·gwatsu [語中なので g'va と出る。アクセント形も中高型に移る]\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00263.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00263",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00263.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "7324.96",
+      "7329.39",
+      "7329.57",
+      "7332.27",
+      "7332.52",
+      "7338.48",
+      "7351.06",
+      "7353.51"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n日本言語地図資料用紙注記一覧　2-64\n質問番号　地図番号\n276　014　016\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (1)\n項目名　シナガツ\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n[りん来ている]\n7324.96　gitjigatsu\n7329.39　hitjigatsu　＜質屋も hitjiza という＞\n7329.57　hitjigatsu\n7332.27　gitji gwatsu\n7332.52　gitjigwatsu\n7338.48　hitjigatsu\n7351.06　sitjigatsu , giという人もある\n7353.51　シナグゥツ　（hitjigwatsu）でもよい　という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00264.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00264",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00264.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "7461.77",
+      "7374.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本語言語地図資料用紙注記一覧 2-65\n（上部欄） 質問番号 276 地図番号 024 016 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (12)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nsitjigwatsu (?) (sitjigwatsuと答えたの\nhitjigwatsu (?) で念をおすと、[hitji-\ngwatsu] [sitjigwatsu]\nだという。が第一次の答を\nとれ)（jichi,iとの音の識別意識の度はあいまい\nである。）\nsitjigatsu, Sはマサツの強いさ\n被調査者の意識としてはヒ\nsitjigwatsu (Siはつよい摩擦音でなく, hi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00265.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00265",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00265.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "7387.38",
+      "7383.98",
+      "7386.56",
+      "7400.11"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)(　)は厳密にする。\n\n日本言語地図資料用紙注記一覧   2 66\n\n資料番号 276   地図番号 014 016   (A) 普通注記   (B) 除いた共通語   (C) 除いた特殊語   ページ (13)\n（手書き）シナガワ\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C残した語形とその注）\n\nに近いような音である。\n* gitjigatsu - 訂正して[ci~]の方が正しいと認める。( [gitji-]の方が最初の自然れ出たか ら、この方を認めるべきかと思う。)\n\n7387.38  * gitjigatsu\n7383.98  jitjgwatsu\n7386.56  gitjgwatsu\n7400.11  hitjigatsu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00266.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00266",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00266.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "7401.60",
+      "7403.86",
+      "7406.53"
+    ],
+    "other_text": "日本方言地図資料用紙注記一覧 2-67\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n資料番号 276　地図番号 019 016　項目名 シチガツ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (14)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\nhitjigatsu（この地域でも“せ”“質屋”などみんなhitjiであるが、“質問”“失礼”は jitsu である。表記調査者の発音は何回か繰り返している中で hitji-gatsu が jiti-gatsu ときこえることもあった。）\n\nhitjigatsu\n\ngitjigatsu <- 月のときれ、つちがこっちはがたという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00267.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00267",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00267.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7412.31",
+      "7416.34",
+      "7427.90",
+      "7430.15",
+      "8302.55",
+      "8302.91"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）（　）は厳密にする。 日本言語地図資料用紙注記一覧 2-68 資料番号 276 地図番号 014 016 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (15) シナガツ? 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 7412.31 jitjigatsu 7416.34 citjigatsu <jiがホンマにしゅうろうか、普通は cito, jito と自分で反省してそれという。> 7427.90 citjig(w)atsu <古い人へ言う> jitjigatsu 7430.15 hitjigatsu 8302.55 citjigwatsu [cjはch, jとすべきもの] hitjigwatsu かもしれぬ、軽い口蓋化音 8302.91 /jitjigwats゛ (反音型としては citji-gwatsu とする。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00268.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00268",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00268.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "8305.76",
+      "8322.68",
+      "8324.83",
+      "8351.41",
+      "8360.39",
+      "8306.42",
+      "8342.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙注記一覧 2-69 資料番号 276 地図番号 014 016 項目名 シカガツ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (16) 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 8305.76 çitjgwatsu 8306,42 çitjgwatsu (jiではなくçiである。) 8322.68 çitjigat (この場合、çitjigwatではない。) 8324.83 çitjgwatsu (çitjgwatと言うか、普通と思う。) 8342,69 si2gwa2 ＜四月と間違えやすい＞ 8351.41 sjigga^atsu (Si- <ci->) 8360.39 Sjiggat (N.B. 一、但し「ん」は Futo)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00269.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00269",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00269.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "3763.88",
+      "4703.18",
+      "7373.56",
+      "7387.38"
+    ],
+    "other_text": "日本語語地図資料用紙注記一覧 2-70\n資料番号 276　地図番号 014 016　A 普通注記　C 除いた特殊語　ページ (1)\n項目名 シナガツ\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n3763.88　シ年ツがツ（改まって）　シズガズ（自然発声）\n4703.18　sitsinjatsui　süitsüŋatsui（このように発音してもよい）\n7373.56　*(jit)igwatsu　hitjigwatsu\n7387.38　sitjigatsu　*citjigatsu - 訂正して [ci~] の方が正しいと認める。([jitji~] の方が最初に自然に出たかろう。この方を認めるべきかと思う。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00270.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00270",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00270.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "8350.11",
+      "8372.47"
+    ],
+    "other_text": "▲ A・(B)・(C)ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜　＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 2-71\n\n資料番号 276　地区番号 014 016\n項目名 シナガツ\nA 普通注記　ページ (2)\n\n（表の見出し）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nA欄（語形と注記）\n*sitjigwatsu\nçitsigatsu 〈共〉\n\n右欄（A注のない語形）\nh, itigwatsu\nçiggat",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00271.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M014Q276/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00271",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00271.tif",
+    "source_ljc_id": "LJC-M014Q276",
+    "source_map_numbers": [
+      "014",
+      "016"
+    ],
+    "source_title": "シチガツ (七月)"
+  }
+]

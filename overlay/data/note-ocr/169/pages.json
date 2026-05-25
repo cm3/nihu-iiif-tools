@@ -1,0 +1,330 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0840.33",
+      "1798.13",
+      "1848.24",
+      "1863.48",
+      "1942.03",
+      "2751.10",
+      "3783.08",
+      "3791.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　51-69\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > < ( ) [ ] は厳密にする。\n質問番号　地図番号　169\n項目名　餅米　175\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n( / )\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き欄（抜粋・読み取り困難箇所あり）:\nmotjimai <古,多> <町ではこう言う>, motfijome <今> <浜ではこう言う> (i アルモトミル)\n(maybe アルモトミル)\nmotjimai <改> 法案を切る時, motfijome\nmotfikome <3>, motjimai <ナ>\nモチマイ <クサ?>\nモチゴメ\nmotjimai <買いに来る人は motfijome という>\nモチコメ\nmo'tfijome éは嫌いe\nmotsjikome (M) motsiyonme\n(注：手書きが不鮮明なため部分的に推定・省略あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05169.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05169",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05169.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4598.33",
+      "4637.68",
+      "4659.50",
+      "4712.16",
+      "4713.60",
+      "4722.55",
+      "4742.37"
+    ],
+    "other_text": "日本音語地図資料用紙 注記一覧 51-70\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞( )[ ]は厳密にする。\n\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4598.33    motsi i: ＜右＞    motsiyome\n4637.68    [motʃi mae] …… 長男（46才、旅にあたる経験あり）か言い、報調査者も認めた。    motfiyome\n4659.50    モチコメ    チは重声化する\n4712.16    motsikome    ＜コメをつけないで供ぶがある＞\n4713.60    motskome    （普通の発音）\n           motsiyome    （そんざいな発音）\n4722.55    motsi    （これだけの語形でモチコメとわかる。特にコメをつけない。）\n4742.37    motsukome    （こちらの方が本来の音らしい） motsuyome",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05170.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05170",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05170.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4750.32",
+      "4750.76",
+      "4760.64",
+      "4782.04",
+      "4790.74",
+      "5547.96",
+      "5590.53",
+      "5608.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-71 質問番号 地図番号 169 項目名 餅米 175 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (3) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 4750.32 モツコメ りは重声化する 4750.76 modziu mal <もちに つかない もち米> 4760.64 modzu, modzürome (手書き注記) 4782.04 mozi <語わしくない時は moziで すませる> 4790.74 modżi <希> 5547.96 モッツィコメ ツィ = tsi 5590.53 モチネ <やや古> 5608.51 motsi <通用>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05171.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05171",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05171.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5631.16",
+      "5632.28",
+      "5633.45",
+      "5644.24",
+      "5651.45",
+      "5662.18",
+      "5671.68",
+      "5673.78",
+      "5679.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 51-72 質問番号 地図番号 169 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] (4) 項目名 餅米 175 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5631.16 motfiyome ＜米にしたもの＞ 5632.28 motfi ＜普通＞ 5633.45 motfiyome ＜ていねい＞ 5644.24 motfigome ＜稲できぬ＞ 5651.45 motfiyome ＜米にしたもの＞ 5662.18 motfi 5671.68 [motfime:] 5673.78 motfiyome ＜精白したもの＞ 5679.31 motfiyome ＜〜gome? が予想されるか＞ 答えは［〜yome］。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05172.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05172",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05172.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5685.02",
+      "5686.31",
+      "5689.43",
+      "5692.53",
+      "5693.13",
+      "5699.42",
+      "5711.18",
+      "5772.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-73\n質問番号　地図番号　169\n項目名　餅米　175\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n5685.02 「motfjigome ＜米は作らない＞\n5686.31 「motfji ＜米作りの始まったのは戦後。 陸稲は少しあった。＞\n5689.43 motfjigome ＜motjiとは言わない＞\n5692.53 motfjinome ＜共＞    motfji\n5693.13 モチゴメ ＜共＞    モチ\n5699.42 motjigome ＜こない＞    motji\n5711.18 motjigome ＜多＞\n5772.84 motji, motjigome\n(筆に区別あるわけではなく、名称はモチゴメだから 普段語の中では簡略にモチということである。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05173.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05173",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05173.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6409.35",
+      "6416.09",
+      "6418.75",
+      "6419.09",
+      "6419.50",
+      "6426.04",
+      "6439.01",
+      "6448.61",
+      "6477.02",
+      "6485.14"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　51-74\n質問番号　地図番号　169\n項目名　餅米　175\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(6)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ]は厳密にする。\n表見出し：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n行1：モチメア　〈共・希〉　　モチネ\n行2：ウルチネ　…〈たんぽの中にある時の稲の場合だけ〉　モチゴメ\n行3：モチネ　〈主〉　モチゴメ\n行4：モチゴメ　〈今〉 , モチネ〈右〉　モチゴメ\n行5：モチゴメ　〈共〉　モチネ\n行6：motjime [多], motjigome [サ]\n行7：モチネ　〈共〉　モチコメ\n行8：モチゴメ　〈多〉　モチマイ\n行9：モチマイ　〈共〉　モチゴメ\n行10：モチゴメ　〈右〉　モチマイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05174.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05174",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05174.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6485.82",
+      "6488.48",
+      "6523.86",
+      "6534.41",
+      "6534.85",
+      "6536.32",
+      "6564.26"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 51-75 質問番号 地図番号 169 項目名 餅米 175 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] (7) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6485.82 [モチゴメ] 苗田氏の言。 モチマイ 6488.48 motfijmai <古> \"motfijgome\" 6523.86 motfijome <粒になった時 motfijome、植っているものは motfi、> 6534.41 motji <ついた餅と混同することのないはは この形を使うことが多い。> motfijgome 6534.85 motji <殻の状態にあるものをい> 6536.32 motji <motjigome などというは 農業組合の人だけだ。> 6564.26 motjigome <粒にしたもの> motji <田にあるは>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05175.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05175",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05175.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6545.19",
+      "6555.65",
+      "6574.06",
+      "6577.71",
+      "6590.87",
+      "6624.13",
+      "6633.89",
+      "6634.32",
+      "6635.87",
+      "6636.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-76\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n質問番号 地図番号 169\n項目名 餅米 175\n(A) 普通注記 ページ\n(B 除いた共通語)\n(C 除いた特殊語) (8)\nA  益形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\nmotfji <普通 mai をつけない>\nmotfimai <ていねい>\nmotfijom e <多>\nmotsine <ne は ine a 約>\nモチマエ <ていねい>\nmotfijome 希\nmotsijom e 畑にある時は motfjiu\nmotfijome 多\nmotfji mai\nmotfji <共>  motfji <共>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05176.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05176",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05176.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6641.97",
+      "6643.16",
+      "6643.72",
+      "6652.06",
+      "6665.25",
+      "6697.59",
+      "7321.46",
+      "7342.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-77\n質問番号　地図番号　169\n項目名　餅米　175\nA) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　ページ (9)\n地 点 番 号　 A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nmotfiyome　多　motfi\nmotfi ... utugiと対照していう時.　motfiyome\nmotfi　畑にある時の稲\nmotfi　<畑にある時は　モチとしか言わない>\nmotfi　<多>\nmotfiyome　<普>\nurugi　<古>\nmodzi gome\nこれは半有声音で tʃ でも dʒ でもない。筑後特有の半有声音か濁音（有声音）の別に現われる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05177.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05177",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05177.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7500.66",
+      "7503.48",
+      "7513.69",
+      "7523.05",
+      "8300.25",
+      "8313.88",
+      "8316.20",
+      "8323.59",
+      "8324.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    51-78\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n\n質問番号　地図番号　169\n項目名　餅米　175\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ（10）\n\n（表ヘッダ）\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n（表 内容・手書き）\nモチゴメ　〈多〉　　　モチマイ\nmotfigome　〈多〉　　　motsimai\nモチゴメ　〈少〉　　　モチマイ\nモチゴメ　（かるく鼻濁音化することもある）\nmotji　（もみまつの時、又は稲の品種として）\nmotf(i)gome　（脱穀後いう）\n*motgome　（日常生活語）\nuputsi　〈少〉\nmotsigome　motsigomea 桃音\n*motagome\n\n（ページ下部に続く余白と枠）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05178.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05178",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05178.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "8334.25",
+      "8334.63",
+      "8373.43",
+      "0228.96",
+      "0276.50",
+      "1213.76",
+      "2140.49"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-79\n質問番号　地図番号　169\n項目名　餅米　175\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(11)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nmoggome ・・・ (日常の語?)\nmotfigome － (日常語では moggome というと思う。)\nmokgome ・・・ mozgome\nmutfigumi (浸)  mutfiguui\nmutsigjumi (ウルチの時は ma:gumi　モチゴメ は mutsigjumi となることに注意。)\nmutsini (稀) mutsinigai という人もある。mutfigumi\nmutsi mai <古> , mutsigumi <浸>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05179.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05179",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05179.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "2141.71"
+    ],
+    "other_text": "51-80\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　169　A　普通注記　ページ　[B　除いた共通語]　[C　除いた特殊語]　(12)\n項目名　餅米　175\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n2141.71　mutsimaz　〈多〉　mutsigumi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05180.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05180",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05180.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "8313.88",
+      "8324.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 51-81\n質問番号　地図番号　169\n項目名　餅米　175\nA　普通注記　ページ\n(B)　除いた共通語\n(C)　除いた特殊語　( / )\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n表見出し: 地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n8313.88    motfigome    * motgome (日常生活語?)\n8324.83    motfigome <共>    * motgome",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05181.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M169Q175/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05181",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05181.tif",
+    "source_ljc_id": "LJC-M169Q175",
+    "source_map_numbers": [
+      "169"
+    ],
+    "source_title": "もちごめ (糯米)"
+  }
+]

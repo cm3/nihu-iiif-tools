@@ -1,0 +1,1021 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0789.95",
+      "0840.33",
+      "0990.97",
+      "1738.19",
+      "1739.85",
+      "1745.54",
+      "1756.32",
+      "1793.14",
+      "1859.84",
+      "2608.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 20 - 9\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は略称にする。\n範囲番号 042 地図番号 85 86 A 普通注記\n項目名 匂を嗅ぐ\n地点番号　A語形とその注記【B・C除いた語形とその注】　A注のない語形（B・C 残した語形とその注）\n0789.95　nioi o kayu (〜でjの時は〜 kande)\n0840.33　nioi kayu [nioi kamuも少しい。]\n0990.97　kayu <kaide mire iu>\n1738.19　nioi o suru <nioi o kaguはきかない>\n1739.85　nici kayu <kamuは聞いたことはあるがつかわない>\n1745.54　=ニオイ カム <ヘンナカガスル>\n1756.32　=ニオイ カグ（早口に =ニオイとなり カがぬける。）　ニオイ オカグ\n1793.14　=ニオイ カブ (才助詞をいわない)\n1859.84　nioi kamu (nioi kande〜)\n2608.90　ニオイ ガム (カブとはいわない)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02009.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02009",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02009.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2731.97",
+      "2784.63",
+      "2792.40",
+      "3689.75",
+      "3699.65",
+      "3702.81",
+      "3714.27",
+      "3720.71",
+      "3744.18"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-10\n質問番号　地図番号　042　85,86\n項目名　句を喰ぐ　042\nA　普通注記　[B]　除いた共通語　[C]　除いた特殊語　(2)\n\n（表ヘッダ）地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n= オイカムくか?とはいわぬ。?\nni'oï kaymu (一方で kanda という過去形を用いているから)\nni'oi kamu (本当は kamu ではないか)\nni'oi kamu (kamari kamu が普通?)\nKAN de miru, KAN site miru\nkamu kansūriu がある等だから同?ともこれが主である\nかつた。為に答をつとした。\n(36 99.65) カステル → (KANSURU)　[取り消し線]\nKande miru (終止形は kamu らしい。)\nkamamu (kamari をどうするかと16)って左のように答える\nkamari siru, kamari kamui\nカマル　ニオイ(を)〜(動詞)の形式は一つにないかった。\n“カマリカマル”、“カマリテェル”などといっているようである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02010.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02010",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02010.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙　注記一覧　20-11 042　85,86 項目名　匂を嗅ぐ A 普通注記 [B 除いた共通語] [C 除いた特殊語] 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 37 52.89  niwot kamii   kawori kamui とはいわないヨシ。 37 57.09  kaoru  cf. 「におって来る」も kaoru 37 62.71  kaori kamui (古い) 37 67.22  =オエ　カマル　<カマリ　クセタのび> 37 87.45  カンマル「ニオイ(を)動詞」の形はとらなかった。 37 91.02  kaori okayu ただ ka~yume に「ニオイを〜(V)」とはあまり言わぬ。 46 09.54  kan siro, kan sitemuru 46 09.68  kan de muru  (注記あり) 46 18.87  kan saru  (注記あり) 46 19.23  kan siru  cf. 「たがいにかおる」",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02011.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02011",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02011.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 20-12\n質問番号 042 地図番号 85,86\nA 普通語注記 (B 除いた共通語) (C 除いた特殊語) ページ (4)\n項目名 匂を嗅ぐ 042\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n46 19·29   kan suitemiru (ニオイヲすゝて見る?／ニオイフカゲテハ香りカンステレとなる)\n46 19·53   kan sūruu (カンスルは香るの意。偶処ににおいをかいだ経験時にもうにおいを〜に転用)  nioe kayu <新>\n\"          nicoe kayu <新>\n46 53·47   nioi o kagu, kaza o kagu (ニワノ間の図法の表現同はわからない)\n46 54·52   kagu <陣部落。片野尾では kayu と云う。>\n46 58·42   nioi kayu (こちらの方を多用いる。)    ka: kayu\n46 66·51   ni o kagu <古→現>\n\"          ni o kaku <新>\n46 67·33   カング  > は微かにひびく。\n46 72·19   kaza kagu (わないにおいをかぐ場合らしい)   nioi kagu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02012.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02012",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02012.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での語順は地点番号順に並べる。\n・注記の＜＞（ ）[ ]は厳密にする。\n\n日本語地図資料用紙　注記一覧　20-13\n管理番号 042　地図番号 85.86　A 普通注記　（ページ）\n項目名　匂を嗅ぐ　042\n[C 除いた共通語]　[C 除いた特殊語]\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]\n46 78.71   nio kayu (kande mire かいて見る?)\n46 85.72   ni: kaku　連用形は ni: kaite miru.\n46 94.26   nioe o kagu (大人同士使う?)\n\"\n46 94.95   kagu　ka: kagu といいとりであるが単に kagu と答えただけである。\n46 95.87   nioe kagu (においをかぐのを…からうすかにきかれる感じ)\n47 15.98   nioi kam (038,039は kusami であるがこの場合は kusami kam ではない点を注意。)\n47 31.59   nioi o kaide miru (この形しか出なかった。)\n47 34.56   nioi kayu (臭いを嗅いでみるは nioi kandemewa？)\n47 35.37   nioe kayu (普通は… kande misu のように言う場合が多い)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02013.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02013",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02013.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4740.26",
+      "4742.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 20-14 図間番号 地図番号 042 85,86 項目名 匂を嗅ぐ 042 地点番号 A 語形とその注記 (B・C除いた語形とその他の注) A注のない語形 (B・C残した語形とその注) 4740.26 nioi kayu 注.eg. kayu (直の嗅いをかいで…) 4742.43 nioi kanda (ニオイカンダ?) 55 36.29 kaza kaku <新> 55 38.33 kan (くが?) 55 45.58 kaza kazu (まちがいではない。) 55 58.09 ka'za kayu カザカグ 55 65.55 nioi kayu =オイの? 55 59.02 カザカグ (カザカグではない。) 55 75.55 kaza kayu (nioi kayuとはいわない) hoya kaku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02014.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02014",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02014.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "日本語方言地図資料用紙　注記一覧　20-15\n管理番号 042　地図番号 85.86\n項目名 匂を嗅ぐ 042\n（A 普通語）　（B 除いた共通語）　（C 除いた特殊語）　(ページ 7)\n\n地 点 番 号\nA 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n55 76.60  kaza kaku, kaza kayu ・・・ kaku, --- kayu はことばの変形の場合で・・・\n55 77.88  ハナスル＜音をたてて、フンンと かぐ場合にいう。＞　カザカグ\n55 79.42  nioi o kagu ＜ケ＞ 　kaza o kagɯn\n55 84.22  kadza kayu  kadza ... が優位　nioi kagun\n55 90.53  カグ　「ニオイ」をつけない場合が多い様である。\n55 98.67  カサカグ（039でガザをたたえたけれども、カサカグではなかった。）\n56 05.11  kagu（nioi のという部分をつけて答えなかった。）\n56 11.81  kaguu（アクセントは kaguun）\n56 15.20  kao o kagar（kao: kagar であるかもしれない。）\n56 15.28  sususuru ＜かいでみることを \"susutte miru\" という。＞\n\n（ノートや欄外の小さな筆記は判読できる範囲で概略を記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02015.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02015",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02015.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語順は地点番号順に並べる。\n▶ 注記の＜＞〔〕( )は厳密にする。\n日本言語地図資料用紙　注記一覧　20-16\n（右上の箱）042　地図番号　85, 86　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (8)\n項目名　匂を嗅ぐ 042\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n56 15-28  # kagu <クグ> （「外のまい方はありませんか。」に対する答え。）〈こんかが普通に用いられる。〉\n56 20-30  hanaga kaku  ハナガカク\n56 25-91  nioe o kagu [nio: o kagu]\n56 26-92  nioio kagu [新]\n56 29-23  カム、＜古くからの言い方。現在も多く使う。＞\n' (繰り返し)\n56 31-15  kao kagu, nioi o kayu (両方とも普通に使う)\n56 44-74  =オイ オカグ (笑) なしと認めの注あり\n56 48-13  ni'oi o kamu, kaori o kamu 〈どちらかというと使う〉\n56 55-57  =オイ オカグ (未) なしと認めの注あり\n（ノート欄や手書きの小注が多数あり、一部判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02016.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02016",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02016.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〔〕は略語にする。\n日本言語地図資料用紙 注記一覧 20-17\n調査番号 042   地図番号 85, 86\n項目名 匂を嗅ぐ 042\nA 普通注記 (〇)\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (9)\n\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n\n56 57.73    =オイオカク(芳) 但し北部辺りより\n56 69.19    nloc kayu, nloc kamu 使われ方は両方とも同じくらい\n56 76.84    =ニオイオカプ <人にさす時> オイ、ナニオクエ？ ナニオシテルエ>\n56 77.28    =ニオイ カク ＜普＞ （書き消しあり） =ニオイカワ\n56 79.86    nitoe / kkomu (字より)\n56 80.34    kazao kagu [pumppuratsuku にかって来る]\n56 87.60    =ニオイ オナエヒコム (にっこりはスイコム意?) ＜普通＞\n56 88.86    ニオイ オ カプ、ことにらにかいてさめる時\n56 89.98    nioio kamu 車路では[kamu]で、歯で噛むような[?] [kamu]である\n56 95.13    =ニゴイ オ カプ かつ(kaɡu?)が返したがどうしても成りしなかった。kayuかすに近いようだが\n\n（表内手書き注記あり。読み取り困難な文字はおおむね音写で記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02017.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02017",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02017.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5698.19",
+      "5711.85",
+      "5761.91",
+      "6267.84",
+      "6277.62",
+      "6358.43",
+      "6373.84",
+      "6375.08",
+      "6384.25",
+      "6385.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 20-18\n調査番号 042 地図番号 85,86 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ 10\n項目名 匂を嗅ぐ 042\n\nA 語形とその注記 (B・C 除いた語形とその注)\n地点番号  A 注のない語形 (B・C 残した語形とその注)\n\n5698.19  kagu <上、且つ丁寧な言い方>\n5711.85  nioe kamu <多> <kamuが方がふつう?>  nioe kayu\n5761.91  nioi kande miro (拡張形、命令)\n6267.84  kazam <nioi o kazamu をまぜているのか。>\n6277.62  kazamu <ち>  niwo:\n6358.43  カズンデシル、カズン <＝オイをつけない>\n6373.84  nio:temiru (「ニオイ(を)〜(動詞)」、の形なし。)\n6375.08  nijou (「ニオイ(を)〜(動詞)」、の形がない。)\n6384.25  nio: <多> , kagu<ザ>\n6385.28  nio:temiru (「ニオイ(を)〜(動詞)」、の形なし)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02018.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02018",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02018.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6393.41",
+      "6394.43",
+      "6395.61",
+      "6396.83",
+      "6401.89",
+      "6407.28",
+      "6413.76",
+      "6415.08",
+      "6419.09",
+      "6423.75",
+      "6424.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）には厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-19\n調査番号　042　地図番号　85,86\n項目名　匂を嗅ぐ\nA　普通注記　(B　除いた共通項)　(C　除いた特殊項)　(11)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nnijo:te miru（「ニオイを〜動詞」という形が見えない。）\nニオイテミル（「ニオイ(を)〜(動詞)」という形が見えない。）\nnio:　ニオイ　オゥ?　式の答えを示す。\nnijo:te miru（「ニオイ(を)〜(動詞)」の形がでてない。）\nカジンテミル（カジン＝かぐ）\n（サワサワ）＜肩っているかを探す＞　カグ\n\nkazammu　＜よい臭でも悪い臭でもよい＞\nガザガザ（音ケフ）　＝ニオイ　オ　カグ\nnioi o kazammu　<下品>　nioi o kagu\n\n（下部に取り消し線と手書きの英字・日本語の注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02019.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02019",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02019.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6431.85",
+      "6433.34",
+      "6437.07",
+      "6439.17",
+      "6445.11",
+      "6446.43",
+      "6457.45",
+      "6458.08"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-20\n質問番号 042　地図番号 85,86\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (12)\n項目名　句を喰ぐ 042\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）には敬語にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6431.85　=オウ　=オテミイ　カズム\n6433.34　=オユウ -> オウ　〈苦〉　=オユウ　カザム\n6437.07　カザオワクル〈?〉　カザカブ\n\"\"　　　カザナ　カギワケル〈事〉\n6439.17　Kazakay u（この表は＝オイといわない、cf.38.37）\n6445.11　=オウ、カガム〈同じように使う〉\n6446.43　カガム　〈こちらが普通〉　=ニオウ\n6457.45　カガデシル（カガス）\n6458.08　=ネオテミル（=ニオウ）\n\"\"　　　カガケミィ（カガス）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02020.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02020",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02020.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6459.29",
+      "6465.07",
+      "6465.82",
+      "6472.05",
+      "6474.50",
+      "6474.83",
+      "6476.92",
+      "6479.61",
+      "6481.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 20-21 資図番号 地図番号 042 85,86 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (13) 項目名 句を嗅ぐ 042 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） カザカシテミ（カザカス） ハナデカク カザム〈麦〉 ニオウ〈希〉 カザム〈麦〉 ニオウ Kazamu（kazio〜／kaza0〜）とも言える ニオウ（新） カザム カザム〈麦〉 カザム ニオウ、カザム〈カザテミということもまれに多く。〉 Kaza Kagu -gu（〜･〜gu） =ニオウ〈＝オエヨン〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02021.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02021",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02021.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）には厳密にする。\n日本言語地図資料用紙　注記一覧　20-22\n資料番号 042　地図番号 85.86\n項目名 匂を嗅ぐ 042\n（欄見出し）地点番号　A 語形とその注（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\nkazamu（香がしてまうのは〈kazaraw〉という由。〈kaza'de miru などという。〉）\nニオウ（ニオウ〈ニオウテェという〉）　カザム\nかざむ〈カザンデやろか。幼の方からにおうてくるときはカザムである。コイトリサンがカオチニ、カガリョウルヘミントヨという〉\nカガム〈イタンコシレハ、カザンデミルと言う。〉（194は御飯のくささにする。）\nカガム、カザンデシル〈カザンデミル、カザンデアヘ、ナンカシラ〉（カザグイネ、ナンノカザの語系か）\nカガム　カザンデる。エーニョクガヨウル。このカガムの語形を抜くと038,039のニオイに対しての語を調査せよということが示される。\nニオウ〈嗅う〉　カザム\nニオイヲカガム〈ドンナカガグスルゾ、カザンデミル？〉\nkazamu〈kaza'de miru〉（海岸部の方ではkazanmuに近い連続）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02022.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02022",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02022.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6498.18",
+      "6500.88",
+      "6504.01",
+      "6509.38",
+      "6517.50",
+      "6517.70",
+      "6519.43",
+      "6529.15",
+      "6532.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 20-23\n質問番号 地図番号\n042 85.86\nA 普通注注記 (B 除いた共通語) (C 除いた特殊語) ページ (15)\n項目名 匂を嗅ぐ 042\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A注のない語形 (B・C 残した語形とその注)\n\n6498.18  kazaru  白いがすおは kazaru\n(一行横線で抹消された行)\n6500.88  nioi o kayu, kaza o kaya  そのままがいいか 悪い かによって\n6504.01  kazayasu (kazayasu が = オオカグにあたる 動詞)\n6509.38  カザラカプ <共>\n6517.50  カザカ? (カザカプではない.)\n6517.70  カザカプ [かがかプ] ではない.\n6519.43  = ニオイオ カグ (= ニホイとは発音しなかった.)\n6529.15  カザラ カグ <共>\n6532.70  カザ(オ)カプ <北> = ニオイ(オ)カグ  カグという時とニオイ(オ)カグという場合との区別は",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02023.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02023",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02023.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6532.89",
+      "6532.93"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での指示は地点番号順に並べる。\n注記の＜＞（）は敬体にする。\n日本言語地図資料用紙 注記一覧    20-24\n資料番号 042    地図番号 85,86\nA 普通注記    (B 除いた共通語)    (C 除いた特殊語)    ページ (16)\n項目名 匂を嗅ぐ 042\n地点番号　　A語形とその注記　[B・C除いた語形とその注]　　A注のない語形　[B・C 残した語形とその注]\n=ニオイ(オ)カグ。    かなりパレール的問題であるらく、はっきりしなかった。この時は格助詞「を」を入れる事あり。\n=ニオガ    ニオイカグといった助詞を介在するいずはない。\n=ニオグ <やっ古>\nKaza Kagu    038.039ではkada〜kazaであったがここではほとんどkaza kaguである。\nカザ カグ <やつ古>\nKad'za gaku (〜kaguではない。)\nKadza kagu, nioi kagu (038,039参照)\n=ニオイ オカグ、カオリ オカグ (ニオイ オカラカラという人もある。)\nKaza kasu (自動詞である。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02024.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02024",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02024.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6552.03",
+      "6552.90",
+      "6553.52",
+      "6553.83",
+      "6553.89",
+      "6556.08",
+      "6557.14",
+      "6561.49",
+      "6562.48"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での指示は地点番号順に並べる。\n▸ 注記の＜＞（ ）｛ ｝は便宜にする。\n\n日本語語地図資料用紙　注記一覧　20-25\n（欄内）質問番号　042　地図番号　85, 86　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (17)\n項目名　句を嗅ぐ\n\n地点番号欄見出し：\nA 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n\nカダガク　（カ行四段動詞）\nKaza kayu　（「カザガフ」）（くさいにおいにもおいにかいにも使う。）\nkazayasu　（自動詞の形）\nkazayasu　（（中の注記：他の地方で”カガグク”の形があるので・・が、〇〇とは比較せんところ、”カザガフ”の形はない））\nkazayasu　（「カザガス」、自動詞である。）\n（＝ニオイオカグはく英）→　カザガク　（取り消し線で修正あり）\nnijoi kaku　＜馨が上品ないい方＞　kaza kaku\nカザカグ　（複合動詞のようである。）\n＝ニオイオカラル　（カラ〜はカラルの形式か）（複返して問うたが答は同じであった）\n\n（欄外や細かい手書き注記多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02025.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02025",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02025.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6563.43",
+      "6564.33",
+      "6565.90",
+      "6570.89",
+      "6571.15",
+      "6571.34",
+      "6571.68",
+      "6572.04",
+      "6572.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくくり〈 〉（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧        20-26\n資料番号 042    地図番号 85.86\n項目名 匂を嗅ぐ 042\n（A 普通注記）\n(B 除いた共通語)\n(C 除いた特殊語)\n（18）\n\n地点番号   A 語形とその注記（B・C 除いた語形とその注）   A 注のない語形（B・C 残した語形とその注）\n\n6563.43   kada naku, kada yasu. (双方用いる。)\n6564.33   kaza kayu (一語である。)\n6565.90   niji kayu, kaza kayu. (どちらも同じように用いる)\n6570.89   => ヨリ オガク  <よいにおいの時>\n\"         カゲ オガグ  <くるしいにおいの時>\n6571.15   カザカス (複合動詞なり、ナる)\n6571.34   kaza kasu (自動詞、他動詞ともに「カザカス」とてある)\n6571.68   カラカク (カワはカガの訛)\n6572.04   kazanaku (連動詞は「カガ」「ガス」である)\n6572.22   カグカム (マ行五段動詞)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02026.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02026",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02026.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6573.71",
+      "6574.52",
+      "6577.86",
+      "6581.52",
+      "6582.12",
+      "6583.41",
+      "6583.45",
+      "6584.90",
+      "6585.25",
+      "6586.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-27\n質問番号　地図番号\n042　85,86\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ　19\n項目名　匂を嗅ぐ\n\n地点番号　A語形とその注記【B・C除いた語形とその注】　A注のない語形（B・C残した語形とその注）\n\nkadza jaku　（使役形には[kadzayasu]がある。）\nkazayaku　（「カザヤク」）\nkada'o kagu　〈希〉\n=ヨイ ガ°　〈新〉\nガガガ°　〈〈ガガガ〉という人もある。〉\nkaza kayu　（「カザカンデミー」という言い方もした。　（注記続））\nkada kayu　（「カダーーかフ」）\nkađa o kaɣu　（注は先をあらわす？）　nji'o'i o kayu\nカザカィデマル　〈ニオイヲカガハ標準語〉\nkaða o kagu　〈ただし今はoを入れない。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02027.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02027",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02027.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-28\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は脱落にする。\n\n質問番号　地図番号\n042　85.86\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n(20)\n\n項目名　匂を嗅ぐ　042\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n65 87.42　=ニオイ オカグ　（確かの方言でいうえいすかあ というと思うが どうしても思い出せない）\n65 90.35　カガ カグ　<くわ>\n65 91.02　ニオイ オカグ・は（更新しいえいすである。）\n65 91.81　カガ カグ　<多い>\n\"　　　　=ニオイ カグ <古い>\n65 92.10　=オイ　カグ　<多い>\n\"　　　　ニョイ　カグ　<少い>\n\"　　　　カザ　カグ　（主として老人が使う）\n65 94.67　カガ カグ　<0 3年に同じ：かがかすにミョレとと同じいる。>\n66 08.22　カブ。（=ニオイヲフグの形に成る筈なのか。この）\n\n（手書きの注記や丸囲み等あり、上記は読める範囲の概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02028.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02028",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02028.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-29\n資料番号　地図番号　042　85,86\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2/1)\n項目名　匂を嗅ぐ　042\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n66 09.05　=ニオイ　オ　カク　<ニオイオカイテは などという。今の人は カグという>\n66 23.53　kaori o kagu　<新>　nigoi o kagu\n66 97.49　kusafu　<古>\n66 97.59　kusafu　<古>\n66 98.20　kaju　<共>\n66 98.61　kaju　<新>\n67 02.21　kaza kamu　<古>\n67 30.33　nioi o kamu　[「kamu」は単独で発音すれば kamu]\n72 38.90　ニオリ オ カク　<古>\n\n（手書き注記、ローマ字表記や古・新・共などの注あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02029.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02029",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02029.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙　注記一覧　20-30 資料番号 042　地図番号 85,86 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (22) 項目名 句を喰ぐ 地点番号　A 語形とその注 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注) 72 39.29　kayu　<町方は ががん、かざん など> 72 56.64　かずん　にがいをかぐという意をしない 72 66.60　kazum　(命令形は kazumire となる。) 72 75.84　クサム　(「こおりをかぐ」とは言わない。) 72 79.93　kazum　<新>　niwe: kiku 72 89.31　kazume　[新]　niwe:ba kiku 73 02.87　nio: te wi:　(見うつすと動詞の形例でない。) 73 07.14　nijoi o Ki:temiru　(あまり使わない?)　nijo: temirw 73 08.33　nio: temiru　(「こお(を)〜(動詞)」の形なし。) 73 08.48　nio: te mirw　(「こお(を)〜(動詞)」の形なし。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02030.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02030",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02030.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（　）（　）は略記にする。\n\n（右上の箱）\n資料番号　地図番号　042　85.86\n項目名　匂を嗅ぐ　042\nA　音韻注記　(B 除いた共通語)　(C 除いた特殊語)　(23)\n\n表ヘッダ：A 語形とその注記 [B・C除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n\n各行（地点番号は省略）：\nnioi o kazamu (表記不明・不確か)\n（同） kiku (表記不明)\nkazamu　がをかざんとはよく言わない\nnioite miru　(これ以外の言い方なし)\nnioi te miru　(かという言い方をしない)\nnioi o kiku　( kagu でない)\nka'damu?　「嗅いでみる」は ka'do; gimi? （不確か）\nnioite miru, kai de miru　①②の言い方をすることが多いとのこと　kadzamu\nnioi te miru　= （説明不明）なし\nkazammu (上品)　niou\n\n（下部に手書きの注や小書きあり。読み取り困難な箇所多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02031.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02031",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02031.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7332.97",
+      "7334.78",
+      "7335.34",
+      "7338.95",
+      "7339.27",
+      "7341.47",
+      "7343.14",
+      "7344.45",
+      "7345.47",
+      "7349.07"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　　）には敬称をつける。\n\n日本言語地図資料用紙　注記一覧　20-32\n質問番号　042　地図番号　85.86\n項目名　匂を嗅ぐ　（042）\nA　普通語　（B　除いた共通語）（C　除いた特殊語）\n\n表頭：地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nnioi kiku (の助詞を省略した)\nkazamu - <包う〜とは言わない>\nnioi o kagu (?) (ニオイヲカグは方言であるかどうか疑わしい) nioi.\nkazamu (ニオイを〜とも言えるという)\nnioi o kagw (kazamu / kazagwuという人もある。32年調)\nニオイベヤク <（＝オイをキイてなどのように）> ニオイカク　ニオイキク\nkazomu <ニオイを〜とは言わない>\nnioi o kazamu <希><ニオイをニコウとは言わぬ>\nniou <＝ニオイを＝オウとは言わない>\nkazamu (kazagwuという人もある。32年調)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02032.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02032",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02032.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-33\n管理番号　042　地図番号　85,86\n項目名　匂を嗅ぐ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(25)\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n73 50.96　カザム　Kazam^u　〈かざんをなく(使う)〉\n　　　カゾム　kazom^u　〈傾〉（濁音のムは軽く母音にを）\n73 51.09　nioi o kiku　〈nioio (ki, t e i r o) の方に〉\n73 51.68　nemattoru　（意味の注記）\n73 52.14　カザム　〈一変へ　ロゾオテミルという〉\n73 52.97　カジオテミル　〈やるま〉\n73 53.19　Kazamu　〈こおいを〜と言える〉\n73 54.23　かざん　〈くまれ〉\n73 55.81　nijoro　(一部訂正あり)\n73 56.55　nijo:　〈＝ヨイを＝ニヨトと言っている〉\n\n（注：手書きで一部判読困難な箇所あり。上は読み取りのままの粗訳・転記。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02033.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02033",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02033.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7356.70",
+      "7361.17",
+      "7364.34",
+      "7365.25",
+      "7366.87",
+      "7368.32",
+      "7367.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜（　）＞は厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-34\n（小表）042　85,86　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(26)\n項目名　匂を嗅ぐ　042\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nnijou　＜ニオイを〜する。のいいかなあないかいなどみは＞　nijoi; jimiru\nニオエ　カガム　＜香＞　ニオイオ ガブ\nニオウ、カガム　＜香＞　（手書き注記：どちらともおこる/使うが=ニオウ/人）\nnijoi o kagu　（手書き注記）\nkaorju: kiku ＜こゝ＞　kaorju; ni'oi\nnijou　＜ニオイ＝ニヨリとは差異はわない＞\nkazamu　＜希＞\nnijoi kande miru　＜希＞　nijoi o nijui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02034.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02034",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02034.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙　注記一覧　20-35 資料番号 042　地図番号 85,86 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (27) 項目名 匂を嗅ぐ 頁 地点番号 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) カズム [=ニオイ(名)～(動詞)] のい形をよつはしなり Kazum <nime ba kazum のようにいう。> カゾチミル <やぶ鼻><希> =ニオイテイク <昔からのいいすである> <カズム> カザム <二方イオガラヒとはえない> ニオム <くままこの土地の語?> カザム <ヤン希> =ニオチミル (カザムとは言えない) kazamu (kaza o は不要) kazamu ([kaza o kazamu]とは言わない。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02035.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02035",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02035.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　20-36\n質問番号　地図番号\n042　85,86\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（28）\n項目名　匂を嗅ぐ　042\n（表ヘッダ）地点番号　A語形とその注記　(B・C除いた語形とその注)　A注のない語形(B・C残した語形とその注)\n73 75.71  kazamu, hanakaze totte, miru　（両方使う。kazaのはまらない）\n73 75.86  kazamu  /kaza o kazamu/とは言わない事に /kazamu/という\n73 76.62  kazamu  (\"kaza o kazamu\"とは言わない　[kazamu...])\n73 76.68  kazamu  <る> \n73 85.38  kaza o kazo:zimiru （せが多くきう）\n73 86.56  kaza o kazamu （参考） 喰ぐ… kazamu, もしくは kazaru\n73 86.63  kazamu, kazo:zimiru <汚れ/同じ程度使う>\n73 94.14  kazaru  kazao kazaru よりには言わないが kazaru という\n73 94.60  カガム　<虫?ニオイ?ペカガムともいう>\n73 95.09  kazamu -- <簡単に kazamu という。>（こころが…） kaza o kazamu\n（注：手書きの語形・注記の写し。読みはおおよその推定）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02036.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02036",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02036.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 20-37 管間番号 地図番号 042 85,86 A 基註注記 (B 除いた共通語) (C 除いた特殊語) ページ 29 項目名 匂を嗅ぐ 042 地点番号 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) 73 95.25 kazamu (kaza o kazamu とは言わず、単に kazamu と言う。) 73 96.53 kaza o kazamu kazamu は四段活用 73 96.00 [訂正線で消されている行] 74 00.11 kazamu ( <kazamu ga ho~ to deso; kendo> といい添える。) kadomu 74 00.15 kazomu (<kazan de mi:>) 74 01.11 kazomu (<kazan'de mi: などという。>) 74 02.42 kazamu ( <kazan'de mi: などという。>) 74 03.21 kazamu (<kazan'de mi: などという。>) 74 03.86 kazamu ((<kaza' de mi:> などという地)) 74 04.56 kazamu (<kazande mi: nitaru などという。>) 74 06.53 kazamu 自かなるに kazamu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02037.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02037",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02037.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-38\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）は厳密にする。\n\n（右上の箱）\n資料番号 042　地図番号 85,86\n項目名　匂を嗅ぐ　ページ (30)\n[B　除いた共通語]　[C　除いた特殊語]\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n74.11.27　kazamu　〈ぐっとくるけた場合の会話などをくくる〉　kazamu 〈においをまるのは kazamuという〉\n74.12.71　nio:te miru　〈kazatie kurun〉　kazan de miru\n74.14.06　kazamu　⇒オイオはあまりつけぬ\n74.14.87　kazamu　〈ニオオ、がかんににまる。(しかしニオは改まれ 上品なよく行する言い方)〉\n74.15.47　kusamu　〈菜通=ニオオ をつけぬ〉\n74.18.07　kazamu　御飯の色をとかぐにもきにいる。　kayu\n74.20.18　kazamu　〈kazamu を使うほうが多い〉　nio:te miru\n74.21.38　nio:te miru　〈新〉〈nio:te ni〉\n〃　　　　kazamu　〈kazan de mii〉\n74.21.62　kazamu　〈kazan de mii などと使う。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02038.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02038",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02038.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7422.26",
+      "7426.74",
+      "7430.15",
+      "7431.08",
+      "7431.82",
+      "7440.69",
+      "7460.30",
+      "7413.89",
+      "7420.9"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-39\n管内番号　地図番号　042　85,86\n項目名　匂を嗅ぐ　042\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (31)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n\n7422.26　nioi o kazamu, nioi o kusamu (T) nioi o kazamu\n　kusamu はやや下品な語で量も頻繁に使われる、kamu が次に。kaza?aru がテレル例もある。\n7426.74　kusamu　＜＞オイオ　はあまりつけぬ＞\n7430.15　kazamu　＜名(使う)＞\n7431.08　kazamu　（＜kazo^n de miru＞ という形もあり）\n7431.82　kazamu　＜kazande mi などという＞\n7440.69　nioi o kagu　（kaide misio: などという、）　（kazamu を残す人もある。32号潮）\n7460.30　kazamu　＜「ニオイを」をつけない＞\n7413.89　[nioi o] kazamu　＜＝ニオイはつけないで使うこともある＞　つけて言うこともある。\n7420.9　kazamu　古　nioi o kagu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02039.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02039",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02039.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "8239.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧         20-40\n資問番号   地図番号\n042        85.86\n項目名　匂を嗅ぐ\nページ　（B 除いた共通語） 32\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n74.23.12   [nioi o] kagu    <花を＞のように上品なものにつける　nioi:o をつけなくても言える\n〃         [nioi o] kusaru nicio o をつけなくても言える\n75.00.24   カラ　カプ　〈古〉（カラは濁り。）    =オイ　カプ\n75.00.66   =ニオリ　オカプ（カガ　カプともいう。）\n75.04.27   kaza kagu   kaza～kagau？\n75.11.66   =オイ　カプ　〈多く用いる。〉    カゲ　カプ\n75.11.93   カダ　カプ　〈古〉    =オイ　カプ\n75.23.74   kazao  ka'gu　　kazao～kabao\n76.59.51   kande mite...　終止形で聞きますことが　ご不明かた\n8239.31/  ka:ba kamu （kamu な が kamの変形か。暗語を使用しているのか今は不明）\n\n（その他欄に手書き注記多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02040.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02040",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02040.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧 20-41 資料番号　地図番号　042　85.86 A　普通語 （B　除いた共通語） （C　除いた特殊語） 項目名　匂を嗅ぐ　ページ（33） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） カザム、（ニウオイハカザムと云いう。） kazamu　＜kaza o kazamuとは言わない。むっk kazamu。＞ kazun.　＝オイを-(動詞)という形がない。 kazamu（kaza o kazamuとは言わない）　kazo jimiru ＜同じ意味、同じように使う。＞ kaza o kazomu　kazomu …嗅ぐ？ kaza o kazo jimiru ＜ある＞　kazo jimiru… kazamu（単にkazamuと言うことが普通のようで）　kaza o kazumu kazumu（kaza o kazumuとは言わない。むっk kazu…） kazamu（通常 kazamu 或は kazamu と言っていると思う。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02041.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02041",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02041.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "8333.92",
+      "8334.63",
+      "8335.05",
+      "8335.48",
+      "8352.29",
+      "8373.43",
+      "8393.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 20-42\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n〔管理番号・地図番号欄〕\n042    85,86\n項目名 句を嗅ぐ 042\n（音連結） (B 除いた共通語) (C 除いた特殊語) ページ 34\n\n地点番号　　A語形とその注記　[B・C除いた語形とその注]　　A注のない語形　[B・C　残した語形とその注]\n\n8333.92    kaza o kazun  -- 花の香など以外一般に。\n〃         nije o kazun  -- 花の香のとき\n8334.63    kazomu  ...(丁寧に言う場合)           kazom\n8335.05    kazo: djimiru  <多>\n.          kazzamu  <米>\n8335.48    kazamu  <kazamuでニオイをかす,後に?>  = ナイフのケムとは言わない\n8352.29    kazun  ... <目的語を方といいうっか> 普通\n〃         kaza o kazun  <常> <色をいれている>\n8373.43    kazom  (kazamu)\n8393.69    kazomu  <kazomu おいを用いることが普通で>  nije o kazun\n\n（下部手書きの注記あり、判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02042.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02042",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02042.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "9303.88",
+      "9313.55",
+      "9322.52",
+      "9312.42",
+      "0228.96",
+      "237.77",
+      "0238.55",
+      "0247.56",
+      "0248.00",
+      "0256.08"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の＜＞（ ）は略語にする。\n\n日本言語地図資料用紙 注記一覧 20-43\n資料番号 042 地図番号 85,86 A 普通語 (B 除いた共通語) (C 除いた特殊語) ページ 35\n項目名 匂を嗅ぐ 042\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n9303.88  niwo: (niwe; oniwo ということは可能でも まちがらしい)\n9313.55  niwo: <= オイラ niwo: と冬の入った形は用いない>\n9322.52  niwe o kamu (kamu は kayu のなまりらしい)\n9312.42  puwe komu <つつとはなして用いる>\n0228.96  poi:jun <嗅ぐにも 香りに対いる>\n0237.77  kädza suri (貯かすることへならりに見えるけれども 意味がにこいにも使うらしい)\n0238.55  niwe jun (嗅ぐこと/香がすることは同じ意味をする)\n0247.56  kadgza juvi <かぐことも香りことも同じに言う>\n0248.00  kaza sun <嗅ぐことを同じに表す>\n0256.08  kada' sum <嗅ぐにもにおいがするも同じ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02043.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02043",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02043.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "0256.89",
+      "0257.43",
+      "265.86",
+      "275.87",
+      "0276.50",
+      "0294.93",
+      "1156.89",
+      "1213.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本語語地図資料用紙 注記一覧 20-44\n資料番号 042    地図番号 85,86\n項目名 匂を嗅ぐ 042\nA 普通語 (B 除いた共通語) (C 除いた特殊語) ページ (36)\n地点番号    A 語形とその注記 【B・C 除いた語形とその注】    A 注のない語形 (B・C 残した語形とその注)\nkada fun    <かぐも香がしてくるとも同じようにいう>\nkádaːjum    <香をかぐと香がするを包容り>\nkaʑa kabjun, kadza kabjui    (筆記の説明あり)\nkadza jun, kadza juri    (音がする変化の注)\nkada kabi    (目的の〜の実施。kabi は kabjui から) Kada kabjun\n(注尾丁異については021,022の注記参照)\nhaza sun, haza sumu    両形は込み合う\nkaba su, kazasu    動詞の活用は有段ではない\nhada kabjun    - 自分の動作についていう形\nhada kabjui    - 自分以外の人の動作についていう形",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02044.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02044",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02044.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "1223.81",
+      "1231.88",
+      "1232.75",
+      "1241.05",
+      "1241.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-45\n資料番号　042　地図番号　85,86\n項目名　匂を嗅ぐ　042\nA 普通語　(B 除いた共通語)　(C 除いた特殊語)　(37)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n1223.81　kaba si:n (suN)　( kaba si:n はよいにおいをかぐこと )\n\"　kaza si:n (suN)　( kaza si:n はわるいにおいをかぐこと )\n1231.88　haba: suN (よい匂を嗅ぐ)\n\"　haza: suN (悪臭を嗅ぐ)\n1232.75　haba sun　<よいにおいをかぐ>\n\"　hadza sun　<わるいにおいをかぐ>\n1241.05　kaba sun (よいにおいをかぐ)\n\"　kaza sun (わるいにおいをかぐ)\n1241.96　kaba sun (よいにおいをかぐ)\n\"　kadza sun (わるいにおいをかぐ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02045.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02045",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02045.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "1242.00",
+      "1242.22",
+      "1250.59",
+      "1251.73",
+      "1260.78",
+      "1261.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は略筆にする。\n\n日本言語地図資料用紙　注記一覧\n資料番号　042　地図番号　85, 86\n項目名　匂を嗅ぐ　042\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\nページ　38\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n1242.00    Kaba sun    ＜くよいにおいをかぐ＞\n\"          Hadza sun  ＜くわるいにおいをかぐ＞\n1242.22    haba: hamur （よいにおいをかぐ）\n\"          hadza: hamur （わるいにおいをかぐ）\n1250.59    Kaba sun  ＜Kaba sunはよいにおいをかぐ＞\n\"          Kadza sun ＜Kadza sunはわるいにおいをかぐ＞\n1251.73    Kadza sun ＜Kadza sunはわるいにおいをかぐ＞\n\"          Kaba sun ＜Kaba sunはよいにおいをかぐ＞\n1260.78    Kadza sun （＝口をかく意と＝ミオカリにより意がある）\n1261.32    Kaba sun ＜よいにおいをかぐ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02046.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02046",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02046.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　20-47\n調問番号 042    地図番号 85,86\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (39)\n項目名 句を嗅ぐ 042\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n126/.32    kadza sun　<かるいにおいをかぐ>\n127/.20    kaba sun　(よいにおいをかぐ)\n4          kazja sjun　(くるしいにおいをかぐ)\n20/8.08    kabi:　(新しい)    (右欄に) kabi↑\n2/41.6!    kazo: kabi　(kazo: は kaza u くせのよう >)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02047.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02047",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02047.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧    20-48\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は敬称にする。\n\n質問番号　地図番号\n042　85.86\n項目名　匂を嗅ぐ　042\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ (1)\n\n地点番号　[A・B・C除いた語形とその注]　[A中の語形 (B・C残した語形とその注)]\n\nnioe o kagu\tka kagu　<ことを多く用いる>\nnioe o kagu\tka kagu　(より自然な言い方で助詞のoはない)\nnioe o kagu　(末><上)\tka o kagu\nニオイオカグ（共）\tハナワカギズル <共>\nニオイオカグ〈新〉\tニイ カグ <古>\nnioi o kagu〈新〉\tnio:te miru\n(線引きされた行)\tカザオ カグ\n=ニオイオカグ〈共〉\tカザオ カグ\n=ニオイオカグ〈淡〉\tカザオ カフ゜\n=ニオイオカク〈古・新〉\tカザオカク・\nnioi o kagu (系語化したい方)\tnio:te miru (kazzmuga? 地域語訳?)\n\nニヨイオカグ〈上〉\tカザカグ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02048.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02048",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02048.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6500.22",
+      "6500.83",
+      "6501.92",
+      "6514.38",
+      "6522.03",
+      "6580.33",
+      "6618.46",
+      "6624.65",
+      "6635.54",
+      "7401.92",
+      "6580.06",
+      "6581.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 20-49\n質問番号 地図番号\n042 85,86\nA 普通注記  B 除いた共通語  C 除いた特殊語 (2)\n項目名　匂を嗅ぐ　042\n\n地点番号　（注）　語形とその注記　A 注のない語形　（B・C 残した語形とその注）\n6500.22　ニオイ(オ)カグ(やや少ない)　カグ\n6500.83　ニオイ(オ)カグ <ク>　カザ　カグ\n6501.92　ニオイオカグ　＝ニオイオガ?（あらたまった時）　＝オーテミル（一般的）\n6514.38　nijio o kayu　kaza o kayu <よく使う>\n6522.03　ニオイオ カグ（サ）　＝オーテミル\n(一行抹消)\n6580.33　＝ニオイオカグ（先）　＝ニオイ　カグ\n6618.46　ニオイオ カグ（新）　＝ニゴイオカグ（ち）\n6624.65　nioi o kayuu　nioi o kayuu（多くの人は下を言う）\n6635.54　nioi o kayuu　niwei o kayuu\n7401.92　nioi o kagu　kazawu\n\n6580.06　＝ニオイカグ＜新＞　カダカグ\n6581.68　＝ニオイカグ＜新＞　カダカグ\n\n（右欄手書き注記：Kazao kayu（kai; temiru となる）／同語はほとんど主としてくらしに用いるが、自分の（複語）言葉はオーテミルの方が多いような気がするとの注記。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02049.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02049",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02049.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7410.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-50\n質問番号　042　地図番号　85,86\nA　普通注記　　(B)　除いた共通語（丸囲み）　(C)　除いた特殊語　ページ（3）\n項目名　句を嗅ぐ　042\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7410.57\n(抹消された数字：線で消された行)\nnioi o kagu <新>\nkazamu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02050.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02050",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02050.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での語彙は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 20-51 質問番号 042 地図番号 85,86 項目名 匂を嗅ぐ 042 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (1) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 36 49.64　kaka site miru　kaka giw?（フワリにもカナルにも使うという） 56 56.56　ハナッカキスル　ともいう　ハナッカギスル 56 67.24　ニオイ オクフ　〈新?〉　ニイカク〈古〉 56 88.37　ハナ オ カフ　ハナオカフ（ニオイ オカフ？によって云々） 63 54.46　nijo:temiru（「ニオイ(を)～(動詞)」という形がない）　nijou 63 65.91　kuso:demiru（「ニオイ(を)～(動詞)」という形がない）　kusa inu? 63 66.16　nijo:temiru（「ニオイ(を)～(動詞)」という形がない）　nijou 63 98.07　nijo:temiru（下欄注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02051.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02051",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02051.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6398.78",
+      "6506.03",
+      "7312.11",
+      "7331.27",
+      "7395.88"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-52\n質問番号 042　地図番号 85 86\n項目名　匂を嗅ぐ　042\nA 普通注記　[B 除いた共通語]　(C 除いた特殊語)　(2)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nnijo:te miru （ニオイ(を)〜動詞の形がない。） nijou\n[カザカス]　同地生まれの若い先生のことば　カザカク\nkagu (少)　(kaguはあまり使わない。文型で単語化していない。)　nio:te miru\nnioi o kiku　＜聞いたことはある。＞　nioui\nkazo:zimiru　かいでみる意\nkazamu 「kazao」は不要。即ち kazao kazamu には言わない。kazamu で十分。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02052.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02052",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02052.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "8305.40",
+      "8306.04",
+      "8345.24",
+      "0294.66",
+      "0340.00"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　20-53\n質問番号　042　地図番号　85,86\n項目名　匂を嗅ぐ　042\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(3)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n8305.40　KA20: de miru　(くいなれにさしろ)、語義としては「嗅いでみる」と「嗅ぐ」の違いがあると思う。\n8306.04　KA20: de miru　--　かいでみるの意。\n8345.24　KA20: de miru　--　色をかいでみる。\n0294.66　nivi hadimjun　(香をかいで見るの素)　nivi hanjun（香をかぐときに?）\n0340.00　hada hadimjui　（香をかげやめる素か）　habijui\n\n（原稿の手書き注記・傍点等あり。上記は判読できる範囲の逐語的転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02053.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M085Q042/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02053",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02053.tif",
+    "source_ljc_id": "LJC-M085Q042",
+    "source_map_numbers": [
+      "085",
+      "086"
+    ],
+    "source_title": "におい (匂) をかぐ (嗅ぐ)"
+  }
+]

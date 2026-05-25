@@ -1,0 +1,881 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0861.48",
+      "0873.94",
+      "0894.61",
+      "1731.89",
+      "1739.85",
+      "1762.10",
+      "1763.60",
+      "1816.52",
+      "1863.48",
+      "2608.90",
+      "0990.97"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　23-8\n質問番号　地図番号\n127　96\n項目名　氷る　127\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(1)\n\n地点番号　A 語形とその注記　A 注のない語形\n（左手書き注）0990.97 ->\n\nガリッと　ko:ru　〈見てるうちに ko:ru〉　すっかり　sibareru（多、寒い方にいう）\nko:ru　〈全体〉　sibareru〈ちょっとすいもの〉\nsija hatta　〈表面だけ張った時〉　sù\"bareru\nスカ〈古〉　コオリ\nSibareru〈多〉　ko:ru\nコオル〈多〉　シバレル\nシバレル〈ともがう〉　コオル\nコオル〈多い〉　シバレル（ゾー）\nコオル　シバレル〈ゾーッ〉\nシバレル〈多〉〈意義についてはわからない〉　シミル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02308.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02308",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02308.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2722.67",
+      "2750.44",
+      "2713.89",
+      "2715.71",
+      "3699.25",
+      "3705.42",
+      "3733.18",
+      "3733.22",
+      "3755.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 23-9\n資料番号 127 地図番号 96\n項目名 氷る 127\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号  A語形とその注記  A注のない語形\n2722.67   コオル・シバレル　両方共使う\n2750.44   シミル＜古、今でも使うか-昔はシミルだけ使った＞　コオル\n2713.89   simiru ＜くたるの水など＞  koru＜川の水など＞\n2715.71   sija haru （動詞形はない？）\n3699.25   NR ＜sija haru という＞\n3705.42   koru （simiru が普通）\n3733.18   不明。 sui,yama haru という答のみしか出ない　128は simiru\n3733.22   sija s:ijama kagatte kūrü しかなかった\n3755.32   スミダ ＜多「スミル」の形がある＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02309.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02309",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02309.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3757.59",
+      "3761.74",
+      "3783.11",
+      "3796.95",
+      "3797.32",
+      "4589.83",
+      "0990.97"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）は略称にする。\n\n日本言語地図資料用紙　注記一覧　23-10\n（上部の枠）127　96\n項目名　氷る　127\nA（普通注記）　ページ\n[B　除いた共通語]\n[C　除いた特殊語]（3）\n\n地点番号　A 語形とその注記　A注のない語形\n3757.59　シカハッタ（参考）このような返事があった　コイル\n3761.74　sija ni narū（128のミルがえろなのに、いくら　向うても失ない）　kōrū\n3783.11　コール（固まりになったもの［古］）　スカハル（平面になったもの）\n3796.95　スミダ＜固くなる＞　コータ\n3797.32　スミル＜土＞　コータ＜水＞\n4589.83　simiru＜古＞\n追記 -> 0990.97　sibarerū＜sibarete sija hattaともいう。越中の人は道路に氷がはったら kayami hatta という＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02310.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02310",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02310.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "1791.33",
+      "1814.25",
+      "1854.24",
+      "4609.54",
+      "4652.79",
+      "4663.06",
+      "4663.84",
+      "4663.49",
+      "4663.99"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 23-11 質問番号 127 地図番号 96 項目名 氷る 127 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] (4) 地点番号 A語形とその注記 A注のない語形 追記 1791.33 シバレル（多） 1814.25 シバレル＜多＞ 1854.24 sibareru＜多＞ 4609.54 ko:irharu＜今＞ 4652.79 ko:ru（一般的に水が氷る時に用いる） 4663.06 simiru 多 4663.84 ko:ru rは巻き舌 4663.49 simiru＜ko:ruは昔の人は使わなかった＞ 4663.99 #ko:ru（コールのルの音はかすかである） 右欄注記: sigaharu simiru＜器物の中の水が氷る時に用いる＞ simiharu 水面の場合",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02311.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02311",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02311.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4668.27",
+      "4672.19",
+      "4675.45",
+      "4676.67",
+      "4678.77",
+      "4679.65",
+      "4689.10",
+      "4694.81"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >〔 〕は厳密にする。\n\n日本言語地図資料用紙　注記一覧　23-12\n資料番号　127　地図番号　96\n項目名　氷る　127\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(5)\n\n地点番号　A　語形とその注記　A 注のない語形\nzae haru　〈青年はko:ruという〉\nsimiru　(家庭内で多く用いる)\nsimiru　(simite ze: ga haru と云ったから\nsimiru は水が氷ることだと考えられる。終止形はこの間ではえられなかったが128間でえられた)\nko:ru　〈新〉\n*ko:ru　はじめ simiru といった\nsimiru　〈多〉\nko:ru　〈コオルはシミルより強い〉\nコオッタ　終止形がえられなかった",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02312.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02312",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02312.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4695.19",
+      "4696.82",
+      "4698.21",
+      "4701.14",
+      "4703.18",
+      "4703.88",
+      "4706.84",
+      "4731.15"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　23-13\n（右上の小欄）資料番号　127　地図番号　96\n項目名　氷る　127\n（B 除いた共通語）　（C 除いた特殊語）　（6）\n\n地 点 番 号　　A 語形とその注記　　A注のない語形\n4695.19　#シミル（古？）　ザエガハル\n4696.82　ko:ru　＜共＞\n4698.21　ko:ru　＜これも使う＞　simiru\n4701.14　süja haru　＜普通＞\n4703.18　ko:ru, simiru　＜区別なし＞\n4703.88　süjaharu　上に「氷が」はつかない。昔はこれ以外に言い方はなかった。現在も多..。「氷が ko:su」になる。\n4706.84　süjaharu（コールとは言わない）\n4731.15　sümiru　＜写＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02313.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02313",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02313.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4711.41",
+      "4711.49",
+      "4713.02",
+      "4715.33",
+      "4715.98",
+      "4716.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　23-14\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n質問番号　127　地図番号　96\n項目名　氷る　127\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (1)\n\n地点番号　A語形とその注記　A注のない語形\nkoru (コルという終止形は殆んどつかわない...コッタの形をとる)　suimiru\nコル　コルはコッタ、コッドギ(こぉる時)の如く用い終止形を明ることが減多にない。答えも「コッタ」であったか概念的な終止形として「コル」と記す　スカハル、スミル\nsiyahatta <普通>\nsiyaharu <\"凍る\"とは言わないらしい...そのような一語の動詞もないらしい>\nko:rihasu (この言い方はかなられない)\nsiyaharu (単独の動詞はないようである)<この場合は\"凍る\"とは言わない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02314.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02314",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02314.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4723.58",
+      "4725.68",
+      "4732.18",
+      "4742.37",
+      "4744.10",
+      "4760.54",
+      "4772.33",
+      "4790.74",
+      "5528.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 23-15\nA・[B]・[C]ごとに別紙を使用する。\nその中での措辞は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n調査番号 127    地図番号 96\n項目名 氷る   127\nA 普通注記    [B] 除いた共通語    [C] 除いた特殊語   (8)\n\n地点番号\n4723.58  sijahatta (凍るということばはないようである)\n4725.68  sijahatta <多>\n4732.18  ko:ru (水がko:ruとは言わない。süŋaja ko:ruと言う)\n4742.37  sijaharu (このようには言わない)\n4744.10  süŋaharu <普通>\n4760.54  süŋaharu <ko:ruとはあまり言わない>\n4772.33  simiru <普通>    ko:ru <これも使う>\n4790.74  simirū <ko:ruは使わない>\n5528.31  simiru <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02315.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02315",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02315.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5548.58",
+      "5565.19",
+      "5574.86",
+      "5588.78",
+      "5589.30",
+      "5596.68",
+      "5604.65",
+      "5605.11",
+      "5606.83",
+      "5608.51"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　23-16\n資料番号 127　地図番号 96\n項目名　氷る　127\nA 常通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (9)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n\n地点番号　A 語形とその注記　A 注のない語形\n5548.58　ko:ru gambaru という\t\t.ko:ru\n5565.19　simiru <古>\t\t.ko:ru\n5574.86　simirü (薄...とき)\t\tko:rü (厚...とき)\n5588.78　ハル <今夜は寒...からハルかもしれんぞ>\t\tコオル\n5589.30　シミル <本当はシミルからコオルのではある>\n5596.68　iteru <昔の人が使った>\t\tko:ru\n5604.65　コォッタ (失)\n5605.11　simiru (これが最も多く用いられる)\n5606.83　simiru <希>\t\tko:ru\n5608.51　simisru (127の 場合に多いが・強柱が生ずる zee:ga halm 又128の時にも同じ表現で範囲が広い)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02316.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02316",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02316.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5609.26",
+      "5613.48",
+      "5617.85",
+      "5618.43",
+      "5621.43",
+      "5625.91",
+      "5628.70",
+      "5632.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は原語にする。\n\n日本言語地図資料用紙　注記一覧　23-17\n頁間番号　地図番号　127　96\n項目名　氷る　127\nA　普通注記\n(B　除いた共通詞)\n(C　除いた特殊語)　(10)\n\n地点番号　A語形とその注記　A注のない語形\n\n5609.26　simiru, ko:ru (jo:ho:onaji（両方向）という)\n5613.48　ko:ru　simiru　<は雪が固く氷ること>　(水気のあるものが固く氷ること)\n5617.85　dzairu　<dzai はうすい氷の意にもつかう。dzai ga haru などという>\n5618.43　dzae haru　simiru　（両方つかう）\n5621.43　simiru　(gasa について云う)\n5625.91　simiru　<多い>\n5628.70　イデル　<ごく寒い時にいう>\n5632.28　ko:ru　<水が氷るときだけ>\n\n右欄： ko:ru (厚い氷について云う)\nコオル <多く使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02317.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02317",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02317.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5633.81",
+      "5633.96",
+      "5635.48",
+      "5669.96",
+      "5671.00",
+      "5671.36",
+      "6378.87",
+      "5679.86",
+      "5687.60"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n日本言語地図資料用紙　注記一覧　23-18\n管理番号 127　地図番号 96\n項目名　氷る 127\n（A　普通注記）（B　除いた共通語）（C　除いた特殊語）\n地点番号　A語形とその注記　A注のない語形\n5633.81　kojoru <ふつう>\n5633.96　ko:ru simiru <区別なく使う>\n5635.48　シミル <古多>\n5669.96　ko:tta (過去形)\n5671.00　Simiru (simita 結果できたものは ko:ri である) <ko:ru>\n5671.36　koru <simita de ko:tta> (寒くた から 凍った)\n6378.87　シミル (希)　コオル\n5679.86　ko:tta (過去) (素) ko:ttatta (過去)\n5687.60　コオル　コオリ　カヘル <両方とも同じように使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02318.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02318",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02318.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5688.01",
+      "5732.17",
+      "5733.02",
+      "5760.57",
+      "5770.11",
+      "5771.42",
+      "5780.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 23-19\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）には（　）にする。\n\n[欄外メモ] 127    96\n項目名　氷る　127\n(注)普通注記  (B 除いた共通語)  (C 除いた特殊語)  (12)\n\n地点番号　A 音形とその注記\n5688.01　ラオッタ　コォルダロオ　(ラオッタの総止形については質問が進展しなかった)\n5732.17　koru. eteru　<両方使うが、イテルのほうを多く使う>\n5733.02　~ka:ruu~\n5733.02　ko:ruu　(simiru iteru は土・大根などがこおる意)\n5760.57　ko:tta　(過去形)\n5770.11　ko:tta　(過去形)\n5771.42　ko:tta　(過去形)\n5780.11　ko:tta　(過去形)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02319.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02319",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02319.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6267.84",
+      "6349.09",
+      "6375.65",
+      "6420.34",
+      "6424.92",
+      "6426.04",
+      "6428.13",
+      "6429.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　23-20\n資料番号　地図番号\n127　96\n項目名　氷る　127\n（普通注記）\n[B　除いた共通語]　[C　除いた特殊語]　（13）\n\n（表ヘッダ）\n地点番号　A語形とその注記　A注のない語形\n\n手書きメモ:\nkoi:ru　過去形から推量した語形ゆえあやしい\tko:ru\nkogoru　〈古上品〉\tコゴル\nシミル　〈コゴルにくらべてコゴリ方がいくらか軽い〉\tコゴル\nコボッタ　〈過去〉\tコオル\nシミル　〈昔〉\tコオル\nkogoru　（道略が楽しものをイテル、シミルといい）\n大根はシミルという、水が氷になること\n身体はコゴル\n\nイテル　〈古〉\tコゴル〈新称〉\nコゴル　〈希〉\tコオル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02320.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02320",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02320.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6429.61",
+      "6430.53",
+      "6439.17",
+      "6439.61",
+      "6440.67",
+      "6459.29",
+      "6459.87",
+      "6472.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙 注記一覧 23-21 資料番号 127 地図番号 96 項目名 氷る 127 ページ [B 除いた共通語] [C 除いた特殊語] (14) 地点番号 A語形とその注記 A注のない語形 コプル　コオル（両様の言・示別なし） シミテ　ゴオリニテッタ（シミタとすべきか／コインタの姿をみして後シミタと改めた） komoru（あとで学校の先生（ソレ下流の姓）は） koyoru の間違いだろうという 〈イテル〈古〉〉　コプル ゴオリがハル（コオリなどとは言わない） ゴオリガバントル　ゴオントルとはいわぬ ゴオリがハル〈魚の油が固体になるのはココル〉 ゴオリ〈昔店や屋台で売った氷はカンゴオリといった。カンゴオリ 池に張るのはコオリである。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02321.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02321",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02321.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6610.77",
+      "6511.33",
+      "6511.85",
+      "6521.94",
+      "6522.93",
+      "6524.01",
+      "6525.90",
+      "6526.45",
+      "6529.15"
+    ],
+    "other_text": "・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙　注記一覧　23-22\n資料番号 127　地図番号 96　普通注\n（B 除いた共通語）（C 除いた特殊語）（15）　項目名 氷る 127\n（表の見出し）地点番号　A 語形とその注記　A注のない語形\nko:rija haru ＜器に入れた水の全体が氷結するのをコーリガハルという＞\nイテル ＜少し＞\niteru ＜もう氷っているとき＞\nコゴル ＜少＞\nイテル　表面的\niteru ＜古＞\niteru ＜古＞\nイテル ＜主に湿気の場合に使う＞\nシミル [シミルはコオルの前の段階である]\n（右欄）kogoru ＜想像する場合＞　イテル　ko:ru　コオル　コオル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02322.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02322",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02322.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6532.70",
+      "6542.27",
+      "6542.71",
+      "6543.05",
+      "6552.46",
+      "6553.47",
+      "6563.58",
+      "6564.33"
+    ],
+    "other_text": "▶ A・[B]・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧   23-23\n貸田番号　地図番号\n127    96\n頁目名　氷る 127\nA 普通注注（B 除いた共通語）（C 除いた特殊語）(16)\n\n（表の見出し）\n地点番号　A 語形とその注記　A 注のない語形\n\nイテル〈表面的〉　　　ゴオル\nコオル〈くや多〉　　　ココル\niteru　キョーワ エライ イテヤのようにもいう\nイテル（地面等にもいうか？）　　ココル\nkogoru（名詞形「氷」が「コーリ」で、動詞形残る）　（が「ココル」だったの説明）\nkogoru〈老人〉（今はおっぱら「コール」の勢力下にある）\niteru〈これも使わないでもない〉　　　kogoru\nkogoru〈な汁が氷ることを「ニココ？」という〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02323.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02323",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02323.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6571.34",
+      "6607.84",
+      "6631.05",
+      "6686.75",
+      "7208.97",
+      "7218.58",
+      "7248.49",
+      "7249.35",
+      "7249.95"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 管理番号 127 地図番号 96 項目名 氷る 127 普通注注 (B 除いた共通語) (C 除いた特殊語) (17) 地点番号 A語形とその注記 A注のない語形 koyoru (1261は「コーリ」で，127は「コゴル」で区別) ko:ru ([ko:tta]を修正) ko:tta (過去形) tappinnaru <厚…氷> kotta <薄い氷> ko:l <ko:tta fol. ko:l no hattfol など> ko:ru itagamen haru <普> ko:ru <ku:ttaとはいかない> フラントッ（凍っているの意） フウク ふつうには終止形は現れず：フウットツ（氷）でいる。グワッタ（氷った）の形で現れる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02324.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02324",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02324.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7266.34",
+      "7340.50",
+      "7341.47",
+      "7350.21",
+      "7351.06",
+      "7353.03",
+      "7354.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 23-25\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n資料番号 127　地図番号 96　普通語　ページ\n項目名 氷る 127\n\n地点番号　A語形とその注記　A注のない語形\n\n7266.34　コオツ　小つは、コオツの硬う　コオル\n7340.50　ku:　＜水田や道路などの凍るは 牛に　karamu?＞\n7341.47　ko:ru　（コオットルの形ででる）\n7350.21　ku:?（終止形は現めにくい。フウンドゥとかブラシタなど状態表現、過去表現として現めるのがふつう）\n7351.06　ko:ru (kō:riとアクセントが異る)\n7353.03　ko:ru（厚く凍る）　si:miru\n7354.23　コオル（シングルがハルとは～がシングルという　動詞はないようである）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02325.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02325",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02325.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7370.41",
+      "7371.93",
+      "7376.68",
+      "7386.56",
+      "7386.63",
+      "7395.09",
+      "7395.88",
+      "7403.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　23-26\n調査番号 127　地図番号 96\n項目名　氷る　127\nA 普通注　[B 除いた共通語]　[C 除いた特殊語] (19)\n\n地点番号　A 語形とその注記　A注のない語形\n7370.41　アウル〈古？〉　コオル\n7371.93　ko:? (12bではkulとなっているが127,128では ku:?とはならないという たとえば [ko:tto?])\n7376.68　ko:ru　ko:tjoru　〈何れも同じに後復する〉\n7386.56　kottjoru　kotta (原形は [koru] であろうが その形では現れない)\n7386.63　koru (kottaと過去形の方が口から出やすい)\n7395.09　kotta (原の形は koru である)\n7395.88　kotta (現在形は koru であろうが気にくい)\n7403.42　（下部に取り消し線の手書き）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02326.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02326",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02326.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7410.57",
+      "7411.61",
+      "8302.55",
+      "8304.66",
+      "8305.40",
+      "8305.76",
+      "8306.04",
+      "8306.42"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　23-27\n資料番号　地図番号\n127    96\n項目名　氷る　127\nA（普通注記）　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　(20)\n\n（表ヘッダ）\nA 注のない語形\nA 語形とその注記\n\nko:ru (地域内には kogoru を使うものある)    kogoru\nkoru <上>                                      コオル\nフル <やぶる><希>                              コオル\nkanakutta <古>                                  kotta\nkotta コル[koru]という現在形(終止形)は\n　なかなか表にくい\nkoru ([kott(oru)], [kotta] が自然。ここでは\n　koru が出た（128も同じ）\nkottoru kotta (原形は [korn] であろう)\nkotta koru はあにくい",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02327.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02327",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02327.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での音景は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 23-28 資料番号 地図番号 127 96 項目名 氷る 127 普通注記 (B 除いた共通語) (C 除いた特殊語) (2/) 地点番号 A 語形とその注記 A 注のない語形 83/3.72 kut /ko:ru/ が九州方言の o>u の通性に従い /kuru/ となり /ru/ の入声化によって /kut/ となったと思われる。 83/3.84 kutta 現在形はでにくい。 83/3.88 kut (コール(ko:ru)>kuru>kut の過程を経ると思う) 83/5.46 kottforu (原形は ko:ru か) 83/5.89 kottatta 「来たのだ」の意。単に ko:ru 或は konu は言わない。しかし終止形は ko:ru 我は koru と推測できる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02328.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02328",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02328.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "8334.63",
+      "8335.05",
+      "8335.48",
+      "8341.12",
+      "8324.26",
+      "8324.83",
+      "8345.24",
+      "8352.92"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞()は略筆にする。\n日本言語地図資料用紙　注記一覧　23-29\n資料番号　127　地図番号　96　ページ（22）\n項目名　氷る　127\n（B　除いた共通語）（C　除いた特殊語）\n表ヘッダ：地点番号　A語形とその注記　A注のない語形\nkotta（現在形はない。koruか）\nkottforu（この形が...）　koru\nkotta（〃）　koru\nkoru（kottaと言う）\nkutta　終止形は kuru であろう\nkotta　過去形\nko:ru（shimoguri ni naru）\nko?（今の言い方。昔はコールに当る。いい方はなかった）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02329.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02329",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02329.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "8355.23",
+      "0257.43",
+      "0265.96",
+      "0275.97",
+      "0276.50",
+      "0294.66"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 23-30\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n管理番号　地図番号\n127　96\n項目名　氷る　127\n\n(A) 普通語　(B 除いた共通語)　(C 除いた特殊語)　(23)\n\n地点番号　A 語形とその注記　A注のない語形\n\n8355.23　ko:ru <多>　simoguri naru <ないコトバ…>\n近頃は /ko:ru/ を多く使う\n\n0257.43　ko:jum <事実はないか?>\n\n0265.96　ko:juo　ko:jui（語幹尾の二形の区別については02/.022の注〈内〉を参照）\n\n0275.97　ko:rjun　ko:rjui　<現象はないけれど>\n\n0276.50　ko:rui　<現象はないが強いて言えば>\n\n0294.66　ko:jun　<　>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02330.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02330",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02330.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "1736.84",
+      "1791.33",
+      "1814.25",
+      "1854.24",
+      "2731.97",
+      "2765.02",
+      "2800.52",
+      "3705.47",
+      "3933.18"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）は厳密にする。 日本言語地図資料用紙 注記一覧 23-31 質問番号　地図番号　127　96 A　普通注記 (B　除いた共通語) (C　除いた特殊語) 項目名　氷る　127 地点番号欄（左列の番号は省略） コオル　〈新〉〈この頃使うこともある〉　　シバレル コオル（ソ）　　　　　　　　　　　　　シバレル（多） コオル　　　　　　　　　　　　　　　シバレル〈多〉 ko:ru　　　　　　　　　　　　　　　sibareru〈多〉 コオル〈新・ソ〉　　　　　　　　　　シミル koru〈新〉　　　　　　　　　　　　simiru コオル〈上〉　　　　　　　　　　　　シバレル koru〈新〉　　　　　　　　　　　　simiru 不明　suyama haru とり落としあり（取り消し線）　simiru（下に訂正）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02331.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02331",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02331.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "4589.83",
+      "4598.33",
+      "4599.31",
+      "4628.61",
+      "4609.54",
+      "4648.59",
+      "4619.29",
+      "4663.06",
+      "4659.85",
+      "4672.19",
+      "4675.45"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >()[]は略語にする。 日本言語地図資料用紙 注記一覧 23-32 質問番号 地図番号 127 96 項目名 氷る 127 A 普通注記 B 除いた共通語 C 除いた特殊語 (2) 項目名とその注 (B・Q 除いた語形とその注) A・出のない語形 (B・Q 残した語形とその注) ko:ru ko:ru <新> ko:ru <新> f s ko:ru ko:ru <新> ko:ru <上> ko:ru ko:ru <上,新> ko:ru (某、やっと改まった言い方か) ko:ru (新) simiru <古> simiru simiru simru <一般> zaeharu simru simiru 多く用いる simiru (家庭内で多く用いる) simiru (jimite zeiga haru より頻度、終止形は採られなかったかも 128の2字?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02332.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02332",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02332.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "4679.65",
+      "4695.19",
+      "4701.14",
+      "4703.88",
+      "4731.15",
+      "4712.56",
+      "4713.02",
+      "4725.18"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　23-33\n資料番号　127　地図番号　96\n項目名　氷る　127\nA　普通注記　　B　除いた共通語　　C　除いた特殊語　（3）\n\n地点番号　（B・� 除いた語形とその注）\n4679.65    ko:ru    simiru <多>\n4695.19    コオル（転）    #シミル（古？）#ザエガハル\n4701.14    ko:ru <今>    siñgahar u（普通）\n4703.88    ko:ru <新><英>    siñgahar u　上に“水が”はつか\n\t\tな..昔はこれ以外に言い方はなかった。\n\t\t「水が ko:ru」になる\n\n4731.15    ko:ru    sūmiru <多>\n4712.56    ko:ru <新><英>    sijahasw\n4713.02    ko:ru    sijahatta（普通）\n4725.18    ko:ru    sijahatta <多>\n\n（注記の文字・音写は判読困難な箇所あり。上記はおおよその写し。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02333.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02333",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02333.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "4731.42",
+      "4744.10",
+      "4745.27",
+      "4750.32",
+      "4757.42",
+      "4760.64",
+      "5508.16",
+      "5528.31",
+      "5548.60",
+      "5589.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 23-34\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n\n（右上の枠）\n質問番号 127　地図番号 96\n項目名 氷る 127\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\n\n地 点 番 号\n4731.42    ko:ru <共>    sūmiru\n4744.10    ko:ru <共>    süyahar u (普通)\n4745.27    ko:ru <今>    sigaharu\n4750.32    コール（稀）    スミル\n4757.42    ko:ru <新．上>    sümiru\n4760.64    ko:ru <上>    sūmiru\n5508.16    ko:ru <新>    simiru\n5528.31    ko:ru    simiru <古>\n5548.60    ko:ru <新>    simiru\n5589.30    コオル    シミル（本当はシミルからコオルのである）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02334.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02334",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02334.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5605.11",
+      "5623.42",
+      "5625.91",
+      "5631.16",
+      "5631.26",
+      "5633.81",
+      "5635.48",
+      "5653.65",
+      "6395.61",
+      "6408.88"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本語言語地図資料用紙　注記一覧    23-35\n資料番号 127　地図番号 26?　A 普通注記\n項目名 氷る 127\n[A 除いた共通語]　[B 除いた共通語]　(C 除いた特殊語) (5)\n\n(表ヘッダ) 地点番号 | A-語形とその注 (B・C除いた語形とその注) | A 社の残形 (B・C 残した語形とその注)\n\nko:ru (上)        | simiru (これが最も多く用いられる)\nko:ru <新>        | gasabaru\nko:ru <英>        | simiru <多…>\nko:ru <英>        | simiru\nko:ru <英>        | simiru\nko:ru <英>        | kojoru <ふつう>\nコオル             | シミル <古多>\nko:ru <英>        | simiru\nko:ru(or ko:iru)  | kogoru\nコオル <英新希>    | コゴール",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02335.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02335",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02335.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6415.23",
+      "6439.01",
+      "6500.88",
+      "6510.65",
+      "6610.77",
+      "6511.33",
+      "6520.50"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙　注記一覧　23-36 資料番号 127　地図番号 96 A 普通注記　B 除いた共通語（　）　C 除いた特殊語 項目名　氷る　127 地点番号　A 音形とその注記（B・C除いた語形とその注）　A'のない語形（B・C残した語形とその注） 6415.23　ko:ru <上品>　kogoru 6439.01　ゴオル <英新>　イテル 6500.88　ko:ru <希>　iteru 6510.65　イテル <やや多>　イテルの方が多いという答えを得たが、イテルという形は或条件の場合にのみ用いるのではないかと考えられる。　コオル 6610.77　ko:ru <希>　ko:riga haru（茶に入った水）〈全体が氷〉　結するのもコーリガハルという 6511.33　フオル　イテル <多し> 6520.50　コオル <新英希>　イテル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02336.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02336",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02336.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6524.01",
+      "6553.47",
+      "6553.83",
+      "6572.04",
+      "6620.49",
+      "6727.7",
+      "7340.24",
+      "7395.25",
+      "7395.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 23-37\n資料番号 地図番号 127 96\n項目名 氷る 127\nA 普通注記 B 除いた共通語 C 除いた特殊語 ( )\n\n地点番号    (B・Q 除いた語形とその注)    (B・Q 残した語形とその注)\n6524.01    ko:ru    iteru <古>\n6553.47    ko:ru <新>    koyoru <老人> (今はまっぱらジョーニ の勢力下にある)\n6553.83    ko:ru    koyoru <古>\n6572.04    ko:ru <新>    koyoru <古>\n6620.49    ko:ru <新・英>    koyoru\n6727.70    ko:ru <新>    tappiga ko:tta tappiga hatta\n7340.24    ko:ru <英>    ku:?\n7395.25    ko:ru <新>    kanakuri ga haru\n7395.88    kotta (現在形は koru であるか —)\n\n(注: 一部手書きで訂正あり、線で消された数値や注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02337.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02337",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02337.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7450.44",
+      "7523.74"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は敬称にする。\n\n日本言語地図資料用紙　注記一覧　23-38\n資料番号 127　地図番号 96\n項目名　氷る　127\nA 普通注記　B 除いた共通語　C 除いた特殊語　(8)\n\n地点番号　（表の見出し）\n7450.44    ko:ru    kogo.ru [古]\n7523.74    ko:ru [共]    koru\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02338.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02338",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02338.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "0990.97",
+      "1738.19",
+      "1942.03",
+      "4609.5",
+      "4628.28",
+      "4734.20",
+      "4773.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 23-39 質問番号 127 地図番号 96 項目名 氷る 127 A (普通注記) [B] (除いた共通語) (C 除いた特殊語) 地点番号 0990.97   sibaretsuku   sibareru (jibarete sija) hatta という 道路に氷がはったら kayami hatta という 1738.19   sibareta kara   ko:ru 1942.03   sibareru <気候>   ko:ru 4609.50   ko:ru naru <今>, siganaru   ko:ru haru <今>, sigaharum 4628.28   kogotta   kogoru 4734.20   Giesmu   ko:sum 4773.15   simiru <道>   ko:ru <池の水>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02339.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02339",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02339.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5463.12",
+      "5569.02",
+      "5604.65",
+      "5632.28",
+      "5636.74",
+      "5771.42",
+      "6413.76",
+      "6458.40",
+      "6522.93",
+      "6541.66",
+      "6556.9"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　23-40\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（ ）には敬称を付する。\n\n（右上ボックス）\n質問番号　127　　地図番号　96\n項目名　氷る　127\nA　普通注記\n[B]　除いた共通語\n(C)　除いた特殊語　（2）\n\n（表ヘッダ）\n地点番号　　A・[B]・[C]除いた語形とその注　　A・[B]・[C]残した語形とその注\n\n5463.12　コオッタ　　　コオル\n5569.02　カネヲオリ＝ナル　　コオッタ\n5604.65　カタマッタ　過去完了形である　　コオッタ（共）\n5632.28　simiru〈物がこおるとき〉　　ko:ru〈水が氷るときだけ〉\n5636.74　シミル〈気候のさむさ〉　　コオル\n5771.42　ko:ttatta（過去形）　　ko:tta（過去形）\n6413.76　コゴオ　　　コゴール\n6458.40　コオリ＝デットル　　コオリバットル\n6522.93　コゴル（すこやき等）　　イテル（表面的）\n6541.66　イテロ　　　イテル\n6556.90　（下段取り消し線）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02340.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02340",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02340.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6636.05",
+      "6657.96",
+      "7239.85",
+      "8325.03"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　23-41\n質問番号　地図番号\n127　96\n項目名　氷る　127\nA: 普通注記　(B: 除いた共通語)　(C: 除いた特別語)　(3)\n地点番号　A一般形とその注記　B・C除いた語形とその注\nkoiri ni naru\tko:ru (女)\nkatamaru\tko:ru\nコオル\tコオル\nkuhoru 「氷っとる」\tkuru 「氷る」\n（以下空欄）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02341.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M096Q127/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02341",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02341.tif",
+    "source_ljc_id": "LJC-M096Q127",
+    "source_map_numbers": [
+      "096"
+    ],
+    "source_title": "こおる (水が凍る)"
+  }
+]

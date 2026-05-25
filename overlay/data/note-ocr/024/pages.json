@@ -1,0 +1,659 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0894.61",
+      "1756.32",
+      "1893.10",
+      "3688.82",
+      "3699.55",
+      "3705.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧   4-59\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n（上部ボックス） 質問番号 161 地図番号 024  A 普通注記  [B 除いた共通語] [C 除いた特殊語]\n項目名 ホソイ\n（表ヘッダ） 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n0894.61  hosoi 〈多〉                              tsjittjai\n1756.32  コマイ 〈コマイ丸太〉                    ホソイ\n        チイサイ 〈チイサイ丸太〉                 \n1893.10  hosoi 〈多〉                              tjiisai\n3688.82  tsüütʃai 〈普通〉                         tsüüsai\n3699.55  チッチェ 小さいことを意味する語\n         ベティ　固の様なものの比較におい\n         ては、しかし、ッチェ、ベティとい\n         うか普通\n3705.47  t]akoe (hosoi ではない.)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00459.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00459",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00459.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3752.53",
+      "3754.76",
+      "3791.02",
+      "4609.54",
+      "4619.63",
+      "4643.47",
+      "4653.84",
+      "4659.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-60\n質問番号 地図番号 161 024\n項目名 ホソイ\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語) (2)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C残した語形とその注]\n\n3752.53 (ゆ) hosol    tsitʃakol\n3754.76 ホセ (多)\nベァッコ (少)\n3791.02 bette・ (hosolということばを誘集してみれ) ㊂ hosol\n4609.54 hosse (φosseとも)    hose\n4619.63 hossoé (又はφossoé)    hosoé\n4643.47 tʃi:se:　多し\n4653.84 hosoi (この方が合っている)    tʃi:se:\n4659.87 tsiuttʃal (普通)    hosol",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00460.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00460",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00460.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4665.87",
+      "4666.57",
+      "4667.33",
+      "4667.67",
+      "4686.96",
+      "4706.53",
+      "4711.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-61\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n（右上ボックス）\n質問番号　161　地図番号　024\n項目名　ホソイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3)\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4665.87　ho:soɪ　＜多少＞（「外に言い方はありませんか」tʃisaɭ に対する答え。「これも多く用ゐる」と説明したが160と矛盾する様である。）\n\n4666.57　hosoe　＜多少＞\n\n4667.33　hose　…多い\n\n4667.67　hose:　＜多少＞\n\n4686.96　tʃi:sae　＜多少＞＜古くから使っている＞\n\n4706.53　tʃi::tʃakoe（非常にこまかい感じである）tʃakkoe\n\n4711.41　[£OSOL]\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00461.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00461",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00461.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4721.36",
+      "4725.68",
+      "4730.45",
+      "4731.15",
+      "4731.42",
+      "4731.85"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () は厳密にする。\n日本言語地図資料用紙 注記一覧 4-62\n資料番号 161　地図番号 024\n項目名 ホソイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n地 点 番 号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n[fosoe]\n[fossœ]\n[fosokoe] <希>\nhosoke' <古>\nhosoe\nfossœ (hossoe とも)\nhosoe\nhossoi　一度言って、訂正する。\n[fosoe]\n[fossœ]\n[fosol]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00462.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00462",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00462.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4740.26",
+      "4741.92",
+      "4750.76",
+      "4760.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-63\n質問番号 161 地図番号 024\n項目名 ホソイ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (5)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n[ϕosoko]\nϕossoe (又は hossoe)\nϕosoë (又は hosoë)\n\nhosokkoë (又は ϕosokkoë)\nhosokkol (又は ϕosokkol)\n\nϕosoi （ϕoはhoとも発音できるもの\nϕosokol と思う時として、hoにより、ϕoになるは当地方の常）\n\n[ϕosoe]\n[ϕosokoe]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00463.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00463",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00463.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4762.56",
+      "5462.57",
+      "5538.33",
+      "5548.58",
+      "5549.55",
+      "5556.84",
+      "5568.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-64\n質問番号 地図番号\n161 024\n項目名 ホソイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (6)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nhosokoe <方言的>    hosoe\nコマイ <多>\ntjitjai <稀?>    hosoi\ntji:sai <希>    hosoi\ntsusai (159 は tsisai, ともに「小さい」)\n[米] hosoi    tji:sai\nホソイ\nチイサイ（マワリガ デカイ、タケ（竹）ト チイサイ　タケのように細いの意味に）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00464.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00464",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00464.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5585.63",
+      "5594.37",
+      "5604.52",
+      "5605.57",
+      "5613.33",
+      "5635.65",
+      "5644.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-65\n質問番号 161 地図番号 024\n項目名 ホソイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n(イサイを使う。)\n\n5585.63  hosoi    優位.    tjai\n5594.37  tjisai 〈昔〉\n         hosoi 〈今〉\n5604.52  tjinke: (小さい意味にも用いる)    hosoe\n5605.57  チッコダ (古)\n         ホオリエ (新)\n5613.33  [hosoe]  く多いか?>    tji:sze\n5635.65  ホソイ (共)\n5644.74  ホセエ <共>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00465.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00465",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00465.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5652.22",
+      "5655.57",
+      "5657.73",
+      "5664.58",
+      "5666.10",
+      "5666.18",
+      "5666.22",
+      "5667.24",
+      "5667.81",
+      "5674.06"
+    ],
+    "other_text": "日本語方言地図資料用紙　注記一覧　4-66\n質問番号　地図番号\n161　024\n項目名　ホソイ\nA（普通注記）　[B　除いた共通語]　[C　除いた特殊語]　(8)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5652.22  hose: <俗称?>\t\thosoi\n5655.57  ホソイ（共）\n5657.73  ホソイ（共）\n5664.58  ホセエ＜下＞\t\tホソイ\n5666.10  ホセエ＜稀＞\t\tホソイ\n5666.18  ホソイ（共）\n5666.22  ホセエ＜多＞\t\tホソイ\n5667.24  ホセエ＜下＞\t\tホセエ\n5667.81  ホソイ＜多＞\t\tホセエ\n5674.06  ホセエ＜多＞\t\tホソイ\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00466.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00466",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00466.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5681.47",
+      "5687.32",
+      "5687.60",
+      "5688.74",
+      "5696.54",
+      "5697.53",
+      "5731.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-67\n質問番号 161 地図番号 024\n項目名 ホソイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n5681.47 hose: 〈気安く言う〉 hosoi\n5687.32 ホソイ 〈普通〉 ←〈どちらかと言えば〉 ホセェ → とタ>と解釈 (高田)\n5687.60 ホソイ 〈昔〉 チイサイ\n5688.74 tʃi:sai, tʃi: は tsu: にやや近すく ように聞える. hosoi\n5696.54 tʃi:tseʔ 〈昔はこちらを使った〉 hosoi\n5697.53 tʃi:se: 〈古〉 hosoi\n5731.13 tʃi:se:, tʃinko, tʃintse: とは hosoi, 言わない.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00467.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00467",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00467.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5792.02",
+      "6338.99",
+      "6356.98",
+      "6357.38",
+      "6357.94",
+      "6395.61",
+      "6406.77",
+      "6408.88",
+      "6411.80",
+      "6414.17"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 4-68\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n資料番号 161    地図番号 024\n目名 ホソイ\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語] (V0)\n\n地点番号    A語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C 残した語形とその注）\n\n5792.02    hosoi <くみ>    tʃi:se:\n6338.99    [コマア]    ホソイ\n6356.98    チサイ <希>    コマイ\n6357.38    コマイ <古>    4サイ\n6357.94    コマア <細い木棒 = コマア ボオン>\n6395.61    Komae    (エ) tʃi:sai\n6406.77    hosoi <くみ>    komai, tfisai\n6408.88    ホソイ <共.希>    ホソエ\n6411.80    チサイ <クタ>    ホセ\n6414.17    hose: <古>    komai, hosoi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00468.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00468",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00468.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6415.23",
+      "6418.13",
+      "6419.50",
+      "6421.79",
+      "6423.75",
+      "6427.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-69\n質問番号 161 地図番号 024\n項目名 ホソイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (11)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C・残した語形とその注）\n\nkomai 〈多〉\ntji:sai 〈上品〉\nhosoi\n\n4サイ、く明確に言えば“ホソイ”であるが\nホソイ、チサイとも言う\n\nホセエ〈古〉\n\ntji:sai 〈上〉\nkomai\n\nhosoi 〈最も多く用いる〉\nkomæi 〈下品〉\ntjisæi\n\nhosoi,（ホセーというかと聞かれると言うとのこ hose; と。普段はホセーが多いの）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00469.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00469",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00469.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6429.61",
+      "6464.90",
+      "6475.27",
+      "6475.61",
+      "6491.49",
+      "6526.04"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　4-70\n質問番号 161　地図番号 024　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (V2)\n項目名 ホソイ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〔〕は厳密にする。\n\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nではよいかと思う。同じ位だとのことでではあれか？\n\nホセエ〈希〉　　　ホソイ\nkomæ:〈上〉　　　koma:\nホセエ〈普〉　　　ホソイ\nkommai　みくいう　hosoi\nkomai（海岸部の大浜部落では、kᵒmai, tʃᵒmaiと言っている。）\nホソェ（自然を気持ちで話す場合）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00470.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00470",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00470.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6541.66",
+      "6557.36",
+      "6603.08",
+      "6604.98",
+      "6616.22",
+      "6632.88",
+      "6634.32",
+      "6686.75",
+      "6697.39",
+      "6697.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　4-71\n資料番号　地図番号\n161　024\n項目名　ホソイ　(A 普通注記) (B 除いた共通語) (C 除いた特殊語) (1/3)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6541.66　チッサイくホソイといわずに>\n6557.36　[hosoi]\n6603.08　ホセエ [古]　ホソイ\n6604.98　ホシイ　(hoʃi:)\n6616.22　tʃi::ttʃæ: ＜最近では[hosoi]＞\n6632.88　kotswui　希　hosoi\n6634.32　希, tʃi:sai　kosui\n6686.75　hossoi ＜昔の婆さんのことば＞　hosoi\n6697.39　hose: ＜ぞんざいなことば＞　hosoc\n6697.59　tʃikko: ＜俗な言い方＞　hosoc",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00471.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00471",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00471.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6698.20",
+      "6720.67",
+      "6730.33",
+      "7239.29",
+      "7249.95",
+      "7266.34",
+      "7303.17",
+      "7313.34",
+      "7321.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () は厳密にする。\n日本語語地図資料用紙 注記一覧 4-72\n質問番号 地図番号 161 024\n項目名 ホソイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\nhosoi <多>\nho: sokke: 僅く細い事をいう。\nhose: 左記より [hosokke:]の方が細い感じがすると言う。\ntji:sai <コマイ、ホソイとは言わない>\nホスカ <棒状のものに限って>　コマカ。\nヒョオナンカ 「ひょろ長い」の意味\nKomai (多)\ntji:sai (上品な語という)　hosoi\nコマイ、<マワリガコマイの様にいう>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00472.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00472",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00472.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7322.81",
+      "7325.57",
+      "7331.27",
+      "7342.72",
+      "7350.44",
+      "7372.27",
+      "7374.15",
+      "7375.96",
+      "7382.58"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での順番は地点番号順に並べる。 注記の＜　＞〔　〕は厳密にする。 質問番号 161 地図番号 024 項目名 ホソイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] (15ページ) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7322.81   ?komai      hosoi (取り消し線) 7325.57   komai <上>      koma: 7331.27   tjisaka <少し>    komaka 7342.72   hosoka <新行?>   kontjoka 7350.44   komanka <この方が: やや小さい感じ>   komaka 7372.27   コミャア <親近語>   コマカ 7374.15   コマカ <新行>   コミャア 7375.96   komë:  ë: 説明書等照 → Komwe: (高田カス) 7382.58   コマカ <ホツカは用いず>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00473.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00473",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00473.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "7385.61",
+      "7394.85",
+      "7411.61",
+      "7413.62",
+      "7460.30",
+      "7461.77"
+    ],
+    "other_text": "日本語音地図資料用紙 注記一覧 4-74\n質問番号 161 地図番号 024\n項目名 ホソイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] (16)\n\n地点番号    A 番形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C残した語形とその注]\n\n7385.61    komë: , ë ... 説明書参照 → komwe: (高田印?)\n7394.85    ko(m)me: , ()はつくときとつかない ときにあり\n7411.61    kommai (針金や縄、紐などのように長いものでは、<huntoi> <hosoi>というよし)\n7413.62    komai <クタ?>\n7460.30    kom:ai <強調した時>\n7461.77    komai <多>\n\n右欄手書き: komai  komai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00474.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00474",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00474.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7570.18",
+      "7574.21",
+      "8320.59",
+      "8321.58",
+      "8342.35"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-75\n(上段の小欄) 資問番号 161 地図番号 024 項目名 ホソイ (A) 普通注記 (B 除いた共通語) (C 除いた特殊語) (17)\n地 点 番 号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7570.18　ホッソイ〈強めた言い方〉　　　　　　　　　　　　ホソイ\n7574.21　hoso'i (dobuto'iに対するものなし)\n83/3.72　kome, 〈色々に言う。同じ程度に使うように思う〉\n　　　　komaka.\n　　　　komeyka?\n83/13.84　komaynka〈タ〉　　　　　　　　　　　　　　　kome:\n　　　　　　　　　　　　　　　　　　　　　　　　　　komaynka.\n8320.59　t¡jinka (布)\n8321.58　tjinkaka 〈どちらかと言えば: tjinkaka の方を多く使う〉　hosuka\n8342.35　kome, (両者を使いわけるのは困難、",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00475.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00475",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00475.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "8342.69",
+      "8343.97",
+      "8373.43",
+      "0294.93",
+      "1213.76",
+      "1260.78"
+    ],
+    "other_text": "日本語言地図資料用紙 注記一覧 4-76\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく〈〉（　）[]は厳密にする。\n\n資料番号 161    地図番号 024    (A)普通注記\n項目名 ホソイ    (B 除いた共通語)    (C 除いた特殊語)    (18)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注記]    A 注のない語形 [B・C 残した語形とその注記]\n\ntjingke　（気分的。）\n8342.69  kome〈少〉\n8343.97  kome〈古〉\n8373.43  kome　{両用。れだし、159について\n          komanka} もともそうかどらか不明。\n0294.93  in'kusan, in'kusaで終止することが多い。\n1213.76  insaji, insaで終止することも多い。\n1260.78  gumasan〈古〉(?)\n         ku:s2n〈新〉(?)\n\ntjingke    tjingke",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00476.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00476",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00476.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "1271.20"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 4-77 質問番号 地図番号 161 024 項目名 ホソイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] (19)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）［　］は敬称にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n1271.20  ku:han <古>\ngumahan <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00477.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00477",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00477.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "3619.08",
+      "3735.50",
+      "4638.43",
+      "4643.49",
+      "4653.02",
+      "4653.47",
+      "4677.65",
+      "4685.28",
+      "4686.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧          4-78\n（欄） 質問番号 地図番号\n161   024\n項目名 ホソイ\nA 普通注記  B 除いた共通語  C 除いた特殊語\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n3619.08    hose 〈若い人が言う〉                          tji:se ・\n3735.50    ツーセァ                                     ホセ，ホソエ\n4638.43    [ho:soe]                                   tji:tse ？\n4643.49    hosoi                                       tji:se: 少し\n4653.02    hos e: 〈今〉                                tji:ge:\n4653.47    maruga tji:se:\n4677.65    tjisae（やや改まった発音）                    tji:se:\n4685.28    hosoc 〈共〉                                 tji:se:\n4686.96    [tjin koe] -（森町の商人（53才）の助力と言による。）  tji:sae. 〈から使っている〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00478.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00478",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00478.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "4695.21",
+      "4706.53",
+      "4742.95",
+      "4773.28",
+      "5462.57",
+      "5611.39",
+      "5612.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-79\n質問番号 161   地図番号 024\n項目名 ホソイ\nA 普通注記   B 除いた共通語   (C 除いた特殊語)  (2)\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\nhosoe <新>            tʃi:se:\nhosoe (共)            tʃi:tʃakoe (非常に細かかい感じである)\n\nhosoe <共>            tʃakkoe\nhosoe <栃>            hosokoe\n\nホソイ                tʃi:tteʃe;\nhosoe (新)            tʃi:sae\n[tʃisal]              hoso c",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00479.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00479",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00479.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5614.24",
+      "5626.92",
+      "5631.16",
+      "5631.75",
+      "5633.45",
+      "5633.96",
+      "5641.07",
+      "5643.33",
+      "5644.74",
+      "5651.45"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく < > ( ) [ ] は厳密にする。\n\n日本雪語地図資料用紙 注記一覧   4-80\n資料番号 161   地図番号 024   A 普通注記   ページ (3)\n項目名 ホソイ\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n5614.24    hosoe <上>                          tʃi:se:\n5626.92    hose: [新竹?]                       +jit:te:\n5631.16    hosoi <共>                          hose:\n5631.75    hosoi <共>                          hose:\n5633.45    hosoe <ていねいな>                  hose\n5633.96    hosoe <共>                          hose\n5641.07    hosoi <共>                          hose:\n5643.33    hosoi <ていねい>                    hose\n5644.74    ホソイ <上>                        ホセエ <共>\n5651.45    hosoi <共>                          hose:\n\n(手書きのローマ字表記・注記を含む。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00480.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00480",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00480.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5651.95",
+      "5652.81",
+      "5653.60",
+      "5656.56",
+      "5661.89",
+      "5663.68",
+      "5667.24",
+      "5671.00",
+      "5671.38",
+      "5672.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) は厳密にする。 日本言語地図資料用紙 注記一覧 4-81 資料番号 161 地図番号 624 項目名 ホソイ A 普通注記 B 除いた共通語 C 除いた特殊語 (4) 地点番号　A 語形とその注 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] hosoi 〈共〉　hose: hosoi 〈共〉　hose: hosoe 〈共〉　hose: 4イセエ　ホソイ, ホセエ hosoi 〈ていねいな時〉　hose: hosoe 〈共〉　hose: ホソイ 〈上〉　ホセエ〈下〉 hosoi 〈共〉　hose: hosoi 〈共〉　hose: hosoi 〈共〉　hose:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00481.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00481",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00481.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5674.54",
+      "5677.85",
+      "5684.11",
+      "5686.31",
+      "5696.68",
+      "6404.83",
+      "6405.95",
+      "6409.72",
+      "6419.50",
+      "6421.79"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 4-82 資料番号 地図番号 161. 024 項目名 ホソイ A 普通注記 B 除いた共通語 C 除いた特殊語 (5) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] hosoi <共> hose: ホソイ <今の若い人がよく用いる.> チッチャイ hosoi <共> hose: hosoi <新> hose: hosoi <共> tlibi: ホソイ <新> ホセ hosoi <稀> tlisai ホソイ <共> ホセエ ホソイ <新,共> ホセエ <古> hosoi <上> komai;",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00482.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00482",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00482.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6429.30",
+      "6526.04",
+      "6625.17",
+      "6634.32",
+      "7246.82",
+      "7303.17",
+      "7321.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-83\n資料番号 地図番号\n161 024\n項目名 ホソイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）〔　〕は厳密にする。\n（表見出し）地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nホソイ〈希,上〉\ntʃi:sai〈上〉　ホセエ\n\nホソイ（改まったような気持ちの場合は、ホソイ。）\nホソエ（自然な気持ちで話す場合）\n\nhosoi　上\nhose:\n\nhosoi　希\nkosui\n希, tʃi:sai\n\nkomaka\nkommaka\n\nhosoi（少）\nkomai（タ）\n\nホソイ（新）\nコマイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00483.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00483",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00483.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7332.46",
+      "7332.97",
+      "7349.07",
+      "7381.47",
+      "7413.62",
+      "7440.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉〈〉は厳密にする。\n\n日本言語地図資料用紙 注記一覧 4-84\n質問番号 161  地図番号 024\n項目名 ホソイ\n\n地点番号   A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n7332.46    hosoi (上品な語)                          komai, tfisai\n7332.97    hosoi (稀,上品) (共)                     tji:sai, kontji:;\n7349.07    hosoi (上)                                komai\n7381.47    コマク                                    コマカ\n7413.62    hosoi <タ>                                komai <多>?\n7440.69    hosoi <希>                                tfiszi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00484.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M024Q161/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00484",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00484.tif",
+    "source_ljc_id": "LJC-M024Q161",
+    "source_map_numbers": [
+      "024"
+    ],
+    "source_title": "ほそい (細い)"
+  }
+]

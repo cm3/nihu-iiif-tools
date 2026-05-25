@@ -1,0 +1,835 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　23-93\n▶ A・[B]・(C)ごとに別紙を使用する。\n▶ その中での語順は地点番号順に並べる。\n▶ 注記の＜＞（）（）は厳密にする。\n（右上の枠）質問番号 031　地図番号 101　A 普通注記　（B 除いた共通語）　（C 除いた特殊語）　ページ（1）　項目名 頭 031\n\n地点番号　　　　A語形とその注記（B・C除いた語形とその注）　　　　　　　　　A注のない語形（B・C残した語形とその注）\n0737. 94    atama　（やや有声化）　　　　　　　　　　　　　　　　　　　　　　　　　　　アダマ\n1731. 89    コラベ（老）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　アダマ\n1862. 48    ズコ〈古〉　〈ズコハルという。〉　　　　　　　　　　　　　　　　　　　　　アタマ\n2751. 10    アダマ〈新〉　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　コンベ\n2812. 96    dzambo　〈子供の時〉　　　　　　　　　　　　　　　　　　　　　　　　　　atama\n3702. 81    atama　〈上の方、あごなどははいらない感じ〉\n　　　　      kãpita　〈音級といった名〉\n3722. 97    adama　人間以外は hakkeという。\n3741. 57    teppe（岩）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　adama\n4618. 87    adama　〈さらに難しい説明、蛇足的注記あり〉\n（下の手書き注記）adama〈むしろ難説、地域的にはアダマツヅリなどというが一説では異説もあり〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02393.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02393",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02393.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4619.63",
+      "4644.10",
+      "4648.59",
+      "4677.65",
+      "4659.50",
+      "4659.85",
+      "4663.49",
+      "4669.55",
+      "4686.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）{}[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　23-94\n質問番号　031　地図番号　101\nA　普通注記　（B　除いた共通語）　（C　除いた特殊語）　（2）\n項目名　頭　031\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n4619.63   adama   先髪のある部分（左の枠に区別する。…）\n          kao    前頭\n4644.10   a'ta'ma  （昔は ko:be と言った。これは今では人間が…）\n4648.59   kajira  ＜希＞\n4677.65   adama   （被調査者の会話の中に見られた話）\n4659.50   ハッケ（鼻）　前頭部のみをガッケという\n4659.85   hakke   ＜下＞\n4663.49   doko:be 【鼻】\n4669.55   gayko  ＜下＞（魚の頭はピスという）\n4686.02   kubi   atama（頭の上後部）　kao を含む語、顔\n\n（訳・注記は不鮮明な箇所あり。上は読める範囲での粗い転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02394.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02394",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02394.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4686.96",
+      "4695.33",
+      "4696.82",
+      "4700.37",
+      "4711.41",
+      "4711.49",
+      "4711.82",
+      "4721.36",
+      "4730.45"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　23-95\n質問番号　地図番号　031　101\n項目名　頭　031\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n4686.96　atama　(kwbi kara me とかいう)\n4695.33　kwbi〈希〉　旧例 kwbi oka; igeru　atama\n4696.82　kwbi　額の部分と頭の部分を合わせていう。　atama\n4700.37　zappa〈下〉　adama\n4711.41　(kanadzugi)〈下〉　[adama]\n4711.49　アグマ　{アグマ及びアダマ／ガンコには顔が入らない。}\n　アダマノガシコ(男)\n4711.82　zappa〈下〉（用例 ザンポイザー…）　adama kanadzugi\n4721.36　(kanadzugi)〈下、有〉　[adama]\n4730.45　kanadzugi〈下〉　adama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02395.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02395",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02395.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4731.42",
+      "4750.32",
+      "4750.76",
+      "4751.42",
+      "4760.02",
+      "4760.64",
+      "5506.68",
+      "5528.31",
+      "5537.99",
+      "5547.25"
+    ],
+    "other_text": "A・[B]・[C]ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　23-96\n資料番号　031　地図番号　101\n項目名　頭　031\n（B　除いた共通語）（C　除いた特殊語）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n4731.42　{keanadzüngi}　<鼻>　{adama}\n4750.32　ガンコ　（精軍）　アダマ\n4750.76　gaykeo　<下>　adama\n4751.42　adama kuwbi　<全体は光; 片を除けばアダマ。>　(adama?)\n4760.02　gaykeo　<下>　adama\n4760.64　{gamkeo}　<下,希>　{adama}\n5506.68　kobe　<古>　atama\n5528.31　dzuko　<下>　atama\n5537.99　dzuko　<下>　atama\n5547.25　dzuko　<下>　atama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02396.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02396",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02396.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5557.48",
+      "5565.12",
+      "5574.42",
+      "5574.99",
+      "5611.39",
+      "5615.20",
+      "5621.43",
+      "5623.85",
+      "5631.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　23-97\n\n調査番号　地図番号\n031　101\n項目名　頭　031\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(5)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\ndzuko ＜下＞　atama\nガシラ ＜希＞　アタマ\natama　(はじめの[a]は[9a]らしく思われた(かもしれない))\nadama　(しなのはもか。)\natama　＜私の生える部分という＞　kwbi\nkwbi (?:)　（手書き注記）\natama　（手書き）\natama はじめ atama を言い、kaxkajira も言い、kagiri は短縮した。\natama ＜寄りからいろいろあるが atama でどうにている。＞\nko:bet su ＜命＞ ＜ユーベツ… ユーベツが… など＞　atama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02397.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02397",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02397.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5631.26",
+      "5635.65",
+      "5641.13",
+      "5642.17",
+      "5644.74",
+      "5645.89",
+      "5651.45",
+      "5657.23",
+      "5664.51",
+      "5671.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 23-98\n資料番号 地図番号\n031 101\n頁 項目名 頭 031\n普通注記 (丸印)\n[B 除いた共通語]\n[C 除いた特殊語] (6)\n\n地点番号   A 語形とその注記 (B・C除いた語形とその注)   A注のない語形 (B・C 残した語形とその注)\n\n5631.26  otsumu <クヲ> (ko:ketsu:ji>こめわはず)    atama\n5635.65  アヅマ (岐)  <gattaする be ko:betsu<くらせろぞ>?>\n5641.13  ko:betsu <古> <異称ではなく使った>    atama\n5642.17  dzuko: <希> <dzuko: i: のような時だけ>    atama\n5644.74  オテンテン <ク>  オツム <ク>    アタマ\n5645.89  オメメ <ク>    アタマ、カシラ\n5651.45  !ko:betsu 古]    atama\n5657.23  アタマ (岐)\n5664.51  !suno:ten <suno:ten ga ite:... (判読困難)>    atama\n5671.68  amma <ク>    atama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02398.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02398",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02398.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5676.28",
+      "5679.86",
+      "5681.41",
+      "5681.47",
+      "5686.31",
+      "5698.91",
+      "5699.42",
+      "5782.79",
+      "6368.60",
+      "6412.12"
+    ],
+    "other_text": "24 - 1\n031 101\n項目名 頭 031\n（B 除いた共通語）\n（C 除いた特殊語）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nno:ten (鼻)　　　atama\natama (荒)　　　kafira　kafiraは差…ものだけ\nkasira <希>　　　atama\nno:ten <希> <no:tenが悪いはどの様に使う>　　　atama\nme: me: <子>　　　atama\na'tama　アクセントは a'ta?mai? になりがち\na kasira <希。カシラが何かから分らない>　　　atama\nadama <後数詞は w; redopper という>\natama <〜ga ha; jiru>\nツムリ <土族語>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02401.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02401",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02401.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6418.13",
+      "6418.75",
+      "6419.09",
+      "6419.50",
+      "6428.26",
+      "6438.33",
+      "6439.01",
+      "6447.08",
+      "6457.45",
+      "6477.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-2\nA・〔B〕・〔C〕ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）は厳密にする。\n質問番号 地図番号\n031 101\nA（普通注記） (B 除いた共通語) (C 除いた特殊語)\n頁\n項目名 頭 031\n地 点 番 号　A音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6418.13　!ドタマ＜下＞　アタマ\n6418.75　オツム＜子＞ ドタマ＜下＞　アタマ\n6419.09　ドタマ＜下希＞ ＜ドタマは暗譜関係＞　アタマ\n6419.50　オツモ＜上＞ ドタマ＜下＞　アタマ\n6428.26　カブチャ＜下＞ ドタマ＜下＞　アタマ\n6438.33　ドアタマ＜鼻＞　アタマ\n6439.01　ドタマ＜下＞　アタマ\n6447.08　dotama［鼻］　atama\n6457.45　オツム＜子＞　アタマ\n6477.02　ドタマ＜下＞　ロクロカタヂャロカという非常に下品な言い方を…（本文続き）　アタマ\n（下部に手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02402.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02402",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02402.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6479.51",
+      "6480.29",
+      "6482.52",
+      "6484.78",
+      "6485.14",
+      "6485.82",
+      "6486.07",
+      "6486.50",
+      "6487.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-3\n資料番号 031 地図番号 101 頁\n項目名 頭 031\n（B 除いた共通語） （C 除いた特殊語） (9)\n\n地点番号\nA 語形とその注記（B・C 除いた語形とその注）\nA 注のない語形（B・C 残した語形とその注）\n\ndotama（卜）\nオソム 新\ndotama ＜下＞\nドクヲ　ドクヲは鼻部である。\nズゥコ＜下＞／ズッコ、ドタマは唄場の時などの言葉で、ズコフクス。ドタマ＜下＞（ゲルフ？）モンガララズ、ヅクヅク、ドタクラシアワケ、などと使う。\nアタマ＜アタマクラ、シンゲツ、グルツ＞\nドタマ＜下＞\nドクヲ＜下＞\n\nドタマ＜下＞　アタマ\nドクヲ＜下＞　ドクロ、シャグデテャタ、の小相形の頭などに使う（判読困難）\nドクロ＜下＞　アタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02403.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02403",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02403.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6487.43",
+      "6491.49",
+      "6492.11",
+      "6494.21",
+      "6498.61",
+      "6500.22",
+      "6505.58",
+      "6505.60",
+      "6510.05",
+      "6512.02"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24 - 4\n調査番号 031　地図番号 101\n項目名　頭　031\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・Cに残した語形とその注）\n6487.43　ズラくち＞（複文の注記、文字判読困難）　アタマ\n6491.49　atama（海岸部の大波動等には鼻の…（判読困難））\n6492.11　dotamá＜下＞　atamá\n6494.21　ドタマ＜下＞　アタマ\n6498.61　otsumu（雅）　atama\n6500.22　オツハく孩の頭語、或は子供に対して使う語＞　アタマ\n6505.58　ゴオベ＜女＞　!アタマ　!カシラ\n6505.60　コベ＜女＞　（追記：外聞語を知らなかったのであとから御照会）　アタマ\n6510.05　オツム＜やわらか上？＞　オツモ＜同上＞　アタマ＜普通＞\n6512.02　dzuu＜古＞　atama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02404.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02404",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02404.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6518.30",
+      "6518.87",
+      "6521.17",
+      "6523.54",
+      "6526.45",
+      "6526.98",
+      "6527.22",
+      "6527.44",
+      "6528.06",
+      "6528.21"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n日本言語地図資料用紙　注記一覧　24-5\n資料番号　　地図番号\n031　101\n項目名　頭　031\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\nページ\n地点番号　A 音形とその注記　(B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\nオツム〈地〉 スコタ〈鼻〉　アタマ\nアタマ　蒼くアタマノテンペツ（アタマのつっぺんの意）　ノスコタ〈舌〉　アタマ\nドタマ（男）　アタマ\notsumu 〈子〉　atama\nカシラ　〈カラを改って言う場合に使う。〉　アタマ\nスコタ　隣りの地裡ではスコタは鼻　アタマ\nsukolta 〈鼻〉〈-ta はつけてもかけなくても良い〉　atama sukota\nsuĩ'ko'ta 〈鼻〉 suji'ko　atama?\nsuko 〈鼻〉〈…ことばであるが可成り使われる。〉　atama\nsuko〈鼻〉 s-kota 〈suko.s-kota の差別なし〉　atama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02405.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02405",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02405.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6534.37",
+      "6536.68",
+      "6537.06",
+      "6537.21",
+      "6548.26",
+      "6552.90",
+      "6553.22",
+      "6553.47",
+      "6553.99",
+      "6557.14"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) は厳密にする。\n日本言語地図資料用紙 注記一覧 24-6\n資料番号 031    地図番号 101\n項目名 頭 031\n（普通注記）\n[B 除いた共通語]  [C 除いた特殊語]\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6534.37    otsumu <3.上> <子供に対して使うのが普通>    atama\n6536.68    !suko <仲間同士で話している時など 'アノ人' sukoか> tenten<3> （エエ、頭の意）    atama\n6537.06    swko <他.身> <側にいるもの>    atama\n6537.21    sükota <異語>    atama\n6548.26    tenten<3> … <幼児に対して> otsumu <3.上> …    atama\n6552.90    otsumo <子供に> （モッモ） atama <普通> <子供に対して>    atama\n6553.22    otsumo <上品> idotama <男>    atama\n6553.47    atama <普通> suko<男> dotama<男>    atama\n6553.99    atama （「アタマ」）\n6557.14    sukota <尊・言葉で普通はあまり使わない>    atama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02406.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02406",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02406.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6557.77",
+      "6561.49",
+      "6563.43",
+      "6564.51",
+      "6565.17",
+      "6565.22",
+      "6572.97",
+      "6573.71",
+      "6574.06"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧\n資料番号 031　地図番号 101\n項目名 頭 031\n（ページ）\n(B 除いた共通語)　(C 除いた特殊語) (13)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6557.77   sukota <下弟> … <黒口でちうみすけで普通は使わぬ>    atama\n6561.49   オツモく丁寧 > ドタマ <単語>    アタマ\n6563.43   dotama 下 <ケッコなとをすませてドタマという。あぶるんバ?うすまする使う。>    atama\n6564.51   atama <ふつう>\n          dotama <鼻>\n          sukotama <鼻>\n          otsumo <上> <稀>\n6565.17   otsumu <otsumua の方は上の方で: 弱くなるに向って言う>\n6565.22   アラ <アタマをもう? そう?。普通は?、バラハクイ?>    アタマ\n6572.97   dotama 下    atama\n6573.71   dotama <鼻> （「頭が痛い」という時は「ヲラが痛い」という表現がある?）    atama\n6574.06   dotama 下 <ドタマ、はげんのや…やりるときに使う。>    atama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02407.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02407",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02407.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6574.52",
+      "6580.66",
+      "6581.36",
+      "6581.52",
+      "6582.12",
+      "6582.48",
+      "6582.73",
+      "6583.19",
+      "6583.41",
+      "6586.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）には厳密にする。 日本言語地図資料用紙　注記一覧　24-8 資料番号 031　地図番号 101　A 普通注記（手書き丸） [B 除いた共通語] [C 除いた特殊語] ページ (14) 項目名 頭 031 表見欄 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） 6574.52　dotama ＜鼻＞（「アタマ」、「ドタマ」）　atama 6580.66　スコタン ＜下＞　アタマ 6581.36　オツム ＜子＞　アタマ 6581.52　スコタン ＜下＞　ランテンくろ? スコタン＜下品なとはず、驚るときに使う。＞　アタマ 6582.12　ドタマ ＜鼻＞　アタマ 6582.48　dotama［鼻］　atama 6582.73　オツモリ＜見慣誉?では、大人が使う。（例）オツモリヨウラレ＞　オツモくこの語を使う人もある。 6583.19　dotama ＜鼻＞　atama 6583.41　atama !dotama＜鼻＞＜「ドタマ」は、けんかする時などに使う。 顔痛の時は「アタマ」を使う。＞　atama 6586.32　kombe ＜古＞　atama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02408.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02408",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02408.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6590.08",
+      "6591.02",
+      "6593.98",
+      "6625.17",
+      "6632.88",
+      "6640.34",
+      "6645.37",
+      "7229.76",
+      "7248.49",
+      "5667.24"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本語語地図資料用紙　注記一覧\t\t\t24-9\n資問番号\t地図番号\n031\t101\n項目名\t頭 031\n共通注記\t（B　除いた共通語）\t（C　除いた特殊語）\t（15）\n\n地点番号\tA 語形とその注記（B・C除いた語形とその注）\tA 注のない語形（B・C 残した語形とその注）\n\n6590.08\tオツム　〈ろ〉\tアタマ\n6591.02\tドタマ　〈下〉\tアタマ\n6593.98\tatama　（考えごとをしている時や叱られて頭を上げられない時、たとひ\n　〔zuku?ら〕という方等、ズクンラの方など）　（筆記不可な長文注記）\t\n6625.17\ttsumuri　上。\tatama\n6632.88\tatama\ttsumuriは頭の頂の一部をいう。\n6640.34\totsumu　〈3,上〉\tatama\n6645.37\ttsumuri　〈3〉\tatama\n7229.76\tatama　（具言語はもと米のとか得られず）\n7248.49\tzukupu:〈鼻〉\tganta〈鼻〉\tatama\n5667.24\tカシラ　〈古〉\n\n(表欄外に手書き注記・補足あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02409.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02409",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02409.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "7248.99",
+      "7266.34",
+      "7275.07",
+      "7303.29",
+      "7312.11",
+      "7312.83",
+      "7316.93",
+      "7320.59",
+      "7326.41",
+      "7326.69"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-10\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n（右上欄）031　101　項目名　頭　031　普通注記（B　除いた共通語）（C　除いた特殊語）　ページ（16）\n表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n7248.99　ズクニラ　ズクニラは単称　アタマ\n7266.34　カッポ　カッポは今の割りに使われない。。　アタマ\n7275.07　カララ（古）\n7303.29　atama（オツハレ）\n7312.11　zukkunju:（ザガ、たたく時など ・ 変化状態・時に言う）　atama\n7312.83　otsumuu（語）　atama\n7316.93　dzukuta'n　＜下＞　atama?\n7320.59　atama（後頭部だけならuyirogamiという）\n7326.41　du'ku　＜鼻形＞　a'ta'ma\n7326.69　dzuk'i　＜下＞　atama'",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02410.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02410",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02410.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7331.41",
+      "7335.19",
+      "7335.34",
+      "7342.76",
+      "7343.14",
+      "7344.30",
+      "7345.43",
+      "7350.96",
+      "7352.61",
+      "7356.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 24-11 資料番号 031 地図番号 101 項目名 頭 031 A 常通注記 (B 除いた共通語) (C 除いた特殊語) (17) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注） ゾクニュウ {下丁} アタマ du'ku <下> atama' Kami <カガガワ(頭飾?)、カガオモテの折に成り付く外皮の外装?> atama atama 後頭部はらく〈ujin bo:zu〉という。 du' <古> atama džukutaN <下> atama' du'ku <下> atama' ヅク dzuku <下> ヅクニョウ dzukupuu: <下> <大旗その1で ララッラ、ララッラ> <ナヲオイなどヒローう> アタマ atama アタマ <ゴヲラ ビンヅラはわない...> mi'ke's <古> atame",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02411.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02411",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02411.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7360.82",
+      "7362.42",
+      "7363.59",
+      "7372.03",
+      "7372.96",
+      "7375.71",
+      "7375.96",
+      "7381.97",
+      "7382.93",
+      "7383.98"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧 24-12 調査番号 031 地図番号 101 頁 031 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号　A 音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注） 7360.82　ズクニウ　ズクニューい声　アタマ 7362.42　ゴキラ　<多分>　アタマ 7363.59　ゴラ（下）　アタマ 7372.03　アタマ　＜ビンタとは云わない。ビンタタシンのかみのことをいう＞ 7372.96　ビンタ　＜うたれる時は頭をビンタ（ラメル）＞（慣用句）　アタマ 7375.71　atama　＜binta----　頭の様の方＞ 7375.96　atam'bo:zu　＜古＞　atama 7381.97　アタマ（注記：〜直撃〜時は〜コラオツツテチヲの様にコラは別） 7382.93　アタマ（ビンタは使わないという）　アタマ 7383.98　ビッタ＜古＞　アタマ　カジラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02412.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02412",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02412.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7392.45",
+      "7392.94",
+      "7393.62",
+      "7394.60",
+      "7394.85",
+      "7403.21",
+      "7405.85",
+      "7406.53",
+      "7410.57",
+      "7412.71"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本音韻地図資料用紙 注記一覧 24-13\n031 101\n項目名 項 031\n（A 普通語）（B 除いた共通語）（C 除いた特殊語）(19)\n\n地点番号  A 語形とその注記（B・C除いた語形とその注）  A注のない語形（B・C 残した語形とその注）\n\n7392.45  ゴラ 〈くやや鼻〉  アタマ\n7392.94  ビンタ 〈ビンタの子をかける/使う〉  アタマ\n7393.62  ビンタ 〈やや古〉  アタマ\n7394.60  ビンタ（やや鼻か？） 別・ビンタワルルゴラン ビンタツシイラ  アタマ\n7394.85  binta 〈者の人〉  a'tama a'ta'ma\n7403.21  dokuna 〈下〉  atama\n7405.85  ドクロ（鼻）  アタマ\n7406.53  do'tama 〈首〉\n7410.57  otsumuu 〈ろ〉  atama\n7412.71  dotama 〈下〉  atama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02413.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02413",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02413.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7416.34",
+      "7427.90",
+      "7430.15",
+      "7433.52",
+      "7500.24",
+      "7500.66",
+      "7501.14",
+      "7501.68",
+      "7510.18",
+      "7512.43"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　24-14\n質問番号　031　地図番号　101\n項目名　頭　031\n(普通語)　(B 除いた共通語)　(C 除いた特殊語)　(20)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\ndotama <のはる時>　　　átama\ndotama <下層社会>　　　átama\natama（後頭部をたたけば…（注記手書き））\ntsumi?ki（古）　　　atama\nアタマ　<後頭部を ボンノクボという＞\nスコタン　<新><下>　　　アタマ\nガシラ　<下>　（山仕事の日常語などの注記）　ドタマ　<下>　　　アタマ\nスイタン　<…てしめて・うとき・使う>　　　アタマ\nドタマ<鼻>　テンテン<子>　　　アタマ\nドマ<下>　　　アタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02414.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02414",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02414.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7513.01",
+      "7513.69",
+      "7521.16",
+      "7521.79",
+      "7522.48",
+      "7522.94",
+      "7523.05",
+      "7533.11",
+      "8239.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-15 質問番号 031 地図番号 101 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2/1) 項目名 頭 031 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 7513.01　スコタン　＜下＞　アタマ 7513.69　スコタン　＜下＞　スカッパチ　＜下＞　アタマ 7521.16　スコトマ　＜下＞　アタマ 7521.79　スコタマ　＜下＞＜サ＞　スコタン　＜下＞　アタマ 7522.48　コベ　＜すこし用いられる。＞　スカッパチ　＜下＞　アタマ 7522.94　スカッパチ　＜下＞　スコタン　＜下＞　カベチ　＜下＞ （頭のり形を主としてます。テチャ　ガバナ　オオイシ＝アガヤ、（あやつ地名文句のりに）ありほと。）　アタマ 7523.05　スカッパチ　＜下＞　アタマ 7533.11　スカッパチ　＜下＞　アタマ 8239.31　adama　＜自然な言い方＞　atama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02415.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02415",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02415.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "8301.19",
+      "8302.19",
+      "8302.55",
+      "8302.91",
+      "8303.71",
+      "8305.76",
+      "8306.42",
+      "8311.41",
+      "8311.59",
+      "8312.33"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-16\n調査番号　031　地図番号　101\n項目名　頭　031\n（B　除いた共通語）　（C　除いた特殊語）　ページ（22）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n8301.19　（手書き注記）　アタマ\n8302.19　ビンタ＜くやや右、古＞　アタマ\n8302.55　ビンタ＜希＞＜やや右＞　アタマ\n8302.91　アタマ　＜ビンタは”こめかみ”のこと　＜ゴラとも言わず＞＞\n8303.71　ビンタ＜やや右＞（蔵に児童は...に使っている）　アタマ\n8305.76　gantsu　下　＜使用残すない＞　atama\n8306.42　gantsu＜gantsugai: or wariの表現の様に言う＞　tsuburi\n8311.41　binta＜子＞　atama\n8311.59　binta＜右＞　atama\n8312.33　binta＜右＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02416.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02416",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02416.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "8313.88",
+      "8315.46",
+      "8315.89",
+      "8320.59",
+      "8321.58",
+      "8322.68",
+      "8325.77",
+      "8330.58",
+      "8332.59"
+    ],
+    "other_text": "A･(B)･(C)ごとに別紙を使用する。\nその中での指摘は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-17\n頁間番号　031　地図番号　101\n項目名　頭　031\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (23)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n\n8313.88    binta <多>\n8315.46    atama <実語?>    binta <某林?>\n8315.89    atama <新>    binta <若からあり 割多く使う>    gantsu <店・希?>    tsuburi <店・希?>\n8320.59    binta <希>            atama\n8321.58    atama <希>            binta\n8322.68    binta            atama <半つに使う>\n8325.77    binta <鼻>           atama\n8330.58    binta <下品>          atama\n8332.59    binta <希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02417.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02417",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02417.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "8333.79",
+      "8334.63",
+      "8341.12",
+      "8341.46",
+      "8341.94",
+      "8342.51",
+      "8344.11",
+      "8344.71",
+      "8345.18",
+      "8351.07"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-18\n\n質問番号　地図番号\n031　101\n項目名　頭　031\n\n（表見出し）\nA 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\natama binta ＜半々に使う　atamaが汚土狼のようだ＞\n binta ＜土話＞ → atama\n {binta}（＊）＜右＞－（（枝長）） → atama\n binta ＜希＞ → atama\n atama ＜日常話としてつかった。＞ binta ＜希＞ → atama\n kan ＜頭が痛い時はkanが痛いという／レ-kanと言うらしい＞ → atama\n binta ＜多く使う＞ → atama\n atama ＜希＞ → binta\n atama ＜今日は多く使う＞ binta ＜いくらか単辞になる＞ binta\n binta atama ＞半？",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02418.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02418",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02418.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "8351.65",
+      "8353.68",
+      "8354.29",
+      "8373.43",
+      "0228.96",
+      "0246.48",
+      "0247.31",
+      "0247.56",
+      "0249.17",
+      "0256.76"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-19\n質問番号　031　　地図番号　101\n項目名　頭　031\nA　普通注記　（囲）　　[B　除いた共通語]　[C　除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）には厳密にする。\n\n表ヘッダ: 地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n\nbinta ＜希＞ ＜若い時程のいい方をした＞　　　　atama\nbinta ＜織物の糸を使う時＞　　　　　　　　　　　atama\nbinta ＜希＞　　　　　　　　　　　　　　　　　atama\nbinta　②　bintaもえろ?　atamaの方が多いという。\nha:tsi ＜多い＞　　　　　　　　　　　　　　　　tsiburu\ntiiburu ＜古＞　　　　　　　　　　　　　　　　kamat͡si\ntsiburu ＜希＞　　　　　　　　　　　　　　　　kamat͡si\nkama'tsi ＜新＞　　　　　　　　　　　　　　　kánatsi\nhamat'si:　hは発音に強くなり、英語のれと異なることを示す。\nkamat͡si; （前の含） kawa'tsi; （新しい含）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02419.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02419",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02419.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "0256.89",
+      "0257.43",
+      "0294.93",
+      "1213.76",
+      "1260.87",
+      "2141.71"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は敬筆にする。\n\n日本言語地図資料用紙　注記一覧　24-20\n\n資料番号　031　　地図番号　101\n項目名　頭　031\nA 音標注記\n[B　除いた共通語]\n[C　除いた特殊語]　(26)\n\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形（B・C 残した語形とその注）\n\n0256.89    kamatji　＜多い＞　　　　　　　　　　　　　　　    tuburu\n0257.43    tjiburu　＜希＞　　　　　　　　　　　　　　　    kāmat'ji;\n0294.93    tjiburu　　　　　　　　　　　　　　　　　　　    atama\n1213.76    tjibura　［堅］　　　　　　　　　　　　　　　    Furadzi\n1260.87    kámatji　＜古＞\n　　　     tjiburu　＜新＞\n2141.71    kanamaj　＜AXAは頭の髪を除いた部分をいう＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02420.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02420",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02420.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "4657.64",
+      "5507.20",
+      "6582.73",
+      "6591.57",
+      "5667.24",
+      "7275.07",
+      "7406.53",
+      "7431.67",
+      "7511.66",
+      "8304.06"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-21\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n項目番号　地図番号\n031　101\n頭 031\n\nA 普通注記　　ページ\nB 除いた共通語\nC 除いた特殊語 (1)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\natama <炎>　　　adama\natama <新>　　　kobe　オッモリ＜児童語では大人は使う。歌･･･(読み取れず)＞　オッモ＜この語を使う人もある＞\nアタマ <炎>　　　スコタン\nアタマ <炎>　　　カララ<古>\nアタマ <新>　　　カジラ(古)\nアタマ(新)　　　dōta'ma <昔>\na'ta'ma <今>　　　tsumuri\natama <炎>　　　スコタン\nアタマ <炎>\natama <現北に多く使う>　　　dinta\n\n（注：手書きの語形・注記を可能な限り転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02421.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02421",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02421.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "8306.42",
+      "8312.33",
+      "8313.88",
+      "8322.43",
+      "8331.12",
+      "8332.07",
+      "8332.59",
+      "8332.84",
+      "8335.05",
+      "8342.35"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-22\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n資料番号　地図番号\n031　101\n項目名　頭 031\nA 普通注記　B 除いた共通語　C 除いた特殊語 (2)\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\n8306.42　atama ＜共＞ ＜近頃はこゝを普通に使う＞　tsuburi／gantsu (gantsu gai? or wari? のように) （続く（gantsuは取材の差のため変化される））\n8312.33　atama ＜新＞　binta ＜古＞\n8313.88　atama ＜共＞　binta ＜多＞\n8322.43　atama ＜上品＞　binta\n8331.12　atama ＜新＞　binta\n8332.07　atama ＜新＞　binta\n8332.59　atama ＜新＞　binta ＜希＞\n8332.84　atama ＜新＞　binta\n8335.05　atama ＜共＞　binta\n8342.35　atama ＜やや上品＞・・・＜共＞　binta",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02422.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02422",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02422.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "8345.10",
+      "8345.24",
+      "8351.41",
+      "8352.29",
+      "8352.40",
+      "8360.39",
+      "8372.87",
+      "8393.69",
+      "9303.88",
+      "9310.27"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は敬称にする。\n\n日本語音地図資料用紙　注記一覧　24-23\n質問番号　031　地図番号　101\nA　普通注記　　B　除いた共通語　　C　除いた特殊語\n項目名　頭　031　　ページ（3）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\natama　＜笑＞　　binta\natama　＜笑＞　　binta\natama　＜上品＞　　binta\natama　＜希＞＜新＞　　binta\natama　＜atamaの子を多く使う＞　　binta\natama　＜上＞　　binta\natama　＜上＞　　binta\natama　＜新＞　　binta\natama　＜新＞　　binta\natama　＜新＞　　binta",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02423.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02423",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02423.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "9313.55",
+      "9322.52",
+      "0256.08"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本語語地図資料用紙 注記一覧 24-24\n質問番号 031   地図番号 101\n項目名 頭 081\nA 普通注記  B 除いた共通語  C 除いた特殊語\n\n地点番号    A 語形とその注記（B・C 除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n9313.55    atama <新>    binta\n9322.52    atama <新>    binta\n0256.08    atama <新>    kamasi\n\n(以下空白)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02424.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02424",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02424.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "3774.61",
+      "4711.49",
+      "7322.79",
+      "7363.59"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-25\n質問番号　031　地図番号　101\n項目名　頭　031\nA 普通注記　(B 除いた共通語)　C 除いた特殊語 (1)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n3774.61　ウスロコド（後頭部）　アヅマ\n4711.49　クビガラウエ　クビガラウエは「頭から上」の意。　アタマ、アタマ／ガジンコ（鼻）に係る語が入らない（手書き注記）\n7322.79　Kan kan（髪の毛。幼児語）　atama\n7363.59　アタマンゴラ（下）　アタマ　ゴラ（下）\n\n（右欄手書き注）アタマ、アタマ／ガジンコ（鼻）に係る語が入らない\n\n（用紙下部罫線あり）」}",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02425.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M101Q031/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02425",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02425.tif",
+    "source_ljc_id": "LJC-M101Q031",
+    "source_map_numbers": [
+      "101"
+    ],
+    "source_title": "あたま (頭)"
+  }
+]

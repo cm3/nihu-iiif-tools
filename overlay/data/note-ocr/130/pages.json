@@ -1,0 +1,798 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "6947.7",
+      "0896.22",
+      "1708.05",
+      "1762.10",
+      "1862.48",
+      "1942.03",
+      "2981.34"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 35-39\n質問番号 地図番号 130\n項目名 みずおち 073\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号 | A 語形とその注記（B・C 除いた語形とその注） | A 注のない語形（B・C 残した語形とその注）\n\n6947.70  * nidzootsj\n? munaotʃi\n? mi'dzw-ots;j\n\n0896.22  ミゾオチ　[ミスーウチ]\n1708.05  mizotʃi;　〈早くいうと o がぬける〉　 mizootʃi;\n1762.10  ? ミゾオチ\n1862.48  ミズオチ。〈「ミズオチ」は大人になってから。子どもの時はやさしく区別しなかった。〉\n1942.03  mizwotʃi;　〈子どももりほは使わない〉\n\n2981.34  # midziedosi (取り消し線)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03539.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03539",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03539.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2781.58",
+      "2785.31",
+      "2794.85",
+      "2795.92"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 35-40 質問番号 地図番号 130 項目名 みずおち 073 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (2) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 2781.58  # midziodosi (取消線) 2785.31  # midziodosi (取消線) 2794.85  # midziodosi (取消線) 2795.92  # midziodosi (取消線) 36 01.49  # midziodosi (取消線) 37 24.36  シナモトー (ミス＝オススは脇の上にある) 37 32.26  〜midzünodosi ともいうような: トイチ 37 36.58  ミースオドス <井?> 37 37.32  ショウオドス <変.あ> ミスオドス",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03540.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03540",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03540.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3741.16",
+      "3756.26",
+      "3764.92",
+      "3983.58",
+      "3791.02",
+      "3795.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞〈　〉［　］は厳密にする。 日本言語地図資料用紙 注記一覧 35-41 資問番号 地図番号 130 項目名 みずおち 073 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (3) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) 3741.16 mizuwot͡si; <新しいことばで-> 3756.26 ミスオドス <サ> 3764.92 ウナモト (これは少範囲が広い指し方であろう) ミスオドス 3983.58 # ミスオスー 3791.02 # mizootosi ① mizwotosi 3795.86 ミスオドス 〜一職を持することもある由。 46 19.98 midzwotosi (2) 46 39.10 2 midzwotosi; 46 47.87 ミスオキ? [キ]は[ʒj][ʒgi]の様にも きかんせいに近い音に思われた。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03541.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03541",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03541.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈 〉（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 35-42\n\n質問番号　地図番号　130\n項目名　みずおち　073\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(4)\n\n地点番号欄（手書き注記欄の内容）\n\nmizwo t͡si: (最初 \"hara\" と答えた。これはみずおちから腹全体までを含むことが\n合っているとりあげない。〈mizwo t͡si:〉\nものの下からみずおちの真上まこを\nえうと云った。)(僕ここ の語を忘れる\nそのとはちがっている所をすが近いので\n参考する。)\n\nmizwo t͡si: <ち>\nmizoot͡si: <針?>\n#?ハう、ハう(?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03542.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03542",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03542.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4711.42",
+      "4725.68",
+      "4743.61",
+      "4760.98",
+      "4773.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-43\n質問番号　地図番号　130\n項目名　みずおち 073\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 言形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nみずおちという語があるものと\n思うが思い出して呉れないか。\n\n4711.42　midzuotsi (2) (第三者（新庄町学校長）の清書)\n4725.68　midzuodosi　＜胃に水を落とすところ＞\n4743.61　midzuodosi　＜胃の入り口だから“水落とし”である＞\n4760.98　mizuwotji　（手書き注記：いのは方化とんほとーいちじるしくない）\n4773.27　midzootji（共）　midzmodoji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03543.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03543",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03543.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4780.64",
+      "5539.43",
+      "5547.96",
+      "5565.17",
+      "5603.35",
+      "5604.28",
+      "5604.65",
+      "5607.26",
+      "5611.81"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 \n日本言語地図資料用紙 注記一覧 35-44\n質問番号　地図番号　/130\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n項目名　みずおち 078\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n(?) munanado　<なく用いる>　mi200ti;\n無回答　知らないという。\nミズオワリ　ワィ=tsi\nmizuotsi　oはうに近いオ\n[mizumutsi;]　妻の語\nN.R.　<mizumutsi;> どういう語をきくか　自分は使わぬ。\n# 米 ミスワケ　ハラを打正\nmi~zumtsi; <多>　mi~zwot[j]\nmizo:tsj [00] が [0:] はっきりしない\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03544.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03544",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03544.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。 日本言語地図資料用紙 注記一覧 35-45 質問番号　地図番号　130　項目名　みずおち　073 A 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号　A語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C残した語形とその注】 56 13.53　N.R. (被調査者はみずおちは handa の一部であって別に名がないと答えた。然しこの土地では一般に mizoot (表記不明) ) 56 13.80　?mizobun たj; 56 14.68　N.R. (handa と答えたが、これはみずおちのみをさしていないので、とりあげない。) (東及び部落の北の人は [mizun-tj] と云うらしいが、被調査者は認めない。) (<特に名はない>と答えた。) 56 20.30　mizoot; o >使い方。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03545.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03545",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03545.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5697.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-46\n質問番号 地図番号 130\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\n項目名 みずおち 073\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nN.R. [midzuotʃi]\n<腹 でいとーである>\nミソオチ、くち、名>\nミスーオチ\nmidzuotʃi <希>\nミスーオトレ <サ>\nミスーオチ\nmizo̞otʃi <希>\nmizwootʃi\n（取り消し線の注記あり、手書きの長いコメント数行）\n5697.53 ?munaotʃi <これはあまり使わない> mizwootʃi\n（左余白に手書き）C 注記の間違。\n（用紙枠外周の罫線と余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03546.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03546",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03546.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5703.03",
+      "5712.70",
+      "5733.02",
+      "5740.87",
+      "5792.02",
+      "6369.32",
+      "6388.52",
+      "6389.22",
+      "6402.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-47\n質問番号　地図番号　130\n項目名　みずおち　073\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (9)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5703.03　midzüotoʃi; (使)こともある。　~midzüotʃi\n5712.70　mizooti; [mizüotoʃi]\n5733.02　mizüotʃi; [mizüotoʃi]\n5740.87　ミズーネ　->一般的なまいす。　ミスーオトシ\n5792.02　#mizwotoʃi; 〜はカロの寄り\n6369.32　ムシノクチ。　ミスーオタ\n6388.52　N.R.　<hara?>\n6389.22　ミソオタ (古)\n6402.14　ミソオタ <新>\n\n[カコハンレ] [ち]（脚注＝カコ→ホネと言った）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03547.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03547",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03547.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〔〕は厳密にする。\n\n日本言語地図資料用紙 注記一覧 35-48\n質問番号　地図番号　130\n項目名　みずおち　078\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (10)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n64 15.80  murasaki\n           mezmotji\n           （ムナサキは、とりも正確で\n           あるか不明、ミヌオナときかないが\n           （聞いたら今頃メーヌオナと言うかも\n           知らないという返事であった。何んに\n           してもやや不明と言う外はない）\n\n64 26.04  # mizwotji: （ムナオチともいう）、と小学校の\n           山下先生は言う。本 人はあまり\n           知らないらしい\n\n64 30.26  kagohnazune （葉（ロッこつ）ほれ、流）  mizootji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03548.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03548",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03548.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6443.03",
+      "6474.83",
+      "6479.26",
+      "6485.30",
+      "6491.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><()[]は厳密にする。\n日本言語地図資料用紙注記一覧 35-49\n質問番号 地図番号 130\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (11)\n項目名 みずおち 078\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6443.03　inoue　その他\n6474.83　ミソオサ　<新>\n　　　　ミソウサ　<蓑>\n6479.26　# ムナオサ　[こえオサ]\n6485.30　ムナシタ　<ムナシタガワルイ=ナ\n　　　　ソレトモモントレシ? ホオガワルイナ\n　　　　などと病人にむすねなりする。>\n6491.49　? mumasaki: (絵や顔明けけでなく、指直者、\n　　　　胸を上手から噴突にましと、その1班を\n　　　　ましましたが、この答えて者は納得していた。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03549.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03549",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03549.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6494.21",
+      "6504.44",
+      "6507.22",
+      "6516.15",
+      "6522.03",
+      "6526.04",
+      "6537.21"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞〈　〉[　]は厳密にする。\n日本言語地図資料用紙 注記一覧 35-50\n質問番号　地図番号　130\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(12)\n項目名　みずおち 073\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\nドガメ　<も>\nmi'dzu·otj;　優先　mi-naotfj;\n?ムナオチ　ミス−オチ\n#?ミソオチ\nミソオチ　・ミソオチの方が一般的でミス・オチは\nミスオチ　やっあらにまった形\n?ミソオチ　ミス−オチ\nmi200tj;　<新>\n<今では mi200tj; というが、昔は\nこれにあたる語がなかった。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03550.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03550",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03550.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6542.27",
+      "6552.71",
+      "6552.8"
+    ],
+    "other_text": "日本音語地図資料用紙 注記一覧 35-51\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n質問番号　地図番号　130\n項目名　みずおち　073\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (13)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nミゾオチ　<くやや新>　ミソー\nミルタリ（ミスタマリの訛化）\nmizuotj: <「ミスオチ」か「ミソーオチ」か、どうも>\nmizootj: 自分ながらどちらの発音かよくわからないが、その中間的な変化のようだ。\n（結局どちらも使っているか、Uもの中間音かということになるか、原のひらがく動かし方によるもの？ 実際はしの発音をしているのではないかと思う。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03551.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03551",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03551.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6554.08",
+      "6554.88",
+      "6557.14",
+      "6558.10",
+      "6561.49",
+      "6562.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-52\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）は厳密にする。\n\n質問番号　地図番号　130\n項目名　みずおち\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(14)\n\nA 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nムナサキ　<希>　ミゾオチ\notj:ikabo　<む>　mizootj;\nN.R.　<<くりかえし（聞いたがどうしても出なかった。最後に共通語を与えたがそれでもよく聞けたことはあまりない。自分はよく知らないつもり、返事であった。）>>\n\n#? mizu:otj;\nミゾウチ　（ミゾオチというのに普通）\nミゾオチ　<希>　ミゾオチ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03552.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03552",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03552.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6568.09",
+      "6571.68",
+      "6572.29",
+      "6584.90",
+      "6603.82",
+      "6624.13",
+      "6662.01"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > < ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧      35-53\n\n質問番号　地図番号　130\n項目名　みずおち　073\nA 普通注記　　ページ\n[B 除いた共通語]　[C 除いた特殊語]　(15)\n\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　　A 注のない語形［B・C 残した語形とその注］\n\n6568.09    ?mizooti;　〈聞くことはあるがあまり自分ではつかわぬ〉\n6571.68    N.R.　［オイワボ］（家人が藁から口をもした）\n6572.29    mizooti;　〈多〉\n           mizooti;　〈稀〉\n6584.90    mizooti;　これは先のあがるのか？\n6603.82    ミドウオキ　（バラの音はとり名のと）\n6624.13    mizo:tji;　新。　　　　　mizo ji:ta.\n6662.01    mizo:ti;　古希",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03553.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03553",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03553.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6697.59",
+      "7218.09",
+      "7238.24",
+      "7246.45",
+      "7259.22",
+      "7279.93",
+      "7307.14",
+      "7316.93"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく > ( ) [ ] は厳密にする。 日本語音語地図資料用紙注記一覧 35-54 質問番号 地図番号 130 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (46) 項目名 みずおち 073 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] mi20 今の若いものもり midzootj (新>) midootj; munasaki <古> mizote 詩 mizoot(j; <よいことば>) mizoote mizoot' a は肉破き mizootj; <普通> mizooto; mizooto;j; <古> jaara (危所の意味) midzuote <新> muneote",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03554.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03554",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03554.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7324.24",
+      "7325.84",
+      "7335.19",
+      "7340.27",
+      "7348.07",
+      "7361.17"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 35-55\n質問番号　地図番号　130\n項目名　みずおち 073\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (17) ページ\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7324.24　mi20　(otsite つけないでいう。)\n7325.84　?midote\n#? mun,eote\n7335.19　? mi;20:t;js;\n7340.27　mizootj;　<新>（新しい…のように思うが\n　よく何といっていたか思い出せ\n　ないような。）\n7348.07　midootj;　<midotj; ga warui;>\n　などという。\n7361.17　#N.R.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03555.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03555",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03555.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7363.12",
+      "7375.86",
+      "7386.55",
+      "7392.33",
+      "7395.09",
+      "7396.53",
+      "7470.72"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 35-56\n質問番号　地図番号　130\n項目名　みずおち 073\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (18)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n<くじりオテ>\n7363.12.  井さいゾオテ (お) -> (今まんは使わなし、適当な  汁も知らないし、言った事ない)\n7375.86.  <新> mizuote  <平素使わない>\n7386.55.  mizuote  <汗水の落ちるところなど>\n7392.33.  (2) ムナシタ\n　　　　ムネシタ\n7395.09.  mizo'ots;  <共>  mi'20'ote\n7396.53.  [#] o; hanzuji  # mizoote\n7470.72.  # ~rduotci;  (ヒントを与えてやっと解答)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03556.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03556",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03556.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7501.14",
+      "7659.31",
+      "7659.40",
+      "7659.51",
+      "8301.76",
+      "8302.55",
+      "8305.73"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n日本言語地図資料用紙注記一覧 35-57\n資料番号 地図番号 130\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (19)\n項目名 みずおち 073\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nミゾオチ　＜すくない＞　　　　ミズオチ\nミズオチ　＜多い＞　　　　　　ミゾオナ\nmi'dzuotʃi; mi'zuotʃi; ～mi`zuotʃi;\\n誘 ho; inosaki; <古>　　　　　　mizuotʃi;\nmizunootedo; <昔>　　　　　　　hosinosaki\nmunafita <草>\n誘 mizunootedo\n\nミゾオトン　＜希＞　　　　　　ミズオチ\n# <(?)> ミズオトン\nサ mizo ot[e]　＜mizoot[e]という人もいる＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03557.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03557",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03557.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "8312.33",
+      "8316.20",
+      "8323.59",
+      "8324.83",
+      "8334.25",
+      "8335.05"
+    ],
+    "other_text": "日本音語地図資料用紙 注記一覧 35-58\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n資料番号　地図番号　130\n項目名　みずおち 078\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (20)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n8312.33　mizootoji;　<希>\n8316.20　mizuotje\n　　　　mizuotoj;\n8323.59　(＊) mi1otoj;\n8324.83　midzoto; coto; ・初めの0はほとんど\n　　　　(聞えない！)\n8334.25　mizootʃi;　「4」の音は比較的共通語に近く聞える。\n8335.05　hntjiozekubo　<ここに変をすえると、飯が8杯\n　　　　食えるようになるから、こういうふう>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03558.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03558",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03558.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "8345.74",
+      "8352.40",
+      "8373.43",
+      "0237.84",
+      "0257.43",
+      "0275.97",
+      "0276.50",
+      "0294.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-59\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)は厳密にする。\n資料番号 地図番号 130\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2/1)\n項目名 みずおち\n(この語形は初めて聞いて珍しい表記。\n語源は被調査者の言う通りであろう。)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\nmizotj;  <共>  ojihazu;\nN.R.  <客をしらない>\nmunameto  <??>  mizotj\nmuniutóʃi;  (／有気)\nmini.utā;  (は半長)  * mini;utaʃi;\n'kubu  <ni;gulsi: といる人もある>\nnigutsi  (胸の義?)\nni:Faragutji;  (胸腹の義)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03559.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03559",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03559.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "0294.93",
+      "1169.84",
+      "1213.76",
+      "1241.49",
+      "1250.59",
+      "1251.23",
+      "1261.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 35-60\n資料番号 地図番号 130\n項目名 みずおち (73)\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] ページ (22)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n0294.93  niharagutj: 「胸腹」の義。\n1169.84  ? tʃi: mugutj;  くみぞちの部分のことをさしている、外部のことはいわない。\n1213.76  N.R.  miziutj; [他]\n1241.49  (?) ni: para: nu k'wa:gna:\n1250.59  tʃi:mugutj;  <tʃi:mugutj:を多く用いる> 2ni:migutj;\n1251.23  tʃi:mugutj;  <tʃi:mugutj:を多く用いる> 2ni:migutj;\n1261.32  tʃi:mugutj;  <tʃi:mugutj:を多く用いる> ni:dza:ti;\n20 22.20  N.R.  <知らない>\n20 75.22  utuʃi;  <utuʃi:を多く使う。> utuʃi: nu ʃugutj;",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03560.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03560",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03560.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "2086.03"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-61\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () は厳密にする。\n\n資料番号 地図番号 130\n項目名 みずおち 073\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (23)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n2086.03  〈サ〉 Inni nu abuka:  (胸の先. abuka: はあな,)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03561.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03561",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03561.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6547.67"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記 -35-62\n質問番号　地図番号　(30)\n項目名　みずおち　073\nA 普通注記　ページ\nB 除いた共通語\nC 除いた特殊語 (1)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nmidzuotɕi　〈英〉\nミズオチ　〈斬〉\nmizüotɕi　〈斬〉\n\nmidzautɕi:\nコカメ　〈も〉\nmunej:ta.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03562.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03562",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03562.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "0724.12",
+      "0776.88",
+      "0873.94",
+      "1862.48",
+      "3732.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-63\n項目番号　地図番号　130\n項目名　みずおち　073\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない活形（B・C 残した語形とその注）\n\n0724.12  * NR.    ?mizwotši\n0776.88  munabatoke   -ke -> ye?    その他\n0873.94  (ミスオチというのは聞きませんが） N.R.\n         <midzootsiというならここで(よ)。>\n         (9とも(49下をすわって来した。)\n\n1862.48  ハう　<く>\n         ヘソノウエ　<く>\n         ミスオチ、ぐミスーオチ、は大人に\n         なってから。よせとの関係は\n         小さく区別しなかった。>\n\n3732.26  hetta~ugi\n         midzawodosi というようなトイウ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03563.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03563",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03563.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "4666.99",
+      "4721.36",
+      "4745.27",
+      "4752.11",
+      "4790.62",
+      "5499.98",
+      "5569.99"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　35-64\n\n資料番号　　地図番号　130\n項目名　みずおち　073\nA　普通注記　ページ\n[B　除いた共通語]\nC　除いた特殊語　(2)\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n4666.99　hara <3>　　　　　　　　　　　　　　　　mizwotj;\n4721.36　wanagara　（ウナヂワラはムナヂラの転訛と思ふ）。　midzuödosu?　ウナザヨコ?ナイで水オケの回が\n　　　　わるいのをいったりするとのこと。）\n4745.27　minasi'ppara.　　　　　　　　　　　　　　その他\n4752.11　a'bara　(?)　　　　　　　　　　　　　　その他\n4790.62　?mune　　　　　　　　　　　　　　　　その他\n5499.98　ハラ　・特に区別せず全体をいうという。　　　その他\n5569.99　abarano sayatta toko (midzootfj? )　　　　その他\nうらはもっとのとーに近い、助名中ほど-イこと＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03564.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03564",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03564.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5614.24",
+      "5690.96",
+      "6348.77",
+      "6357.74",
+      "5688.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）[　]は厳密にする。 日本言語地図資料用紙　注記一覧　35-65 調査番号　地図番号　130　項目名　みずおち　073 A 普通注記 [B 除いた共通語] C 除いた特殊語 (3) 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） ?umahara (mama eppei kutte mizuwtʃi) umohara ga dekakumatta （ごはんをたくさん食って上腹が大きくなっり）というか、mizuwtʃiを umaharaとも言うのであろう。 hekkomi　→　nidzu notʃi イドコロ　＜布＞＜胃のある処の意＞　ミソオチ #アハラシンタ　<?>　その他 ミゾオチ　農家では「イバラ」＝胃腸と言うようか。どの地域か不明。深処として被調査者の印象ないは知識らしい。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03565.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03565",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03565.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6368.60",
+      "6373.59",
+      "6375.08",
+      "6402.53",
+      "6403.60",
+      "6410.77",
+      "6412.48",
+      "6472.05",
+      "6474.50"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　35-66\n資料番号　地図番号　130\n項目名　みずおち　078\nA 音韻注記　（ページ）\n[B] 除いた共通語\nC 除いた特殊語　(4)\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n[mi200t;]　　N.R.\n(?) hara　　その他\nmunaita　　その他\nイ（いずれも胃であるが：ほかにきわないと）　　その他\nイ　〈挙〉　　[ミシオチ]\nミゾオチ〈井〉\nく<?> ハう。〈区別せず腹の一部とする〉　　その他\n[mi200t;]〈??〉　　N.R.\nN.R.　　[ミゾーゾウ]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03566.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03566",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03566.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6491.49",
+      "6501.92",
+      "6504.01",
+      "6520.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-67\n資料番号 地図番号 130\n項目名 みずおち 078\n\n地点番号 6491.49.\n（海岸部の大浜部落とは mi200tf; という） ?mamasaki\n＜背部の胸部が痛むのを hit; jiku ga itai という。＞\n\n（絵や説明を付けずに調査者の胸を上部から順次に指してその位置を示したが、この答えでも人は納得していた。）\n\n6501.92.\nハラ。 「ミソオトとはいわないか」と質問にもそのほか。「ハラ」以外は使わないとのこと。\n\n6504.01\n（ほとんど mi2に近し） mi2wotfi; そのせ\n\n6520.79.\nムナバラ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03567.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03567",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03567.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のくく（　）には厳密にする。 日本言語地図資料用紙 注記一覧 35-68 質問番号 地図番号 130 A 注記 ページ 項目名 みずおち 073 (6) 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） ハう。 アエ ・ミゾオチは、つのしスか ボクシニーフの ハう。 影響でユ（？）がせんに用いらかー 大人は全然しらないコトハーという mizootṣi:（同席の若嫁さんの答） [mizwotṣi]（<mizuwotṣiといったらよいか 自分にはわからぬ。>） （若者の話を汲のないようであった） ミゾオチ <改まった感（--）> その他 ＃N.R. N.R. N.R. ・ミゾオチは新しい用語で今までな",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03568.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03568",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03568.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6565.22",
+      "6577.71",
+      "6616.71",
+      "6618.51",
+      "6622.67",
+      "6631.53",
+      "6640.96"
+    ],
+    "other_text": "▸ A・[B]・(C)ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の < > ( ) は散音にする。 日本語語地図資料用紙 注記一覧 35-69 質問番号 地図番号 130 項目名 みずおち 073 A 普通注記 [B 除いた共通語] C 除いた特殊語 ページ 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) (初めのハラと答えない。暫時考えのち、ミゾオチとろ。) [midzooti] (使わない) N.R. uwapparda hara <胸から下の方全体を（hara）と言ってしまい、言ってしまい、区別しない。> midzumotji は胸全体のこと N.R. mizwotji; 新 mizo:ti; [~mizwotji] (なまね外来ありかえった同じ) N.R.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03569.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03569",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03569.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6643.72",
+      "6661.02",
+      "6711.16",
+      "7302.66",
+      "7323.02"
+    ],
+    "other_text": "日本語音地図資料用紙　注記一覧　35-70\n資料番号　地図番号　130\n項目名　みずおち　073\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)\n\n地点番号　A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n\n（見32才の発音があったが、インフォマントは否定的でしない、 といった。）\n\n6643.72　mizwotʃi;　上、mizwotʃi; の上声（移動）　munaotʃi; を murnagara といふ。\n6661.02　mizwotʃi;　＜希＞　munaotʃi;\n6711.16　(1)hesonwaki　その他\n7302.66　kjum:so　munaatsuki;\n7323.02　（行もり）かわ後 ミゾオチ 間に置様では N.R. ある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03570.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03570",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03570.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7352.97",
+      "7381.97",
+      "8302.91",
+      "8306.42",
+      "8313.72",
+      "8325.77",
+      "8335.05"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-71\n資料番号　地図番号　130\n項目名　みずおち 073　(9)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)\n7352.97 （ミゾオトとは云わない。）　　　ミゾオチ\n7381.97 # <?> イソノウラ　　　＊ミゾオトン\n8302.91 <ミゾオテとは云わず>　　　# N.R.\n8306.42 <〜nuneと言う>　　　N.R.\n8313.72 <名前は無い、kokoという。>　　　N.R.\n8325.77 </mizoote/というのを聞いているが　自分は使わない。>　　　N.R.\n\n8335.05 mizuotji; <共> hatji zekabo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03571.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03571",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03571.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "8335.83",
+      "8345.24"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n日本言語地図資料用紙 注記一覧 35-72\n質問番号　地図番号　130\n項目名　みずおち 073\nA 普通注記\n(B 除いた共通語)\nC 除いた特殊語 (10)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n<ここに麦をすえると、飯が8杯食えるように なるから、こういうのだろう。>\n(この語形は初めて聞いた 珍しい表記、語源も被調査者 の言う通りであろう。)\nN.R.\n8335.83 (ハラでまにあわすようである。)\n8345.24 # hanhan ue(uenho)\n特定の言い方はない。\n腹の上或は腹の上の方という様である。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03572.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03572",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03572.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 35-73\n質問番号 地図番号 (130)  A 普通注記  (B 除いた共通語)  C 除いた特殊語 (11)\n項目名 みずおち 073\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n93 10.27    mune    えの光",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03573.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M130Q073/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03573",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03573.tif",
+    "source_ljc_id": "LJC-M130Q073",
+    "source_map_numbers": [
+      "130"
+    ],
+    "source_title": "みずおち (鳩尾)"
+  }
+]

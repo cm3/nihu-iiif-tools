@@ -208,13 +208,13 @@ function updateViewerUrl({ mapNumber = null, locationNumber = null, ocrSet = und
 
 function ocrSetFromUrl() {
   const url = currentUrl();
-  return url.searchParams.get('set');
+  return url.searchParams.get('set') || noteOcrSetForMapId(url.searchParams.get('map') || activeMapNumber);
 }
 
 function ocrPagesUrlFromUrl() {
   const url = currentUrl();
   if (url.searchParams.get('ocr')) return url.searchParams.get('ocr');
-  const set = url.searchParams.get('set');
+  const set = ocrSetFromUrl();
   if (!set) return null;
   return `data/note-ocr/${encodeURIComponent(set)}/pages.json`;
 }

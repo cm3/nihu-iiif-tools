@@ -1,0 +1,187 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0779.03",
+      "3765.28",
+      "3783.08",
+      "4619.78",
+      "4637.20",
+      "4694.26",
+      "4715.33"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 39-49 質問番号 地図番号 240 139 項目名 曽孫 240 A 普通注記 ページ ( ) [B 除いた共通語] [C 除いた特殊語] 地点番号 A 語形とその注記 [B・C除いた語形とその注:] A 注のない語形 [B・C 残した語形とその注] 0779.03 Gi:ko <写> gimayo 3765.28 jiko (siko 2-ない) giko 3783.08 Gikomayo 第3者は互い〜 4619.78 o gi ([歯gi]のように、口元を観察すると、唾のまるめが少し見える。) 4637.20 giko やつ(jiko)の感じかしれ 4694.26 giko <やつみく用いるか?> matamago 4715.33 gimoyo (ママ) の部分は、このようである、たとい 記憶はないが、いま調査要のまま うつしておく。あるいは調査者？",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03949.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M139Q140/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03949",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03949.tif",
+    "source_ljc_id": "LJC-M139Q140",
+    "source_map_numbers": [
+      "139"
+    ],
+    "source_title": "ひまご (曾孫)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4733.91",
+      "4742.37",
+      "4752.11",
+      "4760.54",
+      "5472.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-50\n質問番号　地図番号\n240　139\n(A) 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (2)\n項目名　曽孫　240\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記のく > ( ) [ ] は厳密にする。\n地点番号\tA 語形とその注記 [B・C除いた語形とその注]\tA 注のない語形 [B・C 残した語形とその注]\n4733.91\tgikomayo\t<はっきりと言うと>\tGiko\n4742.37\tgimanyo\t<B>\tGiko\n4752.11\tjaseiyo\t(ほかの地実に比べて、一せげ)\n4760.54\tφiko\t<普通>\n5472.91\tgoimago\t近は～mago",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03950.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M139Q140/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03950",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03950.tif",
+    "source_ljc_id": "LJC-M139Q140",
+    "source_map_numbers": [
+      "139"
+    ],
+    "source_title": "ひまご (曾孫)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5507.66",
+      "5508.43",
+      "5567.46",
+      "5574.84",
+      "5614.68",
+      "5639.13",
+      "5674.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-51\n\n質問番号　地図番号\n240　　　139\n項目名　名　曽孫　240\n\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(3)\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の< > ( ) [ ]は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\ngiko　(ともらの発音もする。)\nsi:ko\nsuko　(← giko ― gi:ko ?)\nヤマスナベへ　(ヤマスナベというのは親類のはくしん)\ngiko　(にと答む (Gi? はなかろう))\ngiko nago　(はじめ ja/jago といった。)\nヒコ　-- <普通のうい方>　ヒマユ。\ngiko-nago　(共) (ji:mago)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03951.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M139Q140/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03951",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03951.tif",
+    "source_ljc_id": "LJC-M139Q140",
+    "source_map_numbers": [
+      "139"
+    ],
+    "source_title": "ひまご (曾孫)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5684.26",
+      "5687.60",
+      "6395.61",
+      "6403.60",
+      "6455.31",
+      "6467.93",
+      "6542.71"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-52\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n（右上の欄）質問番号 240　地図番号 137　A 普通注記　ページ (4)\n項目名　曽孫 240\n\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5684.26    si:mago (ここせおでは ~c の交替がはげしい)\n5687.60    モイマコー (実在しないので、塔とにあるものか ではないか、)\n6395.61    Guimayo  ① gu:=mago\n6403.60    [ヘマコ？]\n6455.31    gi:mago　次は tsu~mago　その次 sãgaramago\n6467.93    Giumago　＠guimago\n6542.71    gimago (<?>)\n\n（以下、判読難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03952.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M139Q140/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03952",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03952.tif",
+    "source_ljc_id": "LJC-M139Q140",
+    "source_map_numbers": [
+      "139"
+    ],
+    "source_title": "ひまご (曾孫)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6575.40",
+      "6665.01",
+      "7237.67",
+      "7332.52",
+      "7342.72",
+      "8239.31"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-53\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n\n質問番号　地図番号\n240　139\n項目名　曽孫　240\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（5）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6575.40　Gi:mago　（注用とみとむ）　[giko]　分布からおもしろい。（堀川社）\n6665.01　ciko　ciko　子と扱え！（堀川注）\n7237.67　Gi:mago　御崎へ gi:mmago\n7332.52　Gijimago　giji: テーナサ\n7342.72　Gi:mago　曽孫はGi: … (注あり)\n8239.31　gimao　<くーんさーりに> → Gi:mago\n\n（手書きの注記やローマ字転写が多数あり。上は判読できる範囲の概略転写。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03953.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M139Q140/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03953",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03953.tif",
+    "source_ljc_id": "LJC-M139Q140",
+    "source_map_numbers": [
+      "139"
+    ],
+    "source_title": "ひまご (曾孫)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "0248.00"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-54\n質問番号　地図番号　240　139\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(6)\n項目名　曽孫　240\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉［］は厳密にする。\n\n表ヘッダ: 地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き行:\n0248.00　jimaga　＜新＞　　　　matamaga",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03954.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M139Q140/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03954",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03954.tif",
+    "source_ljc_id": "LJC-M139Q140",
+    "source_map_numbers": [
+      "139"
+    ],
+    "source_title": "ひまご (曾孫)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4742.95",
+      "4744.32",
+      "6458.26",
+      "6641.39",
+      "6650.70",
+      "7403.21"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 39-55 質問番号 地図番号 240 139（訂正） A 普通注記 ページ B 除いた共通語 C 除いた特殊語 項目名 曽孫 240 ► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の＜ ＞（ ）[ ]は厳密にする。 表ヘッダ：地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注] 手書き欄（位置番号を除く書かれた語形など）： gimayo 〈新〉  Giko gimayo  Giko モイマゴ 〈新・希〉  モンマゴ gimayo 新  Giko gimayo 〈希〉  Giko hijimago 〈少していねいなものいう時/〉 hijomago",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03955.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M139Q140/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03955",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03955.tif",
+    "source_ljc_id": "LJC-M139Q140",
+    "source_map_numbers": [
+      "139"
+    ],
+    "source_title": "ひまご (曾孫)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "3791.02",
+      "6542.71"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-56\n質問番号　地図番号\n240　139\nA　普通注記　ページ\n[B　除いた共通語]\n(C)　除いた特殊語\n項目名　曽孫　240\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\n3791.02    φlko  <自然の会話で－ ... たたし mayo φlko, φlkomayo, ja/gayo といってそれた語形>\n6542.71    ~mayono ko\n　= タンカ\n　　　　　　　　　　　　Gimayo c? =\n\n(用紙下部に続く空欄行)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03956.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M139Q140/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03956",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03956.tif",
+    "source_ljc_id": "LJC-M139Q140",
+    "source_map_numbers": [
+      "139"
+    ],
+    "source_title": "ひまご (曾孫)"
+  }
+]

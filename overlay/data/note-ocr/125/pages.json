@@ -1,0 +1,329 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1742.24",
+      "1793.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-31\n調査番号　地図番号　125\n項目名　小指　067\nA（普通注記） (B 除いた共通語) (C 除いた特殊語)\nA(B)(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は臨時にする。\n（手書きメモ）0724 95 Koju.bi くじが か そ??\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n1742.24　コトビ　老人が多く（使う）　コユビ\n1793.14　コヅビ　じっと見ます（KAT.）　[右欄は黒塗り]\n27 41.46　コツユビ　<くろ>　コユビ\n27 50.43　コドユビ　普通に使う　コドユビ\n27 51.10　コツユビ　<る>　コドユビ\n27 72.05　Kodojūbi　<古>　Kojumbi\n27 84.63　onayojūbi　<古>　Kojumbi\n37 04.57　kotojūbi　[古]　kojubi\n37 14.74　kodejūbi　<古>　kojumbi\n37 22.97　Kaykanjūbi　（酒のかこを見うかららんという）　Kasikeebi\n\n（下部枠線）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03331.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03331",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03331.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙  記録—33-32\n質問番号／地点番号 125\n項目名 小指 (067)\n(A) 通語  (B) 欠いた共通語  (C) 残した特殊語\nページ (2)\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での資料は地点番号順に並べる。\n・注記のくく( )は厳密にする。\n見出し: 地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 欠のない語形（B・C 残した語形とその注記）\nKantaro（古） Kantarā（昔）／KANTARO と一つにする。｜右欄: kojuubi\nkantarō（俗）（2）…［酒のカンをあけすぎる？］める。｜右欄: kodojuubi\nカンシロビ（左）、カンスロヒ（左）｜右欄: ココビー（ココヒー）\nKANSIROYUBI と一つにする。\nヒッユビ（老）｜右欄: ココヒー\nkoe’bi  e は非常に柔い e\nkoibi［草かも］｜右欄: tjiibi\nsikojuubi（左）｜右欄: kojubi\nkantalojubi（く2）｜右欄: kojubi",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03332.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03332",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03332.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-33\n質問番号／地図番号 125\n項目名 小指 067\nA・(B)(C)ごとに別紙を使用する。／その中での情報は地点番号順に並べる。／注記の＜＞（ ）は意味にする。\n地点番号／A 語形とその注記（B・C 聞いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\nkoebi\nkoe'bi; kojombi\nkantalojumbi\nkantarojumbi\nしこじゅべ ・由来は全く不明である。\nsiri ibi\nsitijubi\n〈…063,064,065,066などより…〉 kojumbi\n（語や由来についてのメモ）\n〈kantarojumbi は…〉 kojumbi\n（sizi は源判のことか？）\n（si はやや A より 12 回こえていた。）\nページ (3)",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03333.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03333",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03333.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 記述一覧 33-34  A・(B)・(C)ごとに別紙を使用する。 その中での昇順は地点番号順に並べる。 注記のく＞（ ）は採録語にする。  質問番号／地図番号 125  項目名 小指 067  A 普通語  （B 欠いた共通語） （C 欠いた特殊語）  ページ (4)  見出し: 地点番号｜A 語形とその注記［B・C 欠いた語形とその注記］｜A 注のない語形（B・C 残した語形とその注記）  行内容（概略・手書き）：  kojobi  ǝ u ɯ … のような注記／右欄 kojūbi。  kotʃibi  子供に対して言うときに使用する由／右欄 kojūbi。  コイビ ＜上＞／右欄 コンチビ。  kotʃippi ＜右＞／右欄 kotʃibi。  koitʃibi ＜右下＞／右欄 kojūbi。  kotʃibi 「子供の頃に言うって」／右欄 kojūbi。  koebi ＜右＞／右欄 kojūbi。  kojobi ＜斜＞／右欄 kobi。  kojobi （ヤツ改まてゐ場合）／右欄 koebi。  kojobi ＜上・斜＞／右欄 koebi。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03334.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03334",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03334.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "A・B・Cごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈 〉（ ）は区別にする。 日本言語地図資料用紙 注記一覧 33-35 質問番号／地区番号 125 項目名 小指 067 A 普通注記 B 聞いた共通語 C 聞いた特殊語 ページ (5) 見出し: 地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）。 記入: koyobi （共） （→発音のことか、やや改まった場合の表現？） 右欄: koebi。 コユビ （共）。 コユビ （共）。 コユビ （共）。 コユビ （共）。 コユビ （共）。 koebi 〈古〉 右欄: koibi。 ヒコユビ 〈老人がコユビに対していわれる語？〉。 末尾: コユビ 〈普通〉。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03335.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03335",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03335.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく〈 〉( )〔 〕は従来にする。\n\n日本言語地図資料利用紙　注記一覧 33-36\n質問番号／地図番号 125\n項目名 小指 067\nA 常用語／B 限れた共通語／C 限れた特殊語\nページ (6)\n\n地点番号／A 語形とその注記（B・C 欠いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n\nヒコユビ（ユコビは名古屋？）\nコイビ〈今ある〉\nヒコイビ（…手以上の中寄り…—普通に使われる／13ここでは今はついてことあること）\nスコユビ、コユビ—この補正番号。カードは066b? 067をつけて? コユビと答えるのは… などの注記。\njikkoibi（立）HIKKOIBI（じん? の世界）〈KAT.〉 → 右欄: koibi\nkusmuri-jubi; 先だちのある時はこれ結（BP? こゆび）\nsakemaka-jijubi; ←手形\nkantarojubi; 〈あんびにつ?〉から　右欄: kojubi;\nkantarojubi; 〈音の人がかくいぇ〉今は（昔）　右欄: kojubi;",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03336.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03336",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03336.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5722.37",
+      "5792.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本普通語地図資料用紙　注記一覧　33-37\n資料番号　地図番号　125\n項目名　小指　067\nA（普通注記）\n[B　除いた共通語]\n[C　除いた特殊語]　(7)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5722.37   kantarojumbi　〈古〉　（酒枡をしるのに小指をつかふ……いろのがと のこと）　kojubi\n5792.02   kojumbi:　この語は少しO寄り\n63 49.09  koibi　〈古〉　kojumbi\n63 54.46  kanji　〈酒のカンをみる指だから〉\n63 79.67  コヤエビ　（古）\n64 10.77  コエビ　〈新〉　シコエビ\n64 11.66  コイビ　〈新〉、シコエビ〈古〉\n64 12.91  sikoju bi　〈古〉　kojubi\n64 22.93  コエビ　〈新〉、シコエビ〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03337.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03337",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03337.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-36\n質問番号／地図番号 /25\n項目名 小指 067\nA 普通語形　B 採った異形語　C 採った特殊語　ページ (8)\n地點番号　A 語形とその注記（B・C 欠いた語形とその注）　A 欲のたい語形（B・C 欠いた語形とその注）\nコイビ ＜左＞　／右欄：コユビ\njikojubi  siko (KAT.)\nkojubi ＜普通＞／benisaji（しも・どう？）もってずれているような\nコイビ ＜右＞　／右欄：コユビ\nコイビ（これはほんまにコイビでよか考え。ここではコユビがよかった）\nコイビ（こんにはコユビの形が一番かな、な）\nユユビ ＜や、なし＞　／右欄：コユビ\n067に「ユユビ」形があるなら、063〜066など「ユユビ」形があるほうへするか、など（これは採られる案か、私たちであった などの書き込み）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03338.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03338",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03338.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料採用紙 注記一覧 33-39\n質問番号  地図番号 125\n項目名 小指 G07\n・A・[B]・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の〈 〉は厳格にする。\nページ(9)\n見出し: 地点番号 / A 語形とその注記（B・C 欠いた語形とその注記） / A 注のない語形（B・C 残した語形とその注記）\nコユビ（〈左〉）  右欄: コイビ\nコイビ ・この語だけでも取る。但しはっきりしない。(i)ではなく(ii)=に近い。\nkoijibi  i=うら寄りの i\nsiriko’ibi 〈希〉 = 語幹ではない語らに近い。\nコイピー 〈地称〉\nフイビ・コユビ  この語の読みの「イビ」の形が多く、資料を考え合わせれば、はっきりは分からない。\nkojobi 〈左〉  右欄: koibi\nkoibi（「コイビ」は語素であるものの「ツ」どと…? 奈良県所河内(奈高内)のアクセントのことか）\nコヤユビ（〈左〉）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03339.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03339",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03339.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 33-40\n質問番号　　地図番号 125\n項目名　小指 067\nA・（B）・（C）ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）は厳密にする。\n見出し：地点番号／A 語形とその注記（B・C 聞いた語形とその注記）／A 注のたい語形（B・C 残した語形とその注記）\nkojajibi　＜普通はこちらを使う＞　右欄：kojumbi\nコユヒビ　＜つくでとは言わない＞　右欄：コユビ\nコイヒビ　＜右＞\nコユヒビ　（若い女にアニャなイビという人あり）\ntjibi　多く使う、koibi　斜\ntj:ibi　古　右欄：kojumbi\nsjkoibi　HIKOIBI と同様なように； sji四邑（KA手）\nsjkoebi　（e は狭く高寄り）\nkoibi　斜\nkoibi　＜どんな言い方＞\n（ページ（10）などの書込みあり）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03340.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03340",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03340.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C) ごとに別紙を使用する。 その中での昇順は地点番号順に並べる。 注記のく＜＞（）は厳密にする。 日本言語地図資料用紙 記入一覧 33-41 質問番号 地図番号 125 項目名 小指 067 A 音通注記 B 聞いた共通語 C 聞いた特殊語 ページ (11) 見出し： 地点番号 / A 語形とその注記（B・C 聞いた語形とその注記） / A 欲のたい語形（B・C 残した語形とその注記） 行内容（地点番号以外）： koip 「p は旧破裂」； koeibi； こどもの唱えることで「…は be」という、の注記； koibiri （明らかにこびり、と聞こえる／南の人が koibiri と言う などの注）; （イタシル→ 他として連想に基く それは類型 などの走り書き）; koibi （これは -ibi を発音している） 右欄：kojubi; kojabi ＜希＞ 右欄：koibi; コユビー ＜古＞ 右欄：コユビー; コユビー ＜古＞ 右欄：コユビー; コユビー ＜古＞ 右欄：コユビー; コユビー ＜古＞ 右欄：コユビー",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03341.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03341",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03341.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 33-42\n質問番号　　地図番号 125\n項目名 小指 067\nページ (12)\n見出し: A’ 語形とその注記（B・C 残した語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n記入語形（概略）:\nコユビ?〈右〉／右欄: コユビ\nコユビ?〈右〉／右欄: コユビ\nkojajut［ち?］／右欄: Kojut\nKojabi（子供の時には jubi も言う）\nkoi?（koit〜koip ではないような）\nkojait（…から親指）\nkojajut（…）\nkojait（…）／koit＜…＞\nkuibi（kumai?bi＝?）\n“Kwajup”（傍）／右欄: “kojup”\n左上の注意書き（判読不完全）: 「A・(B)・(C)ごとに別紙を使用する」「その中での情報は地点番号順に並べる」など。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03342.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03342",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03342.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "0257.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-43\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n資料番号　地図番号　125　A 普通注記　ページ (13)\n項目名　小指 067\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n0257.43\n03 40.00\n'kibi: <今のナナたちは kojubi: という。>\n'tunigya: (－ya は「ゑ」の義)\n'tsumiyya: <tsu－, 'tu－は本来に使うが 'tu－の方が昔からの言い方。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03343.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03343",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03343.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "B.\nA・(B)・Cごとに別表を使用する。\nその中での音標は地点番号順に並べる。\n注記のくくり〈 〉（ ）〔 〕は厳密にする。\n\n日本言語地図資料利用紙　注記一覧　33-44\n質問番号／地図番号　125\n項目名　小指　067\nA 基準語　B 欄いた共通語　C 欄いた特殊語　ページ（1）\n\n見出し：\n地点番号／A 語形とその注記（B・C 欄いた語形とその注記）／A 欄のない語形（B・C 欄いた語形とその注記）\n\n行の内容（概略）：\nコユビー　〈軟〉／コドユビー　普通に使う\nkojubi（コエビ）／Kodebi\nkojubi（今・軟）／kokkoji-bi\nコユヒー　〈J〉／コイヒー\nコユヒー　〈央〉／コイヒー\nコユヒー　〈央〉／コイヒー\nコユヒー　〈央〉／コイヒー\nコユヒー　〈央〉／コイヒー\nコユヒー　〈央〉／コイヒー\nkojubi　〈上〉／koibi",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03344.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03344",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03344.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙  注記 33-45\n質問番号／地区番号 125\n項目名 小指 067  （ページ 2）\n\n表見出し：\n地点番号／A 語形とその注記（B・C 欄にも語形とその注記）／A 記のない語形（B・C 欄にも語形とその注記）\n\n行内容（地点番号以外）：\nkojubi ＜共＞    |  koibi\nkojubi ＜新＞    |  kotjibi\nkojubi（改まった場合はコヒビとなる。） | koibi\n（063から067までは一応全部と数えること）\nコヒビ ＜共＞    |  コイヒー\nコヒビ            |  コイバ\nコヒビ            |  コイヘ\nコヒビ            |  コイヒ\nコヒビ            |  コイセ\n（手書き文字一部不鮮明）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03345.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03345",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03345.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6508.36",
+      "6509.91",
+      "6516.15",
+      "6516.85",
+      "6526.04",
+      "6526.08",
+      "6560.22",
+      "6580.06",
+      "6580.35",
+      "6629.98"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（　）は数箇にする。\n\n日本言語地図資料用紙　注記一覧　33-46\n\n（上部の小枠）\n質問番号　地図番号　125\n項目名　小指　067\nA　普通注記　ページ\nB　除いた共通語\nC　除いた特殊語　(3)\n\n（表見出し）\n地点番号　　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6508.36   コユビ　（共）    コイビー\n6509.91   コユビ　（共）    コイビー\n6516.15   コユビ　（共）    コイビー（他・系）\n6516.85   コユビ　（共）    コイビ\n6526.04   コユビ　（共）    コイビ\n6526.08   コユビ　（共）    コイビ\n6560.22   コユビ　（新）    コヤコヒー＜古＞\n6580.06   コユビ　（共）    コイヒー\n6580.35   コユビ　（新）    コイヒー\n6629.98   Kojubi　＜新＞    Koibi;",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03346.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03346",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03346.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [],
+    "other_text": "・A・(B)・(C)ごとに別表を使用する。\n・その中での音調は地点番号順に並べる。\n・注記のく<>()注記符にする。\n日本言語地図資料用紙 記述一覧 33-47\n質問番号　 地図番号 125\n項目名 小指 067\nA 普通語注記 / B 除いた共通語 / C 除いた特殊語\nページ (4)\n表見出し: 地点番号 / A 語形とその注記（B・C 除いた語形とその注記）/ A 注のない語形（B・C 除いた語形とその注記）\nkojumbi　上　t;ibi\nkojumbi　〈丁寧な言い方〉　koibi\nコヒビー　〈新〉　コイビー\nコヒビー　〈新〉　コイビー\nコヒビー　〈異〉　コイビー\nコヒビー　〈新〉　コイビー\nコヒビー　〈新しい言い方〉　コイビー",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03347.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03347",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03347.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "3764.92"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記 — 33-48\n質問番号　地図番号　/ 125\n項目名　小指 067\nA 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語) (1)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nゴバン　＜ともいろ.＞　ストコセー\nヨネノユビ　　シロクセセ，シロフセべ\nミミオシノユピー　　コフヒー\nコユンドン　＜左・舌＞　フユヒー\nhnuiibi　　uibinukma:\n重金a:uibi　＜何れも同じようにつかう．＞　minauibi;",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03348.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M125Q067/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03348",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03348.tif",
+    "source_ljc_id": "LJC-M125Q067",
+    "source_map_numbers": [
+      "125"
+    ],
+    "source_title": "こゆび (小指)"
+  }
+]

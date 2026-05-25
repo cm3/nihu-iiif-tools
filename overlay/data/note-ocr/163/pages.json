@@ -1,0 +1,570 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0840.33",
+      "0873.94",
+      "1742.24",
+      "1754.16",
+      "1762.10",
+      "1770.18",
+      "1781.95",
+      "1798.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 48-18\n質問番号　地図番号　163\n項目名　すりこぎ　156\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n0840.33　meɽyuribo: ＜くもと言ったこともある。＞　sürikoyibo:\n0873.94　mejuri+bo: ＜子どものとき、アイヌもそういった＞　şitri 'koʲi\n1742.24　マシゲ［私友はマシゲというのは聞いたことがない］　（注記）\n1754.16　マシゲ＜古＞　スリユギ\n1762.10　メプリ ボオ ＜黄＞　スリコギ\n1770.18　メプリ　（多）\n1781.95　メプリ　（多）\n1798.13　rennjo　＜稀＞　surikogi\n\n（ページ下部余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04818.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04818",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04818.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2700.48",
+      "2741.46",
+      "3721.30",
+      "3251.81",
+      "3762.42",
+      "4638.22",
+      "4658.42",
+      "4666.99"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜ ＞( )( )は厳密にする。 日本言語地図資料用紙 注記一覧 48-19 質問番号 地図番号 163 項目名 すりこぎ 156 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 2700.48 スリコギ <漁業関係の人はメグリを使う> 2741.46 メグリ ボオ {どちらも使うが早く言うときメグリになる} メグリ 3721.30 masügiribo (音) sürikôgi bo (今) 3251.81 sürikogi <失> 3762.42 masïgi 4638.22 sürikogï 4658.42 suikogi (スリの音はひびかない) 4666.99 misosuribo (みそすりのはぎの感がある。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04819.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04819",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04819.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4677.65",
+      "4684.77",
+      "4686.52",
+      "4689.62",
+      "4696.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-20 質問番号 地図番号 163 項目名 すりこぎ 156 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 4677.65 surikogibo: (スリコギボーのりはひびがない) 4684.77 omeburibo suribo misosuribo 4686.52 surikogi <くずれも家庭内で 家族に向って言うときに使う> 4689.62 [omeguribo:] <希> 4696.82 omeguri <共> omeguribo: (共) meguri, meguribo:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04820.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04820",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04820.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4752.27",
+      "4760.64",
+      "4762.77",
+      "4773.15",
+      "4773.28",
+      "4784.41",
+      "5508.19",
+      "5606.83"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-21\n質問番号　地図番号　163\n項目名　すりこぎ　156\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nsurikogi (あるいは surikogi かも) 知れないが一応記録に使う。\nsiirikoyi bo: 箱改っていうとき  suisirikoyibo:\nmaisitye くよう >  suritikoytbo:\nsūrikogi <くす>  sūriji\nsūriji <部>  sūrikogi\nsūtrigi <新>  sūtrikogi\nsūrikogi (やっと suikogi のように使用?)\nomeguribo: (上の言語示る...)\nsurikogi <家庭内ではこれを使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04821.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04821",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04821.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5623.85",
+      "5643.33",
+      "5645.89",
+      "5646.71",
+      "5649.53",
+      "5654.94",
+      "5655.41",
+      "5656.62",
+      "5658.89",
+      "5668.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-22\n質問番号　地図番号　163\n項目名　すりこぎ　156\n普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (15)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\nSurigoyi <surikoyi ことを>    !surikoyi    スリコギ, マワシ, マワシギ, アアジギ\nsurikombo : <希>    ！surikoyi\nアタリボオ <隠>    スリコギ, マリシ, マワシギ, アアジギ\nマワシギ <新>    スリコギ, スリユギ, ボオ\nスリコギ ボオオ    アタリボオ\nアタリギ <希>    スリコギ\nネサユギ レンギ ボオ <ごく少ない>    同上\nアタリ ボオ <上・少>, スリコギ ボオ <多>\nスリボオ 新(言い方)    スリコギボオ\nスリユギ ボオ <多>    スリコギ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04822.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04822",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04822.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5669.12",
+      "5672.52",
+      "5680.34",
+      "5687.59",
+      "5696.13",
+      "5710.84",
+      "5712.70",
+      "5722.37",
+      "5730.71"
+    ],
+    "other_text": "日本官話地図資料用紙 注記一覧 48-23\n質問番号　地図番号　/63\n普通注記　ページ (6)\n項目名　すりこぎ　156\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　　A 語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C 残した語形とその注】\n5669.12　süritkogi bo <喜>　　　　ma:j t bo:\n5672.52　meguri <くち>　　　　　surikogi\n5680.34　<?> me'mbo:　　　　　　（メンボー（西野・把ノ沢）など手書き注記）\n5687.59　sü'rikogi <喜>　　　　　artaribo:\n5696.13　アタリボオ (上)(希)　　　スリコギ・ボオ\n5710.84　ミソスリボオ(新)、アワシボオ(新)\n5712.70　sürikogibo: [surikogi]\n5722.37　meguribo: <少・ち>　　　surukogibo:\n5730.71　スリコギ・ボオ　<多く使う>　アワシボオ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04823.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04823",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04823.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6277.62",
+      "6339.86",
+      "6385.63",
+      "6387.62",
+      "6407.43",
+      "6408.72",
+      "6409.72",
+      "6415.80"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-24\n質問番号　地図番号　163　項目名　すりこぎ　158\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（7）\n地 点 番 号　A　語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C　残した語形とその注〕\n6277.62　surikogi　〈sulikogi に近く間える？〉\n6339.86　レンゲ〈古〉、スリコギ〈多〉\n6385.63　renye　〈希〉\n6387.62　rennji　〈古〉\n6407.43　レンギ〈古・希〉\n6408.72　諸 le?gi；〈上品なことば〉\n6409.72　レンギ〈古〉\n6415.80　renye〈少・新〉（レンゲは私が方言形・・・）\n（欄外メモ）　新しい言い方と答えた　surikogi　suriko　スリコギ　スリコギ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04824.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04824",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04824.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6421.72",
+      "6421.82",
+      "6426.04",
+      "6427.40",
+      "6428.26",
+      "6435.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-25\n質問番号　地図番号　163\n項目名　すりこぎ　156\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (p)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6421.72　surikogi <reyyiと言う人もあるが自分は言わない>\n6421.82　[megurl]　(認める)\n6426.04　surikogi; <次者からスリコギと言った>\n6427.40　reyye (新)\n6428.26　スリコギ <古>\n6435.68　スリコギ（替）　テンギ <茨>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04825.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04825",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04825.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6438.33",
+      "6452.17",
+      "6479.26",
+      "6484.78",
+      "6485.82"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の＜　＞(　)[　]は厳密にする。 日本言語地図資料用紙 注記一覧 48-26 質問番号 地図番号 項目名 すりこぎ 156 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (9) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6438.33 レンゲ <古> 6452.17 メクーリ <稀> 6479.26 NK <レエギ> 6484.78 テンギ 多く使われる 6485.82 レンギ (テング) （はじめはデンギであったがあ） （手書きの長い注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04826.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04826",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04826.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6498.61",
+      "6500.22",
+      "6500.88",
+      "6506.87",
+      "6509.43",
+      "6511.33",
+      "6511.85",
+      "6521.92",
+      "6525.25",
+      "6528.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-27\n質問番号 地図番号 163\n項目名 すりこぎ 156\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (40)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nrenji <ぐは木。レンは、ねる意>\nrenge <やっ・す>\nrenji <ち>\nmisosüirib o: <...>\nメグリ <他・希> (メグリとは言わなかった)\nレンギ <希>\nrenye には破裂?\nレンゲ <余り多くない...>\nsuriyi (新)\nsurikoye <今は普通こういう>\nmeyuri <ち><苦>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04827.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04827",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04827.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6529.15",
+      "6529.63",
+      "6530.23",
+      "6532.70",
+      "6543.56",
+      "6551.18",
+      "6552.71",
+      "6556.60",
+      "6547.24",
+      "6549.03"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-28\n質問番号 地図番号 163\nA 普通注記  ページ (11)\n項目名 すりこぎ 156\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ]は厳密にする。\n（表見出し）地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n（手書き項目）オメクリサン <上>    ×メクリ, スリコギ    surikogi\nomeruri <他> <女が使う>    surikori/ surikogi\nレンギョ 〈レンギ, レンケが普通〉\nレンギ  スリゴンボ はあて? すりの\nスリゴンボ 意味でも同じろ>\nレンギ ?\nレンギ (やや古)\nデンギ (レンギの訛音)\nデンゲ (レンギの訛)\nスリコギ (やや古) [#] レンゲ\nsürikoge  meruri <E> <方言の訛音・方>  surikoke\n（注）手書きの語形・注記が随所に記載されている。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04828.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04828",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04828.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6557.36",
+      "6576.28",
+      "6582.12",
+      "6583.93",
+      "6584.8",
+      "6590.08"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-29\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >()[]は厳密にする。\n\n質問番号　地図番号　163\n項目名　すりこぎ　156\n(A) 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (V2)\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n[kuwirikore]\nレンギ　<くち>\nスリコギ　<自分はこういっている>\nスリコギ　<こういう人もある>\nレンギ　<新>\ndeɲɲe　名前的な空を／これは reʒyye\nreɲɲe という <今は>\nレンギ <煎豆などをすりようものに: すりレンギと>\n…うものがある>（耳かきの大きいような…）\n（以後 手書きの注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04829.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04829",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04829.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6610.00",
+      "6617.25",
+      "6624.13",
+      "6625.66",
+      "6626.30",
+      "6630.82",
+      "6631.05",
+      "6635.87",
+      "6645.37",
+      "6645.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-30\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n質問番号　地図番号　163\n項目名　すりこぎ　156\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6610.00　スリコギ（×フリとはいわない?）\n6617.25　アタリボオ（希）\n6624.13　surikoi:（最も多い）\n6625.66　surikoyi:bo:＜くち＞\n6626.30　ataribo:（分）\n6630.82　mēyuribo:（＋した言い方）\n6631.05　s:rikoyi くする本の意\n6635.87　ataribo: 希、meyuribo: 新\n6645.37　megyuribo: ＜多く使う＞\n6645.62　surikoyibo:（表記）\n\n（手書きの語形・注記が併記されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04830.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04830",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04830.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6646.74",
+      "6651.02",
+      "6697.59",
+      "6698.20",
+      "6700.25",
+      "7239.85"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 48-31\n質問番号　地図番号　163\n項目名　すりこぎ　156\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (1/40)\n\n地点番号　A 語形とその注記【B・C 除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n\n6646.74  surikoyi: ＜多く使う＞　　　　surikoyibo:\n6651.02  nehbo ＜くち＞　　　　　　　　swirikoyi\n6697.59  ataribo: ＜手寄りか言うのを聞いた＞　surikoyi\n6698.20  ataribo: ＜も、調査後；浅沼宅で＞　surikoyi\n6700.25  ataribo: ＜稀＞\n7239.85  スリユギ　ぎはkとgとの中間音、かに有声。\n\n伺ったところではこの語は新しく継起ことばとされた。ただ1なちの老人がるもこの言語が採集されていることに注意 >",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04831.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04831",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04831.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7311.68",
+      "7320.57",
+      "7322.81",
+      "7323.02",
+      "7326.69",
+      "7329.57",
+      "7331.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-32\n質問番号　地図番号　163　項目名　すりこぎ　156\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (15)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き行（上から）:\n7311.68  dengi (d = d - r の中間音)\n7320.57  dengi (レンギ デンギ 中間音 d - r)\n7322.81  devagi (d - r a 中間音)\n7323.02  dengi (d = d - r の中間音を示す)\n7326.69  deŋgi (j は仮に d と r (方言裂音) の中間音を表わすの)\n（空行）\nsurjibo: <希>\n7329.57  lenyi (gi に近い)\n7331.27  dengi (d = d - r の中間音)\n（以下行は切れて読みにくい）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04832.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04832",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04832.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "7332.97",
+      "7341.47",
+      "7344.30",
+      "7350.21",
+      "7351.09",
+      "7354.23",
+      "7356.2",
+      "7362.67",
+      "7365.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（ ）［ ］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 48-33\n質問番号　地図番号　163\n項目名　すりこぎ　156\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ　(16)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き注記（抜粋）:\nvju:ge (昔), renge (今)\nsurikogi <三サ那群はジュウギという>\nde'jgi (d e は r e のようにも聞かれる)\nsuikogi (緑り次にわせると、suikoki という発音もきかれる)\nsurikogi <レンギ・なし>\nレンギ d の中間音\nre'ngi <影> など\n\n（注: 上はページ上の読める部分の大まかな書き写し）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04833.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04833",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04833.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7374.75",
+      "7376.68",
+      "7394.85",
+      "7395.63",
+      "7396.53",
+      "7401.92",
+      "7403.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号　地図番号　163\n項目名　すりこぎ　156\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (47)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >() [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nレンジ　<老産ともにこういうのが普通>\tデーン チー\nneygi　<...><...>\tsurikogi;\nsurikogi　(レンギを東京語と思って...?)\tsurikogi;\nsurikogi　(近くの鬼神野ではrengjも　使うと第三者の説明あり)\nsurukogi　<?>\tsurikogi\nsuribo?　希\thengi?\nre:gi　(県内の多くの土地では rengji は...)\n\n（以下、手書き注記・メモが多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04834.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04834",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04834.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7427.2",
+      "7450.20",
+      "7511.66",
+      "8315.46",
+      "8324.83",
+      "8335.11",
+      "8361.28",
+      "8361.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-35\n質問番号　地図番号　163\n項目名　すりこぎ　156\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7427.20 he'ngi は非常に...（手書き）\n7450.20 henggi (surikogi という人もある。32等調)\n7511.66 レンギ <これもつかわれている。>\n8315.46 surikogi <良いことばでないから使いたくない>\n8324.83 suikogi (どんな...に言うときは恐らく)\n8335.11 suriko'gi riaは uに近く聞こえる...\n8361.28 suikogi <新> tʃude\n8361.31 suikot tsute (他)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04835.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04835",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04835.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "9303.88",
+      "9313.55",
+      "0247.31",
+      "0275.97",
+      "0256.76",
+      "1242.00",
+      "1281.08",
+      "1271.05",
+      "2072.20"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　48-36\n質問番号　地図番号　163\n項目名　すりこぎ　156\n(A) 普通注記　　[B] 除いた共通語　　[C] 除いた特殊語　ページ\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n9303.88    t/o:ta: <くす?>    sukikogi\n9313.55    t/o:ta: <希?>\n0247.31    suri'kugi; <新>\n0275.97    suri'kugi (スリクギ)   si'ri'kugi\n0256.76    si'rkugi; <や？改まる>\n1242.00    ?siruhatifibui\n1281.08    1281.08 NR <知…>\n1271.05    oija: Θ = !\n2072.20    daibanubutu <すりばちの夫の意>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04836.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04836",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04836.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "0896.22",
+      "1731.89",
+      "1770.18",
+      "1781.95",
+      "2751.10",
+      "4657.5",
+      "5678.33",
+      "5680.34",
+      "6386.66"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-37\n質問番号　地図番号　163\n項目名　すりこぎ　156\nA　普通注記　　B　（除いた共通語）　C　（除いた特殊語）　ページ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n[0896.22]　[レンギという人がある]　すりこぎ　　スリコギ\n[1731.89]　スリコギ　〈新〉　　メクリボ\n[1770.18]　スリコギ　少・新　　メクリ\n[1781.95]　スリコギ　少　　　　メクリ\n[2751.10]　スリコギ　〈新〉\n[4657.50]　スリコギ　（共）\n[5678.33]　スリコギ　〈共〉\n[5680.34]　surikogi　〈新〉\n[6386.66]　surikogi　〈新〉\n\n右欄手書きメモ（判読できる範囲）:\nスリコギ　メクリボ　メクリ　メクリ　シイユギョ　シイユギョメー　スリンボオ　アダリポオ\n<?＞membo: IJメヨリ(不明)\nメンボ（南野?地名）\n（下部に英字）surikogi: rebag:（判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04837.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04837",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04837.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6419.50",
+      "6435.68",
+      "6438.33",
+      "6458.08",
+      "6469.77",
+      "6479.95",
+      "6500.22",
+      "6572.97",
+      "6621.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-38\n質問番号 地図番号 163\n項目名 すりこぎ 156\nA 普通注記   (B) 除いた共通語   (C) 除いた特殊語   (2)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6419.50   スリコギ <新>      レンゲ\n6435.68   スリコギ <希>      デンギ <普>\n6438.33   スリコギ <今>      レンゲ <古>\n6458.08   スリコギ <新>      レンギ\n6469.77   スリコギ <新>      レンギ\n6479.95   スリコギ <新>      レンギ\n6500.22   スリコギ <新>      レンゲ <やや古>\n6572.97   Surikoyi 新、<最近の（奥さん連中）>  renye (手書き)\n6621.94   Surikoyi <新>       nenbo, nenpo (手書き)\n\n（注：手書き部分は判読のため概略表記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04838.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04838",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04838.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6624.13",
+      "6634.07",
+      "7374.75",
+      "7394.14",
+      "9313.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n日本言語地図資料用紙　注記一覧\n質問番号　地図番号　１６３\n項目名　すりこぎ\nA　普通注記　ページ\n（B）除いた共通語\n（C）除いた特殊語　（３）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\nsurikogi　少\nsurikogi　希\nスリコギ（希）\nsurikogi〈新〉\nsurikogi〈新〉\n右欄注記: suribo:(最古?), meyuri?, meyuri\nrengi\nt/ o: ta:〈希〉\n（手書きの備考やルビなど）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04839.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M163Q156/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04839",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04839.tif",
+    "source_ljc_id": "LJC-M163Q156",
+    "source_map_numbers": [
+      "163"
+    ],
+    "source_title": "すりこぎ (擂粉木)"
+  }
+]

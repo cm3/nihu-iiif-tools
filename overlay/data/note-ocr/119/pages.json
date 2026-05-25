@@ -1,0 +1,752 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙  注記  31-83\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく＞( ) [ ] は厳密にする。\n地図番号 119\n項目名 よだれ 045\n(A) 普通注記  (B) 聞いた共通語  (C) 聞いた特殊語\nページ (1)\n見出し: 地点番号／A 語形とその注記（B・C 聞いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\nビロ ＜ビロタラシィ＞（子供のヨダレを流している状態? にいう） | bero\nyodare（共通以上） | bero\nbiro ＜o tarasu＞／bero ＜o tarasu＞\nbiro ＜古＞ | jodare\nベロ ＜古＞ | ヨダレ\nbero ＜bero tarasu＞\nヨダレ（字不明あり） | ビロ\nビロ ＜廣?＞ | ヨダレ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03183.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03183",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03183.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1731.89",
+      "1744.60",
+      "1745.54",
+      "1755.53",
+      "1756.32",
+      "1770.18",
+      "1773.27",
+      "1793.14",
+      "1798.13",
+      "1942.03"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 31-84\n\n質問番号　地図番号　119\n項目名　よだれ　045\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nエンダリ, ヨンダリ, ビロ　左→右の順に使いやすい　ヨダレ\nベロ　＜古い＞　ヨダレ\nベロ　＜べロ ならす＞　ヨダレ\nビール　＜せレタラシ古＞　ヨダレ\nベロ　＜古＞　ヨダレ\nビロ　＜悪口をいう時＞　ヨンダリ\nヨダレ　＜名＞　ベロ\nベロ　＜希＞　ビール\nbiru　＜児＞　jodane\nbiru　＜くちとその関＞　jodare",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03184.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03184",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03184.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2608.90",
+      "2700.48",
+      "2712.33",
+      "2741.46",
+      "2750.44",
+      "2751.10",
+      "2765.02",
+      "2765.71"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[　]は敬省にする。\n日本言語地図資料用紙 注記一覧 31-85\n質問番号　地図番号　119\n項目名　よだれ 015\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (3)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nビロ.　<どちらも使うがビロの方が使いやすい>　ヨンタリ\nヨダレ　<くどーを東北と身の人が使う>\nビド.　玉　<今も使う>\nビロ.　<赤子のとき>\nヨンダリ　<少し大きくなれる頃のとき>\nビロ.　<ヨシタルとはいいわない>　ビロ.\nヨタリ　<右>　ビロ.\nbiru　<普通>　ambu\njodare　<右>　biru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03185.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03185",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03185.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2782.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-86\n資料番号　地図番号　117\n項目名　よだれ 045\nA(普通注記) [B 除いた共通語] [C 除いた特殊語]\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注記）　A 注のない語形（B・C 残した語形とその注記）\n2782.67　bëro　＜くち＞\n　　　　jo'dare　＜大人同士のはなしをする＞\n28/12.86　bero　＜ベロクランス＞\n　　　　（いつもヨダレを垂らしているよ）\n36 19.08　bero　そは非常に狭いe\n36 88.82　8ero　＜普通＞\n37 04.42　bero　＜新＞\n37 33.18　bero　（若）\n37 41.16　bëro　このそはほとんどーに近い\n37 52.53　[bero]　＜ち＞\n36 99.55　ヨダレ、ゲロ　（某位につつ）\n\n（手書き注記や小さい括弧内の説明あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03186.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03186",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03186.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3757.07",
+      "3760.58",
+      "3762.42",
+      "3778.00",
+      "3781.49",
+      "4609.59",
+      "4639.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-87\n質問番号 地図番号 (11)\n項目名 よだれ 015\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] (5)\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n3757.07    jodare <赤ん坊のたらすもの。上品なことば>  bero <牛のたらすもの。古いことば?>\n3760.58    bero  ヨタレとはいわない。\n3762.42    bero  [ベロタラシ]  [ベロカケ] よだれかけ\n3778.00    ベロ  (---タラシ)  2ワケ\n3781.49    bera  046と同じに\n4609.59    gero  (はむれかけは gero kage という)\n4639.69    godare  <垂らすもの>  (go = nyo)\n          awa  <口に泡になってたまっているもの>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03187.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03187",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03187.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈 〉( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 31-86 質問番号 地図番号 119 項目名 よだれ 045 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (6) 見出し: 地点番号 / A 言形とその注記（B・C除いた言形とその注） / A 注のない言形（B・C 残した語形とその注） 行メモ: jwdare 〈新〉〈上〉 | jodare; jodare 〈古〉; edari 〈古→現〉; juzum（古い語で今も使う）| jodare; edari 〈古〉 | jwdari; judzu 〈古〉 | jodare; juzum 〈希〉（…今は稀に用いる）| jwdare; [jondare]（普通） | [jodare]; jondare 〈上っ〉 | jodare",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03188.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03188",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03188.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-89\n▶ A・(B)・(C) ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）は該欄にする。\n質問番号 119 / 項目名 よだれ 045\nA 普通注記（B 除いた共通語）（C 除いた特殊語）\n地点番号｜A 語形とその注記（B・C 欄いた語形とその注）｜A 注のない語形（B・C 異した語形とその注）\n yodare 「[gj] は平有声の[j]」｜judare\n jodare ＜b＞\n ハダレ ＜b＞｜ヨダレ\n ヨーダレ・yodare という語を一つある。\n jodai  o= 狭い末。ヨダレ\n edo ＜b＞｜judari\n ヌド ＜b＞｜イト\n bero ＜ここらへんのことをもう一つの bero という＞｜jodare\n jodare  r=強鼻\n ウラタレ（しだれは語源）分類2-b",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03189.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03189",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03189.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5588.78",
+      "5598.67",
+      "5602.99",
+      "5613.33",
+      "5613.53",
+      "5614.62"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 31-90\n質問番号　地図番号　119\n項目名　よだれ　045\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(8ページ)\n\n地点番号　A 語形とその注記〔B・C 除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\n\n5588.78.　エト:　<<他・希>>　　　　　　　ヨド:\n5598.67.　エト:　<<ミカ>>\n　　　　ヨド:　<<共>>\n　　　　つバケ（つばけならすのように使う場合もある）\n5602.99.　udare　<も>　　　　　　　　　　edare\n　　　　jodare --- <これを最も多く用いる。>\n5613.33　edare　<も>　　　　　　　　　　jodare\n5613.53　jodare　<もっと年をとった人は jodari という。>　jodare\n5614.62　judare　（新）　　　　　　　　edare\n　　　　(jwadare kake という時はこれを...)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03190.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03190",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03190.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料再用紙 記録一覧 31-91\n質問番号／地図番号 119\n項目名 よだれ 045\nページ (2)\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉( ) [ ] は厳密にする。\n\n用いる。ただし、はじめこの複合語を言うってーはない。はじめ独立の jodare という語を言ってた。\nedari ＜上く？＞\nedari を上品な語と説明した。どうであろうか？\n\njoidare.\njozum ＜軟く＞＜上く＞\njodare. ＜他には広くは用い、juzu という語を用いる＞\nedari ＜B＞\n右欄: jodare",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03191.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03191",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03191.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5635.65",
+      "5636.74",
+      "5642.31",
+      "5644.74",
+      "5645.89",
+      "5648.13",
+      "5649.53",
+      "5653.60",
+      "5654.94",
+      "5655.57"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく　><　[]　は厳密にする。 日本言語地図資料用紙注記一覧 資料番号　地図番号　119 (A)普通注記　(B)除いた共通語　(C)除いた特殊語　ページ 31-92 項目名　よだれ　045 地点番号　A　語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C残した語形とその注〕 5635.65　ユダレ（共）　ヨダレ 5636.74　ユダレ＜お＞　ユダレ 5642.31　judare＜上＞　jodare 5644.74　ユダレ（共）　 5645.89　ユダレ＜な＞　ダレ 5648.13　idare　いは少しはか横にひろがる。 5649.53　ユダレ＜も＞　 5653.60　judare＜命＞　edare 5654.94　ユダレ＜も＞　ユダレ 5655.57　ユダレ（共）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03192.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03192",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03192.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5657.06",
+      "5657.73",
+      "5666.10",
+      "5666.18"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。 日本言語地図資料用紙注記一覧 31-93 資料番号 地図番号 119 項目名 よだれ 045 A 普通注記 [B] 除いた共通語 [C] 除いた特殊語（(11)） 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C残した語形とその注） 5657.06 ユダレ <む> 5657.73 ツハ (共) 5657.?? ユタレ (共) 5666.10 ヨタレ (タワ) 5666.18 ユタレ (共) 56 71.94 jodo <希> 56 78.86 ヨダレ (オタス) 56 96.54 judare <普通にはこちらを使う> 57 01.25 judare <左のことばは、使ったことはない> 57 11.85 judare <くろう> 右欄注記: ユダレ jodare jodare jodare",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03193.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03193",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03193.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6349.09",
+      "6349.67",
+      "6359.38",
+      "6359.62",
+      "6386.66",
+      "6403.62",
+      "6416.09",
+      "6412.21",
+      "6413.10",
+      "6415.23"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 31-94\n質問番号　地図番号　119\n項目名　よだれ　045\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞＜（）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n62-67.84　jodap　<t>　jodat\n6349.09　tsumzu　<ち, す>　jodare\n6349.67　いスー　<t>\n6359.38　いスー　ち,「つ」コーはない　ヨダレ\n6359.62　い　（希.も）→うろうる、つスらん？　ヨオダリ\n6386.66　toro　--〈親しい人には使う〉　jodare\n6403.62　tji　（ち）\n　　　　gobozi　（ち）\n6416.09　ヨダレ　（ヨダレとヨトゥとニつ）（書い方がある）\n\n6412.21　tsitare　<ち>　jodare\n6413.10　tsji　（コホスベは用いないよし）\n6415.23　jo:dare　（最初はヨタレと言った）\n\n（注：手書きの語形・注記をおおまかに転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03194.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03194",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03194.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6417.72",
+      "6419.09",
+      "6419.25",
+      "6420.34",
+      "6421.26",
+      "6421.99",
+      "6422.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-95\n質問番号　地図番号　(119)\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (13)\n項目名　よだれ　045\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6417.72    jodo    アクセント ラトー\n6419.09    ヨオタリ    <む>    ヨダレ\n6419.25    ヨオタレ    <共希>    ヨオタリー\n6420.34    サ    <タレル＝よだれをたらす>\n6421.26    コボコー    (牛蒡状の嘘？)\n6421.99    tʃi, gobodzi　(＝二つの区別は不明)\n6422.16    コンボレ    <む>    <太いよだれ>\n\n(これは少し年令のすすんだ者に言ったのではないか？　千夢峰)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03195.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03195",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03195.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6423.75",
+      "6424.20",
+      "6423.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-96 質問番号 地図番号 119 項目名 よだれ 045 (A 普通注記) (B 除いた共通語) (C 除いた特殊語) (14)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6423,23　gobozū　... 寝ていてねんねの時　tsū\n6423.75　tsū　大人も子供も牛もすべてに用いる\ngobozū\n6424.20　tsū　＜大人にも幼児にも言う＞\n＜ne 2ū tateru＞\n寝てスタル/は寝てよばれるをひらすこと\ngobozū　＜稀＞\n＜大人のも幼児のもろう、但し長いよびんを言う。＞\n（コボズーは私が聞いたら答えとも。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03196.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03196",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03196.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6424.89",
+      "6427.27",
+      "6429.15",
+      "6430.53",
+      "6432.22",
+      "6434.59"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。 ・その中での情報は地点番号順に並べる。 ・注記のく > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 31-97\n質問番号／地図番号 (119)\n項目名 よだれ 045\nA 普通注記 (B 欠いた共通語) (C 欠いた特殊語)\nページ (15)\n見出し: 地点番号／A 語形とその注記［B・C 欠いた語形とその注記］／A 注のない語形［B・C 欠いた語形とその注記］\n6424.89: jodare／湯原町… dzubu／〔子供の時 … というが、大人や年とった人にはヨダレ〕\n6427.27: jodare\n6429.15: ヨダタレ ＜くち＞ ／ ヨダレ\n6430.53: イラスー／ヨダレ ＜軟…＞\n6432.22: ツ／いらタカシナル；（はなんもいら（といわれる））／ココ、…\n6434.59: ヨダ… ＜くろ＞／＜ヨダ…はよ（浅いワラバ…）＞ ヨダレ",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03197.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03197",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03197.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6441.71",
+      "6450.45",
+      "6451.14",
+      "6452.83",
+      "6457.51",
+      "6460.10",
+      "6472.02",
+      "6482.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 31-98\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n（右上）\n資問番号　地図番号　119\n項目名　よだれ　045\nA 普通注記　　B 除いた共通語　　C 除いた特殊語　　ページ（16）\n\n表見出し：\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　　A 注のない語形［B・C 残した語形とその注］\n\n手書き注記：\n（ヨダレしの脱さんた形。）\nよだれかけをワタレという。\nワスー　＜ワスーダス、ワスークルと言う＞\n（寄　いつタレル）　ヲオタレ。\n＜ワウタシトル＞　ヨタレ、ヨオタレ\nju:dare　＜新？＞　jodare\nju:i.dare　＜古＞　jodare\nヨダレ　＜ヨダレコホス＞　ヨダレタレル\njoidare\n↓　（はれを流すことは＜jo:dare＞）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03198.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03198",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03198.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6485.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-01\n質問番号　地図番号 119\n項目名　よだれ\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語) (17)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nkuru ->\nよくよだれを流す者は <jo:dare>\n(ku~ru という由。)\n夕行をう行に発音するのは\n名産津の名物といわれた。\n若い者にはむろん少なくなりつつある。\nコンメクラサイというのはやまっと\n名産津者である。\n\njodare　<jodare kurun> という。\nヨタレ。ヨタレ長音は、竹滑　長音にあり？",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03201.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03201",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03201.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6539.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32.02\n質問番号 地図番号 119\n項目名 よだれ 045\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  (18)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n「用羽」等の場合の２モーラ的部分と異る。発音表図も異なっている様である。\n65 12.14.2  （5）    jodare\n65 17.50.  2ト:  ＜希＞   ヨタレ\n65 19.43  2ト:  ＜普通使用する。＞   ヨタレ\n6539.12.  jodo  ＜牛の場合は jodare＞\n65 42.71  jorare  ＜地＞   jodare\n65 47.67  jodare  ＜よく使う＞\njodo  ＜や＞下の方の言葉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03202.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03202",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03202.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-03\n質問番号　　地図番号（11）\n項目名　よだれ　045\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（19）\n- A・[B]・[C]ごとに別紙を使用する。\n- その中での情報は地点番号順に並べる。\n- 注記のく＜ ＞( ) [ ] は徹底にする。\n表見出し：\n地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n内容：\n65 57.14.  jodo 〈jode〉という人もあるが、そんなにちがわない。\n65 57.54.  jodare 〈jodoは土地言葉でない〉\n65 83.93.  jodare　dの破裂はあまり弱い。zにやわめて近い。ある人は jodate というともいう。\n65 84.90  zu: 〈B〉　右欄: jodare\n65 85.83  jodare（judare とも言う。）\n65 93.98  tsu:（なんでもない、ということ。［tsu:（darasu）という。］）\n66 13.07  エダレ。〈B〉　右欄: ヨダレ。\n66 39.43  jodare（海藻性がある〈上〉）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03203.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03203",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03203.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-04\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく<>()[]は厳密に守る。\n質問番号／地図番号 117\n項目名 よだれ 045\nA 普通注記　ページ(20)\nB 除いた共通語\nC 除いた特殊語\n見出し：地点番号／A 語形とその注記（B・C除いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n1) jondare　卒　｜　jodare\n2) jodo　<b>　｜　jodare.\n3) jondare　<俗>　｜　jodare\n4) jondare　<ら>　｜　jodare\n5) jodal.　(口形は jodalu)\n6) jodare　(伊崎ハ jodari)\n7) フタイ　｜　スターレ\n8) jorai　(この島 r-a の軟的が多い)\n9) judare　<ら>　｜　jodare\n10) jodare (e)　「e」を付けばは、jodabba.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03204.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03204",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03204.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7301.67",
+      "7302.87",
+      "7303.17",
+      "7303.75",
+      "7320.59",
+      "7321.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 32-05\n質問番号 地図番号 111 項目名 よだれ 045 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (2/)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7301.67  jodare (d' = d e? 中間音… 弾かーたりない！)\n7302.87  joda  <joda kuru>の様にえ, (reを発音しない) [※若も jodaderu という]\n7303.17  jodare  再度何の発音　edare\n7303.75  jodare (よば) 今製では\n7320.59  jorare kuru　kuruは省略。 (ヨダレら混音である。)\n7321.93  ヨタレ (ヨタレっ混音)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03205.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03205",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03205.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7322.81",
+      "7323.17",
+      "7326.41",
+      "7329.39",
+      "7329.57",
+      "7331.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 32-06\n質問番号　地図番号　119\n項目名　よだれ　045\nA 普通注記　(○Aにチェック)\n[B 除いた共通語]\n[C 除いた特殊語] (22)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n7322.81    jodare (ku~ru)\n7323.17    jodare o kuru    kuruは有略。\n7326.41    edare 「まれをむらす」は edarjukuru\n7329.39    jodo.  <幼児のを見て、jodo o kobojitomu jodare などといり。>\n7329.57    jodare  (jodare kuru, jodare kuri)\n           (話の中ではしばしば jodore と) 発音されいる。\n7331.27    jodare (daとかにえ?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03206.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03206",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03206.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7332.97",
+      "7338.48",
+      "7338.55",
+      "7341.51",
+      "7347.55",
+      "7349.07",
+      "7349.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 32-07\n質問番号　地図番号　119\n項目名　よだれ　045\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (23)\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\njudare　〈コダレ フルワの様に云う。〉\njodare.　（三崎半島から以南のせせつは jw:dare, judare が多い。）\njw:dare　〈B〉\njodai　〈B〉\njudai　〈B〉\nedare　〈下〉\njw:dare　〈くろりんは jw:dare-muri〉\njudare　〈くまれを渡す“は”は jw:dare ...〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03207.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03207",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03207.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7350.21",
+      "7351.09",
+      "7352.38",
+      "7357.64",
+      "7375.86",
+      "7394.60",
+      "7403.21",
+      "7403.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧      32-08\n資料番号　地図番号　117\n項目名　よだれ　045\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2-4)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n7350.21.  ２ダレ　〈新〉\n7351.09.  ju:dare　（著）\n7352.38.  joidare（kuru） kuruは有時\n7357.64.  judare（〜をたらす）＝judare kuru\n7375.86.  edare　〈F〉　jodare\n7375.86.  jodare　jodareの「り」は弾音にある。\n7394.60.  ２ダレ　〈やらち〉　３ダレ\n7403.21.  jodare　よだれを流す語は\n　　　　〈jodare kuruという。〉\n7403.86.  joidare　（C）joidare kumu などという（物）。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03208.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03208",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03208.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙・注記一覧 32-09\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<>()[]は族称にする。\n質問番号 ／ 地図番号 119\n項目名 よだれ 005\nA 普通注記（ページ 24）\n見出し：地点番号／A 語形とその注記［B・C 欠いた語形とその注記］／A 注のない語形［B・C 残した語形とその注記］\n行内容（語形と注記の大意）:\n- jodare. 〈jodare を…（話していることを）／jodare kuri ni、jodare nagasu・toru ということもある〉 の類の注記。\n- jodare  むれるを流すは〈jodare o〉 … の意。\n- jodare  コダレとも言う〈jodare kurum／kuri〉 などとも。\n- jo’dare  〜はこくすか？（右欄：jodare.）\n- jodare  〈jodare o 流すこと〉 などの記述。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03209.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03209",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03209.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7430.75",
+      "7431.08",
+      "7431.82",
+      "7440.69",
+      "7451.22",
+      "7501.14"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 32-10\n質問番号 地図番号 119\n項目名 よだれ 045\nA(普通注記) [B 除いた共通語] [C 除いた特殊語] (26)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C残した語形とその注]\n\n7430.75    ju:dare    jodare kumuieis.)\n7431.08    jo:dare    (<! jo:dare kuri > も答え.)\n7431.82    ju:daru    <ju:daru kumuieis.>\n7440.69    judare    (しば) judare を kuri-jomu -> jodare\n            a を jodare - kumuieis.\n\n( ) {joidare / ju:dare} といふ方言\n\n7451.22    ju:~dare    <b>\n7501.14    ﾜﾗ?    <b>    jo:dare ヨシレ\n\n(手書き注記とローマ字表記を含む。文字は不鮮明な箇所あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03210.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03210",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03210.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-11\n質問番号／地点番号 119\n項目名 よだれ 045\nページ（27）\n地点番号｜A 語形とその注記［B・C 除いた語形とその注記］｜A 注のない語形［B・C 残した語形とその注記］\nA・(B)・(C) ごとに別紙を使用する。／その中での情報は地点番号順に並べる。／注記の＜ ＞（ ）［ ］は厳密にする。\nづう　〈左〉\n「よだれをならす」は [tsui: tarasu] をいう。大もとの「よだれ」だが「tsui:」とは言わぬ。\n〈づうフルは両方向に用いる。牛には用いない。〉\njodare\nづう\nづう　〈B〉　ヨダレ\njudare（〜を垂らす＝judare kumu）\njudare …（方言）　jodare\ntsut〔む〕　judare\njudare（/judare/ ……），jodare",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03211.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03211",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03211.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-12\n質問番号／地図番号 119\n項目名 よだれ 045\nページ (26.)\nA・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に記入する。 注記の＜ ＞( ) [ ] は厳密にする。\n見出し: 地点番号 / A 語形とその注記（B・C除いた語形とその注） / A 注のない語形（B・C 残した語形とその注）\n記入例:\n- judare (okuzi?) 今東では okuzi は省略。\n- idare  r は少し弱い。\n- jedare （jodare or judare のちがいではない）。\n- jedai （動詞は kuru）。\n- jodare  jodare o kuru。\n- kutsi jiru （Daitō 義）。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03212.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03212",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03212.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。▶ その中での情報は地点番号順に並べる。▶ 注記のく<>（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 32-13\n質問番号 地図番号 119\n項目名 よだれ 015\nA 普通注記（B 欠いた共通語）（C 欠いた特殊語） ページ（1）\n表欄見出し: 地点番号 / A 語形とその注記（B・C 除いた語形とその注記） / A 注のない語形（B・C 残した語形とその注記）\n行内容（概略）:\n18 48.24 jodare（上品） | bero\n36 88.82 yodare（軟） | gero（普通）\n46 75.45 jodare〈若〉—（やつ改まった場合） | edari〈古〜現〉\n46 76.67 jodare〈方・年〉 | jo:dzi\n46 86.86 jodare〈方〉 | jo:zu\n55 69.02 ヨダレ（赤） | イカ\n55 69.36 ヨダレ（赤） | ヨカ〈他〉\n55 98.27 ヨダレ（赤） | イト\n55 79.29 ヨダレ（赤） | エト",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03213.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03213",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03213.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5598.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 32-14\n質問番号 地図番号 (119)\nA 普通注記  B (除いた共通語)  C (除いた特殊語) ページ (2)\n項目名 よだれ 045\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5598.67　ヨダレ　<共>\n　44.　(チチならすのように使う場合もある)\n　エド・<くわか>　ヨド・<共>\n　(いつハケ、いつハケならすように使う場合もある)\n\n56 41.07　jodare　<共>　　　edari\n56 49.53　ヨダレ　<新>　　　ヨダレ　<も>\n56 53.65　jodare　<希>　　　edare\n56 57.06　ヨダレ　<新>　　　ヨダレ　<も>\n56 80.98　jodare　<共>　　　jodo\n56 84.11　jodare　<希>　　　judare",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03214.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03214",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03214.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-15\n質問番号 地図番号 119\n項目名 よだれ 045\nA 普通注記  B 欠いた共通語  C 欠いた特殊語  ページ (3)\nA・B・Cごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）は厳密にする。\n見出し: 地点番号 / A 語形とその注記（B・C除いた語形とその注記） / A 注のない語形（B・C 失った語形とその注記）\n記入例の本文:\nヨダレ（共）  ユダレ\njodare ＜奈＞  judare ＜よつう＞\nヨダレ ＜軟＞  ウスー ＜6＞\nヨダレ ＜軟呉＞  ヨドー\njodare ＜上品＞ ＜音から聞いた？＞\nヨダレ ＜朱希＞  ヨオダレ\nヨダレ ＜共＞  ヨト、",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03215.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03215",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03215.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6517.31",
+      "6526.04",
+      "6559.22",
+      "6582.73",
+      "6601.93",
+      "6604.60",
+      "6632.88",
+      "6641.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞(　)(　)[　]は厳密にする。 日本営語地図資料用紙 注記一覧 32-16 質問番号 地図番号 119 項目名 よだれ 045 A 普通注記 (B) 除いた共通語 (C) 除いた特殊語 (ページ4) 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 6517.31　ヨダレ　＜共＞　ヨド 6526.04　ヨダレ　＜共＞　ヨト 6559.22　jodare　＜共＞　jodo 6582.73　ヨダレ　＜共＞　ツウ 6601.93　jodare　＜新,共＞　jodo 6604.60　ヨダレ　＜共＞　エダレ 6632.88　jodare　奉?　jodo 6641.39　jodare　新　jodo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03216.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03216",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03216.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-17\n質問番号  地図番号 (119)\n項目名 よだれ 045\nA 普通注記 / B 除いた共通語 / C 除いた特殊語\nページ (5)\n\n・A・B・C ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜ ＞（ ）は厳密にする。\n\n表見出し: 地点番号 / A 語形とその注記（B・C 除いた語形とその注）/ A 注のない語形（B・C 残した語形とその注）\n\n行の内容（概略）:\n1) jodare 〈軟〉 → jodari\n2) ヨダレ 〈共〉 → いづ\n3) ヨダレ 〈夷〉 → いづ\n4) ヨダレ 〈夷〉 → いづ\n5) ヨダレ 〈共〉 → いづ\n6) ヨダレ 〈共〉 → いづ\n7) ヨダレ 〈軟〉 → ユダレ\n8) jodare 〈夷〉 → kutjimi'zu",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03217.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03217",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03217.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "1778.45",
+      "2712.33",
+      "3702.81",
+      "3776.97",
+      "4607.25",
+      "4666.17"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><()[]は厳密にする。 日本言語地図資料用紙 注記一覧 32-18 資料番号 地図番号 119 項目名 よだれ 045 A 普通注記 [B] 除いた共通語 (C) 除いた特殊語 ページ (1) 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注] berotara; <聞く> | yodare ヒロ. 古. (今は使う) ヨンダリ 新 joːdare <上> --の感をする | biro ユダレ ユダレ joːdare [新] | gero [jmzwkw] (手書き) (備考) 島児町生んで40才位、20年位前より j wadare 居住経歴のある役場史員の某人が発言し、被調査者も認めた。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03218.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03218",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03218.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6427.27",
+      "7303.25"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< )( ]は厳密にする。 日本言語地図資料用紙注記一覧 32-19 質問番号 地図番号 119 項目名 よだれ A 普通注記 [B 除いた共通語] (C 除いた特殊語) ページ (2) A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] jodal (…風のいいかもしれし。) jodaru ヨオシ？ スフー tʃi:tʃi jodare (子供の時、4才とかが 大人や年などのよだれはヨダレという) kimizu jodare（は?笑）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03219.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M119Q045/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03219",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03219.tif",
+    "source_ljc_id": "LJC-M119Q045",
+    "source_map_numbers": [
+      "119"
+    ],
+    "source_title": "よだれ (涎)"
+  }
+]

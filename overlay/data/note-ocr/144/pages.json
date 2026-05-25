@@ -1,0 +1,1183 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0894.61",
+      "1793.14",
+      "2754.11",
+      "2763.28",
+      "2772.05",
+      "2794.85",
+      "3619.08"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-50\n質問番号　地図番号　144\n項目名　竹馬　083\nA　普通注記　[B]　除いた共通語　[C]　除いた特殊語　ページ (　)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n表ヘッダ：地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き注記（地点番号列は除く）:\ntakemma <もとは何とかいったか忘れた>\nタケンマ　*タケンマ　(いい直した ケを 幾分 ケに近い)\nkimma <竹がなくて 木で作るから>\nNR <忘れた>\nanse < ? >\ntagahasi (tagaasi ではないかと何回返したのに対して、ほんとうはそう言うべきだろうが自分は tagahasi と言う、と答えた。)\n[ašūko]\n(末尾に小さな注記と記号 DK)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04150.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04150",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04150.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3649.16",
+      "3700.19",
+      "3701.37",
+      "3712.15",
+      "3721.30",
+      "3726.21",
+      "3730.43",
+      "3736.58",
+      "3740.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-51\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞（）[ ]は厳密にする。\n質問番号　地図番号　144\n項目名　竹馬 083\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2)\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き記入（地点番号省略）:\n gandoasi　gandoは「泥棒」のよし、足音をたてぬためにこれをはくトイウ。\n <稀> garantfo　　 tagaasi\n <古> garantfo\n takaasida <自分は幼時 これは使った>　garantfo\n kiasì (昔) , tagaasi (今)\n タガアス <木製>\n gando asi　gandoは「泥棒」のことのよし。kiasi\n タガアス <木製>\n bikko asi ？少し不明確なところあり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04151.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04151",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04151.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3741.16",
+      "3744.33",
+      "3745.62",
+      "3753.85",
+      "3753.88",
+      "3754.13",
+      "3754.76",
+      "3763.17",
+      "3771.97",
+      "3777.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-52\n質問番号　地図番号　/144\n項目名　竹馬　083\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (3)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n[saɴjeaʃi] eは狭いe　sa'nyaʃi\nアスタガ　<古>\nアサゲ　(木製)\nタケンマ　<木でつくる>\nタカアス　(木製・竹なし)\n? キンマ\nアスタガ　<竹がないので 木でつくる>\nタガアス　(木製)\nsánasi　<踵足の縮約>\nアシカゲ　(古)　タケウマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04152.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04152",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04152.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3777.86",
+      "3795.33",
+      "4609.25",
+      "4619.29",
+      "4619.63",
+      "4638.22",
+      "4648.59",
+      "4658.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >( )[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 41-53 質問番号 地図番号 144 項目名 竹馬 083 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (4) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 3777.86　アスカゲ〈右〉　タケウマ 3795.33　タガンマ（・・・ノリ） 4609.25　takaasĩnda　同席者（同村 東ノ里）の使うもの　asĩndaka 4619.29　sanjeasū　［鶏足］のなまりか 4619.63　tagaafjida　〈幼児〉　tagemma 4638.22　saŋija/aji　〈シャギは鶏のことなり〉 4648.59　saŋiaji　〈古〉 4658.42　saŋiaji（saŋiajiか識別で分らないか。）」} }} PMID: None",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04153.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04153",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04153.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4666.42",
+      "4667.33",
+      "4667.76",
+      "4676.42",
+      "4676.67",
+      "4677.65",
+      "4688.45",
+      "4695.87",
+      "4695.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-54\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n質問番号　地図番号　144\nA 普通注記　ページ (5)\n項目名　竹馬　083\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4666.42 takaa fita [takaafjda] 後藤藤吉\n4667.33 ? タケンマ　＜子供の呼名（用いた）＞\n4667.76 sagyeaji （さぎあしの跳りか）\n4676.42 タケンマ（新）, ＃タカシマタ（古）\n（外に言い方はありませんが ときいた時 タカシマタを答えた）\n4676.67 ＃tagaafjida ＜若い人は tagemma と言う＞\n4677.65 tagenmma（自然な発音）\ntakemma（＝二度目の発音）\n4688.45 sageaaji ＜この方を別用する＞\n4695.87 takamma ＜今はこの語はない＞\n4695.19 ＃タカンボ（古）　今はこの遊びはない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04154.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04154",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04154.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4700.78",
+      "4701.73",
+      "4703.18",
+      "4703.88",
+      "4711.41",
+      "4712.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-55\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号\n/144\n項目名\n竹馬　083\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\nページ (6)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4700.78  takatsi  ＜道具＞\n4701.73  tagemma  ＜もとは別の言い方をしたように思うか 忘れた＞\n4703.18  kjoedatsuu  ＜稲を架けるときなど踏み台にして使うキャタ＞ ことばとしては同じである。 なお発音は /kja/ ではなく、/kje/ である。\n4703.88  tagaasi  <?> ＜古＞＜高足の字が当たる＞  takewma\n4711.41  [tagat]o\n4712.16  tagaasida  ＜竹足板の意。昔はあったか＞\n\n(以下欄外や手書き注記あり、判読困難な部分あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04155.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04155",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04155.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4712.54",
+      "4713.60",
+      "4716.20",
+      "4721.36",
+      "4723.58",
+      "4724.00",
+      "4724.75",
+      "4731.42",
+      "4731.85",
+      "4732.18"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞( )[ ]は厳密にする。 日本言語地図資料用紙　注記一覧　41-56 質問番号　地図番号　144 項目名　竹馬　083 A　普通注記 [B　除いた共通語] [C　除いた特殊語] ページ (7) 地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C　残した語形とその注] tagatʃo'　＜今の子供はしない＞ kimma　＜新＞　tagaʃi? tagamma　＜在の人は tagemma と言っている？＞ [tagatʃo] tagamma　＜雪の降ったときだけ 集る＞ tagaasi　（高足とのこと） #takemma　＜古＞　いまはもうこの遊びをしなくなった 同上 takatsui, takaaji 〈新〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04156.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04156",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04156.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4735.37",
+      "4740.26",
+      "4742.37",
+      "4742.95",
+      "4744.10",
+      "4750.32",
+      "4752.11"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-57　質問番号　地図番号　144　項目名　竹馬　083　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(8)\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n4735.37　takama　<馬というべきところを早く言う。>\n4740.26　tagaasū / tagahasū　（実際上二様に発音されるし、二様に使われるようであるが、どちらかと せんきしたら上の方を答えた。）\n4742.37　takammna　<古>〈高いがら高馬という〉\n4742.95　takasti　<古>\n4744.10　[takamma] [高いがら]\n4750.32　タガハス\n4752.11　kimma　<実物はやはり竹のものであるけれども>\n（注：手書きの日本語注記とローマ字表記をおおむねそのまま転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04157.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04157",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04157.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4752.27",
+      "4760.64",
+      "4763.65",
+      "4763.62",
+      "4772.33",
+      "4781.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-58\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n質問番号　地図番号　144\n項目名　竹馬　083\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (9)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4752.27 takaji <子供の頃 こういうものに乗ったものだか、今の子供はこんなものを使わない。これは雪の降ったとき乗って歩くものである。>\n4760.64 [tagaasü]\n4763.65 takamma これは雪の上を歩くときにだけ使うが今は雪の積ることがなくなったので使わない。\n4763.62 takamma <新> 今の子供はこの遊びをしなくなった。>\n4772.33 takemma <このように、今言うこともある。> takahasi\n4781.48 takeaji <竹足である>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04158.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04158",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04158.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4783.74",
+      "5558.33",
+      "5566.35",
+      "5568.57",
+      "5574.79",
+      "5586.70",
+      "5587.74",
+      "5589.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-59\n質問番号　地図番号　144\n項目名　竹馬　083\nA　普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ（10）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n47 83.74　taga:si　〈子どものとき使った〉　tagemma\n55 58.33　fagi　（鳥のサギ？）\n55 66.35　kimma　〈右〉　takaafʃi\n55 68.57　〈稀〉　シャガシン　サガシン\n55 74.79　taka asji　〈古〉　takemma\n55 86.70　takaafji, takemma\n　takaafjiが優先。なお take m ma であって take u ma ではないと、特にいう。\n55 87.74　〈右〉　タカシ\n55 89.30　〈稀〉　タカアシ　サガシン　シャガシン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04159.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04159",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04159.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5604.52",
+      "5609.26",
+      "5613.33",
+      "5625.91",
+      "5629.17",
+      "5631.26",
+      "5636.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-60\n質問番号 地図番号 144\n項目名 竹馬 083\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (11)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5604.52　*takamma (初め、takemmaと答え、訂正した)\n5609.26　takemma <新しい>\n5613.33　takemma (=三回の発音)\n5625.91　takamma <昔から用い、今も用いる> [takamma]\n5629.17　タカンマ <多く使う>　タケウマ\n5631.26　saynafi <古><! オヤジにねだるころのことば>　takemma\n5636.74　タケウマ <新>　タケンマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04160.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04160",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04160.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5641.07",
+      "5641.94",
+      "5641.99",
+      "5644.24",
+      "5644.74",
+      "5648.96",
+      "5651.95",
+      "5652.81",
+      "5655.41"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 41-61\n質問番号　地図番号　144\n項目名　竹馬　083\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (12)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5641.07　sanye:ji　＜古＞　takeuma\n5641.94　sanja:ji　＜古＞　同上\n5641.99　taˑkaaši　＜も、いくつか聞いたことがある＞　taˑkemma\n5644.24　takafi　＜竹馬ということだろう＞　taˑkemma\n5644.74　タカアシ　＜古＞\n5648.96　エイキ アシダ → 老人が多く言う。\n　　　　タカウマ → 子供が多くいう。\n5651.95　sanye:ji　＜古＞\n5652.81　[sanya:ji]　takeuma\n5655.41　タカシ　＜タケアン トユワケダネ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04161.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04161",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04161.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5659.78",
+      "5661.68",
+      "5661.89",
+      "5663.64",
+      "5665.46",
+      "5665.89",
+      "5668.88",
+      "5669.19"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞( )[ ]は厳密にする。 日本語語地図資料用紙 注記一覧 41-62 質問番号 地図番号 144 項目名 竹馬 083 A 普通注記 ページ ( /3 ) [B 除いた共通語] [C 除いた特殊語] 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5659.78 タカアシ 〈古くからの言い方で 今でも時に言う〉 5661.68 sanyae;si 〈古くから使っていた。今はこのものがない〉 #takeuma 5661.89 sanyae;si 〈サンが返してあるから〉 (サザ泥) takemma 5663.64 takauma 〈希〉 jukigeta 5665.46 タケンマ 〈右〉 タカハシ 5665.89 タカアシ 〈古〉 5668.88 サシアシ 〈古〉 5669.19 tagaha(si), tagemma 元来は tagaha(si)で tagemma こにろ 使われた したもの。 tagaha(si)は tagaafu から来たものだろうという。ただし、tagaasiという形はない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04162.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04162",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04162.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5671.00",
+      "5671.38",
+      "5671.68",
+      "5672.52",
+      "5672.75",
+      "5675.87",
+      "5676.84",
+      "5677.60"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-63\n質問番号　地図番号　144\n項目名　竹馬　083\nA　普通注記　　[B　除いた共通語]　[C　除いた特殊語]　ページ（14）\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n5671.00　sanji (sajia からの転)\n5671.38　sanj e:ji　〈希、昔は茎に使った〉　takeuma\n5671.68　sannye:ji　〈この地方 竹ないゆえに しゅ? (ネズミサン)という木にて作る〉\n5672.52　saynnaeji　〈右〉　takeuma\n5672.75　sannaeji　〈右〉　sanne:ji〈右〉　takeuma\n5675.87　タケンマ……　普通\n　　タカハシ……〈昔〉被調査者の子供の時。\n5676.84　タケンマ　〈固定教科書以来のことば〉　タカアシ\n5677.60　タケンマ〈＝　ノル〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04163.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04163",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04163.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5678.33",
+      "5678.86",
+      "5679.86",
+      "5680.34",
+      "5680.98",
+      "5681.41",
+      "5682.34",
+      "5682.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-64\n質問番号 地図番号 144\n項目名 竹馬 088\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (15)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地 点 番 号\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nシャキアシ (タケンマは別の遊びの名称)\nシャケアシ [この坂は タケンマとも言う] 未着\n\nタカアシ 〈壱として使う〉 タケンマ\n\nsanyeaʃi takemma (荒) sanjeʃi ~ sanjæʃi\n\ntakatʃi 〈蟻のことを takatʃi という〉\n\ntaka-aʃi 〈ていねい〉 takasi\n\ntakasi 〈木で作った〉\n\nsanye:ji 〈昔から〉 takeuma\n\nsanyaetʃi 〈子〉 takasi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04164.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04164",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04164.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5689.10",
+      "5690.27",
+      "5696.68",
+      "5699.25",
+      "5710.84",
+      "5712.70",
+      "5741.66",
+      "5750.84",
+      "5751.89"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-65\n質問番号　地図番号　144\n項目名　竹馬　083\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (16)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5689.10  sanyeji 〈聞く。春日部中心部〉     takaji\n5690.27  takaasji 〈希〉                      takaji\n5696.68  takaa:ji 〈古くからの語で多く使う〉\n5699.25  sayeaji 〈古〉                       takemma\n5710.84  タカハシ 〈古〉\n5712.70  takemma  （このごろほとんどなし）\n       [takaaji][takaは竹, 高ではない]\n5741.66  takaāji 〈takaは竹でなく、高いという感じ〉\n5750.84  タカシ 〈古くからの言い方であり現在も多く使っている〉\n5751.89  takemma　語　takaajiも聞いたことはある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04165.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04165",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04165.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5780.57",
+      "5782.32",
+      "6287.71",
+      "6338.99",
+      "6376.33",
+      "6407.43",
+      "6408.72",
+      "6409.72"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-66 質問番号 地図番号 144 項目名 竹馬 083 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (17)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nA欄: jtiga(ji) <古>    対応: tagemma\nA欄: takaa ji <これを多く使う>    対応: takemma\nA欄: jukgumi （雪踏みで作るという本人の語注解釈である。） juki gumi ではない。\nA欄: [タカアシ] <右>    対応: タケウマ\nA欄: asidaka <古>\nA欄: サンガチ <今頃はサングチに葉る遊びは稀である>\nA欄: sa'ggatji <古>    対応: takeuma\nA欄: サンゲアアチ <古>\n（注：手書きの英字表記・注記は読み取りのままを記載。）」}းณ์ woensdag. ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04166.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04166",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04166.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6411.80",
+      "6414.17",
+      "6415.83",
+      "6417.14",
+      "6418.75",
+      "6419.25",
+      "6419.50",
+      "6424.92",
+      "6426.04"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　41-67\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n質問番号　地図番号　144\n項目名　竹馬　083\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(18)\n\n（表見出し）\nA　語形とその注記　[B・C除いた語形とその注]\nA注のない語形　[B・C 残した語形とその注]\n\nタカセ　<古>　　　タケンマ\ntakaaji　<古・多>\ntakahaji　<今は言わない>　　　takewuma\nsangatji　<古>\nサンガイシ　<古>，サングァアシ<古>\nサケアシ　<古>\nサンアアティ　<古>\nタカハシ　<新>　　　タカアシ\nsanyenji　(山下先生が川で言ったので思い出してくれた語。昔使っていたらしい。)　takemma",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04167.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04167",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04167.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6429.15",
+      "6429.61",
+      "6439.17",
+      "6440.25",
+      "6446.05",
+      "6446.69",
+      "6447.08",
+      "6447.39",
+      "6415.80"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞( )[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　41-68\n質問番号　地図番号　144\n項目名　竹馬　083\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (19)\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n各行（地点番号は上に記載）:\nサガシ　〈古〉\t\t\tタケンマ\nサンヤシ　〈古〉\t\t\tタケンマ\ntakemma　（上等のものは屋根を葺くのに使ったスス竹で作ったものだ。）\t\t\tタケンマ\nタカアシ　〈古〉\t\t\tタケウマ\nタカアシ　〈普〉\t\t\tタケンマ\n？タカアシ\t\t\t#タケンマ\ntaka〉j takemma は にいう。\ntakaaji 〈古〉, takemma 〈多〉\n\n（下段注記）\n(takemma)（若い男25才位のがいて今はタケウマと言うとのことだった。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04168.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04168",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04168.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6455.27",
+      "6457.45",
+      "6467.73",
+      "6470.11",
+      "6479.51",
+      "6485.30",
+      "6487.66",
+      "6494.21",
+      "6498.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉［］は厳密にする。\n日本言語地図資料用紙 注記一覧 41-69\n質問番号　地図番号　144\n項目名　竹馬　083\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　ページ（20）\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\nタカアシ　<こるをよく使う>　タケンマ\nサンコシ　<古>\njukigeta ① takemma\nta'kaaji <古> ta'kemmma\ntakemma　には単に mma といった\nタケンマ　<阿護山脈の山がかったよその方ではユキアシという。>\nタカンボ　<タカンボ＝ノッテ アツブ>\nユキアシ <古>, タケアシ <新>\naruki (幼児) takemma",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04169.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04169",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04169.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6523.06",
+      "6524.66",
+      "6537.06",
+      "6539.12",
+      "6551.52",
+      "6553.22",
+      "6553.99",
+      "6562.48"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-70\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n（右上）質問番号　地図番号　149　項目名　竹馬　083　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2/)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n65 23.06  tjokko 〈ちょこちょこ歩くところから〉\n65 24.66  sanyagi 〈踏足の略である〉\n65 37.06  takeaji 〈上〉　　　　takemma\n65 39.12  ju'kidake 〈も〉\n65 51.52  タケウマ　（最初 takemma と聞えたので再聞したら <takeuma>。しかしこの地方では前者が多い。）\n65 53.22  jukiaji（アクセントは「ユキアシ」）\n65 53.99  同上（「ユキアシ」）\n65 62.48  ユキアシ〈古〉〈今の･･･〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04170.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04170",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04170.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6574.52",
+      "6581.68",
+      "6582.48",
+      "6583.45",
+      "6584.90",
+      "6600.97",
+      "6610.77",
+      "6611.68"
+    ],
+    "other_text": "▲ A・[B]・[C] ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 41-71\n資問番号　地図番号\n144\n項目名\n竹馬 083\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(22)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6574.52 takemma (「タケウマ」)\n6581.68 タカアシ　<タケウマは竹棒の先に馬の首をしたものをとりつけたもので、この棒にまたがって遊ぶ。いまはない。>\n6582.48 takahaji takemmaは…\n6583.45 takaaji (「タカアシ」)\n6584.90 kakemma, takaaji\n6600.97 [takaaji] <takaaji が takai に変わったのだ。>\n6610.77 takaaji <雪の時などに遊ぶ>\n6611.68 takahaji [隣村の和田では takamba (ira) takeuma]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04171.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04171",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04171.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6620.49",
+      "6621.57",
+      "6627.12",
+      "6630.82",
+      "6634.07",
+      "6635.36",
+      "6643.16",
+      "6645.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-72 質問番号 地図番号 144 項目名 竹馬 083 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (23) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6620.49 takeaji ? ......[takeuma] 6621.57 binyuuji 新 takambaʃi 6627.12 takaʃi (新形であろう) -takaafi! 6630.82 takemma 門松の足になっている竹を利用して作る 6634.07 takeaji 希 taka:ji 6635.36 taka:ʃi 多 takahafi 6643.16 junkiaji 新 近頃子供らがいうので言うように なったという sayeaji 6645.62 jukiaji <竹ウマは竹で作った馬、首も胴も 見竹を使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04172.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04172",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04172.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6649.13",
+      "6649.28",
+      "6650.12",
+      "6657.54",
+      "6667.81",
+      "6701.46",
+      "7238.82",
+      "7246.45"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞( )［ ］は厳密にする。 日本言語地図資料用紙 注記一覧 41-73 質問番号 地図番号 144 項目名 竹馬 083 A 普通注記 ページ (24) [B 除いた共通語] [C 除いた特殊語] 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6649.13 kakemma 〈新〉     bo:aji 6649.28 bo:aji 〈右〉     takemma 6650.12 jukiasi 希     同上 6657.54 aibi （「あゆみ」か？） 6667.81 afjigaru 〈右〉     takeuma 6701.46 takemma （kは半濁） 7238.82 tokkotsu 〈家中ことば〉 tonkotsu 〈町ことば〉 7246.45 mmageta 同島根の浦では jukgeta という。juk? は雪。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04173.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04173",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04173.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7249.35",
+      "7249.95",
+      "7259.98",
+      "7268.87",
+      "7275.07",
+      "7275.84",
+      "7279.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-74 質問番号 地図番号 144 項目名 竹馬 083 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (25) ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の< >( )[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7249.35 サキヤアシ [sakja:ji] (他の地方ではサキヤアシと… sagja:ji) 7249.95 サキヤアシ キャは清音 7259.98 sagja:ji ＜竹を割って作るから サキヤアシというらしい＞ 7268.87 takageta ＜足駄のことは sa] geta という＞ 7275.07 ユッゲタ (右) 7275.84 ユキゲタ (ユッゲタのほうがふつうの言い方である。) 7279.01 タケアシ (右) タカアシ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04174.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04174",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04174.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7279.93",
+      "7302.87",
+      "7303.29",
+      "7303.61",
+      "7320.59",
+      "7322.17",
+      "7322.81",
+      "7326.41",
+      "7335.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-75\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )［ ］は厳密にする。\n\n質問番号　地図番号　144\n項目名　竹馬　083\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (26)\n\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n〈古〉 takeaʃi , 〈古〉 sageaʃi\t\ttakemma\nsage aʃi i (e-i 曖昧である)\n\t\ttakem'ma 〈今頃こんな遊びをする子はいない〉\nsagjaʃi (サンギョーとはえぬと答う)\nsangja aʃi (三間足の意か?)\nsangaʃi (サギアンか原形か)\n① sangjo:ʃi\t\ttakemma\njukiaʃi 〈古〉\t\ttakemma\n- sageaʃi 〈希〉\t\tjukiaʃi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04175.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04175",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04175.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7336.54",
+      "7350.21",
+      "7350.96",
+      "7351.06",
+      "7357.64",
+      "7359.78",
+      "7423.80",
+      "7434.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-76\n質問番号　地図番号　144\n項目名　竹馬　083\nA　普通注記　ページ（27）\n[B]　除いた共通語\n[C]　除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nA欄（上から順に、地点番号は除く）:\nsageaji　＜希＞\nサギヤシ　saggasi（ギャは長音にはならぬ）\nサギヤシ　saggasi　＜希＞\nsageaji　（驚きか）\ntakeuma?　どちらも以前から使っていた　jukiaji-\n\nB/C欄などの書き込み:\njuki aji（手書き）\nシャギヤシ　{saggasi!}\n\n下段の項目:\ntakahasi（御荘や城辺ではこれが聞かれる）　＜米＞ take*m*ma\ntakahaSi? など\nakuki　＜うえわ＞\ntakem:a　＜子供などに＞\n\n（手書きの英字ローマ字表記や注記が多数あり、上は読み取れる範囲の概略転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04176.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04176",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04176.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7436.73",
+      "7440.69",
+      "7502.22",
+      "7659.40",
+      "7659.53",
+      "8303.70",
+      "8304.66",
+      "8373.43",
+      "8393.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-77\n質問番号 地図番号 144 項目名 竹馬 083\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (28)\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7436.73    a/itaka <稲>\n7440.69    takafi <taka-afi ということ dafo:na> といっていた。\n7502.22    NK <失念> <△> かもと takemma であった>\n7659.40    takauma <物が昔は なかった>\n7659.53    takeuma 最近のもの\n8303.70    サンガエシ <やや古>\n8304.66    sangeji <人によっては このように言う> sange (mma)\n8373.43    takemma (K) sangeji\n8393.69    takemma <今は使わないかつ 自分の昔使った方言 かあったように思うが 思い出せない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04177.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04177",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04177.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "9310.27",
+      "0247.56",
+      "1223.91",
+      "1242.72",
+      "1270.29",
+      "1271.05",
+      "2067.52",
+      "2076.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-78\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n質問番号 地図番号 144\n項目名 竹馬 083\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (29)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nN.R. 〈したことがない〉\nt'ahasitja 〈高アシタの義〉\n12 23.91 takazasi (?) [dahizuma　新しく入って来たのでタケウマをなまっていう]\nN.R. 〈なかった〉\n12 70.29 タケウマ（？）（英語格をそのまま答えているか？ 他に方言があると推測される）\n1271.05 #dakizemma 〈新〉\n2067.52 takimma 〈古くはない〉\n2076.25 N.R. 〈最近子供が作って乗っている。タケウマという〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04178.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04178",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04178.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "2085.69"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-79\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n\n質問番号　地図番号　144\n項目名　竹馬　083\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(30)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n2085.69    takizumma (?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04179.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04179",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04179.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "2751.10",
+      "4648.59",
+      "4663.06",
+      "4686.52",
+      "4714.22",
+      "4726.80",
+      "4731.85",
+      "4751.42",
+      "4771.92",
+      "4773.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-80\n質問番号 地図番号 144\n項目名 竹馬 083\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n2751.10  タケンンマ <新>    タカンマ\n4648.59  takemma <新>       sa'niafi <古>\n4663.06  takemma [新]       takamma\n4686.52  takemma <新>       O.F.\n4714.22  [takemmaakko] <新>  takamma\n4726.80  [takemma 新]      takamma\n4731.85  [tagemma] <新>     [tagat]o\n4751.42  tagemma <今の子供たち>  tagaasü\n4771.92  tagemma <新>       tagahafi\n4773.27  takemma <新>       takahafi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04180.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04180",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04180.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "4782.04",
+      "4794.30",
+      "5463.73",
+      "5508.19",
+      "5568.57",
+      "5569.02",
+      "5599.41",
+      "5625.91",
+      "5631.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-81\n質問番号　地図番号　144\n項目名　竹馬　083\nA 普通注記　(B) 除いた共通語　[ C 除いた特殊語 ]　ページ (2)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n(tabel rows, left column are location numbers - omitted here)\n行例（手書き）:\n tagemma <新>   \t tagahasi\n takemma <新>   \t o.F.\n タケウマ <新>  \t アシウマ\n takemma <新>   \t ajidaka\n <新> タケンマ   \t <稀> シャガシ　サガシ\n <共> タケンマ  \t サガシ\n タケンマ <共・希> \t *タカアシ\n takemma <新><共><大人になってから(用いた)> \t takamma <昔から用い 今も用いる>\n takeumma <新>  \t sanjaji san'aji\n(手書きのローマ字・かな表記や注記が続く)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04181.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04181",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04181.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5633.45",
+      "5644.74",
+      "5652.22",
+      "5658.54",
+      "5659.78",
+      "5661.34",
+      "5663.68",
+      "5665.89",
+      "5668.88",
+      "5669.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-82\n質問番号　地図番号　144\n項目名　竹馬　083\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (3)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5633.45　takemma　〈一般に通ずることば〉　takamma\n5644.74　タケウマ　〈新〉　タカアン〈古〉\n5652.22　takemma　〈新〉　saiaji\n5658.54　タケウマ　→〈あまり使わない〉　ユキアシダ\n5659.78　タケンマ　〈新〉　タカアン〈古くからの言い方で、今でも時に〉\n5661.34　takeumma　〈希〉　sang;e:ji (読み不確か)\n5663.68　takeuma　〈共〉　takasimbo\n5665.89　タケンマ　〈新〉　タカアシ〈古〉\n5668.88　タケンマ　〈新〉　サシアシ〈古〉\n5669.12　takemma　〈新〉　sageaji\n\n（注）上記は原稿の手書き文字をおおまかに転写したもの。読み取り不明瞭な箇所あり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04182.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04182",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04182.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "5671.94",
+      "5679.31",
+      "5681.41",
+      "5681.47",
+      "5682.92",
+      "5696.68",
+      "5703.70",
+      "5710.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 日本言語地図資料用紙 注記一覧 41-83 質問番号 地図番号 144 項目名 竹馬 083 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5671.94 takeuma 〈新〉 sanyaeʃi (手書き) 5679.31 takemma 〈新〉 sargeaʃi (手書き) 5681.41 takeuma 〈新〉〈竹で作るようになったから〉 takafi 〈木で作った〉 5681.47 takemma 〈上〉 !sangje:tʃi 5682.92 takeuma 〈新〉 sanyaetʃi〈3〉 takaji 5696.68 takeumma 〈共〉 takaa:ji 〈古くらの語で多く使う〉 5703.70 tagemma 〈新〉 taga:ʃi tagaha:ʃi 5710.84 タケウマ 〈新〉 カタハシ 〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04183.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04183",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04183.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "5750.84",
+      "5780.11",
+      "6296.27",
+      "6366.16",
+      "6376.33",
+      "6407.43",
+      "6408.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-84\n質問番号 地図番号 144\nA 普通注記  B (除いた共通語)  C (除いた特殊語) ページ (5)\n項目名 竹馬 083\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n5750.84    タケウマ ＜新＞    タカシ ＜古くからの言い方であり 現在も多く使っている＞\n5780.11    tagemma ＜新＞    (手書きローマ字)\n6296.27    ＜新＞ taker mma    jukgumi (手書き)\n6366.16    takeuma ＜新＞    ajidaka\n6376.33    takeuma ＜新＞    ajidaka ＜古＞\n6407.43    タケンマ ＜共・希＞    サンガチ ＜今頃はサンガチに 来る遊びは稀である＞\n6408.88    タケンマ ＜J.上.共＞    サンガシ\n\n(※手書き部分は判読が若干不確か、上はおおよその転記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04184.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04184",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04184.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6409.72",
+      "6414.17",
+      "6416.09",
+      "6417.14",
+      "6418.75",
+      "6419.25",
+      "6419.50",
+      "6420.60",
+      "6427.40"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 41-85 質問番号 地図番号 144 (A 普通注記) (B 除いた共通語) (C 除いた特殊語) ページ (6) 項目名 竹馬 083 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6409.72 タケンマ <新> サンゲアアチ <古> 6414.17 takemma <新> takaaʃi <古・多> 6416.09 タケウマ <新> サンガイシ 6417.14 takemma <新・多> sangaʧi <古> 6418.75 タケンマ <新> サンカイシ <古> 6419.25 タケンマ <新> サケアシ <古> 6419.50 同上 サンケアチ <古> 6420.60 タケウマ <新> O.F. 6427.40 takeumma [上] (学校でタケウマと習ったのでタケウマともいうことのことであった) sanggaji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04185.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04185",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04185.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6429.65",
+      "6445.57",
+      "6447.84",
+      "6457.45",
+      "6462.52",
+      "6476.17",
+      "6494.21",
+      "6509.32",
+      "6509.43",
+      "6544.26"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n日本言語地図資料用紙　注記一覧　41-86\n質問番号　地図番号　144\n項目名　竹馬　083\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ（7）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n6429.65　タケンマ　（右欄：サンヤシ）\n6445.57　タケンマ　（右欄：タカハシ）\n6447.84　同上　（右欄：アンヤシ）\n6457.45　同上　（右欄：サンヨシ〈右〉）\n6462.52　タケウマ（?）　（右欄：タカアシ）\n6476.17　タケンマ　（右欄：タケハシ）\n6494.21　同上　（右欄：ユキアシ〈右〉、タケアシ〈新〉）\n6509.32　（不明）　（右欄：不明）\n6509.43　タケンマ〈共〉　（右欄：O.F.）\n6544.26　takemama／takemma〈最近使われた〉　（右欄：takaafi）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04186.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04186",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04186.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6553.22",
+      "6562.48",
+      "6576.28",
+      "6582.73",
+      "6601.93",
+      "6611.61",
+      "6620.20",
+      "6623.28",
+      "6624.13"
+    ],
+    "other_text": "・ A・[B]・[C]ごとに別紙を使用する。 \n・ その中での情報は地点番号順に並べる。 \n・ 注記の＜＞（）[]は厳密にする。 \n日本言語地図資料用紙　注記一覧\n質問番号　地図番号　A　普通注記　(B　除いた共通語)　[C　除いた特殊語]　ページ(8.)\n地図番号 149?　項目名 竹馬 083\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n語形（手書き）: takemma <新>　タケンマ　タケンマ <新>\nその他語形（手書き）: タケウマ <共>　takeuma　takasi　takaasi　タカアシ\n手書き注記の抜粋: jukiasi (アクセントは「ユキアシ」?)　ユキアシ <古>　今の子供等はタケンマというがかつてはユキアシというてた\n（ページ下部に続く他の語形: takeumma, takeuma, タケウマ, タケンマ など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04187.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04187",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04187.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6625.17",
+      "6633.83",
+      "6635.36",
+      "6641.34",
+      "6641.43",
+      "6641.97",
+      "6642.58",
+      "6653.30",
+      "6655.51",
+      "6662.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-86\n質問番号 地図番号 144\n項目名 竹馬 083\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (9)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6625.17  takeumma 新    taka:ji\n6633.83  希 takeumma     aji:taka\n6635.36  takemma 新     takaha:ji  taka:ji\n6641.34  takeumma 新    taka:ji\n6641.43  同上 <新>       taka:ji\n6641.97  希 takemma      jukia:ji\n6642.58  takemma 新     sanya:ji\n6653.30  takemma 新     同上\n6655.51  takemma <希>   takammma\n6662.01  takeumma 希    taka:ji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04188.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04188",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04188.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7208.97",
+      "7238.82",
+      "7275.07",
+      "7321.93",
+      "7352.14",
+      "7361.17",
+      "7362.67",
+      "7372.27",
+      "7373.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-89\n質問番号 地図番号 144\n項目名 竹馬 083\nA 普通注記 　B 除いた共通語 　C 除いた特殊語　ページ (10)\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n〈新〉 takemma　saigjo:\n〈新〉 takemma　tokkotsu <家中ことば>\ntonkotsu <何ことば>\nタケンマ（新）　ユンゲタ（右）\n同上　サンギョオシ\nタケンマ〈新〉　サケアシ\n同上　サガシ\nタケンマ〈英〉　サゲアシ\n同上　ジャガシ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04189.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04189",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04189.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "7373.92",
+      "7373.99",
+      "7374.75",
+      "7391.01",
+      "7392.33",
+      "7393.62",
+      "7403.16",
+      "7420.91",
+      "7430.75",
+      "7440.72"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 41-90\n質問番号　地図番号　144\nA　普通注記　(B　除いた共通語)　ページ (11)\n項目名　竹馬　083\n地点番号　A 語形とその注記〔B・C除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\nタケンマ　<新><共><・・・>　サカシ\nタケンマ　<共>　同上\nタケンマ　<上品な言い方>　ジャカシ\nタケンマ　<新>　サカシ\nタケンマ　<新・共>　サギアシ\nタケンマ　<新>　アンサンギア(?)\ntake^m_ma　<新>　jukiafi(?)\n新 take^m_ma　takaasi(?)\n同上　asidaka(?)\ntake^m_ma　<新>　sageafi(?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04190.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04190",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04190.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7500.24",
+      "7511.66",
+      "7521.16",
+      "8301.76",
+      "8302.19",
+      "8311.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-91\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n質問番号　地図番号　144\n項目名　竹馬　083\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ (12)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nタケンマ ＜共＞　　　ユキアシ\nタケンマ ＜新＞　　　アシタカ\nタケンマ ＜共＞　　　タカアシ\nタケンマ ＜新＞　　　サンギシ\n同上　　　　　　　　サンゲシ\ntakemma ＜新＞　　　 sangeji!",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04191.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04191",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04191.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "1862.48",
+      "3737.32",
+      "3744.33",
+      "4663.49",
+      "4686.52",
+      "4688.45",
+      "4689.14",
+      "4695.19",
+      "4700.78",
+      "4794.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-92\n質問番号 地図番号 144\n項目名 竹馬 083\nA 普通注記\n[B 除いた共通語]\n(C) 除いた特殊語 (1)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n1862.48　タカトンポ　〈右〉　　2.F.　タケンマ\n3737.32　ネブアシ　　　　タガアシ\n3744.33　タケマッコ　〈新〉　　アスタカフ〈古〉\n4663.49　mma　takammaを略してmmaともいう。 takamma\n4686.52　bokko　古くから今まで使っている。　O.F.\n4688.45　jafenma　sage a/j〈この方を多用する〉　tagenma\n4689.14　sangeaji　〈多く使う〉\n4695.19　（取り消し線）\n4700.78　takatsi nori　〈遊び〉　takatsi〈道具〉\n4794.30　kandziki　〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04192.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04192",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04192.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "5558.09",
+      "5574.84",
+      "5612.22",
+      "5652.81",
+      "5671.00",
+      "5698.91",
+      "6420.60",
+      "6509.43",
+      "6523.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 41-93\n質問番号 地図番号 144? 項目名 竹馬 083\nA 普通注記  ページ (2)\n[B] 除いた共通語  (C 除いた特殊語)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5558.09  tʃikuba <新・希>                         sannyasi\n5574.84  takebasigo                              o.F., takemma\n5612.22  takebasigo, takegetta                   o.F.\n5652.81  #takayakko <古> (kakkoはハキモノこと) [sanya:si] <古>    takeuma?\n5671.00  uma <希>                                sanji (sanjasi からの車?)\n5698.91  kakasi <すがの足という意味>             *takasi\n6420.60  アシタケ <古>                             o.F.\n6509.43  apego?                                   o.F.\n6523.86  ajinori <古>                              o.F., takemma",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04193.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04193",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04193.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6533.31",
+      "6580.66",
+      "6581.52",
+      "6701.46",
+      "7350.44",
+      "7357.31",
+      "7425.82"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 41-94\n質問番号 地図番号 144\n項目名 竹馬 083\nA 普通注記  ページ\n[B 除いた共通語]\n(C 除いた特殊語) (3)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n6533.31  ウキアシ 〈古〉        タケウマ\n6580.66  タカタカ 〈古〉        o.F., タケンマ\n6581.52  ユキボンクリ 〈古〉    同上\n6701.46  #tamma               o.F., takemma (kは半濁声)\n\n7350.44  [saka]¡              saga¡\n7357.31  ?takasago (ヨ村 ??? の調査者も聞いたことがない)  sageaji\n7425.82  takataka a ji 〈古〉    takemma",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04194.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M144Q083/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04194",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04194.tif",
+    "source_ljc_id": "LJC-M144Q083",
+    "source_map_numbers": [
+      "144"
+    ],
+    "source_title": "たけうま (竹馬)"
+  }
+]

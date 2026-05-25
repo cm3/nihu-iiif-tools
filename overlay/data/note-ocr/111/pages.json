@@ -1,0 +1,1224 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0894.61",
+      "0896.22",
+      "1719.38",
+      "1731.89",
+      "1738.19",
+      "1739.85"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　28-40\n資料番号　035　地図番号　111\n項目名　まゆげ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n0894.61　konoke　〈昔〉\n　　　　maige　〈今〉\n0896.22　マユゲ　〈マツゲと言う人もあった。若い時にそれと議論したことがある。まちがいだろう〉\n1719.38　マユノケ　〈四国の人はこういう〉\n1731.89　マエゲ・マツゲ　〈秋田県はコノゲという〉\n1738.19　mai　〈多〉　　　　majunge\n1739.85　matsuge　（確めたが、眠毛でなく眉である。majwgeよりこれを）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02840.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02840",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02840.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1742.24",
+      "1745.54",
+      "2754.11",
+      "2754.56",
+      "2763.28",
+      "2763.89",
+      "2764.28",
+      "2774.59"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　28-41\n質問番号　地図番号　035　111\n項目名　まゆげ　035\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n地点番号　A 語形とその注記　(B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n多く使うというから、両者区別なく言うものと認められる。\n\n1742.24　カブヌケ　（稀）　マエゲ\n1745.54　マツガイ　《マツゲに分類》　マイゲ\n2754.11　kaminoge　＜古＞　majunge\n2754.56　maje　（majunyeの転）\n2763.28　kaminoge　＜古＞　majunye\n2763.89　matsije　（？）\n2764.28　kami-no-ke　（上の毛）\n2774.59　kono ke　[新]　kaminoke",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02841.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02841",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02841.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2775.45",
+      "2782.16",
+      "2783.06",
+      "2792.07",
+      "2795.01",
+      "2795.72",
+      "3619.08"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の< >()は厳密にする。\n日本言語地図資料用紙 注記一覧 28-42\n資料番号 035 地図番号 111\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3)\n項目名 まゆげ 055\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\nmajwye （共？）\nmabudzi （？）＜床屋で誤って mabudzi 落したというふうに使う＞\nkawanoge ＜古＞　majwye\nkawanoke ＜kaonoke ではない＞\nmatsije （まつげと区別しない）\nmatsige （？）＜目の中の毛も同じに言う＞\nma'züy e' （東京のマツゲと区別せず。両方 ma'züy e' と言う）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02842.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02842",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02842.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3746.09",
+      "3772.73",
+      "3782.38",
+      "4598.74",
+      "4618.49",
+      "4618.87",
+      "4638.22",
+      "4643.47",
+      "4654.52"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（ ）は厳密にする。\n日本言語地図資料用紙 注記一覧 28-43\n質問番号 035   地図番号 111\nA 普通注注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(4)\n項目名 まゆげ 035\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nkamonoge 〈鴨の飛ぶように曲がっている毛〉\nkonoge －geにむしろ近い\nkonoge コノケとならず －geとなる\nfutainoke フタイノケ\nkonoke （ユ）\nkonokè konogè 《KONOKEに分類》\nko:nokè eは狭いe\nmamija [もとからの形] mameja\nmammja マンシャ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02843.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02843",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02843.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4657.64",
+      "4663.92",
+      "4667.33",
+      "4675.62",
+      "4678.77",
+      "4686.52",
+      "4687.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 28-44 資問番号 035 地図番号 111 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (5) 項目名 まゆげ 035\n地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注)\n4657.64 majwge ＊ はじめ疑いながら matsuge と答え、後訂正した。\n4663.92 mamige 息子は mamija という。大崎では mamije?\n4667.33 NK 調査もれである。\n4675.62 mamija ＜古くから用い、現在も用いる＞\n4678.77 ko:noge ko:noke （（ KOONOKE に分類 ））\n4686.52 majwge ＊（はじめ matsuge と言った）\n4687.01 mamije （被調査者はまゆげとまつけと総称して mamije と言うと",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02844.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02844",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02844.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4694.95",
+      "4697.92",
+      "4700.78",
+      "4711.41",
+      "4721.36"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に書く。\n注記の＜＞（ ）は略語にする。\n\n日本言語地図資料用紙　注記一覧　28-45\n資図番号　地図番号\n035　111\n項目名　まゆげ　035\nA（常通注記）\n(B　除いた共通語)\n(C　除いた特殊語)　(6)\n\n地・点番号　A語形とその注記（B・C除いた語形とその注）\nA注のない語形（B・C残した語形とその注）\n\n言ったがどうであろうか。\n(mayugeを mamijeというのは\nまちがいない)\n\nmamija　[ ]\nmamige\n\nko:noge　〈まつげは mamije〉\n(me:jeもまつげのこと)\n\nkonoge konogal　（〈KONOKEに分類〉）\n（ゆっくり発音）\n\nkonogè　[ ]\nkonogè　[ ]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02845.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02845",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02845.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4731.42",
+      "4731.85",
+      "4732.18",
+      "4741.43",
+      "4760.64",
+      "4760.98",
+      "4782.04",
+      "5499.98",
+      "5508.43",
+      "5517.78"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での音標は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　28-46\n資料番号 035　地図番号 111\n項目名 まゆげ 085\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (7)\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4731.42　konogē　[ ]\n4731.85　konogē　[ ]\n4732.18　konoge　（共通語意識でこう言っている。）\n4741.43　konoke　[manayo]\n4760.64　konogē　[ ]\n4760.98　konogē　eiは狭い e\n4782.04　ko:muge / ko:noge　＜両方おなじ＞（KOONOKEに分類）\n5499.98　マエゲ　一般的である。\n5508.43　maige　〈新〉　majoe\n5517.78　マイヤ　〈古〉　マイゲ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02846.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02846",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02846.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5539.43",
+      "5565.55",
+      "5574.42",
+      "5574.84",
+      "5579.10",
+      "5590.53",
+      "5591.60",
+      "5602.99",
+      "5603.35"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙　注記一覧　28-47\n質問番号　035　地図番号　111\n項目名　まゆげ　025\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(8)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n5539.43　マヤ　＜古＞　マユ\n5565.55　maige　マイゲ\n5574.42　mabunge　＜古＞　majüge\n5574.84　maeye　maeのeはややe\n5579.10　マツケ　＜共＞　マケ\n5590.53　（小書き）マイワイ　《MAIWAIに分類》\n5591.60　mɐ:　[ ]　マラゲ\n5602.99　majugе　＜もっと老人はmajoge, malgeという＞\n5603.35　majugе　juのu音はかすかである。\n\n（図表欄罫線・余白など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02847.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02847",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02847.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5606.83",
+      "5609.26",
+      "5611.74",
+      "5613.48",
+      "5613.53",
+      "5613.80",
+      "5614.24"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〔〕は敬称にする。\n\n日本言語地図資料用紙　注記一覧　28-48\n質問番号　035　地図番号　111\n項目名　まゆげ の方\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（9）\n\n地点番号　A語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C 残した語形とその注〕\n5606.83  mamija    〈古〉                                majoge\n5609.26  ko:nokë   eは狭い e\n5611.74  マミヤ    (古)                                  マエゲ maege\n5613.48  mamige / mamija    mamige 〈こちらを多く用いるが 他の人は mamija と言うことが多い。〉\n\n5613.53  majuge    ＊ はじめ # matsnje と答えた。\n5613.80  maegye    ！(自然な発音)                        majuje\n5614.24  mamige    〈上 共〉                              mamija",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02848.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02848",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02848.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5615.28",
+      "5615.78",
+      "5623.27",
+      "5624.85",
+      "5633.96",
+      "5635.65",
+      "5644.74",
+      "5645.43",
+      "5655.57",
+      "5657.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 28-49\n調問番号 035   地図番号 111\n項目名 まゆげ 035\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (10)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n地点番号   A 語形とその注記 (B・C除いた語形とその注)   A 注のない語形 (B・C 残した語形とその注)\n\n5615.28   majoge   ＜新＞   mamija\n5615.78   mamige   ＜共＞   mamijae\n5623.27   mami:   mami'je\n5624.85   majuge   mamijyanoki ＜古＞  [mamenoke]\n5633.96   majuje / mamije   ＜両方区別なく使う＞\n5635.65   マイゲ   ＜共＞\n5644.74   マユゲ   (共)\n5645.43   マミゲ   ＜新＞   マユゲ, マイゲ\n5655.57   マイゲ   ＜共＞\n5657.73   マユゲ   (共)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02849.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02849",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02849.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5665.46",
+      "5666.10",
+      "5666.18",
+      "5668.38",
+      "5669.19",
+      "5669.96",
+      "5672.75",
+      "5675.36"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 28-50\n質問番号 035 地図番号 111 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (11)\n項目名 まゆげ 085\n\n地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注)\n5665.46 マミゲ ＜新＞ マイゲ\n5666.10 マミゲ ＜多＞ マユゲ\n5666.18 マミゲ ＜上＞\nマイヤ ＜共＞\n5668.38 マミヤ ＜若い人々はマミゲともいう＞\n5669.19 maitge ふつう使う mamıye\n5669.96 maïtge （（ MAIGEに分類 ）） ma+ji ＜古＞\n5672.75 mamie ＜普通に言う＞\n5675.36 マミゲ ＜古＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02850.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02850",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02850.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5675.87",
+      "5676.28",
+      "5677.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）【】は厳密にする。\n\n日本言語地図資料用紙　注記一覧　28-51\n質問番号　035　地図番号　111\n項目名　まゆげ　085\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（12）\n\n（表見出し）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5675.87　マユゲ　普通に用いる。\n　　　　マイメ　老人のことば\n5676.28　mamie　（老女が昔使った）　mamige\n5677.28　マミヤ\n　　　　マミヤゲ　＊〈グ〉\n　　　　マミゲ　〈昔〉\n\n前二者は昔から使っていたことば（とは。推量ではあるが、マミヤゲは使っているというよりマユゲを思い出そうとして考えたわけ、こんなことばだろうと思って言い出したことはではないかと思う。あとになってあまり使わないと説明出した。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02851.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02851",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02851.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5677.60",
+      "5677.85",
+      "5678.33",
+      "5679.86",
+      "5680.34",
+      "5680.98",
+      "5684.11",
+      "5685.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 28-52\n資料番号 035　地図番号 111\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (13)\n項目名 まゆげ 035\n地点番号　A 語形とその注記（B・C除いた語形とその注)　A 注のない語形（B・C 残した語形とその注)\n5677.60　マミエ　マミケ　特別の差異なし\n5677.85　マミゲ　〈笑〉〈特に若い人が使う〉　マミヤ\n5678.33　マユ~~~　〈マユ～～は思い出そうとしそ考えそいたらしいが、それ以上進展しなかった。〉　マユゲ\n5679.86　mamenj e　（荒）mamije\n5680.34　mameya　Ⅰ マメヤ　Ⅱ（ママガ？マメヤ）\n5680.98　mamenjai　（（マメケに分類））\n5684.11　mami:　〈希〉　majunye\n5685.02　mami'e　（最初 matsuge と答えたがあとで訂正した）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02852.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02852",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02852.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5686.15",
+      "5686.31",
+      "5686.67",
+      "5688.86",
+      "5690.27",
+      "5698.19",
+      "5700.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 28-53 資料番号 地図番号 035 111 項目名 まゆげ 056 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (14) 地点番号 A 言形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注） 5686.15 majunge ＜多＞ majume 5686.31 maige maime ＜希＞ （（マミケ）） まつげは matsuge 5686.67 マミヤ （マユゲを質問したら、それはマツゲ のこととのこと） 5688.86 マミエ ＜多＞ そばへ来た孫がマユゲと発言して 被調査者が考え込んだが、マミエ と発言。 5690.27 mamenai ＜よく使っていることば＞ maju 5698.19 mamija ＜古＞ 5700.96 ko:noge ＜多く使う＞ majune",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02853.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02853",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02853.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5703.70",
+      "5711.85",
+      "5712.70",
+      "5714.10",
+      "5723.36",
+      "5723.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　28・54\n資料番号　035　　地図番号　111\nA　普通注記　　[B　除いた共通語]　[C　除いた特殊語]　ページ（15）\n項目名　まゆげ　0.5\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5703.70    mamine    ＜古＞\n           majunye   ＜ふつう＞\n           ko:noge   ＜さいきん＞\n\n5711.85    majime    ＜くふつうこの形を使っている＞\n           mamine    ＜希＞\n\n5712.70    majunye   【majunye / majime (?)】\n\n5714.10    maminji   ＜古＞\n\n5723.36    mamine    ＜古＞    majunye\n\n5723.60    majunye   ＜mamineは今使っていない＞\n           mamine    ＜子＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02854.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02854",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02854.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5741.25",
+      "5770.11",
+      "5782.79",
+      "5782.94",
+      "5790.64",
+      "5790.79",
+      "5793.20",
+      "5793.63",
+      "5793.74"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の< >（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　28-55\n質問番号　035　地図番号　111\n項目名　まゆげ　025\nA 普通語形　(B 除いた共通語)　(C 除いた特殊語)　ページ (16)\n\n地点番号　A 音形とその注記（B・C除いた音形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5741.25  majumi    別に調査した他の被調査者によれば majime\n5770.11  mainge    （誘）mamijge\n5782.79  jamanye   ＜古＞    majunye\n5782.94  majunje   ＜これが普通＞    jamanoke\n5790.64  menojama ＜多＞  mejama （ともに menjama に分類）\n5790.79  jamaye    古    mamine\n5793.20  majunge   ＜maju と略す場合あり＞\n5793.63  jama      ＜昔＞\n5793.74  jamaye    ＜多い＞    jama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02855.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02855",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02855.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6338.99",
+      "6357.74",
+      "6377.11",
+      "6388.52",
+      "6403.62",
+      "6407.28",
+      "6412.48",
+      "6415.78",
+      "6418.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別表を使用する。\nその中での語順は地点番号順に並べる。\n注記の〈〉()は訳語にする。\n\n日本語地図資料用紙　注記一覧　28-56\n\n[上部ボックス]\n035   111\n項目名　まゆげ　035\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (17)\n\n表ヘッダ：地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n各行（概訳／写し）:\nマヒゲ　マシゲ　＜希＞　（（マヒゲに分類））\nマヒゲ　＜古＞　　マイゲ\nマシゲ　＜目ふちの毛 = メヒゲ＞\nmasige　macige　（（マヒゲに分類））\nmasige　＜古＞　　maige\nミャアケ　（ミャ mεぎ？）\nマイシゲ　（眉ひげ？）\nmacige　（眉毛はマヒゲ、瞼のひげはメヒゲと言うとのこと）\nﾒｱｹ?　マイゲ　＜宋＞　（（MAIGEに分類））",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02856.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02856",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02856.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6419.50",
+      "6424.89",
+      "6428.13",
+      "6428.26",
+      "6433.34",
+      "6455.27",
+      "6467.73",
+      "6470.11",
+      "6472.05"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉( )は厳密にする。 日本言語地図資料用紙 注記一覧 28-57 資料番号 035 地図番号 111 項目名 まゆげ 056 A 普通語 (B 除いた共通語) (C 除いた特殊語) (18) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) メヂゲ マイゲ <共上> ((MAIGEに分類))　　　　majuge maçige <普通> マヒゲ <今> (variant forms) メテ ワテ <古希> (意義不明。二度くりかえして答えた) マイゲ <若い人はマシゲという> マヒゲ　#?　　　　マユゲ maçige ① masüge maçige～masige <古>　　　　matsuge maçige　まつげは meçige",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02857.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02857",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02857.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6474.83",
+      "6482.75",
+      "6485.30",
+      "6485.82",
+      "6489.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語彙は地点番号順に並べる。 注記の< > () []は厳密にする。\n\n日本言語地図資料用紙　注記一覧　28-58\n管理番号 035　地図番号 111　A 普通注記　ページ (19)\n項目名　まゆげ　035\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6474.83　マヒゲ　マシゲ　〈希〉　（〈マヒケに分類〉）\n6482.75　itoma　〈mahigeという人もある〉\n6485.30　マイゲ　マイケ　まつげはマスゲという。\n6485.82　マイゲ［マイノケ］　〈マイケの尾の方が左右とも下って八の字に見えるのをハチマイゲという。〉\n（マイノケは苗田氏の答、なお同氏はハチマイゲということをも答えた。）\n\n6489.27　マイゲ　（最初にこう答えたが、あとでマヒケに訂正した）\n\n（下部余白に手書き注記や訂正あり。）」} PMID: none",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02858.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02858",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02858.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6491.49",
+      "6492.11",
+      "6494.21",
+      "6497.77",
+      "6500.22"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n資料番号 035　地図番号 111\n項目名 まゆげ 035\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (20)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n6491.49　mahige　(〈標準語になる〉といっていた。これはいな語という意らしい。)\n　　　itomai　〈昔はこういっていた。〉\n\n6492.11　mahige　〈上〉\n　　　itomái\n\n6494.21　マスゲ　〈古〉　まつげはサカマスゲという。\n　　　マイゲ　〈新〉\n\n6497.77　mai'ge\n　　　majonoke　} 同じ\n\n6500.22　マエケ\n　　　マイゲ　〈新〉　マイゲ[maige]この地方は一般的に[ai]は[ae]が[ e: ]になる傾向あり。((MAIGEに分類))",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02859.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02859",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02859.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6503.66",
+      "6505.60",
+      "6507.79",
+      "6510.65",
+      "6511.33",
+      "6511.85",
+      "6514.38",
+      "6518.87"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧 28-60\n資料番号 035 地図番号 111\n項目名 まゆげ 035\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (21)\n\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A 注のない語形 (B・C 残した語形とその注)\n6503.66  maeye   maene はやや e\n6505.60  mayge  ＜昔＞\n6507.79  マ (マ かきおとしではない)\n6510.65  マイ  (マイは総称的であり、) マイゲ [ge] マイゲ [ge] マイゲは一本一本の毛をいう。\n6511.33  マイゲ、マイゲ ((MAIGEに分類))\n6511.85  mai  他の i よりやや広いか。\n6514.38  maeɟe  ( -ɟは -y のゆるい発音を聞いたときの記号)\n6518.87  マメ (マメのアクセントはマメである。) マケゲ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02860.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02860",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02860.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6522.03",
+      "6522.93",
+      "6528.21",
+      "6526.98",
+      "6530.58",
+      "6536.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別表を使用する。\nその中での指標は地点番号順に並べる。\n注記の＜＞（　） は厳密にする。\n\n日本語語地図資料用紙　注記一覧　28-61\n資料番号　035　地図番号　111\n項目名　まゆげ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (22)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nマイゲ　・発音してもらうと（maige / maije）が3:1ぐらいの割合で出た。こちらが区別していっても「ワカラナイ」といってはっきりしない。\n\nマイケ　ケは鼻濁 ɴ?　以下ゲ…で表わす。\n\nmae:me　〈古〉〈古いいい方？ 女がよく使う〉 mae:ge\n\nメヂケ？　マイケ（他）\n\nマユゲ　？\n\nmage　〈maigeとは言わない〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02861.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02861",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02861.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6541.27",
+      "6542.58",
+      "6544.69",
+      "6552.71",
+      "6552.90",
+      "6553.47",
+      "6553.99",
+      "6562.48",
+      "6570.89"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記　-28-62\n管理番号　035　　地図番号　111\n項目名　まゆけ\n\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (23)\n\nA 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nマンゲ　〈古〉　　マユゲ°\nマユゲ　マイゲ　・全く無意識に共存する。\n[masige]　　maige\nマユゲ　〈マイケという人もある〉\nmainge　（「マイゲ」）\nmaije　※（最初に「マツゲ」と答え、後訂正した。）\nmainge　（「マイゲ」）\nマユゲ　（この町にはマイケと言う人もいる）\nマヒゲ　〈目の上のヒゲだから〉　マイゲ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02862.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02862",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02862.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6574.52",
+      "6581.36",
+      "6581.52",
+      "6582.12",
+      "6582.48",
+      "6582.73",
+      "6583.41",
+      "6583.45"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本語地図資料用紙　注記一覧　28-63\n質問番号　035　地図番号　111\n項目名　まゆげ　085\nA（普通注記）　(B　除いた共通語)　(C　除いた特殊語)　(24)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6574.52 majuke （「マユケ」...このアクセントは奈良県平坦部の「マイケ」と異る）\n6581.36 マイゲ ＜希＞　マヒゲ\n6581.52 マヒゲ ＜若い人はマイゲという。＞\n6582.12 マイゲ ＜多く用う。＞　マヒゲ\n6582.48 mesige macige　ともに同じようにいう。\n6582.73 マユゲ ＜普通これを使うが、他の2形を使う人もある。マイゲ・マヒゲ＞\n6583.41 macije ＜古＞\n6583.45 macige （「マヒゲ」）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02863.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02863",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02863.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6583.93",
+      "6585.25",
+      "6592.10",
+      "6593.30",
+      "6600.97",
+      "6603.82",
+      "6604.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n日本言語地図資料用紙　注記一覧　28-64\n資料番号　035　地図番号　111\n項目名　まゆげ　035\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（25）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6583.93　me'rije　反省的にならないとよがはっきりしない。\n6585.25　マヒゲ　＜マイゲとは違う＞\n6592.10　マイゲ　＜ザ＞　マヒゲ。\n6593.30　maju-ge　＜前のひげの意＞\n6600.97　maije　＜略した言い方だ＞　majuyi\n6603.82　マミヤイ　マユゲ　＜マミヤイはマユゲの全体をさし、マユゲはその一本一本をいう。＞\n6604.15　マミエ　＜古＞　マユゲ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02864.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02864",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02864.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6604.60",
+      "6604.98",
+      "6607.18",
+      "6607.68",
+      "6609.05",
+      "6623.53",
+      "6624.65"
+    ],
+    "other_text": "日本語方言地図資料用紙　注記一覧　28-65\n資料番号　035　地図番号　111\n項目名　まゆげ　056\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)　(26)\n\n地点番号　A 音形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nマイケ　〈共〉　マミエ\nマミイ　この音は　イとエの中間の音で、しかもイに近い。連母音　イェ、アエ、アイ、オイ、エイ　の場合長音となりこのイ：となる。[し]\n\nmamija　〈古〉　maju\nmamija　〈昔の人の使うのを聞いた〉　majuy e\nマミヤ　（古）　マユケ\nmamijai mamijae：　（（MAMIYA1に分類））\nmamija　多く使う　maju",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02865.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02865",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02865.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6631.05",
+      "6632.15",
+      "6632.88",
+      "6643.15",
+      "6655.51",
+      "6655.87",
+      "6698.20",
+      "6700.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 28-66\n資料番号 035　地図番号 111\n項目名 まゆげ 035\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (27)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は数箇にする。\n\n地 点 番 号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6631.05 maʒe ＜前の毛＞\n6632.15 mamjai ＜昔＞ majwge\n6632.88 mamijae 希 maine\n6643.15 mameja mamija　二つとも同じ程度に言う。\n6655.51 mami （眉と眉の間を mamiai という。）\n6655.87 maije mai ＜同じ程度に使う＞\n6698.20 mami: ＜古＞ mamiye\n6700.98 jama ＜昔＞ mamiye",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02866.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02866",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02866.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6701.46",
+      "7208.97",
+      "7218.58",
+      "7239.24",
+      "7239.41",
+      "7246.82",
+      "7258.82",
+      "7329.57",
+      "7332.52"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　28-67\n項目番号　地図番号\n035　　　111\n項目名　まゆげ 035\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6701.46    jamage    ＜古＞    maige\n7208.97    maige    ＜まつげは mege である＞\n7218.58    me:ge    ＜古＞    majuge\n7239.24    mja:ge    ＜くもそのもの＞    mja:\n7239.41    maçige    ＜あらたまって いう時に使う＞    maige\n7246.82    majuge    ＜古＞    mege\n7258.82    maige / mja:ge    ＜古＞　（（MAIGEに分類））\n7329.57    maike    （会話の中では maike ということが多かった。）    maige, mai noke\n7332.52    maige > me:ge    （（MAIGEに分類））",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02867.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02867",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02867.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7332.97",
+      "7335.34",
+      "7335.93",
+      "7338.48",
+      "7342.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での指標は地点番号順に書べる。 注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　28-68\n資料番号　035　地図番号　111\n項目名　まゆげ　025　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(29)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7332.97　maige　（じはヤ行の痕跡を示し、無声化し軽い長母音化を示した）\n\n7335.34　me:jke　# mainoke とする。ただし 目の毛ということがあるかもしれぬ。（Tok）\n\n7335.93　maige　〈新〉　me:jke\n\n7338.48　maju　（三崎町では mai no ki; mai no ke（あらたまると）である。）\n\n7342.10　majuge　（ge にあうす）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02868.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02868",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02868.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7349.86",
+      "7349.91",
+      "7351.68",
+      "7352.14",
+      "7354.23",
+      "7361.17",
+      "7363.85",
+      "7364.34",
+      "7374.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　28-69\n資料番号　035　地図番号　111\n項目名　まゆげ　085\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (30)\n\n地 点 番 号　　　A 語形とその注記 (B・C除いた語形とその注)　　　A注のない語形 (B・C 残した語形とその注)\n\nmai no ke\t〈睫毛は mahige という〉\nmai no ke\t〈睫毛は mahige という〉\nmēge\t(子供)\tmāyūge\nメェゲ\t〈メエゲとマツゲとはちがう〉\nマゲ\t〈古〉\tマイゲ、マイ\nメケ\t〈希〉\tマユ、マイ\nマイ\t〈希〉\tマユ\nマイゲ\t〈希〉\tマユ\nマイ\tミャ？\n((MAI に分類))　〈メケはまつげの事〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02869.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02869",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02869.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7375.30",
+      "7375.37",
+      "7375.96",
+      "7376.68",
+      "7383.83",
+      "7383.98",
+      "7386.63",
+      "7394.60"
+    ],
+    "other_text": "日本言語地図資料用紙　注記　-28-70\n資料番号　035　地図番号　111\n項目名　まゆげ　085\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)　ページ（31）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（）（）は略称にする。\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7375.30　mai　（「まつげ」は[me:ge]という。）\n7375.37　mwe:ge　（「まつげ」は[mege]という。）\n7375.96　mège　説明書参照。\n7376.68　mw e:ge　〈多〉　maige　〈共〉　（（MAIGEに分類））\n\n7383.83　マユ　ミヤゲ　マユゲ　〈メゲはマツゲのこと〉\n7383.98　メケ　マイゲ　（（MAIGEに分類））\n7386.63　maige　〈me:ge .... まつげ〉\n7394.60　ミャアゲ　マイゲ　〈上〉　（（MAIGEに分類））",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02870.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02870",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02870.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7395.25",
+      "7395.88",
+      "7400.11"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での指摘は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記 ― 28-71\n資料番号 035　地図番号 111\n項目名 まゆげ 055\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (32)\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7395.25  mē:ge　ai > e:であるが　稀に e:である。\n\n7395.88  mwe:ge　w を含む音節は、この被調査者の口からはあまり聞かれなかった。但し、035の場合ははっきりと現われている。被調査者も me との相違を意識し認めている。\n\n7400.11  mahige　?（<<matsuge to iu: ne deso: ga>>といいながら答えた。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02871.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02871",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02871.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7401.18",
+      "7403.86",
+      "7405.85",
+      "7406.25",
+      "7406.53",
+      "7407.24",
+      "7412.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 28-72\n調問番号 035   地図番号 111\n項目名 まゆげ 085\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  (33)\n\n地点番号   A 語形とその注記（B・C除いた語形とその注）   A注のない語形（B・C 残した語形とその注）\n\n7401.18  macige  【新】    itomai\n7403.86  mahige  希    mainoke\n7405.85  マユ  マイゲ    両用する。\n7406.25  maige  mainoke    両語 同じように用う。\n7406.53  macige  ＜昔は＞    majuge\n7407.24  mainoke  maige    両語 同じように用いる。\n7412.71  maime  masuge    マユスミのことを ＜maime zumi＞ という由。＜masuge＞については（マツゲでないかを念押したが自分の眉を指してみせた。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02872.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02872",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02872.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7416.34",
+      "7418.07",
+      "7420.18",
+      "7421.38",
+      "7421.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　28-73\n資料番号 035　地図番号 111\n項目名　まゆげ　065\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(34)\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\nmai　〈くもに重点をおくと maigeと いう。〉\nmaenoke　（幼時）\nmajwge　（地域には mahige, itomai を使うものもある。）\nmahige　〈上〉\nmaige　〈上〉〈新〉　mai no ki\nmaike / mai no ke　（話調がゆっくりしている時には、mai no keという。話がはずむと maike をくりかえす。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02873.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02873",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02873.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7425.82",
+      "7430.75",
+      "7431.08",
+      "7431.13",
+      "7432.95",
+      "7460.30",
+      "7500.24",
+      "7500.43",
+      "7511.66"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　28-74\n（右上欄）資料番号 035　地図番号 111　項目名 まゆげ 085　A 普通注記\nA・[B]・[C]ごとに別表を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（　）には厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7425.82　mai　（つむじの方は mai，まゆげの方は mai，と観察した。）\n7430.75　maige　上　mai no ki\n7431.08　mai no ke　（こちらの方が多くいわれるらしい） mai　mai no ki\n7431.13　mahige　〈新〉　mai no ki\n7432.95　mai(ge)　（geをつけた方がはっきりする。） majuke\n7460.30　majuge　〈共〉　majuke\n7500.24　マエヒゲ　〈マヒゲとこの頃は多く用いる〉\n7500.43　マヒゲ　〈少〉　マイヒゲ\n7511.66　マイゲ　〈多く用う〉　マエヒゲ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02874.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02874",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02874.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7513.15",
+      "7521.16",
+      "7533.11",
+      "8300.11",
+      "8301.19",
+      "8301.76",
+      "8304.66",
+      "8305.73"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は散略にする。\n日本言語地図資料用紙　注記一覧　28-75\n質問番号　035　地図番号　111\n項目名　まゆげ　055\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(36)\n地点番号　A 語形とその注記（B・C除いた語形とその注記）　A 注のない語形（B・C 残した語形とその注記）\n7513.15　macige　誘〈古〉　majuge\n7521.16　マユゲ　〈マエヒゲという人もある。〉\n7533.11　マイゲ　〈マヒゲという人もある。〉\n8300.11　マイ（※）ミャア　（（MAI に分類））\n8301.19　メゲ　（メゲが基本）　マユゲ\n8301.76　メンケ　〈古〉　マイ、マイゲ\n8304.66　m‹e:ge　古　（（MAIGEに分類））\n　　　　maige　新\n8305.73　mge　moge　（「め」の音だと思う）　ai>oかもしれぬ　かをとしておく　（（MEGEに分類））\nmege",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02875.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02875",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02875.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "8306.04",
+      "8310.26",
+      "8316.20",
+      "8335.48",
+      "8345.18",
+      "8345.24",
+      "8345.74",
+      "8355.23",
+      "8362.81"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　28-76\n資料番号 035　地図番号 111\n項目名 まゆげ 056\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(37)\n（表ヘッダ）地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n8306.04　mege　因みに「まつげ」は masiba という。\n8310.26　mege　〈古〉　majuge\n8316.20　majuge　me:ge …まつげ\n8335.48　maige　〈近頃は主にこれを使う〉\n　　　　mege　（この土地の言葉）\n8345.18　menke　〈多く使う〉　mege\n8345.24　menke　「まつげ」は masibage という。\n8345.74　majuge　〈多〉　menke\n8355.23　mege　〈多〉　maege\n8362.81　majuge　〈新〉　menke",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02876.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02876",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02876.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "8394.01",
+      "0275.36",
+      "1242.00",
+      "1250.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　28-77\n資料番号　035　地図番号　111\n項目名　まゆげ\nA 普通注記　（ページ）\n[B] 除いた共通語\n[C] 除いた特殊語　(38)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n8394.01　ma:　＜古＞\n0275.36　mi:-maju　（目のまゆの義か）\n1242.00　mi:maju:　＜多く用いる＞　maju:\n1250.59　maju　mi:maju　＜どちらも同じようにつかう。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02877.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02877",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02877.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "2781.91",
+      "3735.77",
+      "4675.62",
+      "4762.77",
+      "5499.98",
+      "5567.46",
+      "5569.36",
+      "5579.79",
+      "5586.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 28-78 資料番号 035 地図番号 111 項目名 まゆげ A 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 2781.91 majugye ＜新＞ kawanoge 3735.77 マユゲ ＜新＞ コノゲ 4675.62 majuge ＜上・新＞ mamija ＜古くから用い、現在も用いる＞ 4762.77 majunye ＊ ko:noge 5499.98 マユゲ マエケの方が一般的である。 マエケ 5567.46 マユゲ ＜共＞ マゲ 5569.36 マユゲ ＜共＞ マイゲ 5579.79 マユゲ ＜共＞ マイゲ 5586.70 majunye 若い者が使う由。 majome",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02878.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02878",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02878.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "5588.78",
+      "5631.75",
+      "5632.28",
+      "5635.48",
+      "5643.33",
+      "5651.45",
+      "5661.34",
+      "5661.68",
+      "5663.09",
+      "5671.38"
+    ],
+    "other_text": "日本言語地図資料利用紙　注記一覧　28-79\n資料番号　035　地図番号　111\n項目名　まゆげ　065\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）つは厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5588.78　マユゲ　〈共〉　マゲ。\n5631.75　majuye　〈新〉　mamige\n5632.28　majuye　〈上〉　mai\n5635.48　マユ　〈上〉　マユゲ\n5643.33　majuye　〈共〉　mami\n5651.45　[majune]　現在は　mamiê\n5661.34　majuye　〈上,希〉　mamiê\n5661.68　majuye　〈新〉　mamiê\n5663.09　majuye　新　mamii\n5671.38　majuye　〈共〉　mamiê",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02879.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02879",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02879.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "5671.94",
+      "5672.75",
+      "5680.98",
+      "5685.37",
+      "5688.01",
+      "5688.86",
+      "5690.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉〈〉は厳密にする。\n\n日本言語地図資料用紙 注記 28-80\n質問番号 035　地図番号 111\n項目名 まゆげ　085\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)　(3)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5671.94　majunye　〈共〉　mamie *\n5672.75　majunye　〈上〉　mamië （普通に言う）\n5680.98　majune　〈新〉　mamenyai （マメゲに分類）\n5685.37　majwge　〈共〉　maïme\n5688.01　マユゲ　〈稀〉　マミュ\n5688.86　マユゲ・　〈新〉　マミユ〈多〉そばへ来た孫が\n　マユゲと発言して、被調査者も考え込んだが、マミユ\n　と発音。\n\n5690.27　majunge　〈新〉　maju",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02880.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02880",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02880.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "5696.68",
+      "5698.19",
+      "5714.10",
+      "5741.25",
+      "5793.63"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　28-81\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）は厳密にする。\n\n（上欄のボックス）\n資問番号 035　地図番号 111\n項目名 まゆげ 085\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(4)\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5696.68　majunye　〈新〉\t\tmameyai　〈よく使っていることば〉\n5698.19　majuñe　〈新〉\nmaju　〈新・多く使う〉\t\tmamija　〈古〉\n5714.10　majunye　〈新〉\t\tmamiji　〈古〉\n5741.25　majunye　〈複は使わない〉\t\tmajumi　別に調査した\n\t\t\t他の被調査者によれば\n\t\t\tmajime\n\n5793.63　majunye　〈今〉\t\tjama　〈昔〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02881.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02881",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02881.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6409.72",
+      "6419.09",
+      "6419.25",
+      "6419.50",
+      "6476.13",
+      "6484.78",
+      "6505.60",
+      "6507.48",
+      "6519.43",
+      "6519.67"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙　注記一覧　28-82 質問番号　035　地図番号　111 A 普通注記　ページ （B　除いた共通語） （C　除いた特殊語） （5） 項目名　まゆげ　085 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） マユゲ　＜共＞　メアケ マユゲ　＜上,少＞　メアケ マユゲ　＜共,希＞　メアケ マユゲ　＜共新＞　メアケ　マイケ＜共上＞（MAIGEに分類）　マイケ マユゲェ　＜新＞　マイケ マユゲ　マユゲは少い　マイノケ majuge　＜今＞　mayge＜昔＞ マユゲ　＜共＞　マイゲ マユゲ　＜共＞　マイゲ マユゲ　＜共＞　マムケ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02882.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02882",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02882.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6526.98",
+      "6530.23",
+      "6533.31",
+      "6543.56",
+      "6580.06",
+      "6583.41",
+      "6584.28",
+      "6601.25",
+      "6603.24",
+      "6611.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）〔 〕は厳密にする。\n\n日本言語地図資料用紙　注記一覧　28-83\n質問番号　035　地図番号　111\n項目名　まゆげ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (6)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6526.98　マユゲ　〈共〉　メアゲ\n6530.23　マユ　〈希, 共〉　マイ\n6533.31　マユ　（新）　マイゲ\n6543.56　マユゲ　〈少〉　マイゲ\n6580.06　マユゲ　〈新〉　マビゲ\n6583.41　majunye　〈新〉　maçige〈古〉\n6584.28　majuge　〈新〉　ma'ige\n6601.25　majunye　〈共〉　mamije\n6603.24　マユゲ　〈共〉　マミエ\n6611.61　majunye　〈共〉　mamie",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02883.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02883",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02883.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6625.17",
+      "6629.98",
+      "6635.36",
+      "6643.16",
+      "6645.01",
+      "6645.37",
+      "6697.39",
+      "7324.47",
+      "7335.34"
+    ],
+    "other_text": "▶ A・[B]・(C)ごとに別紙を使用する。\n▶ その中での音標は地点番号順に並べる。\n▶ 注記のく　(　)は厳密にする。\n日本言語地図資料用紙　注記一覧　28-84\n資料番号　035　地図番号　111\n項目名　まゆげ\nA　普通注記　　B　除いた共通語　　C　除いた特殊語　（7）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6625.17  majunye  少    mamija\n6629.98  majunye  ＜新＞  mamge\n6635.36  majunye  新    mamija\n         maju    新\n6643.16  majunye  新    mameja\n6645.01  majuge   新    mamijai\n6645.37  majunye  ＜上＞  mamija\n6697.39  majunye  ＜新＞  mamije\n7324.47  maju   （上品ないい方）  maige\n7335.34  majuge  ＜共＞  me:jke -> mainoketsu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02884.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02884",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02884.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7357.64",
+      "7363.59",
+      "7382.58",
+      "7401.92",
+      "7403.21",
+      "7418.07",
+      "7420.91",
+      "7423.12",
+      "7441.89",
+      "7522.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　28-85\n調査番号 035　地図番号 111\n項目名 まゆげ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(8)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nmajuge　＜共＞　maige\nマユ　＜新＞　マイ\nマユ　＜希＞　マイ\nmajuu　上　majuhige\nmajuge　＜共＞　itomai\nmajuge　（この頃）　maenoke（幼時）\nmajuge　新　mahige\nmaju　＜上品＞　mai\nmaju　（上品）　mai\nマユ　＜共＞　マイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02885.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02885",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02885.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7523.05",
+      "8335.11",
+      "8342.51",
+      "8372.47",
+      "8393.69",
+      "8394.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 28-86\n資料番号 035   地図番号 111   A 普通注記\n(B) 除いた共通語   (C) 除いた特殊語   ページ (9)\n項目名 まゆげ 065\n\n地点番号   A 語形とその注記 (B・C 除いた語形とその注)   A 注のない語形 (B・C 残した語形とその注)\n7523.05   マユゲ°   〈共〉   マヒゲ°\n8335.11   majuge        mege *\n8342.51   majuge   〈希〉   menoke\n8372.47   majuge   〈上〉   mege\n8393.69   maju   〈共〉   ma:\n8394.01   majuge   〈床屋でいう〉   ma: 〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02886.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02886",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02886.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "5643.33",
+      "5675.36",
+      "6529.88",
+      "7334.44",
+      "7523.05",
+      "0275.97"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）は厳密にする。\n日本語語地図資料用紙 注記 -28-87\n質問番号 地図番号 035 111 項目名 まゆげ A 普通注記 ページ B 除いた共通語 C 除いた特殊語 (1)\n表見出し: A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C残した語形とその注）\n行1 A列: mami no ke 〈mate:ni 言えば〉（残りなく言えば、ということ） A注なし: mami\n行2 A列: マヤイゲ 〈新〉 A注なし: マミゲ 〈古〉\n行3 A列: matsuye 〈他〉く人によつてはまゆけとまつけを区別せず matsuye といっている人もいる〉 A注なし: maije\n行4 A列: meinke （その他） A注なし: me:ge\n行5 A列: マツヒゲ〈こういう人もある〉 A注なし: マヒゲ\n行6 A列: madzigi（madzigiはまつもだという者の注意により。） A注なし: majugi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02887.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M111Q035/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02887",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02887.tif",
+    "source_ljc_id": "LJC-M111Q035",
+    "source_map_numbers": [
+      "111"
+    ],
+    "source_title": "まゆげ (眉毛)"
+  }
+]

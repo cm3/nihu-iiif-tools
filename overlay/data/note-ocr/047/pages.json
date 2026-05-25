@@ -1,0 +1,319 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "3765.28",
+      "3772.32",
+      "4648.59",
+      "4724.28",
+      "4725.68",
+      "4732.18",
+      "4743.44"
+    ],
+    "other_text": "A・（B）・（C）ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙注記一覧    11-84\n資料番号　地図番号\n2507    047\n項目名　キレイダ\nA 普通注記　（B 除いた共通語）　（C 除いた特殊語）　ページ（1）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n3765.28    kire:da＜タ＞    utsuikuusi:\n3772.32    ウズグスー（老）\n4648.59    kire:da（新しいものであるろ）    rippada\n4724.28    kire:da＜タ＞\n           udzükusī：＜稀＞（花の場合なら多く使う）\n4725.68    kire:d2＜今＞＜希＞\n           udzükusüe＜今＞＜希＞\n4732.18    udzukusī：＜昔＞    kire:d2\n4743.44    udzut kusī：＜古＞    kise:d2",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01184.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01184",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01184.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4744.10",
+      "4746.20",
+      "4760.54",
+      "4663.92",
+      "5507.20",
+      "5569.02",
+      "5579.42",
+      "5597.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 11-85\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) は厳密にする。\n資料番号 250 地図番号 047 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (2)\n項目名 キレイダー\n（表見出し） 地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\nutsutkusi: <希>\ncife:na <新>  utsutkusi: <右>\nkire: <普通の言い方>  ← <言うこともある>  utsu?igusu?ii\nkire:ra <この方が自然>  utsukusii:\nkire;ja <上>  utsukusii  ウッツクシイ\n<共> キレイジャ\nutsukusii: <普通>  kire:da\nキレイジャ <共>  ウツクシイ\n(手書き矢印と注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01185.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01185",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01185.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5598.67",
+      "5615.20",
+      "5631.75",
+      "5671.38",
+      "5678.33",
+      "6289.71"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 11-86 資料番号 250 地図番号 047 項目名 キレイダ- (3) 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） ＜表内手書き＞ 5598.67 ＜タ＞ キレエナ　　ウツクシイ 5615.20 kireida ＜一般の友人や学校(?)を、卒業した子供等に話す時用いる。＞ rippada＜く＞＜幼い子供に話す時用いる。＞ （5631.75 は線で消してある） 5671.38 utsukusii ＜上＞ 5678.33 キレエダ。ウツクシイは知っていても使わない。 kire:da kire:d2 6289.71 rippana＜daはなく、gaとなる。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01186.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01186",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01186.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "6405.95",
+      "6426.04",
+      "6427.40"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 11-87\n資料番号 250 地図番号 047 A 普通注記 ページ (4)\n項目名 キレイダ:\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n地点番号\nA 語形とその注記（B・C除いた語形とその注）\n\n6405.95. rippana no: というのが普通 >\nuttsukuji: <多く言う>（疑わしいように思う）\nkireida <不稀>（稀というより、むしろよく用いると言った方がよい。）\n（この地方はキレーダーを多く用いるのではあるまいか。）\n\n6426.04. uttsukuji: <美人や着物の時はキレーという。>（とてもその点はきりない）\n\n6427.40. uttsukuji:\nkirei d?（上品・新しい）\n（美人や着物はキレーという。気会はウツクシイという。色々と使いわけがあるらしい）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01187.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01187",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01187.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6439.17",
+      "6440.67",
+      "6449.84",
+      "6451.83",
+      "6466.36",
+      "6476.13",
+      "6481.94",
+      "6484.43",
+      "6486.93"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の〈〉( )〈 〉は厳密にする。\n日本言語地図資料用紙注記一覧　11-88\n資料番号　地図番号　250　047\n項目名　キレイダ\nA（普通注記）　(B　除いた共通語)　(C　除いた特殊語)　ページ（5）\n表見出し：地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nKire:na　<この時は -3aや -jaは使わない>\nミゴトナ　<古>　　　　→　キレエナ\nキレイ　<稀.上>　　　→　ウツクシイ\nキレエ ジャ（稀）　　→　キレエナ\nキレエナ　<普>　　　　→　キレエ ジャ\nケッコイ　<古>　　　　→　キレエジャ\nキィレエ　<ダもジャもナも言わない>\nケッコイナ　<上>　　　→　ケッコイノオ\nケッコナ　99.　　　　→　キレエナ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01188.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01188",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01188.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6510.65",
+      "6521.20",
+      "6536.39",
+      "6542.58",
+      "6567.79",
+      "6573.21",
+      "6577.71"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）は略記にする。 日本言語地図資料用紙 注記一覧 11-89 項目番号 地図番号 250 047 普通注記 ページ (6) 項目名 キレイダ 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 6510.65. キレイヂャ? <やや少> ウツクシイ 6521.20 utsukusi: ...やや丁寧 kire:ja 6536.39 utsukusi: <多> kireida 6542.58 キレイ　よく使う? ウツクシイ 6567.79 kire:ja <99> uttsukusji:: 6573.21 utsukusi <「キレイ」は最近の子供が使う。> 6577.71 utsükusi (ただし「ニジ」についてこの二つのような表現の習慣がないらしく、左の形は花の場合についての解答である)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01189.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01189",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01189.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6590.35",
+      "6650.12",
+      "6651.64",
+      "6672.7",
+      "7229.75",
+      "7246.45"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）｛｝は厳密にする。 日本言語地図資料用紙 注記一覧 11-90 資料番号 250 地図番号 047 項目名 キレイダ (◎普通注記) (B 除いた共通語) (C 除いた特殊語) (7) 地点・番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） キレイヤ〈新〉    ウツクシイ kire:da 上    ke'ko:da ke'koi. 見るものにだけ。食べるものには言わない。 kiri:da〈昔のことば〉    Kire:da kire:ka〈新〉    utsukusika tsukuJka. cf. 米飯を美しいめしの意。 で = tjuntjumamaという。同島小浜ではこれを tjintjimamaという。いずれもtsukuJkaからの幼児語的派生語であろう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01190.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01190",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01190.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "7259.98",
+      "7268.87",
+      "7312.69",
+      "7340.27",
+      "7342.72",
+      "7352.38"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　11-91\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[]は厳密にする。\n(右上欄) 250 047　〇　(項目名) キレイカ\n[B　除いた共通語]　[C　除いた特殊語]\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7259.98. tsukujika <これが普通>　kire:ka\n7268.87 utsukujika <古>　kire:ka\n7312.69 utsukujii: (昔)\nKirei (今)\n7340.27 rippaka <djippakaというのを聞いたことがある.>\n7342.72 utsukujikano: (共感する)\nutsukujikabai (同意をもとめようと言う)\nutsukujikatai (断定)\n7352.38 kire:ka [新]　utsukujika",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01191.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01191",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01191.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "7373.92",
+      "7382.01",
+      "7382.93",
+      "7383.98",
+      "7391.07",
+      "7391.94",
+      "7392.33",
+      "7403.21"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 11-92\n質問番号 地図番号\n250 047\n項目名 キレイダ\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n(9)\n\n地点番号  . A 語形とその注記 (B・C 除いた語形とその注)  — A 注のない語形 (B・C 残した語形とその注)\n\n7373.92  キレエカ 〈新〉    ウツクシカ\n7382.01  kire:ka 〈新〉     utsuku;jika\n7382.93  kire:ka 〈新〉     utsuku;jika\n7383.98  キレイカ 〈新〉    ウツクシカ\n7391.07  utsuku;jika 〈やや希〉   kireika\n7391.94  utsuku;jika 〈きわめて希〉  kireika\n7392.33  ウックシカ 〈現在ではあるいは希に は キレエカというかも知れぬか〉\n7403.21  kire:n2 〈nizi ga kire:nawai; dete mi: a のように言う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01192.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01192",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01192.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7416.34",
+      "7432.95",
+      "7503.48",
+      "7522.48",
+      "8239.31",
+      "8302.91",
+      "8306.04"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 11-93\n資料番号 250 地図番号 047\n項目名 キレイダー\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (10)\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7416.34 utsukuji: <古>, kire:za <新>\n7432.95 kire:za <老人>\n7503.48 utsukusi: <多>\nkire:na\nkire:za <一番多くない>\n7522.48 キレイヤ <すくない>\nウツクシイ\n8239.31 kire:ka <新>\n8302.91 kireika くいすれも用いるが、この方が本来の言い方>\n（キレイダ、ウツクシイ）\n8306.04 utsukusi: <新> rippa",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01193.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01193",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01193.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "8320.59",
+      "8320.98",
+      "8331.12",
+      "8360.39",
+      "8361.28",
+      "8362.85"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 11-94 質問番号 地図番号 250 047 項目名 キレイダ A 普通注記 (B. 除いた共通語) (C 除いた特殊語) (11) 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C残した語形とその注） kire:ka <新> migojika kire:ka <新> migotsuka kire:dza <新> migojika kireka <新.希> migosika kireidza <希.新> migokka kire:dza <新.共> migokka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01194.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01194",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01194.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "3705.42",
+      "4676.67",
+      "4725.68",
+      "5613.80",
+      "5631.75",
+      "5641.99",
+      "6575.40",
+      "7238.82"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 11-95\n実問番号 地図番号 250T 047\n項目名 キレイダ\nA 普通注記 (除いた共通語) (除いた特殊語) ページ (1)\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n地点番号    A語形とその注記 (B・C除いた語形とその注)    A注のない語形 (B・C残した語形とその注)\n3705.42    ウツクシイく新>（?）    キレイダ.\n4676.67    e:.<希><古> -- 少年時代に多く用いた    kire:da\n4725.68    e:n2 <方言として,こういう時使う>    kire:da <今><稀> udzüku süe <今><稀>\n5613.80    utsuku si: <失>    Kite:d2.\n5631.75    utsukuji: <英希>    kire:d2.\n5641.99    ki're:da <少ない>    utsukusuji;\n6406.??    utsukuji: <女が用いる>    kireida.\n6575.40    (取り消し線で消されている) kire:ja\n7238.82    tjintjika <ほ?>    rippaka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01195.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01195",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01195.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "7268.87",
+      "8239.3"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙注記一覧 11-96 資料番号 地図番号 250T 047 項目名 キレイダー A 普通注記 （除いた共通語）（除いた特殊語） （2） 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） 7268.87 utsukufjka <古> kire:ka ウツクシカ 737392 ウツクシサァ キレエ サァ <新> ウツクシカ キレエカ＜新＞ 8239.3 memenjoga Kire:ka＜新＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01196.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M047Q250/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01196",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01196.tif",
+    "source_ljc_id": "LJC-M047Q250",
+    "source_map_numbers": [
+      "047"
+    ],
+    "source_title": "〈虹が〉きれいだ"
+  }
+]

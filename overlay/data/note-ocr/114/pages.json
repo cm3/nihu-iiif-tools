@@ -1,0 +1,155 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 30-01\n資料番号 043　地図番号 114\n項目名 耳-\nページ (1)\n\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での音…は地点番号順に記す。\n・注記の＜ ＞（ ）は注記にする。\n\n見出し：地点番号／A 語形とその注記（B・C 聞いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n\nmèmē\nmi'mi\nmimi（アクセントは mimi）\nmimi\nmi'mi\n「mimī」\nmi'mi（?）miyyo\nme'me\nmē':mi\nMimi",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03001.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M114Q043/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03001",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03001.tif",
+    "source_ljc_id": "LJC-M114Q043",
+    "source_map_numbers": [
+      "114"
+    ],
+    "source_title": "みみ (耳)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "5782.79",
+      "5792.18",
+      "6277.62",
+      "6552.90",
+      "6553.99",
+      "6585.25",
+      "6618.46",
+      "7246.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 30-02\n（右上の箱） 資料番号 043  地図番号 114\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (2)\n項目名 耳\n\n（表の見出し）\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5782.79 mimi (このは少し変?) mimiに近いと考える\n5792.18 mimi 札のmigiのすか? 米2のmiのはより ごくわずか違い\n6277.62 mimi (minときいたようであったので確めたら mimiであった)\n6552.90 mimi （「ミミ」）\n6553.99 mimi （「ミミ」）\n6585.25 ミミ ＜貝殻は ミミタブラ という＞\n6618.46 ミミ ＜貝殻は ミミタボ？＞\n7246.45 min 耳、右、水を共に min という",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03002.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M114Q043/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03002",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03002.tif",
+    "source_ljc_id": "LJC-M114Q043",
+    "source_map_numbers": [
+      "114"
+    ],
+    "source_title": "みみ (耳)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "7249.95",
+      "7266.34",
+      "7266.60",
+      "7284.16",
+      "7340.24",
+      "7340.27",
+      "7341.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　30-03\n\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での排序は地点番号順に並べる。\n▶ 注記の＜＞()は抜粋にする。\n\n資料番号　043　地図番号　114\n項目名　耳\nA 普通注記 　(B 除いた共通語) 　(C 除いた特殊語)　（3）\n\n地點番号　　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n7249.95　ミミ　ミィク〈稿〉　ミミ\n7266.34　ミン　耳朶はミンパという。\n7266.60　min　（水はmin. 釘はkun. 渾はkan. 棒はkan　紙もkan）\n7284.16　min　cf. minno minpi minno hatte minno itaka 〈右の耳に水が入って耳が痛い〉\n7340.24　mimi　ミミ（ミミとはいわない）\n7340.27　mimi　〈可説は min noha という〉\n7341.42　ミミ mimi　（取り消し線） ミィ mimi 3族に対して 特に強調 ミミ mimi　という時は mi:mi も使う\n\n(手書き注記あり、読みはおおむね上記の通り)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03003.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M114Q043/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03003",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03003.tif",
+    "source_ljc_id": "LJC-M114Q043",
+    "source_map_numbers": [
+      "114"
+    ],
+    "source_title": "みみ (耳)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "7353.03",
+      "7361.82",
+      "7381.97",
+      "7391.94",
+      "7395.88",
+      "8313.88"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語は地点番号順に並べる。 注記の< > ( )は厳密にする。\n\n日本言語地図資料用紙　注記一覧　30-04\n\n資料番号　地図番号\n043　114\n項目名　耳\nA 普通注記　（丸）\n[B 除いた共通語]\n[C 除いた特殊語]\n(4)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n73 44.30\tmj' mj; ~mji'mji } MIMI\n7353.03\tmiminosu（耳の穴でなく、眼または耳合併をいう）\n7361.82\t『mjim <古>』\tmji'mji\n7381.97\t× ミイム [mi:mu] [mi:mi]\n7391.94\tミミ [mim'] [mim]\n7395.88\tmimi（iの前のmが口蓋化しているとは感じられない）\n8313.88\tmim <多>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03004.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M114Q043/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03004",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03004.tif",
+    "source_ljc_id": "LJC-M114Q043",
+    "source_map_numbers": [
+      "114"
+    ],
+    "source_title": "みみ (耳)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "8331.98",
+      "8334.25",
+      "8343.97",
+      "8345.24",
+      "0247.56",
+      "2076.99"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。 ・その中での語彙は地点番号順に並べる。 ・注記の< > ( ) は敬称にする。 日本言語地図資料用紙 注記一覧 30-05 資料番号 043    地図番号 114 項目名 耳 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (5) 地点番号 A 音形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 8331.98 min 耳だろ minnaba 8334.25 mimk <その時の調子で mimともなる> mimi 8343.97 min (たしか) 8345.24 mim 疲れ方により 「mim ga ite」など <「ミン」となる。> mimi 0247.56 min <ヒ> mimi 2076.99 murusukunumig <muruはもの sukunumig はすく耳。眼も min というので区別するためにつけたのである。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03005.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M114Q043/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03005",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03005.tif",
+    "source_ljc_id": "LJC-M114Q043",
+    "source_map_numbers": [
+      "114"
+    ],
+    "source_title": "みみ (耳)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 30-06\n質問番号 043　地図番号 114\n項目名 耳 ・\nA 普通語　B 除いた共通語　C 除いた特殊語　ページ (1)\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での首票は地点番号順にそろえる。\n・注記のくくり〈 〉は厳格に守る。\n表欄：\n見出し「地点番号」「A 語形とその注記（B・C 除いた語形とその注記）」「A 記のない語形（B・C 残した語形とその注記）」\n行1: mimi 〈新〉　/　mimiyo\n行2: mimi 〈共〉　/　mim 〈多〉\n行3: mimi 〈共〉　/　mim",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03006.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M114Q043/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03006",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03006.tif",
+    "source_ljc_id": "LJC-M114Q043",
+    "source_map_numbers": [
+      "114"
+    ],
+    "source_title": "みみ (耳)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6462.59",
+      "7370.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 30-07\n資料番号 043    地図番号 114\n項目名 耳 -\nA 普通注記    [B 除いた共通語]    (C 除いた特殊語) (1)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C残した語形とその注]\nミミタブサ 〈ミミタフサ〉は 指さして言うは　ミミ\nmiminoha は 耳殻　mimi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03007.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M114Q043/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03007",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03007.tif",
+    "source_ljc_id": "LJC-M114Q043",
+    "source_map_numbers": [
+      "114"
+    ],
+    "source_title": "みみ (耳)"
+  }
+]

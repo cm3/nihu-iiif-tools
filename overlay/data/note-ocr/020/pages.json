@@ -1,0 +1,701 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0840.33",
+      "0894.61",
+      "1893.10",
+      "2782.16",
+      "3619.08",
+      "3699.55",
+      "3705.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ) [ ] は厳密にする。\n日本言語地図資料用紙注記一覧 3-36\n質問番号 160.\n地図番号 020.\n項目名 フトイ\n(記号) A 普通注記 [B 除いた共通語] [C 除いた特殊語]\n地点番号 | A語形とその注記 [B・C除いた語形とその注] | A注のない語形 [B・C 残した語形とその注]\n0840.33  futtoi <古>\n0894.61  futoi <タ?>    okki\n1893.10  futoi <タ?>    o:kii\n2782.16  okii (?)\n3619.08  o:kîi 〈若い人は 〜uteと言う〉\n3699.55  オッキ. 図の様なものの比較にあって フデュはオッキが普通。しかし、これはフトイという共通語に対応する語とは、いかがわしい。\n3705.47  oki (hutoiではない。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00336.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00336",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00336.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3754.26",
+      "3791.02",
+      "4598.33",
+      "4599.31",
+      "4629.43",
+      "4643.47",
+      "4647.69",
+      "4666.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-37\n資料番号　地図番号\n160　020\n項目名　フトイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n3754.26　プッテ(少)\n　　　　オッキ(少)\n3791.02　o:kši: (φutoを誘導してみれ)\n　　　　(M) φutoi\n4598.33　dekai <希 古>\n　　　　亜utoi; φutoi\n4599.31　dekai <希>\n4629.43　φutte: (大きい、高いなどもフッテである)\n4643.47　o:tsübui <-158のカードの注から。Jok印?\n　　　　o:ki:, φutoi\n4647.69　o:ki: (新しいものであろう)\n　　　　dekkoe\n4666.42　okki: <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00337.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00337",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00337.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4676.42",
+      "4685.72",
+      "4695.87",
+      "4711.41",
+      "4721.36",
+      "4731.42",
+      "4731.85"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )[ ]は厳密にする。\n日本言語地図資料用紙注記一覧 3-38\n質問番号 地図番号\n160 020\n項目名 フトイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  (3)\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\nオッキラ、大きだの訛り、マルサガオッキラと言う。\nEutoe... 大さにつき言ったもの\no:ki: (共？)\n[ɸüito]\n[ɸiitto]\n[ɸütto:e]\n[ɸüitoe]\n[ɸii ttoe]\n[ɸüi toe]\n deTkoe",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00338.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00338",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00338.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4760.64",
+      "4783.74",
+      "5462.57",
+      "5463.12",
+      "5472.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[]は厳密にする。 日本言語地図資料用紙 注記一覧 3-39 資料番号 地図番号 160 020 項目名 フトイ (A)普通注記 (B)除いた共通語 (C)除いた特殊語 ページ (4) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] [Eüitto] [Eüittoe] [Eüitoe] okk: (フトイは使いませんか? というと、 <フトイボウとは言わぬ> ということであった。) オオケナ〈多〉 フトイ フトイ〈多〉 オオケナ o:kena (3)(?) cf. 158. そのときは 中te: が出れ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00339.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00339",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00339.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5507.09",
+      "5538.33",
+      "5548.58",
+      "5556.84",
+      "5559.51",
+      "5568.57",
+      "5594.37",
+      "5597.78"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく <> ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 3-40 資料番号 160 地図番号 020 項目名 フトイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] (5) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] futoi <多> dekai dekai <稀> φutoi dekai <希> futoi [＊] futoi dekai 5559.51 デカイ (フトイとは言えない) デカイ (マワリがデカイのように使う) フトイ ikai 古, イカイ (イカイはばく然とした表現である。正確に言えばフトイである。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00340.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00340",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00340.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5599.41",
+      "5604.52",
+      "5605.57",
+      "5612.98",
+      "5613.33",
+      "5614.24",
+      "5617.85"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉（）［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧    3-41\n質問番号　地図番号\n166　020\n項目名　フトイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5599.41　デカイ〈希〉〈例，太い大根をみて，「ワ フトイ」\n　　　　ア．デカイのように使う。　　　フトイ\n5604.52　dekke:（大きい意味にも用いる。）\n5605.57　フトエ（若）\n5612.98　[degal]\n5613.33　mutoe.（これを多く用いることがシルガ？）　dekkeze\n5614.24　dekke: 「外に言う方はありませんか」の問に対する答え。\n5617.85　hute:〈川や小さい流れの水が増えることを huto kku naru, hute:〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00341.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00341",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00341.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5622.48",
+      "5624.05",
+      "5635.65",
+      "5643.33",
+      "5644.74",
+      "5646.39",
+      "5652.22",
+      "5655.57"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 3-42\n質問番号 160  地図番号 020\n項目名 フトイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (7)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[]は厳密にする。\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n反対を、hosokunaru, hose:という\n5622.48 dekke: <古>、両方使うか; dekke'は古いtoは Tok印す 少年時代に多く用いられ。\n5624.05 dekke: <古> <これを使うことが多かった> Futo e\n5635.65 フトイ（共）\n5643.33 gobute <ゴツイものの時> Fute\n5644.74 フテエ <共>\n5646.39 フテエ <タ>\n5652.22 Fute: <俗に言うことは> 夫toi / Futo i\n5655.57 フトイ（共）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00342.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00342",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00342.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5657.73",
+      "5661.68",
+      "5661.89",
+      "5664.58",
+      "5666.18",
+      "5666.22",
+      "5686.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の<>()[]は厳密にする。 日本語語地図資料用紙 注記一覧 3-43 質問番号 160 地図番号 020 項目名 フトイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (8) 地点番号 A語形とその注記【B・C除いた語形とその注】 A注のない語形【B・C残した語形とその注】 フトイ(共) hutoi (hute:と言いませんか、と聞いてみれば、hutoiと言うだけん、と答えてくれ。) 下. gobute: <意味は強くなる。> hute: フテエ <下> フトイ フトイ <共> フテエ <共> フテエ <多> フトイ φute: <希> φutoi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00343.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00343",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00343.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5687.32",
+      "5687.60",
+      "5696.54",
+      "5697.24",
+      "5697.53",
+      "5667.81"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-44\n質問番号 160 地図番号 620\n項目名 フトイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n地点番号\tA 語形とその注 [B・C除いた語形とその注]\tA 注のない語形 [B・C 残した語形とその注]\n5687.32\tフトイ ＜普通＞＜どちらかと言えば＞\tフテエ\n5687.60\tデカイ（何か甚か違いかと思ってれたしだか、不明）\n\tフトイ..昔（フトイ、ホソイは昔使っていたことばだが、今は使わないとのこと。？）\n5696.54\tdekkai 古 ＜昔は大概こちらを使った＞\tfuito\n5697.24\tフテエ ＜稀＞\tフトイ\n5697.53\tdekai ＜古＞\tfuito\n5667.81\tフトイ ＜多＞\tフテエ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00344.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00344",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00344.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5671.38",
+      "5674.06",
+      "5675.87",
+      "5781.65",
+      "5792.02",
+      "5793.20",
+      "6349.80",
+      "6357.38"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n日本言語地図資料用紙 注記一覧 3-45\n質問番号 地図番号\n160 020\n項目名 フトイ\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語 (10)\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\nhute: <ぞんざいな言い方> \tフトイ\nフテエ <タ> \tフトイ\nフトイ. 普通 \tデカイ\n[butte:] ということもある \t(注記不明)\n# eutoï <タ> \teke:\nbuttoï <古くは>\neute: \t} e は狭い e\neute:\nikai <多> \t(futor?)\nイカイ <古> \tフトイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00345.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00345",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00345.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6395.61",
+      "6406.77",
+      "6411.80",
+      "6412.91",
+      "6416.31",
+      "6417.14",
+      "6418.13"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）［］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　3-46\n資料番号　地図番号\n160.   020\n項目名　フトイ\n\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\n(11)\n\n地点番号　　A 語形とその注記［B・C 除いた語形とその注］　　A 注のない語形［B・C 残した語形とその注］\n\nikae ① futo i\nFutoi <クヮ>　　　　　　　　　　　　　　　o:ki:\nフトイ <クヮ>　　　　　　　　　　　　　　オオキイ\no:ki: (o:kite)\no:ki: (フトイという返事を期待していたが、出なかった。159と共にいささか被調査者は困ったようだ)\n\nfute: <クヮ>\nオッキイ。＜明確に言えばフトイですが、オッキイとも言う。＞\nフトイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00346.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00346",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00346.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6419.09",
+      "6419.50",
+      "6429.61",
+      "6430.26",
+      "6475.27",
+      "6475.61",
+      "6500.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-47\n質問番号 160  地図番号 020\n項目名 フトイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (12)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6419.09　フテエ〈古〉　　　　フトイ\n6419.50　フテエ〈古〉\n6429.61　フトエ〈希〉　　　　フトイ\n6430.26　Futoi〈多〉　　　　o:ki:\n6475.27　フテエ〈普〉　　　　フトイ\n6475.61　o:ke: …　タクいう　　futoi\n6500.22　ブテエ〈古〉　このブテエの場合のみ\n　　　　フトイ〈普通〉は[ai]→[oe:]の変化が完全に起こっている。普通には[e:]と発音される。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00347.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00347",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00347.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6500.83",
+      "6507.48",
+      "6509.91",
+      "6526.04",
+      "6529.15"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　3-48\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）は厳密にする。\n\n質問番号　160　　地図番号　020\n項目名　フトイ\n(A)普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ（13）\n\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n大体の語は、[oi]のままで発音される。\n\n6500.83　フトイ。[te:]に近く発音されることあり　　　フトイ\n6507.48　ドエライ　〈比較してみて差がはなはだしく、一方が太い場合にドエライという。〉　　　フトイ\n6509.91　イカイ〈希〉　　　フトイ\n6526.04　フトエ（これは自然な発音）　　　フトイ\n6529.15　イカイ（ばくぜんと太いものを表現する場合に使う。）　　　フトイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00348.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00348",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00348.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6549.68",
+      "6541.66",
+      "6543.56",
+      "6547.79",
+      "6552.46",
+      "6557.36",
+      "6561.49",
+      "6562.64",
+      "6571.15",
+      "6572.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-49\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n質問番号 160    地図番号 020\n項目名 フトイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (14)\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]\n6549.68 (取消し)\n6541.66  オオキイ〈フトイと言わずに〉\n6543.56  イカイク〈古〉    フトイ\n6547.79  亜ute:〈古〉〈あまりよい言い方ではない〉  亜utoi\n6552.46  butoi〈子供〉    且utoi\n6557.36  [Φutoi]\n6561.49  ブトイ〈非常に太い時〉    フトイ\n6562.64  デライ（ドエライの訛化形か）\n6571.15  ゴッツイ〈大そう太い〉    フトイ\n6572.97  gottsui ...158カードによって補う。Tok印",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00349.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00349",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00349.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6600.97",
+      "6603.08",
+      "6620.49",
+      "6632.88",
+      "6641.43",
+      "6686.75",
+      "6697.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-50\n質問番号 地図番号 160 020\n項目名 フトイ\n(A)普通注記 (B)除いた共通語 (C)除いた特殊語 ページ (15)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号  A 語形とその注記【B・C除いた語形とその注】  A 注のない語形【B・C 残した語形とその注】\n\n6600.97  Futoi: <Fute:とは言わぬ。佐久でFute:と言うのを聞いて驚いた。>\n6603.08  フテエ〔古〕                                         フトイ\n6620.49  hyutoi (3) [hute:] く! ヘラ回りの雲へ    人はhute:と言う>\n6632.88  ikai 希                                         Futoi\n6641.43  dobutoi <特に太い時>                           Futoi\n6686.75  φuttoi〈古〉〈昔の婆さんのことば〉           φutoi\n6697.39  φyute:〈ぞんさいなことば〉                    φyutoi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00350.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00350",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00350.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6697.59",
+      "6698.20",
+      "7239.29",
+      "7266.09",
+      "7339.27",
+      "7355.81",
+      "7356.06",
+      "7356.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-51\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n（右上の欄）項目番号 160 地図番号 020 項目名 フトイ ページ (16)\n表ヘッダ: 地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6697.59 ikai 〈俗に使う〉\n6698.20 φutoi 〈み〉\n7239.29 o:ki: 〈フトイとは言わない〉\n7266.09 Futoka 〈長い時に Futokaということもある。〉\n\n7339.27 o:ke-na 〈普通〉    o:kei, o:ke:\n7355.81 okki: (一般に「大きい」と「太い」とを) φutsi: (区別しないようである。)\n7356.06 φti: 〈古〉    o:ki:\n7356.70 okki: 〈み〉    o:ki:\n(注: 上記は原稿の手書き文字をおおまかに文字化したもの。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00351.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00351",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00351.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7357.64",
+      "7366.87",
+      "7372.29",
+      "7374.15",
+      "7403.21",
+      "7404.12",
+      "7404.56",
+      "7411.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-52\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n（右上の箱） 資料番号 160 地図番号 020 項目名 フトイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (17)\n表見出し：地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7357.64  o:ki: 〈上〉\n7366.87  okki: 〈今は、この方を多く用いる〉\n7372.29  フテェ 〈親近語〉\n7374.15  フトカ 〈新〉\n7403.21  o:kina（終止の……方である。kotti:no ho:ga zutto o:ki na ようにいう。）\n\n7404.12  o:ki: 〈上〉\n7404.56  o:ki: 〈新〉\n7411.61  o:kena（針金や縄・紐などのように…）\n（右欄手書き） ϕutɕi:  ɔtɕi:  フトカ  フテエ  Futo i  hutoi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00352.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00352",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00352.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7420.91",
+      "7427.90",
+      "7460.30",
+      "7502.22",
+      "7570.18"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　3-53\n質問番号 160　地図番号 020\n項目名 フトイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (18)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n長いものでは <hutoi><hosoi>（というよし。）\n7420.91 o:kii（中学二年の女児は Futo iと言った。）\n7427.90 重utoi <主として>　　　okkjui\n7460.30 Fut:oi <強調したとき>　　　Futoi\n7502.22 o:ki:， φutoi, hosoi は余り言わず大きい、小さいで言います。（笑いの観念あまりはっきりせず。）\n7570.18 フットイ <強めた言い方>　　　フトイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00353.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00353",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00353.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7514.21",
+      "7523.74",
+      "8313.84",
+      "8325.56",
+      "8332.07",
+      "8345.74",
+      "8363.51"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 3-54 資問番号 地図番号 160 020 項目名 フトイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) (19) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n7514.21   Futoi (強調形として dobuto'i がある)\n7523.74   futoi , (ふとん)\n8313.84   Futoka <方>    Fute:\n8325.56   Futji: <ち>\n          Fute: <ち>\n          okki: <新>\n8332.07   Fute {<気分により>} Futoka\n8345.74   okken <方>    Futji\n8363.51   Futji <方>    Fute",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00354.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00354",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00354.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "0228.96",
+      "0237.79",
+      "0294.66",
+      "0294.93",
+      "1213.76",
+      "1271.05",
+      "2095.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-55\n資料番号 地図番号 160. 020 項目名 フトイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (20)\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n0228.96  magëka <...>   , makika\n0237.79  Fuːtesani (希)   Fu:sari\n0294.66  Fuisa, <Fuisanという人もあるか;目今は言わない.>\n0294.93  Fuisan, Fuiscaで終止することが多い.\n1213.76  uFisaji, uFisaで終止することも多い.\n1271.05  magiθan # (θ = l)\n2095.60  mitsitsahan, 例に = MICISA-",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00355.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00355",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00355.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-56\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n質問番号: 160\n地図番号: 020\n項目名: フイト\n(A) 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (21)\n\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nHANとしたが (C1)に問題あり。(注) TOK 印す",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00356.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00356",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00356.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "0840.33",
+      "4638.43",
+      "4648.42",
+      "4665.87",
+      "4685.10",
+      "4685.72",
+      "4687.07",
+      "4696.82"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧\n質問番号 160  地図番号 020\n項目名 フトイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (1)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n\n0840.33 futoi 〈今〉    futtoi 〈古〉\n4638.43 [futte:]         okki:\n4648.42 ɸutoe 〈希,共〉   dekke:\n4665.87 ɸutoi 〈希〉 (外に言うことはありませんかの答)\n4685.10 [ɸutoe] 〈希〉    o:ki:\n4685.72 dekke … 大きさにつき言ったもの。\n4687.07 ɸutoe 〈希,共〉   o:Tki:\n4696.82 ɸutoe 〈新〉      dekkoe",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00357.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00357",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00357.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "4766.53",
+      "4762.56",
+      "4773.78",
+      "5463.64",
+      "5517.57",
+      "5549.09",
+      "5574.84",
+      "5594.37",
+      "5611.39",
+      "5614.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-58\n質問番号 160 地図番号 020\n項目名 フトイ\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ (2)\n\n地点番号  A 語形とその注記・〔B・C除いた語形とその注〕  A 注のない語形〔B・C 残した語形とその注〕\n\n4766.53  φutoe (共)    o:kki\n4762.56  φutoe.        φutttoe <方言的>\n4773.78  hwtoe <稀>     okki:\n5463.64  フトイ. ＜希＞  オオキイ\n5517.57  φutoi <希>     dekai\n5549.09  φutoi <希>     dekkai\n5574.84  φuitoe  上品な言い方と言う   ikai\n5594.37  Futoi  新      ikai 古\n5611.39  φutoe (新)     deTkae\n5614.24  φutoe <上>     dekke: 外に言う方は",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00358.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00358",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00358.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5626.92",
+      "5631.16",
+      "5631.75",
+      "5633.45",
+      "5633.96",
+      "5641.07",
+      "5643.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　3-59\n（上部右の枠）160　020　項目名　フトイ　A 普通注記　（B 除いた共通語）（C 除いた特殊語）　ページ（3）\n（表ヘッダ）地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n右欄手書き： 「ありませんか」の問に対する答え。\n5626.92  φute: [新]    okke:\n5631.16.  Futoi <共>    Fute:\n5631.75.  hutoi <共>    hute:\n5633.45.  hyutoe <ていねい方>    hyte:\n5633.96.  Futo e <共>    Fute\n5641.07   Futoi <共>    Fute:\n5643.33   Futoi <ていねい>    Fute\n（下段右端）gobute <ゴツイものの時>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00359.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00359",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00359.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5644.74",
+      "5651.45",
+      "5651.95",
+      "5652.81",
+      "5653.60",
+      "5661.34",
+      "5663.68",
+      "5667.24",
+      "5681.49",
+      "5684.11"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 3-60 質問番号 160 地図番号 020 項目名 フトイ A 普通注記 （除いた共通語） （除いた特殊語） ページ 43 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 5644.74　フトイ〈上〉　フテエ〈共〉 5651.45　Futoi〈共〉　Fute: 5651.95　Futoi〈共〉　Fute: 5652.81　hutoi〈共〉　hute: 5653.60　hutoe〈共〉　hute: 5661.34　Futoi〈上〉　Fute: 5663.68　Futoe〈共〉　Fute: 5667.24　フトイ〈上〉　フテエ〈下〉 5681.49　Futoi〈共〉　Fute: 5684.11　Futoi〈共〉　Fute:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00360.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00360",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00360.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5696.68",
+      "5699.25",
+      "5671.38",
+      "5672.67",
+      "5673.78",
+      "5674.54",
+      "6405.95",
+      "6408.88",
+      "6409.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n3-61\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n質問番号 160. 地図番号 020\n項目名 フトイ\nA 普通注記  B 除いた共通語  C 除いた特殊語 (5)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5696.68　futoi <共>　dekai\n5699.25　zubutoi <極めて太いの意>　Futoi\n5671.38　hutoi <共>　hute:, <ぞんざいな言い方>\n5672.67　Futoi <共>　Fute:\n5673.78　Futoe <共>　Fute:\n5674.54　Futoi <共>　Fute:\n6405.95　Futoi <稀>　o:ki:\n6408.88　フトイ <共、稀>　フトエ\n6409.00　フトイ <上>　フトエエ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00361.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00361",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00361.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6409.72",
+      "6417.14",
+      "6419.50",
+      "6429.30",
+      "6469.19",
+      "6539.78",
+      "6546.15",
+      "6548.82",
+      "7502.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）[　]は厳密にする。 日本言語地図資料用紙注記一覧 3-62 質問番号 地図番号 160 020 項目名 フトイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (6) 地点番号 A 語形とその注記【B・C除いた語形とその注】 A 注のない語形【B・C 残した語形とその注】 6409.72 フトイ〈共〉　フテエ 6417.14 φutoi〈上〉　φute:（多） 6419.50 フトイ〈新,共〉　フテエ〈古〉 6429.30 フトイ〈上、希〉　フテエ 6469.19 フトイ〈希、新〉　ブットイ 6539.78 亜utoi〈共〉　亜ute: 6546.15 フトイ〈標準語〈くさい〉〉　フットイ 6548.82 亜utoi〈共〉　亜ut·toi 7502.22 φutoi〈共〉　o:ki; φutoi, hosoiは余り言わず、大き",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00362.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00362",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00362.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "8303.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-63\n資料番号 160 地図番号 020 項目名 フトイ\nA 普通注記  B (除いた共通語)  C (除いた特殊語) ページ (7)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n8303.47 ヨコンフトカ\n（右欄手書き） い、小さいですます。（vP、太いの観念あまりはっきりせず。）\nフトカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00363.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M020Q160/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00363",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00363.tif",
+    "source_ljc_id": "LJC-M020Q160",
+    "source_map_numbers": [
+      "020"
+    ],
+    "source_title": "ふとい (太い)"
+  }
+]

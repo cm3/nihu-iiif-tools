@@ -1,0 +1,1552 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0776.88",
+      "0896.22",
+      "1756.32",
+      "1862.48",
+      "2741.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 42-96 質問番号 地図番号 147 A 普通注記 (ページ) [B 除いた共通語] [C 除いた特殊語] (1) 項目名 鬼ごっこ 083 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 (B・C 残した語形とその注)\n0776.88 ぼざっこ <鬼>\n0896.22 オンゴッコ ボロオニ oniyokko\nオニゴッコは鬼が目をつぶって、目をあけている子どもを追いかける。ボロオニは目をあけた鬼が目をあけた子供を追いかける。さわってもためで振り切られないように、つかまなければならない。それで男の子の乱暴な遊び。\n1756.32 ボイヤンコ <古> オニゴッコ\n1862.48 オンコ <古> 同上\n2741.46 ポジャッコ <主> ポリジャッコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04296.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04296",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04296.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2761.44",
+      "2765.02",
+      "2765.71",
+      "2772.74",
+      "2775.45",
+      "2782.67",
+      "2783.06",
+      "2784.63",
+      "2785.31",
+      "2790.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 42-97\n項目番号 地図番号 147\n項目名 鬼ごっこ 088\nA 音通注記 (ページ)\n[B 除いた共通語]\n[C 除いた特殊語]\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n〈古〉 borinekkō    onikō\nonijōkko (新?)\n〈新〉 onijōko ＜昔はこの遊びをしなかった＞\nN.R. ＜この遊びはしたことがない＞\nonijōko (共?)\nN.R. この遊びしない。\n〈古〉 borionkī\nN.R.\n〈?〉 oniasobi\n〈この遊びをしたことがない〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04297.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04297",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04297.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2792.73",
+      "2793.51",
+      "3688.82",
+      "3701.37",
+      "3704.57",
+      "3716.58",
+      "3720.71"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記 — 42-98\n質問番号　地図番号　147　項目名　鬼ごっこ　088　A 普通注記　ページ（3）　[B 除いた共通語]　[C 除いた特殊語]\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形（B・C 残した語形とその注）\n\n2792.73　N.R.　この遊びをしたことが無い。〈今の子供は onijoko と言う〉\n2793.51　<??>　oniko-asobi\n3688.82　oni（古）　onikoko\n3701.37　〈6〉　okkonando　oniökko\n3704.57　onikko［新］（鬼ごっこにあたる遊びはなかった。） onikko は かくれんぼに当るか？ のちに 鬼ごっこをも指すようになったので［新］とした。\n3716.58　N.R.　〈この遊びをしたことがない〉\n3720.71　onijoko　先はなかった。後になって行われたトイツ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04298.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04298",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04298.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3721.71",
+      "3723.21",
+      "3733.88",
+      "3750.75",
+      "3760.93",
+      "3770.49",
+      "4589.83",
+      "4598.33",
+      "4598.59",
+      "4609.54"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-01\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語)\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n3721.71 onigokko <今>\n3723.21 N.R. 思い出せない\n3733.88 N.R. (そんな遊びをしないという)\n3750.75 N.R. 不明。記憶がはっきりしていない。\n3760.93 onigokko <鬼でない逃げる方を〇という>\n3770.49 N.R. 不明。どうも思い出せないらしい。\n4589.83 N.R. <但し、ココマデコイ(ここまで来い)ということがある>\n4598.33 gariyokurai (?)\n4598.59 garunyoto (同上)\n4609.54 onidori -> 下より前から\n(jinéra botji -> 明治末頃から いう様になった)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04301.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04301",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04301.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4619.29",
+      "4638.43",
+      "4643.47",
+      "4647.87",
+      "4648.59",
+      "4652.79",
+      "4653.84",
+      "4663.49"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-02\n質問番号　地図番号　/47\n項目名　鬼ごっこ　088\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語] (5)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n4619.29 onibuguru (089と呼称の別なし)\n4638.43 onigoto (onigoto は 089 のかくれほこも含めた総称としても用いられる。)\n4643.47 oeigoku <追い合いごっこの意である>\n4647.87 バエ　動詞は バエスル\n4648.59 onigokko <古くからこう云っている>\n4652.79 onigokko (ゆっくり発音した形)\n4653.84 onigoto <古>\n4663.49 oaigoku opigoto [新]　(opigoto の記載など)\n\n（手書きの注記や語形が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04302.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04302",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04302.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4675.45",
+      "4689.14",
+      "4689.62",
+      "4697.92",
+      "4703.18",
+      "4704.96",
+      "4705.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-03\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語)　(6)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は省略にする。\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　(B・C 残した語形とその注)\n\n4675.45  *  oni jiru （じる） を省略して oni に分裂した。（はじめ onisuru と答えた。）\n4689.14  onigodo　〈多く使う〉　　　onigokko\n4689.62  oniyodo　〈古〉　　　　　　#oniyokko\n4697.92  oekkura （oni kkumura / onikkura）\n（oekkura はもっと広い意味。追いかけてつかまえるあそび — 一般をさすとのこと。渡辺英雄氏談）\n4703.18  oge:ko asobi　〈古〉　　　　onikkoasobi\n4704.96  オニドリ　〈古〉　　　　　　オニゴッコ\n4705.20  オニンブグロ（オニンブグロ？）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04303.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04303",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04303.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4711.41",
+      "4711.42",
+      "4711.49",
+      "4713.02",
+      "4714.22",
+      "4716.20",
+      "4720.17"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は敬称にする。\n\n日本言語地図資料用紙　注記一覧　43-04\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n\n地 点 番 号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n[kagurekayo] (089も同じ)\nsimekurakko (ユ)\nメグランボ　…　目をふさいでする場合\nオニゴッコ　…　オニが目をふさがない場合\n\nN.R.　<この遊びをしたことがない>\n\nose:kayo　<オサエガである。つかまえることをオサエルという。>\n\nonikoniko　[鬼か多勢にふえて行く遊び] (?)\noniko　[鬼が一人だけの遊び] (?)\n\n?bolkumpa　(活中複数のラ行音はしばしばファ行音となる)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04304.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04304",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04304.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4724.28",
+      "4726.80",
+      "4730.96",
+      "4731.15",
+      "4735.37",
+      "4736.63",
+      "4740.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-05 質問番号 地図番号 147 項目名 鬼ごっこ 088 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (8) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 4724.28 onibukuro 同席していた被調査者の孫2人 (小学校2年生と4年生)は [o]saka]ja'ka]であると言った。 4726.80 [onikko] <新> onibumguro 4730.96 /emekura (?) 4731.15 jimerapoppo <古> onija'sobi 4735.37 oniyokko (共) 4736.63 bukmure tajyko <古> 4740.93 osaekuxayo? <オニがめかくしせぬ場合> osaekumray o oniyokko (手書き注記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04305.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04305",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04305.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4742.95",
+      "4760.64",
+      "4761.57",
+      "4763.45",
+      "4763.62",
+      "4780.64",
+      "4784.41",
+      "5463.64"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-06\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は略記にする。\n\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記　ページ (9)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n# [onibukusio] <?>    onimbukuto\n[oniyokko] [osaekura] (最終のうは呑み こひょうにいう)\n<古くはオサエクラ。今はオニョッコ>\noniyoto <多く使う>\nonitori <もっと使った。今は使うことが少い>\n*onigoto (訂正する前の語形は[onigokko])\n#onigokko <新>\n?#oniyodo\noniyodo <古>  oniyokko\nオンバイコ <古> オニゴトアソビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04306.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04306",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04306.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5472.91",
+      "5507.20",
+      "5507.66",
+      "5516.19",
+      "5517.90",
+      "5518.20",
+      "5527.89",
+      "5538.33",
+      "5568.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-07\n質問番号　地図番号　/ 147\n項目名　鬼ごっこ　088\nA 普通注記 (丸)　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (10)\n\n表ヘッダ：地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nopigoto [中の島の等 は] je:bai\nmekayko　メカンコは魚かめくらのような。　owaeyokura\nkakurembo (鬼ごっことかくれんぼの区別はない)\nN.R.　〈わからない〉\nkakuronoi　089と同じ\nN.R.　〈したことがない〉　強いて言えば kakurembo だという。\nonsanyoto <古>　ondobakko\nonigokko <新>\n(音) ホシツク　オニゴッコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04307.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04307",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04307.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5578.27",
+      "5590.53",
+      "5591.91",
+      "5594.02",
+      "5595.20",
+      "5605.70",
+      "5609.26",
+      "5611.39"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-08\n地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\n(11)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）[]は厳密にする。\n\n地点番号　　A 語形とその注記　[ B・C除いた語形とその注 ]　A 注のない語形（B・C 残した語形とその注）\n5578.27　オニゴッコ　（オニゴッコではない）\n5590.53　オイカケハンパ　〈やや古〉\n5591.91　オニゴト　・オニゴトかオニゴトか　三回（聞き）直したが不明。\n5594.02　oniikabo:　優位。　oniyokko\n5595.20　oninoko　yoke:o　となない。\n5605.70　opigoto　〈新〉\n5609.26　onigyoto a so bi → ここを ・・・ にするか古い言いかた。\n5611.39　meTko　〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04308.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04308",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04308.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5615.28",
+      "5622.48",
+      "5623.42",
+      "5646.39",
+      "5649.53",
+      "5661.34",
+      "5666.18",
+      "5671.94"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　43-09\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (12)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C] 残した語形とその注\nonigoto　＜新＞\nonigokko　＜新＞\noniyoto　＜新＞\nオニゴト　＜古＞\nonikkodori\nオニゴッコ　普通の言い方\nオニトビ\noniyokko [makurikko] それは違う遊びのことだ。\n（以下余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04309.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04309",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04309.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5677.28",
+      "5678.33",
+      "5679.86",
+      "5681.41",
+      "5682.37",
+      "5687.32",
+      "5688.37"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-10\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記　ページ\n[B　除いた共通語]　[C　除いた特殊語]\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)\n\n5677.28　オニンゴッコ　アルベエ　（ヤルベエを省略した）　←＜めがくしでつかまえる遊び＞\n5678.33　オニサンゴッコ　＜普＞　オニゴッコ\n5679.86　N.R.　（荒）　onijokko\n5681.41　N.R.　[oikkura]　被調査者もそれに同意\n5682.37　onijakko　＜古＞\n5687.32　オニゴッコ　（意味も使い方も同じようであるとの答え。）　オニッコ\n5688.37　オニゴッコ　カワネンボ？\n\n（下部に小さい手書き注記あり、判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04310.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04310",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04310.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5696.54",
+      "5697.53",
+      "5698.91",
+      "5740.43",
+      "5741.25",
+      "5750.30",
+      "5760.57",
+      "5781.22",
+      "6286.68",
+      "6357.74"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）【】は厳密にする。 日本言語地図資料用紙 注記一覧 43-11 質問番号 地図番号 147 項目名 鬼ごっこ 088 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] (14) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) opi: dokko 〈右〉 opinyokko 〈今の子供はこういう〉 opinyoto 〈?〉 オニトビ 〈右〉 onikko oniyoto(aso bi) onityokko (誘)onityodo N.R. この遊びなし opiogokko 〔新?〕 オニクラブ? オニゴッコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04311.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04311",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04311.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6358.43",
+      "6365.91",
+      "6368.60",
+      "6369.32",
+      "6373.59",
+      "6375.40",
+      "6387.62",
+      "6388.52",
+      "6395.61",
+      "6395.97"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-12\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(15)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は原稿にする。\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　{B・C　残した語形とその注}\n\n6358.43　オニゴット　[右]　オニゴッコオ\n6365.91　N.R.　＜やったことがない＞\n6368.60　N.R.　めやくしおに　は zattosan\n6369.32　古。　オニゴト\n6373.59　N.R.　＜そんな遊びをした事がない＞\n6375.40　同上\n6387.62　onisagokko　＜こちらの方を多く使う＞　onisagoto\n6388.52　N.R.　＜やったことも見たこともない＞\n6395.61　N.R.　① [onigokko]\n6395.97　N.R.　＜やったことがない＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04312.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04312",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04312.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6396.08",
+      "6397.62",
+      "6398.42",
+      "6403.60",
+      "6406.77",
+      "6407.43",
+      "6408.72",
+      "6411.33"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-13\n質問番号　地図番号　147　ページ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(16)\n項目名　鬼ごっこ　088\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は敬習にする。\n\n地 点 番 号　　A　語形とその注記　〔B・C除いた語形とその注〕　A注のない語形　（B・C 残した語形とその注）\n\n6396.08　?onigoto　[onisa]\n6397.62　N.R.　〈こんな遊びをやったことがないから〉\n6398.42　N.R.　〈そんな遊びをやらなかった〉\n6403.60　ポエヤコ　（ボウ＝追う）\n6406.77　[onisagnyoto]（被調査の妻が答えた。この妻はここから1村ほど離れた所から嫁に来た由） onigoto\n6407.43　ポイヤコ　石黒藩 → ポイヤコ、ポジャコ\n6408.72　誘　boijako　〈古〉\n6411.33　ボン和ケヤコ（ボンヤケソル＝良いかける）（ヤコ＝ここ）\n\n(手書き注記や一部判読困難な箇所あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04313.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04313",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04313.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6413.43",
+      "6414.17",
+      "6415.78",
+      "6415.80",
+      "6415.83",
+      "6418.75",
+      "6422.93",
+      "6424.20"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞()[]は厳密にする。\n日本言語地図資料用紙　注記一覧　43-14\n質問番号　地図番号　147\n項目名　鬼ごっこ　068\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (17)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)\n6413.43　N.R. (この地方は追っかけごっこはするか? 鬼はいない)\n6414.17　boijako　<古,多>　onigokko\n6415.78　onigokko (新しい言い方らしい)\n6415.80　boijako　<古,多>\n6415.83　bojaiko (鬼がなくてもよい。ボジャイコは元来追っかける意味である。)\n6418.75　オニゴット <古>\n6422.93　チカマエコ (チカマエル = 捕える)\n6424.20　# onigok:0 <新> オニフッコは方言か聞き直して発音したもの\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04314.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04314",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04314.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6426.04",
+      "6427.27",
+      "6427.40",
+      "6435.03",
+      "6437.07",
+      "6440.67",
+      "6458.40"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-15\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉（）[]は厳密にする。\n\n質問番号　地図番号　／　147\n項目名　鬼ごっこ　088\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　(18)\n\n（表見出し）\n地点番号　　A　語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C 残した語形とその注）\n\nboijaigo （ボジャーゴというのは追いかけやいこの変体か源義であるか？　鬼でツンは追いかけるからこの遊びにこの語をあてる。）\n\nboijako　＜自分はしたことがない＞\n\nonikoyngo（同席していた郷原の小学校長は[boijako]といったが あまりにならない）\n\nオニトリ　（昔）　オニトリアソビ？\n\nオニゴト　＜右＞\n\nオニゴト　＜新＞\n\nモヨ　＜右＞　オニゴト　＜新＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04315.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04315",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04315.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6459.29",
+      "6472.68",
+      "6473.04",
+      "6479.51",
+      "6484.43",
+      "6485.14",
+      "6486.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-16\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (19)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）｛｝は厳密にする。\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n# オワエゴク〈古〉    オニゴッコ\nN.R.　この遊びはせずという…？　強いていえばツコマエにイクという点。\nN.R.　この遊びはせず\nonigoto (-g- ~ -j- ~ -yg- ~ -y-)\n〈オニ〉　〈オニスル、オニヌルか、オニシンカなどという〉\n〈新〉　オニガイ\n［米］　オワエエ\n\nオニゴッコは標準語意識であったが、なお念を押して書かれてもまつ来所のうちの○○に当たる所。常の三浦…（続）\n（以下手書き注記長文）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04316.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04316",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04316.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6490.30",
+      "6491.49",
+      "6492.50",
+      "6494.21",
+      "6498.93",
+      "6500.22"
+    ],
+    "other_text": "日本方言地図資料用紙　注記一覧　43-17\n質問番号　地図番号　147　項目名　鬼ごっこ　088\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(20)\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（）[]は厳密にする。\n（表見出し）地点番号　A 語形とその注記　[B・C除いた語形とその注]　A 注のない語形　(B・C 残した語形とその注)\n\nイエワァ　<イエワァ やらんか>　などという。　（注は je と思われる）　子供にきくと　<エーロー>　とも答えた。しばらく疑問とすべし。\nonisan　（海岸部の大浜部落では owaego ともいう。　この地方では追いかけることも owaeru という。）\nojigokko　（近ごろ子供達は onisan と言っている。）\nオニアソビ　<古>　オワイヤイ　<新>\nowaino suru　→省略\nオニゴト　<やや新しい>\n（その他書き込み、傍注や手書きメモ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04317.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04317",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04317.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6501.86",
+      "6503.66",
+      "6509.43",
+      "6510.65",
+      "6512.02",
+      "6515.70"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-18\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）は厳密にする。\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　若測注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(21)\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n6501.86　オニゴッコ　＜やや新＞\n6503.66　oniyoko:o　＜上＞\n6509.43　オニゴッコ　＜共＞\n6510.65　オニゴト　オニゴト　(yo) (go)　この語の場合、[ ]が多い様に感じられる。\n6512.02　[tsumukamae oni]　(手書き注記が長く続く)\n6515.70　oniyoto　＜古＞＜近隣の子供は oniyoto と oniyokko を用いるようである＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04318.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04318",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04318.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6519.67",
+      "6522.03",
+      "6522.93",
+      "6529.88",
+      "6530.23",
+      "6534.37"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-19\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]　(22)\n表ヘッダ: 地点番号　A語形とその注記　（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n?　オニゴッコ\nオニ　オニゴッコ\n「オニして遊ぶ」と今の子供でも友人を誘う時にいう。たゞ オニゴッコというのも相当古くから言われていたらしい。\nオイカケゴッコ（古）\nboijai  <オニゴッコは新しいことばのような気がする。\n昔 ボイヤイというのをやった。これは鬼か…>\nオワイカケヤイ（古）\noniyato <右>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04319.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04319",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04319.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6537.58",
+      "6538.46",
+      "6539.78",
+      "6542.32",
+      "6543.05",
+      "6547.24",
+      "6547.79"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の〈〉〔〕は厳密にする。\n\n日本言語地図資料用紙　注記一覧　43-20\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記　　(B　除いた共通語)　(C　除いた特殊語)　(23)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6537.58    opigokko <新> <子供のころ、何か…か思い出せない>\n6538.46    [opidot(i):] (最初 N.R.、二度目の時 同じ部落の女子(50才位)、suggestionで〈そろそろその通りだった〉と認めた)\n6539.78    opiyasobi <上><やや上品>    opigokko\n6542.32    オニゴッコ　〈多〉\n6543.05    ウカマエ　〈新〉\n6547.24    1. opiyoto　2. opiyoto　〈インフォマント1は、2は[他]〉\n6547.79    boiopi opigontsa　〈子供の頃は boiopia の方が多かった〉\n\nと思う。しかし opigontsaとも言った。語感の違いはあまりない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04320.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04320",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04320.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6549.69",
+      "6551.77",
+      "6552.71",
+      "6557.14",
+      "6557.56",
+      "6558.10",
+      "6559.67"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-21　質問番号　地図番号　/147　A 普通注記　ページ　(26)　[B 除いた共通語]　[C 除いた特殊語]　項目名　鬼ごっこ　088\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n65 49.69　opingo:　〈B〉　opigokko\n65 51.77　tsukamae　〈「ツカマエ」は相手にタッチすることを中心においた表現という。〉　opijoto\n65 52.71　ワカンミョニ　(ワカミオニの話)\n65 57.14　#? oniasobi (初回目にはどうしてもあてで・・・)\n65 57.56　boijai　〈右〉〈今はあまり変わらなくなった〉　opigokko\n65 58.10　opigokko　〈学校遊〉　*opiyotfa〈普通〉　と後より訂正\n65 59.67　opinokko　[私の方は〈opinoko〉という]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04321.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04321",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04321.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6560.40",
+      "6566.51",
+      "6568.13",
+      "6572.55",
+      "6573.71",
+      "6575.17",
+      "6575.66",
+      "6577.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-22\nA 普通注記\nページ\n地図番号 147\n項目名 鬼ごっこ 068\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（）[]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n65 60.40    チョコマエ <舌>\n65 66.51    opigoto <onigokko などというのは標準語です>\n65 68.13    opiasubi <鬼が目かくししている場合>    opigokko\n65 72.55    opigoto <を>    opigokko\n65 73.71    opinoku <弓>    opigoto <少>\n65 75.17    N.K. （こんな遊びをしたことがないそうである。）\n65 75.66    kakurembo <089の遊びとあまりない、隠れなくてもこう言う>\n65 77.71    N.R. （・・・）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04322.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04322",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04322.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6582.73",
+      "6585.83",
+      "6587.42",
+      "6591.02",
+      "6593.98",
+      "6600.53",
+      "6601.25",
+      "6603.52"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　43-23\n質問番号　　　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記　　ページ\n[B　除いた共通語]　[C　除いた特殊語]　(26)\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\n項目名欄（手書き注記）:\nオワエコット（この語を使う人もある）　　オニコット\nkakurembo（088と089とを区別しないようである）\nN.K.　＜そんな遊びは知らない。カクレンボしか知らない＞\nオニゴッコ（オニゴットという人の方が多いようである）\n#opinyokko（どうも子供時代の呼称を忘れたらしい）\n[boikkura]＜bou は違うこと＞\noninyokko　〈共〉\nonikko　〈昔〉\noniyokko (手書き英字表記)\n（ページ下部欄外の走り書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04323.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04323",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04323.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6607.84",
+      "6621.34",
+      "6626.71",
+      "6630.43",
+      "6633.89",
+      "6649.55",
+      "6652.77",
+      "6656.31"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-24\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）[]は厳密にする。\n\n質問番号　地図番号　147\n項目名　鬼ごっこ\n\n地点番号　A語形とその注記　（B・C除いた語形とその注）\n66 07.84　onidokko　<鬼になって追いかける子を['onikko']という。>\n66 21.34　新　oninokko\n66 26.71　?　okkakeyokko　（少し自信がなさそうだった）\n66 30.43　boijakko　なかなか落ちついていなせないので、説得した。\n66 33.89　oninoko　多く使う\n66 49.55　opi　〈音〉　oniyokko\n66 52.77　oniyo ko\n66 56.31　onibo'ko：〈希〉 onimo'ko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04324.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04324",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04324.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6657.96",
+      "6665.01",
+      "6697.59",
+      "6702.21",
+      "7208.97",
+      "7218.09"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-25\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）｛｝は厳密にする。\n質問番号　地図番号　147　ページ\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　(28)\n項目名　鬼ごっこ　068\n地点番号　A　語形とその注記　{B・C除いた語形とその注}　A注のない語形　{B・C　残した語形とその注}\nsameasobi <sameとは人を追いかける人... 即ち鬼のことである。>\nonigo'ko　しなかったという。こういう広い平らな場所のない。\noalkko　(追い合いっ子ということらしい)\nopiyokko　タシカでない\nonigokko　(明確でないらしい)\ntokametokame <tokamajuru の意>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04325.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04325",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04325.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7218.26",
+      "7238.40",
+      "7238.82",
+      "7246.45",
+      "7248.64",
+      "7266.09",
+      "7266.92",
+      "7275.07",
+      "7302.87"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく＜＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　43-26\n質問番号　　地図番号　　147\n項目名　　鬼ごっこ　088\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)　(29)\n\n地 点 番 号　　A　語形とその注記　[B・C 除いた語形とその注]\nA 注のない語形　(B・C　残した語形とその注)\n\nwe:we:　＜追い追いの意＞\nN.R.　( banzago とか nintori (陣取り?)　等の語もあったか、不明確 )\n#? omi\nojaego 「追い合いご」 即ち 「追いかけごっこの意」\noni　＜oni/u: (鬼ごっこしよう) のようにいう＞\n# onigokko　＜新＞\nopigokko [新]　昔はなかった。\nオバエンコ（古）\n(古) ongo: geto (新) onigoto",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04326.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04326",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04326.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7317.29",
+      "7329.39",
+      "7330.77",
+      "7335.19",
+      "7335.93",
+      "7336.71",
+      "7338.48",
+      "7338.55"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-27\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(30)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n地点番号\n7317.29　N.R.　〈やったことはあるが忘れた〉\n7329.39　onigokko　〈新〉\n7330.77　mekkango:　〈めかくして他の者を追いかける遊び〉\n7335.19　onigo?kko (？)\n7335.93　onigo'kko (？)　古からの方言が疑わしい。\n7336.71　同・上（方言形かどうか疑わしい）\n7338.48　N.R.（三崎町 平磯出身の同席者（35才）も子供の頃にはなかった遊びだと言っていた）\n7338.55　N.R.　〈こういう遊び方はない。マリを手で受けて…〉 he:mo と書いた？",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04327.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04327",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04327.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7339.27",
+      "7340.24",
+      "7342.72",
+      "7342.76",
+      "7343.76",
+      "7347.55",
+      "7349.07",
+      "7350.44"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-28\n（右上の枠）地図番号 147\n項目名 鬼ごっこ 088\nA 普通注記\n(B 除いた共通語) (C 除いた特殊語)\n\n地 点 番 号　　A 語形とその注記【B・C 除いた語形とその注】　　A注のない語形【B・C 残した語形とその注】\n\n73 39.27  opigokio (onigema opisana などを\n         (漢ろんもある。32年調.)\n73 40.24  シャアノコドイ  za:nokodoi\n         (蛇の子取りの意)\n73 42.72  tsükameopi　あまりしない…\n73 42.76  onigo  (goto 児でなく ゴッコの意か?)\n73 43.76  N.R.  ＜あまりしないのでわからない＞\n73 47.55  [onigoto] ＜新＞\n73 49.07 ?  N.R.\n73 50.44  nige za:doi  <089と区別する言い方>  za:doi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04328.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04328",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04328.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7351.09",
+      "7352.14",
+      "7352.38",
+      "7353.51",
+      "7356.70",
+      "7362.42",
+      "7362.67",
+      "7363.12"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-29\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく〈〉〔〕は厳格にする。\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(32)\n\n地点番号　A・語形とその注記　[B・C除いた語形とその注]　A注のない語形（B・C残した語形とその注）\n7351.09   tsumkameguutgo (右)\n7352.14   オニゴ　<古>　　　オニゴッコ\n7352.38   opi　V. = opi suru\n7353.51   <?>　ギタ　（鬼に手の届いたことを意味する語であるという）\n7356.70   [gari oni] （同席の小学校の先生が言ったのを　（被調査者も承認した））\n7362.42   オニゴ　<古>　　　オニゴッコ\n7362.67   <[オンゴ]> <古>\n7363.12   井　オニゴ　（古）<今は言わない（088について）>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04329.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04329",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04329.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7375.37",
+      "7376.68",
+      "7380.74",
+      "7381.97",
+      "7394.14",
+      "7395.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-30\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語 (33)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n7375.37 onigokko <この遊びは少ない>\n7376.68 <?> kakure'nango\n(0899 遊びの名称を 088にも適用するらしい。オシ者に質ねてみたか? オニゴッコに当たる方言は聞き得なかった。)\n\n7380.74 オニゴッコ　(オニゴ・オンゴは使わない)\n7381.97 オンコドリ　(新・希)\n7394.14 N.R. <kakure mo:zoi (089)を使う>\n7395.25 kakure modo かくれもど　(かくれぼこのことであるか。鬼ごっこの遊...)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04330.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04330",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04330.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7395.63",
+      "7400.15",
+      "7403.21",
+      "7404.12",
+      "7404.56",
+      "7415.47",
+      "7427.71",
+      "7430.15",
+      "7430.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　43-31\n質問番号　地図番号　147\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n項目名　鬼ごっこ　088\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\nA注のない語形　[B・C　残した語形とその注]\n\n<?> oni\njaVi onisan <新>\nopigoto (onigoto のように聞かれることもあるが 十分 んしがめられなかった。)\noniba <今のこどもは onigok:o という。>\norisan (onisan senka のようにいう。)\nonigok:o <英>\n「オワエ」は「オワエル」（追うの意）の略。\n新。 opigoto onisan\nopisara <…> okjakugena という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04331.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04331",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04331.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7431.82",
+      "7432.95",
+      "7440.72",
+      "7450.20",
+      "7470.72",
+      "7471.33",
+      "7510.18",
+      "7523.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-32\n質問番号 地図番号 147\n項目名 鬼ごっこ 088\nA 普通注記  ページ\n[B 除いた共通語] [C 除いた特殊語] (35)\n地 点 番 号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n7431.82    oniko <oniko suru to iu.>\n7432.95    <昔> o^waeko^mbo'\n7440.72    N.R. <この形式のものはなかった。鬼をかこんで輪になっており、目隠しした鬼が周りの者をとらえ、名を当てたら鬼を代るものであった> <これを onigokio といったと思う>\n7450.20    N.R. <この形式の遊びはない>\n7470.72    onigokio <共>\n7471.33    # 同 上\n7510.18    オワエコト <多い>\n7523.74    opagoto onagoto ~ onayoto",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04332.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04332",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04332.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "8300.80",
+      "8301.19",
+      "8302.55",
+      "8302.91",
+      "8303.47",
+      "8304.66",
+      "8305.40",
+      "8315.46"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　43-33\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記　ページ（36）\n[B　除いた共通語]　[C　除いた特殊語]\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nモオ　＜希＞＜古い傾向＞　オンジョ\n# オンケゴ　スル　＜古＞　オニゴッコ\n＜？＞　オニアソビ\n＜？＞　オニごっこ\n#　オニゴ　（希）　オニゴッコ\nmekura oni　鬼がちょ式で目をかくして追いかける　onigokko\nN.R.　＜最近の遊び。自分の子供の頃はカワレモド…＞\noniasobi　＜アソビはつけないことが多い＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04333.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04333",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04333.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "8315.89",
+      "8324.83",
+      "8325.03",
+      "8330.58",
+      "8331.12",
+      "8331.98"
+    ],
+    "other_text": "日本語地図資料用紙　注記一覧　43-34　質問番号　地図番号　147　項目名　鬼ごっこ　088　A　普通注記　B　除いた共通語　C　除いた特殊語　ページ　A・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（）【】は厳密にする。　地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)　8315.89　onju, jite asubu (「鬼をして遊ぶ」の意)　8324.83　# onnu suija (従ってこの遊びは onia 撥音化した on であると推定される。)　8325.03　o'ni (jite asobo:)　8330.58　unango (uは「追う」の意味)　8331.12　N.R.　この遊びをしなかった。　8331.98　N.R.　若い人 (恐らく嫁に当る人) [onitsukame]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04334.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04334",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04334.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "8335.48",
+      "8341.94",
+      "8342.35",
+      "8343.97",
+      "8351.65",
+      "8354.29",
+      "8363.51",
+      "8372.87",
+      "9303.88",
+      "9310.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-35\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n質問番号 地図番号 147\nA 普通注記 ページ\n[B 除いた共通語]\n[C 除いた特殊語] (38)\n項目名 鬼ごっこ 088\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 {B・C 残した語形とその注}\n8335.48 ondon asobi <くちからある言葉>\n8341.94 kabo (珍らしい言葉)\n8342.35 tfjikame on (tfjikame は つかまえる 也)\n8343.97 opi <オンゴッコをしよう = onnu fuja>\n8351.65 [tsukame on]\n8354.29 ? oniasobi\n8363.51 N.R. [tsukame on]\n8372.87 N.R. [ro:jo?]\n9303.88 N.R. [onitori]\n9310.27 N.R. <しない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04335.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04335",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04335.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "0237.79",
+      "0237.84",
+      "0238.55",
+      "0246.97",
+      "0247.56",
+      "0275.36",
+      "0294.66",
+      "0340.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-36\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(39)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n02 37.79　oni　(新か)\n02 37.84　kâkurigo:　(かくれんぼの意味と同じに　不思議に思ったが米者も正しいと認めた。)\n02 38.55　onigokko　〈新〉\n02 46.97　N.R.　〈その遊びがないのでコトバがない〉\n02 47.56　onigokko　〈新〉\n02 75.36　#uimun　〈古〉〈uiは追う意味〉\n02 94.66　#unifu　〈希〉\n03 40.00　mikka:!ku:　〈mikkaはめくらの義〉\n\n(下部に続きの書き込みあり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04336.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04336",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04336.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "1242.72",
+      "1257.04",
+      "1251.27",
+      "1261.01",
+      "1261.16",
+      "2075.22",
+      "2140.49",
+      "2151.51"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n日本言語地図資料用紙　注記一覧　43-37\n質問番号　地図番号　147\nA　普通注記　　（ページ）\n[B　除いた共通語]\n[C　除いた特殊語]\n項目名　鬼ごっこ　088\n（表ヘッダ）地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形　[B・C　残した語形とその注]\nN.R.　＜知らない＞\n同上\n同上\nomigokko　新\n同上\nN.R.　＜小学校に入ってから　共通語　オニゴッコを用いるようになった。その他にはない。＞\nN.R.　＜最近はオニゴッコという。以前はない。＞\nN.R.　＜子供は onimai といっている＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04337.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04337",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04337.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "1719.38",
+      "3793.37",
+      "4666.17",
+      "4666.51",
+      "4694.95",
+      "4736.63",
+      "4750.76",
+      "5605.70",
+      "5611.39",
+      "5615.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙　注記一覧　43-38 地図番号　147 項目名　鬼ごっこ 088 A　普通注記 B（除いた共通語） C（除いた特殊語） ページ（1/） 表ヘッダ：地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注] 行項目（概略の読み取り）： オニゴッコ〈新〉　／　オニアンビ オニゴッコ（新）　／　オニボエ onigokko〈共・新〉　／　opigoto onigokko〈新〉　／　onigoto（a〈古〉） [＊] onigokko（共）　嫁が訂正した。　／　onigoto onigokko〈新〉　／　bukwretfayko〈古〉 oniyokko〈新〉　／　osaekumra opigotko〈共・子〉　／　opigoto〈新〉 同上〈新〉　／　meTko〈古〉 onigokko〈共〉　調査者が東京と同じですね。と云うと onigoto と答えた。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04338.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04338",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04338.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "5633.81",
+      "5636.74",
+      "5641.94",
+      "5652.06",
+      "5666.18",
+      "5666.85",
+      "5671.38",
+      "5682.37",
+      "5684.11",
+      "5686.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉()[]は厳密にする。\n日本言語地図資料用紙 注記一覧 43-39\n質問番号 地図番号 147\n項目名 鬼ごっこ 088\nA 普通注記　ページ　B 除いた共通語 (2)　C 除いた特殊語\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5633.81　oniyokko　〈共〉　onikko　（オニゴッコ）\n5636.74　オニゴッコ　〈新〉　オニッコ\n5641.94　oniyokko　〈共〉　onikko\n5652.06　oniyokko　〈共〉　onikko\n5666.18　オニゴッコ　〈新〉　オニドッコ〈古〉\n5666.85　同上　上　オニサン〈古〉\n5671.38　oniyokko　〈新〉　onikko\n5682.37　oniyokko　〈新しいことば〉　onijakko〈古〉\n5684.11　oniyokko　〈新〉　onikko\n5686.31　同上　上　onikko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04339.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04339",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04339.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "5690.12",
+      "5694.79",
+      "5720.34",
+      "5750.30",
+      "5780.11",
+      "5782.94",
+      "6393.26",
+      "6418.75",
+      "6429.15",
+      "6437.07"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-40\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記　(CB 除いた共通語)　(C 除いた特殊語)　（3）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n5690.12　oninyokko　〈新〉　oniasobi\n5694.79　オニゴッコ　〈先〉　オニコッ\n5720.34　オニゴッコ　新しいことばで、子供が多く使う。　オニゴットアンビ？\n5750.30　オニゴッコ・〈新〉　オニトビアソビ　〈古〉\n5780.11　oninyokko　〈新〉　oniyodo\n5782.94　oninyokko　〈やや英語的〉　# kiri oni\n6393.26　onigokko　〈新〉　tsukamaego:\n6418.75　オニゴッコ　〈新〉　オニゴト〈古〉\n6429.15　オニゴッコ　〈希〉　ホィアイコ\n6437.07　オニゴッコ　〈新、多〉　オニゴトくす",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04340.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04340",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04340.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6457.45",
+      "6476.13",
+      "6482.23",
+      "6486.07",
+      "6509.38"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）{}は厳密にする。 日本言語地図資料用紙 注記一覧 43-41 地図番号 147 項目名 鬼ごっこ 088 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) オニゴッコ <新> #オニゴット 同上 オニゴット (新) オニゴッコ 同上 [米] オワエエ オニゴッコは標準語意識であったが、なかゝゝを押して書ねて もきて来なかったので、後で聞いた所、言下に “オワエエ ジョー” といって遊ぶと答えた所、親調査者も直ちにそれを認めた。 6509.38 <米> オニゴッコ オニドン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04341.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04341",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04341.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6512.02",
+      "6521.94",
+      "6522.93",
+      "6524.01",
+      "6526.08",
+      "6526.98",
+      "6529.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-42\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記　　B　除いた共通語　　C　除いた特殊語　(5)\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A注のない語形　(B・C　残した語形とその注)\n\noniyok:o　〈新〉\n[tsukamae oni]\n（〈古い名があったように思うが思い出せない〉とえっていたか上の[...]かまたら〈あ、そうそう〉といった。）\nオニゴッコ　〈新〉\nオニゴッコ（新）\nオニゴッコ（新）\n同上\n（英）オニゴッコ\n\n（右下手書きの注）\nboijai 〈オニゴッコは新しいことばのようである。着衣等というをやった。これが鬼のとらえられたなどのことのひきされたか→〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04342.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04342",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04342.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6531.53",
+      "6534.37",
+      "6540.79",
+      "6541.52",
+      "6545.41",
+      "6547.07",
+      "6575.40",
+      "6581.52",
+      "6602.62",
+      "6603.82"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の＜＞（）［］は厳密にする。\n日本語語地図資料用紙　注記一覧　43-43\n質問番号　地図番号　147　項目名　鬼ごっこ　068\nA 普通注記　ページ　(B 除いた共通語)　(C 除いた特殊語)　(6)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 {B・C 残した語形とその注}\nオニゴッコ　〈希・共〉　オニゴト\nonigokko　〈新〉〈共通語的〉　onigoto〈古〉\nオニゴッコ　〈子希〉　オニコト\nオニゴッコ　〈新〉　同上\nonigokko　〈新〉［被調査者の子供の吹は使わなかった］　onigoto\nonigokko　〈新・上〉　onisambo\nonigokko　(?) onigokko　[owa'egoto]\nオニゴッコ　〈新〉　オニゴト\nonigokko　〈共〉　[onisama]\nオニゴッコ　〈共〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04343.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04343",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04343.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6611.61",
+      "6623.28",
+      "6625.66",
+      "6635.87",
+      "6643.72",
+      "6645.01",
+      "7229.75",
+      "7275.07",
+      "7279.93",
+      "7321.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［］は略符にする。 日本言語地図資料用紙　注記一覧　43-44 質問番号　地図番号　147 項目名　鬼ごっこ　068 A 普通注記 B（除いた共通語） C（除いた特殊語） （7） 地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］ 6611.61　oniyokko　〈共〉　　　onikko 6623.28　オニゴッコ　〈共〉　　オニっこ 6625.66　oniyo'ko　〈希,新〉　oni'kura 6635.87　oniyo'ko　新　　　　同上 6643.72　oniyo'ko　上　　　　同上 6645.01　同上　新　　　　　oni'ko 7229.75　? onigokko　　　　　onigo 7275.07　オニゴラコ（新）　　オハエンコ（古） 7279.93　〈新〉 onigokko　　　onzo: asobi 7321.46　orni go'kko　　　　oni go:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04344.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04344",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04344.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7359.78",
+      "7361.17",
+      "7363.59",
+      "7374.15",
+      "7421.62",
+      "7425.82",
+      "7430.15",
+      "7512.43",
+      "8303.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の<>()[]は厳密にする。 日本官話地図資料用紙 注記一覧 43-45 質問番号 地図番号 147 項目名 鬼ごっこ 068 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (8) 地点番号 A 語形とその注記 {B・C除いた語形とその注} A 注のない語形 {B・C 残した語形とその注} <新> onigokko [同枡内の柏では onisara という] owaekko オニゴッコ <新> オニゴッコ 同上 オニゴッコ [オニゴ] <?> オニゴッコ 上 onigokko onisan onigokio <共> onisan 新 onigokko オニゴッコ <新> オニゴト オニゴッコ オンドリ オニトリ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04345.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04345",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04345.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "8315.46",
+      "8323.59",
+      "8335.48",
+      "8345.18",
+      "8345.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-46\n質問番号　地図番号　147\nA 普通注記　(B 除いた共通語)　[C 除いた特殊語]　(9)\n項目名　鬼ごっこ　.068\n\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　{B・C 残した語形とその注}\n\n83 15.46　onigokko　〈近畿のコトバ〉\toni (asobi)\t〈アソビはつけないことが多い〉\n83 23.59　〈子〉 onigokko\t# ontoi\n83 35.48　onigokko　〈近畿の言葉〉\tondon' asobi\t〈古くからある言葉〉\n83 45.18　onigokko　〈新〉\tonitori\n83 45.24　ondori　「オニトリ」の訛音",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04346.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04346",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04346.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "2743.86",
+      "2795.66",
+      "3702.81",
+      "3734.42",
+      "3780.65",
+      "3784.87",
+      "3792.33",
+      "4710.18",
+      "4725.01",
+      "4733.85"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）［］は省略にする。 日本言語地図資料用紙 注記一覧 43-47 質問番号 地図番号 147 項目名 鬼ごっこ 088 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ 地点番号 A語形とその注記 [B・C除いた語形とその注] A 注のない語形 (B・C 残した語形とその注) bokumyeko dzintori 〈?〉 kawarekko ワダス オニゴ onikodanda onikkoasobi とも onibakke オニケン ガツツギバンセ カワツギバンシ onjaonja (sürüü) ... O.F. (各行に付された注記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04347.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04347",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04347.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "4742.37",
+      "4753.76",
+      "4763.62",
+      "4792.80",
+      "5517.57",
+      "5527.61",
+      "5536.99",
+      "5549.55"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-48\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n（右上の枠）\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　(2)\n\n（表の上部見出し）\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n4742.37　onihe　[ont'bukumo?]　O.F.\n4753.76　#oguriiont　O.F.\n4763.62　akat[s]aye kitsjaye　(g) (g)　#oniyokko　〈新〉\n4792.80　hatakioni　〈鬼はつかねがわりにたたく、たびつかねるをも含めていう。〉　O.F.\n5517.57　kakunjori　0＝狭い方。　O.F.\n5527.61　kaisen　O.F.\n5536.99　ｲﾜｯサ　O.F.\n5549.55　metsubufi　O.F.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04348.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04348",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04348.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "5558.67",
+      "5566.95",
+      "5575.93",
+      "5579.42",
+      "5615.28",
+      "5620.32",
+      "5622.48",
+      "5669.25",
+      "5761.91",
+      "5792.18"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞()[]は厳密にする。\n日本言語地図資料用紙　注記一覧　43-49\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(3)\n\n地 点 番 号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形（B・C残した語形とその注）\n55 58.67\tju:rasan\tO.F.\n55 66.95\tつづ\tO.F.\n55 75.93\tonikurumasubi\tO.F.\n55 79.42\tjakansa\tO.F.\n56 15.28\ttengoto　＜鬼の人を ten と云う＞\tonigoto ＜新＞\n56 20.32\tホンモ\tO.F.\n56 22.48\tdorobogokko ＜古＞\tonigokko ＜新＞\n56 69.25\tonijambayokko\tO.F.\n57 61.91\tdorobodzittsa\tonigodo asobi\n57 92.18\tju:nji (遊戯？)\tO.F.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04349.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04349",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04349.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "5793.74",
+      "6354.46",
+      "6358.87",
+      "6424.20",
+      "6440.67",
+      "6458.26",
+      "6474.50",
+      "6481.90",
+      "6485.14"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-50\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語]　(4)\n（表の見出し）地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n5793.74　oniwaho　<子供の頃、用いた>　O.F.\n6354.46　enko:　O.F.\n6358.87　トリマイヤイコ　O.F.\n6424.20　matsiŭmæ egoto　# onigoko:0 <新>\n6440.67　トンボ　<右>\n6458.26　ジューゲンアイビ?　<今頃の若い人は「ドンアソビ」と呼んで>　O.F.\n6474.50　オニバシラ　O.F.\n6481.90　アウト　O.F.\n6485.14　<右>オニガワ　（注記あり）\n（右側余白の手書き注）＃onigoko:0 <新>　オニゴッコは九戸が聞き直して後　発音したもの。\n（ページ下部外周線）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04350.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04350",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04350.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6485.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-51\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA　普通注記　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　（5）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は略称にする。\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n＜古＞ゾオリカクシ（オニをきめる方法にゾオリカクシをする特殊の遊びか。そ れをゾオリカクシという。寿平のお出し係は下駄、百姓・町人は草履であった所からこの遊びがあったという。\n子供達は各々の草履の片足をずらへ並べておいて、ハダシの片足を次の奴を歌いながら順にふんでゆき、唄の最後にあたった草履をポンと引へけとばし、その立つそのけとはされた草履を拾いに行く間に他の者は自分の草履をはいで一緒に逃げかくれるのを、けとはされた鬼がつかまげ行くのである。\n唄→　ゾオリカクシ　九年かン　チンマイタノ　スリコニ、石ヤゴザ神　カズラノ花ヨ、チョン　チョン、ネコトニワ（ネコトサバという）、カミソリオイテ、ソリオイテ、ヨリフクヨリツク　ゾアテロ、ゾアテロ　...\n\n（手書き本文続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04351.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04351",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04351.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6509.43",
+      "6546.15",
+      "6551.20",
+      "6568.09",
+      "6595.32",
+      "6601.25",
+      "6617.34",
+      "6621.34"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-52\n質問番号　地図番号　147\nA　普通注記　ページ\n[B　除いた共通語]\n(C　除いた特殊語) (６)\n項目名　鬼ごっこ　088\n地 点 番 号　　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　(B・C残した語形とその注)\nオニコマ　〈古,幼〉\t\tオニゴッコ　〈共〉\nトオバイコ　(鬼ごっこ。かくれんぼの・・・というのは隠れて見つけられると追っかけられるのである。鬼ごっこ、かくれんぼなどわれわれが判るが渡ることはない、ということである）\nバッカ\tO.F.\nme'ne'm'buri\tO.F.\nホタエコ\tO.F.\nonindo\toninyokko　〈共〉\njitotori\nittjiku\n（上記は手書きの語形・注記の写し。判読困難な箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04352.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04352",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04352.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "6667.81",
+      "6677.70",
+      "6697.49",
+      "6698.20",
+      "7268.45",
+      "7268.87"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　43-53\n質問番号　地図番号　147\n項目名　鬼ごっこ　088\nA 普通注記　ページ\n(B 除いた共通語)　(C 除いた特殊語)　(7)\n\n地點番号　A 語形とその注記　[B・C 除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\ngijodorimura <ひ鳥の群の意、鬼は taka \"ōnigokko\" 鷹と言った>\n\nkui kko　O.F.\n\n!pmu:do: (088a 夜間魔の遊びの遊戯で。神者の jura のようなやり方ではない)　O.F.\n\njura <古、大勢が輪になり、輪の中で鬼になった者が目かくしをし、1人の子供を追いかける。若が目かくしをし、1人の子供を追いかける　遊戯をいろ>\n\nオニワラ　O.F.\n\n#ibo: <ibo: ju:ja などと言って誘い合せる>　O.F.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04353.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04353",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04353.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "7274.57",
+      "7329.39",
+      "7345.47",
+      "7356.98",
+      "7368.32",
+      "7370.41",
+      "7371.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-54 質問番号 地図番号 147 項目名 惑ごっこ 088 A 普通注記 ページ [B 除いた共通語] (8) [C 除いた特殊語] 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 [B・C 残した語形とその注] A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 ヒトザラエ hanja <古> <hanja jo:> (手持ちの資料でも長浜以外では聞きとられていない。 愛大の武智正人氏は能若の音転と見て居られる) onigokko <新> oni do onido o.F. uitorigats seido <古> onigoto ニゲウラカシ juru jiko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04354.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04354",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04354.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "7380.74",
+      "7382.97",
+      "7385.84",
+      "7390.70",
+      "7420.18",
+      "7421.38",
+      "7503.11",
+      "7503.48",
+      "7504.27"
+    ],
+    "other_text": "► A・[B]・[C]ごとに、別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　43-55\n質問番号　地図番号　147\n項目名　鬼ごっこ　068\nA　普通注記　ページ\n[B　除いた共通語]\n(C　除いた特殊語)　(9)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n73 80.74　# トオランギョ?　オニゴッコ（オニゴ、オニブは使わない）\n73 82.97　トゴエ　オニゴ、オニゴッコ　は使わない　o.F.\n73 85.84　# gani　（初めて聞く珍しい語形である）　o.F.\n73 90.70　オレンゴ　o.F.\n74 20.18　opigena ＜古＞　opigoto\n74 21.38　opiasobi ＜上＞　opisan\n75 03.11　inusaru insaru （＜犬を様＞と教えてくれた）　o.F.\n75 03.48　＜今＞ onin'gokko ＜音はやらなかったように思う＞\n75 04.27　gokko　o.F.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04355.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04355",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04355.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "8229.96",
+      "8303.84",
+      "8331.17",
+      "8332.42",
+      "8351.65",
+      "8352.92",
+      "0257.12",
+      "0257.43",
+      "0294.93",
+      "1169.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-56\n質問番号 地図番号 147\n項目名 鬼ごっこ 088\nA 普通注記 ページ\n[B] 除いた共通語\n[C] 除いた特殊語 (10)\n\n地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注)\n\ntoite:\n# オンドシ\n# oi nomane\noidago\nNR.\nbo:ken\nt'uingo\nk'oi k'oi\nmingi' kuna\ntoi:rai to:rai\n\nO.F.\nO.F.\nO.F.\nO.F.\nO.F.\nO.F.\nO.F.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04356.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04356",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04356.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "1233.61",
+      "1242.26",
+      "1251.98",
+      "1271.05",
+      "1271.20",
+      "2140.96",
+      "2150.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 43-57\n質問番号 地図番号 147\n項目名 鬼ごっこ 088\nA 普通注記 ページ\n[B] 除いた共通語\n[C] 除いた特殊語\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）[]は歌音にする。\n\n地点番号    A 語形とその注記 (B・C除いた語形とその注)    A注のない語形 (B・C 残した語形とその注)\n1233.61    hakuije:    o.F.\n1242.26    # ma: ma: se:    o.F.\n1251.98    # sa:ba:he:    o.F.\n1271.05    ? to: kaije:    o.F.\n1271.20    mi:tu:du: ?    o.F.\n2140.96    dzaifa: imma    o.F.\n2150.07    poi:dza:nu <「ポーシャーヌー」と呼びながら遊ぶ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04357.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M147Q088/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04357",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04357.tif",
+    "source_ljc_id": "LJC-M147Q088",
+    "source_map_numbers": [
+      "147"
+    ],
+    "source_title": "おにごっこ (鬼ごっこ)"
+  }
+]

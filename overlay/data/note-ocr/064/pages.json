@@ -1,0 +1,529 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "3745.62",
+      "3753.88",
+      "4609.25",
+      "4637.68",
+      "4639.69",
+      "4647.69",
+      "4666.17",
+      "4694.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-10\n質問番号　261　地図番号　64\n項目名　おんぶする\nA 普通注記　（B 除いた共通語）　（C 除いた特殊語）　(1)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）は厳密にする。\n\n地点番号　A語形とその注記　A注のない語形\n3745.62.　オブ　（これも少し用いる）　ショッタ\n3753.88.　オボウ　＜とも＞　オブ\n4609.25.　bu'　(cf. barere おぶわれる)\n4637.68.　obu　＜上＞＜いいことば＞\n　　　　bū:　（これを多く用いる。）\n　　　　（命令形は be: である, aka be:と言う, 赤い方を負えの意）\n4639.69.　mbau, mbau:　（これが普通の言い方らしい）　ombusii'ru, obu:\n4647.69.　bu:（自動の動詞 bahru）\n4666.17.　ombo jiru　＜子＞　bu:\n4694.26.　ombusuru　<3>　bu:　＜古くから使い・現在も使う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01610.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01610",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01610.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4713.02",
+      "4732.86",
+      "4742.43",
+      "4742.95",
+      "4752.11"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-11\n質問番号　261　地図番号　64\n項目名　おんぶする\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(2)\n\n地点番号　A　語形とその注記　A注のない語形\n4713.02.  buu:　(否定形 ba (ne:) 命令形 be: である。)\n4732.86  o'bukuru　〈母の云う場合〉〈赤ん坊は母に oba nuと言う〉（両語形ともライ在於の活用をする）\n4742.43  mbu:　(mbane: おんぶしない　mputta おんぶした　のようになる)\n4742.95.  übuu (?) (他の地点が obut: であるのにここだけ übuu: であったという印象がないので、あいは obut: の書き誤りかも知れない。調査員の記録より)\n4752.11.  obu　〈obane (おんぶしている)のように注用する。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01611.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01611",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01611.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4760.98",
+      "4762.56",
+      "5516.59",
+      "5517.57",
+      "5528.31",
+      "5557.85",
+      "5576.96",
+      "5586.56",
+      "5586.70",
+      "5594.02"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語順は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 16-12\n\n質問番号 261    地図番号 64\n項目名 おんぶする\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] (3)\n\n地点番号    A音形とその注記    A注のない語形\n4760.98.    o'bu: ＜昔＞    ombusürui\n4762.56.    ubüi: ＜古＞  obüi ＜新＞\n5516.59.    o: , bombo suru ＜どちらも使う＞\n5517.57.    bombo suru ＜幼児に対して使う＞    O:\n5528.31.    bombo suru . O: ＜どちらも使う＞\n5557.85.    bombosiru （新）    obu\n5576.96.    oü. büsuruü　双方同等\n5586.56.    oü 優先    ombü süirü\n5586.70.    oü, ombüi sürü ＝形並存\n5594.02.    ou 優位    ombü süirü",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01612.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01612",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01612.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5602.99",
+      "5611.39",
+      "5614.62",
+      "5625.91",
+      "5629.23",
+      "5631.75",
+      "5653.60",
+      "5658.01",
+      "5663.64",
+      "5663.68",
+      "5671.38"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 16-13\nA・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n資料番号 261 地図番号 64\n項目名 おんぶする\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (4)\n\n地点番号　A 語形とその注記　A注のない語形\n5602.99  bu: (bareruは子供を主体とした自動詞)\n5611.39  bu: <古>  obui: <に>  ombu suru bu:\n5614.62\n5625.91  obui:, ombu: (古くから使っている)\n5629.23  オンブスル、オブウ、〈同じように使う〉\n5631.75  obu <その状態は ondeiru>\n5653.60  obuu <こどもの側から言えば obusaru>\n5658.01  ブウ 〈多く使う〉  オンブスル\n5663.64  ombu [siro] <子どもに呼びかけるときだけ>  obuu\n5663.68  ombu suru <3>  obuu\n5671.38  ombu suru <3>  unbuu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01613.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01613",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01613.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5671.68",
+      "5671.94",
+      "5674.59",
+      "5675.87",
+      "5676.52",
+      "5677.60",
+      "5678.86",
+      "5682.92",
+      "5687.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-14\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（　）[]は厳密にする。\n質問番号 261   地図番号 64\n項目名 おんぶする。\nA 普通注記  (ページ)\n[B 除いた共通語]\n[C 除いた特殊語] (5)\n\n地点番号   A語形とその注記   A注のない語形\n\n5671.68  umbuu: オブサル 負われるは umbaru\n5671.94  omburu <並用・区別なく>    obu\n5674.59  オブウ <多>    ウブウ、オンブスル\n5675.87  ウブゥ、ヒンシュル  半々に使う、特に区別なし\n5676.52  オブウ、ウブウ  両方とも使う\n5677.60  オブウ <普通>    オンブスル\n5678.86  ブウ <普通のことば>    オブウ\n5682.92  ubu: <希>    ombusuru\n5687.86  オンブスル <普通>\nオブウ <今では使わない・昔の語。使う人も殆どいない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01614.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01614",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01614.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5688.86",
+      "5692.53",
+      "5696.54",
+      "5698.19",
+      "5741.30",
+      "5750.30",
+      "6267.84",
+      "6369.37",
+      "6383.77"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞（）は厳密にする。 日本言語地図資料用紙 注記 16-15 資目番号 261 地図番号 64 項目名 みんぷする A 普通注意記 (B 除いた共通語) (C 除いた特殊語) (6) 地点番号 A 語形とその注記 オブウ 〈普通〉 オンブスル 5688.86 5692.53 5696.54 5698.19 5741.30 5750.30 6267.84 6369.37 6383.77 ombusuru 〈子〉 ubu: umbuu surruu 〈新〉 ubu: ombu suru 〈多く使い通りがよい〉 obu: 〈少い〉 so: 〈多くこれを使う〉 ombusuru ブウ 〈多く使う〉 オンブスル o: 〈買われる bareto't〉 オブ。赤ん坊に対しては、〈ネンネエスル、オッパアスル〉という。 ou 〈黃〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01615.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01615",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01615.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6386.32",
+      "6414.25",
+      "6419.09",
+      "6430.53",
+      "6457.18",
+      "6477.02",
+      "6482.75",
+      "6485.30",
+      "6488.48",
+      "6500.83"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞()[]は厳密にする。 日本言語地図資料用紙 注記一覧 16-16 資料番号 261 地図番号 64 項目名 おんぶする 普通注記 (B 除いた共通語) (C 除いた特殊語) (7) 地点番号 A 語形とその注記 [B・C除した語形とその注記] A 注のない語形 6386行: karu: 多い? OU 6414行: (ako)ou akoは「赤ん坊を」 6419行: オウ ＜若い母親はオンブスルと言う＞ 6430行: オオ ＜古＞ オンブ 6457行: ヨイヨイスル ＜子＞ オンブスル 6477行: オウ (ネネ〜) 6482行: ombu ＜子＞ ou 6485行: オウ ＜コオトル＞ 6488行: otasu ＜古＞ ou 6500行: ショウ。音声学的音価ははっきりせ難いが、大体 (siou) の如くである。シの母音が無声化している為 (sou) に近い。末重節は長音化せず、中音 (U) として発音される。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01616.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01616",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01616.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6503.73",
+      "6504.44",
+      "6506.03",
+      "6507.13",
+      "6532.93",
+      "6534.85",
+      "6540.79",
+      "6553.52",
+      "6567.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-17\n質問番号　261　地図番号　64　ページ　A 普通注記　(B 除いた共通語)　(C 除いた特殊語) （8）\n項目名　おんぶする。\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　A語形とその注記　A注のない語形\n6503.73.　ouu　優位　ombuu siiru\n6504.44.　ouu　優先　ombuu siiru\n6506.03.　オブ　〈テオビ〉（手をかけてオブことを言う。名詞）\n6507.13.　ショウ　〈他〉　オブ\n6532.93　オッコスル　・オッコスルは大人が子供に対して用いることばで、普通はオウである。　オウ\n6534.85　opposuru　〈3〉　ou\n6540.79　オウ　〈古〉\n6553.52　ou　〈多〉　setarau\n6567.86　obu　〈希〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01617.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01617",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01617.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-18\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n調問番号 261 地図番号 64\n項目名 おんぶする。\n\n地点番号    A 語形とその注記    A 注のない語形\n6601. 25.    ombusuru. obu: <両用>\n6602. 62     obuu. oburu <両用>\n6604. 15     オンブスル <幼>      オブウ\n6604. 38     オンブシル <子>      オブウ\n6624. 65     obuu:, obu: 同じ程度に使う。\n6631. 53.    obu:, sou.  おんぶしてもらう（子供の側から）を。 ombusaru obusaru\n\n6631. 69     umbuu: 多          umbu:\n6632. 88     umbuu: 多く使う    umbuu suru\n6633. 27.    ombu:, umbuu: 同じ程度に両方使う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01618.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01618",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01618.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6634.07",
+      "6635.20",
+      "6636.05",
+      "6641.39",
+      "6642.33",
+      "6650.12",
+      "6651.64",
+      "6652.77"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n日本言語地図資料用紙　注記－　16-19\n質問番号　地図番号\n261　64\n項目名　おんぶする。\n（A　普通注記）　ページ\n（B　除いた共通語）\n（C　除いた特殊語）\n地点番号　A語形とその注記　A注のない語形\n6634.07　obu:　子どもからは obusaru\n6635.20　ombu suru.　子どもが親におんぶしてもらうのは ombusaru　ombuuu\n6636.05　ombu:　子どもから親に ombusaru\n6641.39　umbu:　umbu:　同じ程度に使う\n6642.33　ombu suru　umbu:　同じ程度に使う\n6650.12　obu　過去形は obu'ta\njoijoisuru　幼児に言うとき。\n6651.64　ombu:　希　ombu seru\n6652.77　obu:　新　umbu:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01619.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01619",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01619.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧 16-20\n資料番号 地図番号\n261 64\n項目名 おんぶする。\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (11)\n\nA 音形とその注記  B・C除いた語形とその出\nombui: obui: 同じ程度に使う\nobururu <新>  ba:ru\nu u (ouの融合か)\nombombo (幼児語) u:to?oru\nombo suru <3> ou\nombu <新> ou\nOPPAi 3. 新. ou\nkaru: <karu:がふつう> ombosu2\nu.: karu: 区別ない\no: <o:te kure> seou.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01620.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01620",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01620.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　16-21\n（上部ボックス）\n261    64\n項目名　おんぶする。\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(12)\n\n表ヘッダ:\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n7353. 51　ガイガイスル　〈３〉　カラウ\n7382. 01　karabu　〈古〉　ombusu2\n7383. 98　karawu　〈古からの言い方〉　ou\n7394. 60　karu:　〈優勢〉　karau\n7395. 09　karu:　〈人のを見た場合には karu: taru と言う〉\n7420. 91　ombu suru　子　ou\n7421. 62　opposuru　〈OPPOSEをこどもにいう。〉\n8306. 04　karau　〈自分がする場合〉\n0228. 96　kubi dakjuro　〈手でささえ、首をつかまえるようにするのだ〉\n0238. 55　wagen　〈くびをかたにかける場合〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01621.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01621",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01621.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "0238.55",
+      "0246.48",
+      "0247.31",
+      "0256.76",
+      "0275.36",
+      "1148.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）は厳密にする。\n日本言語地図資料用紙　注記一覧　16-22\n資料番号　261　地図番号　64\n項目名　おんぶする\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　(13)\n地点番号　A語形とその注記\n0238.55.  Kubidakajun　〈手でささえて首をつかまえるさ〉\n0246.48.  kasugirjum 〈kwa kasugirjum と。kwa を前において使うとはっきりする。〉\n0247.31.  kakkirjun 〈ひっかけるという意味であって、kwa：kakkirjun というのが完全な言い方であるが、前後関係で kakkirjun だけでわかる〉\n\n0256.76.  hakkijum 〈ククリックルというのがものの意味〉\n0275.36.  kwa:hangirajun 〈kwa: がなくとも前後事状でわかる〉\n1148.59  u:pasuy 古、uppasuy 新",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01622.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01622",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01622.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本音韻地図資料用紙 注記－ 16-23 資図番号 地図番号 261 64 項目名 おんぶする 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) 1251. 73 u:pa sun <おびをかけないで おぶる意> 1261. 32 u:pa sun <子供におびをかけておんぶするのを jamatu - u:pa sunといい、たんぜんなどでおんぶするのを hutu?kuru u:pa sunと いう。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01623.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01623",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01623.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "4588.98",
+      "4598.59",
+      "4609.68",
+      "4647.69",
+      "4695.33",
+      "4746.20",
+      "5574.84",
+      "5604.28",
+      "5614.62",
+      "5641.94"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 \nその中での措置は地点番号順に並べる。 \n注記の＜＞（　）は厳密にする。 \n日本言語地図資料用紙 注記一覧 16-24\n資料番号　地図番号\n261    64\n項目名　おしぶする\nA 普通注記　　ページ\nB 除いた共通語 ( )\nC 除いた特殊語 ( / )\n\n地点番号    (B・A除いた語形とその注)    (B・C残した語形とその注)\n4588.98    ombu suru 〈新〉    kadzuku\n4598.59    ombu suru 〈新〉    o:\n4609.68    ombu siuru 〈くそそら入った上品なことば〉    bu:\n4647.69    ombu suru 〈上〉    bu:（自動詞は baru）\n4695.33    ombu 〈共〉〈新〉（動詞の形で答えなかった）    bu:\n4746.20    ombu suru 〈新〉    obu\n5574.84    ombu siirü　上品と言ふ　    büserüu\n5604.28    ombu siru 〈新〉    bu:\n5614.62    ombu siru 〈共〉    bu'  obu' 〈上〉\n5641.94    ombu suru 〈共〉    obuu\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01624.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01624",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01624.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5652.81",
+      "5661.68",
+      "5671.00",
+      "5684.11",
+      "5696.68",
+      "6287.42",
+      "6383.77",
+      "6384.25",
+      "6414.17",
+      "6412.82"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<>()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 16-25\n質問番号 261    地図番号 64\n項目名 おんぶする\nA 普通注記  B（除いた共通語） C（除いた特殊語） (2)\n\n表ヘッダ: 地点番号 | (B・C除いた語形とその注) | Aにのこした語形（B・C除いた語形とその注）\n\n5652.81    ombu suru <共>    obuu\n5661.68    ombu suru <共>    obuu\n5671.00    ombusiru <新>, obu <ondeiku>    sou\n5684.11    ombu suru <共>    ubuu\n5696.68    ombu ssuru <上>    obu:\n6287.42    karau    *karo:\n6383.77    ombusuru <今>    ou <昔>\n6384.25    ombusuru <今>    ou\n6414.17    ombu suru <新>    o:toru\n6412.82    ombusiru <新>    o:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01625.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01625",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01625.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6449.84",
+      "6459.87",
+      "6521.94",
+      "6540.52",
+      "6540.79",
+      "6543.56",
+      "6591.57",
+      "6600.97",
+      "6601.93",
+      "6604.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-26\n質問番号　261.　地図番号　64\n項目名　おんぶする。\nA　普通注記　(B) 除いた語彙　(C) 除いた特殊語　ページ (3)\n\n（左上の注意）\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　　語形とその注　　残した語形とその注\n6449.84　オンブスル　〈稀〉　オウ\n6459.87　オンブスル　〈新、希〉　オウ\n6521.94　オンブスル　〈新〉　オウ\n6540.52　オンブスル　〈新、上、希〉　オウ\n6540.79　オンブスル　〈新〉　オウ（右）\n6543.56　オンブスル　〈新〉　オウ\n6591.57　onbu suru　〈日常語としては用いない〉　ow\n6600.97　ombu suru　〈新〉　obu\n6601.93　ombu suru　〈共〉　obu:\n6604.98　オングシル／オンブシル　〈共〉　ウブッチャル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01626.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01626",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01626.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6620.53",
+      "6624.65",
+      "6631.53",
+      "6645.01",
+      "6650.12",
+      "6653.30",
+      "7354.23",
+      "7501.14",
+      "7501.68"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 16-27\n質問番号 261　地図番号 64\n項目名　おんぶする\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(4)\n\n地点番号　（B・C除いた語形とその注）　（Aのかれ語形 (B・C) 残した語形とその注）\n\n6620.53    ombusuru　＜共＞    obu:\n6624.65    obbu suru　上    obbu: obui:（同じ様）\n6631.53    ombusuru　新    obui: ... sou\n6645.01    ombusuru　新    ombusaru\n6650.12    ombusuru　希    obu　過去形は obutta\n\n6653.30    ombusuru　上    joijoi suru　幼児に言う時\n　　　　　　ombu: ombutta, ombuke を使う。\n7354.23    オンプ スル　＜新＞    カラウ、カルウ\n7501.14    ONBU SURU　＜日常使用語ではない＞    OW\n7501.68    ONBU SURU　＜共＞    OW\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01627.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01627",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01627.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-28\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）[]は厳密にする。\n資料番号 261  地図番号 64\nA 常通注記\n(B 除いた共通語)  (C 除いた特殊語)  ページ (5)\n項目名 おんぶする\n地点番号\n75/2.43    ONBW SWRW (共)    OW",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01628.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01628",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01628.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6408.88",
+      "6413.43",
+      "6508.06",
+      "6520.79",
+      "6567.86",
+      "7302.71",
+      "8306.04",
+      "8315.46",
+      "8324.83"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 16-29\n資料番号 261  地図番号 64\n項目名 おんぶする\nA 普通注記   B 除いた共通語   C 除いた特殊語 (1)\n\n（表ヘッダ）地点番号　（A・C除いた語形とその注）　（A・C残した語形とその注）\n\nネンネコスル.　　　オラ\notorü　（買うているの意）　　o:\nテヨビセル　（この絵の様子ではテヨビセル）　　オブ\n（テヨビは手で オンブすること）\nタタスル　（子供に対して言う）　　オンブスル\nondoru.　　　　　　　　　　　　obu〈希〉\nouareru　（赤坊方が）　　　　　ou（母親が）\nkaru:tjoru　＜他人のを見た場合＞　karau〈自分がする場合〉\nkaro:tsejaru　＜自分がする時＞　karo:tjoru\nkaruta　（自分がする時。現在形はなり）　karu'tjoi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01629.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01629",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01629.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）［］は厳密にする。 日本語語地図資料用紙 注記一覧 16-30 資図番号 地図番号 261 64 項目名 おんぶする A 普通注記 (B 除いた共通語) (C 除いた特殊語) (2) 地点番号 本体形とその注記 (B・C 除いた語形とその注) A注のない語形 (B・C 残した語形とその注) 8335、83. karutsoru <人の時> karu: <自分の時> 1251. 73 kusizu:Φa SUN <おびをかけておぶる意> zuΦa SUN <おびをかけないでおぶる意>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01630.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01630",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01630.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "3726.21",
+      "3764.92",
+      "3767.87",
+      "4742.95"
+    ],
+    "other_text": "日本語諸地図資料用紙 注記一覧 59-79\n質問番号 地図番号 064 / 122\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)\n項目名 ひとさし指\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n3726.21  アララ〈指さすとき〉    ヒトサス・ヒトサスユビ\n3764.92  =バン〈ともいう〉      ヒトサスユビ\n3767.87  アレアレ〈古〉         モノサスユビ・ヒトサスユビ\n4742.95  alemilo 〈ユフく稀？(あれ見ろ!)〉    gitosasijumbt",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05979.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M064Q261/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05979",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05979.tif",
+    "source_ljc_id": "LJC-M064Q261",
+    "source_map_numbers": [
+      "064"
+    ],
+    "source_title": "おんぶする (幼児を負う)"
+  }
+]

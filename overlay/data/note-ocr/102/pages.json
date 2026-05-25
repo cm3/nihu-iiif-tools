@@ -1,0 +1,880 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0990.97",
+      "1744.60",
+      "1793.14",
+      "1854.24",
+      "1859.84",
+      "1942.03",
+      "2751.10",
+      "2765.71",
+      "3688.82",
+      "3712.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 日本言語地図資料用紙 注記一覧 24-26 質問番号 地図番号 102 項目名 つむじ 032 A 普通注記 [B 除いた共通語] [C 除いた特殊語] 地点番号 A 音形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 0990.97 makime <越中の人は nakaziri という> 1744.60 マギメ <ツルジとはいわない> 1793.14 ツムズラ (tsumuzi) 1854.24 [giri giri] (同席の接続事) 1859.84 makije {makimeといった} (金沢藩 明治32.8.20) 1942.03 makime <girigiri とはかーんがいっているのは同じ> 2751.10 マギメ <古> 2765.71 meguri <古> 3688.82 udzui maki <普通> (エジヒツ言い方のちがいに関して) 3712.15 makijiri <これを使う人がある> 右欄注記: ぎりぎり マキノ tsu'mudzi; マギゾ magime makime",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02426.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02426",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02426.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3733.18",
+      "3750.28",
+      "3763.17",
+      "4598.33",
+      "4598.59",
+      "4619.29",
+      "4619.63",
+      "4643.47",
+      "4647.87",
+      "4648.04"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　24-27\n項目番号　地図番号　102\nA　（普通語）　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n項目名　つむじ　032\n（表の見出し）地点番号　A書形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nA欄の記載例（手書き）:\nmagimæ  magime  i~d ed?  magime\n(dziiho (?)) dziiho ちょっとはっきりしない表記あり、類ったかも。氏に、magizubo あり、良い調査するあり。\nマギギリ <コ>\nGIRIGIRI  < girigiri, girigiri >\nGIRIGIRI  < girigiri, girigiri <多> >\nhadzuawase (体全のまいらん)\nwōzūmagu (hadama no ～)  #magi\ngirigiri  girigiriの列を例示、他でいうところのニフカラ　giri も一語で動詞に。giriという。方針としてはgirigiri等\nズズラマギ　ギナキともキものつかみ者であった。\n[(to)dzirimaki] <古> ジョに調査者、波調査者の変立（外オソの表記）。maki",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02427.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02427",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02427.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4665.87",
+      "4666.99",
+      "4675.62",
+      "4676.69",
+      "4679.68",
+      "4684.77",
+      "4685.10",
+      "4685.88",
+      "4694.26",
+      "4695.21"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-28\n質問番号　地図番号　102\n項目名　つむじ　032\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　(3)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n4665.87　uzumaki　---＜昔は使わなかったようだ＞\n4666.99　tsuimizu〈きゝ〉---＜昔からよく使ったが今は使うことが少ナ＞\n4675.62　*makimiri（ほかのwzumakiに会ったが後で消した）\n4676.69　!tjiri〈tjiri ga maeteru（ツリが巻いている）という？〉\n4676.69　magige（adama no magige）ほかにwzumagiに近い言い方がある（？）\n4679.68　maki〈ふつうこれを用いる〉\n4684.77　makime〈makimeの方を多く使う〉　tsumugi; makime\n4685.10　[gedzi] [gidzi]（はじめgedziと言ったが息子の言に従って右にした。）\n4685.88　sundzu（動詞形は sundzuga mo:）\n4694.26　tsudzji〈tsudzji ga mo:teru という。〉\n4695.21　suzue〈suzue ga mo:teru（つむじがある）〉\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02428.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02428",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02428.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4700.98",
+      "4703.18",
+      "4706.53",
+      "4715.33",
+      "4731.59",
+      "4744.10",
+      "4744.32",
+      "4781.86",
+      "5507.20",
+      "5508.19"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-29\n資料番号　地図番号　102\n項目名　つむじ　032\nA（普通注記）　ページ\n(B) 除いた共通語\n(C) 除いた特殊語　(4)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない副形（B・C 残した語形とその注）\n\nmakjme (kj -> 強破裂音が聞かれた)\nmagime: <この家計ある人は歌がいいといっている>\nmakīme [magimee]\nmagime {magime} <?>\nmaitsuburi <地のコトバ> makjme <岩物者でない人のコトバ>\n#magime 子供の二つの「うずうず」に注目したので使って...\nmagime (県下表記の例 {makome} ...)\nudzumagi / udumagi を普通に使う。 magime <耳方あたりの言>\ntjiri <釘>    dzukizara\natamanogirigiri (girigiri に分類) girigiri <等>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02429.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02429",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02429.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5539.94",
+      "5590.43",
+      "5595.05",
+      "5603.35",
+      "5604.28",
+      "5604.52",
+      "5605.70",
+      "5608.51",
+      "5611.74"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙 注記一覧 24-30\n資料番号　地図番号　102　項目名　032\n(A 普通注記) (B 除いた共通語) (C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5539.94    sara　＜古＞　　　　　　　　　　　　　　　　gizugizu\n5590.43    テジ＜やや古＞　　　　　　　　　　　　　　ギリギリ\n5595.05    gingiri　ギンギリとなろず\n5603.35    [] dzIN　書類会え誤調書もれと認めた。\n5604.28    dzjN---＜dzjngamaeteru という事例＞\n　　　　dzijko:---＜dzjNk: ga fitatsuwaunne kaka などとつじしがつか＞（注記あり）\n5604.52    dzijko---＜場所を云う＞　(dzjNは水や光りの湯を云う)\n　　　　dzjN---＜うす市の毛　その9を云う＞\n5605.70    dzjN (dzjNは水の渇きの意もあるという) ＜dzjN ga maeteru という＞\n5608.51    magimawa ji; ＜古くから現在も多用する＞　　　　magime\n5611.74    GIRIZA -> アマノ／ギリザ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02430.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02430",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02430.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5615.20",
+      "5620.32",
+      "5624.85",
+      "5635.65",
+      "5641.13",
+      "5644.74",
+      "5654.94",
+      "5656.62",
+      "5659.73",
+      "5679.58"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　24-31\n資料番号　地図番号　102\n項目名　つむじ　032\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(6)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n5615.20　dzin (dzin ga maiteru という.)\n5620.32　ギズギズギ　ズィ = zi\n5624.85　3IN (atamano～) <接続尾を手のjinという>　manuzin nagarezjin ize\n5635.65　マキメ ＜麦＞\n5641.13　dzin　dzinmaki <=> dzin ga aru to ... の意>　tsumudzi\n5644.74　マキチエシ ＜英＞\n5654.94　ケマキ＜古方＞　ツムジ\n5656.62　ウズマキ＜少＞　ツムジ＜多＞\n5659.73　ツムジ（表）\n5679.58　ツムジ＜多＞　ウズマキ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02431.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02431",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02431.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5665.46",
+      "5666.10",
+      "5666.18",
+      "5674.59",
+      "5676.84",
+      "5677.60",
+      "5677.85",
+      "5686.15",
+      "5686.67",
+      "5687.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-32 資料番号　地図番号　102 項目名　つむじ 032 (A 普通注記) (B 除いた共通語) (C 除いた特殊語) 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注） 5665.46　マキマシ　オハエエ＜マキマシ／バショガワレイ＞→MAKIMAWASI に分類 5666.10　ツムジ＜中央ダ、うねりとのマエのツムジとは云わない＞　マキメ 5666.18　ツムジ（共） 5674.59　マキメ＜多＞　ウズ 5676.84　マキメ＜ツムジなし＞（破調音の意、ツムジマガリはないか、ツムジとは云わない） 5677.60　ツモジ／ツムジ　両肩特別の差異なし 5677.85　ツムジ＜普通＞　＜フセビのつつみるもののフタツツムジ／前の方にあるもの　トリツムジ＞ 5686.15　makime　＜毛が巻いているから＞ 5686.67　マキメ＜普通＞ 5687.32　ツムジ（ツムジが二つあるもの　トリツムジ　※俗称有）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02432.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02432",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02432.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5688.74",
+      "5690.96",
+      "5691.37",
+      "5696.13",
+      "5697.24",
+      "5697.53",
+      "5697.86",
+      "5698.54",
+      "5703.70",
+      "5710.42"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-33\n\n質問番号　地図番号　102\n項目名　つむじ　032\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\ntsumudzi: いけやっぺに近く崎にる。語が標準音のはりや変形らしい。\ntsumudzi ＜中立にかう＞ フレジと言うと説明した。 maki\n（補）tsumudzi（おばあさんが補う、そううと肯定した。） makime\nマキメ　＝こつめるは トリイマチ\nツムジ　＝こつめるを トリイツムジ\nma'kume ＜普通に使う＞\n-tsumugi ＜[～や・maiteru]というように使う＞\n-tsumugi ＜＝つかれば [toriitsu'muzi]＞\nmagime ＜右＞ kemagi ＜左＞ tsumumudzi\nマキ　.... ＜多く使う＞ マキグリ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02433.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02433",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02433.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5711.85",
+      "5712.17",
+      "5712.9",
+      "5714.10",
+      "5723.36",
+      "5791.07",
+      "5791.68",
+      "5792.02",
+      "5792.62",
+      "5793.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞○（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧   24-34\n資料番号   地図番号   102\n項目名   つむじ   032\n(A 普通語) (B 除いた共通語) (C 除いた特殊語) (ページ (9))\n\n地点番号   A語形とその注記（B・C除いた語形とその注）   A注のない語形（B・C残した語形とその注）\n\n5711.85   udzumaki <タ>                                    magime\n5712.17   makimi <古>\n5712.90   tsuimodzi <今>\n5714.10   makime (囲島には makime, uzumaki 新> と合える)\n5723.36   tsuimodzi [tsuumodzi] (多く [tsuumodzi], 新… いずて [tsuumudzi] と)  巻方にや? gidari, minji を前につける\n5791.07   tsumuuzi <タ>                                     magime\n5791.68   makime ～ magime\n5792.02   makimé  e は狭.. e\n5792.62   magime <古>                                       uzumaki\n5793.20   makimé  e は狭.. e\n\n（手書き注記・ローマ字表記を含む。読み取りが不確かな箇所あり。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02434.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02434",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02434.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6354.46",
+      "6365.91",
+      "6368.60",
+      "6375.40",
+      "6376.08",
+      "6385.10",
+      "6386.66",
+      "6395.21",
+      "6395.61",
+      "6396.08"
+    ],
+    "other_text": "A・（B)・(C）ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧      24-35\n質問番号　地図番号　102\n項目名　つむじ　032\n普通注記　（B　除いた共通語）　（C　除いた特殊語）　（10）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6354.46   giri  ＜=つめる場合 nikko: という＞\n6365.91   girigiri  ＜=つめるのを nikko: という＞\n6368.60   [giri] ＜新＞\n6375.40   giri giri　（位置数、巻うりなどになる特別の名なし）\n6376.08   giri ＜位置数、巻うるなどになる特別の名なし）\n6385.10   girigiri　＜=つめる場合は niko:giri＞\n6386.66   maimaiko　（位置、数、巻うりに上る特別の名なし）\n6395.21   ギリギリ　＜多＞　　マイマイ\n6395.61   girigiri　（比較 maemae を含む。）\n6396.08   maimai.....（位置、数、巻うりにある特別の名なし）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02435.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02435",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02435.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6398.42",
+      "6406.77",
+      "6408.88",
+      "6419.09",
+      "6428.13",
+      "6428.76",
+      "6459.87",
+      "6476.93",
+      "6482.75"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-36\n資料番号　地図番号　102　頁\n項目名　つむじ　032\n(B　除いた共通語)　(C　除いた特殊語)　(11)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6398.42　maimai　（位置数、発音による特別の名なし）\n6406.77　giri　アカギ 刻\n6408.88　ギリ　＜ニつねのを ニネアギリ 横にあるのを ホテツンジーという＞\n6419.09　ギリ（タラ）　＜ギリギリ（ケ）　そのまま●●にみえるという＞\n6428.13　ギリ　＜ニつギリのあるるを ニネアギリという＞\n6428.76　ギリギリ　＜ギリギリが2つマルイニオイギリツリト言う＞\n6459.87　ギリ　＜希＞　（右欄）ギリギリ\n6476.93　ギリギリ　（小書きの注記、前頭部に●●、シッコーレン等の説明）\n6482.75　giri giri　〈girigiri ga motoru no yōni iu〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02436.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02436",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02436.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6484.43",
+      "6484.78",
+      "6485.14",
+      "6485.82",
+      "6487.43",
+      "6490.30",
+      "6491.49",
+      "6494.55",
+      "6497.77",
+      "6498.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 24-37\n\n調問番号　地図番号　102\n項目名　つむじ　032\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)　(12)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nギリギリ　ギリギリがモトル。\nギリ　ギリの方はゐ。　ギリギリ\n# ギリギリ　＜くっつみると意地が悪いという。＞\n!マイマイ　＜マイマイが…（文中に方言の説明）＞\nギリギリ　＜タッリギリ＞（ヒトツギリギリ）\nマイマイ　（アタマの〜）\n[maimai]　（海岸部の表現で生まれ、育った者、旅芸能者、被覆調査者か）　uluu\n!テンデンマイ　マイマイ　＜テンデンマイは子供のつかう言い方＞\nmaimai　＝つかむのを puntaisu? という\nmaimai　（人に乗ってそれを終わった。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02437.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02437",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02437.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-38\nA・［B］・［C］ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n（右上の箱）項目番号　地図番号　102　項目名　つむじ　032\nA（普通注記）　ページ\n（B　除いた共通語）　（C　除いた特殊語）　（13）\n\n（表ヘッダ）地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\ngiri giri　優先\ntsuizimbo　=つめる inaitsui[z]imbo\nマイマイ　＜マイマイコジの形と同じだからこのように言う。＞（マイマイコジは○○のカタツムリのこと）\nギリギリ　ニつれる場合はニィギリギリ\nギリ　＜余り多くない＞\ntsudzi　「フビジ」がつつめるのを nidai tsudzi という\ntsudzi　一＜前にした語のようである＞　mai mai\ngiri giri　＜こつうずのあるのは giri giri という＞　giri\nmai mai　若い人に使ったが今はあまり使わないので（何と言ったらよいか判らない）\ngirigiri　二つれば pinagirigiri という。\n\n（下部余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02438.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02438",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02438.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "A・{B}・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 日本語語地図資料用紙　注記一覧　24-39 資料番号　地図番号　102 項目名　つむじ　032 A（並語注記） [B 除いた共通語] [C 除いた特殊語]（14） 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 65 42.27　ウズく〈余り多くない〉 65 42.58　ギリギリ　＊ギリギリという語句を利用するに…　＊ウズモウテルゲという表現をするのが多い。 65 43.25　マキ〈サ〉 65 46.15　#イジ　〈「イジがまいる」と使う〉（何かしら補足の注） 65 48.26　#izijuri〈他〉　私はguriguriといったが〜という人も　#guriguri 65 50.79　uzuz　〈tsumumujiは単独では使わないか。tsumumuji-mayari〉 65 51.20　ギリギリ〈新〉　マイマイ 65 51.77　uzu.　〈二つあるときは、「ニナイグズ」という。〉 65 53.22　giri〈後〉（「ギリ」は若い人が使う）　tsuzi 65 53.47　giri giri　〈補足長めの注記〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02439.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02439",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02439.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-40\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n\n質問番号　地図番号　102\n項目名　つむじ　032\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n65+54.08\tギリギリ（鼻音化なし）\n65+58.09\tNR（最後に tsuzi, izi, giri, tsumugi 静想されることがある）\n65+59.67\tuzu〔tsuzi〕という\n65+64.33\tgirigiri（こつめるものについての名称は別にない。）\n65+64.51\tgiri / girigiri ＜二つあわせ、頭の正面から外れていると程度が悪いという＞\n65+65.17\ttsudzji（tsumumojiと言う） おばあさん言う\n65+73.17\tizi（二つあるものへついての名称はない。）\n65+74.06\ttsuzji＜inaitsuziは２つあるものを言う。氣のしっかりしたもの（ひろい意味）＞　tsuzjndo 古\n65+81.52\tギリ＜くつあるのは：こわぎり、中の名、ツジという。ツジは人によって別に呼ぶ＞\n65+81.68\tギリ＜まにあるあわなどに名はない＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02440.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02440",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02440.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6582.12",
+      "6583.44",
+      "6585.25",
+      "6590.35",
+      "6591.02",
+      "6593.98",
+      "6600.53",
+      "6603.82",
+      "6607.03",
+      "6608.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-41 資料番号 地図番号 102 項目名 つむじ 032 ページ (B 除いた共通語) (C 除いた特殊語)\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉は厳密にする。\n\n地点番号  A 語形とその注記（B・C除いた語形とその注）  A注のない語形（B・C残した語形とその注）\n6582.12  ゲジ〈希〉  ギリ\n6583.44  girigiri 『ニナイギリギリ』として、こつめるものをいい、これは商売することと濃け得るという。\n6585.25  ギリギリ〈普通に用いる〉\n6590.35  ツジ〈場所、狭いところのいい方〉\n6591.02  ギリ〈米〉  ツジ\n6593.98  giri giri〈[tsuzi]は牛の場合にいう〉\n6600.53  maki〈米〉  makimaki\n6603.82  トラムジ（内は別表の七つの母音の結合する音節）\n6607.03  uzumaki〈tsumugiを使うのは...例：tsumugi makari〉\n6608.22  ツムジ〈２つあるのはトリツツムジ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02441.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02441",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02441.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6609.05",
+      "6610.77",
+      "6611.68",
+      "6617.75",
+      "6618.46",
+      "6618.51",
+      "6620.20",
+      "6626.06",
+      "6626.46",
+      "6628.23"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧 24-42\n資料番号　地図番号　102\n項目名　つむじ 032\n(A) 普通語　(B　除いた共通語)　(C　除いた特殊語) (17)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6609.05 ツモジ　<こつあるものをトリツモジという>\n6610.77 ma'ki　<makima'kiという人もいる>\n6611.68 makimaki　<希>\n6617.75 ツムジ　<こつあるものはトリツムジ>\n6618.46 ツモジ　<こつあるはトリツモジ>\n6618.51 #tsumugi　<こつあれば> [Futatatsutsumugi?]\n6620.20 マゲ [マユゲのことではない。]\n6626.06 -tsumugi　<こつあるのは [umatsu'muzi]>\n6626.46 -tsumugi　<横廻にかければ [tsumugimayari]>\n6628.23 -tsumugi　<こつあるのは [tiletetsumugi]「鬢のひじの意であろう。」>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02442.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02442",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02442.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6633.27",
+      "6635.20",
+      "6638.14",
+      "6640.29",
+      "6642.88",
+      "6667.81",
+      "6677.70",
+      "7208.97",
+      "7218.26",
+      "7239.29"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 24-43 地図番号 102 項目名 つむじ (ページ) (B 除いた共通語) (C 除いた特殊語) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) 6633.27 tsumuzzi 多 tsumozj 6635.20 tsumozi tsumuuzi 区別なし 6638.14 -tsumuzi <二つあるのは[Futatastu tsumuzj]と言う。> 6640.29 tsumozino makimaki <子> ･･･ <多くはこの字にかく> tsumozi 6642.88 tsuumozi =二つあるつむじ tori:tsuumozi 6667.81 meguri <古> ts'umudzi 6677.70 tsumozi <おばあさんはこう言う> tsumuzj 7208.97 ts'ijimaki (tj'ijimaki のくずれたいふだという) 7218.26 tjizimaki <つじ巻きの意> 7239.29 kio:maki キヨオマキ <古> ツムジ tsumuzj",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02443.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02443",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02443.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7258.89",
+      "7266.09",
+      "7266.60",
+      "7303.29",
+      "7304.26",
+      "7307.18",
+      "7312.11",
+      "7332.97",
+      "7338.48",
+      "7340.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-44\n資料番号　地図番号　102\n項目名　つむじ　032\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(19)\n\n地点番号　A 言形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7258.89    tʃo:maki　〈新〉    kjo:maki\n7266.09    kjo:mak　（結尾のつまる音はこの場合特殊な扱いか）\n7266.60    kjo:mak　（結尾では tʃo:maki）\n7303.29    giri giri　（スマイクなら）（ツムシにし）\n7304.26    N.R.　〈? uzzu gamo: tforau〉\n7307.18    ニャマス?　巻州状況　大阪、京都などで…（筆記の小さい注記あり）\n7312.11    giri giri　（多）\n7332.97    giri giri　〈girigiriga mo:（formのように言う）〉\n7338.48    tugi　（したが、... のずらしのことで、...）\n7340.27    kjo:maki　（ほしの + tʃo:maki に同じ）\n\n（ページ下部に手書き注記や小書きの説明あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02444.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02444",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02444.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7341.42",
+      "7341.51",
+      "7342.12",
+      "7342.72",
+      "7349.91",
+      "7351.09",
+      "7351.68",
+      "7352.14",
+      "7352.97",
+      "7353.41"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 日本言語地図資料用紙　注記一覧　24-45 地図番号 102 項目名 つむじ 032 (B 除いた共通語) (C 除いた特殊語) 地点番号　A 音形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 7341.42　キョオマキ kjo:maki (ふにくかったので; 語頭にけ残れ(この訛を現す))　kjo:maki 7341.51　giri giri <くろ> 7342.12　girigiri (=巻いた部分) (奥端には tsuzuru のはずである) 7342.72　girigiri (多いと説明にかく; ぎりぎり ぎりぎり) 7349.91　tsujimaki <こつあるのは rjo:maki に> 7351.09　tjo:maki 7351.68　tjon tjon mage ? に思うが そのままにする 7352.14　ギリギリ (やや筆希)　キョオマキ 7352.97　ギリギリ (教入は違うが…) 7353.41　サラ <ギリギリ ギリギリ などということばは完全に消したい>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02445.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02445",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02445.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7374.15",
+      "7376.62",
+      "7380.74",
+      "7382.93",
+      "7390.70",
+      "7391.94",
+      "7392.94",
+      "7394.60",
+      "7400.11",
+      "7402.47"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧    24-46\n資料番号　地図番号　102　　(A 普通注記)　ページ\n(B　除いた共通語)　(C　除いた特殊語)\n項目名　つむじ 032\n\n地点番号 | A語形とその注記（B・C除いた語形とその注） | A注のない語形（B・C残した語形とその注）\n\nギリギリ (girigiri)　[サラ]－(コメント)\ngiri / giri giri　〈何れともいう〉\nサラ〈古〉マチマチ　(注記いろいろの書込み)\nサラ　ギリギスく〈やや古い？〉（手書き注記長文）\nマク→アタママクはマクの外れ（手書き補足）\nギリギシン　（頭に旋毛がつめあるものを[類]）\nギッギン〈卯〉〈表記補足〉　（手書き注記）\nキョウマキ〈原・古〉　（右欄：ギザジン／ギチュマキ）\n3i:3i（くろぶ: gamai-tomu のようにいう語）\nmaimai（Futatsumai） のあるものをいう、って表記\n\n（表の余白・その他手書きメモ多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02446.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02446",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02446.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7403.21",
+      "7404.12",
+      "7406.53",
+      "7408.50",
+      "7411.27",
+      "7411.61",
+      "7412.31",
+      "7413.29",
+      "7420.18",
+      "7420.91"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）には敬称をつける。 日本語語彙図資料用紙　注記一覧　24-47 調査番号　地図番号　102 項目名　つむじ　032 A 普通語（B 除いた共通語） ページ [B 除いた共通語] [C 除いた特殊語]\n\n7403.21　uzui　(kono kawa ki(気) ga arai, ken uzugi ga futatsu mo mo:toru ほとどろう) \n7404.12　mai　(maiga mo:toru) 旅に使う。(∼toru wa ∼ te oruの意味である) \n7406.53　tsuzji　= 二つ並んだのを mina't tsuzi という。\n7408.50　tsuzji　minai tsuzji（うつぶ・こつめると?）\n7411.27　tsuzji　<tsuzji ga maitoru nadoという。>\n7411.61　tsuzji　<tsuzji ga maitrue あうに言う。>\n7412.31　mai mai　(〈maimai ga mai-toru〉などという由。)\n7413.29　maitsuzi　〈tsuziを消磨する場合もある。〉\n7420.18　tsuzji　〈tsuzji ga mo:toru などと言う。〉\n7420.91　uzuu　〈推定: imaitoru to so:ne ga magatoru to jui:〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02447.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02447",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02447.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7423.12",
+      "7423.77",
+      "7425.02",
+      "7425.82",
+      "7430.75",
+      "7431.08",
+      "7440.72",
+      "7450.20",
+      "7471.38",
+      "7500.24"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本語語彙地図資料用紙 注記一覧 24-48\n資料番号 地図番号 102\n項目名 つむじ 032\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (23)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7423.12  mai ---- 〈この語は牛などについてもいうことがある。〉\n7423.77  [mai] 〈希〉\n7425.02  maituzi rjo:gama (数が二つある場合)\n7425.82  mai 〈多〉\n7430.75  tsuzi <otsuziともいう>\n7431.08  tsuzi（<tsuzi ga mo:toru>という動）\n7440.72  otsuzi <上> 〈初児のをほめていう時などに〉 kireina otsuzi (jitemu)  tsuzimaki\n7450.20  tsuzimaki <tsuzimaki ga mo:toru>\n7471.38  tsuzi, maituzi　巻くの特に長目のものをスリッという\n7500.24  ツツジ 〈ここのあたりはキガツジという〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02448.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02448",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02448.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は敬略にする。 \n日本言語地図資料用紙 注記一覧 24-49\n質問番号 地図番号 102\n項目名 つむじ 032\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (24)\n\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A 注のない語形 (B・C残した語形とその注)\n\n75 00.43  ツジ  ニガイツジ・・・ニコフる場合\n75 00.66  ツジ  アマノハシジ\n75 01.14  ツジ  ミチツジ (ニフ、まれにチツのあるものをいう) イエツジ (まえにあるもの)\n75 01.68  ツジ  ニチイツジ <2つあるものという>\n75 02.91  ツジ  <こつある形 ニカツジという。>\n75 03.11  maemae (位置数表示による特別の名前はない。) (連声者kaiはこの場合は: とはならぬ)\n75 10.18  ツジ  <ニチイツジ> = 2つあるもの\n75 11.93  ツジ  <2つあるものをニチイツジという。>\n75 13.01  マイマイ ツジ <時同じくらいに使う>\n75 13.43  マイマイ <位置、数などの特別な名なし>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02449.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02449",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02449.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7522.48",
+      "7523.05",
+      "7523.27",
+      "7523.38",
+      "7533.11",
+      "7533.12",
+      "8300.11",
+      "8300.80",
+      "8301.46",
+      "8302.19"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-50\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n質問番号　地図番号　102\n項目名　つむじ　032\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n7522.48　ツジ〈位置によって変わつつる。ヨコツジ（横にあるもの）〉\n7523.05　ギリギリ〈ナ…〉\n7523.27　マイマイ〈位置、数などによる名なし〉\n7523.38　ツジ〈（デジマ 前にあるもの）ニナイツジ〉\n7533.11　ツジ〈くつあるのはニナイツジ〉\n7533.12　ツジ〈くつあるのはニナイツジ〉\n8300.11　チョウマク（奥本）〈焼く白〉サラ（南）\n8300.80　サラ〈古〉\n8301.46　サラ〈希〉〈老人語〉\n8302.19　ヤマキ〈新？〉\n\n（右欄注記）キリギリ　ノギリギリ　ギリギリ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02450.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02450",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02450.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "8303.70",
+      "8313.88",
+      "8314.62",
+      "8322.68",
+      "8324.83",
+      "8334.63",
+      "8343.74",
+      "8344.11",
+      "8355.62",
+      "8372.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-51\n\n資料番号　地図番号　102　A　洋語注記　ページ\n項目名　つむじ　032\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nマキ　<古>\nグルグルマキ　<古>\n（注）ケマキ\n\ngigimat（キギマキの転の入声化。）\n\ngigimaki（（後続する語幹数の特殊形地帯で複雑な語形の実例を示す注記））\n\n#sana　<希>\n#girimo　<希>\n\ndgzumaki!（—makiは—matともなる。濁音のは入破音の語形。）\n\ntsjuzmat　—makiの諸転の入発音になる。\n\ngigimo　〈頭の中をsaraといってその中にgigimoがある。〉\n\ngigi（girigiri＞gigiij＞gigiであろう）\n\ntjommage　非常に珍しい言い方である。含を仮にしたものか、主に使われない。\n\ndzogama（二重に巻いたという意味）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02451.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02451",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02451.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "8373.43",
+      "0237.84",
+      "0276.50",
+      "0294.93",
+      "0340.00",
+      "1261.80"
+    ],
+    "other_text": "日本語音図資料用紙　注記一覧　24-52\n（右上欄）地図番号　102　項目名　つむじ　032\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は敢略にする。\n表ヘッダ：地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n手書き欄:\ngijigiji (K) maki: うのが実当だと言ったが実例によりmakirは特殊の扱いかもしれない\ntjidji <2分2分に使う>   matʃidʒi\nmatsidzin <matsidziという入る>\n[matʃidʒi]\nmatudʒi <希>\nmatsudʒi <新>\nN.R. (ti: tʃ/matʃa: (つむじの一つあるの) たと; tʃmatʃa:(つむじの一つの意)) (omajにてあろう)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02452.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02452",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02452.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "4688.45",
+      "5642.31",
+      "5671.94",
+      "5686.67",
+      "5690.27",
+      "5697.53",
+      "6605.84",
+      "6611.61",
+      "6631.69",
+      "6634.07"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-53\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n資料番号　地図番号　102　項目名　つむじ\n（ページ欄）A 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4688.45　tsumudzi　<英>　　　　　　　　　　　　　　makime\n5642.31　tsumudzi　<英>　　　　　　　　　　　　　　dzimmaki\n5671.94　tsumuzi　<英>　　　　　　　　　　　　　　l.makimaki\n5686.67　ツムジ　<英>　（傾向による客）　二つあるもの　オドリマキ　　マキメ＜普通＞\n5690.27　tsumudzi　<新>　　　　　　　　　　　　　　?makimaki\n5697.53　tsutmuzi　＜普通には使わない＞　　　　　ma'kume＜普通に使うことば＞\n6605.84　ツムジ［共］　　　　　　　　　　　　　　　マメ\n6611.61　tsumuzi　＜希上＞　　　　　　　　　　　　makimaki\n6631.69　tsumuzi　新　　　　　　　　　　　　　　　makimaki\n6634.07　tsumuzi　上　　　　　　　　　　　　　　　tsumodzi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02453.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02453",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02453.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6652.77",
+      "6662.38",
+      "6698.20"
+    ],
+    "other_text": "日本官署地図資料用紙　注記一覧    24-54\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )は抜略にする。\n質問番号　地図番号　102\n項目名　つむじ　032\nA　常通注記　　B　除いた共通語　　C　除いた特殊語　（2）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\ntsumuzi　新\ntsumuzi　上\ntsumudzi　＜失＞\ntsumozi\ntsuzi\nその他",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02454.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02454",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02454.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "0737.94",
+      "3725.72",
+      "3746.41",
+      "3757.32",
+      "3768.50",
+      "3796.95",
+      "5646.71",
+      "5634.11",
+      "5688.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-55\n資料番号　地図番号　102\n項目名　つむじ 032\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は敬称にする。\n（右上の欄）A　普通注記　B　除いた共通語　C　除いた特殊語\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n0737.94　?atama no teppen　?こつあろみは nidzu:maki（最後に又短句にした同じく思いた）　N.R.\n3725.72　ベゴサズリ　＜顔に近い所にある半分立髪のいるもの＞　マギメ\n3746.41　ツブ　＜くも＞　マキメ\n3757.32　ツンムギ（しと）　　　　　　　　　ツマジ\n3768.50　マガリツムジ　＜頭はとにみるもの＞　ツムズ\n3796.95　メマズ　＜前額＝アルビ＞　マギケ\n5646.71　?リオテン　マキメ\n5634.11　tsumedji　tsumudji\n5688.01　!フダツツムジ　＜フダツムジはフダツムジの名称　フダツムジの子はミラだった家？＞　ツムジ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02455.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02455",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02455.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5696.54",
+      "5696.68",
+      "5697.53",
+      "5698.69",
+      "4723.36",
+      "6378.87",
+      "6389.59",
+      "6477.51",
+      "6469.77"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-56\n資料番号　地図番号　102\n項目名　つむじ　032\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n地 点 番 号 | A 伝形とその注記 (B・C 除いた語形とその注) | A 注のない語形 (B・C 残した語形とその注)\n\n5696.54    tori:makime  <こつまるきの 鳥居のような形?>\n           sidarimaki <左巻き>\n           migimaki <右巻き>\n           A注のない語形: makime\n\n5696.68    tori:makime <2つつじのある場合>\n           A注のない語形: makime\n\n5697.53    tori:tsut'muzi <2つまるつじ>\n           A注のない語形: ma'kume <普通に使うことば>\n\n5698.69    tori:itsut'muzi <こつみる場合>\n           A注のない語形: tsut'muzi / itsumodzi\n           (注記: (ケx. (Itsumadzi) 新しい… 言い方の注記あり)\n\n4723.36    (?donnokubo)\n           A注のない語形: ギリ\n\n6378.87    ギモオジ\n           A注のない語形: ギリ\n\n6389.59    ジュウジュウ (3)\n           A注のない語形: ギリギリ\n\n6477.51    dzu':dzu:  dji:dzu: <新>\n           A注のない語形: N.R.\n\n6469.77    アタリツジ (?)\n           A注のない語形: ツジ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02456.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02456",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02456.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は略符にする。 日本言語地図資料用紙 注記一覧 24-57 資料番号 地図番号 A 普通注記 ページ (B 除いた共通語) (C 除いた特殊語) (3) 102 項目名 つむじ 032 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) ヤヤ（まゆめて古語）。被調査者の子供の頃 その程度でかいた これをいれた接写で自分には聞けない。 ギリギリ zukotenN giri giri gine gyine <3> tsudzi フタツギリ シュンツジ （ツージョに2つある場合） ギリギリ ツジ ウズ ツジ ニカイツジ <二つある時> ツジ イナイジンジリ <二つある時>（イナイケニナの話し） ジンジリ ninaitsùji [<二つあるもの>] かがちゃん giri <inaijiri> <「イナイジ」についての注記> giri inaitsuzji <二つあるもの> 下田町文書等の注記 tsuzji ninaigirigiri <二つあるもの> girigiri",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02457.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02457",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02457.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6585.25",
+      "6591.02",
+      "6591.81",
+      "6625.17",
+      "6630.82",
+      "6636.62",
+      "6646.23",
+      "6665.25",
+      "6698.20",
+      "4312.11"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-58\n質問番号　地図番号　102\n項目名　つむじ　032\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n（表見出し）\nA 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nアタノ チョッペ　＜子供の時用いた＞　ぎりぎりく普通に用いる\nニナイツジ　=つぬるとミくれとニコツツジともいう。　ツジ　ギリ〈失〉\nニナイツジ----２つの場合　ツジ\ntorie --- ふたつつむじ　tsumuzi\n!tsumigimbo: ＜すしぶせて使うとき＞　tsumuzi\ntoritsumugi ＜あたまの すんだのに二つあるとき、その名呼＞　tsumuzi\ntori: tsumuzzi ＜つむじのつあるのをいう。前髪を向かない。＞　tsumuzi\nbunnukudo: bunnukodo:　tsumuzi\nmondziri　その地\nmutsuuzi　（罰倒の時云う）　giri giri（多）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02458.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02458",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02458.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7318.04",
+      "7331.27",
+      "7380.44",
+      "7423.12",
+      "7423.77",
+      "0294.93"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧 24-59\n資料番号　地図番号　102\n項目名　つむじ 032\nA 普通注記 (B 除いた共通語) ページ (除いた特殊)\n地点番号　A 音形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7318.04　nikko:mai　＜＝つみるものの呼び名＞　maimai\n7331.27　guzuu　(giri giri)　(小書きの注記あり)\n7380.44　チョカ　＜古希＞　(注記あり)\n7423.12　maikomori　mai- ＜この語は子音についてのつづり注記＞\n7423.77　tehey　[mai] ＜希＞\n0294.93　?hadji-　(長い手書きの注記あり、方言的説明)　[matjidzi]\n(以下空欄)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02459.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M102Q032/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02459",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02459.tif",
+    "source_ljc_id": "LJC-M102Q032",
+    "source_map_numbers": [
+      "102"
+    ],
+    "source_title": "つむじ (旋毛)"
+  }
+]

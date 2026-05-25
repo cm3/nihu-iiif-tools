@@ -1,0 +1,2460 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0716.46",
+      "0747.70",
+      "1719.17",
+      "1739.10",
+      "1744.60",
+      "1762.10",
+      "1763.60",
+      "1848.24",
+      "1862.48",
+      "1863.48"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-60\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n質問番号　033　地図番号　103\n項目名　先頭\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(1)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n0716.46　ヤカンアタマ＜下＞　ハゲアタマ\n0747.70　ja'kampahye＜多＞（筆祈で・なしに）　hạjdeatda ma, haye\n1719.17　ヤカン（軍）　ハゲ（アタマ）\n1739.10　haʝe＜多＞　hajeatama\n1744.60　!ドッパク゜＜馬/庭にした時使う＞　ハプアタマ\n1762.10　ハゲ・ペラ＜鼻術＞　ハゲ\n1763.60　ハプアタマ＜ズベというのは越中人にある＞\n1848.24　hajea'tama, hajeadatama（は＝tの有声化）\n1862.48　ハゲ、ペラ（古）　ハゲアタマ\n1863.48　キンカアタマ＜昔＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02460.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02460",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02460.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "日本語言語地図資料用紙 注記一覧 24-61\n調問番号 地図番号 033 / 103\n項目名 元頭\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n\n地 点 番 号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nテンキアダマ　<相手を馬鹿にする時に使う>　ハゲアダマ\ngamedaddama　単称　（gameはレプラのこと）　hayedadama\njakandadama　単称　hayedadama\nbupaye　<単>　hayedadama\nbupaye　<単>　hayedadama\nbupdye　<単>　hayedadama\nbupabe　<単>　hayedadama\nkamudadama　<笑って言う語>　hayedadama\nbupanye　<単称>　hayedadama\nterapabe　<ばかにした言いかた>　hayeatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02461.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02461",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02461.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-62\nA・[B]・[C]ごとに別紙を使用する。\nその中での音標は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n質問番号　地図番号\n033 / 103\n項目名　先頭\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　(3)\n\n（表ヘッダ）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nkusarehaze (鼻) bupaye (鼻?)\njakwabatama ひゃっした言い方（231のときた?）\njagwab　多少朝弄的\ngibeadama（はげ?） giberu\nkusarehayeaddama 卑, kigka（ち）\nkusarehdye（鼻）\nbupaye（鼻）\njagwan（軽..朝笑）\njagwab（鼻）\njagwab やわらかい気の主\n\n（右欄の注記／対応例）\nhayeadama\nhạyeatama\nhạyeadama\nhayeadama\nhayeadama\nhạyeadama\nhayeadama\nhạyeaddama\nhayeadama\nhạyeaddama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02462.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02462",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02462.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-63\n調査番号　地図番号　033 / 103　項目名　先頭\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n3723. 21　tensodama は幼めのより使った　　　hayeadama\n3724. 20　jakan　早　　　　　　　　　　　　hayeadama\n3730. 43　jagwan kuma, ka を別す\n3731. 46　jagwan（軽蔑的）　　　　　　　　haye:adama\n3741. 16　jagwan（軽蔑の意味はない）.(w)は時によりはいる時、入らない時がある。\n\n3744. 18　ハケ　これは実に時で少し草になることもある。\n3746. 09　hajeatama　糸の方だけはけたの dännepage\n前から後の方へなるの kanemajipage, 真中にだけはけす\nたの dœbætijapæ (dœbætijape) は下妻のかこうが",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02463.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02463",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02463.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3754.37",
+      "3761.74",
+      "3764.86",
+      "3766.47",
+      "3767.18",
+      "3771.29",
+      "3773.12",
+      "3780.65"
+    ],
+    "other_text": "▸ A・〔B〕・〔C〕ごとに別紙を使用する。\n▸ その中での音濁は地点番号順に並べる。\n▸ 注記のく〈〉〔〕は略語にする。\n\n日本言語地図資料用紙　注記一覧　24-64\n資料番号　033 / 103\n項目名　先頭\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語　(5)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n（それを思わせるような植物の名）\n3754.37　ハケアダマ（夕草）\n3761.74　jagana（ka, kumaの区別がない）\n3764.86　ハケアダマ（夕草）\n3766.47　ハケ（精身）\n3767.18　グレハゲ（軽里には）　　ハケアタマ\n3771.29　jagwanaは不調法、but johoda 言葉といしし\n3773.12　ハケアダマ（夕草）\n3780.65　hayetsübuti（香）, jagwaadadama（朝季）　hayedadama, hjakujokü（朝季）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02464.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02464",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02464.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3781.49",
+      "3782.38",
+      "3784.24",
+      "3792.96",
+      "3796.48",
+      "4598.59",
+      "4618.87",
+      "4628.28",
+      "4629.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-65\nA・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n資料番号 033 / 103 項目名 先頭\n（A 普通注記）（B 除いた共通語）（C 除いた特殊語）\n表見出し: A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\njagwan (早林、変林?)\njagwan (このごろ)\nハアアダマ (夕草)\njagwan はやや朝発的\nハアアダマ (夕草)\njakanatama (ほかの地言でもややアラマ（またはヤク?）) アラマというと思う。またこの地言でもハケ、ズベを（表す語?)\n\namedadama (アメルは先ずる意), rahye <新>\nameatama (くら)\namétsümurlk (普通)\n\n右欄注記（A 注のない語形）:\nhajeadama\nhajeadama\nhajeadama, hajetsuburi\ndeyja はこのかどりかえる形容\nhajeatama\nhajeadama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02465.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02465",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02465.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4637.68",
+      "4638.22",
+      "4639.10",
+      "4644.10",
+      "4653.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-66\n\n資料番号 033　地図番号 103\n項目名　先頭\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)　ページ (7)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n4637.68　lameatama / やけどなどによるものは\n　　　　ldeki atama　habeatama\n\n4638.22　a'me'atama　とは殊に e. キンクとは「ついほ」のことなり。\n\n4639.10　hayetama <今の引く＞　　hayeatama\n\n4644.10　kinka <手今の割にものが薄いもの> a'meatama（略）\n\n4653.47　[ameatama]〈希〉(kinka atama)〈希〉(動詞)\n　　　　zadmetoru（あめている意の来）とはよくいう\n　　　　(kinka atama)〈希〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02466.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02466",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02466.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4654.52",
+      "4658.42",
+      "4659.01",
+      "4659.50",
+      "4663.06",
+      "4663.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での措置は地点番号順に並べる。 注記の＜＞（　）［　］は厳密にする。 日本言語地図資料用紙　注記一覧　24-67 資料番号　033　地図番号　103　A　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ（8）　項目名　先頭 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） ameatama やけどによるものは hage という。 hayedatama ... の部分 ?ge かもしれず、はっきりしない。 ameatama（希×新）他に言い方はありませんか、の間にますしその答え。 ameatama <普通> hayedatama アメアダマ？という話もあるが、それは病気などで所々禿げた頭のこと。参考 アメルー 気ける jakazatama 動詞は ameru kikakko:be 正確にいった場合 kigka Kibkaatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02467.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02467",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02467.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4663.92",
+      "4665.87",
+      "4666.51",
+      "4666.99",
+      "4667.33",
+      "4669.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-68\n資料番号　033 / 103\n項目名　光頭（手書き）\nA 普通注記　ページ (9)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n4663.92　ki'yka(-ko:be) <多>　ha'geatama\n4665.87　ameatama <ち-現>\n4666.51　ame <略（した言:…方）> hageatama（病的なものに限らず自然に先げたものも言う）　ameatama\n4666.99　hage\n　　　　ameatama（百名詞。老けの原因はと）\n　　　　ametero（わず絵術にこのようにいう。）\n4667.33　アメアダマ〈真面目な言い方アメタンチョオくからかいの気持がある。〉\n4669.55　ameddama〈稀・古〉　kayeadama（手書き）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02468.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02468",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02468.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4672.19",
+      "4675.45",
+      "4676.42",
+      "4676.60",
+      "4676.67",
+      "4684.77"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（　）〔　〕は厳密にする。\n\n日本語地図資料用紙　注記一覧　　　　24-69\n資料番号　地図番号\n033　103\n項目名　花頭\n(A)普通注記　(B)除いた共通語　(C)除いた特殊語　(10)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n4672.19　hageatama（自然に束けたもの。やけどなどで先げたものー様にhageatamaと言う。）\n　　　　kigkaatama（売けて光っている所があるづけた）\n4675.45　amedatama　（hageatamaはやけどなどによる売げ）\n　　　　ameatama による売げ頭をいう。\n4676.42　アメアタマということが多い。\n4676.60　amedatama　hageはやけど等による売げをいう。\n4676.67　hayeatama（単にhageはやけどによる売げを言う。）\n4684.77　hageatama＜下＞（hageは瘡痕や尺貫などに…）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02469.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02469",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02469.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4685.28",
+      "4685.72",
+      "4685.88",
+      "4686.52",
+      "4687.37",
+      "4689.62"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での順序は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 24-70\n調査番号 033    地図番号 03\n項目名  礼頭(?)\n(右欄) 2. ameatama\n\n地点番号   A語形とその注記（B・C除いた語形とその注記）   A注のない語形（B・C 残した語形とその注記）\n\nよる長けと言う。>\n4685.28  ameatama  hageatama は病的原因によるもの。\n4685.72  ameatama (hage は病的等になる先げで頭部のみについて言うのではない。他の部分についても言う。)\n\n4685.88  ameatama 動詞 = amemu (丸げる?)\n4686.52  (ameatama) hageatama は病的なもの > 31才の答を被調査者も認めた。\n4687.37  ameatama (やけどのはげは jakehaye という)\n4689.62  hageadama（共通）  haye",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02470.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02470",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02470.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4694.81",
+      "4694.95",
+      "4695.19",
+      "4695.21",
+      "4695.87"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別表を使用する。\n▶ その中での語彙は地点番号順に並べる。\n▶ 注記の＜＞（）（[]）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-71\n資料番号　地図番号\n033 / 103\n項目名　先頭\nA　普通注記　（ページ）\n(B)　除いた共通語\n(C)　除いた特殊語　（1/2）\n\n表見出し：\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nアメアタマ、ハゲアタマ（二つの語に意味的な差はない。）\nameatama (ameruという動詞がある。やりどの結果の先げはhageという。)\nアメアタマ、ハゲアタマ（外傷、外傷などによる禿頭とはじめ答えたがこれを訂正した。）\nAme, ame&tamaは目ざめに（djinenniに発音した）売げたもの。＜hageはやけどなどで売げたものを言う。これは頭のみに限らない。＞\nhageatamd, amedatmad (A)法の差はない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02471.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02471",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02471.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4696.82",
+      "4703.88",
+      "4704.96",
+      "4705.53",
+      "4710.55",
+      "4711.49",
+      "4712.16",
+      "4712.54",
+      "4714.22"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での語は地点番号順に並べる。 ▶ 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 24-72 資料番号 地図番号 033 / 103 項目名 先頭 (A)普通注記 (B)除いた共通語 (C)除いた特殊語 (13) 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 自然に抜けたあたまである。 amedatama <khageatama> は病の原因によるもの haye (ハゲの人のことという場合が多いのではないか) hayedetama ハゲ <ウ…> ハゲアダマ（少年） buppaye <F> ツッパッテ、スッパッテ（草） （両方とも） hayeaddama, hdye ハゲ、ハゲアダマ hayeく頭をつけず簡略に言う hayedatma hayeaddama <?> !haye（アタマをつけずに＝それだけでわかる）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02472.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02472",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02472.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4723.14",
+      "4723.58",
+      "4724.00",
+      "4725.92",
+      "4760.5",
+      "4791.39",
+      "5462.29"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語根は地点番号順に並べる。 注記の＜＞（）は破線にする。 日本言語地図資料用紙 注記一覧 24-73 資料番号 地図番号 033 / 03 項目名 先頭 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (14) 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C残した語形とその注） haye きれいなはげ derappaye !derappaye〈全部はげているのをいう。〉 !haye〈かんたんに言うと〉 hayetama（くわしく言うと） !haye etama（!はことばに対してではなく、意味内容についてのもの） く／やkã atama〈冷やかす言い方〉 hayetatama hayetama hayeくいやしめていう:それを多く使う hayetama〈いやしめていう〉 キンカ〈下〉 ハチアタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02473.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02473",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02473.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5463.12",
+      "5508.16",
+      "5516.19",
+      "5527.89",
+      "5536.29",
+      "5537.94",
+      "5538.63",
+      "5538.88",
+      "5538.90",
+      "5539.43"
+    ],
+    "other_text": "日本音韻地図資料用紙 注記一覧 24-74\n資料番号 033 / 03\n項目名 先頭\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) (15)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nキンカ〈希〉　ハゲ・アタマ\njakwan atama〈下〉　dzube atama\nハプュベ〈下〉　（注記不明）\ndzube〈下〉　haye atama\ndzube〈下〉　haye\njakkwan〈下〉　hayeatama\nzibe〈単〉 dosi zibe〈いっそう単〉　jakanN\nズベ〈す〉　ハテ。\njakwan atama〈下〉\nハザ〈上〉 スベ〈下〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02474.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02474",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02474.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5548.24",
+      "5548.58",
+      "5549.09",
+      "5555.58",
+      "5556.35",
+      "5558.67",
+      "5566.1",
+      "5566.35",
+      "5567.46",
+      "5568.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語は地点番号順に並べる。 注記の< >( )は厳密にする。 日本言語地図資料用紙 注記一覧 24-75 調査番号 033 地図番号 103 項目名 先頭 (A)普通語記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A 語形とその注記 [B・C除いた語形とその注記] A 注のない語形 [B・C 残した語形とその注記] 5548.24 dzube <下> hayeatama 5548.58 dzube <下> 5549.09 jakan atama <くもい?> hayeatama 5555.58 jakan <下部> 5556.35 baje <下部> 5558.67 dzube <下> 5566.10 ヤカンタマ <下> ハゲ、ハゲ・アタマ 5566.35 hayetoko <古?> hayeppatsi 5567.46 ヤカン <鼻> ハゲ。 5568.22 ズベ <鼻> ハゲアタマ / ハゲ・",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02475.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02475",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02475.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5568.57",
+      "5569.99",
+      "5574.42",
+      "5575.55",
+      "5578.27",
+      "5579.10",
+      "5579.79",
+      "5584.37",
+      "5585.63"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-76\n質問番号 地図番号 033 / 103\n項目名 先頭\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) (17)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n5568.57　ヤカン〈鼻〉　!ハケタ\n5569.99　!zubeta〈目上でない人に対して〉\n5574.42　hayeatama, kijka〈これは悪口のとき〉 hdye\n5575.55　tabin〈悪口ではないが…感じはしない〉\n5578.27　ヤカン〈鼻〉　ヤカンアタマ\n5579.10　ヤカン〈他国から入ってきたことば〉　ハケアタマ\n5579.79　ズベ〈鼻〉　!ハケ、ハプタ,\n5584.37　jakan teka と同等\n5585.63　jakan no ketsu ややからかい…気の車の気持ちがある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02476.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02476",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02476.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5588.78",
+      "5589.30",
+      "5590.53",
+      "5591.91",
+      "5595.89",
+      "5598.53",
+      "5599.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語彙は地点番号順に並べる。 注記の＜＞( )は厳密にする。\n日本言語地図資料用紙　注記一覧　24-77\n資料番号　地図番号　033 / 103\n項目名　先頭\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (18)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nヤカンダマ〈鼻〉　　ハゲアタマ、!ヤカンアタマ\n！オオヤカン〈すばらしくよくはげたものをしていう。〉/児　！ハゲタ、ヤカン\nハゲアタマ　カ行濁音はこの地方では語中尾 でも大で〔弱〕で現われる。009ワワルレ等 の場合は当然〔弱〕であるがこの「ソゲー」においても〔刃音〕はほとんど聞かれないようである。\nハゲヤン（は相手に親しみをもっていう。ハゲアタマ）　ハゲアタマ\nヤカン（音・鼻）、ハゲヤン（音・鼻）　ハゲアタマ\nヤカンアタマ〈鼻〉　ハゲアタマ\nムギアタマ・ヤカンダマ〈鼻〉　ハゲアタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02477.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02477",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02477.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5604.28",
+      "5604.52",
+      "5604.65",
+      "5605.11"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 24-78 資料番号 033 地図番号 103 項目名 先頭 A 普通注記 (B 除いた共通語) (C 除いた特殊語) （19） 地点番号　A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C残した語形とその注） 5604.28 hageatama <この方が新しいかもしれない> （「外にありませんか。」の問に対する反応である。新しいものであろう。） aMedatama 5604.52 amedatama ---- <これが自然に剥げた頭の意味に最も普通に用いられる> hageatama ---- <これはヤケど等による剥げ頭も含む> 5604.65 ハゲ（これは有田人に言い方であろう） ハゲアタマ 5605.11 hageatama ----（病的な禿頭ではないようである） （新しい言い方か） aMedatama ----（これを使）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02478.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02478",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02478.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5606.83",
+      "5611.39",
+      "5611.74",
+      "5611.81"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-79\n資料番号　地図番号\n033 / 103\n項目名　先頭\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (20)\n地 点 番 号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nことが多いという〈草にhageと..えば尺傷、外傷などで禿げとなった部分と言う。〉\n5606.83 hageatama ー〈自然のものも病的なものも区別なく言う〉ameatama〈希〉ー〈これは自然に禿げたもののみについていう〉\n5611.39 jokaautama〈下〉　hageatama\n5611.74 カンパ（下）〈陰に、悪口を言う時に用いる〉\nヤカン（下）〈陰口の時に用いる〉　ハゲ。\n5611.81 hage〈はげ〉あたまのことでこれを使うことが最も多い〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02479.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02479",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02479.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5612.22",
+      "5613.48",
+      "5613.53",
+      "5613.80",
+      "5614.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-80\n資料番号　地図番号　033／103　項目名　先頭　(A)流通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2/1)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語形は地点番号順に並べる。\n▶ 注記の＜＞（）は数略にする。\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5612.22  hayeatama (やけどによるはげは jakedo hayeatama koppaと言う。これから考えてkoppaも先げを言うらしい。)\n5613.48  hage (自然にはげた頭。hage atama の略だろう)\n5613.53  hayeatama <これは自然に禿げたもの> 他の人は kampa(atama) と区別する人もあると言う。\n5613.80  haye <新> ……〈大きくなってから使った。家庭内でも小売う〉\n5614.24  ameatama (病的なものは hage という。)（村の...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02480.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02480",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02480.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5615.20",
+      "5620.30",
+      "5621.43",
+      "5622.48",
+      "5623.85",
+      "5625.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-81\n質問番号　地図番号　033 /103\n項目名　先頭\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語) (22)\n\n地点番号　A 音形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n教育委員会の方言プリントには kampa という語が出ている。先げのこともある。\n5615.20 amedatama hagedatama は病的なもの\n5620.30 dzibe <下品>\n5621.43 (抹消)\n5622.48 haye (ののしる心持ちはない。) 頭に限らず体の各部でやけど等でえぐれたようになっている皮膚を koppa という。\n5623.85 jakan <悪口>\n5625.32 ア×アタマ (自然に死にたまった頭) ハゲシアタマ (混種)\n\n右欄注記: hayedtama / hayedatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02481.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02481",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02481.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5625.91",
+      "5632.83",
+      "5633.45",
+      "5635.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-82\n資料番号　地図番号　033／103\n項目名　先頭\nA 普通注記\n[B 除いた共通語]\n(C 除いた特殊語) (23)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nハゲ・アタマく自然に禿げたもの、火傷、病気などで禿げたもの。何れにも用いる。\nhageatama.....（最も多く用いた＞ ameatama（外の言、方はありませんか） の間に対する反応。）＜濁様な感じはならし…hageatamaとの用法の差は不明である。おそらく（希）であろう。\n\nhayeatama＜それでよっているようです＞\njakanku おかしい。意味で＞ hayeatama\nやかん＜陰＞　ハゲアタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02482.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02482",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02482.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5635.65",
+      "5636.49",
+      "5636.74",
+      "5641.13",
+      "5641.99",
+      "5642.31",
+      "5644.74",
+      "5645.43",
+      "5645.89",
+      "5649.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-83\n質問番号 033 地図番号 103\n項目名 禿頭\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) (24)\n\n地点番号   A語形とその注記 (B・C除いた語形とその注)    A注のない語形 (B・C 残した語形とその注)\n5635.65  ツルツル <諸>\n5636.49  ヤカン <下>                              ハゲアタマ\n5636.74  ヤカン <鼻>                              ハゲ\n5641.13  jakan <鼻>                              !hayeatama\n5641.99  te'rempa² a'tama <小さいとき使った>      ha'yea'tama\n5642.31  teratama <軽い・単行>                     !hayeatama\n5644.74  ハゲ <夫>, ハゲット <鼻>\n5645.43  ハゲ チョロ <下>\n5645.89  ヤカンアタマ <鼻>                         ハゲアタマ\n5649.13  tempage <鼻>                              hagetama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02483.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02483",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02483.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5649.29",
+      "5652.06",
+      "5652.37",
+      "5652.81",
+      "5653.65",
+      "5655.41",
+      "5655.57",
+      "5657.73",
+      "5658.01",
+      "5661.89"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。\nその中での音標は地点番号順に並べる。\n注記のく＞（）〔〕は略符にする。\n\n日本語語地図資料用紙 注記一覧    24-84\n質問番号 地図番号\n033 / 103\n項目名 先頭\nA 常用注記    ページ\n[B 除いた共通語]\n[C 除いた特殊語] (25)\n\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n\n5649.29    ハゲアタマ 普通, ヤカンアタマ 悪口の場合    \n5652.06    jakanatama (<からかい 半分で使うことば>)    hayeatama\n5652.37    jakan (<からかいというとき> [hayekan])    hayeatama\n5652.81    hayeatama (tekkari)    hayeatama\n5653.65    jakan <くるづけていう>    !hayeatama\n5655.41    ヤカン (鼻)    ハゲアタマ\n5655.57    !ハゲアタマ (父)    \n5657.73    ハゲ (英), !ヤカン (英)    \n5658.01    ヤカンアタマ ..... <毛が食くない時いう> ハゲアタマ    ハゲアタマ\n5661.89    jakan (<悪口のとき>)    hayeatama\n\n（下部に手書きの注記、ローマ字表記が繰り返し記載されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02484.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02484",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02484.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5662.78",
+      "5663.01",
+      "5663.09",
+      "5664.51",
+      "5665.11",
+      "5666.18",
+      "5667.24",
+      "5667.77",
+      "5669.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-85\nA・[B]・[C]ごとに別紙を使用する。\nその中での指摘は地点番号順に並べる。\n注記の< > ( ) は敬語にする。\n\n質問番号 地図番号\n033 / 103\n項目名 先頭\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (26)\n\n地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注)\n\n5662.78 jakanatama <悪く言うとき> hageatama\n5663.01 !haye kank そんなに楽しめに言い方ではない > hayeetama\n5663.09 jakan <鼻緒?> hageatama\n5664.51 !jakan <軽い、からかいの言い方> !hayeatama\n5665.11 ハゲタビン <下>, スメ〈アタマがスメル、ハゲフ?〉 ナヲト ユラ ワケ\n5666.18 ナメアタマ <失>\n5667.24 ハゲサビン <下> ハゲ、ハゲアタマ\n5667.77 jakan〈単〉 hage\n5669.12 jakan! (詰) hage",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02485.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02485",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02485.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5669.36",
+      "5670.47",
+      "5671.00",
+      "5671.36",
+      "5671.38",
+      "5671.94",
+      "5672.67",
+      "5675.36",
+      "5676.28",
+      "5676.52"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-86\n質問番号　033　地図番号　103\n項目名　先頭\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (27)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n5669.36　ズメ〈卵〉、ズベアタマ〈卵〉　ハテアタマ\n5670.47　jakan〈半分　悪口？〉　hajeatama\n5671.00　jakanatatama〈2〉　hajeatama\n5671.36　jakan〈やつひやのしに！〉　hajeatama\n5671.38　jakanatatama〈単系〉, taiwabo: zuく?　hajeatama\n5671.94　jakabatama〈単系〉　hajeatama\n5672.67　jakan〈悪口に〉　hajeatama\n5675.36　ヤカン〈卵〉　ヘゲアタマ?\n5676.28　jakan〈皿〉　hageatama\n5676.52　ヤカンアタマ……〈意義をこめたことば〉　ハテ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02486.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02486",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02486.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5676.84",
+      "5677.28",
+      "5678.33",
+      "5678.59",
+      "5679.86",
+      "5680.98",
+      "5681.41",
+      "5681.47"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語彙は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙　注記一覧　　　　24-87\n質問番号　033　　地図番号　103\n項目名　先頭\n（右上欄にA 普通注記、(B) 除いた共通語、(C) 除いた特殊語　(28)）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5676.84　ヤカン〈下〉　　　　　　　　　　　　　　　　ハゲ、ハゲアタマ\n5677.28　ヤカン〈罵〉　　　　　　　　　　　　　　　　!ハゲアタマ、ハゲ\n5678.33　ツルツルアタマ〈ツルツルアタマはお供の時に使った〉　ハゲアタマ\n5678.59　te'kate kabɔ': zui といった　　　　　　　hage'atama\n5679.86　haje（荒）　　　　　　　　　　　　　　　　hayeatama\n5680.98　ijakan〈からかうとき〉　　　　　　　　　　hayedtama\n5681.41　jakan〈ゆわかしになどらえて〉くらげほどからかいの意の味はない〉　hayeatama\n5681.47　!hayekan（…）気若し…　　　　　　　　　　!hayeatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02487.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02487",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02487.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5682.34",
+      "5684.11",
+      "5684.26",
+      "5686.15",
+      "5686.67",
+      "5687.32",
+      "5688.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-88\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n資料番号　地図番号\n033　103\n項目名　先頭\nA（常通注記）　ページ\n[B　除いた共通語]　[C　除いた特殊語]　(29)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n5682.34　hayekaba <悪口のとき>　　　hayeatama\n5684.11　ijakanatama <鼻>　　　　　habeatama\n5684.26　jakananatama <けいべつした言い方>　hajeatama\n5686.15　hágeto: <悪口>　　　　　　hagéa'tama\n5686.67　ハゲトラ〈隠でいうことば〉〈トラは頭〉　ハゲ。\n　　　　ハゲアタマ　質問による答え\n5687.32　ヤカンアタマ〈悪くいった場合。悪口〉　ハゲアタマ\n5688.01　ヤカンアタマ〈悪にめ..た時〉　ハゲアタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02488.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02488",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02488.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5688.37",
+      "5688.86",
+      "5689.43",
+      "5691.37",
+      "5692.53",
+      "5693.13",
+      "5694.31"
+    ],
+    "other_text": "日本方言地図資料用紙 注記一覧 24-89\n調査番号 033 / 03\n項目名 先頭\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (30)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5688.37　ツルツルアタマ〈昔は多かった。当時としては普通のことば〉！ハゲアタマ〈人を悪くいう時のことばとして用いられた。〉\n5688.86　ヤカン　〈悪口〉　ヤカンアタマ　ハゲアタマ\n5689.43　jakana+tama〈ののしる時、親し…人に〉 !hageatama\n5691.37　Obindzuru atama〈鼻、オビンズルするの!〉 !hageatama\n5692.53　haze a（取り消し線）\n5693.13　ヤカンアタマ〈古〉　ハゲアタマ\n5694.31　ヤカンアタマ〈古〉　ハゲアタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02489.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02489",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02489.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5697.53",
+      "5698.30",
+      "5698.69",
+      "5712.70",
+      "5712.88",
+      "5720.71",
+      "5742.65",
+      "5751.89",
+      "5752.94",
+      "5760.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-90\nA・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n質問番号　地図番号\n033 / 103\n項目名　志頭\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n5697.53　jaʔkan（馬返しにした言い方）\n5698.30　haʔyeətama〈ゆるくち〉\n5698.69　jaʔkaʔaʔtama〈2〉\n5712.70　haye [hageətama]（根調査者は売頭だった）\n5712.88　haye〈下〉\n5720.71　ハゲアタマ　普\n5742.65　jagaN（新軍）\n5751.89　jakaãatama〈軍〉\n5752.94　haye atama　語\n5760.24　hayeʧjabibo（単独）\n\n右欄メモ: haʔyeatama, haʔeatama, hayeatama, ハゲ, haʔeatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02490.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02490",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02490.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5780.11",
+      "5781.65",
+      "5782.94",
+      "5791.23",
+      "5792.18",
+      "5792.62",
+      "6267.68",
+      "6296.27",
+      "6338.99"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-91\n（上部欄）\n資料番号 地図番号 033 / 103\n項目名 先頭\nA（普通注記）　ページ\n(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5780.11　jagan〈稀〉\t\thaye\n5781.65　ha'jete もしくは くらかべにした言い方〉\t\tha'je\n\tjakanatama ＊（よリはもう少しバカにした感じ）\n5782.94　ha'yeteb〈〜のしるとき〉\t\tha'yea'tama\n5791.23　jakanatama　単称\t\thayedatama\n5792.18　ha'jeteb〈馬鹿にしたとき、からかうときに使う〉\t\tha'yea'tama\n5792.62　jakan〈軍〉\t\thayeatama\n6267.68　bo:zu\"atama〈朝笑羊分〉\t\thafe'atama\n6296.27　bo:zu〈下〉, hagejakkan〈下〉\n6338.99　ハゲ〈希〉\t\tキンカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02491.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02491",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02491.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6349.23",
+      "6356.98",
+      "6374.64",
+      "6379.74",
+      "6384.25",
+      "6386.32",
+      "6395.61",
+      "6398.78",
+      "6402.53",
+      "6407.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-92\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n調査番号　地図番号　033／03\n項目名　先頭\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)　(33)\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n\n6349.23　キンカ（鼻）　　　　　　　キンカアタマ\n6356.98　キンカ（鼻）\n6374.64　キンカ（キンカアタマのアタマをつけないのが普通）\n6379.74　ヤカンアタマ（蔑）　　　　　キンカ\n6384.25　Kiyka＜古？＞　　　　　　　hage\n6386.32　Kiyka……全部はげた頭　　　　hage\n6395.61　Kiyka＜古＞　　　　　　　　hage atama\n6398.78　jakan……〈軍将？〉　　　　　kinka\n6402.53　ヤワラン（鼻）　　　　　　　キンカ\n6407.43　キンカ　　　　　　　　　　石黒著。ハゲアタマ、キンカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02492.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02492",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02492.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6408.72",
+      "6408.88",
+      "6409.00",
+      "6411.66",
+      "6414.17",
+      "6414.25",
+      "6416.31"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-93\n資料番号　033　地図番号　103\n項目名　先頭\n（A）普通注記　（B　除いた共通語）　（C　除いた特殊語）　（34）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6408.72　hageʦaːbin kikyka よりもいっそう悪い　kiyka　ことば＞\n6408.88　キンカ〈畝・下〉　ハゲ・アタマ\n6409.00　ハゲアタマ（泣くはげた）　キンカアタマ（光沢・燦然）\n6411.66　ヤワン〈ユ・下〉、キンカ〈ユ・下〉　ハゲ\n6414.17　hagetʃabin（喧嘩の時にいう）　kiyka\n6414.25　kijka（草）　hagedatama, hage\n6416.31　hage〈上〉、kijka（ハゲと...てあとに：これ）\n（下部に続きの手書き注記ありが判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02493.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02493",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02493.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6418.75",
+      "6419.09",
+      "6419.25",
+      "6419.50",
+      "6423.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 24-94\n管理番号 地図番号 033 / 103\n項目名 先頭\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語 (35)\n\n地点番号    A語形とその注記 (B・C除いた語形とその注)    A注のない語形 (B・C 残した語形とその注)\n\nキンカであると訂正した。\n6418.75 キンカンアタマ〈自然に丸げていったもの〉\nハゲアタマ〈病気で丸げたもの〉\n6419.09 チャビン〈下.稀〉\nハゲチャビン〈下.稀〉\n〈この言葉は口語の髪の事の時の言葉である〉 ハゲアタマ、キンカンアタマ\n6419.25 チャビン〈2.下〉、ヤカン〈2.下〉    ハゲアタマ\n6419.50 キンカン〈希〉    ハゲアタマ\n6423.75 Kinka（最後に聞いるらし...）\nkinkadatama（ジュがキンカアタマと同じて）\nhageatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02494.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02494",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02494.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6424.20",
+      "6526.45",
+      "6426.47",
+      "6428.13",
+      "6428.76",
+      "6428.91",
+      "6429.15",
+      "6429.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n日本普通地図資料用紙　注記一覧　24-95\n資料番号　033　地図番号　103\n項目名　先頭\n(A)普通注記　[B 除いた共通語]　(C 除いた特殊語)　(36)\n表ヘッダ: 地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n6424.20  kinka (多用…3.7), kinkadatama (枯)\n6526.45  ヤカン〈軍〉、ヤカンアタマ〈軍〉\n6426.47  ki'ruka 〈裏口〉\n6428.13  キンカアタマ〈下置〉\n6428.76  キンカン〈上〉、ハゲチャビン〈下〉\n6428.91  キンキラボオズ〈下置〉\n6429.15  ハアタマ (ハケとハエの中間音でどちらにも)／ハエアタマ (内える)\n　　　　ハゲチャビン〈下〉\n6429.61  チャビン〈下〉\n右欄注記: ハプ、ハプアタマ、ha'ge、ハゲアタマ、ハゲ、ハプアタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02495.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02495",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02495.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6429.65",
+      "6435.03",
+      "6435.68",
+      "6436.33",
+      "6437.23",
+      "6437.94",
+      "6438.33",
+      "6439.01"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　24-96\n質問番号　地図番号\n033　/　103\n項目名　先頭\n(A) 常通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (37)\n\n地 点 番 号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形（B・C 残した語形とその注）\n\n6429.65　チャビン＜黒＞　ハゲアタマ\n6435.03　キンカ＜黄＞　ハゲアタマ，キンカアタマ\n6435.68　キンカ＜つやがあればキンカである＞　ハゲアタマ\n6436.33　kiŋkan ……＜特に単語でない＞（被調査者は先頭者であった）\n6437.23　キンカ＜黄＞　ハゲアタマ\n6437.94　ハゲアタマ，キンカアタマ（両用とも異る意味は無い）　は無い。\n6438.33　ハゲチャビン＜黒＞　ハゲアタマ，チャビンアタマ\n6439.01　チャビン＜下＞　ハゲアタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02496.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02496",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02496.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　24-97\n質問番号　033　地図番号　103\n項目名　先頭\n(A) 共通注記　(B 除いた共通語)　(C 除いた特殊語)　(38)\n\n地点番号　A語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n\n64 39.17  tabin <悪口>    hayea'atama ハテ\n64 39.61  チャビン <罵、下>    ハテ\n64 47.08  tabin (ヤ、軍), kiyka(?)(ヤ、軍) kiykaatama (ヤ、軍), dokiyka(軍)\n64 47.39  kiykaatama <元語風に>    haye, hayeatama\n64 54.24  (取り消し線) ハゲ・アタマ <普>\n64 55.88  ツルツルテン　ツルテン　(その他とする。その他とか類)\n64 58.26  チャビン <下>    ハパアタマ?\n64 58.91  ハパアタマ <ちょっと異口> チャビン <罵>, ヤカン <罵> キンカ\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02497.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02497",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02497.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6459.87",
+      "6462.59",
+      "6465.07",
+      "6466.41",
+      "6467.73",
+      "6469.19",
+      "6472.05",
+      "6472.58",
+      "6474.03",
+      "6474.83"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本方言地図資料用紙 注記一覧 24-98\n資料番号 033 / 地図番号 103\n項目名 先頭\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語 (39)\n\n地点番号\tA 語形とその注記 (B・C 除いた語形とその注)\tA 注のない語形 (B・C 残した語形とその注)\n6459.87\tチャビン <下.2>\tハゲアタマ\n6462.59\tチャビン アタマ (厚)\tキンカアタマ\n6465.07\tキンカアタマ <希.単>\tハゲアタマ\n6466.41\tキンカアタマ (下)\tハゲアタマ\n6467.73\thage [◎hageatama]\t\n6469.19\tチャビン <黒希>\tハゲアタマ\n6472.05\tkijka <鼻術… 面とむかっては言えない>\thage\n6472.58\tヤカンアタマ……おおげさにいう。\tハゲアタマ, キンカ\n6474.03\tドギンカ <鼻術>\tキンカ\n6474.83\tキンカンアタマ <青>\tキンカン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02498.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02498",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02498.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6476.13",
+      "6476.92",
+      "6479.51",
+      "6479.95"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は抜粋にする。 日本言語地図資料用紙 注記一覧 25-1 資料番号 地図番号 033 / 103 項目名 老頭 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (40) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 6476.13 キンカンアタマ ヤカンアタマ〈稀〉（ともに悪い言い方） ハゲアタマ 6476.92 オキンカ〈アノトワ オキンカヤナ〉 キンカアラマ 6479.51 ちょびり　特に（単）ではない・・ 6479.95 ハゲ ハゲアタマ ハゲチャビン チョビン ツルツルボネズ ハゲヤマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02501.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02501",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02501.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6482.75",
+      "6484.43",
+      "6485.14",
+      "6485.30",
+      "6485.82",
+      "6486.93"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での語順は地点番号順に並べる。\n▸ 注記の＜＞（）は略語にする。\n\n日本言語地図資料用紙　注記一覧　25-2\n資料番号　地図番号　033 / 103\n項目名　表頭\nA 普通訓記　(B 除いた共通語)　(C 除いた特殊語) (41)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6482.75　kinka atama〈希〉\t\thage atama\n6484.43　チャビンサン　アノヒワ　チャビンサンニチンタ。　ハゲチャビン〈下〉\n6485.14　キンカ〈右〉、キンカアタマ〈古〉\t\tキンカンポズ、ハゲチャビン\n6485.30　ハゲチャビン〈後頭の雨すみから奥の方へはりあがってひどく髪が後退して生えているのはモッテガリという。〉\n6485.82　ハゲドシマ　下、〔？〕ヤカンアタマ\t\tハゲアタマ\n6486.93　ハゲチャビン〈希〉（ハゲチャビンはかげで悪い・・・）　ハゲアタマ\n\nにというときなどの語である。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02502.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02502",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02502.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6487.43",
+      "6487.66",
+      "6489.1",
+      "6491.49",
+      "6491.65",
+      "6494.55",
+      "6495.18"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-3\n資料番号　033　地図番号　103\n項目名　禿頭\n(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記のく〈〉（ ）[ ]は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n6487.43　ハゲチャビン〈全体に髪のないもの〉　キンカアタマ\n6487.66　キンカ〈下〉、キンカアタマ〈下〉　ハゲアタマ\n6489.10　チャビン〈置・下〉、ギャン〈置・下〉　ハゲアタマ\n6491.49　kinkaba / kinkaratama　（注記：hage toiru、hage tama の形で答えて　名詞群が多い。海部の大海部落では tsuwakiha という）\n\n6491.65　hage（会をよしたが−atamdをつけていわない。　ない。由。）\n6494.55　ヤクランアタマ〈下〉、ヤクラン〈下〉〈ヤクランジオ！〉　ハゲアタマ\n6495.18　jakanatama（男）、kijikaburo：（男）　hage＋tamd",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02503.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02503",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02503.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6498.61",
+      "6505.58",
+      "6505.60",
+      "6506.55",
+      "6506.86",
+      "6507.48",
+      "6509.43",
+      "6511.33",
+      "6512.02"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-4\n質問番号　033　地図番号　103\n項目名　先頭\nA（普通注記）　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　(43)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は発音にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nkijka（単）\n6498.61 hayetjabin（単）\n6505.58 ヤカン〈単〉、ハゲ〈単〉　ハゲアタマ\n6505.60 hayetjabin＜馬/鹿に1袋は＞\n6506.55 ヤカンアタマ〈諸？〉　ハゲ。\n6506.86 jakandama＜下＞　hayeatama\n6507.48 デンキアタマ〈鼻〉　ハゲアタマ2、ヤカン\n6509.43 ヤカンアタマ〈特殊なときに稀に使う〉　ハゲアタマ\n6511.33 ハゲアタマ　語中鼻濁音は少しある。　ハゲアタマ\n6512.02 hayetabin [dobin] [deyki]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02504.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02504",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02504.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6512.14",
+      "6514.38",
+      "6516.10",
+      "6516.15",
+      "6517.50",
+      "6518.30",
+      "6518.87",
+      "6519.43",
+      "6520.50",
+      "6517.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　25-5\n質問番号　033　/　03\n項目名　毛頭\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語) (44)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\ntʃabin（鼻）　ハゲアタマ\ntʃabin＜鼻＞（一般には名詞形は使わず 'hagetaru'と言う）　ハゲタル\nヤカン＜鼻＞　ハゲアタマ\nヤカンアタマ＜鼻＞　ハゲアタマ、ハゲ。\nヤカン＜鼻＞、ハゲチャビン＜鼻＞　ハゲアタマ\nヤカン＜鼻＞、ハゲチャビン＜鼻＞　ハゲアタマ\nヤカンアタマ＜こわやす・人に対して言うことば＞　ハゲアタマ\nヤカンアタマ＜鼻＞　ハゲアタマ\nキンカンアタマ＜徐＞　ハゲアタマ\n\nヤカン（鼻）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02505.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02505",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02505.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6522.79",
+      "6527.22",
+      "6527.44",
+      "6527.73",
+      "6528.64",
+      "6528.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-6\n調査番号 033 地図番号 103\n項目名 先頭\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (45)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6522.79 ハゲセン　子供がいう場合　ハゲ\nヤカンアタマ　古語でかつ単語にちかい\n6527.22 jakandama　…＜damaはつけてもつけなくてもよい＞\n6527.44 hayeʻatama　＜病的であろうとなかろうと一般的に髪のもののない頭＞\njakaũsüu　＜自然になった頭で光がある＞\n6527.73 jakandama <2>　hadeatama\n6528.64 hâreatama　理由原因にかかわらず のはげた頭をさす。\n6528.21 jakan＜こ＞＜多ク＞ーモラスであり、面と向っていわれても誰も怒らない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02506.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02506",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02506.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6529.15",
+      "6529.63",
+      "6529.88",
+      "6530.58",
+      "6531.53",
+      "6532.70",
+      "6534.37"
+    ],
+    "other_text": "日本語地図資料用紙　注記一覧　25-7\n（欄外）A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n（右上枠）質問番号　地図番号\n033　/　103\n項目名　先頭\nA 常用注記\n[B 除いた共通語]\n[C 除いた特殊語]\n\n（表の見出し）地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6529.15　jakan　特に自然に年ではげたものを指す　ハゲ。ハゲアタマ〈失〉、チャピン〈鼻〉\n6529.63　jakaN〈2〉　hageatama\n6529.88　jakaN〈2〉　hare\n6530.58　チャビンアタマ〈2〉　アテアタマ\n6531.53　チャビンアタマ〈2〉、ハゲアタマ〈先をハゲという〉\n6532.70　ハゲアタマ　この地方は語中尾カ行濁音は大体鼻濁音的になる。ヤン波地方の中では最も鼻濁音の多い地方と言える。\n6534.37　t(bina(atama), yaki(atama)) 一寒くいう時につかう\n\n（下部余白の手書き注記等、筆跡あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02507.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02507",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02507.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6537.21",
+      "6538.02",
+      "6538.46",
+      "6539.60",
+      "6539.78",
+      "6540.16",
+      "6540.79"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙　注記一覧　25-8\n\n調査番号　地図番号\n033 / 103\n項目名　先頭\n(A) 普通注記　ページ\n(B) 除いた共通語\n(C) 除いた特殊語　(47)\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\nN. アタマはしばしば省略される。\n\n6537.21  jakandama <鼻語>　　　　　　　　　hadeatama\n6538.02  jakan <希.2>　　　　　　　　　　　　hadeatama\n6538.46  hareatama ...... 固い感じを与える　普通は\n　　　　jakanという方が多い。 jakan <2>\n6539.60  hage  } 二別不明だが下の方を悪にとは\n　　　　jakan / 言った。上が悪にかどうか不明。\n6539.78  jakan <2>　　　　　　　　　　　　　　hadeatama\n6540.16  tjabin [男]　　　　　　　　　　　　　hajeatama\n6540.79  チャビン <下.2>　　　　　　　　　　ハデ、ハデアタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02508.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02508",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02508.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6542.71",
+      "6544.26",
+      "6544.69",
+      "6546.15",
+      "6546.73"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 25-9 調査番号 033 地図番号 103 項目名 先頭 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (48) 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 6542.71 hageatama, tjabin（鼻） 6544.26 hage atama（沢）〈よその土地の人と言はす tjabin atama ときつかう。〉 tjabin〈多〉 6544.69 hayeatama !hayetjabin〈下〉 （先頭の人をよぶとき その人に向ってハゲー（先頭）などというように言うことがある。） 6546.15 ヤカン〈鼻〉 ハゲアタマ 6546.73 hageatama（自分の父は非常な先頭であった】",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02509.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02509",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02509.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6547.67",
+      "6547.79",
+      "6548.82",
+      "6549.03",
+      "6549.60",
+      "6549.67",
+      "6551.52"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧　25-10 資料番号　033　地図番号　103 項目名　先頭 A 普通注記 [B　除いた共通語] [C　除いた特殊語] (49) 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） が、え家先で非常に恐ろしかったので、世間でいう jakan などという卑称は口にあわせなかった。 jakaaatama <2> hakeatama hakaetatama hare'atama <すべてのはげた頭をさす> jakan <(卑)、自然にはげたもののみをさす> !jakan <2> hareatama !jakaaatama <2> !haredatma !jakan <2> hayeetama チャビン(ハゲ)には病気ではげたのという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02510.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02510",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02510.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6551.77",
+      "6552.46",
+      "6552.88",
+      "6553.22",
+      "6553.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > () []は厳密にする。\n\n日本言語地図資料用紙 注記一覧        25-11\n番号欄: 033 / 03\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) (50)\n\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n\n6551.77    tʃabin <親しみはあるがやはり早しめの気持ちあり>\n6552.46    haye <普通>, tʃabinく-事;多用(チャビン、はー?) 早しめる気持ちがあるかもしれぬが、ユーモラスな語感をもち、わりあい多く使われている。\ndot) tabinく(事)\n6552.88    !haye tʃabin <ののしりのことばではない。tʃabin sanはそういう人のこと>\n6553.22    !tʃabin atamaく <多>\n           haye atamaく <実>\n6553.47    !haye tʃabinく(早) !tʃabin atamaく(多) !haye otamaく(?) haye atama\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02511.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02511",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02511.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6553.52",
+      "6553.99",
+      "6556.60",
+      "6557.14",
+      "6557.36",
+      "6557.77"
+    ],
+    "other_text": "日本音標地図資料用紙　注記一覧　25-12　調査番号 033　地図番号 103　項目名 礼頭　(A 普通注記)　( B 除いた共通語 )　( C 除いた特殊語 ) (5-1)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6553.52　!tabin <下品>　hage:\n6553.99　tabin <鼻>　haye, hayeatama\n6556.60　ヤカン <すっかり売げているあたまをいう。>\n　　　ハゲアタマ <半ばはげているのをいう。>\n6557.14　hareatama <病的であろうと自然であろうと全部とする。>\n　　　jakandama <自然にはげたので色つやのいいのもです。>\n6557.36　haretjabin <鼻>　!hareatama\n6557.77　jakan <...　/ ユーモラスな語。極く普通に使う。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02512.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02512",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02512.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6558.10",
+      "6558.37",
+      "6559.22",
+      "6559.46",
+      "6559.67",
+      "6551.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本語語地図資料用紙 注記一覧 25-13 管理番号 地図番号 033 / 103 項目名 先頭 (A 普通注記) (B 除いた共通語) (C 除いた特殊語) (52) 地点番号 A 語形とその注記（B・C除いた語形とその注記） A 注のない語形（B・C 残した語形とその注記） 6558.10 jakan <2> haretatama 6558.37 hareatama <普通に使うが多分悪口を言うようなきみがある。> !jakan <2> <普通に使うかユーモラスで角ますに悪い感じを与えない。> 6559.22 jakan <自然になったもののみで病めるなものは含まない。> haretatama 6559.46 jakan <2> hayeatama 6559.67 hayeatama <失> jakan 6551.49 チャビン <普通に...>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02513.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02513",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02513.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6563.43",
+      "6563.58",
+      "6563.84",
+      "6564.33",
+      "6565.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-14\n質問番号 033　地図番号 103\n項目名 先頭\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語] (53)\n\n▷ A・[B]・[C]ごとに別紙を使用する。\n▷ その中での情報は地点番号順に並べる。\n▷ 注記の< > ( )は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）\n6563.43 tabin 下\n6563.58 tabin <面をむかって言えるが朝笑的>\n6563.84 !tabiN <周とむかっては言えぬ>（ちなみにます\n（↑は先頭）<面とむかっては hayem alitana などという>\n6564.33 !tabin <2>\n( !tabin atama <2> ) 言い方である。\n6565.17 hageatama（普通）\nbiakanatama（複調査者はすがク之鼻にかかる）\n時があるそうでないときもあり程度は明瞭ではない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02514.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02514",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02514.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6568.09",
+      "6571.63",
+      "6572.04",
+      "6572.29",
+      "6572.55",
+      "6572.97"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-15\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密にする。\n\n質問番号 033　地図番号 103\n項目名 禿頭\n(A 普通注記) (B 除いた共通語) (C 除いた特殊語) (54)\n\n地点番号\tA語形とその注記（B・C除いた語形とその注）\tA注のない語形（B・C残した語形とその注）\n\n6568.09\tjakaN <鼻>\tharea'tama\n6571.63\ttjabia <軽蔑の意にも使うがそうでないときも使う>\n6572.04\ttjaben（「チャビン」の誤音）\n6572.29\ttjabia（別に笑って答えなかったので「おかしくないか」と聞くと「多分見下げた下らない言…」と答えた）\n6572.55\ttjabIN <鼻しめて>\thageatama\n6572.97\ttjabib F（又すが一度金だけあって「デーがうスィ」という表現をした。かにしは採用）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02515.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02515",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02515.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6573.17",
+      "6573.7",
+      "6574.06",
+      "6574.52",
+      "6575.17",
+      "6580.33",
+      "6582.12",
+      "6582.48",
+      "6583.19"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記のく＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 25-16 資問番号 地図番号 033 / 103 項目名 先頭 (A) 普通注記 (B) 除いた共通語 (C) 除いた特殊語 (55) 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 6573.17 !tʃabin <悪日に用いる> 6573.7 !tʃabin <多> !tʃabinatma<(多)> 6574.06 tʃabin <冷笑する意・味に使う。> 6574.52 tʃabin <卑> 6575.17 ハゲチャビン <俗・ほい・言い方をする。> 6580.33 チャベン <下> 6582.12 チャビン <卑> 6582.48 kiyŋkay <卑> 6583.19 !tʃabin <卑> hage, hagedama ハゲ ハゲアタマ ハゲアタマ tʃabiy hagedatma",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02516.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02516",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02516.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "6583.41",
+      "6583.45",
+      "6585.25",
+      "6586.32",
+      "6588.48",
+      "6592.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　25-17\n資料番号　地図番号　033 / 103\n項目名　光頭\n(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語　(56)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6583.41  !haye t]abin <鼻>  !haye\n         !t]abin <鼻> （立川渡という所に丸 ハゲの人がいるので、その人の運名をt[a:sana]という）\n6583.45  t]abin <鼻>, !dot]abin <鼻>    hayeatama\n6585.25  ハゲ（随分はげた人をどっさりハゲ。皮膚の赤... 人をアカハゲと呼んで特に区別する。）\n        （随分はげた人をアカハゲなどともいう）\n6586.32  t]abin <下>    hageatama\n6588.48  ki?yka <喜>    t]a?biN\n6592.10  チャビン（旧録たい...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02517.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02517",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02517.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "6595.32",
+      "6592.35",
+      "6600.97",
+      "6603.52",
+      "6605.84",
+      "6607.03",
+      "6609.02",
+      "6608.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 25-18\n質問番号 033 地図番号 103\n項目名 先頭\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (57)\n\n地点番号 | A語形とその注記（B・C除いた語形とその注） | A注のない語形（B・C 残した語形とその注）\n\nキンカン〈下〉　ハジ\nhaye〈昔〉, tjabina〈下〉, deykia tama〈稀〉\nhayeatama (tekkati) [テカテカしているから]\n!na'gen'tai〈軽蔑〉　ha'ye\nヤカン（男）\nja'kana'tama〈滑稽な意味で使う〉　ha'yea'tama\nlja'kau'a'tama（特に大きく裂けているとき）　ha'yea'tama\nha'yea'tama〈少しものある頭〉\nja'kana'tama〈まるっこりものない頭〉\nto'roppaye〈上のチョロはげている頭〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02518.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02518",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02518.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "6609.05",
+      "6610.00",
+      "6611.61",
+      "6613.07",
+      "6616.93",
+      "6617.75",
+      "6617.99",
+      "6618.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 25-19\n資料番号 地図番号 033 / 103\n項目名 先頭\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nヤカンアタマ 12　ハプ\nテレテレアタマ＜幼＞、ヤカンアタマ＜鼻＞（ヤカンアタマ マは大人のことば）\njakanatama（鼻先にだけ使う）　hajeatama\nヤカンアタマ＜相手もののしる時に使う＞　ハプ・アタマ\njakan＜悪口としていう＞　hadye\nヤカンアタマ（ユ）　ハプ・アタマ\nhaje＜半分以上つろつろになっていれば（Obindzaru）という＞\nヤカンアタマ（ユ）　ハゲアタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02519.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02519",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02519.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "6621.34",
+      "6621.94",
+      "6623.53",
+      "6624.13",
+      "6624.65",
+      "6625.17",
+      "6625.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-20\n質問番号　地図番号\n033 / 103\n項目名　先頭\n(A)普通注記　(B)除いた共通語　(C)除いた特殊語　ページ (19)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6621.34　jakan〈卑〉\t\thayeatama\n6621.94\thaye〈卑〉\t\thayeatama\n6623.53\thayeatama〈自分は使わないが、同年輩のは\n\thayenたく下〉, hayet(s)abin〈下〉という〉\n6624.13\tjakanatama 下, hayet(s)abin 下　両者のうちhayeatama\n\tどちらかといえば下の意では「はげ」やびん\n\tを多く使う。\n6624.65\thaye　卑\t\thayeatama\n6625.17\tjakan 下, hayet(s)abin 下下\t\thaye\n6625.66\tjakan〈卑〉\t\thaye, hayeatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02520.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02520",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02520.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "6626.30",
+      "6626.46",
+      "6628.59",
+      "6631.60",
+      "6632.15",
+      "6632.88",
+      "6633.27",
+      "6633.89",
+      "6633.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-21\n質問番号 地図番号\n033 103\n項目名 先頭\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (60)\n\n地点番号  A 語形とその注記 (B・C除いた語形とその注)   A 注のない語形 (B・C 残した語形とその注)\n\n6626.30  jakAN  <裏口>                           ha'yea'tama\n6626.46  ja'kana'tama  <早>                     ha'yea'tama\n6628.59  häye (はhajea'tamaの屈形)              hayedatama\n         häyetsa?bin  <ねるくらいの言い方>\n6631.60  jakaw\n         jakanatama  {普通にも 早朔にも使う。}\n6632.15  jakan <裏口>                            !ha'yeatama\n6632.88  hayebinatlo   biatfoは傷あとの残ったところ\n6633.27  hayenta:  早                            haye\n6633.89  haye    多く使う。  jakan 早             hayeatama\n6633.33  jakana 早                                haye",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02521.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02521",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02521.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "6634.07",
+      "6634.32",
+      "6634.33",
+      "6635.20",
+      "6635.36",
+      "6635.44",
+      "6635.54",
+      "6635.87",
+      "6636.62",
+      "6638.14"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）［］は厳密にする。 日本言語地図資料用紙　注記一覧　25-22 資料番号　033　地図番号　103 項目名　先頭 A　注流注記 [B　除いた共通語] [C　除いた特殊語] (6/1) 地点番号　　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 6634.07　jakan　（注）　hajeatama 6634.32　haye　多く使う。　hajeatama 6634.33　haye　多　hajeatama 6635.20　hayyes?　単　hajeatama 6635.36　jakanterd　単　gayeatama 6635.44　jakanatama　単　hajeatama 6635.54　jakanatama　F. hayetsabins　単　hajeatama 6635.87　jakah　F　hajeatama 6636.62　haye　＜単＞　jakanatama 6638.14　hajeatama（黒にでいう時は[haye'ta]という。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02522.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02522",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02522.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "6639.29",
+      "6640.76",
+      "6641.39",
+      "6641.43",
+      "6641.97",
+      "6642.33",
+      "6642.58",
+      "6643.16",
+      "6643.72"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 25-23 資料番号 033 測図番号 03 項目名 先頭 A 普通注記 CB 除いた共通語 C 除いた特殊語 (62) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 6639.29 haxeatama (諸導) hayeatama 6640.76 jakan <2> hayeatama 6641.39 jakan 単 hayeatama 6641.43 jakan <男> hayeatama 6641.97 hayet/abin ↑ jakan 単 hayeatama 6642.33 jakan 単 haye 6642.58 jakava ↑ , tsurutsurumbo:zu 少 jakanatama 6643.16 jakanatama ↑ hayeatama 6643.72 haye'to: <はわるに近い> hayeatama hayet/abin",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02523.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02523",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02523.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "6645.01",
+      "6645.62",
+      "6646.23",
+      "6646.74",
+      "6650.12",
+      "6650.70",
+      "6650.79",
+      "6652.06",
+      "6652.30",
+      "6652.77",
+      "6649.13"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は数常にする。 日本言語地図資料用紙　注記一覧　25-24 管理番号　033　地図番号　/03 項目名　先頭 (A) 省通注記 (B　除いた共通語) (C　除いた特殊語) (63) 地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注） 6645.01　hayetjabin　jakanatama 6645.62　jakan（親し...肩同名で使う）　hajeatama 6646.23　hayetjabin（卑）　hajeatama 6646.74　jakan（卑）　haye 6650.12　jakan　卑科ではない　hajeatama 6650.70　jakan（卑）、jakanodama（卑）　hajeatama 6650.79　jakan—ひどいハゲのとき、hayetjabin　卑　hajeatama 6652.06　jakan　卑　hajeatama 6652.30　jakan下　hajeatama 6652.77　jakan　卑　hajeatama 6649.13　ten ppage（卑）　hajeatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02524.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02524",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02524.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "6653.30",
+      "6655.38",
+      "6655.87",
+      "6655.97",
+      "6656.31",
+      "6661.02",
+      "6662.01",
+      "6662.38",
+      "6665.25"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での音順は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙 注記一覧 25-25\n（上部右の箱）033 / 03　項目名 先頭　A 常通注記　(B 除いた共通語)　(C 除いた特殊語) （64）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6653.30　jakana　希　　haye\n6655.38　jakana　多く使う。　　jakanatama\n6655.87　hage　Jakanatama＜単＞　　hage\n6655.97　jakana　単　　haye\n6656.31　haye＜もっとも多く使う＞，hayet/tabin＜単＞　　hayetja\n6661.02　hayet/tabin＜単＞，jakana＜単＞　　hayeatama\n6662.01　haye to:ron　単　　haje\n6662.38　jakana　単　　hayeatama\n6665.25　kibka＜もの非常にうすいものにいう＞\n　　　hage（新），haget/tabin＜単＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02525.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02525",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02525.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "6677.70",
+      "6700.25",
+      "6700.48",
+      "6700.98",
+      "6710.70",
+      "7238.82",
+      "7239.24",
+      "7239.29",
+      "7239.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略称にする。\n日本言語地図資料用紙 注記一覧 25-26\n調問番号 地図番号\n033 / 103\n項目名 先頭\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (65)\n地点番号  A語形とその注記 (B・C除いた語形とその注)  A注のない語形 (B・C 残した語形とその注)\n6677.70  ja'kanatama 〈鼻称〉                              hageatama\n6700.25  jakanatama 〈鼻〉                                hageatama\n6700.48  hagetto 〈口鼻〉                                 hageatama\n6700.98  hareatama 〈タ〉                                 jakan\n6710.70  hare 〈昔〉                                      hareatama\n7238.82  jakan atama 〈鼻〉, kinkan 〈鼻〉                hage atama\n7239.24  [kappage 〈悪口〉]                               ha'je'atama, ha'jetabin\n7239.29  kinka 〈下〉                                     hageatama\n7239.41  kappkan 〈下〉 -> 早話                            hage",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02526.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02526",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02526.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "7239.82",
+      "7248.49",
+      "7249.35",
+      "7256.64",
+      "7259.22",
+      "7269.9",
+      "7275.07",
+      "7279.93",
+      "7302.87"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧　25-27 質問番号 033 地図番号 103 項目名 禿頭 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (66) 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 7239.82 kinkan〈鼻〉, jakwanatama〈秃れ hageatama らは黒っていう時〉 7248.49 koppage〈鼻〉　hageatama 7249.35 カッパゲ〈下〉(カッパゲの方がつよ…い方)　ハゲ 7256.64 ハゲャビン〈鼻〉 7259.22 ja'kabatama〈悪口〉　hageatama 7269.90 gampage〈鼻〉　hageatama 7275.07 チョッハゲ　(筆記不明) 7279.93 hage〈鼻〉, hageppa〈鼻〉　hageatama 7302.87 kingaatama (読み合わせ接続音にする)　kinka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02527.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02527",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02527.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "7309.37",
+      "7316.65",
+      "7321.46",
+      "7325.84",
+      "7326.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞()[]は厳密にする。 日本語語地図資料用紙　注記一覧　25-28 資料番号　033　地図番号　1/03　項目名　先頭 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (67) 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注） 7309.37　kiyka　hageatama　gungurubozum:zum atama　くに回はまわりに毛があるから　本当のkiykaではない。hage- gungurubozum:zumともいう。別に gungurubozum:zumともいう。と言い、ちがう。 7316.65　kiyka <2>　　　　　　　　　　　　　hageātama 7321.46　kijykaa'tama <先る頭の裏>　　　　　hāge 7325.84　kjinkaa'tama <下>　　　　　　　　　hagea'tama 7326.41　hargedzu'ku (読む?)　　　　　　　　hagea'tama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02528.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02528",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02528.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "7330.91",
+      "7332.97",
+      "7335.34",
+      "7340.50",
+      "7340.74",
+      "7341.47",
+      "7342.72",
+      "7343.17",
+      "7344.48",
+      "7347.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は散音にする。\n\n日本言語地図資料用紙　注記一覧　25-29\n\n質問番号　033　　地図番号　103\n項目名　禿頭\nA（普通注記）　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(68)\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n7330.91    hagetjabin (卑)    hageatama\n7332.97    jakan/atama タレ    hageatama\n7335.34    kiyka <T>    hageatama\n7340.50    kappage <卑>    hageatama\n7340.74    hegebju:tan <卑> (注記：はけ?漂)    hageatama\n7341.47    jakandatama <卑>    hage\n7342.72    haget/abin <卑>    hageatama\n7343.17    kiy kabo:zu <下>    hage\n7344.48    kiy kabo:zu <下>    hageatama\n7347.55    kinkambo:zu <?>    hagea'tama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02529.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02529",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02529.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "7349.86",
+      "7349.91",
+      "7350.96",
+      "7351.09",
+      "7352.14",
+      "7352.61",
+      "7353.51",
+      "7354.23"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙　注記一覧　25-30\n資料番号　033　/　103\n項目名　禿頭\nA 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語) (69)\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\nhage〈hagesanはげ:頭の人をさすが、はげ:頭をいうこともある。〉\n〈〉hageatama〈朝〉てたいjo:ということもある〉    hageatama\nhagedzukuk〈下〉    hageatama\nhage tjan（悪だ...の時）    hageatama\nハゲチャビン（草）    ハゲアタマ\nチャビン（　）\nハゲチャビン    ハゲアタマ\nハゲアタマ（希）    ハゲ\nヤカン、ハゲッパ〈や、暑〉    ハゲ、ハゲアタマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02530.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02530",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02530.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "7356.70",
+      "7360.12",
+      "7361.17",
+      "7361.82",
+      "7363.12",
+      "7363.59"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-31\n資料番号 033 / 地図番号 103　項目名 先頭\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (70)\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n7356.70　haigea'tama <ろ>　kiykaa'tama\n7360.12　ハゲチャビン　卑称\n7361.17　ツッパゲ <軍>　ハゲアタマ、ハゲ\n7361.82　gampaje <下>　haigeatama\n7363.12　ハゲ（はげた箇所）、ハデラバン\n　　　　ハゲアタマ（ハイビンタとはいわぬ）\n　　　　ハゲチャビン（下-2）\n7363.59　ハゲチャビン\n　　　　ハゲッパ\n　　　　ハビッパ　(卑称だけではないようである。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02531.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02531",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02531.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "7363.85",
+      "7364.34",
+      "7365.25",
+      "7368.32",
+      "7373.56",
+      "7373.92",
+      "7374.75",
+      "7375.96"
+    ],
+    "other_text": "▲ A・(B)・(C)ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜＞（ ）は散発にする。\n日本言語地図資料用紙 注記一覧 25-32\n資料番号 033   地図番号 103\n項目名 禿頭\n(A) 普通注記   (B 除いた共通語)   (C 除いた特殊語) ページ (71)\n地点番号  A 語形とその注記  [B・C除いた語形とその注]   A 注のない語形（B・C 残した語形とその注）\n7363.85  ハゲッパー（禿頭とハゲッパーは同じく頭のこと ハゲアタマ である。）\n7364.34  ハゲ（ハゲアタマは使わぬ）、ハゲッパ（早）\n7365.25  kijkaatama <下>    hageatama\n7368.32  kijkaāatama <下.２>    hageatama\n7373.56  ヤフン（早）    ハゲアタマ\n7373.92  ヤフン <早>    ハゲアタマ\n7374.75  ハゲアタマ <くじらは使わない>, <くじらは> 後頭部のつまれた所\n7375.96  hage'atama <笑>    kinkim'bo:zu, hage'bo:zu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02532.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02532",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02532.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "7380.26",
+      "7381.47",
+      "7382.97",
+      "7385.38",
+      "7385.84",
+      "7392.33",
+      "7393.62",
+      "7395.09",
+      "7395.63"
+    ],
+    "other_text": "▶ A・〔B〕・〔C〕ごとに別表を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密に示す。\n\n日本言語地図資料用紙　注記一覧　25-33\n資料番号　033　/　地図番号　103\n項目名　先頭\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(72)\n\n地点番号　　A語形とその注記（B・C 除いた語形とその注）　　A注のない語形（B・C 残した語形とその注）\n\n7380.26　ハゲチャビン　多分某称的に使う。\n7381.47　ハゲ、ゾウハゲ　〈売りた箇所はドバという〉\n7382.97　ハゲアタマ　(カボチャ ユ)　ハゲチャビン\n7385.38　hage'bintan〈鼻〉, hage'bint)あ〈鼻〉\n7385.84　hagebintia・・・〈鼻科〉\n7392.33　ハゲッパ〈鼻〉、ハゲチャビン〈鼻〉\n7393.62　キゾカ(やつ鼻か), キツカゲ(やつ鼻か)\n7395.09　hagebinta・・・〈鼻科〉\n7395.63　hagebinta・・・〈鼻科〉\n\n右欄（A注のない語形）: hage?atama / hageatama / ハゲアタマ？ / ハゲ、ハゲアタマ？",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02533.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02533",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02533.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "7400.11",
+      "7401.18",
+      "7402.42",
+      "7403.21",
+      "7403.86",
+      "7404.12",
+      "7405.85",
+      "7411.61"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-34\n〔右上の箱〕\n033　/　103\n項目名　禿頭\nA 普通注記　（B　除いた共通語）　（C　除いた特殊語）　(73)\n\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形（B・C 残した語形とその注）\n7400.11　hage-atama 希　　　　　　　　　　　　　　　　hage\n7401.18　hagetjabin（早）　　　　　　　　　　　　　hageatama\n7402.42　hagetjabin＜2＞＜haget〉abinはwarumjute hagedatama\n　　　　（使うと説明に…た＞）\n7403.21　hagetjabin（残分からか…気分でいう。）　　　　hagedatama\n7403.86　hageatama 希　　　　　　　　　　　　　　　　hage\n7404.12　hagetjabin＜1＞　　　　　　　　　　　　　　hage\n7405.85　ハゲドワロ（単）　　　　　　　　　　　　　ハゲアタマ\n7411.61　[hageatama]（hagetoru, hageru）などと動詞形が生るので側に…（協力者が生じたら表記した。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02534.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02534",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02534.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "7412.71",
+      "7413.29",
+      "7414.06",
+      "7415.47",
+      "7417.27",
+      "7420.91",
+      "7427.71",
+      "7430.80",
+      "7431.08"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-35\n資料番号 地図番号 033 / 103\n項目名 先頭\nA 普通注記 ページ\n(B 除いた共通語)\n(C 除いた特殊語) (74)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n表ヘッダ: 地点番号 | A 語形とその注記 (B・C除いた語形とその注) | A注のない語形 (B・C 残した語形とその注)\n\nhagetjabin <男?>    hageatama\nduruhāge <残音>    hāgeatama\nhāgeatama ... <ろ>    !kiykambo:zu\ndzukubo:zu <古> く... <- まもものない..オール    hāge\n（注）先げ頭\ndobo:zu (単語)    hajeatama\nhageatama (jo: hage toru などという方が多い)\nチャビンアタマ (単)    ハビアタマ?\n!kin'kan-atama <下>    hage-atama\n<!>hagetjabiva(はじめ hage ta atama?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02535.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02535",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02535.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [
+      "7500.24",
+      "7500.66",
+      "7501.68",
+      "7501.14",
+      "7502.89",
+      "7504.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）は略称にする。\n\n日本言語地図資料用紙　注記一覧　25-36\n資料番号　033　地図番号　103\n項目名　先頭\n(A) 高潮注意　ページ\n(B 除いた共通語)\n(C 除いた特殊語) (75)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n<hagetoru> と称い、名詞形がなかった。\n<おっかない方をすれば>といって hage[tabin をいった。）\n\n（チャビン＜鼻術である＞）\nチャビン　アタマ　（キンカンともいふ。）　ハゲチャビン\nチャビン　＜多＞\nキンカ＜果肉のキンカに似ているから＞\nhage't[ja'bin]〈悪口〉\nkin'ka ..... 全身にたいっ。特に胸にはない。\n\n（右欄手書き）\nハゲアタマ？\nキンカ\nハゲチャビン\ntsabii'a'tama\nhage",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02536.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02536",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02536.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "7510.18",
+      "7511.66",
+      "7513.15",
+      "7513.69",
+      "7521.16",
+      "7522.48",
+      "7523.05",
+      "7523.30",
+      "8239.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　25-37\n（右上ボックス）\n資料番号　地図番号\n033　103\n項目名　禿頭\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　ページ（76）\n\n（表ヘッダ）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7510.18　ハテ・チャビン〈鼻〉、ハテ・ドタマ〈鼻〉　ハゲアタマ\n7511.66　ハテ・チャビン → 〈多く用う〉　キンカンアタマ\n7513.15　kinkaく古〉　hageatama\n7513.69　ヤカン〈下〉\n7521.16　ハテチャビン〈て、ね〉に言うときフシンカ〈希〉　チャビン\n7522.48　キンカ〈使用例〉。ナントキンカ＝ナッタ/ラ。\n7523.05　キンカン〈こういう人もある。金持ちの人がなると〉　ハテのチャビン\n\n7523.30　キンカ〈希〉　ハテのチャビン\n8239.31　hageadama〈自然な言い方〉　hageatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02537.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02537",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02537.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "8303.47",
+      "8303.70",
+      "8304.66",
+      "8305.76",
+      "8311.41",
+      "8312.33",
+      "8313.88",
+      "8315.46"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は散書にする。 日本官話地図資料用紙 注記一覧 25-38\n\n調査番号 033  地図番号 103\n項目名 禿頭\n(A) 普通語記　(B) 除いた共通語　(C) 除いた特殊語　(77)\n\n表ヘッダ：地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nアカヤワン／ヤクランアタマ\t\tハゲアタマ、ハゲビンタ\nヤクランアタマ〈異〉\t\t\tキンカアタマ、キンカビンタ\nkin kabinta〈古〉\t\t\thageatama\nhageatama……〈普通語：わをいう〉〉hagetabin?\nhagebinta（上品、下品の区別はない）\nhageatama 立分に使う。\nhageatama〈註〉、hagebinta〈古〉\nhage binta〈多〉\nhage binta……〈単行、裏口のことが多い〉hageatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02538.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02538",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02538.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [
+      "8325.77",
+      "8332.59",
+      "8333.03",
+      "8334.63",
+      "8335.83",
+      "8341.46",
+      "8341.94",
+      "8342.51",
+      "8344.71",
+      "8351.07"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での語形は地点番号順に並べる。 注記の＜＞（ ）は敬称にする。\n日本言語地図資料用紙　注記一覧　25-39\n資料番号　地図番号　033/103\n項目名　荒頭　(78)\n(A)普通注記　(B)除いた共通語　(C)除いた特殊語　ページ\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\nhagebinta〈夕〉　bintahage\nhagebinta〈鼻〉　hageatama\nbintahage〈?〉　hage\nhage binta……〈果析〉　hageatama\nhagebinta……〈多く使う〉　hageatama\nhagebinta〈希〉　hageatama\nhagebinta〈鼻〉……〈タタ〉　hageatama\nhageatama〈希〉　hagebinta\nhageatama〈上(?)〉　hagebinta\nhagebinta〈鼻〉　hageatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02539.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02539",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02539.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [
+      "8351.65",
+      "8353.68",
+      "8354.29",
+      "8373.08",
+      "9303.88",
+      "0246.48",
+      "0247.31",
+      "0257.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での音採は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本音声地図資料用紙　注記一覧　25-40\n地図番号 033 / 103\n項目名 禿頭\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語) (79)\n地点番号　A語形とその注記（B・C除いた語形とその注記）　A注のない語形（B・C残した語形とその注記）\n8351.65    hageatama（付用するが、hagebinta）\n            hagebinta は余り上品でない\n8353.68    hagebinta <純粋な方言を話すとき> hageatama\n8354.29    hageatama <すこし改まると hageatama hagebinta の方が多い>\n8373.08    hageatama <や、治まって>    hagebinta\n9303.88    hagebinta <や、卑>    hageatama\n0246.48    hagi'tiburu <希>    hajigamati\n0247.31    hagi'tsiburu <卑>    hajigamati\n0257.12    hajigamati（には長音）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02540.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02540",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02540.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "275.87",
+      "0276.50",
+      "0294.66",
+      "1223.91",
+      "1261.32",
+      "2076.25",
+      "2141.71"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本音語地図資料用紙　注記一覧　25-41\n資料番号　地図番号　033 / 103\n項目名　先頭\nA(常通注記)　(B 除いた共通語)　(C 除いた特殊語)　ページ (80)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nkaradzi-hage [karadzi-hagi]\nukkanhagi <多く使う>      hagi ukkah\nhagatjiburu <多く使う>    hagitjiburu\nhagitjiburu <多く用いる>   Pag:tjiburu\nhagitjiburu <多く用いる>   hagi:\nPagits' t'buru (bbは一音節)\nPagikanamag (顔を除いた頭の部分だけをいう場合にはpagia×aという。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02541.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02541",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02541.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_080.jpg",
+    "page_index": 80,
+    "location_numbers": [
+      "4665.87",
+      "4667.33",
+      "4676.42",
+      "4677.65",
+      "5565.12",
+      "5567.46",
+      "5579.79",
+      "5597.78",
+      "5602.99"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-42\n質問番号　033　地図番号　103\n項目名　丸頭\nA・(B)・(C)ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（　）には歳語をする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n4665.87　hageatama（今は多く用いる。友人などに＞　amedatama（古ー現）\n4667.33　ハゲアヂマく（傷などではげた場合に言う）　故 cut - nom　アメダマ（真面目な言い方）\n4676.42　ハゲアタマ　アマタマと同じ意味であるが使用することが少、PXアタマということが多…\n4677.65　hageatama（病的丸頭を言う）　病的故 cut - nom amedatama\n5565.12　（ハゲアタマ）　ハゲヤクラン\n5567.46　ハゲアタマく（笑）　ハゲ、ヤカン（鼻）\n5579.79　ハゲアタマく（笑）　ハゲ、ハゲタ、イズべく（鼻）\n5597.78　ハゲアタマく（苦）　ヤカン\n5602.99　haseatama（英）　kampaetatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02542.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02542",
+    "source_canvas_label": "81",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02542.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_081.jpg",
+    "page_index": 81,
+    "location_numbers": [
+      "5605.57",
+      "5635.65",
+      "5666.18",
+      "6424.20",
+      "6506.55",
+      "6509.38",
+      "6517.31",
+      "6526.04",
+      "6528.06",
+      "6528.21"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-43\n質問番号 033　地図番号 103\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語\n項目名 禿頭\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n5605.57　ハゲアタマ（やけどによるもの）　アメアタマ\n5635.65　ハゲアタマ〈失〉　ツルツル〈諸〉\n5666.18　ハゲアタマ〈失〉　ナメアタマ〈失〉\n6424.20　hageatama〈標〉　kinkad, kinkaddtama〈標〉\n6506.55　ハゲアタマ〈失〉　ハゲ、やかんアタマ〈諸〉\n6509.38　ハゲアタマ〈失〉　ヤカンアタマ\n6517.31　ハゲアタマ〈失〉　ヤカン（早）\n6526.04　ハゲアタマ〈失〉　ハゲ\n6528.06　hageatama〈失〉　jakan\n6528.21　hareatama（失 X）通と向っていわれたら（聞かない）　jakan〈ユ〉（注記）\n\n（頁周辺の注記や手書きの小書き等を含む。文字は判読困難な箇所あり、概略を記載。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02543.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02543",
+    "source_canvas_label": "82",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02543.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_082.jpg",
+    "page_index": 82,
+    "location_numbers": [
+      "6537.06",
+      "6551.77",
+      "6557.77",
+      "6581.52"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は原音を示す。 日本言語地図資料用紙 注記一覧 25-44 資料番号 033 地図番号 103 項目名 先頭 A 普通注記 B 除いた共通語 C 除いた特殊語 (3) 地点番号 A音形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） であり面と向って言われても誰も怒らない。 6537.06 hareatama ---- <固・感に人に与える> jakan 6551.77 hajeatama <笑> tjabina 「チャビシン」は親しみはあるがやはり早しめの気持あり 6557.77 hareatama <希><多分固い言い方で面と向って> jakan（2） こういったら相手がおこる。 全体語。極く普通に使う。 使わぬ 6581.52 ハプアタマ＜笑＞ ヤカンアタマ＞＜どちらもあまりよくない言い方である。 チャビン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02544.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02544",
+    "source_canvas_label": "83",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02544.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_083.jpg",
+    "page_index": 83,
+    "location_numbers": [
+      "6581.68",
+      "6592.10",
+      "6633.33",
+      "6636.05",
+      "6641.82",
+      "6642.58",
+      "6643.15",
+      "6662.01"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 25-45\n調査番号 033    地図番号 103\n項目名 先頭\nA 音流注記\nB 除いた共通語\nC 除いた特殊語\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nハゲアタマ（英）\nハゲアタマ（交通語的）\n\nhayeatama 上\nhayeatama 新\nhayeatama ＜上＞\nhayeatama 上\nhayeatama 上\nhayeatama 上\n\n右欄手書き注記（おおよその読み）:\nハゲチャビン\nハゲチャビン、チャビン傍点（したい方）\nhaye, jakah\njakan\njakan\njakanatama, jakan下 tsurutsurubo:zu?\njakan\nhaye'to:ron?, haye\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02545.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02545",
+    "source_canvas_label": "84",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02545.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_084.jpg",
+    "page_index": 84,
+    "location_numbers": [
+      "7521.16",
+      "7521.79",
+      "7522.48",
+      "7523.30",
+      "7533.11",
+      "8313.88",
+      "8322.43",
+      "8325.77"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は敬語にする。\n\n日本音声地図資料用紙　注記一覧　25-46\n質問番号　033　地図番号　103\n項目名　先頭\nA　常通注記　　ページ\nB　除いた共通語　（5）\nC　除いた特殊語\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n\n7521.16　ハゲ・アタマ〈英〉　　　チャビン、ハゲ・チャビン〈…〉に言うところ、キンカ〈希〉\n7521.79　ハゲ・アタマ〈英〉　　　！ワルデン\n7522.48　ハゲ・アタマ〈英〉　　　！キンカ〈使用例〉。ナントキンカ＝ナッタノラ。〉\n7523.30　ハゲ・アタマ〈英〉　　　ハゲチャビン、キンカ〈希〉\n7533.11　ハゲ・アタマ〈英〉　　　！キンカ\n8313.88　hage atama〈…〉　　　　!hage binta〈多〉\n8322.43　hageatama〈上品〉　　　hagebinta\n8325.77　hagebinta〈多〉　　　　bintahage",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02546.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02546",
+    "source_canvas_label": "85",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02546.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_085.jpg",
+    "page_index": 85,
+    "location_numbers": [
+      "0724.58",
+      "1848.24",
+      "1893.10",
+      "3716.27",
+      "3722.97",
+      "3735.77",
+      "3756.40",
+      "3780.65"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本語音語地図資料用紙 注記一覧 25-47 質問番号 033 地図番号 103 項目名 木頭 A 普通注記 (B 除いた共通語) C 除いた特殊語 (1) 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) dairan（大はげ）!    hageatama den'ki    hajeatama（d = t の有声化の有無） tempura ＜年＞    hakeatatma fukare 年    hayeadama tenso    hayezdama ガンベ＜R1頃のあと＞    ハゲ。 がべ    ハゲ。 hjakü（s）okü（朝弄）    hajeadama, hayetsūbüri（？） igawabadama（朝弄）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02547.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02547",
+    "source_canvas_label": "86",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02547.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_086.jpg",
+    "page_index": 86,
+    "location_numbers": [
+      "3792.96",
+      "4648.04",
+      "4714.68",
+      "4731.42",
+      "4733.91",
+      "5539.16",
+      "5568.67",
+      "5568.57",
+      "5569.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-48\n質問番号 地図番号 033 / 103\n項目名 先頭\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n地 点 番 号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n3792.96  denya はぴかぴか光る形容\n    håjeadama, håjetsuüburi jagnada はっつ・朝柔的\n4648.04  dmeatama (被調査者の子供によくのせたが教えた：)\n    hajeatama\n4714.68  hayetadatama (訂正と申する。TOK)\n    *!hayeatama\n4731.42  (buppa) <早・古> → (ブッパの母系)\n    [hajeadama][haje]\n4733.91  !haye <あとにアタマをつけなくとも普通はこういう>\n    haye\n5539.16  dzube <やけど・などのため>\n    !zumbeta?\n5568.67  [ハプタ?] (取消線)\n5568.57  テカテカ、ツルツル <語方デンキ(言者)>\n    !ハゲタ、ヤカン<卵!>\n5569.99  haëKAN <目上の人に対して>\n    !zumbeta<目上でない人に対して>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02548.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02548",
+    "source_canvas_label": "87",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02548.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_087.jpg",
+    "page_index": 87,
+    "location_numbers": [
+      "5577.88",
+      "5578.27",
+      "5584.37",
+      "5595.89",
+      "5603.35",
+      "5612.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-49\n資料番号　地図番号　033 / 103　項目名　先頭\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ（3）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nデンキ\t\tハゲアタマ\nハケアタマ＜欠＞\t\tヤカン〈鼻〉；ヤカンアタマ\nteka jakanと同等\t\tjakan, tekaと同等\nデンキ〈今・鼻〉\t\tハケアタマ、ヤカン〈昔・鼻〉ハゲチャ　ビン〈昔・鼻〉\n（5603.35 行は抹消）\nOKOPPA（KOPPAははげなどによる禿。…被調査者も認めた。）\nkoppa atama＜かけどや病気で禿げた頭＞\n＜Koppaは頭だけでなく体の他の部分についても言う。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02549.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02549",
+    "source_canvas_label": "88",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02549.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_088.jpg",
+    "page_index": 88,
+    "location_numbers": [
+      "5613.48",
+      "5613.53",
+      "5613.80",
+      "5621.43"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　25-50\n質問番号　地図番号\n033　103\n項目名　先頭\nA　普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5613.48\tkoppα くやけどなどで禿げたようになったもの＞\n\tkampa <F><koppα をの・した語。>\n\thage（目立ちにげてたあたる。）\n\thagedatama o datama を区別したものてあろう。\n\n5613.53\tkampa atama, kampa は病気ややけどによる禿頭をいう。>他の人は hayeatama を kam pa(atma)の区別をしない人もあるという。\n\thayeatama（は自然に禿げたもの。）\n\n5613.80\tkampa\n\thaye〈新〉…（大きくなりから使った。家庭用でも使う）\n\n5621.43\tkampa <や・下> 病的な禿頭については kampa kampa datama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02550.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02550",
+    "source_canvas_label": "89",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02550.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_089.jpg",
+    "page_index": 89,
+    "location_numbers": [
+      "5622.48",
+      "5623.85",
+      "5625.91"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）{}は厳密にする。\n\n日本言語地図資料用紙　注記一覧　25-51\n調査番号　地図番号\n033　/03\n項目名　禿頭\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語　(5)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5622.48\ntohabe 両方の言い方がある。\njakedo de hayeta. jakedode KAMPA N natta.\nKAMPA <くのしる心持ちがある>\n\n（右欄）hage のしるへはちばない\n頭に限らず体の各部で\nやけど等で先けたように\n... 皮膚をkoppaiという\nhageatama, jakan <意訳>\nhagedatama ...（最も多く用\nいた）meatama（外の言）\n\n5623.85 kantera <黒に?>\n\n5625.91 rampuu ...（外の言い方はありませんか。の問に対し）\nする反えじ・滑稽に言った言い方。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02551.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02551",
+    "source_canvas_label": "90",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02551.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_090.jpg",
+    "page_index": 90,
+    "location_numbers": [
+      "5641.73",
+      "5644.74",
+      "5656.56",
+      "5657.06",
+      "5657.73"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-52\n資料番号　033　地図番号　/03\n項目名　禿頭\nA 普通注記　ページ\n(B 除いた共通語)　(C 除いた特殊語) (6)\n表見出し：地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n（右欄手書き注記）\nいづはありませんがこの間に入する\n反元の?静粛な感じはない\nいらしい。hageatama との\n用法の差は不明であるよう\naそらく（希）であろう。\n\nhageatama\nハゲ〈英〉、ハゲアタマ（英）\nハゲアタマ\nハゲアタマ\nハゲアタマ（英）、！ヤシャン（失）\n\n（語形欄手書き）\nkampa＜下＞\nハゲアタマ（英）\nナメタン\n！オテントサマ\nハゲアタマ（英）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02552.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02552",
+    "source_canvas_label": "91",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02552.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_091.jpg",
+    "page_index": 91,
+    "location_numbers": [
+      "5665.46",
+      "5666.18",
+      "5667.81",
+      "5669.12",
+      "5675.87",
+      "5679.86",
+      "5697.53",
+      "5710.29"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 25-53 資料番号 地図番号 033 / 03 A 普通注記 (B 除いた共通語) (C 除いた特殊語) 項目名 先頭 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 5665.46 ジャワショクノデンキ? ヤカン 5666.18 デンキ〈諸〉、ランプ〈諸〉 ナメアタマ〈失〉 5667.81 ツルテン〈鼻〉 ハゲアタマ 5669.12 kantera! jakan! (語) hage (はげ) (註あり) (5675.87) オラントオサマ …… 5679.86 Kantera (語) hage (荒) hageatama 5697.53 hajetto 〈人を〉叩く時に、あとで、これは haj e a'tama, jakan やけどで頭の一部にもものない人の場合に言う〈方言にした言い方〉 と言丁正 5710.29 Otentosama 〈陰口〉 hayeatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02553.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02553",
+    "source_canvas_label": "92",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02553.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_092.jpg",
+    "page_index": 92,
+    "location_numbers": [
+      "6486.50",
+      "6491.65",
+      "6494.21",
+      "6504.03",
+      "6505.60",
+      "6507.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での指標は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙 注記一覧 25-54\n質問番号 地図番号 033 / 103\n項目名 先頭\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\nページ (18)\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nドビン\nドビンチャラ\nドビンチャリ　―その他\nキンカ、キンカアタマ\ntsurukiko <下>\nhage（念をおしたがー atamaをつけていない由。）\nハゲアタマ＜新＞\nテルテルボオズ\nbombora\ntjabin, hayeatama\ntu'ruturu\nhage（atama）、hayetja 'bin（馬渡にしたことば）\nデンキ＜軍＞\nハケアタマ、ヤカン、デンキアタマ（判読不明部分あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02554.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02554",
+    "source_canvas_label": "93",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02554.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_093.jpg",
+    "page_index": 93,
+    "location_numbers": [
+      "5742.65",
+      "6296.27",
+      "6359.62",
+      "6428.91",
+      "6447.84",
+      "6454.24",
+      "6469.77",
+      "6481.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-55\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の< > ( ) []は厳密にする。\n\n資料番号 033 / 103\n項目名 先頭\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) (×9) ページ\n\n地点番号 | A 語形とその注記 (B・C除いた語形とその注) | A 注のない語形 (B・C 残した語形とその注)\n\n5742.65  kantera (新・旱)    | haye, hayeadama  jagan (新・旱)\n6296.27  denyki <下>         | hageatama, bo:zu(仮)\n6359.62  テレボオフラ（越?）  | hagejakkan  キンカ\n6428.91  キンキラ            | ハゲ, キンキラ, ボズズ（仮）\n6447.84  デンキガイシャノチョオ(ク?) | キャビンアタマ\n6454.24  ツルツルテン        | ハゲアタマ（書）\n6469.77  ツルツル            | ハゲアタマ\n6481.56  テレンソオ〈くしょっていう時〉 | ハゲアタマ\n\n（下部手書き）隠語帳",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02555.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02555",
+    "source_canvas_label": "94",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02555.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_094.jpg",
+    "page_index": 94,
+    "location_numbers": [
+      "6508.36",
+      "6509.38",
+      "6514.38",
+      "6517.31",
+      "6517.77",
+      "6519.67",
+      "6526.04",
+      "6526.08"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　25-56\n質問番号　地図番号\n033　/　103\n項目名　先頭\nA　普通注記　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　(10)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6508.36　テリッカン〈単〉　ハプアタマ\n6509.38　テレカン　ヤカンアタマ\n6514.38　(tekarin)　tsabin〈単〉〈一般には名詞扱い〉形は使われず haxetaru と言う\n\n6517.31　テッカン〈こういう人が一番多い〉、ツルツル（単）　ヤカン（単）\n6517.77　テッカン　ハプアタマ\n6519.67　テレカン〈単〉　ハデ\n6526.04　テッカン〈棒〉（テッカンは馬鹿にした言い方）　ハプ\n6526.08　オピンスル〈火口／噴〉　ハプアタマ、ヤカン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02556.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02556",
+    "source_canvas_label": "95",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02556.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_095.jpg",
+    "page_index": 95,
+    "location_numbers": [
+      "6526.98",
+      "6534.37",
+      "6560.79"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（ ）は厳密にする。\n日本言語地図資料用紙　注記一覧    25-57\n質問番号　地図番号\n033　/　103\n項目名　先頭\nA　普通注記\n[B]　除いた共通語\n(C)　除いた特殊語 (11)\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n6526.98　テッカン　　ヤカンアタマ、ツルツルアタマ\n65-28.21　teKKAN <2>　jaKAN <2> <teKKAN e jak aNは多少ユーモラスであり面と向って言われても誰も怒らない。>\n6534.37　taiwan　(青年時代につかった)　haje atama, tsabin(atama)　悪く言うときにつかわれる（アマはしばしば省略される）\n6560.79　デンキ (希)　ハパエ、ハワクタマ、チャピン(チャユ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02557.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02557",
+    "source_canvas_label": "96",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02557.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_096.jpg",
+    "page_index": 96,
+    "location_numbers": [
+      "6551.20",
+      "6553.83",
+      "6575.40",
+      "6576.28",
+      "6591.81",
+      "6610.77",
+      "6615.09",
+      "6620.20",
+      "6626.71"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　25-58\n資料番号 033　地図番号 03\n項目名 毛頭\nA 普通注記　(B 除いた共通語)　C 除いた特殊語 (1/2)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6551.20　ツルテン　Tpビン\n6553.83　tsuruten\n6575.40　[hage'atama]　hare\n6576.28　ハゲアタマ <多く病気ではげ（はげているのをヤカンアタマ＜全部はげている。＞>　\n6591.81　ビンズル <すくない>　チャビン\n6610.77　[jakan <チョット異?>]　hage'atama\n6615.09　オラントオサマく下　ハゲアタマ\n6620.20　ツルツルテン　ハゲ\n6626.71　terike:si <男> (terike:ji) は光の照り返し",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02558.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02558",
+    "source_canvas_label": "97",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02558.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  },
+  {
+    "source_image": "page_097.jpg",
+    "page_index": 97,
+    "location_numbers": [
+      "6632.64",
+      "6646.23",
+      "6665.01",
+      "6730.33",
+      "7246.82",
+      "7386.55",
+      "7503.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 25-59 資料番号 033 地図番号 103 A 普通注記 ページ (V3) 項目名 先頭 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) し＝反射、の意か。 6632.64 biN〈古〉, hapento〈先頭の人〉 jakanatama hayeatama 6646.23 terasan〈卓〉, denki〈卓〉 hayaetama, hayetabina? 6665.01 3agasaa - じゃが…ゝに似ているから hayaetama 6730.33 tenten hagedtama, hageten-  atama, tenppage 7246.82 di 'ko〉〈裏12〉 lhag'eatama 7386.55 judaru'gama〈単科〉……〈風呂の釜の様なツルリ〉hage'atama 7503.11 bikako: 下〈裏口と〉2用いる。 kijkanatama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02559.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M103Q033/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02559",
+    "source_canvas_label": "98",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02559.tif",
+    "source_ljc_id": "LJC-M103Q033",
+    "source_map_numbers": [
+      "103"
+    ],
+    "source_title": "はげあたま (禿げ頭)"
+  }
+]

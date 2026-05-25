@@ -1,0 +1,1203 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.58",
+      "1715.53",
+      "1719.38",
+      "1747.55",
+      "2754.56",
+      "2782.16",
+      "2785.74",
+      "2812.96",
+      "3705.42",
+      "3712.89"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-57\n(右上ボックス) 質問番号　地図番号　171,173\n項目名　もみがら　178\nA 普通注記　-　ページ　(B 除いた共通語)　(C 除いた特殊語)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n0724.58   N.R.　＜米がとれない所＞\n1715.53   momikara　＜momi\ngara?＞\n1719.38   スリヌカ, モミヌカ .... 多　　　モミガラ\n1747.55   momiyara　＜玄米は kurogome＞\n2754.56   momi'　＜momikaraともいうが普通は略す＞\n2782.16   nuga　＜善＞\n2785.74   momiyara (共)\n2812.96   momikara (いい直して)\n3705.42   nuga　＜古＞\n3712.89   momikatja (苦)\n\n(ページ下部罫線)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05257.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05257",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05257.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3760.93",
+      "4588.98",
+      "4618.87",
+      "4619.29",
+      "4638.22",
+      "4643.47",
+      "4647.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-58\n質問番号　地図番号　171.173\n項目名　もみがら　178\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(2)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き一覧（各行おおよそ）:\n3760.93    nuka — 枚に入る、\n4588.98    momikara 〈幼〉\n4618.87    surineka 〈たぶん〉\n4619.29    noga / nuga 〈若〉\n4638.22    suisunoka => 月は …\n4643.47    momi nuka 〈幼〉 nuka\n4647.69    momi noka (現在も用いられるか、古い形) momijara\n\n（注：手書き文字は判読困難な箇所あり。上は読み取れる部分の概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05258.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05258",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05258.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4647.87",
+      "4648.59",
+      "4653.02",
+      "4657.64",
+      "4663.49",
+      "4667.33",
+      "4675.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-59\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[ ]は厳密にする。\n質問番号　地図番号　/71.173\n項目名　もみがら 178\nA 普通注記　ページ (3)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n（手書き）4647.87　ヌカ（？新），モミがら（古）\n（手書き）4648.59　nuka　＜昔も今も＞\n（手書き）4653.02　sa:nuka　＜多＞\n（手書き）4657.64　momi（？、農民ではないし、1790?） konokaという例もあるし、あやしいと思う\n（手書き）4663.49　mominuka 多\n（手書き）4667.33　モミガラ（幼），ヌカ（古）\n（手書き）4675.45　momigara ＜古〜現＞，momin nuka ＜幼＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05259.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05259",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05259.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4687.01",
+      "4689.62",
+      "4696.95",
+      "4695.21",
+      "4695.87",
+      "4731.59",
+      "4741.43",
+      "4744.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-60\n質問番号 地図番号 171,173\n項目名 もみがら 178\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (4)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は略略にする。\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n\n4687.01 [numka] <希> mominyara\n4689.62 momi kara <共> , (numga)\n4696.95 numka ..... もみを調精する時 之る?\n4695.21 [mominuka]\n4695.87 naka <やや多く用いるか> ciki noka\n4731.59 momikara ... <約> , numka ... <右>\n4741.43 momigara ... [numka]\n4744.10 mominyara ... [momikara]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05260.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05260",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05260.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4760.98",
+      "4790.74",
+      "5471.59",
+      "5472.31",
+      "5472.34",
+      "5472.91",
+      "5557.48",
+      "5558.33",
+      "5565.12",
+      "5566.51"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-61\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　(5)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4760.98　（手書き注記）\n4790.74　numuga　〈善〉　momi nuga\n5471.59　スフモ　〈麦のから〉　モミガラ\n5472.31　スフモ　〈右〉　モミガラ\n5472.34　モミズクモ　〈右〉　モミカワ\n5472.91　momizukumo　〈右〉　momigara\n5557.48　momigara　〈=こは マビ,ヘー,アワから出たもの〉\n5558.33　mominuka　〈右〉　nuka\n5565.12　[モミガラ]\n5566.51　surinuka　〈上〉　suruyka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05261.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05261",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05261.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5584.37",
+      "5586.70",
+      "5597.28",
+      "5605.70",
+      "5613.33",
+      "5614.62",
+      "5615.28",
+      "5617.85"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-62\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><()[] は厳密にする。\n\n質問番号　地図番号　17/173\n項目名　もみがら　178\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (6)\n\n表見出し：地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n手書き欄（抜粋、原文どおりの読み）:\nmomi nûka 優後　　　nûka\nmomi nuka　同上　　　momijara\nモミノカワ\nnoka　〈昔から使っている〉\n* momijara (初め nuka と答え、後、訂正した)\nmomigara 〈多〉　　　momin nuka\nnoka　〈古く、今も一番よく使う〉\nN.R.　〈monigara ... awagara, giegara ほか〉\n# sobakkasum というが。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05262.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05262",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05262.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5625.32",
+      "5628.70",
+      "5631.26",
+      "5633.45",
+      "5641.07",
+      "5643.33",
+      "5648.53",
+      "5649.29"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-63\n頁問番号　地図番号　171,173\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (7)\n項目名　もみがら　178\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n5625.32　* ノカ .... ヌカを訂正した。\n5628.70　アラヌカ　＜多＞　　モミガラ\n5631.26　mominuka　＜共＞　　nuka\n5633.45　mominuka　＜zu?an＞　nuka, momikkara\n5641.07　mominuka　＜希＞　　momipara\n5643.33　noka, momi-noka\n\n5648.53　アラヌカ　＜多＞　　モミヌカ\n5649.29　アラヌカ　農家ではまにこれを使う。　モミガラ\n\n(この地方は母音の[U]が[O]に転化している場合が多い。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05263.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05263",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05263.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5649.65",
+      "5652.22",
+      "5652.37",
+      "5653.65",
+      "5657.78",
+      "5658.89",
+      "5659.46",
+      "5659.78",
+      "5662.78",
+      "5664.51"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-64\n質問番号　地図番号　171.173　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (8)\n項目名　もみがら 178\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5649.65　アラヌカ　〈右〉\n5652.22　mominuka　〈希〉\t\tmomigara\n5652.37　nuka　〈一番多く使う〉\t\tmominuka\n5653.65　[nuka], [noka]\t\tmominara\n5657.78　アラヌカ　〈多〉\t\tヌカ\n5658.89　アラヌカ … 普通の言い方\n5659.46　同上\t\tモミカラ\n5659.78　アラヌカ　〈多〉\n5662.78　[nuka]\n5664.51　nuka　〈希〉\t\tmomijara",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05264.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05264",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05264.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5667.24",
+      "5667.81",
+      "5668.13",
+      "5668.38",
+      "5671.68",
+      "5672.52",
+      "5672.75"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-65\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）［　］は厳密にする。\n（右上）質問番号　地図番号　171,173　項目名　もみがら　178\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（9）\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n5667.24　アラヌカ　＜多,古＞\n5667.81　モミヌカ　＜多＞\n5668.13　アラヌカ　普通の言い方\n5668.38　アラヌカ　＜多＞\n5671.68　nuka　＜多＞　mominuka ＜ぬかと区別する時は特にこういう＞\n5672.52　nuka　＜右＞　momiyara（momi-yara）\n5672.75　momiyara［nuka］　（つれあいの老婆（下訳）の表現／訪問の生れの言）。但し報調査者は知らないと言っていた。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05265.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05265",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05265.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5676.10",
+      "5677.14",
+      "5677.85",
+      "5678.33",
+      "5678.86",
+      "5679.86",
+      "5680.34",
+      "5681.47",
+      "5685.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧 52-66 質問番号 地図番号 171,173 項目名 もみがら 178 (A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (10) 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5676.10 [mominuka] momiyara 5677.14 aranuka <モミガラとは言わない> 5677.85 アラヌカ <普通> モミヌカ 5678.33 スヌカ <普> モミカラ 5678.86 * モミガラ (モミヌカと言って否定した) 5679.86 momiyara, aranuka .... (荒) momiyara 5680.34 numka <古>, mominuka <も. 179を参照するため> 5681.47 mominuka <ていねい> nuka 5685.02 momi, mominuka <米は作らない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05266.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05266",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05266.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5685.37",
+      "5687.32",
+      "5688.01",
+      "5688.86",
+      "5689.10",
+      "5689.34",
+      "5689.43",
+      "5689.98",
+      "5696.13"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-67\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA　普通注記　ページ（11）\n[B　除いた共通語]\n[C　除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注]\nmomi　〈登春の頃、下の方から買ったものだ〉　もみがら\nアラヌカ　〈農家では大抵これを使う〉　モミガラ\nモミヌカ　〈多〉\nモミ…（モミは米の入っているものと答えて訂正）　＊モミガラ\nモミヌカ　〈農家〉\naranuka　〈多〉\naranuka　〈稀〉\naranuka　〈普通〉\naranuka　〈吉〉\nmomiyara (momiyara handwritten)\nモミガラ　〈麦ならヌカという〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05267.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05267",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05267.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5697.53",
+      "5712.70",
+      "5733.02",
+      "5740.63",
+      "5750.30",
+      "5780.57",
+      "6267.84",
+      "6357.74",
+      "6366.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-68\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)　ページ (12)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nmominuka ---- <普通>    momigara\naranmuka ---- <多>\naranmuka ---- <多>    mominara\nアラスカ ---- <多>    モミガラ\n同　上\nmominara ---- (誘) aranūga\nmongira\n（記入） ... 巨検済み Tak.\nススモ ---- <古>    モミガラ\n[smkumwo]    momigara",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05268.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05268",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05268.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6407.28",
+      "6410.45",
+      "6419.25",
+      "6424.92",
+      "6429.15",
+      "6429.30",
+      "6429.65",
+      "6436.33"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-69\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　17/1,73\n項目名　もみがら　178\nA　普通注記　ページ　(13)\n[B　除いた共通語]\n[C　除いた特殊語]\n\n地 点 番 号　　A　語形とその注記 [B・C除いた語形とその注]\nA 注のない語形　[B・C 残した語形とその注]\n\n手書き記入例（列の一部）:\nスクモ　　1959年1月13日の再調査ではスクモがった。　　モミガラ\nモミ　　〈米には（含り言わず、殻にモミと言う）〉　（米作は殆どない）\nスクモ　（誘）　　モミガラ、モミ\nスクモ　〈普〉　　モミガラ\nスルヌカ　〈多〉　　スリヌカ\nスリヌカ　〈古、希〉　　スリヌカ\nスクモ　〈少〉\nsukumo 〈多〉\n\n（書式：左列に地点番号、中央に語形と注記、右列にA注のない語形や残した語形の注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05269.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05269",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05269.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6437.07",
+      "6439.77",
+      "6446.05",
+      "6448.61",
+      "6453.64",
+      "6454.24",
+      "6455.31",
+      "6461.53",
+      "6466.36"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-70\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n\n質問番号　地図番号　71/173\n項目名　もみがら　178\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n(14)\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\nスクモ　〈昔から今も〉\nスカ、スリスカ、モミガラ　〈郷、古なし〉\nスクモ　〈普〉\nスルヌカ　〈古〉\nスクモ　〈普〉　モミガラ\nモミガラ　〈普〉\n# スクモ\nsuukumomo 〈多〉\nスクモ　〈麦のははムギハシとか〉\nスクモ　〈普〉\nモミガラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05270.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05270",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05270.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6466.41",
+      "6473.65",
+      "6474.83",
+      "6485.82",
+      "6491.65",
+      "6500.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-71\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の〈〉( )[ ]は厳密にする。\n（右上の枠）質問番号　地図番号　／　171,173　A 普通注記　B 除いた共通語　C 除いた特殊語　ページ（15）\n項目名　もみがら 178\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6466.41　スクモ　〈普〉　モミガラ\n6473.65　スクモ　〈緒〉\n6474.83　モミガラ　〈普〉　（目のない鼻である）　スクモ\n6485.82　モミガラ　〈#・米〉　,[スリヌカ]\n（手書き注記）初めモミといふがそれは実の入ったものだと気づいてモミガラと訂正した。\n苗田氏はスリヌカの名をあげた。調査者の分里入る地点附近も、車うスリヌカであるから、中部にもスリヌカはあるのだ。\n6491.65　sukumo 〈麦のは akubo〉\n6500.88　sukumo（別に調査した他の相同調査者はmomiという。）\n（底部手書き）momiという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05271.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05271",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05271.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6501.92",
+      "6505.60",
+      "6506.55",
+      "6511.33",
+      "6513.24",
+      "6516.15",
+      "6517.65",
+      "6520.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-72\n質問番号 地図番号 171,173\nA 普通注記  ページ\n[B] 除いた共通語\n[C] 除いた特殊語 (16)\n項目名 もみがら 178\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[]）は厳密にする。\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\nモミガラ <く?> 「この米では 困かないので はっきり わからんが 'そういうんだろう' という程度。」\n(mo\"mi) nuka  ただ、ヌカというはの方が多い\nモミヌカ <先>\nヌカ <サ>  モミガラ\nsumirinuka （記載） （何合せ済み）\nサヤヌカ <稲>\nサヤヌカ <普>, モミヌカ (先)\nスリヌカ ・ヌカではない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05272.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05272",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05272.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6520.94",
+      "6522.03",
+      "6523.86",
+      "6526.04",
+      "6530.58",
+      "6532.93"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-73\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉( ) [ ]は厳密にする。\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (17)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6520.94　サラヌカ　〈普〉\n6522.03　モミガラ　○この場合、yaraという鼻音は成ぜられなかった。\n6523.86　surinuka　〈179も nuka, 区別するは〉　surinuka -> nuka\n6526.04　ヌカ　〈多〉\n6530.58　スリヌカ　〈対農民、老人〉\n6532.93　スリヌカ（古）、モミガラ\n。土臼を使って米をすっていたのでスリヌカと言ったが、今では殆ど死語となり、モミガラを使う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05273.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05273",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05273.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6537.06",
+      "6539.78",
+      "6540.16",
+      "6540.52",
+      "6541.27",
+      "6542.58",
+      "6544.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-74\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　（18）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6537.06　? sajanuka <他、古>　（「調査者のsajanukaという」 携はどうですか、の問への答）　昔文が使ったのを身にしたことがあるような気がする。>　momijahara\n6539.78　*momikura <古>　↓ 山田氏に問い合わせた結果、*mominukaであった。　momigara\n6540.16　aranuka --- 多　mominuka\n6540.52　スリヌカ ----- <希>　アラスカ\n6541.27　モミグラ ..... [スリヌカ][ヌカ]\n6542.58　スリヌカ ...... 今では余り用いない。　モミガラ\n6544.69　[nuka]　mominuka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05274.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05274",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05274.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6554.08",
+      "6555.51",
+      "6556.60",
+      "6565.17",
+      "6568.13",
+      "6572.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n日本言語地図資料用紙　注記一覧　52-75\n質問番号　地図番号　171,173\n項目名　もみがら 178\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (19)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6554.08　スリヌカ　〈もみは中身が入っている場合に用う〉\n6555.51　momigara　〈多〉,  momi　〈上と同じ意味〉\n6556.60　モミガラ, モミヌカ\n〈両方とも言うが、自分は百姓でないから、使うかー 少ないので 2つの区別はわからぬ〉\n6565.17　sainuka　〈普通〉, mominuka　[この方がよく使われる]\n6568.13　[mominuka]\n6572.55　sürinuka ... sürigara",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05275.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05275",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05275.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6577.71",
+      "6580.66",
+      "6585.83",
+      "6586.27",
+      "6586.32",
+      "6587.42",
+      "6600.53",
+      "6608.07",
+      "6625.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-76\n質問番号 地図番号 171,173\n項目名 もみがら 178\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (20)\n\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。\n\n地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n\n6577.71 momigasu (米) gara\n6580.66 モミヌカ <古> モミガラ\n6585.83 momi <普通>\n6586.27 momikasu <この方が普通> momigara\n6586.32 surinuka [この語は当地の東部にある米作地帯のものである。]\n6587.42 スクモ <モミガラとは えわない>\n6600.53 mominuka <略さない場合> nuka\n6608.07 -momi (略した形) -momigara\n6625.17 mominuka nuka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05276.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05276",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05276.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6625.66",
+      "6630.82",
+      "6632.88",
+      "6633.27",
+      "6633.33",
+      "6633.89",
+      "6635.87",
+      "6636.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-77\n質問番号 地図番号 171,173\n項目名 もみがら 178\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (2)\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記のく > ( ) [ ] は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6625.66  nuka 〈米のモミガラのことだけをいう。大麦はハダ、 小麦（はだか麦）はハカという。〉\n6630.82  mominuka 〈昔〉\n6632.88  sukumo 多\n6633.27  mominuka 多\n6633.33  sukumo 多、米のだけに言う。\n6633.89  sukumo, momiyara\n6635.87  nuka ..... もみがらのこと。\n6636.62  mominuka 〈多〉\n麦の味は baka という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05277.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05277",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05277.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6641.39",
+      "6641.82",
+      "6643.72",
+      "6645.37",
+      "6646.74",
+      "6652.30",
+      "6652.77",
+      "6655.38",
+      "6656.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><()[]は厳密にする。 日本言語地図資料用紙 注記一覧 52-78 質問番号 地図番号 171,173 A 普通注記 ページ (22) 項目名 もみがら 178 [B 除いた共通語] [C 除いた特殊語] 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] momi 多 momi <多> sukumumo 麦は hajika numka <最多> mumi? (uncertain) momi <多> mominara mominuka 木のはたけ mominara momijara mominara (鴨符? unclear) momi (もみ もみがらと同じ言い方)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05278.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05278",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05278.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6662.38",
+      "6677.41",
+      "6697.59",
+      "6700.98",
+      "6710.70",
+      "6730.33",
+      "7237.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-79\n質問番号 地図番号 171,173\n項目名 もみがら 178\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (23)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n地点番号  A 言形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n6662.38    momi  稲の糠も momi という\n6677.41    mŏmi  ( ? )\n6697.59    aranmuka 〈普通〉\n6700.98    sukumo 〈昔多〉, aranmuka 〈今多〉\n6710.70    aranmuka 〈普〉\n6730.33    momigara .... [surinuka] の [sunka]\n7237.67    momigara (handwritten notes)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05279.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05279",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05279.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7238.12",
+      "7238.40",
+      "7239.24",
+      "7239.82",
+      "7246.65",
+      "7246.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-80\n質問番号　地図番号　171,173\nA) 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (24)\n項目名　もみがら　178\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞( ) [ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7238.12　surinuka　〈右〉　momigara\n7238.40　同　上\n7239.24　surinuka　〈右〉　momigara\n7239.82　surinuka　〈著〉　momigara\n7246.65　sunnuka　...　多、鷲神の清では mongana というかそれ[新]\n　　　（下に小さな注記と手書きの説明あり）\n7246.82　surigara　〈古〉　momukara",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05280.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05280",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05280.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7258.82",
+      "7279.93",
+      "7289.31",
+      "7302.87",
+      "7303.61",
+      "7312.11",
+      "7323.17",
+      "7324.96",
+      "7329.57",
+      "7332.97"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-81\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (25)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7258.82　sunuka　〈希〉\t\tmomigara\n7279.93　surinuka　〈古〉\t\t'\n7289.31　sunuka　多 (sunuka の誤記かも)\t\t'\n7302.87　sukumgo　汚者（?注言 元校長）[momigara]\n7303.61　sukumba\tmomigaraともろか一ヶ入\n7312.11　momi-nuka　〈momigaraとはえわぬ〉\n7323.17　mominuka　(これも銘書に現われる)\n7324.96　mominukl　(変ったえい方)\n7329.57　sukumonmuka\tmominwuka\n7332.97　momigara　(スリヌカとはえねぬ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05281.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05281",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05281.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7334.78",
+      "7340.24",
+      "7341.42",
+      "7342.72",
+      "7342.76",
+      "7347.55",
+      "7350.21",
+      "7351.06"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 52-82\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA 普通注記　-　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (26)\n-----------------------------\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7334.78    momigara (手書き)    momyinuka\n7340.24    suinuka <約>    nuka\n7341.42    momigara ---- (手書き注)\n7342.72    nuka ---- <古>\n7342.76    hosa ---- 多\n7347.55    mominuka <も>    momigara-\n7350.21    ヌカ <略称>    suinuka\n7351.06    muka (mominuka とえかわかり と反同したか) 179は ko-nuka\n(下部に手書き注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05282.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05282",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05282.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7351.09",
+      "7356.55",
+      "7371.93",
+      "7372.03",
+      "7374.15",
+      "7375.37",
+      "7380.74",
+      "7381.38",
+      "7381.97"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞(　)[　]は厳密にする。 日本言語地図資料用紙 注記一覧 52-83 質問番号　地図番号　171,173 項目名　もみがら　178 A 普通注記 [B 除いた共通語] [C 除いた特殊語] （ページ (27)） 地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注] 7351.09　nuka　ヌカヤキ。モミガラとは云わぬ。 7356.55　momigara　（この地区の農民はふつうモミヌカとえっている。） 7371.93　momnuka　〈古〉　momgara 7372.03　モミヌカ　（モミガラとはいわない） 7374.15　[モミスカ]　[やや方] 7375.37　momigara　〈多〉 7380.74　モミガラ　（モミヌカは使わない） 7381.38　モミガラ、モミヌカ　〈地方不明〉 7381.97　ヌカ〈右〉、モミヌカ〈幼〉　モミガラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05283.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05283",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05283.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7390.70",
+      "7390.75",
+      "7392.33",
+      "7392.94",
+      "7401.92",
+      "7402.42",
+      "7403.21",
+      "7406.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-84\n質問番号 地図番号 171,173\n項目名 もみがら 178\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (28)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7390.70　モミガラ（モミヌカは用いない）\n7390.75　モミがラ　＜ヌカとはえわぬ＞\n7392.33　モミヌカ　＜別＞\n7392.94　モミがら　＜ツー（音？）のあるとは　モミガラ＞\n7401.92　sukumumo 希　momigara\n7402.42　*sukumumo（初めmomiと云った。）\n7403.21　momigara　[surinukaという人もある]\n7406.53　mominuka ＜多＞\n\n（手書き注記）卵などを箱に入れておく時に使うか、あれか \"momi ですが\" と親が言った。東中予地方は大抵の所が sukumumo という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05284.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05284",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05284.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7417.22",
+      "7418.07",
+      "7470.72",
+      "7471.38",
+      "7513.43",
+      "7522.48",
+      "8239.31",
+      "8301.19"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-85\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）［］は厳密にする。\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA　普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　ページ（29）\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\nkome no kara　まともな落にならなかったような 不安がある。\nsurinuka　多　momiyara\nmomigara　〈未〉\n[surinuka], momi　〈古〉(?)\nモミヌカ　〈希〉\nスリヌカ　〈少〉\narapuga　arapuka\nモミヌカ, *モミガラ\n（モミヌカと言ってから後でモミガラと訂正。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05285.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05285",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05285.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "8301.76",
+      "8325.03",
+      "8325.56",
+      "8334.25",
+      "8345.74",
+      "8373.43",
+      "8394.01",
+      "0247.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-86\n質問番号　地図番号　171,173\n項目名　もみがら 178\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (30)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nスンヌカ, 〈希〉〈古めかしい塔〉 スリヌカ\tモンガラ, モミガラ\nmominuka (momigaraとは昔からそわないようだ)\nmoggara 〈早口にそうな〉\tmomigara\nmongara (momgaraと書化するのかも知れぬ)\tmomigara\naranuka 〈古〉\tmomi-gara\nnuka … (k)(ara)muka\tモミガラは モミを取った カラの穀。\naranuka 〈古〉\tmomi-gara\nsu'kubu\tsikubu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05286.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05286",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05286.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "0247.56",
+      "0265.96",
+      "0275.36",
+      "0275.97",
+      "0294.66",
+      "0340.00",
+      "1231.72",
+      "1251.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    52-87\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n\n質問番号　地図番号\n項目名　もみがら　178\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(3)\n\n地点番号　　A語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C 残した語形とその注］\n\nmumigara　〈粉〉〈希〉　　　　　sikubu\nsi'kufu　〈Fuは穀の意味である。実の入らない空穀にも si'kufu いろ。〉　　sikubu\nmuminku　〈もみの粉の意〉　　　　siku\nmumingku:　（粉の皮の義）\nmunisi'kubu　(muniは粉)\nmumi'kara　〈母〉　　　　　　　　mubin'kubu:\nfuminuhaha　(?)\nsukubu:　〈古〉　　　　　　　　mumiguru:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05287.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05287",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05287.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "1260.87",
+      "1271.20",
+      "2150.06",
+      "2151.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-88\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(32)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n1260.87    sukubu: 〈古〉    mumigara\n1271.20    sukubu: 〈古〉,    mumigara 〈幼〉\n2150.06    mazibubuki 〈栗のがらを a:bukiという〉\n2151.11    mazgara 〈栗のは sipuguとい〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05288.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05288",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05288.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "1719.17",
+      "4648.59",
+      "4694.95",
+      "4784.41",
+      "5567.46",
+      "5568.57",
+      "5576.42",
+      "0171.1"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-89\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n質問番号　地図番号　171.1\n項目名　もみがら　178\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n1719.17　モミガラ　〈外〉　スリヌカ\n4648.59　momiyara　〈外〉　nuka〈昔も今も〉\n4694.95　momigara　〈外〉　nuka ..... もみを調精する時 ある意味ういれnuka を saran nuka という。sara の意味は不明。\n4784.41　momigara　〈共〉　munga?\n5567.46　momigara　〈共〉　momiga?／モミヌカ\n5568.57　同上\n5576.42　momigara　〈ていない〉　nika",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05289.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05289",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05289.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "5574.79",
+      "5588.02",
+      "5598.67",
+      "5605.70",
+      "5615.28",
+      "5622.28",
+      "5633.96",
+      "5649.65",
+      "5652.37",
+      "0171.1"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-90\n質問番号　地図番号　171,1\n項目名　もみがら　178\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ (2)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n5574.79   momigara 〈上〉        nika\n5588.02   モミガラ 〈共〉        モミタカ\n5598.67   同      上             サヤマカ\n5605.70   momigara 〈共〉        noka 〈昔から使っている〉\n5615.28   momigara 〈幼〉        noka 〈古く,今も一番よく使う〉\n5622.28   momiyara 〈ていねい〉〈昔の人は hanoka といった〉   noka, nuka\n5633.96   momiyara 〈希〉        nuka\n5649.65   momiyara 〈幼〉        アラマカ 〈古〉\n5652.37   momiyara 〈共〉        nuka 〈最多〉, mominuka\n\n(注: 上記は原稿の手書き文字の概略転写であり、一部不確かな箇所があります。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05290.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05290",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05290.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "5658.89",
+      "5661.34",
+      "5662.78",
+      "5667.24",
+      "5669.96",
+      "5672.67",
+      "5673.78",
+      "5680.34",
+      "5689.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-91\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）[　]は厳密にする。\n質問番号　地図番号　A　普通注記　ページ（3）\n項目名　もみがら　178\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nモミガラ　＜幼＞　アラスカ・・・普\nmomigara　＜?上＞　muka\nmomigara　＜上＞　[nuka]\nモミガラ　＜夕,幼＞　アラスカ＜多,右＞\nmomiyara　＜幼＞　aranuiiga\n同　上　nuka\nmomiyara　＜共＞　nuka\nmomijara　＜幼＞　nuka（右）、mominuka＜右、179E＞\nmomigara　＜幼＞　aranuka＜右＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05291.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05291",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05291.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "5693.78",
+      "5696.54",
+      "5711.85",
+      "5712.70",
+      "5760.24",
+      "6409.35",
+      "6418.75",
+      "6419.09",
+      "6422.16",
+      "6428.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-92\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA　普通注記　(B) 除いた共通語　(C) 除いた特殊語　(4)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[]）は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nモミガラ　〈共〉　　　　モミヌカ\nkonnuka 179a またろう　*mominuka\nmomijara 〈幼〉　　　　aranuka\n同上　　　　　　　　　aranuka 〈多〉\nmomijara 〈しゃれたことば〉　*aranuka\nモミガラ 〈共〉　　　　スクモ\n同上\nモミガラ 〈希〉\n同上\nモミガラ 〈幼〉　　　　シクモ\nモミガラ 〈幼、希〉　　モミヌカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05292.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05292",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05292.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6429.15",
+      "6429.65",
+      "6430.26",
+      "6436.33",
+      "6436.98",
+      "6437.07",
+      "6437.94",
+      "6438.33",
+      "6439.01",
+      "6448.61"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　52-93\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )［ ］は厳密にする。\n質問番号　地図番号\nA 普通注記　ページ\n項目名　もみがら　178\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（表本文・語形など）\nモミガラ\t〈...〉\tスルヌカ、スリヌカ\nモミガラ\t〈...〉\tスクモ、スンヌカ\nmomigara\t〈...〉\tsukumo\n同\t上\tsukumo\nモミガラ\t〈...〉\tスクモ\nモミガラ\t〈...〉\tスクモ〈昔から／今も〉\nモミガラ\t〈...〉\tスクモ\nモミガラ\t〈...〉\tモミ\n（表下部に続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05293.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05293",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05293.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6455.31",
+      "6457.18",
+      "6459.87",
+      "6465.07",
+      "6476.92",
+      "6482.75",
+      "6486.50",
+      "6491.65",
+      "6505.58",
+      "6512.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-94\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号\n項目名　もみがら 178\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\n(6)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6455.31    momigara 〈幼〉    sukumo 〈多〉\n6457.18    モミガラ 〈共〉    スノモ\n6459.87    モミガラ 〈幼,希〉    スリヌカ\n6465.07    モミガラ 〈上〉    モミクスン, モミカス, スイモ\n6476.92    モミガラ 〈共〉    スリヌカ\n6482.75    上. momigara    sukumo\n6486.50    モミガラ    スリヌカ\n6491.65    momigara 〈上〉    sukumo 〈麦のは akubo?〉\n6505.58    モミガラ 〈共〉    モミヌカ\n6512.67    momigara 〈共〉    surinuka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05294.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05294",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05294.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6519.67",
+      "6520.50",
+      "6520.94",
+      "6522.93",
+      "6530.23",
+      "6530.58",
+      "6540.52",
+      "6546.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-95\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n資料番号　地図番号\n項目名　もみがら 178\nA 普通注記　(B)除いた共通語　(C)除いた特殊語　ページ (7)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6519.67　モミガラ　〈共〉　モミヌカ\n6520.50　モミガラ　〈希〉　スリヌカ\n6520.94　モミガラ　〈希，燻炭用等，改った場合〉　サラヌカ〈普〉\n6522.93　モミガラ　少　スリヌカ\n6530.23　モミガラ　〈共〉　サラヌカ\n6530.58　モミガラ　〈対商人，若人〉　スリヌカ〈対農民，老人〉\n6540.52　モミガラ　〈希〉，アヌカ　スリヌカ\n6546.15　[シュウナ] ←〈シュウナというのは不作の時の実の入...〉　モミガラ\n\n（下部に手書きの注記あり、判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05295.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05295",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05295.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6580.33",
+      "6585.83",
+      "6591.57",
+      "6525.17",
+      "6630.82",
+      "6631.69",
+      "6634.07",
+      "6634.32",
+      "6635.87"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< () [] は厳密にする。 日本言語地図資料用紙 注記一覧 52-96 質問番号 地図番号 171,173 項目名 もみがら 178 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (8) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6580.33 モミガラ <共> スリメカ 6585.83 *momigara <共> momi <普通> 6591.57 モミガラ <ク> スリメカ 6525.17 momigara 希 mominuka 6630.82 momiyara <今> mominuka 6631.69 mominyara 希 momi 6634.07 momiyara 希 6634.32 momiyara 希 6635.87 momiyara 汎",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05296.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05296",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05296.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6642.58",
+      "6643.15",
+      "6643.72",
+      "6645.01",
+      "6645.37",
+      "6653.30",
+      "6655.87",
+      "6662.38",
+      "6697.59",
+      "6710.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-97\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( )[ ]は厳密にする。\n\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA　普通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ　(9)\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nmomigara\t　sukumomo\n(同)　上\nmomigara　上。\t　sukumomo　麦はhajika\nmomigara　締\t　sukumomo\nmomigara　<上>\t　nuka〈最夕〉, mominuka\nmomigara\t　sukumomo\nmomigara　締\t　sukumomo\nmomigara\t　momi〈稲の米をも〉momitsu\nmomijara〈効〉\t　aranmuka〈普通〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05297.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05297",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05297.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6711.12",
+      "6711.60",
+      "7329.57",
+      "7330.31",
+      "7342.72",
+      "7342.76",
+      "7350.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 52-98\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（ ）は厳密にする。\n\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA　普通注記　　ページ（10）\n[B]　除いた共通語\n[C]　除いた特殊語\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6711.12\tmomigara\t〈共〉\taranmuka, ara\n6711.60\tmomigara\t〈上〉\tmomi\n7329.57\tmomigara\t約?\tE. sukumo nuka, momi nuka\n7330.31\tmomigara\t〈約〉\tmominuka\n7342.72\t同\t上\tnuka 〈古〉\n7342.76\t同\t上\tkosa ?\n7350.21\t同\t上\tヌカ〈略称〉, suinuka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05298.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05298",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05298.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7356.06",
+      "7357.31",
+      "7363.85",
+      "7366.87",
+      "7367.61",
+      "7372.27",
+      "7401.11",
+      "7401.60",
+      "7404.12",
+      "7411.27"
+    ],
+    "other_text": "53-01\n日本言語地図資料用紙　注記一覧\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n質問番号　地図番号　171,173\n項目名　もみがら　178\nA　普通注記　B（除いた共通語）　C（除いた特殊語）　ページ（11）\n\n表見出し：\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n行例（地点番号欄以外の読み取り可能な部分）:\nmomigara\t〈秋,共〉\t* mominuka\nmonigara\t〈衆〉\tmominuka-\nモミガラ\t〈上〉\tモミヌカ\nmomigara-\t〈紛〉\t* mominuka-\n同\t上\nモミガラ\t〈希〉\tモミ\nmomigara\t〈上〉\tsukumo\n同\t上\nmomigara\t〈外〉\tsukinmuka\nmomigara\t〈外〉\tsukinmuka\nmomigara\t〈句〉\tsukumo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05301.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05301",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05301.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7413.89",
+      "7420.91",
+      "7430.75",
+      "7431.13",
+      "7501.14",
+      "7522.94",
+      "7659.51",
+      "8302.91",
+      "8345.74",
+      "8393.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-02\n質問番号 地図番号 171,173\n項目名 もみがら 178\nA 普通注記 (B) 除いた共通語 (C) 除いた特殊語 ページ (12)\n\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n7413.89  momigara  <共>  monggala\n7420.91  momigara  約  mominuka\n7430.75  同\n7431.13  momigara  <新>  sukumomo\n7501.14  モミガラ  <ケ>  スリメカ\n7522.94  モミガラ  <共>  モミヌカ\n7659.51  momigara  <幼>  sukumo\n8302.91  モミガラ  <幼>  ススカ\n8345.74  momigara  <汀>  aranuka <古>\n8393.69  momigara  <希>  sukubo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05302.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M171Q178/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05302",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05302.tif",
+    "source_ljc_id": "LJC-M171Q178",
+    "source_map_numbers": [
+      "171",
+      "173"
+    ],
+    "source_title": "もみがら (籾殻)"
+  }
+]

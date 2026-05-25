@@ -1,0 +1,571 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0861.48",
+      "1739.10",
+      "1859.84",
+      "3737.32",
+      "3740.29",
+      "3750.75",
+      "4619.98",
+      "4628.28",
+      "4638.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-92\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n資図番号　地図番号\n99　71\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n項目名　借りる\n\n地点番号　A 語形とその注記　A 注のない語形\n0861.48　karite kurum (単独の形は出ない)\n1739.10　karite kuruu (kariru の形は使わない)\n1859.84　karite kuru <ただ\"kariru\"は使わない>\n3737.32　カリル (リ〜レに聞こえる)\n3740.29　kariruu (カレル)\n3750.75　kariruu (英語共通語のカレルに近い発音)\n4619.98　kaitekjita (単独の場合について確認取れなかった)\n4628.28　kaitekol (この形でしか答えず)\n4638.43　kariru (運用形は katte kuru 借って来る)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01692.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01692",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01692.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4639.10",
+      "4643.47",
+      "4647.69",
+      "4647.87",
+      "4648.42",
+      "4653.47",
+      "4658.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 16-93\n質問番号 地図番号\n99 71\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語 (2)\n項目名 借りる 099\n地点番号 A 活形とその注記 A注のない活形\n4639.10 kariru <katte koi が普通>\n4643.47 katte kuru <kariru は共通語的であり、元来用いない>\n4647.69 kariru {karite kuru, katte kuru と云う}\n4647.87 #カル 動カテケッ、チャ (借りて来いよ) と云う形で答えたが、稲調査者の妻の母言でこの語が引き出せた\n4648.42 karu. karane: katta, karu, kareb, kare, と活用する\n4653.47 karu 連用形は katte kuru\n4658.42 kariru 連用形は katte kuru, kariru に近く riaの音はひびかない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01693.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01693",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01693.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4666.99",
+      "4667.33",
+      "4672.19",
+      "4678.77",
+      "4685.72",
+      "4695.33",
+      "4659.50",
+      "4663.97"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 16-94\n質問番号 99    地図番号 71\n項目名 借りる 009\nA 普通注記    (B 除いた共通語)    (C 除いた特殊語)    (3)\n\n地点番号    A語形とその注記    A注のない語形\n\n4659.50\n4663.97\n4666.99  kaeru (kariruの訛りらしく、kareruのr音は弾んどきかれない)\n4667.33  #カリル　カリテコイ等の形で答えたのでくりかえして解説を加えた。\n4672.19  karu (karite koi は連用形)\n4678.77  kariru (ri or 音はかすかなである)\n4685.72  kaeru (kaeruはkareruの脱落したものてあろう　kareru kaetekita (借りて来た)とも云う。kaeruを最初に答えた)\n4695.33  kariru 〈こちらを多く用いる〉    kareru 〈希〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01694.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01694",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01694.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4695.87",
+      "4713.60",
+      "4715.98",
+      "4716.20",
+      "4730.96",
+      "4735.37",
+      "4741.43",
+      "4742.37",
+      "4743.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の<>()[]は厳密にする。\n日本語音地図資料用紙 注記一覧 16-95\n質問番号 地図番号 99 71\n項目名 借りる 099\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (4)\n地点番号 A 語形とその注記 A注のない語形\n4695.87   kanru <kante kuru> 連用形\n4713.60   kasitekusuu (「借りる」という言い方は実際にはないようである)\n4715.98   karitekusuu (単独で「借りる」とだけ言うことは実際にはないようである)\n4716.20   karitekusuu (カルという単独の形はでにくい)\n4730.96   kariru 借りる  (注記あり)\n4735.37   karidekusuu (単独でカルという言い方はない)\n4741.43   karirru [kattekurru][karirru]\n4742.37\n4743.61   karite kurum (こういう形だけは残らなかった)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01695.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01695",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01695.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4743.95",
+      "4763.62",
+      "5499.98",
+      "5549.09",
+      "5552.85",
+      "5558.08",
+      "5590.53",
+      "5615.65",
+      "5669.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-96\n質問番号　地図番号\n項目名　借りる\nA（普通注意）　(B 除いた共通語)　(C 除いた特殊語)　ページ (5)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記　A注のない語形\nkarisu (kasidekuru が普通)\nkaritekurum (単独のカリルは引きませんせなかった)\nカッテクル　カッテクルは全く用いられないが、最近になってこそ　カレル\n　一部にカッテクルが用いられている。(しかしこれは勢力が弱い)\nkaru <希>　kariru\nkaru <希>　kariru <多く使う>\nkaru <希>　kariru\nカレル <かや去>　カル\n*kareru (はじめ kariru と変えた)\nkaritf keta (過去形) (C) は大体 (E) の口がまえ での音声マッサ??\n\n(左余白の書き込みなどあり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01696.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01696",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01696.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5669.96",
+      "5688.01",
+      "5732.13",
+      "5760.57",
+      "5771.36",
+      "5771.42",
+      "6384.25",
+      "6415.23",
+      "6462.59",
+      "5687.86",
+      "6416.09"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料用紙 注記 - 16-97\n質問番号 99    地図番号 71\n項目名 借りる 099\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (6)\n\n地点番号    A 語形とその注記    A注のない語形\n\n5669.96    karide kūru (拡張形)\n5688.01    カリテイ　カリルを使うかどうか質問したが一般しなかった\n           質問によりカリルは使うという答があったが---\n5732.13    kattjikiru (単独で借りるという言い方がある)\n5760.57    karide koo (拡張形,命令)\n5771.36    karite kurum (単独で借りるという言い方がある)\n5771.42    karide kūru (拡張形)\n6384.25    karu <古>    kariru\n6415.23    kareru (カリルではない)\n6462.59    カリル（質問の意を正しくつかわなかった点があった）\n\n左余白注記: 5687.86 →  (矢印)\n左下余白注記: 6416.09 →  (矢印)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01697.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01697",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01697.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6485.14",
+      "6487.43",
+      "6489.81",
+      "6491.49",
+      "6500.22",
+      "6530.58",
+      "6536.39",
+      "6542.71"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　16-98\n質問番号　99　地図番号　71\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (7)\n項目名　借りる　099\n\n地点番号　A 語形とその注記　A注のない語形\n6485.14　カル　＜カッテル＞\n6487.43　カル　＜カッテフル＞\n6489.81　NR　＜カシテクレ、カンテモラウ＞\n6491.49　karu　＜katie kuru＞という\n6500.22　カレル　＜やや古＞　　カル\n6530.58　カリル　＜上＞（普通にはカッテフル等と言うので隣り）\n　　　　カリルとえば上品な感じになる\n6536.39　karitekuruu　＜kariruという形はあまりつかわない＞\n6542.71　カル　（臨地調査で聞きおとしたので手続で回答と）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01698.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01698",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01698.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6546.73",
+      "6551.18",
+      "6568.09",
+      "6579.86",
+      "6603.08",
+      "6603.24",
+      "6603.52",
+      "6607.86"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 17-1\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での指示は地点番号順に並べる。\n・注記の＜＞( )は敬称にする。\n\n資料番号 99 地図番号 71 項目名 借りる 099\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (8)\n\n地点番号  A 語形とその注記  A注のない語形\n6546.73  kariru 〈どちらも同じ〉  kariru\n6551.18  カシテモラウ（カルを答えてくれなかったが、カルとも言うはず）\n6568.09  kareru 〈古〉  kariru\n6579.86  karu (katte kuru の形が普通)\n6603.08  イロオ [古] [調査の場にいた家族の発言を被調査者が認めた]  カレル\n6603.24  イロオ 〈古〉  カレル\n6603.52  iho: ihatta 借りた\n6607.86  kariru はじめ [karitekuru]と答えた",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01701.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01701",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01701.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6609.05",
+      "6613.07",
+      "6613.77",
+      "6618.46",
+      "7235.29",
+      "7239.85",
+      "7329.57",
+      "7331.41",
+      "7338.85",
+      "7340.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-2\n調査番号　99　地図番号　71\n(A) 普通注記\n項目名　借りる\n地点番号　A語形とその注記　A注のない語形\n6609.05　（※・）　カリル　＜カリテコーのように＞\n6613.07　イロオ　＜古＞\tカレル\n6613.77　イロオ　＜古＞\tカレル\n6618.46　カル　＜古＞（ばりりー）＜音便た、カラナイといった＞\tカリル\n7235.29　kariru　＜カリテコイフ＞\n7239.85　カル（カッテクルが普通）\n7329.57　kariru　＜katte kurum＞\n7331.41　カル　借りてくるはカッテクン\n7338.85　karu　＜katie kurum (kita)という＞\n7340.24　Ka:（動詞語尾のルは脱落に変化する）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01702.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01702",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01702.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7342.12",
+      "7342.76",
+      "7382.68",
+      "7401.92",
+      "7402.47",
+      "7404.56",
+      "7514.21"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-3\n資料番号　99　　地図番号　71\n項目名　借りる　099\n（A　常通注）\n[B　除いた共通語]　[C　除いた特殊語]　ページ（10）\n\n地点番号\tA 語形とその注記\tA 注のない語形\n7342.12\tkaru (借りるは使わない..)\n7342.76\tkaru <kanadzutsu o katie koi> のようにえう。\n7382.68\tカリギャアキタ (単数の現在形をひき出し得ず)\n7401.92\tkariru 武智正人「愛媛の方言」によると松山では\n\tkaru /o/ の答えからも karu だと思うが、こう答えた\n7402.47\tkariru <katie koi> のように使う\n7404.56\tkaru <kariruとは言わない>\n7514.21\tkaru (karu の形も可能だが katte karu 一般)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01703.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01703",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01703.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "7523.16",
+      "8300.87",
+      "8313.88",
+      "8323.59",
+      "8332.07",
+      "8334.25",
+      "8341.12",
+      "8355.23",
+      "8361.31"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 17-4\n質問番号 99　地図番号 71　普通注　ページ\n項目名 借りる 089\n(B) 除いた共通語　(C) 除いた特殊語 (M)\nA・[B]・[C]ごとに別紙を使用する。\nその中での指標は地点番号順に並べる。\n注記の〈〉()[]は敬省略にする。\n地点番号　A語形とその注記　A注のない語形\n7523.16　katte kuru <kariruと言わず>と主張せり\n8300.87　kat (「借る」の入声化)\n8313.88　kai (kaiは借用の語尾ルのイ音化、動詞の語)／底のルは原則としてイになる\n8323.59　karu　karuは附く語により、その語尾は様々変容する\n8332.07　kat <多し>\n8334.25　karu　一語として抽出したでーな形　kai, kat　日常の語形\n8341.12　kat (kaiかも)\n8355.23　katte kuru (従って/kara/という語がある)\n8361.31　kat 「借る」の説",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01704.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01704",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01704.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "8373.43",
+      "0265.96",
+      "0275.97",
+      "0276.50",
+      "0294.66",
+      "0294.93",
+      "1231.72"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。 ・その中での情報は地点番号順に並べる。 ・注記の＜＞（ ）は略称にする。 日本言語地図資料用紙 注記一覧 17-5 資料番号 99 地図番号 71 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (12) 項目名 借りる 032 地点番号 A 語形とその注記 A注のない語形 8373.43 ka? 他の報調査者は karu と答えた。 0265.96 kajun, kajui (語尾の二形については 021/022との注を参照) 0275.97 karjun, karjuti (語尾の差は021・022・023の註を参照) 0276.50 kai, kajug (kai < kajuji < karuri 語尾の差については021,022の註記を参照) 0294.66 Fujun <但しお金を借りるのは jo:jun という> 0294.93 Fujun, Fujumu 両者五分五分 1231.72 qui-jun <古>  kajun <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01705.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01705",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01705.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "2076.25",
+      "2085.69"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での指標は地点番号順に並べる。\n▶ 注記の＜＞（）は敬語にする。\n日本書籍地図資料用紙 注記一覧 17-6\n質問番号 99    地図番号 71\nA 普通注記    (B 除いた共通語)    (C 除いた特殊語)    ページ (13)\n項目名 借りる 099\n----------------------------------------\n地点番号    A語形とその注記    A注のない語形\n2076.25    kuiku: (借りて来...の意)\n2085.69    kuikuy (kuikuy <借りて来る> を答える。単独の言・方はないという)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01706.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01706",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01706.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4659.50",
+      "4663.49",
+      "4742.37",
+      "4760.64",
+      "5602.99",
+      "5612.39",
+      "5613.33",
+      "5687.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 17-7\n質問番号 99　地図番号 71\n項目名　借りる\n\n（表見出し）地点番号　A 音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nカイル　カリルは改まった際に通常は「リ」は「イ」になる\nkaru　借りたものを返す意では nasu ne: teko: などという\nkariru　kariru（くり）\nkajiru　（確かめて）\nkakeru　<古>\nカレル（尊）\nkareru（「外に言う方はありませんか」に対する反応）\nカリル　〈お金を借りる時など〉（但し カリタモノ、…オカリタなどあるが、カリルの用例不明）\n（最初の変カリテクル）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01707.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01707",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01707.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6416.09",
+      "6584.28"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-8\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のくくり()は厳密にする。\n（右上の箱）\n項目番号　地図番号\n99　71\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)\n頁 (15)\n項目名\n借りる　009\n\n表ヘッダ:\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n手書き項目:\n6416.09　カレル（未然形のカリは用いない。過去形のカリは用いる）\n6584.28　karu〈希〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01708.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01708",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01708.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "4659.50",
+      "4659.85",
+      "4666.17",
+      "4666.42",
+      "4730.45",
+      "5548.24",
+      "5602.99",
+      "5612.39",
+      "5613.33"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　17-9\n管理番号 99　地図番号 71\n項目名　借りる\n[A　※普通注記]　[B　除いた共通語]　[C　除いた特殊語]\n（ページ ( / )）\n\n地点番号\n4659.50　カリル（共）\n4659.85　kariru（ていねいにいうとき）\n4666.17　kariru ＜新・共＞\n4666.42　kariru ＜新＞\n4730.45　kariru ＜稀・共＞\n5548.24　kariru ＜新＞\n5602.99　kariru ＜新＞\n5612.39　カリル（共）か\n5613.33　kariru ＜共＞\n\n（右欄注記）\nカイル、カリルは改まった際に、通常は「り」は「イ」になる\nkariru\nkareru\nkareru\nkaddže kumru\nkaru\nkareru ＜古＞\nカレル（多く用いる）\nkareru（「外に言う方はありませんか」に対する反応）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01709.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01709",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01709.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6409.72",
+      "6416.09",
+      "6439.01",
+      "6500.88",
+      "6543.05",
+      "6560.40",
+      "6615.02",
+      "6625.66",
+      "7430.95",
+      "7450.20"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙　注記一覧　17-10\n質問番号　地図番号　99　71\n項目名　借りる　099\nA　普通注記\nB　除いた共通語　(○囲)\n(C)　除いた特殊語　(2)\n表ヘッダ: 地点番号　A・B・C除いた語形とその注　A・B残した語形とその注\nカリル＜共希＞\tカレル\nカリル＜新＞\tカレル（未然形のカリンは用いない／過去形のカリタは用いる）\nカリル＜共＞\tカレル\nkariru＜希＞\tkareru\nカリル＜新＞\tカル\nカリル＜共＞\tカル\nカリル＜共＞\tイロオ(?)\nkariru＜上＞\tkareru\nkariru＜新＞\tkaru\nkariru＜新＞\tkaru\n（下部に訂正・取り消しの線あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01710.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01710",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01710.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "0747.70",
+      "0894.61",
+      "0990.97",
+      "3699.55",
+      "3744.18",
+      "4609.54",
+      "4619.63",
+      "4629.43",
+      "4663.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）〔〕は厳密にする。 日本言語地図資料用紙　注記一覧　17-11 資問番号　99　地図番号　71 項目名　借りる 999 A 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号　A 語形とその注 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 0747.70　karitekuru <タ>　kariru 0894.61　kaddekuru　kariru 0990.97　karite koi　kariru 3699.55　カリテクル　カリル 3744.18　カリデクル　カリル 4609.54　kadde kuru　kariru 4619.63　karde kuru　karuru 4629.43　kadde kuru　karuru 4663.49　katte kuru を多いう　karuともいう。借りたものを返す意では nasu ne: teki o などという",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01711.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01711",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01711.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "4710.55",
+      "4711.82",
+      "4731.42",
+      "4740.26",
+      "4741.92",
+      "4742.37",
+      "4750.32",
+      "4751.42",
+      "4760.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の〈〉()[]は厳密にする。\n日本言語地図資料用紙　注記一覧　17-12\n資料番号　99　地図番号　71\n項目名　借りる　099\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(2)\n地点番号\n4710.55    kadde kururu    kariru\n4711.82    kadde kururu    kariru\n4731.42    kadde kururu    kariru\n4740.26    kaddzè kurru (かりてくるに相当)    kariru\n4741.92    kaddzè kurru    kariru\n4742.37    katte kumru <たいてはこの形しか使わない>    karisum <これは殆ど使わない>\n4750.32    カージュクル、カリデゥル　カンジェクルはカリテク　カクル　ルの訛\n\n4751.42    kaddèkururu    kariru, kadde kururu\n4760.02    kaddzekururu    kariru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01712.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01712",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01712.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "4760.64",
+      "5675.87",
+      "5676.84",
+      "5678.33",
+      "5687.86",
+      "5688.37"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　17-13\n質問番号　地図番号\n99　71\n項目名　借りる　099\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(3)\n\n（表見出し）\n地点番号　（語形としての注記　B・C除いた語形とその注）　（A注のない語形　B・C残した語形とその注）\n\nkajide kuru （最初の答え）　kajiiru（確認かけて）\nカリテオ --- カリテオイテ　カリル\nカリテ ラオ　カリル\nカリテクル　カリル\nオカリスル　くて…の場合、ちょっと借りる物のある時　カリル（お金を借りる時など）\n（但し、カリタモノ、…オカリタなどのあるが、カリルの用例少不明。最初の答のカリテクル）\nカリテクル　逆展なし　カリタ\n例　必要が起きた場合にカリテクル\nカリル　タテでは同か一足では…\nかなづちがないので　助けてにいる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01713.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01713",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01713.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6376.68",
+      "6388.52",
+      "6448.61",
+      "6449.19",
+      "6469.77",
+      "6471.59",
+      "6473.65",
+      "6533.36",
+      "6541.52",
+      "6542.58"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-14\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略記にする。\n\n資料番号 99　地図番号 71\n項目名　借りる 099\nA 普通注記　[B 除いた共通語]　C 除いた特殊語 (○)\n\n地点番号　（A・B・C除いた語形とその注）　（A・Bのない語形　C残した語形とその注）\n\nkattekuru\tkaru\nkattekuru\tkaru\nカッチフル\t#カル\nカリニハヤス\t#カル\nカッチフル\t#カル\nカッテフル\tカル\nカッテスイ\tカル\nkatte kuru\tkaru\nオカリシマス\tカンテフル\nカッテフル\tカレ→カッテフル\tカル→カルフカル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01714.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01714",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01714.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6581.52",
+      "6584.28",
+      "7321.46",
+      "7361.17",
+      "7313.25",
+      "7500.24"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > () []は厳密にする。 日本音韻地図資料用紙　注記一覧　17-15 質問番号　99　地図番号　71 A　普通注記 (B　除いた共通語) (C　除いた特殊語) ページ (15) 項目名　借りる 地点番号（欄見出し） カシテ モラウ <多く使う>　カル kattekuru　karu <帝> kattekuru　karu カッチフン　*カル カッサフン　*カル カッチフル　カル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01715.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M071Q099/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01715",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01715.tif",
+    "source_ljc_id": "LJC-M071Q099",
+    "source_map_numbers": [
+      "071"
+    ],
+    "source_title": "かりる (借りる)"
+  }
+]

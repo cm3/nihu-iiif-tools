@@ -1,0 +1,331 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "2722.05",
+      "2795.66",
+      "3609.17",
+      "3688.82",
+      "3700.19",
+      "3753.88",
+      "3765.03",
+      "4637.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-41 資料番号 258 地図番号 012 項目名 ヒゲ 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 2722.05 Funye <右> singe 2795.66 Funye <普通> singe 3609.17 Funye <右> singe 3688.82 eije <普通>（guingeに近く発音することもある。） funge 3700.19 Funye <右> singe 3753.88 ヒゲ（幾分「シゲ」と響く感あり） シゲ — TOK補 3765.03 ヒゲ（ヒ、シの間の音である。） 4637.20 gije（24o gikoのgiはjiの感じか）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00241.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00241",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00241.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4638.22",
+      "4675.62",
+      "4666.42",
+      "4695.87",
+      "4700.37",
+      "4711.42",
+      "4725.92"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n2-42\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n\n資料番号　258.　地図番号　012\n項目名　ヒゲ\n(A)普通注記　(B)除いた共通語　(C)除いた特殊語　ページ(2)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nEgiŋe　こは狭いe\ngige　（ややEigeの感じがある。女の老人は Eügeと言ったと言う。）\nhanacige　Euge　＜古？＞\n![Euge]\nφeiɲe　（らいのようにも発音する事あり）\nEeiŋe　（わずかに唇音化）\nçiŋe　（頭音は φ ともきこえる。Jではない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00242.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00242",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00242.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4726.80",
+      "4742.95",
+      "4744.32",
+      "4760.54",
+      "4760.98",
+      "5462.57",
+      "5472.91",
+      "5516.59",
+      "5566.35"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-43\n資料番号　地図番号\n258　012\n項目名　ヒゲ\n(A) 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\nページ (3)\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n4726.80　gine　(頭音はヒとシの間にきこえた)\n4742.95　gine　(頭音はやや g がかかってもきこえる。)\n4744.32　gine　(頭音はヒとシの中間音)\n4760.54　φhine　(やや唇音のヒ)\n4760.98　ssije　eは狭いe.\n5462.57　フゲ　〈ハナフゲ、クチフゲいずれも言う〉\n5472.91　φige　〈新〉　（右欄）φuge\n5516.59　henge　〈新〉　（右欄）φune\n5566.35　φue　フェ（〈フ？〉）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00243.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00243",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00243.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5576.96",
+      "5594.02",
+      "5631.26",
+      "5633.96",
+      "5663.68",
+      "5684.11",
+      "5874.54",
+      "6267.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙注記一覧 2-44\n管理番号　地図番号　258　012\n項目名　ヒデ　(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (4)\n\n表ヘッダ: 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nhandwritten entries (対応する地点番号を除く):\nhenge　優位\nEi̍nge　優位\nhinge\nheye\nsinge　（この地方では gi＞ji の傾向がきわめて強い。）\nsinge　（この地では singeと言う場合が圧倒的に多い。）\nsinge　（s〜の変化はきわめて盛ん）\nsinge　＜図は kutt/singe ロヒゲ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00244.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00244",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00244.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6277.62",
+      "6296.27",
+      "6358.87",
+      "6420.58",
+      "6424.89",
+      "6441.19",
+      "6482.75",
+      "6485.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-45\n資料番号 258 地図番号 012\n項目名 ヒゲ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (5)\n\n地点番号 | A 語形とその注記 (B・C除いた語形とその注) | A注のない語形 (B・C残した語形とその注)\n\n6277.62  sige\n6296.27  sige  <kuttjige, hanasige>\n6358.87  ハナヒゲ <古>    (右欄) ヒゲ\n6420.58  クサフゲ <多>    (右欄) フゲ\n6424.89  kutjsige , cf. 湯原町種 hatji\n6441.19  ？ナヒゲ\n         ハナヒゲ\n         アゴヒゲ\n         位置によって言う。\n\n6482.75  hana hige\n6485.46  クサヒゲ , hiである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00245.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00245",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00245.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6494.08",
+      "6501.86",
+      "6521.94",
+      "6542.71",
+      "6543.56",
+      "6562.79",
+      "6572.55",
+      "6581.68",
+      "6583.19"
+    ],
+    "other_text": "A・（B）・（C）ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料用紙注記一覧 2-46\n資料番号 258　地図番号 012　A 普通注記\n項目名　ヒゲ　ページ（6）\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6494.08　ハナヒゲ　＜クチヒゲはあそこのところにある　ひげ＞\n6501.86　（取り消し線）\n6501.86　[çiğe]\n6521.94　[çiğe]\n6542.71　çiğe\n6543.56　[çiğe]\n6562.79　çiğe．口のところのは kutjinye\n6572.55　çiğe　—タンカ\n6581.68　ヒゲ\n6583.19　kutlisiğe　＜少＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00246.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00246",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00246.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6583.93",
+      "6604.98",
+      "6608.69",
+      "6620.49",
+      "6624.65",
+      "6626.06"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 2-47\n資料番号 258 地図番号 012\n項目名 ヒゲ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (7)\n地点番号   A 語形とその注記 (B・C除いた語形とその注)   A 注のない語形 (B・C 残した語形とその注)\n6583.93    gine    <多、共>    (〜)は入るときと入らないときとあり\n6604.98    gine    (gine)\n6608.69    gine    (/si/と話者は意識)\n6620.49    hine\n6624.65    gjenji\n6626.06    heni    （「<音声:ヒ>を求める」という調査の主体から言うと不都合な回答となれ、こころみん「ぼうぼう」燃えるものを何と言いま",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00247.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00247",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00247.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6633.27",
+      "6657.96",
+      "7229.75",
+      "7268.87",
+      "7303.38",
+      "7313.68",
+      "7320.95",
+      "7324.24"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（〔〕）は厳密にする。\n\n日本言語地図資料用紙注記一覧　2-48\n\n資料番号 258　地図番号 012\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (8)\n項目名　ヒゲ\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n「すか」と聞いたら [cijamoe-terutoju:] と答があった。）\n\n6633.27　çiŋe'ta　卑　　　　　　çiŋe\n6657.96　heɟe\n7229.75　çige\n7268.87　* Fuge　（古）　　　　çige\n7303.38　çi ge\n7313.68　çi ge　（yeでない）\n7320.95　çi ge\n7324.24　çi ge　(lyetでない)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00248.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00248",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00248.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "7332.27",
+      "7332.52",
+      "7342.10",
+      "7351.06",
+      "7352.14",
+      "7363.59",
+      "7372.03"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )[ ]は厳密にする。\n\n日本言語地図資料用紙注記一覧 2-49\n資料番号 258　地図番号 012\n項目名 ヒゲ\n(A)普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (9)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n7332.27　çi ge\n7332.52　çi ge\n7342.10　çi ge\n7351.06　hana çige\n7352.14　kutji hige　(çige ほどれはならぬ)\n　　　　hige\n7363.59　hige　　çiほど、まさつ・口蓋化か。\n　　　　hige　　強くえい。\n7372.03　hige.　(hige, çige の h・ç の中間のような口蓋化の極めてよわ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00249.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00249",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00249.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7374.15",
+      "7382.93",
+      "7390.75",
+      "7394.60",
+      "7400.11",
+      "7403.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-50\n資料番号 258 地図番号 012\n項目名 ヒゲ\n(A)普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (10)\n\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A注のない語形 (B・C残した語形とその注)\n\n7374.15  u(ch.)\n        kutʃi; sige (giは普通の発音では[hi])\n        kutʃi hige に近い音.[h,i]か\n\n7382.93  hige (sigeほどに口蓋化しょ)\n\n7390.75  hige\n\n7394.60  kutʃi,hige -> hiに近く, giほど口蓋化  hanahige が強くない\n\n7400.11  hige  <かんれんな言い方である。>  kutʃi hige\n\n7403.86  hi ge\n        kutʃi hige",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00250.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00250",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00250.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "7412.31",
+      "7424.61",
+      "7504.11",
+      "8302.19",
+      "8305.76",
+      "8352.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-51\n資料番号 258    地図番号 012    項目名 ヒデ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (11)\n\n地点番号    A 語形とその注記（B・C 除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\n7412.31    kutji hige\n7424.61    çige — çigeとあり。〜かどうかがからぬが、いまとする。\n7504.11    kutjiçige（ハナの下nあるのも、アゴの下nあるのもkutjiçigeである。）\n8302.19    kutji hige\n8305.76    çige（口先の「ヒ」）\n8352.92    çige  hanacige",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00251.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00251",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00251.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4666.42",
+      "4695.87",
+      "5538.49",
+      "5558.08",
+      "5623.42",
+      "5674.54",
+      "6408.72",
+      "6420.58",
+      "6635.36"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    2-52\n資料番号 258.    地図番号 012\n項目名 ヒゲ\nA 普通注記    B (除いた共通語)    ページ (1)\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\nhanaçige                              Emuge <古?>\nçige    <共>                          ![Emuge]\nçige    <新>                          Þuge\nçige    <新>                          Þuge\nçige    <希, 共>                      sije\nçige    <共>  (s～の変化はまめで盛ん)   sije（s～の変化はまとめて盛ん。）\n\n(一部取り消し線あり)\nçige.                                 hege\n(6420.58 横線で抹消)\nhige    新                              heye",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00252.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00252",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00252.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6697.39",
+      "6697.59",
+      "6698.20",
+      "7309.37"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 2-53\n資料番号 258    地図番号 012\n項目名 ヒゲ\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6697.39    gije    heye\n6697.59    heye    sije\n6698.20    gije    heye\n7309.37    gige    hege（古）\n\n<時々聞く>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00253.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M012Q258/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00253",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00253.tif",
+    "source_ljc_id": "LJC-M012Q258",
+    "source_map_numbers": [
+      "012"
+    ],
+    "source_title": "ヒゲ (鬚)"
+  }
+]

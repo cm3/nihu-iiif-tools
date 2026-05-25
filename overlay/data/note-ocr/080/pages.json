@@ -1,0 +1,2328 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0747.70",
+      "0840.33",
+      "0861.48",
+      "0897.91",
+      "0990.97",
+      "1719.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-45\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　＞＜（）[]は厳密にする。\n\n質問番号 059　地図番号 080\n項目名 みざりになる\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n0747.70  busuiro ni naru  <黒ければ busuguroku naru 赤ければ busuakaku naru>\n0840.33  butsiin naru <putakarete butsin natta>  butsjiru\n0861.48  NR  ぶつける？ いろかわった {くろくなった あおくなった} <別に名前をつけていうことない。>\n0897.91  ブシイロ＝ナル （シはやっスに近い。ただし、シとスとの中間まではいったらない。）\n0990.97  sinda <butsukete 〜> （あとにまとまったことばがない、また現在形も立たない。）\n1719.38  クロクナル（自分でころんだ時は、ウサコンデ クロクナッタという。）　アザニナル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01845.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01845",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01845.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1731.89",
+      "1736.84",
+      "1738.19",
+      "1739.85",
+      "1756.32",
+      "1793.14",
+      "1893.10",
+      "1942.03",
+      "2608.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-46\n質問番号 059 地図番号 080\n項目名 あざになる\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (2)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく <> () [] は厳密にする。\n\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n1731.89  チマメデギル\n         フスクログナル  <ブツツニナルとはいわない>\n\n1736.84  シヌ <くる>\n         (右欄) アザ が デキタ\n\n1738.19  tsimare kosaeta / tsimare kosaíta  <そのほかのことは いわない>\n         (右欄) アザニナル\n\n1739.85  busuirom naru <多>\n         (右欄) dosu nyuroku narau\n\n1756.32  シンダ (アザになった状態をみて <シンダネ> などと いう。ネは後助詞)\n\n1793.14  アンザ デキル (ガ・ニ助詞をいわない)\n\n1893.10  utsimi ni naru <dosunyuroi.....>\n\n1942.03  utsimi ni naru <大きくなってから>\n         (右欄) busuirom naru\n\n2608.90  ナマメヨル (手などにできた小さいのを チマメ という)\n         ブツツナル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01846.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01846",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01846.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2722.67",
+      "2754.11",
+      "2754.56",
+      "2774.59",
+      "2781.91",
+      "2782.67",
+      "2784.75",
+      "2791.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-47\n質問番号 059    地図番号 080\n項目名 あざになる\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (3)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n2722.67   ブツツニナル（大きいもの）\n          ナマメヨル（小さいもの）\n\n2754.11   si'nux <色の変った所は budzim'i という>\n\n2754.56   murasaki ni naru（考えて言ったことば？）\n\n2774.59   busikurol（上形容する）\n\n2781.91   sinda <死んだ>\n\n2782.67   sinda（終止形、適当な答えが出ない）\n\n2784.75   budzi'dzi joru（打ち血寄る）\n\n2791.88   KUROKUNARU（agaku naru, aogu）\n          naruというだけで とくに語はない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01847.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01847",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01847.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2792.07",
+      "2795.01",
+      "2812.96",
+      "3609.47",
+      "3619.08",
+      "3649.16",
+      "3689.75",
+      "3699.25",
+      "3699.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><()[]は厳密にする。 日本言語地図資料用紙 注記一覧 18-48 質問番号 059 地図番号 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (4) 項目名 あざになる 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] sinuu (色が変っている sinderu 色が変った sinda) kuroku sinda (過去形) sinu <sigda> budziro n naru (真中の n はゆっくり言えば n') tsüiga joru (「血が寄る」だろう) SINDA <sinde büsügürogüi narü> NR (特にない。haredaの答えがあっただけ。) aza dekiru (ユ) busiiro naru (ユ) azai naru ブスイロエナル <アザエナルとはいわぬ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01848.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01848",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01848.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3702.24",
+      "3702.81",
+      "3704.57",
+      "3713.75",
+      "3717.90",
+      "3720.71",
+      "3722.32",
+      "3724.20",
+      "3750.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><（）は厳密にする。\n日本言語地図資料用紙注記一覧 18-49\n質問番号 059 地図番号 080 項目名 あざになる A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (5)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n3702.24 nigu sinu (肉死ぬ)\n3702.81 sinda (終止形はでなかった)\n3704.57 butsindzi (名詞、動詞は kurokunaru などとしかいわない。)\n3713.75 büsügürokü narü <ブス黒くなる>\n3717.90 uzimin naru (p<ni に)\n3720.71 SINDA <sinde büsügüregü narü>\n3722.32 sinda <腕のあたりをさして kogo sinda というように>\n3724.20 NR (被調査者の顔にあざがあるため省略)\n3750.75 kürogü narü 特殊なし",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01849.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01849",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01849.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3760.93",
+      "3762.42",
+      "3781.86",
+      "3791.02",
+      "4597.66",
+      "4609.07",
+      "4609.25",
+      "4609.68",
+      "4618.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-50\n質問番号 059 地図番号 080\n項目名 あざになる\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (6)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n3760.93 sinda (過去形で聞い2. 終止形をききとなった。)\n3762.42 büdžida (存在態らし)    büdžiderü\n3781.86 ürümuu <ürümüüだか、hadagaredaのように使う。>\n3791.02 urumuu [M butsida (終止形すぎない) が古い 言り方で urumuu は新。]\n4597.66 シンクロジニー シンダ〉\n4609.07 busiro sita <busi iro の意>\n4609.25 si'nda (死んだ。終止形 sinu)\n4609.68 tśijoru 「血寄る」\n\nbundoëroe naru 「ブドウ色になる」\n(注) (シンという終止形は殆どつかわない。シンダという)\n4618.87 sinnu (過去形が主として使われる。 同シヌは死ぬと考えられる。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01850.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01850",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01850.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4619.63",
+      "4628.61",
+      "4629.43",
+      "4638.43",
+      "4643.47",
+      "4644.10",
+      "4647.69"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-51\n質問番号　059　　地図番号　080\n項目名　あざに　なる\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ　(7)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( )[ ]は厳密にする。\n\n地点番号　　A　語形とその注記【B・C除いた語形とその注】　　A 注のない語形【B・C 残した語形とその注】\n\n4619.63　sinui　（シヌは死ぬで、終止形は殆ど用いず。シング（死んだ）という過去形がそれを代用する。）　bujiiro naru\n\n4628.61　sinu　〈但し過去形 シンダーのみ〉（シヌは現実には用いられぬ。シンダという過去形のみ。）　doyorogumanaru\n\n4629.43　tsi sinu　（終止形は殆どつかわず、しんだ（血死んだ）と過去形が主につかわれる。）\n\n4638.43　doʝuru：naru　（ど黒くなるか。）\n\n4643.47　butʧitoru（動詞butʧiruの状態形である。名詞はなし。058との区別もない。）\n\n4644.10　【butfitoruと言う】\n\n4647.69　sinda（終止形ではなく、完了形とでもいうべきか。死んだか？）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01851.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01851",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01851.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4647.87",
+      "4648.04",
+      "4654.52",
+      "4658.42",
+      "4659.01",
+      "4659.50"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-52\n質問番号 059    地図番号 080    A 普通注記    [B 除いた共通語]   [C 除いた特殊語]   ページ (8)\n項目名 あざになる\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\n4647.87    スンダ (s ün da) （終止形はひきませなかった。シンダ（死んだ？））\n\n4648.04    dogyunru natta ＜kuro ni jotta と、どちらか 古いか今らぬ＞\n\n4654.52    butfitoru （ぶちているという連用形である。butfiru という終止形もあるのであろうが得られなかった。）\n\n4658.42    sinda （過去完了形である。終止形は sinu かもしれないが得られなかった。）\n\n4659.01    （たたかれ2） makkurokurnaruru ／adzani naru／ とは言わない。\n\n4659.50    シンダ（「死んだ」であろう。つまり肌が黒くなるのを死ぬが死んだという様にいうわけで、…）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01852.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01852",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01852.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4663.06",
+      "4663.49",
+      "4663.92",
+      "4666.42",
+      "4666.51",
+      "4667.33",
+      "4669.55",
+      "4675.45"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧   18-53\n質問番号 059   地図番号 080\n項目名 みずになる（手書き）\nA 普通注記   [B 除いた共通語]   [C 除いた特殊語]  ページ (9)\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形 [B・C 残した語形とその注]\n4663.06    butjitoru (058のものもいう、動詞 butjiru の状態形)  kuruzin jimu\n4663.49    kurozinj naru <kurozin は黒死の意なり> と。\n4663.92    NR <名まえはない。>\n4666.42    [jinu] (奥さん（明治35年・中蒲原郡亀田町な人）の発言を被調査者は認めた。)\n4666.51    jinu (動詞・終止形)\n4667.33    シンダ (アシ(足)シンダ、テ(手)シンダ、シンダは完了または過去形、終止形は得られない。)\n4669.55    KUROKUNARU (キマッタ言方ナシ。agagu naru とか打(プ)タという位。)\n4675.45    jinda (死んだという連用形? と答えた。終止形は jinu であろうが、得られなかった。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01853.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01853",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01853.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4676.42",
+      "4676.67",
+      "4678.77",
+      "4684.77",
+      "4685.72",
+      "4685.88",
+      "4686.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-54\n質問番号 059 地図番号 080\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (10)\n項目名 あざになる\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )( )は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4676.42　シンダ（ブテシング・タタカレテシンダ; 等と用いる。シスという様な終止形はえられない。）\n4676.67　sinda（現在形基本形は sinu であろう。）\n4678.77　butji(ta)（終止形は butjiru であろうが得られなかった。）\n4684.77　sinda（死んだ? 連用形＋定？助動詞の形である。）(終止形は sinu かもしれないが、得られなかった。）\n4685.72　sinda　(sinu? 等の終止形はえられなかった。)／sinderu　死んだ、死んでる。\n4685.88　sinda（過去形しかないらしい）\n4686.96　sinu＜希、語感がわるいのであまり使わない。＞　butjiru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01854.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01854",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01854.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4687.37",
+      "4694.81",
+      "4694.95",
+      "4695.19",
+      "4695.21"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞〔　〕は厳密にする。\n\n日本言語地図資料用紙 注記一覧 18-55\n資料番号 059　地図番号 080\nA 普通注記\n[B 除いた共通語]　[C 除いた特殊語]　ページ (11)\n項目名　あざになる\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4687.37  budziru 〈色によつて kurobudzi akabudzi aobudzi とある。〉\n\n4694.81  シンダ\n　　　　アザンナル\n　　　　アザガデキル\n　シンダのは時間かたこば治る　可能性がある。\n　アザンデックのは治らぬ痕として残る。\n\n4694.95  ao: natta\n　　　　sinda\n　（青うなった　死んだ　何れも終止形は____なかった。）\n\n4695.19  シンダ（完了、過去形である。シム・シヌ等の現在終止形があるのかも知れないが、得られない。）\n\n4695.21  budjita  [ ] sinda\n　（ぶぢた（終止形はなかったかぶるさであろう）。あるつは連用形である。しんだも同様。死んだであろう。妻が答えた。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01855.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01855",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01855.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4696.82",
+      "4698.15",
+      "4700.37",
+      "4701.14",
+      "4701.73",
+      "4703.88",
+      "4711.49"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　18-56\n資料番号　059　地図番号　080\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (12)\n項目名　あざになる\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n4696.82　sinu (sinda) / sinagita (しなした) は、それぞれ連用形、未然形であろうか。\n4698.15　tfigajolu (血が寄る)\n4700.37　urumumu （他地方でウルムは、水泳などして寒く？ 屋を暑くしている状態にいう。）\n4701.14　butsidekjiru（人にたたかれたり、胸にぶつけたりしたとき。）\n4701.73　urumumu（ウルムという形では殆ど使わず；過去形。ウルンダが使われる。）　bu,sunuroe naru\n4703.88　büsukukoku nalu（アザではない。アザは生まれつきのものをいう。）\n4711.49　ブッスエロエナル（「ブス色ニナル」の意）　アガグナル　アザエナル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01856.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01856",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01856.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4712.16",
+      "4713.45",
+      "4715.33",
+      "4723.14",
+      "4726.80",
+      "4731.59",
+      "4732.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 18-57 質問番号 059 地図番号 080 項目名 あざになる A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (13) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] kuslokumzalum usumumu <これはアザがデヅルとはいかない。アザとはちがうから。> kulotsija joluu (＝三日でできているアザを kulotsi という。) kolotsüa jolüu (2は格助詞のがに当たる。) kurotsi jotta (過去) kulotsi joluu <bütšüdzi という名詞もあるが、これはヨルということばをつけない。> adze natta (この形しかなかった。) kurotsi jotta <この質問では、どうしても過去形しかひきだせなかった。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01857.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01857",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01857.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4736.63",
+      "4741.43",
+      "4742.37",
+      "4743.44",
+      "4744.32",
+      "4752.11"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙注記一覧 18-58 質問番号 地図番号 059 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (14) 項目名 あざになる。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\nbutsudzũnji naru <新> kurot­si joru <昔>\nadzai naru [adza deru]\nkufotsü jotta (現在形にあたるものは、使わない。これで現状を表わす。未来は～joppeである。)\nkufotji joru <はっきりいう場合>\nkurotsi dekilu <普通のもの> butfi dekilu <特に悪化しているもの>\nbudoero ni naru <ぶどう色になる意> kurotsï joru <黒血がよるの意> 両者とも同じ状態である",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01858.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01858",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01858.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "4753.52",
+      "4760.64",
+      "4760.98",
+      "4763.11",
+      "4763.45",
+      "4773.78",
+      "4781.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >( )[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 18-5.9 資料番号 059 地図番号 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (15) 項目名 あざになる 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 4753.52 kusotsü jotta (現在形をひき出せなかったので過去形をもって代用する。) 4760.64 adza ni naru (アザナルとはいわない。) 4760.98 a~zan naru <多> a~zaderu 4763.11 butzi deru (名詞は butsi) 4763.45 kosotsü ya jotta (黒血が落ったであろう。) 4773.78 kuronadzi ni naru <黒のみに使う> budziru <黒・赤色両方に使う> 4781.86 adza ni naru <普通> adza dekiru kurodzi tamaru <新> kurodzi ni naru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01859.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01859",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01859.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "4782.04",
+      "4782.96",
+      "4791.65",
+      "4792.43",
+      "5463.64",
+      "5472.91",
+      "5499.98",
+      "5508.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-60\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）は厳密にする。\n質問番号 059 地図番号 080\n項目名 あざになる\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (16)\n地 点 番 号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nbudziru ＜使ったことがない、まくことはまく。＞\nazan naru / kuroazzaninaru\nkurozasu ni naru ＜茄子の黒味を帯びた色になるらしい。＞\nmurasaki ni naru （普通このようには言わない）\n[biütjita]\nチョリガシタ（血寄り？）\nut(jikomete) jinda（終止形不明）\nアザ、ナル・デキル系は使わない。\nsin＜希＞\nkurozu ni naru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01860.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01860",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01860.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5529.77",
+      "5538.63",
+      "5565.12",
+      "5567.46",
+      "5574.79",
+      "5576.60",
+      "5585.09",
+      "5595.05"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-61 質問番号 059 地図番号 080 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (17) 項目名 あざになる 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5529.77 sinda (この s は多少口蓋化している) 5538.63 sindoru (単独動詞のことはえられず。) 5565.12 [シン] アザツク 5567.46 クロニイニナル <丁> クロニエル 5574.79 aza (dekiru, naru に相当するいい方なし。) 5576.60 siju (azza ga..., azza ni... に相当する言い方) simu はなく、左の二つですべてを表わす。 5585.09 uruyda (なかなか目的のものが出てこなかった。) 5595.05 dosuiro ni nariu <azza は生まれつきのものにしか使わぬ> (調査者が念のためにきいたところ、被調査者の答え。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01861.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01861",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01861.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5595.20",
+      "5603.35",
+      "5604.65",
+      "5606.83",
+      "5608.51",
+      "5609.26"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 18-62\n\n質問番号 059  地図番号 080\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (18)\n項目名 あざになる。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n5595.20  simiru (--- ga dekiru no 形は, でなかった。)\n\n5603.35  [sinda]  (妻が答え、被調査者も認めた。)\n[kuroku natta]\n\n5604.65  シンダ  (シヌという終止形があるのかどうか シンデル 不明である。)\n\n5606.83  sina; siteta (死なしてた？)、 but; teta (ぶっていた、跡点ができていた？)\n(終止形は得られなかった。 but; firu, simuと言う語があるのかもしれない。)\n\n5608.51  aifu <色が変わる意でこの場合にも用いる>\n\n5609.26  but; jime deru <こっちの方が病気のも合わせた感じ> a'za deru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01862.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01862",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01862.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5611.74",
+      "5611.81",
+      "5612.22",
+      "5612.39",
+      "5612.98",
+      "5613.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞＜（　）〔　〕は厳密にする。\n\n日本言語地図資料用紙注記一覧 18-63\n質問番号 059　地図番号 080\n項目名　あざになる\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (19)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5611.74　シンダドコガデキタ（死んだ所ができた、という形で答え、シメとか、テキルという形はえられなかった。）\n5611.81　utsimi no ato ga dekita（うちみの痕ができた。過去完了形連用形で答えた。）\n5612.22　[sinda]（最初 'aemati'(site ero ga kuro e) と答えたが、オニ者(被調査者の息子)がsindaと答え、被調査者もそれを認めた。sinu、sinuなどの形があるのか不明。sindaは連用形だった。）\n5612.39　シンダ（終止形は不明）\n5612.98　sintfi, jotta（死に皺寄ったか。joruという終止形は得られなかった。）\n5613.48　Sinderu（何れも連用形。sinda 終止形は得られなかった。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01863.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01863",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01863.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5615.78",
+      "5621.43",
+      "5622.48",
+      "5623.27",
+      "5623.42",
+      "5625.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 18-64 質問番号 059 地図番号 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (20) 項目名 あざになる 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] NR (butte murasakiiro ni natta 等という。) sinda (動詞。終止形はえられなかった。連用形に完了形の da がついた形であろう。過去 終止形は simu または simu なのであろう。) sigitʃi jotta (「死ぎ血奪った」であろう。死ぬは、か行四段に活用せるのであろう。) busutto eroni naru ([tija (sindaとも)]) sinda / sinde simau (シヌというような終止形はついに求められなかった。) ブチル (終止形がなかなか出なかった。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01864.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01864",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01864.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5625.91",
+      "5626.99",
+      "5628.66",
+      "5629.98",
+      "5632.28",
+      "5633.45",
+      "5633.81",
+      "5635.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-65\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n質問番号 059   地図番号 080\n項目名 あざになる\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  (2/1)\n\n（表見出し）\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\ntji ga jinu [bwtjimu]\nチガシヌ <ウマレッキ ガ アザ>\nクロナジミニナル <多>\nアザガデキル <多> [クロナジミニナル]\n\ntji ga jinda (終止形は補正調査においても得られなかった。)\ntji ga jinda (血が死んだ)\ntji ga jinda (終止形が求められなかった。)\nブタニナル <アザニナル トワイワイ>\n\n（右欄）アザニナル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01865.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01865",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01865.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5636.49",
+      "5636.74",
+      "5641.73",
+      "5641.94",
+      "5642.31",
+      "5642.67",
+      "5643.33",
+      "5644.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　18-66\n資問番号　059　地図番号　080\n項目名　あざになる\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (22)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）［］は厳密にする。\n表ヘッダ：地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nA欄（転記手書き）:\nナガシヌ <アザトワイワナイ.>\nナガシヌ <アザトワユワナイ.>\ntʃiɲa ʃinda <終止形不明>\n[busundo iro ni naru]\n[tʃiɲa ʃinu]\ntʃiɲa ʃinda (終止形は表われなかった。)\n[tʃiɲa ʃinu]\ntʃa: ʃinu (助詞がかtʃiに融合)\ntʃi: ʃinda (過去形ときにはこの形も現われる。)    busuto-iro ni naru\nナガシヌ <アトカラノワ アザトユワナイ>\n（页内罫線や表の区切りあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01866.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01866",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01866.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5645.27",
+      "5645.89",
+      "5646.12",
+      "5652.81",
+      "5654.94",
+      "5655.57"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 18-67\n質問番号 059    地図番号 080    A 普通注記    [B 除いた共通語] [C 除いた特殊語]\n項目名 あざになる    ページ (23)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5645.27  ナガシヌ ＜ニサン=ニサンニグライナラ ナガシヌ、ナガクナオラナイト、アザガデキル＞\n\n5645.89  ナガシヌ アザガデキル （この場合、赤いあざはないらしい。）\n\n5646.12  タガシヌ ブチャニナル ＜アザトワ イワナイ＞\n\n5652.81  [kurone ni naru]    (右欄手書きメモ)\n\n5654.94  ナガシヌ ＜アザトワイワナイ。ウマレツキノガアザダ＞\n\n5655.57  ナガシヌ ブチャニナル あざになるとは、いわない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01867.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01867",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01867.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5659.46",
+      "5661.34",
+      "5662.78",
+      "5663.01",
+      "5664.51",
+      "5664.58",
+      "5665.12",
+      "5665.46"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 18-68\n質問番号 059   地図番号 080\n項目名 あざになる\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (24)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nクロジ ヨル <普通>　　　　アザカ デギル\ntjiŋa ŝinda <そうなっちまったとき> (終止形は得られなかった)　　　kurone ni naru\ntjiŋa ŝinda (終止形は求められなかった。)　　　kurodzumiru\ntjiŋa ŝinda (終止形では、いわないらしい)\ntjiŋa ŝinda (終止形が求められなかったが tjiŋa shinguらしい。)\nナガシヌ <ホントノアザ ジャナイ>\nナガシヌ <アザワ ナオラナイモ>\nナガシヌ (多)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01868.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01868",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01868.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5695.47",
+      "5669.12",
+      "5669.19",
+      "5671.00",
+      "5672.75",
+      "5673.78",
+      "5674.11",
+      "5676.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）は厳密にする。\n日本言語地図資料用紙注記一覧    18-69\n（小欄） 資料番号 059  地図番号 080  A 普通注記  ページ\n項目名　あざになる。  [B 除いた共通語] [C 除いた特殊語]\n地・点 番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n5695.47   kurodzini naru （肉が死んだという意）\n5669.12   a(d)zaga dekçta（過去形）\n5669.19   aogü nattfta（azaとはいゆない..）\n5671.00   tfija finu ＜希＞            kurone ni naru\n5672.75   kurodzunda（kurodzundeという形と合わせて＝二つの形しかないらしい。）\n\n5673.78   [ebiiro ni naru]            tfija/sinu\n5674.11   ebiiro ni naru（ebiというのは山ぶどうのことである）\n5676.10   [tfija finu] ＜これでも結構でしょう＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01869.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01869",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01869.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5676.84",
+      "5678.59",
+      "5679.31",
+      "5679.86",
+      "5681.41",
+      "5682.92",
+      "5682.37",
+      "5686.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧        18-70\n資料番号　地図番号　059　080\nA 普通注記\nページ (26)\n項目名　あざに なる\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nアザガ・デキタ\nアザニ デッタ\n(質問により アザニナル アザガデキル)\n\naza ya deru <普通>                             azani naru\nac(d)zaya dekta (gaが予想されるが答えは〜)\naza ni narü [(荒) aza ga dekirü]\nkuroneru <kuroneta (過去形)>\n\nt'ija sjinda (ーsinuという形は求められなかった。)\nt'ija s'inda (終止形は求められなかった。)\n\nアザニナル (質問によって)                         アザガデキル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01870.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01870",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01870.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5687.32",
+      "5687.60",
+      "5688.01",
+      "5688.37",
+      "5688.86",
+      "5690.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧 質問番号 059 地図番号 080 項目名 あざになる A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (27) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C表した語形とその注] アザガデキル アザニナル （調査者の質問によって。） アザガ デル アザガ デキル アザニナル 〈アザ…消えないもの。シミ…はれて、残ったもの。〉 アザガインチャッタ （終止形はなかった。インチャッタは、ハッタの意味と説明あり。） アザガデテール（アザガデテールをどう質問してもアザガ デル(感じらこうなるだろうか)にならなかった。） アザニナル（質問による答） アザニナル＜多＞ アザニナル＜古＞ （音は、両方とも使われ方は同じ位。） [kuroneru] tji ga finu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01871.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01871",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01871.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5693.78",
+      "5695.10",
+      "5695.47",
+      "5696.68",
+      "5699.42",
+      "5712.70",
+      "5722.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-72\n\n資料番号 059 地図番号 080\n項目名 あざになる\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (28)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5693.78　シンギル〈多〉\n5695.10　シンギル〈アザ＝ナルという場合はあとが残る時使う。〉\n5695.47　kurodzini naru〈肉が死んだという意〉\n5696.68　adza pi naru〈多〉\n　　　　tfjya finu〈〉　（新・古、その他不明）\n5699.42　budo:iropi naru［使わない］　azzapinaru\n5712.70　butjiru［butjiteiru］［but(j)ga deru］\n5722.37　budziru〈新〉　kuronadzimi ni naru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01872.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01872",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01872.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5731.13",
+      "5731.29",
+      "5732.73",
+      "5733.02",
+      "5741.66",
+      "5742.65",
+      "5750.84",
+      "5751.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-73\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n(右上欄) 資問番号 059 地図番号 080 項目名 あざになる A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (29)\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n5731.13 (agagū natterū) (aza ga dekiru というような言い方があるかどうか不明)\n5731.29 [bundoero ni naru]\n5732.73 [kuronadzimi ga dekiru]    butfimi de erozakawaru (難解な手書き）\n5733.02 najimini naru (男女間の「ナジミになる」と同語)\n5741.66 akanazimi n naru (<少い、現実に赤アザはすくない>) aonazimi n naru\n5742.65 künazimi n natta (過去形)\n5750.84 ブチがデキル (<大きい部分が変色した時>） クロナジミがデキル？ クロナジミニナル（小さい部分が変色した時り）\n5751.60 aonadzimi ga dekiru <多> budzime ga dekiru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01873.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01873",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01873.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5760.57",
+      "5761.91",
+      "5770.11",
+      "5770.46",
+      "5770.57",
+      "5771.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-74\n質問番号　059　地図番号　080\n項目名　あざになる。\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（30）\n\n（表見出し）\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\na(d)za dekçta\naonazjimi n natta } (過去形)\n\naonazjimi ya dekçta (過去形)\n\naodza\naonazjimi } (名詞形)\n\naona(d)jimi n narü (誘)\n\ndodomeero ni naru ＜大きな部分が色がかわる＞\naonazjimi ni naru ＜色のかわった部分が小さい時＞\n\naãdza n natta\naona(d)jimi ni natta } (過去形)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01874.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01874",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01874.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5772.00",
+      "5780.11",
+      "5780.57",
+      "5790.03",
+      "5790.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧     18-75\n質問番号 059    地図番号 080\n項目名 あざに なる。\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (31)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈　〉〈　〉（　）は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n5772.00    NR. <azaとは言わない。何というかは忘れた。>\n5780.11    dodomeero n natta (過去形, 「アザになった」より「紫色になった」にあたる。)\n           a(d)zan natta (過去形)\n5780.57    aona(d)jimi ni natta (過去形)\n5790.03    nazimi ya dekiru (nazimiの前に、黒とか赤とかの色を付けていう。例 kurozajimiへ)\n5790.39    nazimi ya dekiru (普通 nazimiの前に黒とか赤とかが付いて使われる。例 kurozajimi ya dekiru)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01875.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01875",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01875.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5790.79",
+      "6267.68",
+      "6267.84",
+      "6349.67",
+      "6277.62",
+      "6368.59",
+      "6369.32",
+      "6385.98",
+      "6401.89",
+      "6404.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-76\n質問番号 059　地図番号 080\nA 普通注記\n項目名　あざになる。\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形 [B・C 残した語形とその注]\n5790.79　nazimi ga dekiru / kuronazimi ga dekiru　(nazimiの前に黒とか赤とかの色を付ける。もっとも普通には kuronazimiを使う。)\n6267.68　NR.　適当な語なし。 aozumuku <?>\n6267.84　NR.　<ao:nat (y-?) ぐらい.>\n6349.67　シーイッタ <希>　4がヨッタ\n(取り消し線の番号あり)\n6368.59　NR.（分らない）\n6369.32　シニイル <シニイッタ>\n6385.98　シンダ（死んだの意。他の形が出ない。）\n6401.89　アザガエル（エル＝入る？）\n6404.83　シンダガヨッタ（死んだ血が寄ったの意）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01876.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01876",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01876.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6406.77",
+      "6407.28",
+      "6408.15",
+      "6408.88",
+      "6411.66",
+      "6413.43",
+      "6414.25",
+      "6415.78",
+      "6420.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-77\n質問番号 059   地図番号 080\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (33)\n項目名 あざに なる\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6406.77    otjitji gajoru <アザは自然にできたものをいう>\n6407.28    ナサマブロオナル <一般>                                 アザニナル\n6408.15    タマメガ テケル <少さいとき>\n           シヌル <大きいとき>\n6408.88    シヌル <天ヌルとか色がカワルとかいう。>\n6411.66    シニル <シニタ・過去>                                 シミガ デキタ\n6413.43    jimin' narü (しみに なる -> しみんなる)\n6414.25    sinda (sinu の過去)                                   tjimamega dekiru\n6415.78    tjifjimaguro ni naru <多>                            kutifiru\n6420.58    シニッタ <古>                                      ナガーニジム",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01877.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01877",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01877.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6421.79",
+      "6422.16",
+      "6423.86",
+      "6424.20",
+      "6424.92",
+      "6426.04",
+      "6426.47",
+      "6436.33",
+      "6437.94",
+      "6523.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-78\n質問番号 059 地図番号 080 A 普通注記\n項目名 あざになる ページ (34)\n\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜＞()[]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n6421.79  jimiiruu (アザガー....とはいわず、シミイル、シミッタナー などということ。)\n      （右欄） チガニジンダ\n6422.16  シニッタ〈希〉\n6523.86  jimi ni naru <aozimiなどという>  （取り消し線）\n6424.20  kurokuziru (珍しい言い方。過去はクロクジタという。)\n6424.92  クロクジル（古） クジル（新）\n\n6426.04  tifimaguroi ni nattoru (ナナマグロイのイは正確。)\n6426.47  kudziru cf. くじく heragaeru\n6436.33  kuriru (動詞)\n6437.94  シヌル〈普通〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01878.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01878",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01878.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6439.01",
+      "6439.77",
+      "6443.03",
+      "6447.39",
+      "6447.84",
+      "6448.23",
+      "6448.61",
+      "6449.33",
+      "6457.18"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　18-79\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n\n質問番号 059　地図番号 080\n項目名　あざになる\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(35ページ)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6439.01　？シヌル　　シヌ\n6439.77　シンドル（シヌ）　ウタコモリ\n6443.03　kuroku zitta（過去形）\n6447.39　fukuroutjinnnaru＜範囲狭し＞　murasakiironnaru＜範囲広し＞\n6447.84　シンドル（シヌ）\n6448.23　[アオジム]\n6448.61　シンドル（シヌ）\n6449.33　シンドル（シヌ）\n6457.18　シンデル（シヌ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01879.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01879",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01879.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6458.26",
+      "6458.91",
+      "6459.29",
+      "6459.52",
+      "6459.87",
+      "6469.77",
+      "6479.26",
+      "6481.15"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-80\n質問番号　059　地図番号　080\n項目名　あざになる\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(36)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞〔〕は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6458.26　アザガデキタ <古>\n　　　　シンダ <アオニ シンドオとも言うか、こちらが日常語。>\n6458.91　チマメガデル <内部出血、重症>\n　　　　シヌ <軽症>\n6459.29　シンドル（シヌ）\n6459.52　シンダ（シヌ）\n6459.87　ウチゴモリカ・デキル <大きなけがで内出血した場合>　シヌ\n6469.77　ウチゴモリがデキタ（…デキル）\n6479.26　ウチゴモリ デトル（…カデル）\n6481.15　チガヨッタ（赤い時）、アオジニンナッタ（青い時）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01880.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01880",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01880.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6481.56",
+      "6482.04",
+      "6482.52",
+      "6484.78",
+      "6485.14",
+      "6489.27",
+      "6489.81"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 18-81 質問番号 059 地図番号 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (37) 項目名 あざになる。 地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］ 6481.56　シンダ〈アオジニ、アカジニ…になったという。〉 6482.04　NR.〈? ウタミ、ナマメ 自信なし。〉 6482.52　aozimi ga dekiru（青みがかった程度） kurozimi ga dekiru（強くうったので、黒くなったの。） 6484.78　シニール　シニットル、シニットル、シニンタガの シニール ようにいう。シニールという終止形は実際にはない。その時はシニールである。 6485.14　シンニイル（坂丸では、シニイルといわず、シンニイルという。） 6489.27　アザニチッタ〈アザではないのだから、アザの如くなったの。アオジメがデキル 意味で、比喩的にいうのである。〉　アオジメガデキル 6489.81　クロジニチッタ（…ナル）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01881.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01881",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01881.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6491.49",
+      "6492.11",
+      "6494.08",
+      "6500.83",
+      "6500.88",
+      "6505.60",
+      "6509.43",
+      "6512.09"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の＜ ＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 18-82 質問番号 059 地図番号 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (38) 項目名 あざになる。 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注] aoji ga iru （海岸部の大浜部落では kipo:o ともいっている。） aoji ga ita ＜名詞形 utfigomori＞ シンニイル ＜シンニットルという形でいうことが多い。＞ シニイル シンダ（多） シヌ suijiru（お孫さん（小3年・男）がそばで sujimiru だという。） kurozini / jinu ＜人によっては使う＞ zijjuronaru ＜この方が方言、古＞ （今では両方とも使う。） クロニケル ＜本当は、クロニエルだが＞ aza ga dekiru（左二つとも、ネミ者の示唆に属うところ多し。） aozimi ni naru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01882.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01882",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01882.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6512.14",
+      "6512.67",
+      "6514.38",
+      "6521.20",
+      "6521.94",
+      "6522.03",
+      "6522.37",
+      "6522.79",
+      "6523.06"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 18-83\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞［］は厳密にする。\n\n質問番号 059    地図番号 080\n項目名　あざになる。\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (39)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6512.14　sipitta（過去形）\n6512.67　gundaeronnaru ＜何がデキルとは言わない..＞（グンダは葡萄の小さいような植物の名）\n6514.38　kurozini jinda（jinuが終止形らしい..）\n6521.20　jinda～jindoru（過去形～継続形）＜jinu＞\n6521.94　アオジンダ（シヌという形がわずかに認められるらしい..）\n6522.03　シンダ・「アザニナル」ことを「シヌ」という。\n6522.37　シンドル＜やや新＞　シンドル\n6522.79　ウチナガーマワッタ。チヅは生まれつきできているものという。\n6523.06　gundairo ninaru ＜gunda. 木の名。ちょうど gundan 木をみるのぞ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01883.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01883",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01883.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6523.86",
+      "6532.30",
+      "6532.89",
+      "6532.93",
+      "6533.36",
+      "6534.85",
+      "6536.39",
+      "6536.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〔〕は厳密にする。\n日本言語地図資料用紙 注記一覧 18-8-1\n質問番号 059  地図番号 080\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (40)\n項目名 あざになる。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n6523.86  simini naru <aozimi などという.>\n6532.30  シンドル <多>    シヌ\n6532.89  シンデル　「死んだ」等の形をよく用いる。\n6532.93  シヌ　'アザ'ということばは、（...）用いる。いいは「オメ／カオ」ソコ　シンダナの如く使う。\n6533.36  sindaru・「あざ」になった状態をいう。\n6534.85  sinu <iro ya- は省略する場合が多い。>\n6536.39  [kurozi ni natta]（カミ者の助言で、被調査者ヒザ もらって承認。）\n6536.68  akanattoru〈色によってこのように言う。aonattorum〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01884.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01884",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01884.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6537.58",
+      "6538.02",
+      "6539.78",
+      "6541.27",
+      "6541.52",
+      "6542.58",
+      "6542.27",
+      "6542.32",
+      "6542.71"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 18-85\n資料番号 059   地図番号 080\n項目名 あざになる\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (41)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6537.58  tigazinda (現在形が出なかった。)\n6538.02  kuroneita (現在形もあると思われる。)\n6539.78  kurozinda (過去形しか得られなかった。)\n6541.27  シンドル [シヌ]\n6541.52  ウチコモリ (名詞)\n6542.58  ムラサキイロ = シンダ ・アザというコトバはなまれつきのものに使う。\n\n6542.27  シヌ <や・古>    アザがデギル\n6542.32  シヌ <少>       シンドル\n6542.71  jinda - 終止形は使わない。やえに jinu か jimu か わからぬ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01885.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01885",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01885.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6543.05",
+      "6543.56",
+      "6545.41",
+      "6545.88",
+      "6546.73"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ()[] は厳密にする。\n日本言語地図資料用紙 注記一覧　18-86\n質問番号　059　地図番号　080\n項目名　あざになる\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] ページ (42)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6543.05　チカシヌ　普通は「チカシンダ」という形で用いる。\n6543.56　アオジンダ。アオジヌという現在形は、余り多くない。大てい、アオジンダ形が用いられる様である。\n6545.41　sinu (hobeta ga jinda, もしくは hobetaga jindaru のように現在まで継続している状態についての言い方。にっけつの言い方はすぐ答えたか……。全質問を終えてから得た答えである。)\n6545.88　kurodzi ni naru　〈色が黒い時には、こういうが、赤くなっている時などは akko: natta nara: などという。〉\n6546.73　kurodzini naru　aodzini naru　〈色によって違う。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01886.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01886",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01886.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6547.79",
+      "6548.26",
+      "6549.03",
+      "6550.13",
+      "6550.96",
+      "6551.18",
+      "6551.20",
+      "6551.52",
+      "6553.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< () [] は厳密にする。 日本言語地図資料用紙 注記一覧 18-87 質問番号 059 地図番号 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (43) 項目名 あざになる。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] tʃiɟa ʃinda （現在形を得られなかったか、現在形もあると思われる。） tʃiɟa ʃinda （現在終止形を聞きとることができなかった。） tʃiɟa ʃinda （終止形を得ることができなかった。） シンドル（シヌ） シヌ ウチゴモリガ デキタ（...デキル） シンダ＜シニ＝カデキルとは言わない。＞ ウチゴモリ（名詞） シヌ シンデイル、シンデル（どうなる、何ができるという形式の）（表現はないとのこと。） 20: jindaru（「青く染んである」の意か？）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01887.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01887",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01887.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6553.83",
+      "6554.08",
+      "6554.45",
+      "6554.88",
+      "6555.31",
+      "6557.14",
+      "6557.36"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-88\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号 059  地図番号 080\n項目名 あざになる\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (44)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n6553.83  aozimu <そのような状態であること。『アオジンダル』という。>\n6554.08  シグロオナッタ <「しばがれて、黒うなった」の意だろう。>\n6554.45  jinuru <アゴノトコ、シンデルナというように言う。> (あごの所、死んでいるなあ。)\n6554.88  sindeiru (名詞形なし。)\n6555.31  kurozini jinuru (kurojini jinuru ではないように思った。)\n6557.14  aoziri ni nattoru (終止形…naruを得ることができるか分らなかったが、この形もあるものと 思われる。)\n6557.36  [tʃira ʃinda]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01888.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01888",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01888.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6558.09",
+      "6558.10",
+      "6558.37",
+      "6559.22",
+      "6559.46",
+      "6560.22",
+      "6560.40",
+      "6561.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 18-89\n質問番号 059    地図番号 080\n項目名 あざになる\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (45)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n\n6558.09  tija sinda (現在形は得られなかった。)\n6558.10  mija finda (終止形 mija finu を得ようと努力したが、うまく得られなかった。)\n6558.37  tija sinda (現在形をいうことができなかった。)\n6559.22  ? tija sinu\n6559.46  tija sinda (現在形もあると思われるが、この間のかぎりでは直接回答を得ることができなかった。)\n6560.22  シンドル [シヌ]\n6560.40  ウサゴモリ チットル (---- = ニヌル)\n6561.49  シンダ <女の場合>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01889.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01889",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01889.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6562.48",
+      "6563.84",
+      "6564.33",
+      "6564.51",
+      "6566.51",
+      "6566.89",
+      "6569.12",
+      "6571.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧　18-90\n\n質問番号　地図番号\n059　　　080\n\n項目名　あざ　に　なる。\n\nA　普通注記　　(B　除いた共通語)　(C　除いた特殊語)　ページ（46）\n\n地点番号　　A　語形とその注記　[B・C除いた語形とその注]\n\n6562.48　シングルヨオニナル　（「死んであるように成る」か「衰えてあるように成る」か、不明。被調査者は前者ではなかろうかという。）\n6563.84　sinda（終止形は不明）\n6564.33　sinderu　{どちらも使うが上は文の終止の時に用いる。}\n　　　　sinda（「アザがデキル」などの形はない。）\n6564.51　ao: findoru　〈肌の下の内出血に対しては「チマメガデケタ」という。〉\n6566.51　N.R.〈nagurareta ato ga dekitoru ともいう。〉\n6566.89　sinda（青黒くなった部分についての名称はないようである。）\n6569.12　tji ya sinda（現在形不明）\n6571.15　シンデル（「死んでいる」なるべし。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01890.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01890",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01890.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6572.22",
+      "6572.29",
+      "6572.97",
+      "6573.71",
+      "6574.06",
+      "6575.17",
+      "6575.40"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 18-91 資料番号 059 地図番号 080 項目名 あごになる。 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (47) 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6572.22 シンダル（シンデアルの約。人によってはシンドルという。） 6572.29 sinderu〈爪などに生じた、ごま粒大の内出血を「チマメ」という。〉 6572.97 ne:ru（「アザがデキル」のような形式のものはない。） 6573.71 aojindoru（「アオジンドル」とは「青く染まっている」意であろう。） nietoru（語源・不明） sindoru timame ga dekiru 6574.06 sindoru（「アザガデキル」のような形はない。） 6575.17 シヌ〈ナグラレテ シンドル という。〉 6575.40 [sinda]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01891.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01891",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01891.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6576.32",
+      "6581.36",
+      "6581.52",
+      "6581.68",
+      "6583.93",
+      "6585.25",
+      "6591.02",
+      "6593.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく><[]は厳密にする。\n日本言語地図資料用紙 注記一覧 18-92\n質問番号 059    地図番号 080\n項目名 あざになる\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (48)\n\n（表ヘッダ） A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\nsinitfi ni naru <sinitfi は死に地の意味である。>\nアオニ＝ネエル <ていねいに言うときに用う。>　ネエル\nニエル <色が青い時に、アオニ＝ニエルという>\nニエルくできたものは、フクロウチという。\nkuronijeru <くさ>　kuronieru\nシヌ <ナグラレテ、シンドルというふうに使う。ふくれた時はコンブがデギルという。>\nネエル（＝ニエルという人もある。）\nkuronieru <黒煮えるの意> cf. イロリであたって付く赤い火だこのことは amame という。そして amamen tsuku と言う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01892.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01892",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01892.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6593.98",
+      "6595.90",
+      "6600.97",
+      "6603.82",
+      "6604.98",
+      "6605.84",
+      "6607.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉()[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-93\n質問番号　地図番号\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(49)\n\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nkuropieru　〈「クロニエル」に対して，「血豆ができる」ことを[tjindamaru]という。〉\njiguromu（名詞形なし。）\nkurojimu　〈kurojimuとは言わない。〉\n　kuroji ni naru　tji ja suntu（手書きのローマ字表記）\nシニギル（ルの子音はn。）\nシニイル〈程度がひどい。〉　クロズミイル\nシニイル〈何かにシシガレテ（はさまれる）、色がかわった時使う。〉　クロジニナル\ntfj a sjinda azazni naru（ローマ字表記）\n\n〈血が死んだために結局あざになるのだ〉という。上は、内出血した皮膚の色に注目したもの、下は、それが固定した形になることに注目したものであろう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01893.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01893",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01893.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6609.02",
+      "6610.77",
+      "6611.68",
+      "6613.07",
+      "6613.77",
+      "6613.97",
+      "6616.22",
+      "6620.53"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 18-94\n資料番号 059    地図番号 080\n項目名 あどに なる。\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (50)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6609.02    murasakini naru\n           cf. aza <残った跡のこと>\n\n6610.77    kurosinda (終止形は聞けなかった。)\n\n6611.68    kurosinda <希> / kurusinda\n           ( -mu という終止形は求められなかった。)\n\n6613.07    シギッタ <死にいたの意味である。>\n\n6613.77    シニル <アザがデギルよりは、軽い場合である。>    アザ ガ デギル\n\n6613.97    tjiya siju  ウチミは utfikizu\n\n6616.22    tjiya sinu <生まれつきのものには、こう言わない。>\n\n6620.53    kurusinda (終止形は表われなかった。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01894.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01894",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01894.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6621.57",
+      "6623.53",
+      "6630.58",
+      "6631.60",
+      "6632.64",
+      "6633.33",
+      "6634.33"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-95\n\n資料番号 059　地図番号 080\n項目名　あごになる。\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (51)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6621.57　kurojimu (kurojimi — 名詞形)\n6623.53　tija sinu <茶>\n6630.58　kurozi ya jinda　(どうしても現在形をうることができなかった。しかし現在形もあるのではなかろうか。）\n6631.60　tijna sinu　大きなおどのてきたとき。　kurozin sinu　（ともに「すまめ」とは別。）\n6632.64　kurodzümiri iru <2>　tijna jinda <b>　（<a>となるのは<b>だから…という。なお、<b>は死んだか、来んだか不明。）\n6633.33　kurozumiru <多>　　　　aza ni naru\n6634.33　kurozimiru　　　　名詞形なし。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01895.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01895",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01895.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6635.20",
+      "6640.29",
+      "6640.76",
+      "6641.82",
+      "6643.15",
+      "6643.72",
+      "6648.23"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 18-96\n\n質問番号 059　地図番号 080\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (52)\n\n項目名　あざになる。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6635.20    kurozumi ni naru (動詞 kurozuminu)\n6640.29    tjiya sjinda <足をうって青黒くなったとき>　kurozija sjinda <打って、あと黒くなったとき>\n6640.76    tjiya sinu (tjiya sjinda という答えを得たが「現在のことなら、tjiya sinu といっても良いか？それとも変か」という両家の問いに対して「変でない」という回答を得た。)\n6641.82    tjiya sinnu <希>    tjiya sjinda\n6643.15    kurozumiru (名詞形なし。)\n6643.72    kurozumiru <多>　語尾は kurozumi    azan naru\n6648.23    aza ga dekiru (kurozumim dekiru 調査者の妻。50才位。工地生まれ。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01896.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01896",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01896.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6650.70",
+      "6655.51",
+      "6657.54",
+      "6665.01",
+      "6677.41",
+      "6700.48",
+      "7208.97",
+      "7238.82",
+      "7239.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-97\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >〈 〉は厳密にする。\n\n質問番号 059　地図番号 080\n項目名　あざに なる\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (53)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6650.70 azani naru 〈みけんと鼻のゆきのしだり、こういう。〉 tijna jinda\n6655.51 kurojimu (名詞形が出なかった。)\n6657.54 nasuiro ni naru 〈茄子のような色になるから〉\n6665.01 kurojinru (名詞形は出ない)\n6677.41 tijyomorinnatta <tijyomoriは血が籠る> ということ。\n\n6700.48 nazimi ga dekiru 「ナジンダ」ともいう。\n7208.97 kurogen iru (iru は il にもきこえる)\n7238.82 kurogja: no iru <赤ん坊の尾の青いのについてもういう>\n7239.41 kurogja: no iru (黒点が入る)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01897.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01897",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01897.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "7239.85",
+      "7246.45",
+      "7266.60",
+      "7275.07",
+      "7303.29",
+      "7312.11",
+      "7320.59",
+      "7322.21",
+      "7332.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-98\n質問番号 059 地図番号 080\n項目名 あざになる\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (54)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注]\n7239.85 ヅグロオ ナルー (dzuguro:) (ヅグロオナルのヅは dzu で) は濁音である。\n7246.45 kurojin nar (nは「に」に当たる助詞)\n7266.60 tjimamen joru (jou は jo とすべきか。)\n7275.07 クロズンノイル 黒味が入るの意\n7303.29 NR <わからない> ここ不確解\n7312.11 aozumi ga deketa (it: a ともいう)\n7320.59 aozu:da (青ずんだである)\n7322.21 tjimameno deketa (過去) <大きなものにはいかない。手の指などの小さいものについていう。>\n7332.97 aozui joru (多)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01898.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01898",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01898.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "7338.48",
+      "7339.27",
+      "7349.07",
+      "7349.86",
+      "7350.21",
+      "7351.06"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＜＞( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 19-1 質問番号 地図番号 059 080 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (55) 項目名 あざになる 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7338.48 utsitam e n naru (強くつつと、その部分に血がたまり、赤くなったのは, tjimameとい う。 共通語のtjimameよりも大きい 時もあるらしい。) 7339.27 aozi ga iku <aozi ga it:oru> などという。 7349.07 utsitam e ni naru <utsitame n natta-ken tijo nuka-na iken などという。> 7349.86 aozuitoru ga ziki naoru (こういうふうにいって、特別な言い方はしない曲) 7350.21 tjimame no deku? <大きいのはフトカチマメである。> 7351.06 kurodzi no joru (黒血のよう)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01901.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01901",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01901.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "7352.61",
+      "7353.03",
+      "7355.48",
+      "7359.78",
+      "7363.12",
+      "7373.92",
+      "7374.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 19-2\n質問番号 059　地図番号 080\n項目名　あざになる\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (56)\n（表見出し）A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\nAORU　(アオルル ゴッツ 打タレタの様な受身形の用語形は引きし得たが、受動詞形は引きし得なかった。クロナノヨッタのクロナは豆豆のことだという。)\naoru (動詞である。過去 = aoreta)\nnijuru (アザに当たる名詞形を直せもしない..)\nN.R. (はじめ、tjimareといったか、ただしこういううちに、ひどくなぐられたの意味のとりちがえであることがわかった。)\nクロチノヨル (はじめ、ミズバレノスルを後で訂正する。)\n<[クロナ]ヨル>\n[ズグロジミ スル]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01902.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01902",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01902.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "7377.72",
+      "7381.97",
+      "7382.58",
+      "7382.97",
+      "7385.84",
+      "7386.63"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく< > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 19-3\n質問番号 059   地図番号 080\n項目名 あざになる\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (57)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7377.72    kurozin ni naru --- 黒色の場合\n           aozin ni naru --- 青色の場合\n7381.97    アオナル（調査地点の少し南の数部落ではドクロオルを用う。）\n7382.58    [アオナ] ヨットル    アオオ チットル\n7382.97    ヤモオダ（過去形？現在形を求めようとしたが、引きする事ができなかった。ヤモオドレというかというとそういういう答えであったが、原形それがはっきりしない。）\n7385.84    kurozin s;itoru <他人の時>\n           kurozin naru <自分の時>\n7386.63    zugurozin ga s;itoru (-ni nattoru)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01903.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01903",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01903.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "7390.75",
+      "7394.60",
+      "7395.09",
+      "7400.15",
+      "7401.60",
+      "7403.86"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。 ・その中での情報は地点番号順に並べる。 ・注記の＜ ＞（）［ ］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 19-4\n調査番号 059 地図番号 080\n項目名 あざになる。\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (58)\n\n（表見出し）\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nヤノヨル（「ヤ」とは藍（か）のことであろう。『ja（藁）』う植え／夕作ったり音はシトッタというように、この土地ではいうから。）\n\nズグロジミスル〈やゝ〉\n（右欄）クロチノヨル\nズグロ＝エスッ\n\nkurozin sita （多）\nkurozi ga deketa <グ>\n\nkurozi ni ita（azaとは言わない由である。）\n\nN.R.（aoziniが南の3地帯ではあるが、答えが出ない。現象は、わかっている。）\n\nkuropieru（〈kurozie-ta〉などという由。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01904.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01904",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01904.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "7404.12",
+      "7404.56",
+      "7411.61",
+      "7412.31",
+      "7412.71",
+      "7415.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[]は厳密にする。\n日本言語地図資料用紙注記一覧    19-5\n（箱） 資問番号 059   地図番号 080\n項目名　あざに　なる。\nA 普通注記   [B 除いた共通語]   [C 除いた特殊語] ページ (59)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7404.12    sini itia\n           aozi ni itia\n           （できる状況、できた度合などに依りなく、両方のいい方を、その時の思い浮ぶ自然で使う曲。sini iru とは言うか、aozi ni iru はいやなり由。）\n\n7404.56    aozi ni itia　＜程度のひどい時にいう。＞\n           sini iru\n           sini-itia\n\n7411.61    kurozi pi naruk　＜強く打って、あとの黒くなったもの。＞\n           pieru　＜mieru→mieta は打ったあとが、青味がかっている様。＞\n\n7412.31    siniru　（— がデキタを sijitta という由。）\n\n7412.71    kurozi gaiku　＜濃く、黒みのかっているもの。＞\n\n7415.47    kutşimiru　＜多＞\n\n（余白右下手書き） tsi ga jinuru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01905.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01905",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01905.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "7420.18",
+      "7420.91",
+      "7421.62",
+      "7422.26",
+      "7423.77"
+    ],
+    "other_text": "日本語音語地図資料用紙注記一覧 19-6\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n資料番号 059　地図番号 080　項目名 あざになる。\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (60)\n\n表ヘッダ: A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き注記:\naozin naru　<ぐざ、太さ、色などに変りはない>\naopien naru　<色のちがいでいう。>\nkuropien naru\n\nNR（忘れているようであった。孫娘（中学1年）は aonie pi naru という由である。）\n\naopie pi naru　<色によっていうわける>\nkuro pi naru　（助詞の pi は わ と発音されることが多い。）\n\nnieru　（nietoruと言うように状態性で言う）場合が多い。\n\n[kut'simiru]　（フクロウケニスルという言い方もあったが、これはあくまで能動的な言い方である。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01906.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01906",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01906.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "7423.80",
+      "7427.24",
+      "7427.90",
+      "7430.15",
+      "7431.08"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉〔〕は厳密にする。 \n日本言語地図資料用紙　注記一覧　19-7\n資料番号　059　地図番号　080\n項目名　あざになる\nA　普通注記　[B]　除いた共通語　[C]　除いた特殊語　ページ（61）\n\n（表見出し）地点番号　A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n\nsiniiru（「死に入る」か）\ntigajoru　血がよる（集まる）の意\nao:naru（いささか苦しさという感じ）\ntigajoru（あとで考えます。）\nnieru　<kuro: ni mieta などという。>\nkuro nie ni naru（〈kuro nie n natta, neko n doru, nieta〉などという由。niekomuは、めり込みに車輪がめりこんだのを、〈kuruma ga niekomu da〉というように、〜ということをいうのである由。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01907.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01907",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01907.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "7431.13",
+      "7431.67",
+      "7432.44",
+      "7433.37",
+      "7436.40",
+      "7436.68",
+      "7440.72"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 19-8 資料番号 059 地図番号 080 項目名 あざになる A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (62) 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） kuropie ni naru aopie ni naru （色の程度によって言い方が変わるとのこと。） siniiru（＜ココガ シニイック＞など。） siniiru シニイッチュー などと使用する。 [kutɕimiru] aozuku [aõdⁿuku] kuromiru kuromit:a (or kuromit:(soh)) のように使う場合が多い。 utfidame ＜utfidame sita などという。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01908.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01908",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01908.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "7442.75",
+      "7460.23",
+      "7460.39",
+      "7470.29",
+      "7471.38",
+      "7500.24",
+      "7500.66"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　19-9\n質問番号　059　地図番号　080\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (63)\n項目名　あざになる。\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7442.75　tɕimame ga deru　＜比較的小さい場所＞\n　　　　aozuku　＜比較的大きい場所＞\n\n7460.23　tɕimame ni naru　（鎖などで）なくなる場合。\n　　　　（この質問の冒頭に「鎖なるどで」をつけ加えた方が被調査者によく\n　　　　わかってもらえるようだ。）\n\n7460.39　iron tsuku　iron は「色が」に該当。\n\n7470.29　[tɕimame ga dekiru]　utimi ga dekiru\n\n7471.38　tɕiga joru\n\n7500.24　ニエル　＜青に＝タラ、アオニエという。＞\n\n7500.66　ニエル＜アザがデキルとはいわない。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01909.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01909",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01909.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "7502.91",
+      "7503.48",
+      "7510.18",
+      "7514.21",
+      "7521.16",
+      "7533.11",
+      "8300.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-10\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n質問番号 地図番号 059 080\n項目名 あざになる\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (64)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n7502.91 ニエル <そのところをニエチという。>\n7503.48 kuromu <多> kurozumu  ちょっとふくれる方は tjidamaruという。\n7510.18 アダニナル (アダはアザの説。)\nフクロウチ デギル <ニエチ(血)が寄って血が固まったときにいう。>\n(全般などで手をまおり折った時などに血が寄り固まったものが、フクロウチである。)\n7514.21 kuroneru (動詞形は kuroneru, 名詞形は kuroneda.)\n7521.16 フクロウチ デギル <フクロウチスルという人あり。> ニエル\n7533.11 =ニコロブ <希> ニエル\n8300.25 tjino joy (tjina jottoy) のようにいう.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01910.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01910",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01910.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "8300.87",
+      "8300.80",
+      "8301.76",
+      "8302.19",
+      "8302.91",
+      "8303.47",
+      "8303.84",
+      "8305.40"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-11\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[ ]は厳密にする。\n\n質問番号　地図番号\n059　080\n項目名　あごになる。\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (65)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]\nA注のない語形 [B・C 残した語形とその注]\n\nja no joru (jaは血の義らしい。つまり、jaがより集まること。)\n\nヤンショドイ　[ヤ]とは＜薬物の薬料＞だという。アキのこと であろうか。\n[ショドイ]は＜染んでいる＞ということらしい。\n\nクロチノヨンタ (現在形はたしかめてない。)\n\nズグロナル とも (藩に古から用いる。) ニュル\n\nゾグロ＝ニュル (dzu〜)\n\nナノ＝ニエタ (過去形しか行なわれていない。)　ウドクロオナル\n\nウズグロオナル (udzugro:naru)　ウドクロオナル\n\nkurozin fita (~ni naru)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01911.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01911",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01911.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "8306.42",
+      "8310.87",
+      "8311.63",
+      "8315.42",
+      "8315.46",
+      "8322.68",
+      "8325.77",
+      "8332.59"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 19-12 責問番号 地図番号 059 080 項目名 あざになる （66） 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 8306.42 kurozimda (kurozimitaの撥音便と思われ、従って kurozimは動詞である。) 8310.87 tsugurozin no iru (iruは入るせ。) 8311.63 tsukurozih ga it (itは「入る」である。) tsukurozin ga dekut 8315.42 pieta (過去形) 8315.46 kurozin dzoru (kurozin ga dekuru などには余りかゝる。) 8322.68 tsuguro ga it (itは入る。) 8325.77 tfimame ga deta (小さいのをいう。) kurozin jitoru (普通=水を多く使う。) 8332.59 tsuguozig ga det (detは出るせ。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01912.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01912",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01912.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "8333.03",
+      "8334.63",
+      "8342.51",
+      "8352.92",
+      "8353.68",
+      "8373.43",
+      "9312.42",
+      "9322.52",
+      "0247.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n\n日本言語地図資料用紙 注記一覧    19-13\n\n質問番号 059    地図番号 080\nA 普通注記  （B 除いた共通語） （C 除いた特殊語）\n頁（67）\n項目名　あざになる\n\nA 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\ntsugurozin ga sita （終止形ヲケなかった。）\ntsuguruzin ga sifoi （シチョルの語尾ルは1音化している。ていねいに言えば、シチョルという。）\ntsukurozjin ga it （itは入るの入声？）\ntsuguruzingasul ＜土黒死の意＞\ntsugurozin ga dei （deiは出る。）\ntugurogairu （tsuguroでないようだ。）\nkurozin no uddasu （uddasuは打ち出す。）\nutifimi ya dzut （打首があるの意）\nozirufi ga izirjun （青じるしかあるという意）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01913.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01913",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01913.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "0256.08",
+      "0256.76",
+      "0256.89",
+      "0265.96",
+      "0276.50",
+      "0275.97",
+      "0340.00"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙 注記一覧      19-14\n質問番号 059   地図番号 080   A 普通注記\n項目名 みぞになる  [B 除いた共通語] [C 除いた特殊語] (68)\n地点番号   A語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n0256.08   o:doru (青んでいるの義)\n0256.76   'kuruntagi' utat' ざく〈黒くなるまで打たれたということ〉\n0256.89   adu nu deketi (あごがでてるの義)\n0265.96   NR. (相当時間考えたが答えなし。)\n0276.50   audzirusi najun  (青じるになるの義)\n          audzirusi najui  (語尾の違いについては、02/022の注記を参照)\n0275.97   NR. (adzaに相当する語は得られず。かろうじて一語動詞 auomarjuns を得た。青くなるの義。)\n0340.00   o:djinnajui (青地になる義か)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01914.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01914",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01914.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "1169.84",
+      "1223.91",
+      "1232.29",
+      "1232.75",
+      "1241.49",
+      "1242.00",
+      "1242.22",
+      "1242.26",
+      "1242.72",
+      "1251.04"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 19-15\n質問番号 059　地図番号 080\n項目名　あざになる\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〉〈）（）［］は厳密にする。\n\n（表見出し）地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n(?) utifiti nain (内に抜している意のように思う。)\nE: bito:N (あざができているの意。)\nE: bi:N (E:は藍)\nE: i:N (E:は「藍」、i:Nは「入る」に当たる。)\nk'uruman (黒くなるという 特別ない言い方はない。)\nk'urumun (?)\n(?) k'urumajun (他動詞)\nkurubukkito:N <黒くなれているの意>\nkurukuzain <黒くなるの意>\nkurudun <黒くなっているの意>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01915.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01915",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01915.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "1251.27",
+      "1260.78",
+      "1270.26",
+      "1271.05",
+      "2067.52",
+      "2074.69",
+      "2076.97",
+      "2076.99",
+      "2140.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 19-16 質問番号 059 地図番号 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (70) 項目名 あざになる 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] jigurumitfi: <青黒くなっていること> ?kurudzitfimun kurumun (黒毛) kurumin (黒くなるの意) ainu pana fukumi <青くなっている> utjitfi (名詞。あざができる、あざになるの形はきまさせなかった。) utsitsi nu duiru (内血の水入るに当たる語形。) ffusukun fi:daru (fi:daru はにている意) ffumi ddi: (dは破裂は弱い..)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01916.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01916",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01916.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "2140.96",
+      "2141.61",
+      "2150.06",
+      "2151.11",
+      "2151.20",
+      "2151.51",
+      "2151.64",
+      "2151.67"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　19-17\n（右上小枠）資料番号　地図番号\n059　080\nA 普通注記\n項目名　あざになる\n（B 除いた共通語）　（C 除いた特殊語）　ページ（71）\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞〈　〉［　］は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n2140.96　ffu katamali 〈多〉\n2141.61　ffutsikumi asi（asiは「する」なる意に用いられる。）\n2150.06　ffutsi nali uji（あざができている意）\n2151.11　futsikumi duuk（あざになっている意）\n2151.20　ffutsikum（動詞）\n2151.51　ffutsikumma ji:duuk（「あざになっている」に当たる。）\n2151.64　ffukiduma ji:duuk（あざができている意）\n2151.67　ffutsikum（動詞）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01917.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01917",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01917.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "3784.87",
+      "4743.44",
+      "5538.33",
+      "5665.46",
+      "5693.78",
+      "6604.60",
+      "6624.65",
+      "6652.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-18\n質問番号 059　地図番号 080\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n項目名　あざになる　(1)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nアザデキダ（希）　　クロズァ ヨッタ\nàdzani nasu ＜希、ばくぜんと言う場合＞　kurofijo(u)＜はっきりいう場合＞\nazani naru ＜新＞　SIN\nアザニナル＜少＞　チガシヌ＜多＞\nアダ＝ナル＜英＞＜アダはアザの訛りである。＞　シンギル＜多＞\nアザ＝ニナル＜新＞　シニル\nazani naru　希　kurozumi ni naru／kurozumiru\naza ni naru　新・希　kurozumi n dekiru／kurozumiru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01918.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01918",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01918.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "6652.77",
+      "6656.31",
+      "7513.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-19\n質問番号　地図番号\n059　080\n項目名　あざになる\nA 普通注記\nB 除いた共通語\nC 除いた特殊語 (2)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6652.77　aza ni naru　上　kurozumi ni iru\n6656.31　ada ni naru <希>　kurobuti ni naru\n7513.69　アザデギル <英>　ニエル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01919.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01919",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01919.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "0716.46",
+      "0747.70",
+      "1727.75",
+      "1739.10",
+      "1756.32",
+      "1793.14",
+      "1863.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-20\n質問番号 059 地図番号 080\n項目名 あざになる\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (1)\n（表の見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nカタデキル ＊ カタ デタ　　その他\nbusuiro ni naru\n黒ければ busuguroku naru\n赤ければ busuakaku naru\n\n?butfiadza dekirum    その他\n\nブシツクル    その他\n\nsinda    Simu\n（注）アザになった状態をみる（シンダネ？）などという。ネは総動詞。\n\nチブクレ　シンダ（シンダ）\n\nカタデキル（ガニ 助詞をいわない）    アザデキル（ガニ 助詞をいわない）\n\nアトガツク〈多〉    ドスグロクナル\nウタミ＝ナル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01920.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01920",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01920.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [
+      "2732.39",
+      "2755.76",
+      "2781.58",
+      "3688.82",
+      "3724.36",
+      "3727.81",
+      "3733.88",
+      "3735.77",
+      "3751.81"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧\n質問番号 059　地図番号 080\n項目名　あざになる\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\nブヅツック\tブツ=デギダ\ntsi ga kukumu (血が含む)\tその他\n?ha^da-iro kawaru <ha^da-iro 肌色>\tその他\n2 busūra rakaru\tその他\nウズキズ = ニャッタ\tその他\nブズミ (名詞)\tムラサギ = ニャッタ\n\tブズズ ナル\n\nブズラエダ\tその他\nウスズ, デギダ\tクロズ = ニャッタ\nlwo tsügü, ado tsügü\tその他",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01921.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01921",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01921.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "3757.32",
+      "3762.42",
+      "3772.73",
+      "3782.98",
+      "3795.19",
+      "3797.32",
+      "4609.54",
+      "4644.10",
+      "4648.04"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-22\n質問番号 059  地図番号 080\n項目名 あざになる\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (3)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形【B・C 残した語形とその注】\n\n3757.32　ブツケデドシンダ　クロジニ ナッタ\n3762.42　madara degirü　büdzijderü / büdzijda（存在態らし）\n（空欄）\n3772.73　büdzimadare da, büdzi madare ni narü　その他\n3782.98　agadagüre ni narü　ürüümü\n3795.19　クロヌァ スンダ　スヌァ スンダ\n3797.32　ブッタメダ　クロズァ デギダ\n4609.54　budzi t‡jgau（過去形 t‡ida、終止形は強に用いない。）　その他\n4644.10　t‡igundoru【新】　[bu‡fitoru]\n4648.04　kuroni jotta <これを用いることが多い。>{年寄りはこれを使う。}　donguru natta（どちらの言い方か分からぬ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01922.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01922",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01922.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "4668.27",
+      "4689.14",
+      "4689.62",
+      "4703.18",
+      "4713.02",
+      "4714.22",
+      "4735.37",
+      "5462.29"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< )[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　19-23\n質問番号　059　地図番号　080\n項目名　あざに なる\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (4)\n表見出し：A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nA欄／注記欄の記録（該当地点番号は除く）:\ntjigammu\tその他\n?busuninalu\tazaN nalu\n(budziru)\tadza ga degiru / adza ni naru\nsimi' tsuku\tkurotsi joru\nbüttame dekiru\ta~dza dekiru\nădzatsükku (最初にでた誤った答え)\tkulotsï joru\nădzano jo:ni nalü <アザとはちがう>\tその他\nチカカタマッタ\tシンダ／シヌル　(いろいろ言う場合がある。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01923.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01923",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01923.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [
+      "5462.57",
+      "5472.31",
+      "5569.36",
+      "5574.84",
+      "5575.00",
+      "5585.09",
+      "5586.70",
+      "5606.83"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の＜＞（）（[]）は厳密にする。 日本言語地図資料用紙 注記一覧 19-24 質問番号 059 地図番号 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ（5） 項目名 あざになる。 地点番号　A　語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］ 5462.57　チダマッタ（血野る？）　その他 5472.31　チガタマリガデキタ　その他 5569.36　コオジャル　＝ニル 5574.84　tatakürerü　ütʃimini narü 5575.00　ato ga tsukü　その他 5585.09　NK　wrunda (なかなか目的のものが見つからなかった) 5586.70　kidzū ga tsɯkū / adza na ... の形は出ない。（念をおいてきくと、この際 adza とはいわぬ由。）　zierü 5606.83　NR　(sina)feta（死なして居た？）、(but)feta（ぶちていた。致命的でできていた？）、(but)iru, sinuという語あるのか、知れない。変化形は採らなかった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01924.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01924",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01924.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [
+      "5620.16",
+      "5628.23",
+      "5641.73",
+      "5641.94",
+      "5647.56",
+      "5671.38",
+      "5676.10",
+      "5681.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-25\n質問番号 059    地図番号 080\n項目名 あざになる\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ 6\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >()[] は厳密にする。\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n5620.16    utimi no aza    sinda\n5628.23    kuronazimu    kuronazimi ga dekiru\n5641.73    busundairo siteru    tfi ga sinda <終止形 不明>\n5641.94    ?aza ga dekiru    (busundo iro ni naru) [tfi ga sinu]\n\n5647.56    チマメ    アザガデキル\n5671.38    kurone o kosirreru (作る)    kurone ni naru\n5676.10    kizuyadekiru <というような気がする。外傷ではないかな。>    >[tfi] ga (sinu) [これでも結構でしょう]\n5681.41    mimidzubare ni naru <すじになったとき>    kuroneru <kuroneta (過去形)>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01925.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01925",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01925.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "5689.43",
+      "5752.94",
+      "5770.46",
+      "5781.65",
+      "6277.62",
+      "6338.99",
+      "6339.35",
+      "6349.23"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉〔〕（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 19-26\n質問番号 059 地図番号 080\n項目名 あざになる\nA 普通注記  [B 除いた共通語]  (C 除いた特殊語)  (7)\n\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nazaita, azaitʃau (それぞれ「あざができた」「あざができてしまう」の意。終止形 azaku は見出せなかった。)    azayaderu\naza no jo:ni naru    その他\nNR.    aona(d)zimi n naru (訛)\naonazümi    aonazimi ya dekiru\nutsigoni    tjimame / dzuguro:naru\n(6338.99 行は取り消し線あり)\nシニッタ    シニル\nシニイッタ    シニイル\nシニッタ    シニル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01926.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01926",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01926.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_080.jpg",
+    "page_index": 80,
+    "location_numbers": [
+      "6393.26",
+      "6398.78",
+      "6406.92",
+      "6408.88",
+      "6411.80",
+      "6425.57",
+      "6431.41",
+      "6436.33",
+      "6437.94",
+      "6448.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　19-27\n質問番号　地図番号\n059　080\n項目名　あざになる\nA 普通注記\n[B 除いた共通語]\n(C 除いた特殊語)　(8)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形【B・C 残した語形とその注】\n\n6393.26 hojake no goto natta（ホヤケの如くなったの意）　その他\n6398.78 kurodzinta＜多＞　kurodzini ga dekita\n6406.92 チバシル　その他\n6408.88 NR.　死ヌル（色がカワルともいう。）\n6411.80 シニッタ　シニル\n6425.57 ウチアザ　その他\n6431.41 シニッタ（過去）　シニル\n6436.33 kuziiro nattoru　kuriru（動詞）\n6437.94 シナクイロ＝ナル＜その部分を指していう＞　シヌル〈普通〉\n6448.23 NR　[アオジム]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01927.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01927",
+    "source_canvas_label": "81",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01927.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_081.jpg",
+    "page_index": 81,
+    "location_numbers": [
+      "6455.27",
+      "6455.88",
+      "6457.45",
+      "6458.40",
+      "6465.40",
+      "6466.01",
+      "6469.77",
+      "6471.99",
+      "6472.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-28\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n資料番号　地図番号\n059　080\n項目名　あごに　なる。\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（9）\n\n地 点 番 号　　　A 語形とその注記 [B・C除いた語形とその注]　　　A 注のない語形 [B・C 残した語形とその注]\n\n6455.27　カタガ デキル　クタル\n6455.88　クナトル　クタル\n6457.45　？カタガツイトル（...ツク）　その他\n6458.40　ツイガ カタマットル（...カタマル）\n　　　　アザミタイニテットル方（...ナル）　その他\n\n6465.40　クサミガデキル　クタル、ウチミガデキル\n6466.01　クタカス　クタル\n6469.77　ウサゴモリ　ウサゴモリがデキタ（...デキル）\n6471.99　ナガ カタマッタ　その他\n6472.53　仮（？）　その他",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01928.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01928",
+    "source_canvas_label": "82",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01928.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_082.jpg",
+    "page_index": 82,
+    "location_numbers": [
+      "6473.04",
+      "6476.13",
+      "6482.26",
+      "6486.50",
+      "6490.30",
+      "6498.33",
+      "6504.03",
+      "6516.10",
+      "6520.50",
+      "6521.17"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 \n日本言語地図資料用紙　注記一覧　19-29\n資料番号　059　地図番号　080\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（10）\n項目名　あざになる\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A　注のない語形（B・C 残した語形とその注）\n6473.04　マメガデキタ　その他\n6476.13　クチトル（アザ=ニャッテイルという意味）　クタル\n6482.26　ナボオドル　シニョル\n6486.50　ナゴム　シニイル\n6490.30　血がよってカタがつくる　その他\n6498.33　ti'no tama ya dekeru　その他\n6504.03　dekimon ni naru　その他\n6516.10　ニジム　クロニエル\n6520.50　NR　シス\n6521.17　シニイロニナル　シニイル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01929.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01929",
+    "source_canvas_label": "83",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01929.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_083.jpg",
+    "page_index": 83,
+    "location_numbers": [
+      "6533.36",
+      "6541.52",
+      "6541.66",
+      "6547.67",
+      "6552.71",
+      "6560.40",
+      "6561.49",
+      "6567.86",
+      "6570.89"
+    ],
+    "other_text": "► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞()[]は厳密にする。\n日本言語地図資料用紙 注記一覧   19-30\n質問番号 059    地図番号 080\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (11)\n項目名　あざになる\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\nN.R.　　　　　　　　　　　　　　　Sindaru 「あざ」になった状態モノ\n（手書き）ナガヨッテコナイタッタ？　ウチゴモリ（名詞）\n?コプガデキテ　アオバレガシタ（---スル）　その他\ntji ja kawatta（終止形 kawaru を聞き取ることができなかった。）　その他\nイロ ガ カワッタ　　　　　　　　　　　　　　シンダ\nウチゴモリ　　　　　　　　　　　　　　　　ウチゴモリ ナントル（…ニナル）\nアザガノコル <男の場合>　　　　　　　　　シンダ <女の場合>\nazamitai ni naru　　　　　　　　　　　　　その他\nカタガ デケル　　　　　　　　　　　　　　その他",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01930.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01930",
+    "source_canvas_label": "84",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01930.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_084.jpg",
+    "page_index": 84,
+    "location_numbers": [
+      "6571.63",
+      "6572.04",
+      "6575.40",
+      "6575.66",
+      "6576.28",
+      "6577.13",
+      "6586.32",
+      "6594.19",
+      "6610.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-31\n資料番号 059  地図番号 080\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (12)\n項目名 みぞになる\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6571.63    sinibukure ga dekiru    sinu\n6572.04    suzunde aru (名詞形は [sumi] である。)    その他\n6575.40    sinibukuro dekita <血がたまっているとき。>    [sinda]\n6575.66    tibukuro dekiru    その他\n6576.28    クロゲシガイル    その他\n6577.13    ato ga tsukku (「擦られた跡がつく」という意味であろう。大部長い間考えてから答えた。)    その他\n\n6586.32    kurogi ga itta    その他\n6594.19    dojomu    その他\n6610.00    ホボクレル    その他",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01931.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01931",
+    "source_canvas_label": "85",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01931.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_085.jpg",
+    "page_index": 85,
+    "location_numbers": [
+      "6615.02",
+      "6700.25",
+      "7238.12",
+      "7258.58",
+      "7259.22",
+      "7301.67",
+      "7303.17",
+      "7313.68",
+      "7324.24",
+      "7324.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく 〉〈（ ）［ ］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 19-32\n質問番号 059　地図番号 080\n項目名　あざになる\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n(13)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nフクロブチ ニナル\tその他\nutsimi\tnazimi ga dekiru\nkuronamadzu no iru\tkurogja: no iru\nホヤン デクル\tその他\nhoguro ga iru\tkurozu ga iru\nsumigoni iru\tその他\nkobu no dekeru (アザ＝ナル (アザガデナル) そうは言わぬ)\tその他\ntiga niginda\tその他\nufijose ga dekeru\tその他\nto:ga deru, to:ga dekeru\tその他",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01932.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01932",
+    "source_canvas_label": "86",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01932.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_086.jpg",
+    "page_index": 86,
+    "location_numbers": [
+      "7331.27",
+      "7332.97",
+      "7334.44",
+      "7341.47",
+      "7349.86",
+      "7350.44"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-33\n質問番号 059 地図番号 080 項目名 あざになる\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (14)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉( )[ ]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n7331.27  hojake kojiraeto:    その他。\n7332.97  hojake    aozui: joru (多)\n7334.44  aumidatsu <青くなる> kuromidatsu    その他。\n7341.47  djiguro:doru  akamamen deku?\n〈棒などでうって大きく黒ずんでいる時は、ダグロオダという。金槌等でうった小さな血豆はチマメ、アカマメなどという。〉    その他。\n7349.86  NR.    zozuitoru ga ziki naoru (といっていたが、特別な言い方はしない。)\n7350.44  awoton joru    その他。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01933.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01933",
+    "source_canvas_label": "87",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01933.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_087.jpg",
+    "page_index": 87,
+    "location_numbers": [
+      "7352.61",
+      "7374.15",
+      "7392.45",
+      "7392.94",
+      "7412.71",
+      "7441.89",
+      "7450.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙注記一覧 19-34\n資料番号 059 地図番号 080\n項目名 あざになる\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (15)\n\n（表ヘッダ）A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nNK.\nAORU\n（手書き注記）アオルル ゴツ 新タタの様な受身形の用語形は、引きし得なかゝ、受動形は引きし得なかった。クロナリショクの20号は血豆のことだという。\n\n<?>\nズグロメガスル\n[ズグロジミスル]\n\nヤマウ ヤム  (文例 アヤツガ) (ヤムコト)\nオレバ ウッチクタ（うちゃかった）\nチノヲル\n\nジグロジニナル\nその他\n\njiesu ga iku\nkuroji ga iku（濃く、黒みのかっているもの。）\n\nato ga tuku\nその他\n\nNR.\nmurasaki iro n natta",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01934.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01934",
+    "source_canvas_label": "88",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01934.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_088.jpg",
+    "page_index": 88,
+    "location_numbers": [
+      "7452.54",
+      "7471.38",
+      "7510.18",
+      "7659.40",
+      "7659.53",
+      "8239.31",
+      "8301.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 19-35\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n（枠内） 質問番号 059 地図番号 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (16)\n項目名 あざに なる。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\nmimizuiro ni naru ＜多＞\t\taozuku\ntsibukuro ni naru\t\ttfiga joru ＜多＞\n＝ニチョル\n（アグニナル（アグはアザの説。）\nフクロウナデザル（＝ニチョル）が寄って\n血がかたまった時にいろ\n（全般などで今まさに努り付け\nた時などに血か寄り固ま\nものかフヨウワタスある。））\n＝ニエル\n\nirou\t\tその他\nazano gon narowa\t\tその他\naerono tsuku (青色が所々の義。)\t\tその他\nズグロカ\t\tズグロナッタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01935.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01935",
+    "source_canvas_label": "89",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01935.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_089.jpg",
+    "page_index": 89,
+    "location_numbers": [
+      "8341.46",
+      "8351.07",
+      "0237.79",
+      "0246.48",
+      "0246.97",
+      "0247.56",
+      "0257.43",
+      "0294.66"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〔〕は厳密にする。\n\n日本言語地図資料用紙 注記一覧 19-36\n質問番号 059 地図番号 080\n項目名 あざになる\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (17)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n8341.46  memezuba ga deru （長い棒のようなもので、打たれた場合。）（即ち、みみずのようなかたちが出るということ。）　tsugurozin ga suru\n8351.07  aosut ga tatsu <特に竹の場合>　tsugurozin ga det\n0237.79  o:sidji nu idzjuri　その他\n0246.48  tjibukuru narjum　その他\n0246.97  mimit nu idzjium (みみずの形が出るという義)　その他\n0247.56  káta nu idzjuri　その他\n0257.43  káta: nu idzijum　その他\n0294.66  butfi tatfun (ぶちを立つるという義)　その他",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01936.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01936",
+    "source_canvas_label": "90",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01936.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  },
+  {
+    "source_image": "page_090.jpg",
+    "page_index": 90,
+    "location_numbers": [
+      "1213.76",
+      "1241.96",
+      "1251.98",
+      "1261.70",
+      "2085.69",
+      "2140.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　19-37\n資料番号　059　地図番号　080\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(18)\n項目名　あざになる\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n1213.76　dzigurudi ujun　動作がいつも行なわれる　その他\n　　　　dzigurudi ujuji　動作の行なわれるのを見ていう。　その他\n1241.96　e:bana naruN　その他\n1251.98　dzi:main（動詞）（まんまるく黒くなるのをいう。）　その他\n1261.70　utjiitami so:n　その他\n2085.69　utji siruy　その他\n2140.96　tsikumi〈名詞。出血してかたまったもの。〉\n　　　　aumi ga muli si〈青みがもり〉　程度 katamali〈多〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01937.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M080Q059/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01937",
+    "source_canvas_label": "91",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01937.tif",
+    "source_ljc_id": "LJC-M080Q059",
+    "source_map_numbers": [
+      "080"
+    ],
+    "source_title": "あざ (痣) になる"
+  }
+]

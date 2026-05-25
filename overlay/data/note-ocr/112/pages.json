@@ -1,0 +1,2463 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0840.33",
+      "0873.94",
+      "0789.95",
+      "0894.61",
+      "0896.22"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　28-86\n資料番号 036　地図番号 112\n項目名　ものもらい\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (1)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n0840.33  meppa  <多>\n0873.94  meboji;  <子どものころ アイスが そういって いたので、使った。>\nhoji  <子どもの時>\nmeppa  <そのあとで 多く使った。>\n\n0789.95  baka  <多>    mebo\n0894.61  baka(deta)  <多>\nmeppa  <少> <このごろ>\n\n0896.22  モノモライ  <四国の人の親達はメボと いった。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02888.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02888",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02888.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "0990.97",
+      "1699.14",
+      "1739.10",
+      "1739.85",
+      "1744.60",
+      "1747.04",
+      "1793.14",
+      "1814.25",
+      "1859.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n日本言語地図資料用紙　注記一覧　28-89\n資料番号　036　地図番号　112\n項目名　ものもらい\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(2)\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n0990.97 monomorai　＜他の者は meppa がふつう＞\n1699.14　メッパ　古　メボシ\n1739.10　mebosj　＜普通＞　monomorai\n1739.85　meboro　＜ほかにいわない＞\n1744.60　メッパ　＜子供時代に言った＞　メボソ\n1747.04　メボオ　＜多＞\n　メッパチ　老、幼\n1793.14　バカ　＜バカデル＞などという、\n1814.25　メッパ　＜少い＞　メボ\n1859.84　meppa　＜今も＞＊",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02889.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02889",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02889.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2761.44",
+      "2761.77",
+      "2762.61",
+      "2771.83",
+      "2781.91",
+      "2783.48",
+      "2791.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別表を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本音声地図資料用紙 注記一覧 28-90 質問番号 036 地図番号 112 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3) 項目名 ものもらい 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) mebosii (?) (念をおしたが 誤なしと言う) NK : <自分も家人も悪ったこと無し> mepa 東北ゆえみじかくなって現われしとみる。（室員） NR (mebosiiと答えたので、違う旨注意した。) meba <?> nome <これを普通使う> mebosii (類似のできものと混同?) mebosii (?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02890.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02890",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02890.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2791.88",
+      "3609.47",
+      "3619.08",
+      "3688.82",
+      "3720.71",
+      "3723.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記 -28-91\n資料番号 036    地図番号 112\n項目名 ものもらい 036\n(A 洋通語) (B 除いた共通語) (C 除いた特殊語) (4)\n\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n2791.88    jonome    # (はじめは moraime と自信なげに言った。)\n3609.47    nome    <光>    jonome\n3619.08    nomé    eiは狭いe\n3688.82    more more    <普通>\n            meppa    <ジガタの言葉>\n3720.71    meppa    (普通)\n            hoido    とも\n3723.21    nome    nomeは jonome (魚の目)\nからの転なるらし、秋田一般",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02891.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02891",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02891.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3727.21",
+      "3730.43",
+      "3737.32",
+      "3741.16",
+      "3743.49"
+    ],
+    "other_text": "日本言語地図資料用紙 注記 -28-92\n資料番号 036　地図番号 112\n項目名　ものむらい 636\nA（高語話）\n（B　除いた共通語）　（C　除いた特殊語）　（5）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\njonomeは小さなブツッと出るはれものをいう。モノモライはホエドコ、ヤッコ\n（?）\n乞食はjakko\n[ ]　メッパジ\neは非常に狭いe\nく一軒おいてとなりからにぎりめしをもらって食べると直る>\n#（苦心して思い出した）\n\nメナ\nhoedo\n/メ\nhoëdo\n/メ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02892.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02892",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02892.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3746.09",
+      "3752.89",
+      "3760.58",
+      "3761.22",
+      "3770.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 28-93\n（箱）036 112\n項目名 ものもらい (636)\nA 音通注記\n[B 除いた共通語]\n[C 除いた特殊語] (6)\n\n・A・[B]・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（ ）は敬称にする。\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n3746.09  nomi\nなおすときの呪文、 nomi nomi\nhanero haji nakara\nhanekgero\n藁で結んで、のち、上の呪文をとなえながら その藁を火にくべる。\n\n3752.89  hoido (ホエド)\n\n3760.58  jakko (多) (普通)\nhoido (トモイウ)\n\n3761.22  monomori (音)    hoido\n\n3770.96  menomori  左は誤記ではない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02893.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02893",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02893.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "3777.48",
+      "3780.65",
+      "3783.08",
+      "3791.02",
+      "3792.33",
+      "3792.96",
+      "4619.23"
+    ],
+    "other_text": "▲ A・[B]・(C)ごとに別紙を使用する。  \n▲ その中での音標は地点番号順に並べる。  \n▲ 注記の＜＞( )は概略にする。  \n\n日本言語地図資料用紙 注記一覧 28-94\n資料番号 036   地図番号 112\n項目名 ものむらい 036\nA 普通注記   [B 除いた共通語]   [C 除いた特殊語]  (7)\n\n地点番号    A語形とその注記 (B・C除いた語形とその注)    A注のない語形 (B・C 残した語形とその注)\n3777.48  バガ  [ ]                              ノミ #\n3780.65  fedoko  (昔)                         mono moral\n3783.08  nomë   ëは非常に狭いe\n3791.02  ϕedo   (Mを食は) jakko  ただし ϕedo  もよくわかる。\n3792.33  houdoko  (下まぶた)\n         dannasan  (上まぶた)\n3792.96  houdo  (下のふちに出たもの)\n         dannasan  (上のふちに出たもの)\n4619.23  mono  <神様から水をもらって来て、つけると 直る>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02894.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02894",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02894.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4638.22",
+      "4638.43",
+      "4648.42",
+      "4653.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 28-95\n(右上ボックス) 質問番号 036   地図番号 112\n項目名 ものもらい 636\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) (8)\n\n地點番号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n4638.22    mēro mēro    目は狭いe\n            ヘソの上に塩をつければいい\n            とかゴムのくしで眼をなぐ\n            ればいい、とかいう。\n4638.43    momore more more    くどちらも総称であり、又は\n            上まぶたにできたものもらい?\n            ある。\n4648.42    mebumyuri    <上> #\n            more more    <下> #\n4653.84    me'buri    この山は少し○寄り",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02895.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02895",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02895.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4654.52",
+      "4666.99",
+      "4667.76",
+      "4672.19",
+      "4675.62",
+      "4676.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧 28-96\n資料番号 036 地図番号 1/12\n項目名 ものむらい 036\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9)\n\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)\n4654.52 mebo  <国中地方は megoという>と\n4666.99 metʃi:  # (普通に発音したとき)\n metsiri  (はっきり おそく発音したとき)\n (r音をおとす)\n4667.76 deba  # (deba deru という)\n4672.19 meburo  やや meguro ににたひて きがあった。\n4675.62 memorae  #! <古> (古いかどうか疑問)\n me?uyguri  <新> (新しいかどうか疑問)\n4676.39 mepatsi  付近から meppatsu にいれ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02896.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02896",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02896.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4676.67",
+      "4677.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 28-97\n(上部右の枠) 資図番号 地図番号\n036  112\n項目名 ものもらい 636\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (10)\n\n(左上箇条書き)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は略筆にする。\n\n(中央表 handwritten)\n4676.67 mekusare  (?)(monomorai その他\nるがトーゴセンのもっとも外側\nゆえ多少問題あり。（室員）\nをばくせんと総称してmekusare\nと言うといったがはっきりしない。\nmonomorai を知らぬか、\nその名を忘れたかしたのでは\nなかろうか。とにかく疑問で\nある。）\n\n4677.65 name  a. oとuの中間音",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02897.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02897",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02897.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4679.65",
+      "4684.77",
+      "4687.01",
+      "4687.37",
+      "4689.86"
+    ],
+    "other_text": "日本音語地図資料用紙 注記一覧 28-98\n質問番号 036　地図番号 112\n項目名 ものもらい 056\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (11)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号欄に従える。\n注記の＜＞（）は敬称にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n4679.65  nome    〈モノモライなど聞いた事もない〉\n4684.77  monomome   (?) # ?    NR !\n4687.01  meTpazm  〈下まぶたにできた物〉\n4687.37  nome    〈上まぶたにできたもの〉\n         monomorae  〈下まぶたにできたもの〉\n〈米をもらって たいて食べれば なおる。米をもらい歩く時 橋を渡ってはいけない〉という信仰があった。\n\n4689.86  nomi　誘",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02898.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02898",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02898.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4695.19",
+      "4695.33",
+      "4701.73",
+      "4703.88",
+      "4704.04"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-01\n質問番号 036　地図番号 112\n項目名 ものもらい 036\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (12)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C残した語形とその注]\n\n4695.19　フキデ\t# ? (?)類似の出来ものと\n\t\t間違えているのかも知れない。\n4695.33　monomorae\nmeppatji\t<?><古いことばと思う>(?)\n\t\t<これを多く使う。子供の時から用いている。>\n4701.73　roudo\t(ホイドとは夕食のことなり)\n4703.88　baga\nokjakusama\t[! ] <下のまぶたにできたもの?>\n\t\t<上のまぶたにできたもの?>\n4704.04　ノメ\t<古>\nバガ\t<新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02901.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02901",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02901.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4711.41",
+      "4711.49",
+      "4712.54",
+      "4714.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での普通は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 29-02 資料番号 036 地図番号 112 項目名 ものむらい (036) A 普通注記 (B 除いた共通語) (C 除いた特殊語) (13) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） nome [ ] <総称>（直り方が上唇と下唇の場合に相違があるのでこの様に区別して乞食のメ、殿様のメという由。そのメが総称となった。） バカ 一般 モノモラエ hoedo: <本当は乞食の意だが ものもらいの意に転用したもの> baga <ことはではないが たとえとして、上側のものは baga（馬鹿）>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02902.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02902",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02902.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4714.68",
+      "4721.36",
+      "4722.40",
+      "4722.55",
+      "4723.14"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での音標は地点番号順に並べる。 注記の〈〉()は厳密にする。\n日本言語地図資料用紙　注記一覧　29-03\n資料番号 036　地図番号 112\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(14)\n項目名 ものもらい 036\n（表の見出し）地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n下側のものは okjaku (お客) と言っている。>（？）\n〈自分はそのようなものができた覚えがないからわからない〉\nN.R.\nnome　[　]\nbaka　〈古〉　　nome\nbaka　〈くものもらいができると、「利口だからバカがでた」と言ってからかう。〉\nmono　動詞的には mono deru ともいう。　baga",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02903.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02903",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02903.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "4730.45",
+      "4730.95",
+      "4731.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は原語にする。 日本言語地図資料用紙　注記一覧　29-04 質問番号 036　地図番号 112 項目名 ものもらい 036 (A 普通注記) (B 除いた共通語) (C 除いた特殊語) (15) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） baga　＜総称＞　＜下瞼にできたもの＞ baka　（下まぶたに出ると） meŋgo　（上まぶたに出ると） baga　[コ]　（メンコは馬鹿の反対） mēngo　[コ＜＞]　子供をほめる時 などつかう言葉、バガというと直らないが メンゴというとすぐ治れる るからメンゴという) という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02904.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02904",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02904.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "4731.85",
+      "4736.63",
+      "4740.26",
+      "4740.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧　29-05 資料番号　036　地図番号　112 項目名　ものもらい　036 A　普通注記 [B　除いた共通語] [C　除いた特殊語] (16) 地点番号　A語形とその注記（B・C除いた語形とその注） A注のない語形 [B・C　残した語形とその注] baga　[ ]（バガというわけは、いじるとおこるかららしい。人間のバカもふれないで、そっとしておいた方がよい。） baga　＜馬鹿の意　....　上のまぶたにたてきたもの＞ baga meñjo　＜バガがふつう。メンゴはかわらか？いうようなときにつかう。＞（バガ→馬鹿　メンゴ→可愛らしい人） monomorae　隣家より米三粒もらえばなおるとの俗信あり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02905.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02905",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02905.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "4741.92",
+      "4742.37",
+      "4742.43",
+      "4744.10",
+      "4752.27",
+      "4753.52",
+      "4760.64"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（　）には敬称にする。\n\n日本言語地図資料用紙　注記一覧　29-06\n\n資料番号　036　地図番号　112\n項目名　ものもらい　036\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（17）\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n4741.92　baga　＜上下瞼による区別なし＞\n4742.37　baga　[ ]\n4742.43　hosi　＜目の中ではない。目のふち　モノ\nモライのことである。目の中のは\nkakarimonoという。＞\n（ホシが出てイズクマ　困る）\n\n4744.10　monomorae　＜この方が馬鹿らしくない感じ＞　baga\n4752.27　baga　nome　両者のちがいがききだせなかった。\n4753.52　baga　＜希＞　nome\n4760.64　monomorae　[ ]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02906.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02906",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02906.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "4761.07",
+      "4763.45",
+      "4773.15",
+      "4792.43",
+      "5471.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本音語地図資料用紙 注記-29-07\n資問番号 036 地図番号 112\n項目名 ものもらい 036\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) (18)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4761.07　mejo　〈上の語形は \"馬鹿\" であるからこそ、baka みせけてこのようにメゴで可愛いか? と呼ぶことがある。〉\n4763.45　nome　baka　〈どちらかと言えば、nomeを多く使うが、nomeとbakaについて内容上、用法上の区別はない。〉\n4773.15　nome　＃井戸に豆を落とすと直る。\n4792.43　nome　nomme　あずきでさわって、それを井戸へ入れてると直る。\n5471.59　メマンジョ　〈小〉〈できものの大小によってちがった言い方をする〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02907.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02907",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02907.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5507.09",
+      "5536.29",
+      "5538.50",
+      "5548.58",
+      "5555.58",
+      "5558.09",
+      "5558.33",
+      "5566.35",
+      "5574.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) は厳密にする。\n\n日本言語地図資料用紙 注記一覧 29-08\n質問番号 036  地図番号 112\n項目名 ものもらい 036\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (19)\n\n地点番号    A 音形とその注記 (B・C除いた語形とその注)    A注のない語形 (B・C 残した語形とその注)\n\nmejatane 〈新〉    metsimpo\nimorai 〈古〉    memorai\nメガタネ    特に大きいもの。    メボロ\nmemorai 〈新〉(〈新〉はあてにならない)    metsumpo\nmonomorai    (?)\nmemurai 〈新〉    metsumpo\nme:gyuri 〈希〉    ju:mori, me:mori\nimore: 〈古〉    imorai\nmemoro 〈古〉    memara",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02908.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02908",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02908.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5575.93",
+      "5579.42",
+      "5579.79",
+      "5590.53",
+      "5594.02",
+      "5594.37",
+      "5595.89",
+      "5599.75",
+      "5604.65",
+      "5605.70"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　29-09\n（上部ボックス）資料番号 036　地図番号 112\n項目名　ものもらい　036\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(20)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は（注記）にする。\n\n（表ヘッダ）地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形（B・C　残した語形とその注）\n\n5575.93   memorai    marota -> 眼の中にできる筋\n5579.42   metsimbo   <下品なことば>    mekoziki\n5579.79   メムラ     <他、稀>            メチンボ\n5590.53   メイボ     <ク>               メボ\n5594.02   me-bo      優位               monomoral\n5594.37   mebo       優位\n5595.89   メンボ     <希>               メブラ\n5599.75   コジキ     <古>               モノムライ\n5604.65   メッパツ   <若い時代はこれを用いた>  モノモラエ\n5605.70   mono mone <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02909.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02909",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02909.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5606.83",
+      "5609.26",
+      "5611.39",
+      "5613.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語根は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 29-10 質問番号 036 地図番号 112 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (21) 項目名 ものもらい 036 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形（B・C 残した語形とその注） 5606.83 meppatsu <上まぶたに出来たもの> monomuræ <下まぶたに出来たもの> 5609.26 nomé eは狭いe 5611.39 metpasm <希> metsonko' !<古><子供の時使った> monomorai <友人にも 共通語的場面でも多く用いる。ずっと前から使った。> 5613.48 monowuri monomoræ 字の他 の人はこれを多く用いる。 他の人がどういう種類の人か不明。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02910.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02910",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02910.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5614.62",
+      "5615.28",
+      "5615.78"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n日本言語地図資料用紙 注記一覧 29-11\n資料番号 036　地図番号 112\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (22)\n項目名 ものもらい 036\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5614.62　monomorae\n　　　　metpatsu\n　＜上から下るものもある。この二つの言い方は若い時から両方とも使っている。\n　metpatsuを使うことがやや多いかも知れない。＞\n\n5615.28　meppattsu\n　＜くものもらいがなおったあと　まぶたが変形したものをいう。＞（PP音はF音のひびきがある。）\n　mono mune:\n\n5615.78　monomurae\n　(まんなかのm音ははっきりひびかないようである。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02911.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02911",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02911.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5620.30",
+      "5622.48",
+      "5623.27",
+      "5623.85",
+      "5625.91",
+      "5628.70"
+    ],
+    "other_text": "日本方言地図資料用紙 注記一覧 29-12\n課問番号 036 地図番号 112\n項目名 ものもらい 03\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (23)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での指摘は地点番号順に並べる。\n注記の＜＞（）[ ]は慣例にする。\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注]\n5620.30 ebora    bo = ブに近い。\n5622.48 monomomono    ＜上流の人は monomurai と言う。＞\n5623.27 meppatsu    ＜橋を渡らずに隣家へ行き、物をもらって食べると なおる。＞\n5623.85 meppatsure    ＜目ハレルからださ！＞    monomoyae\n5625.91 meppatsu    [monomurae]\n5628.70 モノモライ / メカゴ    ＜小さいできものをいう＞ ＜大きいできものをいう＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02912.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02912",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02912.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5631.16",
+      "5631.26",
+      "5632.83",
+      "5635.65",
+      "5638.53",
+      "5639.80",
+      "5641.07",
+      "5641.99"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での指示は地点番号順に並べる。\n注記の〈〉（）は敬称にする。\n\n日本言語地図資料用紙　注記一覧　29-13\n資料番号　036　地図番号　112\n項目名　ものもらい 036\nA (普通注記)  (B 除いた表語)  (C 除いた特殊語) (24)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n5631.16　meppa　[mekkodjiki]\n5631.26　mekko3iki　?〈希〉　monomorai\n5632.83　metsjimbo　(きわめてまじめな顔で答えた)\n5635.65　メカゴ　〈共〉\n5638.53　モノモライ　〈多く使う〉　メカゴ\n5639.80　メカゴ　〈古〉\n5641.07　metsjimbo　#〈上へマえてきたもの〉\n　　mono morai　〈下まぶたへマできたものを〉\n5641.99　me*ko3iki　〈モノモライは聞くことはあるが使ったことはない〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02913.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02913",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02913.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5642.31",
+      "5644.74",
+      "5645.43",
+      "5645.89",
+      "5647.56",
+      "5648.53",
+      "5648.96",
+      "5652.37",
+      "5652.81"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　29-14\n資料番号　036　地図番号　112\nA 普通注記　（B 除いた共通語）　（C 除いた特殊語）　ページ（25）\n項目名　ものもらい 036\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\nmekkodziki　〈上〉　metjimbo\nメカゴ　〈共〉\nメカゴ　〈古〉\nメケゴ　〈古〉\nメッパ　〈新〉\nメカゴ　〈古〉\nメケゴ　モノモライ　〈同程度に使用〉\nメノケエゴ　〈古〉　モノモライ\nmekozjki　[  ]\nmekkozjiki　[monomorai]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02914.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02914",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02914.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5653.42",
+      "5654.94",
+      "5655.41",
+      "5655.57",
+      "5657.53",
+      "5657.73",
+      "5658.89",
+      "5659.42",
+      "5659.46"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-15\n資料番号　036　　地図番号　112\nA　普通注記　　ページ\n項目名　ものもらい　086\n[B　除いた共通語]　[C　除いた特殊語]　(26)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5653.42　mekodjiki　#（第三者。おばあさんに言わ れて〈そうそう〉と同意）　mekayo\n5654.94　メカゴ　〈古〉　モノモライ\n5655.41　メカゴ　〈古〉　メッパ\n5655.57　メッパ　〈共〉\n5657.53　メカイゴ　〈多〉　モノモライ\n5657.73　メカイゴ　〈共〉\n5658.89　メカイゴ　〈古〉　モノモライ\n5659.42　メカイゴ　普通の言い方　モノモライ\n5659.46　モノモライ　一般に使用",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02915.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02915",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02915.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5664.58",
+      "5665.11",
+      "5665.12",
+      "5665.89",
+      "5666.10",
+      "5666.18",
+      "5667.08"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 \nその中での語彙は地点番号順に並べる。 \n注記の＜＞（）は厳密にする。 \n日本語地図資料用紙 注記一覧 29-16 \n資料番号 036 地図番号 112 A 普通注記 ページ (27) \n項目名 ものもらい 036 \n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n5664.58 メケゴ メガイゴ メカゴ <多> メッパ <多> 老人が多く使う モノモライ\n5665.11 メバッジキ コジキが加わるか（室員）\n5665.12 メッパ <多> モノモライ\n5665.89 メカイゴ <古> モノモライ\n5666.10 メカゴ <多> モノモライ\n5666.18 メケゴ <共>\n5667.08 メカイゴ <児> メッパ\nメケゴ <児>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02916.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02916",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02916.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5669.12",
+      "5670.47",
+      "5671.00",
+      "5674.59",
+      "5675.36"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-17\n資料番号 036    地図番号 112\n項目名 ものもらい 036\n(A 音注記) ページ (B 除いた共通語) (C 除いた特殊語) (28)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5669.12  me:kaego    〈古〉 → ざるをかぶると ものもらいができる、という俗信がある。  monomorae\n5670.47  metfimbo    〈古〉 この地では「めやに」、mekkodziki のことを metto と言っている。\n5671.00  metfjimbo   #! 〈目の悪い状態。たとえば赤くはれたり、目やにが出たりするようなときにメコジキができたと言う〉\n\n5674.59  メカゴ    〈多・古〉    モノモライ\n5675.36  メカイゴ  〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02917.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02917",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02917.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5676.28",
+      "5676.52",
+      "5677.28",
+      "5678.33"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-18\n\n資図番号　036　地図番号　112\n項目名　ものもらい　036\nA　普通注記　（B　除いた共通語）（C　除いた特殊語）（29）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nメッパ　〈新〉\nmeppa　（多く用いる）　mike:go\n\nメケユゴ　〈メカユゴのなまり、メカユゴの意味は、目のかゆい子、めがこをかぶるとできる〉\n\nミケユゴ　〈昔〉\nミカイゴ　〈今〉　多し\n\nモノモライ　〈昔〉\nミカイゴ or ミケァゴ\nミケァゴ\n（ミカイゴ or ミケァゴについては説明しなかった。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02918.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02918",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02918.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5678.59",
+      "5680.34",
+      "5681.41",
+      "5684.11",
+      "5685.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　29-19\n（右上の小箱）036　112\n項目名　ものもらい　036\nA 普通語　（B 除いた共通知語）　（C 除いた特殊語）　（30）\n\nA語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nmonomurai\tü = uとoとの間\n（室員注 üをuとみる）\nmekkoziki\t＜治療法は柳の背をあぶっ\n　　（マめてる）[となりで\n　　めしをもらう方法もある]＞\nmekodziki\t＜上＞\nmekkoziki\t（新）＜よそからはいった＞ mekanyo\nmekago\t民間治療法―＜節を粉\n　　井戸にみせて、井戸神様にたのむ＞\n　　［衣類の縫をしばり（右眼に］",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02919.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02919",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02919.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5685.37",
+      "5686.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一号 29-20\n管区番号 036　地図番号 112\n項目名 ものもらい 086\nA 普通注記\n(B 除いた共通語) (C 除いた特殊語) (31)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\nできたら右の直してくれたらといってやるという\n[物をもらって来る。流しから手を出して．．．（食物かどうかききもらした）]\n5685.37 mekago\n<mekago ざるのようなもの を冠る と出来る。mekago - meke: を井戸に半分みせると治る>\n5686.15 mekago\n井戸へカゴを持って行って、半分出して、井戸の神様に、直してもらえれば全部見せると、となえる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02920.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02920",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02920.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5686.31",
+      "5686.67"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　29-21\n資料番号　036　地図番号　112\n項目名　ものもらい\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (32)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5686.31　mekago\n〈メカゴとは目のあるサルのこと。ここでは「mekｅ:」と言う。\n民間治療法に、井戸（cf.147番）へこの「mekｅ:」を半分見せて\n直してくれるなら全部見せるというのがある。「mekｅ:」マ\nなくても目の多いものなら節でも何でもよい〉\n〈よそで物をもらって食うと治る〉\n\n5686.67　モノモライ\n（これを直すには着物のツマを綿糸でしばればよいとのこと。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02921.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02921",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02921.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5687.32",
+      "5688.37",
+      "5690.96",
+      "5691.37",
+      "5696.54"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での情報は地点番号順に並べる。\n▸ 注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-22\n質問番号　地図番号\n036　　　112\n項目名　ものもらい\n\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]（33）\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n\n5687.32　モノモライ　＜！もらって歩けば通るという言い伝えあり＞\n5688.37　メボオシ　＜古＞違う眼病かと思ったが　第三者（家族の者）にも聞いて、\n　　　　大体モノモライと同じものと確認した。　　　　モノモライ\n5690.96　hosinja dekita　（かなり考えたが、出てこない）　(ya dekitaは除いた――記録)\n5691.37　menasa　古　　　　mono morai\n5696.54　monomorai　＜流しの窓からお米を貰えば治る＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02922.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02922",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02922.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "5698.91",
+      "5712.70",
+      "5721.27",
+      "5723.60",
+      "5751.89"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n日本言語地図資料用紙　注記一覧　29-23\n資料番号　036　地図番号　112\n項目名\nA（普通注記）\n(B 除いた共通語)\n(C 除いた特殊語) (34)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nmonomorai　ミソコシを井戸へ半分見せて、直ったら全部見せるととなえる。\nnome　[meboʃi <<?>>] ←（これはそばにいた村長が与えたヒト。村長は会津の人。）\nmonomore　＜これにかかった者は、三軒から一回米をもらってたいへん　たべれば直るそうだ＞\nnomme　〈3〉　monomorae\nmonomorai　井戸様にミソコシザルを見せると直る。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02923.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02923",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02923.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "5752.94",
+      "5760.24",
+      "5771.42",
+      "6267.68",
+      "6339.37",
+      "6349.23",
+      "6349.80",
+      "6378.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 29-24 資図番号 036 地図番号 112 項目名 ものもらい 036 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (35) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 5752.94 monomorai 小豆で二三度こすって井戸へ おとせば直る 5760.24 monomore: # 第三者がヒントを与えて 答えた。 5771.42 N.R. (誘) momomorae 6267.68 mebo ＜新＞ innokuso 6339.37 メボイト ＜多＞ ホイト 6349.23 ホイト ＜古＞ 6349.80 hoito ＜多＞ meboto 6378.70 メエボ、メボイネ （別に区別なし）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02924.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02924",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02924.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6383.77",
+      "6395.46",
+      "6401.89",
+      "6402.94",
+      "6403.62",
+      "6406.92"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語釈は地点番号順に並べる。 注記の＜＞（）は敬称にする。 日本言語地図資料用紙　注記一覧　29-25 資料番号 036　地図番号 112　項目名 ものもらい (036) A（普通注記） [B 除いた共通語] [C 除いた特殊語] 地点番号　A語形とその注記（B・C除いた語形とその注記）　A注のない語形（B・C残した語形とその注記） meibo　〈池へアズキを入れれば直るという〉　イケはイトのことせ メイボ　〈メイボを直すには、くしをあぶって眼にもってゆく、又、小豆を井戸に落す〉 メマンジョ　〈古〉 マンジャ　〈古〉〈多く使う〉 meboita　〈古〉 meno morai　〈古〉 ホエタ　乞食の事　物をもらうつもり　モノモラエ　モラエと同義　モラエと同義",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02925.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02925",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02925.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6407.28",
+      "6407.43",
+      "6412.91",
+      "6413.29",
+      "6415.83",
+      "6421.79",
+      "6421.82",
+      "6422.93",
+      "6424.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　29-26\n資料番号　036　地図番号　112\n項目名　ものもらい\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(37)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6407.28　マルト　（誤り）\n　　　　メボ　（1959年1月13日再調査）\n6407.43　メボ　石黒著、メボ、ホイタ\n6412.91　menomoral　＜左襟を糸でくくると直る＞\n6413.29　menomorai　なおし方―自分でワラでくくる\n6415.83　hoita　（メボイタとは言わないよし）\n6421.79　meboeta　＜新＞\n6421.82　meboto:　分布から短に（室員）\n6422.93　メボエタ　＜新＞\n　　　　モノモラエ　＜古＞\n6424.20　meboita:　（多く用いる）\n　　　　meboito:　＜こっちは上品下品の区別なし＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02926.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02926",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02926.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6424.89",
+      "6426.04",
+      "6426.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-27\n資料番号 036    地図番号 112\n項目名 ものもらい 036\nA (普通注記)  [B] (除いた共通語)  [C] (除いた特殊語)  (38)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の < > ( ) は厳密にする。\n\n地点番号\nA 語形とその注記 (B・C除いた語形とその注)\nA 注のない語形 (B・C 残した語形とその注)\n\nhoito\n直すときのおまじない - hoito\nhoito derja kuttsaruzo\nと言って、ワラシベを火にくべて、パチッと言えば直る。\n\nmeboito:  <この方をよく用いる>  hoito:\n\ninnome  <犬の目の意>\nhoito  <古>\nimo:ra  <最古> <イモリのこと>\n\nおまじないの文句 -\nmeno kamisan,\nmeno kamisan,\n... sanno meni\nimo:raga deta,\nkore o gutto fuite\nsukute kure,\nPut.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02927.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02927",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02927.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6427.27",
+      "6429.30",
+      "6436.33",
+      "6436.60",
+      "6437.07",
+      "6439.01",
+      "6439.17",
+      "6440.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 29-28\n質問番号　036　地図番号　112\n項目名　ものもらい　036\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)　ページ (39)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6427.27　hoito: imorai　（何れも同じように用いる）\n6429.30　メバチコ　メボ　＞両用\n6436.33　hoeto　＜他人に贈りものをすると直ると　いつが なぜ ホイトというのかわからぬ＞\n6436.60　ホイトオ　＜普＞　モノモライ・\n6437.07　イモラ　〈昔から今でも普通に使われる〉　イモリ、ホイト\n6439.01　メイボ　＜失・新・希＞　メンボオ\n6439.17　mebo　＜井戸にミソンを見せて とれ　たら全部見せる＞\n6440.67　メボイトオ　[ ]　ホイトオ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02928.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02928",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02928.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6441.55",
+      "6441.71",
+      "6448.61",
+      "6449.19",
+      "6450.45",
+      "6456.73",
+      "6457.51"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の〈〉（）は厳格にする。\n日本言語地図資料用紙　注記一覧　29-29\n質問番号　036　地図番号　112\nA（普通注記）　ページ\n項目名　ものもらい　036\n（B　除いた共通語）　（C　除いた特殊語）　(40)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6441.55　メボェートー　or 平板［とや e にはならぬ］\n6441.71　メボイトォ　→メボェトォに近い\n6448.61　メバチコ　〈新〉　　　イモラ\n6449.19　メボォ　短とみとむ（室員）\n6450.45　メボイトー　〈ホイトーガデタと言う〉\n6456.73　φe:to:　〈乞食のことを φe:to:と言う〉\nおまじないー物をもらいに際へ行けば直る。\n\n6457.51　hoito\n直すためのおまじないーdeba\ntsuko deba tsuko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02929.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02929",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02929.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6458.08",
+      "6458.26",
+      "6458.40",
+      "6458.91",
+      "6459.87",
+      "6460.08",
+      "6461.27"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-30\n質問番号　036　地図番号　112\n項目名　ものもらい\n\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (41)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6458.08　モノモライ　メイボ　＜ともに昔から＞\n6458.26　メバチコ　＜新、希＞　イモラ\n6458.40　メバチコ　＜新＞　イモラ\n6458.91　イモラ　対馬島では イモラ、メバチコ 両用する。\n6459.87　メバチコ　＜新希＞　デバツコ\n6460.08　メボイトオ　（古）　メボイチ　（新）\n6461.27　メボエトオ　メベエトオ　（ホイトという言い方もあるが単独では用いられないようだ。用例：ホイトガヤドオスル）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02930.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02930",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02930.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6461.53",
+      "6464.90",
+      "6465.82",
+      "6466.16",
+      "6470.11",
+      "6472.53"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-31\n質問番号　036　地図番号　112\n項目名　ものもらい　036\nA（普通注記）　[B　除いた共通語]　[C　除いた特殊語]　（42）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6461.53　メボイトー　(bｅ:？　be:ではない)　　　メベエトオ\n6464.90　マモオラ　？\n6465.82　メフゴ　＜上瞼＞\n　　　　メモラ　＜下瞼＞\n6466.16　メイボ　＜目のイボである＞\n6470.11　mebo　井戸へ小豆をおとすと直る。\n　　　　小傘のカラカラをつけると直る。\n　　　　肩をもむと直る。　横を熱くして当てると直る。\n6472.53　？　（答えず）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02931.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02931",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02931.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6476.93",
+      "6482.75",
+      "6484.43"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。\nその中での指示は地点番号順に並べる。\n注記の〈〉（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-32\n質問番号　036　地図番号　112\n項目名　ものもらい　036\n（B　除いた共通語）　（C　除いた特殊語）　(43)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\nメエボオ\n付近 mebo ゆえメボとするが\nすこしはなれて me:boもある\nので、ややぎもん。（室員）\n\nme:bo\n〈meibo というのが正しいの\nだろうか〉\n\nメエボ　メボ\n〈これができたときは、まだ出来\nかかったとき、まじないに、あず\nきを目に はさんで、井戸の上に\nのぞき込み、メエボかトオモタラ\nアズキ ジャッタと言いながら落\nすると、すぐになおるという。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02932.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02932",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02932.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6485.30",
+      "6485.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　29-33\n質問番号　036　地図番号　112\n項目名　ものもらい　036\nA（普通注記）　ページ　[B　除いた共通語]　[C　除いた特殊語]　(44)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6485.30　メエホ　〈目のいぼから出来た言葉であろう。小豆（あずき）をメエホの出ている方のまぶたにはさんで、はさんで、井戸をのぞき、それを落とすと治癒するというまじないがあった。〉\n\n・\n\n6485.82　メエホ　メバチコ　メバッコ　？　}　〈メエホは赤くはれてうむもの。メホツというのはイボのようになっていて、うみもせず、そのままいつまでもきえないもの。メバチコ、メバッコは女の子が使うことば、メエホは男の子の使うもの。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02933.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02933",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02933.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6487.43",
+      "6491.49",
+      "6494.08",
+      "6501.92",
+      "6505.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-34\n質問番号　036　地図番号　112\n項目名　ものむらい　036\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(45)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nメエボ　長とみとむ（室員）\nmebo　（海岸部の大浜部落では me:bo といっている。）\nメエボ！　〈同じ位の大きさで、小さなコブの様な、いつまでもくっついていてなおらないのがある。それをメホツという。（メボツではない。）〉\n\nメボ　メーボとはのばさない。\nmebo　短とみとむ（室員）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02934.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02934",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02934.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6507.72",
+      "6512.67",
+      "6516.10",
+      "6517.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での付表は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-35\n資料番号　036　地図番号　112\n項目名　ものもらい　036\nA 普通語　（B 除いた共通語）　（C 除いた特殊語）　ページ (46)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nメンボ　〈新〉　メコジキ\nme:bo.　me:bo とみとむ。ただし どなりに、mebo:あれは半長に いみがあるかもしれぬ（室員）\nモノモライ　〈下側にできるもののこと〉　メンボ\nメンボ　#　（メンボとは言いませんかという質問をしたのに対してメンボと出た。）（モノモライは（実）で、むしろメンボをこの辺りでは使用しているようだ。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02935.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02935",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02935.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6517.65",
+      "6521.94",
+      "6523.06",
+      "6525.05",
+      "6526.08",
+      "6528.06"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-36\n\n質問番号　036　地図番号　112\n項目名　ものもらい　036\n(A 普通注記)\n(B 除いた共通語)\n(C 除いた特殊語)\n(47)\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n\nメンボー\t＜上＞！\nメボー\t＜少＞\t\tメエボ\nmebo\t＜me:boの形もある＞\nme:bo　monomorai\t＜両方使う＞\nメンボ\t＜上のまぶたにできるもの＞\nモノモライ\nmekopdziki\nmonomurae\t＜下のまぶたにできるもの＞\n\t\t＜一つとも昔から普通に使っている、(二者の区別を聞き出すことが出来なかった。)＞\n\nmembo　＜希＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02936.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02936",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02936.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6528.64",
+      "6532.70",
+      "6532.89",
+      "6532.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記 — 29-37\n質問番号 036　地図番号 112\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (48)\n項目名 ものもらい\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nmem'bo　＜[他]＞　monomorae\nメイボ　mêbo；meibo；という事\nを、発音意図の問題として探ろうとしたが、なかなか難しそうであった。強いていうと、発音意図は meibo、アクセントが 000 型なる故、mêbo と聞え易いという事になる。\n\nメイボ　メエホと長音化せず\n\nメーボ　メエボ me·eboよりは mêbo といった長音的と思われる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02937.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02937",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02937.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6536.39",
+      "6537.06",
+      "6537.21"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語秩は地点番号順に並べる。\n注記の< >( )は略称にする。\n\n日本言語地図資料用紙　注記一覧　29-38\n質問番号　036　　地図番号　112\n項目名　ものもらい　036\nA　普通語形　(B 除いた共通語)　(C 除いた特殊語)　(49)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nmembo　<まぶたの上にできるもの>\nmonomorjæ:　<まぶたの下にできるもの>\n\nmonomoræ:　membo　<上><下>　＜普通は上のように昔からいっているが医者\nなんかに行くと下のよう\nに言われる。下は上品\nな言い方。＞\n\nmembo　monomoræ:\n<memboは上まぶたに出\n来、monomoræ:は下まぶ\nたに出来るもの。上下で名\nが違う。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02938.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02938",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02938.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6539.60",
+      "6542.58",
+      "6543.05",
+      "6546.73",
+      "6547.09",
+      "6547.24"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は略記にする。\n\n日本言語地図資料用紙　注記一覧　29-39\n質問番号　地図番号\n036　112\n項目名　ものもらい　036\n（A 普通注記）　（B 除いた共通語）　（C 除いた特殊語）　ページ（50）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nmonomurai　［mue の如し］\nメバチコ　（古）現在全く用いない。　メーボ\nメンボ　〈上〉\nmebotsi／meNbo／mebotsiN　}〈どれも同じように使う〉\nmetʃimbo　［　］［下］〈一般農家に多いようだ〉\nmonomoraē　〈なおったあと　及びかなりなおったものを[metʃiriN]という。〉（[monomorai]は最盛期のものと思われる。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02939.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02939",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02939.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6547.67",
+      "6547.79",
+      "6550.96",
+      "6551.18",
+      "6551.77"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での音情報は地点番号順に並べる。 注記の＜＞（　）（　）は厳密にする。 日本言語地図資料用紙　注記一覧　29-40 資料番号 036　地図番号 112 A 普通注記 ページ (51) 項目名　ものもらい　056 [B 除いた共通語] [C 除いた特殊語] 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 6547.67　monomurai　# 最初 metjirIN という 解答を得たがこれは目のふちがひきつれたように なっているもの〉とのこと。 6547.79　metʃimbo　monomorai　＜異／幾分わるい言葉＞　＜こちらの方が多く使わ れると思う＞ 6550.96　モノモライ　＜多＞　メバツボ 6551.18　ナツムシ　＜夏に出やすい＞ 6551.77　mebatjiko　（アクセント「メバチコ」）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02940.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02940",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02940.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6552.46",
+      "6552.88",
+      "6552.90",
+      "6553.22",
+      "6553.52",
+      "6553.83",
+      "6553.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-41\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n質問番号 036　地図番号 112\n項目名 ものもらい 056\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (52)\n表ヘッダ: 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形　[B・C 残した語形とその注]\n6552.46 mebatjiko　（アクセントは「メバチコ」）\n6552.88 mebatjiko　＜古＞\tmekasa\n6552.90 me:bo　（「メーボ」）\n6553.22 mebo:　（「メボ」というアクセントである。）\n\n6553.52 mebo　（アクセント「メボ」）\n6553.83 mebo / mebatjiko　＜「メバチコ」の方が新しく使い出したもので、やはり「メボ」の方が一般的である。＞\n\n6553.99 mebo　（「メボ」）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02941.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02941",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02941.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6556.03",
+      "6556.60",
+      "6563.43",
+      "6563.84",
+      "6564.51"
+    ],
+    "other_text": "A・[B]・[C]ごとに別票を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-42\n質問番号　036　　地図番号　112\n項目名　ものもらい　036\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　(53)\n\n（表ヘッダ）\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形（B・C 残した語形とその注）\n\n6556.03　mebottʃi:　（～tʃiと～tʃi:の中間くらいである。）\n6556.60　メボ　〈古〉　　　　　メンボ\n6563.43　mebatʃiko　〈“メバチコ”の方が多い〉　　　mebo\n6563.84　mebo　〈これをよく使う〉\n　　　　mebottʃo　〈あまり使うことはない〉\n　　　　mebatʃiko　[ ]\n　　　　（メボとメバチコのcontaminationと見られる。mebatʃikoの語頭/分裂する。(原文手書き注)）\n\n6564.51　mebo　〈古〉\n　　　　mebatʃiko　〈新〉\n\n（下部手書き）\nmebo\nmebatʃiko　〈新〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02942.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02942",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02942.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6565.56",
+      "6567.79",
+      "6571.34",
+      "6572.04",
+      "6573.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-43\nA・[B]・[C]ごとに別紙を使用する。\nその中での音標は地点番号順に並べる。\n注記の＜＞（）は原語にする。\n\n資料番号 036　地図番号 112\nA 普通注記　B（除いた共通語）　C（除いた特殊語）　ページ (54)\n項目名 ものもらい\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6565.56  mebo  短とみせむ（室員）\n6567.79  me:tombo  ＜古くからの通称＞  mebo\n6571.34  mebatsuko  （アクセントは「メバッコ」）\n6572.04  mebatjiko  （アクセントは「メバチコ」であった。）\n6573.17  metfatça\nmebo\n〈多〉}（「上品」という説明は\n〈上品〉 外来者と話をする時に\n使うことはだから、上品\nと感じるらしい。ふつう\nは「メチャチャ」である。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02943.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02943",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02943.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6573.71",
+      "6574.06"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 29-44 質問番号 036 地図番号 112 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (55) 項目名 ものもらい 036 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] mebatsjiko （一般に用いる） meboitji 治療法（室員） → 「メバチコ」が多くできるところ ので、すぐ「メボイチ」と言いかえる習慣がある。（これは「メバチコ」の数が多数を意味するので、その措言として、1の数におきかえ、少数でくいとめようという気持による後次的な命名である） mebo ＊（はじめは [KOYIME] と言。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02944.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02944",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02944.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "6575.40",
+      "6580.06",
+      "6581.52",
+      "6583.19"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本語語地図資料用紙　注記一覧　29-45\n管理番号 036　地図番号 112\n項目名　ものもらい 036\nA 普通注記\n[B 除いた共通語]　[C 除いた特殊語]　(56)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nmebo.　ていたが、くり返し尋ねたら［mebo］を得た。短とみとむ（室員）\n\nメバイコ　〈新〉　メボ\n\nデバツク　〈デバツコという人も多い〉\n\nimo　〈「メ＝イモ　デケタ」という。〉（従って、単に「イモ」というだけで、指で示せばわかるし、また、「メ＝イモ　デケタ」の表現をとるので、「イモ（いいはのこと）」というだけで、わかるのである。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02945.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02945",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02945.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "6583.41",
+      "6583.45",
+      "6583.93",
+      "6584.90",
+      "6591.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙　注記一覧　29-46 資料番号　036　地図番号　112 A普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (57) 項目名　ものもらい　036 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注） 6583.41　imo morai　〈古〉 mebat͡siko　〈新〉 6583.45　mebat͡siko　（「メバチコ」）〈これを治すまじないとして、ツケのくしを摩擦させ熱して患部に当てる。 また藁のシンを目の前で結ぶとよい。〉 6583.93　imomorai　〈新〉　imoʒa 6584.90　memo:da　〈古〉　mekoziki 6591.02　デバッコ　（テバツク、メモリ、ままマフグリなどと言う。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02946.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02946",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02946.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "6591.81",
+      "6592.35",
+      "6593.30",
+      "6604.38",
+      "6607.03"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-47\n質問番号 036　地図番号 112\n項目名　ものもらい\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(58)\n\n地点番号　A 語形とその注記　(B・C除いた語形とその注)　A 注のない語形　(B・C 残した語形とその注)\n\nメバツコ　<少>　デバツコ\nmebatsjiko　(アクセント「メバチコ」)\nimora\nmekodziki　[ ]　なおし方：もち米でワン　コロを作って、葉でつつた。櫪で焼いた。\n\nメッコジキ　<古>　モノモライ\nmonomorai　([monomore:] と読まない)\n点が相模方言圏内と異なる。\n相模原の同項目参照。[-ai]\nを含む音節について、このような対応を示す例は多い。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02947.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02947",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02947.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "6610.77",
+      "6611.61",
+      "6613.54",
+      "6617.75",
+      "6618.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-48\nA・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n質問番号 036    地図番号 112\nA 普通注記    (B 除いた共通語)    (C 除いた特殊語)    (59)\n項目名 ものもらい 036\n\n（表ヘッダ） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nmekoziki  [〈こく多〉〈古くから〉\n[2.3軒コジキをすると治る]    monomurai\n\nmekoziki  ＜mekonjiという人もある＞\n\nnome  [ふるいの目で向うを見ると通る]\n\nモノモレエ  くじないは、井戸にふるいを半分みせる、そして直ったとき全部みせる＞\n\ntoraho:mu  ＜「お目待ち」などのような、人の多く寄る時に、御飯などをもらうとなおるといわれる＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02948.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02948",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02948.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "6621.34",
+      "6623.28",
+      "6626.30",
+      "6626.46",
+      "6626.71"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 29-49\n質問番号 036  地図番号 112\n項目名 ものもらい 036\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (60)\n\n地 点 番 号    A 語形とその注記 [B・C除いた語形とその注記]    A 注のない語形 [B・C 残した語形とその注記]\n\nかに「目のふちのできもの」のこと\n(に間違いない。)\n\n6621.34    mekodziki    <mono morai から変って そういうようになったんだな>    monomorai\n\n6623.28    メコンジキ    <希>    モノモライ\n\n6626.30    mononomoræ    <ぐさるを持って 隣近所5軒 殻物をもらって歩けば直る。 そのとき橋を渡ってはいけない>\n\n6626.46    monomorai    <目玉へできるのは[mebo;i]>\n\n6626.71    monomoræ:    # (この項目では はっきり)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02949.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02949",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02949.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "6630.82",
+      "6632.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-50\n\n質問番号    地図番号\n036         112\n\n項目名\nものもらい 036\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(61)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n[−え:こ]が出た。おそらく若い\n頃には[-ai, -ae]等は\nみな[−え:こ]であったろう。\n足柄方面は静岡方言との共通\n性あり。（なお項目269,040,\n041参照。）\n\n6630.82 mekoujiki  <子に向かって> 隣から何か\nmonomurai  もらって来ると\n直る。\n\n6632.15 mekondziki ！<目を食のこと>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02950.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02950",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02950.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "6632.64",
+      "6632.88",
+      "6635.87",
+      "6650.12",
+      "6665.25",
+      "6667.81",
+      "6677.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-51\n資料番号 036 地図番号 112\n項目名 ものもらい 036\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (62)\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n6632.64 mekondziki <古>\nmenebutsu (説明させるとこれは麦粒腫でないかもしれなかった。)\n\n6632.88 mekondziki 古 mekodziki\n\n6635.87 mehadako ((OFに分類した)) 頭\n\n6650.12 memomorai 新 menomorai\n\n6665.25 me'pi: ((OFに分類したー窩))\n\n6667.81 monomorai 誘\n\n6677.70 meppaitso <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02951.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02951",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02951.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "6686.75",
+      "6701.46",
+      "6711.16",
+      "7218.09",
+      "7218.26"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-52\n\n質問番号　036　　地図番号　112\n項目名　ものもらい　036\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (63)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nmeppaitjo:　〈ミソコシジャルを持って井戸の水を覗くとなおる〉\n\nmonomore:　（この語末は少しだけしかのばさない。）\n\nmonomore:　(?)\n\ninnokuso　誘、朝、寝起きに東を向いて、となえごとを言いながら、草履の尻のワラで差すと直る。\n\ninnokuso　草履の尻で差すまねをすると直る。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02952.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02952",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02952.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "7218.58",
+      "7229.75",
+      "7238.12",
+      "7238.40",
+      "7238.82",
+      "7239.24"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）｛｝は厳密にする。\n\n日本言語地図資料用紙注記一覧　29-53\n\n資料番号 036　地図番号 112\n項目名 ものもらい 036\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (64)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7218.58　innokuso　＜犬の糞の意＞ 草履の尻で、\n　　　　人に知られないように触れると\n　　　　直る。\n\n7229.75　metjimbo　＜!＞\n　　　　okjakusan　＜新＞\n\n7238.12　innokuso　＜希＞　memorja:\n7238.40　innokuso　＜希＞　memorja:\n7238.82　innokuso　＜希＞　memorja:\n\n7239.24　hotokisama　＜どのなかのスサわらで家く\n　　　　と直る。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02953.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02953",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02953.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "7239.41",
+      "7239.85",
+      "7246.82",
+      "7259.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-54\n質問番号 036    地図番号 112\n項目名 ものもらい 036\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (65)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nmonomoroi: [ ]\n7239.41 okjakusama　<上>　innokuso\n7239.85 インノクソ　[下]　<これを使うものは\nあるが自分は使ったことは\nない。>\n\n7246.82 memorai　大豆で目をなぐって井戸の\n中へ2,3粒投げる。\n目に大豆をはさんでそれ\nを井戸へ落とす。\n\n7259.22 innokuso　<下品>\nmemorai　{末っ子の女の人にカマドの...}",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02954.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02954",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02954.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "7266.09",
+      "7275.07",
+      "7279.93",
+      "7303.29",
+      "7307.48"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の<>()[]は厳密にする。 日本言語地図資料用紙 注記一覧 29-55 質問番号 地図番号 036 112 項目名 ものもらい (66) A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] ワラ (susaという) をとって 患部に刺してもらう > 7266.09 baka (bakaといえば大きくならない mebura といわれているので ふざけてこういうことも多いとのことである。) 7275.07 インノクソ 犬の糞の意味 7279.93 mesimorai [ ] 7303.29 meibo <monomorai (米)(新)と いう人もいる。> 7307.48 memora <この方を多く使う> meibo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02955.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02955",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02955.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "7312.11",
+      "7313.34",
+      "7313.68",
+      "7320.59",
+      "7321.46"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞＜（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧    29-56\n\n資料番号 036    地図番号 112\n項目名 ものもらい 036\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (67)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nmonomorai    メイボなし    meibo\ninnokuso     (犬の糞の意)    meibo\nmeibo        (多)    mono more:\nhoito        (多少ふざけた言い方)\nogimesama    [昔から荒神様の燻をつけると、すぐうんマ、早うようなるという。]（老人は子供の時したという。）\n\nogimesama    innakuso    moraimon  }  #筒にショオケ(ざる)を半分見せて、何とか言うと直る。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02956.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02956",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02956.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "7322.21",
+      "7322.81",
+      "7323.17",
+      "7324.24",
+      "7324.96",
+      "7326.41",
+      "7329.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-57\n質問番号　地図番号\n036　112\n項目名　ものもらい\nA（普通注記）　B（除いた共通語）　C（除いた特殊語）　ページ（68）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）[]は厳密にする。\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7322.21　ojimesama　＜女が使う＞\n　　　　innokuso　＜男が使う＞\n7322.81　monomorai　（多）　memorai\n7323.17　hoito　（物乞人の意）　monōmorai\n7324.24　hoito\n　　　　monomorai　（ホイトは『食』である。モノモライの転化か）\n7324.96　innokus o　（聞くことあり）　mōnomorai\n7326.41　memorwé　eはやや狭いe\n7329.39　meibo\n　　　短とはしにくいがすぐな\n　　　いし分布からもmeiboに\n　　　含ませよう。（室員）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02957.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02957",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02957.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "7329.57",
+      "7330.31",
+      "7330.77",
+      "7332.97",
+      "7338.48",
+      "7340.24",
+      "7340.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉（）は厳密にする。\n日本言語地図資料用紙 注記一覧 29-58\n資料番号 036　地図番号 112\n項目名 ものもらい 636\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(69)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7329.57　meibo　くきちんといえば meibo でしょう　mebo\n7330.31　オキャクサン\n　　　　インノクソ　<下>　{} 文養をつけたら治るという\n7330.77　innokuso　<希>　naiwazu\n7332.97　innokuso　(innokuso は人が嫌)\n　　　　ocimesama　うので、オヒメサマという。\n7338.48　me'bo　長とみとむ（室員）\n7340.24　innokuso　<稀>　naiwazu\n7340.27　naiwazu 又は innokuso　(区別せず両様にいう由、名は・・・)\n　　　　わずの方がいくらか上品か。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02958.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02958",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02958.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "7341.42",
+      "7341.47",
+      "7342.72",
+      "7349.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-59\n質問番号　地図番号\n036　112\n項目名　ものもらい 036\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (70)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7341.42　naiwazu　名言わずの意であるが近傍でさかれる nja:wazu の形は出なかった。\n\n7341.47　innokuso　＜古、下＞　memore:\n\n7342.72　memore　(innokuso を聞いたら 知っているし使う人もいるとのこと。 ojimesan も少ないけれど同様という。)\n\n7349.07　mebo　＜beibo no tsumori da;＞といっていた。(beibo は meibo であろうが 発音はこうきこえた。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02959.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02959",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02959.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "7350.21",
+      "7350.96",
+      "7352.14",
+      "7352.38",
+      "7353.03",
+      "7353.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-60\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n質問番号 地図番号\n036 112\n項目名 ものもらい 036\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (71)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ninnokuso\t<3><下>\tmetoppo:\ninnokuso memoryai\t<下にできたのかインノクソ／で上にできるのがメモリヤ／だ。メモリヤの方のかたちがわるい。呪語をのべて下から吹きあけたりする。>\nインノクソ\t<古・希>\tメモレ\nogimesan\t(上品な語)\tinnokuso\nmenebuto\t(多い)\tinnokuso\nオヒメサン\t<?>\tインノクソ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02960.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02960",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02960.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "7354.23",
+      "7355.48",
+      "7356.70",
+      "7359.78",
+      "7361.17",
+      "7361.82",
+      "7362.42",
+      "7363.12",
+      "7363.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 29-61\n質問番号　地図番号\n036　112\n項目名　ものもらい 036\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (72)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7354.23　インノクソ　〈若い女性はオレメサンという〉\n7355.48　ujimon　〈希〉　memorai\n7356.70　innokuso　〈犬の糞なり〉\n7359.78　mebo　〈!〉\n7361.17　メモレ　〈新〉　インノクソ\n7361.82　more.　〈くどのわらで、突いて膿を出すと直る。〉\n7362.42　インノクソ　〈多少鼻〉　オレメサン\n7363.12　インノクソ　（下）　オレメサン\n7363.59　オレメサン　#（下まぶたにできたものを）↓",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02961.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02961",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02961.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "7364.34",
+      "7372.03",
+      "7372.27",
+      "7372.96",
+      "7373.56"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）｛｝は厳密にする。\n\n日本言語地図資料用紙　注記　-29-62\n\n質問番号　036　　地図番号　112\n項目名　ものもらい　036\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(73)\n\n地点番号\tA 語形とその注記（B・C除いた語形とその注）\tA 注のない語形（B・C 残した語形とその注）\n\n（本文）\nオヒメサン、上まぶたにできた\nものをインノクソと言いわけ\nることが多いという。総称は\nオヒメサンであろうという。\n\n7364.34　オトヒメサン　＜希＞\n7372.03　オヒメサン　＃＜男女ともにオヒメサンという＞\n7372.27　オヒメサン　＜新。希＞\tインノクソ\n7372.96　オヒメサン　＜（インノクソ）＞\n7373.56　オヒメサン　（新。希）\tインノクソ\nモライ　（新。希）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02962.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02962",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02962.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "7373.92",
+      "7373.99",
+      "7374.15",
+      "7377.27",
+      "7381.38",
+      "7381.47",
+      "7382.01"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞[]は厳密にする。 日本言語地図資料用紙 注記一覧 29-63 質問番号 036 地図番号 112 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (74) 項目名 ものもらい 036 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7373.92 オヒメサン ＜新＞ インノクソ 7373.99 オヒメサン ＜新＞ インノクソ 7374.15 オヒメサン [　] [新] インノクソ 7377.27 meibo ＜古＞ meinebuto 7381.38 オヒメサン ＜新、希＞ インノクソ # 7381.47 NK ＜現地の他の人によってしらべたところでは、オヒメサン、インノクソであろうと推定する＞ 7382.01 megasa ＜櫛を貫にすって突くとなおる＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02963.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02963",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02963.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [
+      "7382.58",
+      "7384.16",
+      "7386.63",
+      "7390.26",
+      "7390.70",
+      "7391.94"
+    ],
+    "other_text": "日本語言語地図資料用紙注記一覧 29-64\n質問番号 036    地図番号 112\n項目名 ものもらい 036\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)    ページ (75)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\nインノクソ　〈女・子供はオレメサンという〉\ninumorai\ninumorja: （raiがrja:となるのがこの土地の方言）\ninnokuso　〈日常語〉\nmenebito　〈新〉\nセンモン　〈希〉　　　モリァア\nモライソオ　〈希〉　　　ゼンモン\nメェワンジ（メェワンジ）　（御所浦村横浦島では\nメバチコ、モリァワンジン）\nという由。（横浦島の花祭に船中できく）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02964.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02964",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02964.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "7392.33",
+      "7392.94",
+      "7395.25",
+      "7400.11",
+      "7400.15",
+      "7401.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 29-65\n質問番号　地図番号\n036　112\n項目名　ものもらい　056\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ (76)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nオヒメサン　＜新＞（？〈狭〉）　インノワン\nオヒメサン　＜新＞＜きわめて希＞　インノワン\ninnokuso　＜古＞　menebu\nmebo　＜眼球にできた点は maruto という。＞\nmebo　＜meibo なのだろうが mebo とだけいう。＞\nmeibo　meniibo ga dekita no ようにもうい。\n\nmenoibo　この注により (meno) は ibo の説明とみる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02965.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02965",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02965.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "7403.21",
+      "7404.12",
+      "7414.87",
+      "7416.34",
+      "7431.08",
+      "7500.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-66\n質問番号　地図番号　036　112\n項目名　ものもらい 036\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (77)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n7403.21　me:ibo　[mebo]\n7404.12　me:bo　( me-ibo という意識はないらしい。 )\n7414.87　meibo　〈古〉\t\tmebo\n7416.34　mebo(:)\t〈かまどのチリをつけてメボツケと３度くりかえしていうと直るといったものだ〉\n7431.08　maruto\t(<<maruto ya deta>>　ようにいう由。)\n7500.24　デバッ?　メバチコ　〈ネ〉（共通語という意識がふつうある。）\n\t＊（メバックという人もある。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02966.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02966",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02966.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [
+      "7500.43",
+      "7500.66",
+      "7502.89",
+      "7502.91",
+      "7504.27",
+      "7511.66",
+      "7512.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 29-67\n質問番号 036　地図番号 112\n項目名 ものもらい 036\n(A 普通注記) (B 除いた共通語) (C 除いた特殊語) ページ (78)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7500.43　デバツク　＜少＞　デバツコ\n7500.66　デバツク　（メボシともいう。）\n7502.89　monomorai　＜古＞　mebatjiko\n7502.91　メフグリ　＜目の上まぶたにできたもの。＞\nイモダ　＜目の下まぶたにできたもの。＞\n以上、区別して呼んでいる。　＜総称名はない。＞\n7504.27　monomorai　あるいは［共］か？\n7511.66　メフングリ　＜多く用いる＞　デバツク\n7512.43　メフグリ　＜古＞　モノモライ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02967.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02967",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02967.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [
+      "7521.16",
+      "7521.79",
+      "7522.94",
+      "7523.30",
+      "7533.11",
+      "7659.31",
+      "7659.51",
+      "7659.53"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく、><)[]は厳密にする。\n日本言語地図資料用紙注記一覧　29-68\n質問番号 036　地図番号 112\n項目名　ものもらい　036\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (79)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nメバチコ　〈メボシという人もある〉\nメバチコ　〈ゴキノゾキともいう。〉\nゴキノゾキ　〈ゴキは椀、椀のそぎの意〉\nメバチコ　〈ゴケノゾキ、メバチともいう人がある。〉\nメバチコ　〈イモモライ、ゴキノゾキという人もある。〉\nmonomure:　誘　numme\nnumme　誘\nmonomorai　目のなかに出来るのを numme という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02968.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02968",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02968.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "7659.62",
+      "8229.96",
+      "8239.31",
+      "8300.11",
+      "8300.80"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 日本言語地図資料用紙 注記一覧 29-69\n資料番号 036　地図番号 112\nA（普通注記）　[B]（除いた共通語）　[C]（除いた特殊語）　ページ（80）\n項目名　ものうらい　036\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n7659.62　numme　誘?\n8229.96　narasi　〈普通〉（“名無し”の説りであろう。）\n\n8239.31　innokuso　innokuso　ennokuso　*\n　　　〈希〉（語頭のイはエに発音する傾向。その場合は[e]。本来のエは[je]）\n\n8300.11　ジェンモン（上）　クンジン（下）\n8300.80　ジェンモン（単語というほどでもないが　メモラッ?　気安いことはだという。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02969.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02969",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02969.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_080.jpg",
+    "page_index": 80,
+    "location_numbers": [
+      "8301.19",
+      "8301.76",
+      "8302.91",
+      "8303.13",
+      "8303.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙注記一覧 29-70 資料番号 036 地図番号 112 項目名 ものもらい A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (81) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 8301.19 メネフォト <古くからいっている> 8301.76 メモレ <古> モ/モラィ インノクソ <古> 8302.91 インノクソ # <オレメサンとは言わず> 8303.13 innokuso (多い) <meta, およびその 単語 meta jippi?: me ta; kuɾiN ぶつぶつできて ただれるもので innoku so とは別> 8303.47 インノクソ メネフォト [オヒメサン?] 採調査者は知らない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02970.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02970",
+    "source_canvas_label": "81",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02970.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_081.jpg",
+    "page_index": 81,
+    "location_numbers": [
+      "8303.84",
+      "8306.04",
+      "8306.42",
+      "8310.87",
+      "8311.41",
+      "8312.33",
+      "8312.75",
+      "8313.84",
+      "8315.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 29-71 質問番号 地図番号 036 112 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (82) 項目名 ものもらい 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C] 残した語形とその注 ナナシ ＜新＞ インノクソ mebo ＜普通使う＞ innokuso innokuso ！＜老人が多く言う＞ menebu menettsu ＜そんざいに発音する＞ menehuto namotazu ＜希＞（名もたすの義） innokuso menetto ＜古＞ （宮之城町の調査では 新古が逆である） innokuso ＜新＞ menettsu メネットの訛形 memore ＜多＞…この方を多く使うの意 immore meibo ？（色々聞いたが、その他） ↓",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02971.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02971",
+    "source_canvas_label": "82",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02971.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_082.jpg",
+    "page_index": 82,
+    "location_numbers": [
+      "8321.58",
+      "8331.17",
+      "8331.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 29-72\n質問番号 036　地図番号 112\n項目名 ものむらい 036\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (83)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注記]　A 注のない語形 [B・C 残した語形とその注記]\n\n8321.58 innokuso\nmemebuto\n形は聞き出せなかった。第三者も metbo と答えた。\n〈従来の方言として用いて来た〉\n〈新〉（現在はこのように言う）\n（上村田、大口市山野と逆になる）\n\n8331.17 innokuso\n〈meneçitoという人がある〉\n\n8331.98 innoko\nオカマサマのねんどのなかのワラをとって innoko に近づけると直る。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02972.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02972",
+    "source_canvas_label": "83",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02972.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_083.jpg",
+    "page_index": 83,
+    "location_numbers": [
+      "8332.59",
+      "8334.63",
+      "8335.11",
+      "8335.83",
+      "8341.12",
+      "8342.35",
+      "8342.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）［　］は厳密にする。\n\n日本言語地図資料用紙注記一覧 29-73\n質問番号 036  地図番号 112\n項目名 ものもらい 036\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(84)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n8332.59  immore (immoreから来た)\n8334.63  memore  <多く使う>   mono\n8335.11  meibo,  <最近のことは>   memore\n8335.83  imore  <古>   mebatj;ko\n8341.12  innobebe  [コサ 同町出身嫁の略語]\n8342.35  menesito  <希>   baka!\n8342.69  immore  <山のハバイバイカズラを折ると汁が出る。これを口に含んで吹きかけると直るという。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02973.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02973",
+    "source_canvas_label": "84",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02973.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_084.jpg",
+    "page_index": 84,
+    "location_numbers": [
+      "8352.92",
+      "8372.47",
+      "8373.43",
+      "9322.52",
+      "0247.31",
+      "0256.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 29-74\n質問番号 036　地図番号 112\n項目名 ものもらい 036\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (85)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C残した語形とその注]\n\n8352.92　innokuso　〈頭の毛を2本よってつつく、カマドの土の中のワラをとってつつく〉\n\n8372.47　innokuso　〈右〉\nimmore　〈新〉\n\n8373.43　imore　(※) inmokusoという。浜川氏はどうかと聞いたがハッキリしない。\n\n9322.52　meibo　〈多し〉　innokuso\n\n0247.31　ibire　〈新〉　ibiri\n\n0256.76　ibiri　(・半長音)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02974.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02974",
+    "source_canvas_label": "85",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02974.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_085.jpg",
+    "page_index": 85,
+    "location_numbers": [
+      "0840.33",
+      "0873.94",
+      "1773.27",
+      "2750.44",
+      "4609.25",
+      "4629.43",
+      "4666.42"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は敢略にする。\n\n日本言語地図資料用紙　注記一覧　29-75\n資料番号 036　地図番号 112\n項目名　ものもらい\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)　(1)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n0840.33　monomorai　〈少〉　meppa〈多〉\n0873.94　mono morai　〈あとで言うようになった。〉　meboji;〈子どものころ、アイスか? そういっていたので使った。〉 hoji;〈子どもの時〉 meppa〈そのあとで、多くつかった〉 メッパ\n\n1773.27　モノモライ　〈新〉　メッパ\n2750.44　モノモライ　〈新〉　メッパ\n4609.25　monomorae　[新]　morimori\n4629.43　monomoral　〈上〉　monomore\n4666.42　monomorae　〈共〉　meƀungguri",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02975.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02975",
+    "source_canvas_label": "86",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02975.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_086.jpg",
+    "page_index": 86,
+    "location_numbers": [
+      "4712.54",
+      "4723.14",
+      "5599.41",
+      "5605.70",
+      "5611.81"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）は厳密にする。 日本言語地図資料用紙　注記一覧　29-76 質問番号　036　地図番号　112 項目名　ものもらい　036 A 普通注記 (B 除いた共通語) (C 除いた特殊語) （2） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） 4712.54　monomole:　〈新〉　hoedo:　〈本当は乞食の意だがものもらいの意に転用したもの〉 4723.14　monōmorae?／monōmorash?　〈新〉　baga　mono　動詞的にはmono deruともいう。 5599.41　モノモライ　〈他〉　メコヅキ 5605.70　monomorae　〈新〉　monomone〈古〉 5611.81　monomorai　（上）にこれを最初に答えた）　その他",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02976.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02976",
+    "source_canvas_label": "87",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02976.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_087.jpg",
+    "page_index": 87,
+    "location_numbers": [
+      "5623.42",
+      "5625.91",
+      "5631.75",
+      "5633.96",
+      "5639.80",
+      "5642.67",
+      "5645.43",
+      "5647.56",
+      "5652.06",
+      "5652.37"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本語語地図資料用紙　注記一覧　29-77\n資料番号　036　地図番号　112\n項目名　ものもらい　036\nA 普通注記\n(B) 除いた共通語\n(C 除いた特殊語)　(3)\n\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]\nA 注のない語形（B・C 残した語形とその注）\n\n5623.42　mono morai　〈共〉　mono yure\n5625.91　mono morae　〈希〉〈新〉〈共〉　meppatsu [monomurae]\n5631.75　mono morai　〈新〉　mekkoziki\n5633.96　mono morai　〈共〉　koziki\n5639.80　モノモライ　〈新〉　メカゴ　〈古〉\n5642.67　monomorai　[ ]〈上〉　mekoziki\n5645.43　モノモライ　〈新〉　メカゴ　〈古〉\n5647.56　モノモライ　〈新〉　メカゴ　〈古〉\n5652.06　monomorai　〈上〉　mekodziki\n5652.37　monomorai　〈共〉　[mekoziki]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02977.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02977",
+    "source_canvas_label": "88",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02977.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_088.jpg",
+    "page_index": 88,
+    "location_numbers": [
+      "5652.96",
+      "5653.60",
+      "5653.65",
+      "5661.68",
+      "5663.68",
+      "5670.47",
+      "5671.38"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 日本言語地図資料用紙　注記一覧　29-78 資料番号　036　地図番号　112 A　普通注記 項目名　ものもらい　036 (B)　除いた共通語 (C)　除いた特殊語　(4) 地点番号欄　A 俗形とその注記（B・C除いた音形とその注）　A 注のない音形（B・C 残した音形とその注） monomorai　＜上＞　mekkodziki monomorae　＜上共＞　mekayo monomorae　＜新＞　mekanyo monomorai　＜共＞＜おとなしい感じがする＞　mekkoziki monomorae　＜共＞　mekayo monomorai　＜新しいことば＞　mekkodziki metjimbo　＜古＞　この地では「めやに」のことを metto と言っている。 monomorai　＜共＞　mekoziki",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02978.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02978",
+    "source_canvas_label": "89",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02978.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_089.jpg",
+    "page_index": 89,
+    "location_numbers": [
+      "5672.75",
+      "5680.98",
+      "5684.11",
+      "5686.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-79\n質問番号　036　地図番号　112\n項目名　ものもらい　036\nA 普通注記　B（除いた共通語）　C（除いた特殊語）　ページ（5）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5672.75　monomorai　〈希〉　　　　mekodziki\n5680.98　monomorai　〈共〉　　　　mekodziki, metjimbo\n5684.11　monomorai　〈新〉〈よそからはいった〉　mekayo\n　　　　　　　　mekkoziki 〈新〉〈よそからはいった〉\n5686.31　monomorai　〈希〉　　　　mekago 〈メカゴとは本来固\nあるサルのこと。ここではmeke:\nと言う。民間治療法に、#へ\nこのmeke:を半分見せて直して\nくれるなら全部見せるというの\nがある。meke:で、なくても",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02979.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02979",
+    "source_canvas_label": "90",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02979.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_090.jpg",
+    "page_index": 90,
+    "location_numbers": [
+      "5689.98",
+      "5690.12",
+      "5692.53",
+      "5703.70",
+      "6349.23",
+      "6401.89"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　29-80\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n\n[上部小欄]\n質問番号 036　地図番号 112\n項目名 ものもらい 036\nA 普通注記　(B) 除いた共通語　(C 除いた特殊語)　(6)\n\n表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n（右欄手書き注記）\n目の多いものなら節で\nも何でもよい>\nくよそで物をもらって食うと治る。>\n\n行項目（下段一覧手書き）\n5689.98　monomorai　＜共＞\t#monomore\n5690.12　monomorai　＜新・共＞\tmekkoziki\n5692.53　monomorai　＜共＞＜最近言うようになった＞\tmekoziki\n5703.70　monomore:\t＜新＞\tnomme\n6349.23　モノモライ　＜新＞\tホイト　＜古＞\n6401.89　モノモラエ　＜新＞\tメマンジョ　＜古＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02980.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02980",
+    "source_canvas_label": "91",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02980.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_091.jpg",
+    "page_index": 91,
+    "location_numbers": [
+      "6402.94",
+      "6415.83",
+      "6423.75",
+      "6509.43",
+      "6517.31"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙 注記一覧 29-81\n質問番号 036    地図番号 112    A 普通注記    ページ\n項目名 ものもらい 036\n（B 除いた共通語）    （C 除いた特殊語）    (7)\n\n地点番号　A 语形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nモノモラエ    ＜新＞    マンジャ　＜古＞＜多く使う＞\nmonomorai    ＜新、上稀＞    hoita（メボイタとは言わないよし）\nmonomorai    ＜聞いたことのある程度＞    meboito:\nモノモライ    ＜他、希＞    メコジキ\nモノモライ    （失）    メンボ（メンボとは言いませんかという質問をしたのに対して、メンボと出た。）\n（モノモライは（失）で、むしろこの辺りではメンボを使用しているようだ。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02981.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02981",
+    "source_canvas_label": "92",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02981.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_092.jpg",
+    "page_index": 92,
+    "location_numbers": [
+      "6519.43",
+      "6529.15",
+      "6600.53",
+      "6601.25",
+      "6631.53",
+      "6633.27",
+      "6635.20",
+      "6635.87",
+      "6636.05",
+      "6642.58"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）は厳密にする。 日本言語地図資料用紙 注記一覧 29-82 質問番号 地図番号 036 112 項目名 ものもらい A 普通注記 B（除いた共通語） C（除いた特殊語） ページ（8） 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） モノモライ　〈他〉　メコジキ モノモライ　〈失〉　メコジキ monomorai　〈失,上〉　mekodziki monomorai　〈失上〉　mekoziki monomürai　新　mekorziki monomorae　新　menebutsu monomorai　新　mebosj monomorai　新　mehadako monomorai　新　mebosj monomorai　新　mekonziki",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02982.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02982",
+    "source_canvas_label": "93",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02982.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_093.jpg",
+    "page_index": 93,
+    "location_numbers": [
+      "6643.15",
+      "6643.16",
+      "6645.01",
+      "6662.38",
+      "6665.25",
+      "6686.75",
+      "7335.93",
+      "7357.31"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　29-83\n質問番号　036　地図番号　112\n項目名　ものもらい　036\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(9)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6643.15　monomorai　上　mekonojiki\n6643.16　monomorai　新　mekonojiki\n6645.01　monomorai　新　mempai: , mekonziki\n6662.38　monomorai　上　me'pa\n6665.25　monomorai　〈新〉　me'pi:\n6686.75　monomurai　〈新〉　meppaitso:　〈ミソコシジ〉\n　　（ルを持って井戸の水を覗くとなおる。）\n\n7335.93　monomore　〈希〉　memore\n7357.31　monomorai　〈新〉　meibo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02983.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02983",
+    "source_canvas_label": "94",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02983.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_094.jpg",
+    "page_index": 94,
+    "location_numbers": [
+      "7373.23",
+      "7390.75",
+      "7513.01",
+      "7513.69",
+      "7523.05",
+      "7523.27"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-84\n資料番号　036　地図番号　112\n項目名　ものうらい　C36\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n7373.23　モノモライ　〈希〉　インノワソ\n7390.75　モノモライ　〈新〉　ジェムモン\n7513.01　モノモライ　〈共〉　メコジキ\n7513.69　モノモライ　〈共〉　メコジキ\n7523.05　モノモライ　〈共〉　メコジキ\n7523.27　モノモライ　〈やや新しい語のように思う。〉　メコジキ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02984.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02984",
+    "source_canvas_label": "95",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02984.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_095.jpg",
+    "page_index": 95,
+    "location_numbers": [
+      "1859.84",
+      "2722.67",
+      "2771.64",
+      "4638.43",
+      "4659.85"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-85\n資料番号　036　地図番号　112　項目名　ものもらい\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(1)\n\n地点番号　A 語形とその注記　(B・C 除いた語形とその注)　A 注のない語形　(B・C 残した語形とその注)\n\n1859.84　mebost　〈眼球にできる〉　meppa　〈今も〉＊　メッパ\n2722.67　メボシ　?（目の玉に出るのかな）　メッパ\n2771.64　mebosi　〈なかなか直らない病気〉　＊nome\n4638.43　jare jare　[ ]　〈下まぶたに出来たものに限る。〉　momore moremore　〈どちらも総称であり、又は 上まぶたにできたものもらいである。〉\n\n4659.85　fɔguro　〈立派なことは〉　mono morai\n（ホフロをモノモライの上品な言葉だといったが、考えちがいか）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02985.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02985",
+    "source_canvas_label": "96",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02985.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_096.jpg",
+    "page_index": 96,
+    "location_numbers": [
+      "4666.17",
+      "4687.01",
+      "4711.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-86\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n\n（右上の欄） 質問番号 036 地図番号 112  A 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (2)\n\n項目名 ものもらい 036\n\n（表見出し） 地点番号　A 音形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n（行1） emuguri\t\t\t\tmesugguri\n\n（行2） tʃo:dʒin\n　　　tʃo:tʃin\t〈上まぶたにできたもの〉（改まった発音）\t\tmetpazam 〈下まぶたにできた物〉\n\n（行3） foedonomè\ntonosamanomè　[ ]〈上映に出たとき〉〈下瞼に出たとき〉\t[nome] 〈総称〉\n\n（注） 直り方が上瞼と下瞼の場合に相違があるので、この様に区別して上瞼のメ、下瞼のメという由。\nそのメが総称となった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02986.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02986",
+    "source_canvas_label": "97",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02986.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_097.jpg",
+    "page_index": 97,
+    "location_numbers": [
+      "4730.45",
+      "4736.63",
+      "5471.59",
+      "5594.37",
+      "5611.81"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　29-87\n資料番号　036　地図番号　112\n項目名　ものもらい　036\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(3)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4730.45 mienyo　〈上瞼にできたもの〉　baga　〈総称〉〈下瞼にでたもの〉\n4736.63 riko　〈利口の意…下のまぶたにできたもの〉　baga　〈馬鹿の意…上のまぶたにできたもの〉\n5471.59 マナト　〈大きいもの〉　メマンジョ〈小〉〈くてできものの大小によってちがった言い方をする。〉\n5594.37 mame　mebo　優位。\n5611.81 medambe　〈昔　族調査者が使い、今も使う。〉　その他",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02987.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02987",
+    "source_canvas_label": "98",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02987.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_098.jpg",
+    "page_index": 98,
+    "location_numbers": [
+      "5624.85",
+      "5636.74",
+      "5694.79",
+      "5699.42",
+      "6421.79",
+      "6437.07",
+      "6486.50",
+      "6517.65"
+    ],
+    "other_text": "A・(B)・(C)ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）には厳密にする。\n\n日本言語地図資料用紙 注記一覧 29-88\n資料番号 036　地図番号 112\n項目名 ものもらい 086\nA 普通注記　ページ\n[B 除いた共通語]\n(C 除いた特殊語)\n(4)\n\n地点番号　A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C残した語形とその注】\n\n5624.85　mupumupumupu　〈古〉　meppa'tsu\n5636.74　カゴメ　?　メカゴ ×\n5694.79　ノメ　〈新〉〈それほど使わない〉　メッコジキ\n5699.42　mezirinoodeki　#　monomorai *\n6421.79　manato　第一に答えた。　meboeta　〈新〉\n　　　　mehotsi　〈多〉\n6437.07　メボ　〈新共希〉〈医師がいうことは〉　イモラ〈昔から今でも普通に使われる〉　イモリ、ホイト\n6486.50　メボッコ　ともいう（室言）　メボ\n6517.65　ウチバン　!　メンボ　〈上〉!",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02988.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02988",
+    "source_canvas_label": "99",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02988.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_099.jpg",
+    "page_index": 99,
+    "location_numbers": [
+      "6543.05",
+      "6547.09",
+      "6583.41",
+      "6584.28",
+      "6677.70",
+      "7239.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 29-89\n質問番号 036    地図番号 112\n項目名 ものもらい 036\nA 普通話記\n[B 除いた共通語]\n(C 除いた特殊語) (5)\n\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n\n6543.05  マメ  ＜下＞    メンボ ＜上＞\n\n6547.09  metʃiriN  ＜町中の人に多く 群分品かよい＞  [metʃimbo 下] …農家に多いようだ\n\n6583.41  metʃiko  ＜新＞    imomorai ＜古＞  mebatsiko ＜新＞\n\n6584.28  monokari  ＜古＞ ＜自分は使ったことがない＞   mebo:\n\n6677.70  imbo sui  ＜古＞   meppaitʃo ＜新＞\n\n7239.85  オバサマ、オンチョサマ  ＜下にできたのがオバサマ＞\nサマで上にできたのは、オンチョサマという。 うものはあるが 自分は使ったことはない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02989.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02989",
+    "source_canvas_label": "100",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02989.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_100.jpg",
+    "page_index": 100,
+    "location_numbers": [
+      "7258.64",
+      "7268.45",
+      "7275.24",
+      "7279.93",
+      "7331.27",
+      "7344.99",
+      "7349.86",
+      "7351.09",
+      "7351.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での音標は地点番号順に並べる。 注記の＜＞（　）は厳禁にする。 日本言語地図資料用紙 注記一覧 29-90 資料番号 036 地図番号 112 項目名 ものもらい 036 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (6) 地点番号 A音形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7258.64 メッチャ メモライ 7268.45 メッカ モリヤ? 7275.24 インノシッポ メムラ 7279.93 mekkan [mesimorai] 7331.27 oemon (多) innokuso otogimesan 7344.99 mebo:ji <上> innokuso 7349.86 gibo me:bo 7351.09 ongosan memoro 7351.68 ungo ngosan memore, ogi mesan",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02990.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02990",
+    "source_canvas_label": "101",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02990.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_101.jpg",
+    "page_index": 101,
+    "location_numbers": [
+      "7353.51",
+      "7363.85",
+      "7364.34",
+      "7365.67",
+      "7374.75",
+      "7380.74",
+      "7382.58",
+      "7390.26"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　29-91\n質問番号　036　地図番号　112\n項目名　ものもらい　036\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(7)\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nデキモン　　オレメサン　〈?〉，インノクソ\n\nオデケ　　#〈希〉　　インノクソ　!\n\nインノヘ　　オトヒメサン　〈希〉\n\nmejasibo　〈古〉　　mamorai\n\nネフト　#（希）　　メネビ、インノクソ\n\nインノツビ　　モノモライ、インノクソ\n\nオデケ　　インノクソ　〈女：子供はオレメサンという〉\n\nモノモリヤ？　〈希〉　　モリヤア、ゼンモン〈希〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02991.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02991",
+    "source_canvas_label": "102",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02991.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_102.jpg",
+    "page_index": 102,
+    "location_numbers": [
+      "7390.70",
+      "7391.44",
+      "7500.66",
+      "7523.05",
+      "8302.19",
+      "8303.13"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　29-92\n▶ A・[B]・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）には散辞にする。\n資料番号　036　地図番号　112　A　表通注記　ページ (8)\n項目名　ものむらい\n\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形（B・C 残した語形とその注）\n7390.70　デケモン　#　センモン、モライゾオ（希）\n7391.44　メモリャクワンジン　　クランジン、メクランジン　メネフト\n7500.66　ハバチコ　〈新〉（メボシともいう。）　デバック\n7523.05　ゴケノゾキ　！〈こういう人もある。〉　メコジキ\n8302.19　メガサ　〈?〉＜目の中のできもの　腫物　かも知れない＞　インノクソ　#\n8303.13　jotemasi;　（少い）　innokuso（多い）＜meta＞\n　およびその単語 meta;jippie; meta;jikurin ぶつぶつできて、ただれるもので、innokusoとは別",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02992.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02992",
+    "source_canvas_label": "103",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02992.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  },
+  {
+    "source_image": "page_103.jpg",
+    "page_index": 103,
+    "location_numbers": [
+      "8342.35",
+      "8362.34"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　29-93\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n質問番号 036　地図番号 112\n項目名 ものらい 036\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (9)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n8342.35　jokameme　＜縁起をかついで＞　baka!, menesito（?）\n8362.34　ohaddon　innokuso / inmokyso",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02993.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M112Q036/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02993",
+    "source_canvas_label": "104",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02993.tif",
+    "source_ljc_id": "LJC-M112Q036",
+    "source_map_numbers": [
+      "112"
+    ],
+    "source_title": "ものもらい (麦粒腫)"
+  }
+]

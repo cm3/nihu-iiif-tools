@@ -1,0 +1,1603 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "3639.49",
+      "3648.28",
+      "3699.25",
+      "3722.90",
+      "3723.21",
+      "3733.73",
+      "3751.81",
+      "3760.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-65\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () [ ] は厳密にする。\n\n質問番号　地図番号　179\n項目名　イモ（芋・藷・薯）　189S\nA　普通注記　ページ　( / )\n[B]　除いた共通語\n[C]　除いた特殊語\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n3639.49　じゃがいも（昔）, さつまいも（今）\n3648.28　じゃがいも（ampuira）\n3699.25　N.R.　〈各々の名称を言わねば、どの芋であるか わからない。〉\n3722.90　じゃがいも（nidoumo）\n3723.21　N.R.　ただ　imo では分らないという。\n3733.73　じゃがいも　RPS gosuomo, nidoumo\n3751.81　なかいも　〈畑のも、山のも〉\n3760.58　じゃがいも、なかいも をいう。\n\n……ナガイモは自然薯（畑に作るものも含む）をいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05565.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05565",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05565.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3762.42",
+      "3768.50",
+      "3770.62",
+      "3778.00",
+      "3787.45",
+      "4597.66",
+      "4618.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-66\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n地図番号 179\n項目名 イモ（芋・薯・藷） 1898\n頁 (2)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n3762.42　山の芋（自然薯）\n3768.50　なかいも（とろろいものこと）＜古＞　じゃがいも　＜今＞\n3770.62　N.R.（名をいう）\n3778.00　ゴショイモ　じゃがいもを指すとも、SAT.\n3787.45　じゃがいも？　季節で違う。さつまいも\n4597.66　「いも」といえば リンキイモ ... satsumaimo\n4618.87　さつまいも　＜但し今は季節によりジャガイモをいう場合もあり＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05566.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05566",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05566.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4619.29",
+      "4628.28",
+      "4628.61",
+      "4639.10",
+      "4644.10",
+      "4648.04",
+      "4648.62",
+      "4648.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-67\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<> ( ) [ ] は厳密にする。\n質問番号 地図番号 179\n項目名 イモ(芋・諸・薯) 189S\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (3)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\nN.R. 区別なし <個々にいう>\nN.R. <各々の芋の名称をいう>\nじゃがいも さつまいも } 季節によって 〜 の方が多い。\nN.R. <各々の名称をいう>\nじゃがいも さつまいも } 季節による。\nN.R. 各々 別名でいう。\nじゃがいも <昔>\n総称はない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05567.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05567",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05567.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4652.79",
+      "4653.84",
+      "4654.52",
+      "4657.64",
+      "4657.88",
+      "4658.42",
+      "4659.50"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-68\n質問番号 地図番号 179\n項目名 イモ（芋・薯） 189S\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(4) ページ\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nじゃがいも <夏> <単にイモとはあまりいわない>\nさつまいも <秋>\n\nじゃがいも } <季節になって いろが 間違えない>\nさつまいも\n\nじゃがいも … 夏, さつまいも … 秋\n\nじゃがいも (夏) (さといもは 作る人が少ない)\nさつまいも (秋)\n\nN.R.（慣定のいもをさす。三種の総称である）\n\nさつまいも <くろ>\nN.R. <とれるは期によって 相違する>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05568.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05568",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05568.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4663.06",
+      "4663.49",
+      "4666.51",
+      "4667.76",
+      "4676.42",
+      "4676.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n55-69\n質問番号　地図番号　179\n項目名　イモ(芋・薯・藷)\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (5)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4663.06　N.R.　<どの芋だか わからなくなる>（この方言としてはもっともである。）\n4663.49　さつまいも .... 比較的多い\n　　　とろろいも .... 稀\n　　　c.f. tororoimo　jamaimo　自然薯\n　　　re: koɾimo　de: “ ”　島に作るもの\n4666.51　じゃがいも ... 夏，さつまいも ... 秋，さといも ... 冬\n4667.76　じゃがいも(夏), さつまいも(秋)\n4676.42　N.R.　<どれとも いえない>\n4676.67　N.R.　<特にあるものを指しては いない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05569.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05569",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05569.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4677.65",
+      "4678.71",
+      "4678.77",
+      "4684.77",
+      "4685.28",
+      "4685.72",
+      "4686.52",
+      "4686.96",
+      "4687.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-70\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n質問番号　地図番号　179\n項目名　イモ（芋・薯・藷）　189S\nA 普通注記　ページ (6)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n4677.65　じゃがいも（夏），さつまいも（秋）　N.R.\n4678.71　<どのいもか わからない>\n4678.77　じゃがいも…＜夏＞　<さといもは耕作するか>　さつまいも…＜秋＞\n4684.77　N.R.　<特定のものを さすことにならない。全部をさす。>\n4685.28　じゃがいも＜夏＞，さつまいも＜秋＞\n4685.72　同　上\n4686.52　N.R.　<特定のものを指さない>\n4686.96　同　上\n4687.37　じゃがいも…春，さつまいも…秋",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05570.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05570",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05570.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4688.45",
+      "4689.10",
+      "4689.14",
+      "4694.95",
+      "4695.33",
+      "4695.87",
+      "4698.15",
+      "4698.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-71\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n（右上枠）質問番号　地図番号　179　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（7）\n項目名　イモ（芋・藷・薯）\n表見出し：地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n手書き注記（表内、代表的なもの）：N.R.　〈いもだけでは不明〉　N.R.　〈どのいもときまっていない〉　同上　N.R.　〈は期により、一定しない。〉　N.R.　〈特定のものを指さない〉\n（手書き長文注）娘はさつまいもと答えたが、被調査者は認めない\n（その他）同上、上、等",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05571.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05571",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05571.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4699.07",
+      "4700.78",
+      "4702.10",
+      "4710.18",
+      "4710.55",
+      "4714.68",
+      "4715.98",
+      "4716.72"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-72\n質問番号　地図番号　179\n項目名　イモ(芋・蕃・薯)　189S\nA 普通注記　ページ (8)\n[B 除いた共通語] [C 除いた特殊語]\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4699.07　N.R.　〈どのいもとも　きまっていない〉\n4700.78　じゃがいも？　〔此地では　じゃがいもで　芋蒸会を行う。〕（山形市では里芋を使う）\n4702.10　N.R.　〈名さして　いう。〉\n4710.18　サツマイモ　……　時季により　稀に指す。　じゃがいも\n4710.55　N.R.　〈季節により　さすものが違う。〉\n4714.68　N.R.　〈芋の種類を言わなければ解らない〉\n4715.98　じゃがいも　〈一年中でき、いつも食べているから〉\n4716.72　じゃがいも〈昔〉、さつまいも〈今〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05572.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05572",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05572.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4720.17",
+      "4721.36",
+      "4722.55",
+      "4725.92",
+      "4730.45",
+      "4731.15",
+      "4731.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-73\n質問番号　地図番号　179\n項目名　イモ(芋・諸・薯) 189S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(9)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号\nA 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4720.17　N.R.　〈季節により一定せぬ。〉\n4721.36　じゃがいも　〈普通〉\n　　　　さつまいも　〈稀，出さかりの時これをさすはもある。〉\n4722.55　N.R.　〈ただイモとだけいうことはない〉\n4725.92　同　上　これも絶対的ではない。7分通り。\n4730.45　じゃがいも　季節によりサツマイモをいうこともある。\n4731.15　N.R.　〈ただイモということはない〉\n4731.42　じゃがいも　〈旧〉　但し季節にもよる。\n　　　　さつまいも　〈約〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05573.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05573",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05573.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4734.20",
+      "4741.43",
+      "4741.46",
+      "4743.95",
+      "4746.1",
+      "4744.32",
+      "4745.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〈〉[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　55-74\n質問番号　地図番号　179\n項目名　イモ(芋・薯・藷)　189S\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(10)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nじゃがいも　〈但し、大体はじゃがいもを指すという種名。季節的にいつもあるから〉\nN.R.　〈季節によって違う〉\nサズマエモ　…馬鈴薯のとれるところにはそれをさすこともある。\nN.R.　きまっていない。但し、このミツ以外は思い浮かばない／浮かない\nN.R.　〈特に決っていない。〉\n〈季節によって異なる〉\nN.R.　〈三種ともこの島で作っている〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05574.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05574",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05574.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4751.42",
+      "4753.52",
+      "4753.76",
+      "4762.56",
+      "4762.77",
+      "4762.90",
+      "4770.62",
+      "4771.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-75\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )［ ］は厳密にする。\n地図番号 179\n項目名 イモ（芋・諸・薯）\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (//)\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n手書き欄（抜粋・おおよそ）:\nさつまいも　＜季節によって違うか　な さつまいもが多い。＞ 子供にいいます\nN.R.　＜きまっていない＞\nN.R.　＜季節によって異る＞\n同　上\ne.mo = (さつまいも)　＜nagaemo, bagaemo＞ さつまいも\nN.R.　＜きまっていない＞\nN.R.　＜どのいもか分からない＞\nsadzumaemo　＜季節によるが普通これをさすか？＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05575.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05575",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05575.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4771.92",
+      "4772.33",
+      "4772.48",
+      "4773.27",
+      "4773.70",
+      "4773.78",
+      "4780.26",
+      "4780.64",
+      "4781.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-76\n質問番号 地図番号 179\n項目名 イモ(芋・諸・薯)\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (12)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4771.92  dzaggara (じゃがいものこと)\n4772.33  N.R. <該当するものがない>\n4772.48  N.R. <トロエモも含め、皆 emo である>\n4773.27  N.R. <みな emo である>\n4773.70  N.R. <決っていない>\n4773.78  N.R. <三つとも emo>\n4780.26  じゃがいも <産額が多いから>\n4780.64  N.R. <「いも」のみでは不明。時節によって分る場合もある。>\n4781.68  じゃがいも <産額の多いため>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05576.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05576",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05576.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4782.04",
+      "4782.96",
+      "4783.38",
+      "4783.74",
+      "4784.41",
+      "4790.30",
+      "4791.12",
+      "4791.39",
+      "4791.61",
+      "4792.80"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-77\n質問番号　地図番号　179　ページ（13）\n項目名　イモ（芋・薯・蕃）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4782.04　N.R.　〈なかいもも含めて食べている〉\n4782.96　N.R.　〈きまっていない〉\n4783.38　さつまいも　〈多くとれるから〉\n4783.74　N.R.　〈皆…である〉\n4784.41　同上\n4790.30　じゃがいも　〈このいもだけがあるから〉\n4791.12　N.R.　〈きまっていない〉\n4791.39　同上　上\n4791.61　同上　上\n4792.80　じゃがいも　〈昔は米の代用に食べたし分量も多い〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05577.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05577",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05577.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4794.30",
+      "5507.09",
+      "5507.20",
+      "5507.66",
+      "5508.43",
+      "5516.59",
+      "5518.71",
+      "5527.61",
+      "5537.96",
+      "5538.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-78\n質問番号 地図番号\n項目名 イモ (芋・藷・薯) 189S\n(A) 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (19)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n備考欄（手書き）: N.R.　〈きまっていないので，一々いもの名をいう〉\nN.R.　〈どれにでもいう〉\n同上\n同上\n同上\n同上\n同上\n同上\n同上\n同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05578.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05578",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05578.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5538.50",
+      "5548.35",
+      "5548.58",
+      "5549.09",
+      "5556.84",
+      "5557.42",
+      "5557.48",
+      "5565.19"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n\n（右上ボックス）\n質問番号　地図番号\n項目名　イモ（芋・薯・藷）　189S\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ（15）\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（手書き注記・抜粋）\nN.R. ＜その時によってどれにもなる＞\nN.R. ＜時期により違う。8月ならば（じゃがいも）、秋はさつまいも、秋すぎはさといも、冬ならばさつまいもという工合い。＞\nN.R. ＜その時による＞\nN.R. ＜どれにでも使う＞\nN.R. ＜季節によって違うからどれとも言えぬ＞\nN.R. ＜どれにでもいる＞\n同上\n同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05579.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05579",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05579.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5569.36",
+      "5569.99",
+      "5574.68",
+      "5576.79",
+      "5574.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 55-80\n質問番号　地図番号\n項目名　イモ（芋・薯・藷）\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（16）\n\nナガイモ　<そのほか、話し場合でどのイモについても通用するので、はっきり区別できない。イモといえばひしろ長芋をいう。>\n\ndzanaimo（会話中）\n\nhatakeiimo　←　さといもを指すと認む。SAT. 187 は hatakeiimo\n\nじゃがいも　＜このごろ（7月21日 SAT.）はこれをさす＞\nすきいも　＜秋ごろ＞\n\nN.R.　＜単に「いも」という字はない。一々の名をあげている。＞\n\n（調査日ほか記入欄）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05580.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05580",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05580.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5575.00",
+      "5575.93",
+      "5576.60",
+      "5576.96",
+      "5579.10",
+      "5579.42",
+      "5584.22",
+      "5586.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-81\n質問番号　地図番号　/179　A 普通注記　ページ (17)\n項目名　イモ（芋・薯・藷）　1895\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n（表見出し）地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\nN.R. <普通「いも」というえば その呼期の芋につき、一々名寄をいう。>\nN.R. <「いも」単独では使わない>\nN.R. <季節によって その成とれるものを指す>\nN.R. <単に「いも」と言わずに一々名称をいう>\nさつまいも（当時では一般にじゃがいもをさすように思う。）\n（薄かいも〈昔〉）、さつまいも〈今〉\nN.R. <一々名寄をいう>\nN.R. <季節による。特定のものだけをさすことはない。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05581.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05581",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05581.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5585.09",
+      "5585.63",
+      "5591.60",
+      "5591.91",
+      "5594.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-82\n\n質問番号　地図番号　179\n項目名　イモ（芋・蕃・薯）　189S\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\n(18)\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\nmaimo ← さといもを指すと認む S.A.T.\n186 ジャガイモ 他\n187 maimo / taimo\n188 サツマイモ\n\ntaimo ＜大体これをさすと思うか　今は一尺　名方をいうことの方が多いだろう＞\nさといもを指すと認む。\n186 ゴガイモ、187 タイモ／タンボイモ、188 サツマイモ やや\n\nさつまいも ＜これをさすことが多いか はっきりせぬ＞\n\nN.R. ＜その部分のものをいい、特に区別せず＞\n\nN.R. ＜一尺の名称をいう＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05582.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05582",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05582.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5595.05",
+      "5595.20",
+      "5597.26",
+      "5599.75",
+      "5603.88",
+      "5604.28",
+      "5604.52",
+      "5605.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-83\n質問番号 地図番号 179\n項目名 イモ（芋・薯・蕃）\nA 普通注記  [B 除いた共通語] [C 除いた特殊語] ページ (29)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5595.05　じゃがいも　＜大体これをさすが各々の名称を言う人が多い＞\n5595.20　N.R.　＜－?の名称を言う＞\n5597.26　さといも　＜さといもの子芋をいう＞\n5599.75　N.R.　＜特定にどれとは指さない＞\n5603.88　じゃがいも　＜？季節によってちがう＞\n5604.28　じゃがいも …夏、さつまいも …秋\n5604.52　同上\n5605.11　さつまいも（秋）＜どちらかといえばこの方が多い＞ じゃがいも（夏）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05583.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05583",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05583.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5605.57",
+      "5605.70",
+      "5606.83",
+      "5607.17",
+      "5608.16",
+      "5609.26",
+      "5609.81",
+      "5611.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-84\n質問番号　地図番号　179\n項目名　イモ（芋・薯・藷）　1895\nA 普通注記　ページ (20)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nサツマエモ　（秋、いもといえば さつまいもをさす）（夏にいもといえば じゃがいもをさすのであろう。）\n#？ さつまいも\n？ さといも\nN.R.　〈きまっていない〉\n同上\nじゃがいも　〈昔〉、さつまいも　〈今〉\nじゃがいも〈昔〉、さつまいも〈今〉\nN.R.　〈特別にきまっていない〉\nN.R.　〈三つ全部をさす。... 一つだけを指す事はない〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05584.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05584",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05584.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5612.22",
+      "5612.98",
+      "5614.26",
+      "5614.62",
+      "5615.20",
+      "5615.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >〈 〉[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 55-85 質問番号 地図番号 179 項目名 イモ（芋・諸・薯） 1895 普通注記 [B 除いた共通語] [C 除いた特殊語] (2/) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5612.22 じゃがいも <五、六月> 季節によってちがう さつまいも <秋> 5612.98 N.R. <特定のものをささない> 5614.26 同 上 5614.62 ? さつまいも 5615.20 さといも <昔、> 現代は特定のものを指さない。 解説書にみる。SAT. 5615.28 じゃがいも <夏> さといも 〈秋〉 さつまいも …… (調査者が少年時代に初めて入って来た。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05585.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05585",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05585.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5615.74",
+      "5617.28",
+      "5620.16",
+      "5623.27",
+      "5623.42",
+      "5625.32",
+      "5625.91",
+      "5626.92",
+      "5633.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-86\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ]は厳密にする。\n質問番号　地図番号　179　項目名　イモ(芋・蕃・薯)\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(22)\n\n表見出し: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n[さつまいも]・・・（秋）        じゃがいも\nN.R.    〈特にきまっていない〉\n同上\nN.R.    〈時期により〉\nN.R.    〈単にイモという事はない〉\nジャガエモ〈夏〉，サツマエモ〈秋〉\nじゃがいも　[この部落では　さといも、さつまいも　は作らない。]\nN.R.    〈何か　わからなくなる〉\nroikjo emo　〈じゃがいも〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05586.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05586",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05586.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5635.48",
+      "5635.65",
+      "5636.74",
+      "5641.13",
+      "5641.99",
+      "5642.17",
+      "5642.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-87\n\n質問番号　地図番号　179\n項目名　イモ（芋・藷・薯）\nA　普通注記　（A）\n[B]　除いた共通語\n[C]　除いた特殊語　ページ（23）\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]\n5635.48　　さつまいも　＜一番広く用いるもの。以前：沢山（さつまいもか）ない時は、サトイモをさした。＞\n5635.65　　じゃがいも〈古〉，さつまいも〈粉〉\n5636.74　　じゃがいも〈夏〉，さつまいも〈秋〉\n5641.13　　gorodzai mo ← じゃがいもをさすと認む。SAT. 186 gorodzai mo バレエショ\n5641.99　　じゃがいも，さつまいも〈とつも沢山でできる〉\n5642.17　　? じゃがいも\n5642.31　　natsuimo ← じゃがいもをさすと視む。\n\n186 ジャガイモ／ナツイモ，\n187 ハイモ， 188 サツマイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05587.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05587",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05587.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5646.74",
+      "5645.27",
+      "5645.89",
+      "5646.71",
+      "5647.27",
+      "5651.95",
+      "5652.06"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-88\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（[]）は厳密にする。\n質問番号 地図番号 179 項目名 イモ(芋・薯・藷) 189S A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (24)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5646.74 じゃがいも ＜丸割ぐらい。大多数＞\n5645.27 さつまいも ＜一割ぐらい＞\n5645.89 N.R. ＜単にイモということはない＞\n5646.71 同 上\n5647.27 さつまいも ＜時期にもよるが 普通これをさす＞\n5651.95 #? dzagaimo\n5652.06 nayaimo (633を作るか?)\n186 ジャガイモ／シャガタライモ,\n187 ハイモ,\n188 サツマイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05588.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05588",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05588.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5652.22",
+      "5656.62",
+      "5661.68",
+      "5674.06",
+      "5675.36",
+      "5675.87",
+      "5676.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-89\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（ ）[ ]は厳密にする。\n質問番号　地図番号　(179)\n項目名　イモ(芋・薯・藷)\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(25)\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き欄:\n5652.22  natsuimo ← じゃがいもを指すと認む。 186 ナツイモ/バレエショ\n5656.62  さといも 〈時節により、サツマイモの時も〉 ジャガイモの時もある。\n5661.68  N.R. 〈時期によって違うように思う〉\n5674.06  N.R. 〈イモということばを使わない〉\n5675.36  N.R. 〈代表的なイモはない。コンヤクもイモという。〉\n5675.87  さつまいも…取り入れまでの期間が長い、収穫量が多いなどの理由で。\n5676.28  N.R. 〈特にさつまのはない。単にimoでは意味がわからなくなる。〉\n\n(手書きは一部判読困難、上は概訳・逐語転写)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05589.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05589",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05589.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5676.52",
+      "5676.84",
+      "5677.14",
+      "5679.86",
+      "5682.92",
+      "5683.77",
+      "5682.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-90\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n質問番号 地図番号 179\n項目名 イモ（芋・蕃・薯） 1895\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (26)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\nN.R. ＜単にイモではわからない。186, 187, 188の答えの通り。＞\nじゃがいも ＜食べる期間が長いから＞\nN.R. ＜どのいもをさすともきまらない。芽だけではわからない。＞\nN.R. ＜不明＞（荒）さといも\nN.R. ＜一々名前を言いる＞\n同 上\nさといも （余りそんな区別はしていないが強いて言えばさといも。強いて言えばさといも。ただし、昔小さい頃はさといもの母を言っていた。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05590.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05590",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05590.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5688.86",
+      "5689.98",
+      "5690.96",
+      "5693.78",
+      "5695.47",
+      "5698.69",
+      "5700.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-91\n質問番号　地図番号　179\n項目名　イモ(芋・薯・藷)　189S\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　(27)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\nさつまいも　(内き返しても同じ答)\nさつまいも　<じゃがいも、里芋は、わずかしか作らない。>\n? satoimo\nN.R.　<特にさすものはない。　各々の名で呼ぶ。>\nさといも　(但し、項目187で最初 imoと答え、あとで keimo とか jimai imo とか、細かく種類を区別していた。)\nN.R.　<どれを指すかは時差によって違う>\nN.R.　<特別にさすものはない。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05591.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05591",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05591.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5700.32",
+      "5700.96",
+      "5701.25",
+      "5701.73",
+      "5702.62",
+      "5703.03",
+      "5703.70",
+      "5710.29",
+      "5711.18"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-92\n質問番号　地図番号　179\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (28)\n項目名　イモ（芋・藷・薯）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C残した語形とその注]\n5700.32　じゃがいも　<多くあるから>\n5700.96　さつまいも　<甘いし、うまいから>\n5701.25　N.R.　<全部 emoである>\n5701.73　さつまいも　<多くて、うまいから>\n5702.62　じゃがいも　<誰か食っても好ましいし、これが一番多くあるから>\n5703.03　じゃがいも　<他の芋は量的に少いから>\n5703.70　N.R.　<みな emoである>\n5710.29　N.R.　<お盛りはによって違う>\n5711.18　N.R.　<きまっていない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05592.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05592",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05592.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5711.85",
+      "5712.17",
+      "5712.70",
+      "5712.88",
+      "5721.26",
+      "5721.27",
+      "5721.77",
+      "5722.37",
+      "5723.02",
+      "5723.36"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-93\n質問番号　地図番号　179\n項目名　イモ（芋・薯・藷）189?\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(29)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n表ヘッダ：地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n手書き注記行:\nN.R.　＜どれということなし＞\nN.R.　＜きまっていない＞\nN.R.　[?]\nさつまいも　＜うまいから＞\nN.R.　＜季節によって　さすがのが違う＞\n同　上\n同　上\nN.R.　＜全て emo である＞\nN.R.　＜きまっていない＞\nN.R.　＜どれも「いも」である＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05593.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05593",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05593.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5723.60",
+      "5731.29",
+      "5732.13",
+      "5732.17",
+      "5732.73",
+      "5733.02",
+      "5740.16",
+      "5742.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n日本言語地図資料用紙 注記一覧　55-94\n質問番号　地図番号　179\n項目名　イモ（芋・藷・薯）　1895\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（30）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nN.R.　＜全て emo である＞\nN.R.　＜「いも」とだけ言う事はない＞\n同　上\n？　さつまいも\nN.R.　＜ただ「いも」とは言わぬ。＞　[さといも]\nさつまいも　＜一定しないがこれが最も多い＞\nさつまいも・・・この地方で多く産する事だから。\nN.R.　＜ただ「いも」とだけは言わない。＞（このあたりどのいもも余り作ってない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05594.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05594",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05594.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5751.60",
+      "5770.46",
+      "6348.77",
+      "6358.87",
+      "6359.38",
+      "6368.60",
+      "6377.11",
+      "6377.65"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　/179\n項目名　イモ(芋・薯・藷) 1895\nA 普通注記 　[B 除いた共通語]　[C 除いた特殊語]　ページ (3/)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n5751.60　N.R.　＜単に「いも」とは言わない＞（＝種々名の名をいうとのこと。）\n5770.46　N.R.　＜区別なし＞\n6348.77　N.R.　＜イモだけでは区別がつかぬ＞\n6358.87　N.R.　＜3種 別々にいう＞\n6359.38　N.R.　＜各々別をつけている＞\n6368.60　N.R.　＜どうとも言えぬ＞\n6377.11　# さつまいも＜各々の名をいう。どれかといえばさつまいもをさす。＞\n6377.65　N.R.　＜いもだけでは通じない。各々の名を使う。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05595.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05595",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05595.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6378.70",
+      "6386.32",
+      "6389.22",
+      "6395.21",
+      "6405.95",
+      "6408.88"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-96\n質問番号　地図番号　179\n(A) 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（32）\n項目名　イモ（芋・薯・藷）　1895\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き記入（抜粋）:\n6378.70　N.R.　＜別にない。季節によって違う＞\n6386.32　N.R.　＜不明になる＞\n6389.22　イモ　←　さつまいもを指すと認む　SAT．\n　　　186 ジャガイモ，187 アライモ，188 イモ．\n6395.21　!？　さつまいも\n6405.95　さつまいも　＜ここはサツマイモの産地である＞\n6408.88　ニドイモ　←　ジャガイモと認む　SAT．　＜初夏なら＞　（手書き注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05596.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05596",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05596.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6411.33",
+      "6411.66",
+      "6412.91",
+      "6414.17",
+      "6416.31",
+      "6417.14",
+      "6417.72",
+      "6419.50"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-97\n質問番号　地図番号　179\nA 普通注記　ページ (33)\n項目名　イモ(芋・諸・薯) 1895\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6411.33　N.R.　＜単にイモという名はなく 各々の名称を呼ぶ＞\n6411.66　さといも　＜戦前＞　（は季により、料理によって、種類ともイモで通ずる）\n6412.91　さつまいも　＜？＞\n6414.17　N.R.　＜芋だけでは不明＞\n6416.31　N.R.　＜同上＞\n6417.14　同上\n6417.72　N.R.　＜は期による。5月にイモといえば...＞\n6419.50　N.R.　＜は期による。又、用途によって＞\n\n次頁へ。\n注の指示する内容は異る。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05597.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05597",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05597.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6419.50",
+      "6419.69",
+      "6421.26",
+      "6421.79",
+      "6421.82",
+      "6422.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-98\n質問番号　地図番号　179\n項目名　イモ(芋・薯・藷)　1895\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(34)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n6419.50　N.R.　〈ひといって全部を代表するイモはない。季節、収穫期によって異なるし、又用途によってイモの指す内容は異る。イモの他ダレはジャガイモ、イモのオカズニセエはサトイモなど〉\n6419.69　N.R.　〈季節毎に異る〉\n6421.26　さといも　〈料理の時、住といえばサトイモのこと〉\n6421.79　N.R.　〈不明、名をいう必要あり〉\n6421.82　同上\n6422.16　さつまいも　さつまいもをさす。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05598.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05598",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05598.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6422.93",
+      "6423.23",
+      "6423.75",
+      "6424.20",
+      "6424.35",
+      "6424.89",
+      "6424.92",
+      "6425.57"
+    ],
+    "other_text": "56-01\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　179\n項目名　イモ(芋・薯・藷)　1895\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(35)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6422.93　N.R.　＜各々の名をいう＞\n6423.23　N.R.　＜イモだけでは不明＞\n6423.75　同　上\n6424.20　同　上\n6424.35　同　上\n6424.89　さつまいも…湯原町種→ kingkaimo\n6424.92　N.R.　＜時期による。山芋のこともある。＞\n6425.57　やまいも？　＜さつまいもは余り食べない＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05601.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05601",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05601.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6426.04",
+      "6427.27",
+      "6427.40",
+      "6427.93",
+      "6428.26",
+      "6429.15",
+      "6429.30",
+      "6429.61",
+      "6430.26"
+    ],
+    "other_text": "56-02\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　179\n項目名　イモ（芋・薯・藷）\n(A) 普通注記　ページ（36）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6426.04　N.R.　〈時期（季節）による。〉\n6427.27　N.R.　〈名を時期によって言う。〉\n6427.40　N.R.　〈好期による。サツマイモとはいゝない〉\n6427.93　N.R.　〈名称か／中景〉\n6428.26　? サツマイモ\n6429.15　ジャガイモ … 春，サツマイモ … 秋\n6429.30　N.R.　〈どれもいもである。〉\n6429.61　N.R.　〈各々の収穫期によって仕で通る〉\n6430.26　N.R.　〈各々の名を言わねば不明〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05602.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05602",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05602.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6430.53",
+      "6431.41",
+      "6431.85",
+      "6432.22",
+      "6432.74",
+      "6433.34",
+      "6435.03",
+      "6436.33"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-03\n質問番号　地図番号　179\n項目名　イモ（芋・薯・?）　189S\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　（37）ページ\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の〈〉（　）[　]は厳密にする。\n表見出し：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n手書き注記（各行の代表的な読み）:\nN.R.　〈別々の名をいう〉\nさつまいも　〈全り多くは食べないか〉\nN.R.　〈他だけでは通用しない〉\n同上\nN.R.　〈通称なし。できるは期によって通用するとも言える。〉\nN.R.　〈不明。採れる頃の芋を言う。よって時期により違う。小芋のともある。〉\nさといも　〈こうそうの味に使う〉\nN.R.　〈どれともいぬ。季節によって違う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05603.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05603",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05603.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6437.94",
+      "6440.81",
+      "6441.71",
+      "6443.00",
+      "6443.03",
+      "6443.61",
+      "6444.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-04\n質問番号 地図番号 179\nA 普通注記  (ページ) (38)\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名 イモ(芋・薯・薯) 188S\n操作説明: A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< () [] は厳密にする。\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A注のない語形 [B・C 残した語形とその注]\n6437.94  バレエチョ (じゃがいも) … <初夏,>\n        サツメアアモ … <秋>\n6440.81  N.R. … <どれか不明。名称をいう必要あり。>\n6441.71  同上\n6443.00  同上\n6443.03  N.R. … <ただ、仮とはいわない>\n6443.61  N.R. <個人差があって一概にいえない。山芋のこともある。>\n6444.62  X さつまいも (初め <どれとも言えない> と答え、のち撤回した。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05604.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05604",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05604.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6446.05",
+      "6447.39",
+      "6448.23",
+      "6452.17",
+      "6460.08",
+      "6462.52",
+      "6500.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-05\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n（右上の小箱） 質問番号　地図番号　179　項目名　イモ(芋・薯・藷)　189S　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (39)\n（表の見出し） 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6446.05　? さつまいも\n6447.39　N.R.　該当な答えなし。\n6448.23　サツマイモ　〈おやつの時ならこれをさすか。各々の名をいう。〉\n6452.17　エライモ　〈総称，普通の言い方なし。強いサトイモ…ていえば左の如くなるべし。〉　187 サトイモ，188 ユノイモ\n6460.08　N.R.　〈区別をつけている〉\n6462.52　同上\n6500.88　里芋　（他の根相調査者によれば、さつまいもなり。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05605.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05605",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05605.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6503.66",
+      "6503.73",
+      "6504.03",
+      "6504.44",
+      "6504.99",
+      "6508.06",
+      "6509.38",
+      "6509.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-06\n質問番号 地図番号 179\nA 普通注記 ページ (40)\n項目名 イモ(芋・藷・薯) 1895\n[A] 除いた共通語 [C] 除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n6503.66  N.R.  <時季によって違うから、はっきり名をいわないとわからない。>\n6503.73  N.R.  <「いも」とのみ　いる字はない。 一々の名をひろう。>\n6504.03  同  上\n6504.44  同  上\n6504.99  N.R.  <時季により 一々 名前をいう。>\n6508.06  ?  さといも\n6509.38  ?  さつまいも\n6509.91  ?  さといも (タダイモと答えた)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05606.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05606",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05606.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6511.49",
+      "6511.85",
+      "6512.09",
+      "6513.24",
+      "6513.51",
+      "6516.10",
+      "6517.50"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-07\n質問番号　地図番号　179\n項目名　イモ（芋・薯・藷）　189S\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ（4/）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[]）は厳密にする。\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注]\n6511.49　さといも、これは季によって使いわける。　さつまいも\n6511.85　N.R.　＜時季によって違う。＞　（もう一人の被調査者は「さといも」という。）\n6512.09　taimo　＜普通これを指すが、大体時季によってそのはとれるものをさす＞　↑　さいいものをさすと認む。SAT.187 タイモ／サトイモ\n6513.24　taimo　←　さといもを指すと認む。187 タイモ、SAT\n6513.51　N.R.　＜一々の名をいう＞\n6516.10　N.R.　＜どれともはっきり言えない＞\n6517.50　? さといも",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05607.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05607",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05607.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6518.87",
+      "6520.50",
+      "6520.79",
+      "6521.03",
+      "6521.94",
+      "6523.86",
+      "6524.66",
+      "6525.05",
+      "6525.75",
+      "6527.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-08\n質問番号　地図番号　179\n項目名　イモ（芋・藷・薯）　1895\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (42)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6518.87　タダイモ　<どれとはっきり言えないが、さといもをさすのかも知れない。>\n6520.50　N.R.　<季節によって違う>\n6520.79　N.R.　<時節によって違う>\n6521.03　さつまいも　<これにこれをさす>\n6521.94　さつまいも　<これを意味するのが多い>\n6523.86　さつまいも　<強めていえばこれをさす>\n6524.66　N.R.　<特定のものはささない>\n6525.05\n6525.75\n6527.22\n\n（表の枠と追加の手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05608.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05608",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05608.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6528.06",
+      "6529.63",
+      "6529.88",
+      "6532.93",
+      "6533.31",
+      "6535.90",
+      "6536.00",
+      "6536.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 56-09 質問番号 地図番号 179 項目名 イモ(芋・薯・薯) A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (43) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] N.R. ＜どういうわか 不明＞ 同上 同上 N.R. ＜収穫が一緒なので、単にいもとはいわない。必ず各々の名をいう。＞ N.R. ＜はっきりしない＞ N.R. ＜とれる時季によって違う＞ N.R. ＜該当するものなし。18才〜imo と名をいう。＞ N.R. ＜全部をさす＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05609.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05609",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05609.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6536.68",
+      "6537.06",
+      "6537.21",
+      "6539.78",
+      "6540.16",
+      "6540.52",
+      "6541.52",
+      "6543.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-10\n質問番号　地図番号　179\n項目名　イモ（芋・薯・䓈）　ページ（44）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（ ）［ ］は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n（手書き注記）さといも　＜私はサトイモが好きなので、家で「イモ食べタイ」というとサトイモのことになる。＞\n？さといも\nN.R.　＜どのイモか不明＞\nN.R.　＜時季による。例えば、サツマイモのツルを差す時期に「イモ サシタカ？」といえばそれはサツマイモを指す。しかし一般的にいえば不明である。＞\nN.R.　＜イモの総称にしかならない＞\nN.R.　＜時季によって各々のイモを指す＞\nN.R.　＜各々別々の名をいう＞\nサツマイモ　＜はっきり定まらないが、これをさすことがやや多い。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05610.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05610",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05610.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6545.41",
+      "6545.64",
+      "6548.82",
+      "6549.60",
+      "6550.13",
+      "6550.96",
+      "6551.20",
+      "6551.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-11\n質問番号 地図番号 179\n項目名 イモ(芋・薯・藷) 189S\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (45-)\n\n地点番号\nA 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\nN.R. 〈収穫の時季によって違うから不明。〉［「さつまいも」を指す。］\nN.R. 〈どれでもない〉（単にイモという子がないそうである。）\nN.R. 〈いもだけでは　わからない〉\n同\nN.R. 〈時季によって違うものをさす〉\n? さつまいも\nさつまいも 〈しゅんにもよるか〉\nN.R. 〈名をいわねば どのイモか分らぬ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05611.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05611",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05611.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6551.77",
+      "6553.99",
+      "6554.08",
+      "6555.31",
+      "6557.14",
+      "6558.10",
+      "6558.37",
+      "6559.22",
+      "6559.46"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　56-12\n質問番号　地図番号　／179\n項目名　イモ（芋・諸・薯）　189S\nA　普通注記　　ページ（46）\n[B]　除いた共通語　[C]　除いた特殊語\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n\n6551.77　さつまいも　〈この地方は「アマイモ」（四十日という品種）の産地として有名で、「尼崎はアマイモ」のアマというシャレまでできているほどだ〉\n6553.99　N.R.　〈どれともきまらない〉\n6554.08　N.R.　〈不明。各々の名をいう。〉\n6555.31　N.R.　〈単に「いも」という事が多い〉\n6557.14　N.R.　〈どのいもか不明〉\n6558.10　N.R.　〈同上〉\n6558.37　(同)　〈上〉\n6559.22　さつまいも　〈一番よくとれる〉\n6559.46　N.R.　〈不明〉\n\n(表の見出し等：A 注のない語形 [B・C 残した語形とその注])",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05612.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05612",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05612.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6559.67",
+      "6563.43",
+      "6563.58",
+      "6564.33",
+      "6565.17",
+      "6565.22"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-13\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[]は厳密にする。\n質問番号　地図番号　179　ページ（47）\n項目名　イモ（芋・薯）　1898\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\nさつまいも　＜このあたりではさつまいもが多くとれる＞\nさつまいも　＜これをさつまいも一部分である＞　じゃがいも、さといも\nN.R.　＜季節によって違う。強いていえば、さといも。とさつまいもは同期であるか？そのはなさつまいもを作といい、さといもはスガ根という。＞\nさつまいも　＜但し、じゃがいも、さといも、ダリヤの球根まで「イモ」という。＞\nN.R.　＜どれともいえない＞\nN.R.　＜イモだけでは３つともさす。各々の名をいわなければわからない。＞\nいわなければわからない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05613.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05613",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05613.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6566.51",
+      "6568.13",
+      "6572.04",
+      "6572.29",
+      "6572.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-14\n質問番号　地図番号　/179\n項目名　イモ(芋・薯・蕃)　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ(48)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞(　)[　]は厳密にする。\n\n（手書き注記）\nさといも　さつまいも　は季によってどちらかをさす。じゃがいもを単にイモという字はない。\nさつまいも　〈多い〉\nさといも　〈イモ(さといも)は当地でよくとれる。\"イモタク\"といえば\"さといも\"、\"イモス\"といえば\"さつまいも\"〉\nさつまいも　くだもの(じゃがいも、さといも、さつまいも)のできる時期によるか。\nおかずのはは　じゃがいもやさといものことも勿論さすが、普通\"イモ\"といえば\"さつまいも\"をさす。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05614.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05614",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05614.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6580.06",
+      "6582.48",
+      "6583.41",
+      "6583.93",
+      "6584.90",
+      "6591.57",
+      "6603.24",
+      "6605.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-15\n\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　179\n項目名　イモ(芋・薯・藷)　189S\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (49)\n\n地点番号欄（省略）　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n手書き注記（各行、地点番号に対応）:\nサツマイモ　<但し時季による。その時取れる(作物?)>\nじゃがいも?　(その季節による。koimo(里芋)にはいわない)\nN.R.　<さつまいも、じゃがいも、さといも、山の芋、どれもイモという>\nN.R.　<時期によって違う>\nN.R.　<はっきりどれかがわからない>\nN.R.　<どの位かきまっていない。時季による。(さつまいもが少ないため)>\n?　じゃがいも\nN.R.　<各々呼び分ける>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05615.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05615",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05615.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6615.09",
+      "6616.22",
+      "6617.99",
+      "6618.51",
+      "6619.76",
+      "6620.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-16\n質問番号　地図番号　/179\n項目名　イモ（芋・薯・藷）　189S\nA　普通注記　ページ（50）\n[B　除いた共通語]　[C　除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n6615.09　シマイモ〈古〉　現在はシマイモを作らなくなっ ので各々の名をよぶ。　↑さといもをさつまに区別。S.A.T.　186 セータ，187 シマイモ，188 サツマイモ。\n\n6616.22　さといも　cf.187　〈今の人は さつまいものことを イモというようだ〉\n\n6617.99　N.R.〈じゃがいも、さといも、さつまいも。どの場合もイモという。〉\n\n6618.51　N.R.〈ただイモという字はない。〉（被調査者の説明）\n\n6619.76　さつまいも〈他の芋は時期によってわかる〉\n\n6620.53　N.R.〈何々イモというのが普通だから〉\n\n（わからぬ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05616.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05616",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05616.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6621.34",
+      "6626.46",
+      "6627.12",
+      "6629.24",
+      "6630.58",
+      "6632.88",
+      "6635.20",
+      "6635.87",
+      "6639.29"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-17\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n質問番号　地図番号　/179\n項目名　イモ（芋・蕃・薯）　189S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（51）\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6621.34　N.R.　＜どれともきめられない＞\n6626.46　N.R.　＜同上＞\n6627.12　（同）　上\n6629.24　さつまいも＜芋といえばまず考えるのはさつまいも。＞　（じゃがいも）、さといも\n6630.58　N.R.　＜どのイモかわからぬ＞\n6632.88　さつまいも＜例＞\n6635.20　さといも＜白＞、さつまいも＜粉＞\n6635.87　さつまいも・・・いもだけはさつまいもの畑をいう?\n6639.29　N.R.　＜イモといわれたら「行のイモだ」と問い返す。＞\n(手書きの注記や傍線があり、一部判読困難な箇所あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05617.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05617",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05617.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6639.43",
+      "6642.85",
+      "6643.15",
+      "6649.28",
+      "6600.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-18 質問番号 地図番号 179 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (52) 項目名 イモ(芋・薯・藷) 189S 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\nさつまいも (じゃがいもやさといもも指す事はあるか。立としてさつまいもをいうのか普通である。)\n\nN.R. ＜各々名をいう＞\n\nじゃがいも 近郊はじゃがいもしか取れない。\n\nさつまいも (「じゃがいも、さといも」もイモとい うか、普通はさつまいもを指す。)\n\nN.R. ＜ただ作といってもわからない。 (土地の他の人に伺ったところ、さつまいもを大抵 いろと答えた)＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05618.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05618",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05618.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6652.30",
+      "6652.77",
+      "6701.01",
+      "6710.55",
+      "6711.95",
+      "6720.23",
+      "6720.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-19\n質問番号　地図番号　179\n項目名　イモ（芋・薯・蕷）　189S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（53）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）［　］は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n（各行の注記）\nN.R.　〈きまっていない〉\nさつまいも　・・・・　さといも\nさつまいも　・・・・　里芋も多くとれるが、芋といえば さつまいもが普通。他の芋は時期によってわかる。\nさつまいも　・・・・ 他の芋は時期によってわかる。\nN.R.　（じゃがいも、さといも、さつまいも全部をさすが、中でも芋の代表はさつまいもである。）\nさつまいも　・・・・　他の芋は季節によってわかる。\nさつまいも　・・・・　季節によって異るか普通「芋」といったらさつまいもをさす。\n\n（下部余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05619.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05619",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05619.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6721.33",
+      "6730.33",
+      "6731.03",
+      "7249.95"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-20\n\n質問番号　地図番号　179\n項目名　イモ(芋・蕃・薯)\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(54)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n（表見出し）\n地点番号　　A　語形とその注記　[B・C　除いた語形とその注]　　A注のない語形　[B・C　残した語形とその注]\n\nさつまいも　……　他の芋は季節でわかる。\nN.R.　……　三者ともさす。　さつまいものとれる量が多いので芋の中で代表といえる。\n量が多いので、芋の中で代表といえる。三者は季節と語の違いで、それを知る事ができるので、「イモ」だけでも使うことがある。他の名は、「toro:imo」や「dzinenzo:」のように「〜イモ」やその他の名で言うことが普通である。\n\nさつまいも（じゃがいも、さといも）も指すが、主としてさつまいもを指すのが普通。\n\nさつまいも　……　イモ方（いもほり）など熟した語は甘藷の場合に限る。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05620.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05620",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05620.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "7301.67",
+      "7302.66",
+      "7302.71",
+      "7302.87",
+      "7303.17",
+      "7303.37",
+      "7311.68",
+      "7320.59"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-21\n質問番号　地図番号　179\nA　普通注記　[B]　除いた共通語　[C]　除いた特殊語　ページ（55）\n項目名　イモ（芋・諸・薯）　189S\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜＞(　)(　)[　]は厳密にする。\n表ヘッダ：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n手書き記入（各行）:\nさつまいも（to:imo とい）\n同　上\n同　上\nさつまいも　＜その他の住は夫々の名をいう＞\nさつまいも（to:imoという）\n同　上\n同　上\n流琉イモ（サツマイモかとず、流琉イモのことをいうと答えた。）\n↑　さつまいもを指すと思む。SAT.\n下方手書き小字：186 gazgajimo, 187 ミズイモ, 188 リュウキュウイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05621.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05621",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05621.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "7322.21",
+      "7322.81",
+      "7332.97",
+      "7342.12",
+      "7342.72",
+      "7345.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-22\n質問番号　地図番号　/79\n項目名　イモ(芋・薯)　1895\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(56)\n\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7322.21　N.R.　＜代類の総称となる＞　186 ジャガイモ　187 サトイモ　188 ジャガイモ(トーイモ)\n7322.81　rjum:kjum:imo　<- さつまいもと認む.\n7332.97　さといも・・・この付近は田ばかりで、サツマイモは作らない。\n7342.12　さといも（この付近は水田地帯で、サトイモを沢山栽培しお行している。）\n7342.72　さといも？ このいずれかは不明。　さつまいも（やかいもでないかは不明）\n7345.43　N.R.　＜イモだけでは通らない。＞　（寒冷盆地なので、サツマイモは取れぬ。ジャガイモが最も多い。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05622.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05622",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05622.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "7346.58",
+      "7351.06",
+      "7352.14",
+      "7357.31",
+      "7390.26",
+      "7402.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（［］）は厳密にする。 日本官語地図資料用紙 注記一覧 56-23 質問番号 地図番号 179 項目名 イモ(芋・諸・薯) 189S A 普通注記 ページ (57) [B　除いた共通語] [C　除いた特殊語] 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C　残した語形とその注] 7346.58 さといも ＜右＞ さつまいも 7351.06 さつまいも (karaiimo) 7352.14 さといも ＜町方へんでは、カライモのことをイモという所がある。＞ 7357.31 さつまいも ＜少し在(農村部)に入れば、さといもをさす所がある。＞ 7390.26 N.R. ＜どれとも決まらない＞ 7402.47 さつまいも、じゃがいも、さといも （最も多いがしかし時期にずれがあるかく混乱はない由）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05623.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05623",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05623.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "7403.86",
+      "7405.35",
+      "7406.53",
+      "7412.31",
+      "7412.71",
+      "7413.29",
+      "7416.34",
+      "7420.18"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-24\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n質問番号　地図番号　179\n項目名　イモ（芋・薯・薯）　189S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（58）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7403.86　N.R.（各々の名を使い、imoとだけいうことはない由。同席していた長男の妻もそう言っていた。）\n7405.35　N.R.＜各々 分けて言う＞\n7406.53　N.R.＜どれのことか わからない＞\n7412.31　N.R.＜それぞれの名をいって、imoとだけは いわん＞\n7412.71　同上\n7413.29　N.R.＜（じゃがいも、さつまいもを総合している）＞\n7416.34　N.R.＜どれをさすか わからない＞\n7420.18　しゅかいかも＜春ならこれをさすこともある＞　さつまいも",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05624.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05624",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05624.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "7420.91",
+      "7421.38",
+      "7431.08",
+      "7431.13",
+      "7432.44",
+      "7441.19",
+      "7501.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-25\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )( )[ ]は厳密にする。\n\n質問番号 地図番号 179\n項目名 イモ(芋・藷・薯) 189S\nA 普通注記 ページ (59)\n[B] 除いた共通語\n[C] 除いた特殊語\n\n地点番号  A語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n7420.91  さといも (中る2年の〇〇は[さつまいもをさす]という。)\n7421.38  N.R. (imoとんどけいうことはない由。)\n7431.08  同　上\n7431.13  N.R. (単にimoということはないとのこと。 風か条目の加減や風の吹き廻して ストレと地にうちつけるように落ちるのを <imo horu>という旨。)\n7432.44  N.R. <じやがいも、さといも、さつまいも全てをさす。>\n7441.19  同　上\n7501.14  N.R. <とれる季節の…サツマイモを特に言うことはない。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05625.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05625",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05625.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "7501.68",
+      "7501.72",
+      "7502.22",
+      "7503.48",
+      "7504.11",
+      "7512.43",
+      "7659.40",
+      "8515.89",
+      "8316.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-26\n質問番号　地図番号　179\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　ページ（60）\n項目名　イモ（芋・薯・藷）　1895\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n（表見出し）地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\nN.R.　<特に'芋'という字はない。季節による。>\nさつまいも　<但し、時季により、その時とれる芋をいう>\nさといも（hotimo）\nさといも　<古> 、 さつまいも　<今>\nN.R.　<単に「いも」という字はない。>\nN.R.　<きまってない>\nさといも（？）\nN.R.　<各々の名前でいう。単に「いも」といったらまごつく。>\nさつまいも（方言では karaiimo）\n<tadaimo（さといものこと）はこの地方で余り支来ない。>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05626.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05626",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05626.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "8332.59",
+      "8335.11",
+      "8345.24",
+      "8373.43",
+      "0237.84",
+      "0246.97",
+      "0247.56",
+      "0249.17",
+      "0257.12"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-27\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）[　]は厳密にする。\n質問番号　地図番号　179\n項目名　イモ（芋・諸・薯）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6/)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n8332.59　# さといも（○ニ者も認める）\n8335.11　N.R.　＜ただ「いも」ということはない＞\n8345.24　さつまいも　…（県内、さといもをさす所と、さつまいもをいう所とあり。県北は前者、県南は後者であるようだ）\n8373.43　さといも\n0237.84　さといも（umu）\n0246.97　同上\n0247.56　同上\n0249.17　すいきの類　＜umu(い)形でい＞\n0257.12　さといも（umu）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05627.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05627",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05627.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "0276.50",
+      "0340.00",
+      "2067.5",
+      "2072.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 56-28\n質問番号　地図番号　/79\n項目名　イモ(芋・薯・藷)\nA) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　ページ (62)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n表ヘッダ:\n地点番号\tA　語形とその注記 [B・C 除いた語形とその注]\tA 注のない語形 [B・C 残した語形とその注]\n\n0276.50\tN.R.　<「いも」ということは用いない>\n0340.00\tさつまいも　<共通語を用い 代といった場合>\n2067.50\tN.R.　<「いも」といわない>\n2072.20\t同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05628.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05628",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05628.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "4647.69",
+      "5569.36",
+      "5569.99",
+      "6518.87"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　56-29\n質問番号　地図番号　179\nA　普通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ ( / )\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4647.69　さつまいも　<戦後しばらくの間は いもといえば じゃがいも さつまいもを指した。>\n5569.36　N.R.\n5569.99　N.R.\n6518.87　N.R.　<時に応じ、その話題になっているものをさすので はっきりしない。>\n（右欄手書き注記）　ナガイモ　<そのは又、話し場合でどのイモについても通用するので はっきり区別できない。イモといえばむしろ長芋をいう。>\ndzayaimo (会話中)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05629.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M179Q189/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05629",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05629.tif",
+    "source_ljc_id": "LJC-M179Q189",
+    "source_map_numbers": [
+      "179"
+    ],
+    "source_title": "イモの意味"
+  }
+]

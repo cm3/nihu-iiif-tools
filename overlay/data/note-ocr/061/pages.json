@@ -1,0 +1,560 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-4\n質問番号 0205　地図番号 61\n項目名 ナオス（片付ける）\nA 普通語注記／B 聞いた共通語／C 聞いた特殊語　ページ (1)\n・A・[B]・(C)ごとに別紙を使用する。\n・その中での書様は地点番号順に並べる。\n・注記のく＜＞（）は鉤括弧にする。\n［表見出し］ 地点番号｜A 語形とその注記（B・C 話形とその注記）｜A 注のない語形（B・C 残した語形とその注記）\n58  6. （簡単に かたずけること）\n22  9. 使う ＜…＞\n85  9. ＜kutasukeruu である。＞\n32  3. ＜希＞\n24  2. 時によって使った。今はあまり使わない\n48  9. （マタスという人があった。）\n03  6. ＜特別なものではないが＞使わない。（店だから、散らかっていれば naositeoke ということは使う）\n28  9. 女は使う\n22  8. 〈ゆか…に書いたものを〉（片付け、しよう、という子ではなく、話しかけたものを整えることである。）\n（話しかけたものを整えることである。）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01504.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01504",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01504.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 15-5\nA・(B)・(C)ごとに…を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）は略符になる。\n質問番号 26  地図番号 61\n項目名 ナオス（片付ける）\nA 共通注意 / B 聞いた共通語 / C …\nページ (2)\n見出し：地点番号／A 語形とその注記（B・C出した語形とその注記）\n9. 片づける torokeru\n6. 道路に出ているものを片づけた…ナオセのように\n9. 片づける simaru\n8 （位置を正しく（もとに）する時に）\n9. …しまうことは torokeru という。\n9. kadotsingerii、simaru という。\n6 ＜片づける＞\n6 ＜片づける意味に＞\n1. （…初調査者に、戸棚から出した書籍…）\nもともと道具棚にナオスためにより自然の倉庫的な意味ながら「戻う」と答えた",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01505.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01505",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01505.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3762.42",
+      "3767.18",
+      "4609.07",
+      "4638.43",
+      "4648.04",
+      "4648.42",
+      "4648.59"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-6\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくく( )[ ]は厳密にする。\n\n調査番号　0265　地図番号　61\n項目名　ナオス（片付ける）　0265\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(3)\n\n地点番号　A 語形とその注記　A 注のない語形\n3762.42.9.　[片づける]　シマウ。\n3767.18.7.　「移動しなおすもの」をもとの位置にみに。\n4609.07.7.　〈失したものを kotti naosite okketfa のように使う〉\n4638.43.9.　jimo: という。\n4648.04.6.　但し大きいもの（家具などの）を片付ける場合、片付ける場合に使う。戸棚の中にしろ等の場合ではない。\n〈kotti no h: e naoseba e: 等と言う。〉\n4648.42.9.　〈kotatsumeru 又は jimu という。〉\n4648.59.9.　(jimawe（命令形）であるが、終止形は jimu であろう。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01506.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01506",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01506.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-7\n質問番号 26 地図番号 61 普通語注記\n項目名 ナオス（片付ける）\nページ（×）\n地点番号／A 語形とその注記（B・C欄に書いた語形とその注記）／A 注のない語形（B・C 残した語形とその注記）\n4659. 50  9. 但し、同じ小四町でも整理整頓で使う。（アンパエコでナオシテオケ／よい具合にしつけて…）\n4676. 60  9. limanu, katazukerum という。\n4688 45  7. 整理整頓の意では用いない。\n4694. 81  6. 戸だなの中にしまう意味には用いない。\n4694. 95  9. totteku と言う。\n4695. 21.9  9. simo: と言う。\n4695. 33.8  8. くらに籠る意に使う。\n4700. 78.1  1. （戸棚の中などに）モナオス（特に器具類に）。\n4701. 73.3  （ススワ、カタヅケが主）。\n左上の注意書き: A・B・Cごとに調査を使用する／その中での整理は地点番号順に並べる／注記の＜＞（）は略記の意。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01507.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01507",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01507.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 15-8\n質問番号 26    地図番号 6/1\n項目名 ナオス(片付ける) 0265\nA 普通注記  (B 聞いた共通語)  (C 聞いた特殊語)  ページ (5)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順にそろえる。\n注記の＜＞（）は厳密にする。\n\n[表内のその他の記載]\n96   6 〈片づける〉\n40   6. NR. 〈…では使うが戸棚にナオスとは言わない〉\n62   1. 「片付ける」意味には使わず。「たなにしまう」のは「…」が普通。\n37   2. 〈古〉〈今でも少しは使うか〉\n83   7. 〈もどがり〉するの意。\n77   9. koddzite okro もつかう。\n64   9. kadadzuguem もつかう。\n74   9. katadzukeru も使う。\n63   9. matai siru という。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01508.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01508",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01508.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 15-9\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞（）は厳格にする。\n質問番号 26　地図番号 61\n項目名 ナオス(片付ける)\nA 普通注記　(B 除いた地語注記)　(C 除いた特殊語)\nページ (6)\n表見出し: 地点番号／A 語形とその注記 …\n5546: 6.「ナオイテ クダサイ」? という。 (判読不確か)\n5548: 4. … (判読困難)\n5557: 9. …という。 (判読困難)\n5558: 3. … (判読困難)\n5574: 1. …(判読困難)\n5576: 9. …(判読困難)\n5591: 3. 余り使わない。\n5604: 9. (jima? という。) (判読不確か)\n5606: 9. 但し okimosu とは云う。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01509.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01509",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01509.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 15-10\n質問番号 26　地図番号 61\n項目名 ナオス（片付ける） 026S　ページ（7）\nA・B・Cごとに別紙を使用する。／その中での情報は地点番号順に並べる。／注記の〈 〉（ ）は発語にする。\n地点番号　A 語形とその注記　A 注のたい語形\n9. 但しお膳を据えることに「お膳をなおす」という。\n8. 場所を正しく移す、正しい位置に移す意には用いない。\n6. 戸だなの中にしまうことには言わない。\n7.（もとどおりにする語で、片付では号でないようなものも、そうする時には「ナオシテチ」と言う。）\n9. くしまつするともいう。\n6.（そらをかたづけることは NAOSU という）\n7.（戸棚の中へナオすの意味には使わないが、その上の本はどこどこの位置に置くという意味に使う）\n9. くシマットケと言う。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01510.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01510",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01510.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "・A・B・Cごとに調査を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）は厳密にする。\n日本言語地図資料調査用紙 注記一覧 15-11\n質問番号 26　地図番号 61\n項目名 ナオス（片付ける） 0285\nページ（8）\n地点番号／A 語形上の注記 …\n5781  9. くたびれ下駄をそろえるときは使う〈maderunu 言〉\n5790  7. （たとい、整頓するという意味。その位置におくと言う意味では使う…ネトしたオシラナイのように）\n5791  7. 「しまう」「かたづける」と同義語では使わない。元の位置にもどしておくことを言う意味に使うことはある。\n5793  6. 「片づける」のときには使わない。「戸棚の中にしまう」方には使わない。この方は ma temu という。\n6277  1. はは隠してしまうという意味で「jinoburu・jinobe-toku」などと言う。\n6296  5. （nawasu, nawe:toku という形で使われる）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01511.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01511",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01511.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-12 資料番号 26 地図番号 61 項目名 ナオス（片付ける） ページ (9)\n・A・{B}・{C}ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく<>（）[]は厳密にする。\n見出し：地点番号／A語形とその注記\n80. 2. 〈古〉\n60 4. 〈くだら・新〉／jimau〈というのが古〉\n98 3. 〈しまう時に使う〉〈一般的に…が多い〉\n43 5. 〈片付けに。しまう時にはカスと言う〉\n72 4. ただしいいことば… 新。\n25 9. 〈naosu という都会ことばの感じがする〉\n58 9. 〈片付けるはトロナと言う〉\n13 4. 〈トットと言うのが昔から〉\n74 3. （締）\n33 1. 〈戸だなの中にしまう時にカスと言う〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01512.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01512",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01512.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "15-13\n日本言語地図資料用紙 注記\n質問番号 26　地図番号 61\n項目名 ナオス（片付ける） 0265\nA 普通語注記／B 聞いた共通語／C 聞いた特殊語　ページ(10)\n\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく〈 〉( ) については注釈にする。\n\n［表見出し］\n地点番号／A 語形とその注記（B・C語形なども）／A 注のない語形\n\n85 3. 布。\n20 4. シマウ。（〈革〉）\n10 1. ireteoke, simo: tjoke などとも。\n73 4. 昔は jinobeku と言った。\n11 4. 昔は iretoku, atsumetoku と言った。\n99 4. 近ごろ言うたことがあるという。\n05 4. もとは tojageru。\n93 9. ミヌウという。モトチ、ミズシトケのごとくろう？\n02 1. 「サッサトナオシトケ。」\n26 9. イレル。シマウ。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01513.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01513",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01513.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙  注記 15-14\nA・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく、<>（ ）は厳密にする。\n\n質問番号 26\n地図番号 61\n項目名 ナオス（片付ける）\n026S\n(11)\n\n地点番号／A 部形とその注記\n51 9 imau. tsumearu などという。\n75 1 〈imositoke などという〉\n43 1 コレトダ ナオシトケヨ。\n78 7 モトトコエ ナオシトケヨ の類。\n14 9 くれを片付けるのに使うのは？ 阿波の人の？\n鳥巣（久米町—坂本南方）の人で、使うのを聞いたことがある。しかしその言葉とは、シマス（レミシトケ）シマツル（シマシトケ）というのが普通である。\n86 9 〈シマツトケ という〉\n82 4（但し後8月1日の調査時、高敷の福田議三氏）。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01514.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01514",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01514.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6486.93",
+      "6487.43",
+      "6491.49",
+      "6491.65"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-15\n質問番号　地図番号　26　61\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(12)\n項目名　ナオス（片付ける）　0265\n地点番号　A 語形とその注記　A 注のない語形\n\n（明治32年を）について調べたとき、使うと答えて、さらにそれを\n“今頃という使う”と新しい意味に答えた。）\n\n6486.93  9. <クシマイシトケ などといって命じたりする。>\n6487.43  4. <但し これは中流以上の上品なことばでつかう行ける意味に用いる。普通はこの時、ゾンチィツマエトケ（そちらへしまっておけ）などという。>\n\n6491.49  6. <乱雑になっているのを整頓し片付けさせるとき naoji to ite kure のようにいう。戸棚の中はどへしようのには, simo:toite kure のようにいう>\n\n6491.65  1. <naoji-toke> などという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01515.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01515",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01515.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6892.11",
+      "6492.50",
+      "6496.56",
+      "6503.73",
+      "6510.65",
+      "6520.50",
+      "6522.03"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　15-16\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）は厳密にする。\n項目番号　26　地図番号　61\n項目名　ナオス（片付ける）　0265\n(A) 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(13)\n地点番号　A語形とその注記　A注のない語形\n6892.11　9. <oi-toite という。>\n6492.50　9. (nosu は使う者もいる地域であるが、調査の家庭環境、生育環境の関係が、この語を収得させなかったのかもしれない。)\n6496.56　3. 但し、それは、丁寧な言い方である。\n6503.73　1. ただし、そこに見えるものを片付けるときに使う。（そこに見えないものには使わない。）\n6510.65　9. 「アツベル」形を使う。\n6520.50　9. <カタツケトケ>\n6522.03　1. 特に命令形「ナオセーヤ」という形のみ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01516.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01516",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01516.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6522.79",
+      "6534.37",
+      "6534.85",
+      "6550.96",
+      "6561.49",
+      "6564.33",
+      "6565.09"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本語言語地図資料用紙 注記一覧 15-17\n\n資料番号 26　地図番号 61\n項目名　ナオス(片付ける)\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(1/4)\n\n（表ヘッダ）地点番号　A 語形とその注記　A 注のない語形\n\n9. 「今迄他人のいうのをきいたことがないか」の質問にも「なし」と答えた。\n3. 〈使うことは使うが、シマウと便ことの方が多い〉\n4. 〈「なおす」は非常に丁寧で上品な言葉である。普通はkatazukeruの方を使うようだ。〉\n3. セイリ、シマウ。\n3. 使うこともあるが、普通にはシマウという。\n9. 〈しまう〉と言う。\n1. (ふつうの意味には使わないと思うので、何度も確かめた)。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01517.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01517",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01517.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-18\n質問番号 26  地図番号 61\n項目名 ナオス（片付ける）  ページ（15）\n・A・(B・C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（ ）は該語等にする。\n\n地点番号／A 語形とその注記 …\n6576. 28. 7. （モトドオリニ ナオシテオク、などで使う）\n6583. 45. 6. ＜「イラ・コー ナオセロー」お前ここを片付けないのか、片付けてみよう＞\n6590. 87. 3. ＜ただし「ミョウ」の方を普通に使う。＞\n6591. 81. 9. ＜「シマウ」ということで も使う＞\n6593. 98. 9. ＜「トットク」という。＞\n6594. 67. 1. ＜少々〜の気持で＞\n6603. 52. 6. （戸だなの中の意には使わない）\n6626. 06. 9. ＜「naosu」というのは「整理する」時＞\n6639. 43. 6. （但し、机の上などを整頓する時には使う。）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01518.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01518",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01518.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料調査用紙 注記一覧 15-19\n質問番号 26　地図番号 61\n項目名 ナオス（片付ける） Q85\nA 普通注記　ページ（16）\nA 語形とその注記：\n6. 戸だなの中にしまうには使わない。\n9. Sinaberu という。\n6. 〈小さなものを片付けるときだけに言う〉\n7. 「しまう」「片付ける」と「なおす」とは同意義ではない。（元あった位置になおすと言う意味でも「なおる」を使う。）\n1. 〈naositoke などと言う〉\n1. 〈たとえば：「フトンを押入れにナオセ」（ふとんを押入れに片付けておけ、のように）〉\n6. 〈但し、そのほかは「…ナオセ」のように、片付ける意味に使う〉\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の〈〉（）は該辞にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01519.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01519",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01519.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）は厳密にする。 日本言語地図資料用紙 注記一覧 15-20 質問番号 26 地区番号 16 項目名 ナオス（片付ける） 0268 ページ (17) 地点番号／A 言形とその注記／A 注のない語形 12. 6. 〈但し、机の上を整頓するような時は使う〉 33. 7. （置き所が決っている大きな物（自転車等）が片付いていない時。「なおしてみい」などと言う、等の説明） 37 1. noketokun とも。自家の会話でこれが出た。noketokun が普通の言い方か。 11. 1. 〈しまづみく〉 1. katazukerun という",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01520.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01520",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01520.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 15-21\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報を地点番号順に並べる。\n・注記のくく〈 〉( ) { } は注箋等にする。\n質問番号 26／地図番号 61\n項目名 ナオス（片付ける）\nA 普通語注記（B 除いた共通語）（C 除いた特殊語）\nページ (18)\nA 語形とその注記／A 注のない語形 ほか\n7320 1 naoi to ku（ex のように「ナオイトク」の称。形の場合である。単純に「ナオス」なら整理の意に使う）\n7322 1 「時に入れとけ」ともいう。\n7322 1 simamu, kakusu とも。\n7323 1 simotoke という。\n7326 〈くものところにしまうという意味で nai noke to ke という。カタヅケルより説明は長い〉\n7329 9 noketoku, noke toke という。\n7329 9 「noke toke」という。\n7331 9 sirumu という（技能語？ 会話上にかえられるという）。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01521.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01521",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01521.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [],
+    "other_text": "15-22\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙  注記一覧\n質問番号 26    地図番号 61\n項目名 ナオス（片付ける）\nページ（19）\n\n［欄見出し］ 地点番号／A 語形とその注記／B・C ほか語形とその注記\n\n7332. 46  1. ＜naoi toke no toki ni＞\n7338. 48  9. ＜simo:to-ke to iu.＞\n7339. 27  1. ＜kire: ni naose＞ のように使う。\n7342. 12  1. （但し〜の naoji toku の語義的に使う。単独では「掃除、始末する」の意に使う。）\n7342. 76  1. （但し＜naoi toku＞の様は連語形ではない。単独では「ナオス」が普通。）\n7349. 91  1. ＜sinobemu ともいう。＞（sinobemu は宇和島附近…などでも使っている。）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01522.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01522",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01522.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-23\n質問番号 26 地図番号 61 項目名 ナオス（片付ける） A 共通語記入 B 聞いた共通語 C 聞いた特殊語 ページ（20）\n地点番号／言形とその注記\n1. katazukumu.（整理の時） naetokun（戸棚の中への時）\n1. katazukumu ともいう。\n5. Torl nawusu. かくすという意味もある。\n5. ナオス（新）\n5. ナオスはや癖。\n1. ナウェエチクレ という。\n〈ナオス（もとのように整理する）／カス（戸棚などにしまう）〉とも使いわける。\n〈ナクス、ナオス という〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01523.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01523",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01523.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号 26　地図番号 61\n項目名 ナオス（片付ける）\nA・(B)・(C)ごとに別紙を使用する。\nその中での音様は地点番号順に記入する。\n注記のく<>（）は略記にする。\nA 言形とその注記（B・Cきいた語形と注記）\n89　1.〈ナオス、カタヘル（?）ともに使う〉\n15　1. 1.（ナオシトク） 2.（ナオントク〔繕〕）という\n1・2とも「ナオス」という単純語と用法はないようである。\n97　5. ナオス（…）両用する。アトホンメスレ（例：アトホンメント）（?）\n26　5. ナオス（標準）を使う。\n33　5. ナオントク（希）\n85　9. <akameru という>\n11　9. <simo: toke という>\n11　9. <kotadzukeru という>\n15-24　ページ（21）\nA 普通注記　B きいた共通語　C きいた特殊語",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01524.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01524",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01524.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [],
+    "other_text": "15-25\nA・（B）・（C）ごとに別紙を使用する。\nその中での番号は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧\n質問番号 26\n地図番号 61\n項目名 デタス（片付ける）\nA 普通注記\nB 欠いた共通語\nC 欠いた特殊語\n（22）\n地点番号／A 言形とその注意\n60 1. naosi toke na. naosi tokan to ikan yo.\n42 9. こわれたものを修繕することにいう。\n47 9. 〈katazukerum〉という。\n16 1. 〈naosi toke〉（〜toke＝te oke の融合）。\n21 1. （ムシャに除ったものにつけるには〈modojite oke〉という）。\n86 9. （〈simo: toke〉という由）。\n12 9. 〈modojitoke, simo: toke〉という。（toke は te oke の融合形である。）\n57 9. 〈noke-toku, simo: toku（奈良では toke）〉。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01525.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01525",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01525.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [],
+    "other_text": "15-26\n日本言語地図資料利用紙 注記一覧\n質問番号 26／地図番号 61\n項目名 ナオス（片付ける） 0265\nA 普通注記  ページ（23）\nB 聞いた地通語／C 聞いた特殊語\n・A・(B)・(C)ごとに別表を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の〈 〉 ( ) 〔 〕は注釈符にする。\nA 語形とその注記／B・C 書いた語形とその注記\n1. 〈nadoji-toke ということもある〉（武智正人氏の…の方言によると重信地方（…町、川内町、小野村、久谷村）には使われていない。一般的にはこの言い方は忘れられて来ているのかも知れない。）\n1. 〈naosi-toke などという。〉\n9. simatu suru\n9. 〈otoke〉という由。\n9. （〈nokemu・noke-toke〉という由）\n9. 〈noke toku という。〉\n9. （〈noke-toke〉のように言う由）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01526.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01526",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01526.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料利用紙 注記一覧 15-27\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくく( )[ ]は厳密にする。\n質問番号 26／地図番号 61／項目名 ナオス（片付ける）／ページ (24)\n地点番号／語形とその注（B・C 聞いた語形とその注）\n62. 9. 〈modosi toke とか、〜へ oitoke と言う〉\n02. 7. たしか、ひっくり返っているものなどを元通りにする時などに使用する。片づけるにや近い用法か。\n15. 9. 〈noke toku〉（〈c〉simo: toku）\n75. 9. 〈modosum〉\n80. 9. 〈noke toku, torage toku〉\n08. 1. 〈naosi toi te …〉というね。\n13. 9. 〈noke toku〉\n95. 8・5 〈もののようにしておく（とコマはいる）〉\n52. 1. 〈naoitoke〉などのように連用形を言うのが普通。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01527.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01527",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01527.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-28\n質問番号 26／地図番号 61／項目名 ナオス（片付ける）\nA・（B）・（C）ごとに別紙を使用する。／その中での情報は地点番号順に並べる。／注記の＜＞（ ）を用いる。\n表見出し：地点番号／A 語形とその他の注記（B-C 書いた語形その他の注記）／A 注のない語形\n7440行：9. ＜都会かぶれした人などの中には naoji-te oke などと、片付けさせるときに言うものもある。＞\n7442行：9. ＜クルメル という＞\n7450行：6. ＜katajosemu こと＞\n7470行：1 ＜全村 ナオッショケ＞\n7471行：1 ＜使用用 オ・タシエ ナオシ…チョウのように使用＞\n7500行：9. ＜他人が使えばわかるが、自分は使わない。モトノ…トエオチを使う＞（トエオチを使う）\n7501行：9. ＜ミマウということばを用いる。＞\n7502行：9. ＜最近（他方言の影響で）使うようになった人もいる＞\n欄外：ページ（25）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01528.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01528",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01528.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [],
+    "other_text": "15-29\n日本言語地図資料用紙 注記一覧\nA・(B)・(C)ごとに別紙を使用する。\nその中での註釈は地点番号順に求べる。\n注記のく＞( ) は厳密にする。\n質問番号 26  地図番号 61\n項目名 ナオス（片付ける） 0265\nA 発音注記  B 聞いた共通語  C 聞いた特殊語  ページ (26)\n地点番号／A 語形とその注記 + B・C 発生や語形とその注記\n91  9. 〈カタズケル とか、ヨジメルを使う。〉\n66  3. 〈シマウの方を多くつかう。〉\n83  9. 〈カタズケルを用いるが、ナオスでもわからなくはない〉\n48  4. 〈共〉〈ヨジメルを多く使う。〉\n94  3. 〈シマウ、ヤットナオス、カタズケル などの方を使うことが多い。〉\n30  4. 〈共〉〈ヨジメルを多く使う。〉\n11  4. 〈共〉〈ヨジメルを多く使う。〉\n13  4. 〈原形は hosomeru という〉\n73  1. 〈naojitoku ともいう〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01529.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01529",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01529.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [],
+    "other_text": "15-39\nA・B・Cごとに別紙を使用する。\nその中での情報は地点番号順に記べる。\n注記の＜＞（）は線符にする。\n\n日本言語地図資料用紙 注記一覧\n質問番号 26　地区番号 61\n項目名 ナオス（片付ける）\nページ（7）\n\nA 語形とその他の注記（A 注のない語形／B・C 異なる語形とその他の注記）\n\n72　9. ＜hsometfoku という＞\n26　1. オオシトクはナイチョクになる。\n83　1.（hawita〈直したのり替え直いたの際に〉という。現在それはよにくく。過去形で言う。）\n25　1. ＜但し naitfoku or naitfot と言う＞\n11?　9. ＜sinoburu という＞\n83　1. ただし kobameru とも言う。\n79　1. no:suri.\n55　nawamura no:=（ur.）（冶角。）\n48　1. no:um.",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01530.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01530",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01530.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 15-31 質問番号 26 地図番号 61 A 普通注記 B 聞いた共通語 C 聞いた特殊語 ページ (28) 項目名 サオス（片付ける） A 語形とその注記 B・C 聞いた語形とその注記 A 注のない語形（B・C 残した語形とその注記） A・(B)・(C)ごとに別表を使用する。 その中での番号は地点番号順に並べる。 注記の〈 〉（ ）は… 1. no:sun 1. no:suri 1. no:suri 1. no:sum 1. no:sum 1. no:sum 1. no:sum 1. no:sum 1. no:sum. no:jui. （注：021, 022 の〈 〉内参照） 1. no:sun",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01531.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01531",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01531.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 記録一覧 15-32\n質問番号 26  地図番号 61\n項目名 ナイス（ ） 0265\nA 普通語  B 稀な共通語  C 稀な特殊語／ページ (2p?) 9\n\n地点番号｜A 語形とその注記（B・C 満た語形とその注）｜A 注のない語形（B・C 満た語形とその注）\n97  l. no:sun.  no:furi. （語尾の区別は021・22・23の〈 〉）\n50 3.  no:jun.  no:sui; （…21–22の該問?）\n66  l. no:jun.\n93  l. no:jun.  no:sumu.\n76  l. no:sun.  no:suji.\n72  9. 〈hatadzikijun e to iu〉\n29  l. 〈naosu に当る語形は no:sun〉\n75  3. 〈no:sun を使うが、それ以外に kataziki=N（けづ?）も使う。〉 そ使う。〉\n96  l. no:sun",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01532.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01532",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01532.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [],
+    "other_text": "▶ A・[B]・(C)ごとに別表を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈 〉（ ）は後掲にする。\n\n日本言語地図資料用紙　注記一覧 15-33\n質問番号 26　地図番号 61\n項目名 ナオス(片付ける)\nA 普通語注記／B 聞いた共通語／C 聞いた特殊語　ページ 30\n\n地点番号｜語形とその注記\n22　9. （「なおす」に当る語形は no:φUN）\n73　9. 〈片付けるのは izumiruN という。〉\n87　9. C「なおす」に当る語形は no:sun）\n32　9. （「なおす」に対応する語形は no:φUN）\n80　9. （「なおす」に当る語形は no:sun）\n26　3. 〈no:sun をかたづけの意味に当てはめはするが、kataziki:N を多く用いる。〉\nN を多く用いる。\n22　9. 〈片付ける事には izumiruN をつかう。〉\n25　9. 〈sitsimiruN も…　sitsimiruN を多く用いる〉\n69　3. no:sun よりは izumiruN を多く用いる。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01533.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01533",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01533.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "2151.64"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は撤廃にする。\n日本言語地図資料用紙　注記一覧　15-34\n質問番号　地図番号\n26　61\n項目名　ナオス（片付ける）　026S\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n地点番号　A 語形とその注記　A 注のない語形（B・C 残した語形とその注）\n2151.64　9. Sitamiru（命令形）を用いる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01534.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M061Q026/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01534",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01534.tif",
+    "source_ljc_id": "LJC-M061Q026",
+    "source_map_numbers": [
+      "061"
+    ],
+    "source_title": "ナオスを“片付ける・しまう”の意味で使うか"
+  }
+]

@@ -1,0 +1,2058 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1715.53",
+      "1719.38",
+      "1848.24",
+      "1862.48",
+      "1863.48",
+      "1867.15",
+      "2699.89",
+      "2734.05",
+      "2741.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-77\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n質問番号 地図番号 187. 177.\n項目名 さといも\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (1)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n1715.53.  satoemo  <正月しの食つない>  (大こちそろの時につく。)\n1719.38.  サトイモ  <新>\n1848.24.  imono ko.  <名?>  sato imo.\n1862.48.  イモノコ  <名?>  サトイモ。\n1863.48.  イモノコ  <名?>  サトイモ。\n1867.15.  イモノコ  <新?>\n2699.89.  dzigi  <名?>  sado; imo\n2734.05.  イモノコ?  <ここにはない>\n2741.46.  イモノコ?  <名?>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05477.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05477",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05477.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2753.44",
+      "2755.76",
+      "2761.77",
+      "2763.22",
+      "2763.28",
+      "2763.89",
+      "2764.28",
+      "2771.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-78 質問番号 地図番号 177 項目名 里芋 187 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (2) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 2753.44 N.R. <このいもがない> 2755.76 〃 <このいもはない> 2761.77 〃 (見たことない様ゝ) 2763.22 N.R. <くれつたことがない> 2763.28 〃 (sado j'mo と共通語的に…) 2763.89 〃 <このいもなし> 2764.28 ?imonogo <あまり作らない> 2771.83 hasji'imo <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05478.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05478",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05478.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2983.06",
+      "2784.63",
+      "3619.08",
+      "3688.82",
+      "3689.38",
+      "3699.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-73\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n（右上の小表） 質問番号 地図番号 177 A 普通注記 （B 除いた共通語） （C 除いた特殊語） ページ（3.） 項目名 里芋\n（表見出し） 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n2983.06　 sado'imo　〈新? 伝説知らない〉\n2784.63　 sadoimo　〈芋〉\n3619.08　 ←　〈この土地にて?きない〉\n　N.R.　このものはないから名もない\n　［ス?キイセ?］（んむしの人は 鉄が沢の人）\n3688.82　 imo-noko.　〈飛島では作らない〉\n3689.38　 karatori　（これは藁も食う）\n3699.25　 imo-noko.　〈大田にてきる〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05479.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05479",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05479.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3712.74",
+      "3715.51",
+      "3716.27",
+      "3716.58",
+      "3720.58",
+      "3721.30",
+      "3732.26",
+      "3733.73"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-80\n質問番号　地図番号　(177)\n項目名　里芋　187\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(4)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n(絵は karatori らしい、とのこと)\nkaradori imo　茎も食われる　imo no go\nhaze; mo　<葉芋に対応>\nN.R.　<くのいもはない>\nhai'mo　<此頃 植えるようになった>\nkaradori imo　茎も食われる　imo no go\nhasi imo　絵称　imo no go は\nkaradori imo　茎も食われる　imo no go\nhasi imo　imo no go は",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05480.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05480",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05480.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3733.88",
+      "3734.42",
+      "3737.95",
+      "3741.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-81\n質問番号　地図番号　(177)\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (5)\n項目名　里芋　187\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nサトイモ。\nここでは ナガイモ のツルに\nちっちゃい 仔をいり。\n<作らない。>\n(エモノユ)　この里芋は作らない由。\nハエモ。\n(作らないか：)\nimonoko  <作りユのある植物名は\nakajanaと言う 客お\nこれは食えない。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05481.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05481",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05481.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3743.49",
+      "3744.33",
+      "3746.26",
+      "3747.91",
+      "3755.32",
+      "3756.26",
+      "3756.40",
+      "3760.93"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-82\n質問番号　地図番号　177\n項目名　里字　187\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n手書き項目（概略）:\nサトエモ　<耕作しない>\nスギエモ　<右>　サドエモ\nエモノコ　<る>\n井、ハエモ　<この土地で作らない>\nモリオカコエモ　<新>　ハブツリエモ\nエモノコ　<新>\nハエモ　<余り作らない>\nハリモ　<希>（作付なし）\nN.R.（この等、作らぬ物）\nimonoko　（種名か等それ自体かなり植物名）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05482.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05482",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05482.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "3762.87",
+      "3770.62",
+      "3774.44",
+      "3780.65",
+      "3786.44"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-83\n質問番号 地図番号 177\n項目名 里芋 187\n(A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ ( ? )\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< ( ) [ ] は厳密にする。\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n手書き項目（上から順に）:\n3762.87   ハアリエモ   あやしい )  茎は dz+i k u  <ケ>   サトーエモ。\n3770.62   karadori   (大きい)\n3774.44   umonogo   (小さい)\n3780.65   karadori   (苗代にうえる)  —\n3786.44   ハエモ.  (茎を食うもの)  エモノコン サト^エモ。\n（その他の手書き注記、丸括弧内の備考等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05483.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05483",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05483.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4597.72",
+      "4609.25",
+      "4609.54",
+      "4609.68",
+      "4618.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-84\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号　177\n項目名　里芋　187\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (ふ)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ndzikieno　<...>　koemo.\ndzigze?　<すいき>に対応、しかし「すいき」すなわち差のことは karadoru という。\nkaradoru　<総体>\nemonoko　<芋むけ>\nkaradoru　<差は zwige?>\nemoko　<イモ.>\nkaradoru　<カントリが全体の差>\nzwigel　<大きいカプのいは>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05484.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05484",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05484.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4619.63",
+      "4628.28",
+      "4628.61",
+      "4629.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-85\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　177　項目名　里芋　187　A　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ(9)\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n4619.63    umoyo.　〈小さいいも〉\n4628.28    Karadori　〈全体〉\n4628.61    Karadori no imo　〈いもを主にしている時〉\n4629.43    Karadori　〈総称〉　dzi:ki imo\n            Karadori emo　〈苗代あおに植える〉\n            ogaemo　〈大田に植える〉\n            umoyo　芋だけ\n            umoko\n            根のカワサリ部分　zui:ki",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05485.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05485",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05485.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4638.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-86\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜　＞（　）（　）は厳密にする。\n質問番号　地図番号　177\n項目名　里芋　187\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　(10.)\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n4638.43  haemo　<畑に作る品種?>\nsado-emo　(継称?はない)\nkaratori　(田に作るいも、通し 苗代に植ええ、茎の赤味 かかった、普通、ハっ頭と いわれる品種らしい、掘り 苗を作り終ったあと苗代は 籾を植えず、このいもを 水牛に植える風かこの地方に... )",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05486.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05486",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05486.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4639.10",
+      "4643.47",
+      "4647.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-87\n質問番号 地図番号 177\n項目名 里芋 187\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (11)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nある。これも総称ではない\nkaratoriimo <田に植えるもの>\nsiroimo <畑に植えるもの>\nja:taimo 佐渡では ja:ta na できたものであろうか。\nそういう、この辺では 作っていない、余り 用いない語である。\nsatoimo <いもの類をひっくるめて>\nkaratori-satoimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05487.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05487",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05487.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4647.87",
+      "4653.47",
+      "4653.84",
+      "4658.42",
+      "4663.06"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-88 質問番号 地図番号 177 項目名 里芋 187 (A)普通注記 (B 除いた共通語) (C 除いた特殊語) (12) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] ＜紫色のすいきのいも＞ カラトリ, スフレン, サドエモ, ヤス・カンシラ 総称はなし. N.R. haimo, to:imo, jatsuga;sira 等の種類があるか;総称はえられなかった. ja'ataimo 八幡芋, 佐和田町の satoimo 地名,産地名から. karadori <すいきの赤いいも> sado-emo ja:taimo (佐渡では ja:ta(?) ja:ta l)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05488.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05488",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05488.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4663.48",
+      "4666.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-89\n質問番号　地図番号　177\n項目名　里芋　187\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(13)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n八幡・・河原田町に産する\nのていう；ja:taは佐渡に\nおける各種野菜の産地として\n知られている。ja:taimoは\n里芋（狭義かおよび継続ってある。）\nta:imo　くた:imoは一品種で\n親いもが大きい。>\nハフかじら、くるが多い、\nja:taimo　る、ne:imoとは同じ、he:imo\n総称は得られないか。\n\n4663.48\n4666.42　N.R.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05489.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05489",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05489.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4666.99",
+      "4675.62",
+      "4676.37",
+      "4676.42",
+      "4685.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-90\n質問番号　地図番号　(177.)\n項目名　里芋　187\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (14)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4666.99　araemo　jatsugafira, araemo　なとは品種名のようである。（ある品種名かもしれない。jatsugafira。その辺ははっきりしない。）\n4675.62　taranoemo　どれらは品種の名であった。\n4676.37　jatsugafira　絵柄はえらんあが。\n4676.42　yoe mo　茎の青いもの。\n4685.10　*[hakarienmo] (はじめ sato emo か)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05490.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05490",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05490.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "4685.28",
+      "4686.52",
+      "4687.01",
+      "4688.45",
+      "4695.19",
+      "4695.87"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-91\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n質 間番号　地図番号　177.\n項目名　里芋　187\n(A) 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(15)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4685.28　egoemo　(里芋の一種の名らしい)　hatakeemo\n4686.52　egoemo　<古？>\n4687.01　satoemo　<茎、葉に用いる>\n4688.45　sado'imo　<茎が食える新芋>\n4695.19　toi'mo　<茎も食える芋>\n4695.87　taraemo　(たた〜いもの？)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05491.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05491",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05491.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "4696.82",
+      "4700.78",
+      "4703.18",
+      "4710.18",
+      "4710.55",
+      "4711.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-92\n質問番号 地図番号 177\n項目名 里芋 187\n(A) 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (16)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4696.82  tada no emo  <古くから現代までつかわれている>\n4700.78  karatori  <イモノコの兄弟分　種類か　imonoko>\n4703.18  emonoko\n4710.18  emonogo, emonogo  <足りごとを karatori という?>\n4710.55  karadori  <苗代跡にうえる>\n4711.41  karadori  <苗代用>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05492.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05492",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05492.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "4712.54",
+      "4713.60",
+      "4714.68",
+      "4716.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-93\n質問番号　地図番号　177.\n項目名　里芋\nA◎ 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (17)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地 点 番 号　　A　語形とその注記　[B・C 除いた語形とその注]　　A 注のない語形 [B・C　残した語形とその注]\n\n4712.54　emonoko.　<大目用?>　(分輪終族であって、 小さいのだけでなく、大きいものも含む。)\n\n4713.60　emonoko.　<くまい形をしていてますい　>　KatatoLo. <長い形をしていてますい>\n\n4714.68　[emonoko]\n\n4716.20　emonoko.　(イトラセ そのものの特徴である。)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05493.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05493",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05493.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "4723.14",
+      "4723.58",
+      "4724.00",
+      "4724.75",
+      "4731.15",
+      "4731.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-94\n質問番号 地図番号 177.\n項目名 里芋 187\nA 普通注記 (B 除いた共通語) [C 除いた特殊語] ページ (18)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n4723.14  karadori: <総称であり、かつ茎も子も 食り品種をもす。>\n4723.58  (kasatorienmo / kashatorienmo)  <茎の力を取りするから>\n4724.00  (kaiatorienmo / kaiatoriemo)  <茎まで食いる方のイモ>\n4724.75  emonoko. (いくら大きなもので里芋はこのようにまる。)\n4731.15  imoko.  <ね>\n4731.42  enoyo / engyo とれた芋\n右欄手書き注: * emoko.  no emoko.  (はいも / hoemo など)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05494.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05494",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05494.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "4733.91",
+      "4741.44",
+      "4743.44",
+      "4952.27",
+      "4753.76",
+      "4760.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-95\n質問番号 地図番号 (177.) A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (18)\n項目名 里芋 187\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n4733.91.   hadaemo   (音韻としては hataemo である)\n4741.44.   ハエモ   (稀)    サトエモ\n4743.44.   Kalatoli   (葉,茎,芽の全部をさすとき) sato-emo\n4952.27.   hataemo   <特に里芋であることを>\n\n4753.76.   hadaemo   <ち.?>    sato-emo\n4760.54.   imogo.    <小さいもの>\noyaimo  <絵の中央に描いてある>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05495.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05495",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05495.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5472.91",
+      "5499.98",
+      "5512.78",
+      "5538.63",
+      "5532.79",
+      "5539.43",
+      "5539.74",
+      "5548.24"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　54-96\n質問番号　地図番号　(177.)　A 普通注記　ページ (20.)\n項目名　・里芋　187\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nzuikiimo　大きいもの。>\n<おいもーお>　satoimo\n(次行)  スーキ。　絵柄らしい。　2イモ、かしろイモ。\n(次行) ユイモ。　<今>\nsiroimo, akaimo, jatsiyagastra　satoimo, imo\n(次行) たいも　<古>　satoimo\n(次行) Taimo　<古>　satoimo\ndzukiimo　<新>　taimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05496.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05496",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05496.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5549.55",
+      "5557.48",
+      "5557.85",
+      "5558.33",
+      "5568.12",
+      "5569.36",
+      "5575.00"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-97\n質問番号　地図番号　177.\n項目名　里芋　187\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n5549.55　dzi kiemo　<新>　　　　　　　　　　　　eyaemo\n5557.48　tsun moko　<古>\n5557.85　neba emo　<新>\n5558.33　dzu ki;imo　<新>　　　　　　　　　　　hataimo\n5568.12　dzuki;imo　<新>　　　　　　　　　　　eyaemo\n5569.36　ハタイモ　<綜称>\n5575.00　dzuki'imo　　　　　　　　　　　　　　satoimo\n\n（下部手書き注記）\n<スライキはさしもの中でもハタイモ、サトイモ。品種が少しちがっている。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05497.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05497",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05497.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5576.60",
+      "5578.27",
+      "5603.35",
+      "5604.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-98\n質問番号　地図番号　177\n項目名　里芋　187\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(22) ページ\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き行1: 5576.60　taimo　[ひっくるめている。]\n手書き行2: 5578.27　satoimo　→ <茎の青いもの>\n手書き行3: 5603.35　to:no imo　<茎の赤いもの>\n手書き行4: 5604.28　ハタイモ　<希、池?>　タモ、マイモ\nその他手書き注記: satocemo, e: no emo, [hataemo] <村の人でこのように言う人もいる。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05498.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05498",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05498.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5605.11",
+      "5605.70",
+      "5609.26",
+      "5609.81"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-01\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()［］は厳密にする。\n\n質問番号　地図番号　177\n項目名　里芋　187\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語\n(23)\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き欄:\n5605.11    jatsugaɸira (?)   (一応総称として答えた。 しかし、農民でないので、 はたしてそうであるか疑問に思う。)\nojarmo   (品種らしい名)\naramo\n5605.70   hataemo   <多く用いる>\n5609.26   hatakeimo   eは狭いe\n5609.81   hatakeemo   <古>   satoimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05501.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05501",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05501.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5611.74",
+      "5612.22",
+      "5617.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-02\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号　172\n項目名　里芋　187\nA　普通注記　ページ　[B　除いた共通語]　[C　除いた特殊語]　(24)\n\n地点番号　A語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C　残した語形とその注】\n\nシロエモ, サトエモ, (？)\nアカガラ, ヤツガシラ, (じんらは 芽か赤いも。) その外こいしの。\n(かし判断に困難である。)\n総称はないようである。\n\n#eyolmo * ?　芽を食べられぬもの。\n(siroimo)\numo\n総称\n海夫奴疑わしく思われる。\n\nsatoimo\n<胡麻、さといもは",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05502.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05502",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05502.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5620.16",
+      "5625.32",
+      "5626.92",
+      "5626.89"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉( )[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 55-03\n質問番号 地図番号 177\n項目名 里芋 187\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (25)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n(大きな手書き注) 村全体かこれをえーんでー 作らない。>\n5620.16  tsukuriimo  (；)\n5625.32  ハタエモ  くんを最も多くの場合 用いる。>\n\nエノエモ.  <む>\n5626.92  satoimo  (使らない)\n5626.89  サトイモ.  <ほか(武尊)さまか>  さといものからですか?  ここまで目をついたか?",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05503.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05503",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05503.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5631.75",
+      "5632.83",
+      "5641.13",
+      "5641.98",
+      "5642.17",
+      "5644.24",
+      "5645.43",
+      "5645.89"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-04\n質問番号　地図番号　(177.)　項目名　里芋　187\nA　普通注記　ページ　(B)除いた共通語　(C)除いた特殊語　(26.)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き行（上から）:\n5631.75.   satoimo    里芋はっくらない　>\n5632.83.   satoimo? / haemo   <ほとんど作らない>\n5641.13.   haimo    (haimo ～ haemo)　<あまり作らない>\n5641.98.   satoimo    <普通>    haimo\n5642.17.   araemo    <苔?>    satoemo\n5644.24.   satoimo    <ここで作らない>\n5645.43.   satoimo    <ここと作らない>\n5645.89.   (ハタイモ／タライモ?)    <ち?>\n（注: 手書き文字は判読困難な箇所あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05504.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05504",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05504.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5649.53",
+      "5652.37",
+      "5653.08",
+      "5654.94",
+      "5654.98",
+      "5655.41",
+      "5662.78",
+      "5663.01",
+      "5664.58"
+    ],
+    "other_text": "▷ A・[B]・[C]ごとに別紙を使用する。\n▷ その中での情報は地点番号順に並べる。\n▷ 注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　55-05\n質問番号　地図番号　(177.)\n項目名　里芋　187\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (29)\n----------------------------------------------\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n----------------------------------------------\nA欄: 他。　普通の言い方　　　| 右欄: サトイモ。\nA欄: haemo　(注)　　　　　　| 右欄: maru emo\nA欄: satoemo　<作らない>　　 | 右欄: \nA欄: ジョオトレッリイモ　<ここではあまり...?出来ない> | \nA欄: ジョオレヌウイモ　<サ>  | \nA欄: サトイモ。　<多>         | \nA欄: ハタケイモ　<古>         | \nA欄: [dzo:;siemo]　<新> (上川いも) | 右欄: sato emo\nA欄: mairuemo　<希>           | 右欄: satoemo\nA欄: (注) ゆうつない、みとしるに入れる | 右欄: サトイモ。\n----------------------------------------------\n(下部余白)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05505.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05505",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05505.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5665.11",
+      "5662.77",
+      "5671.68",
+      "5672.75",
+      "5673.78",
+      "5674.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-06 質問番号 地図番号 177. 項目名 里芋 187 A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ (28.) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞(　)［　］は厳密にする。 地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］ ＜ハネイモ（キヌカツギ）＞ ぬえこんせてるから＞ トオノイモ． ＜サ＞． イモ． ＜る＞ satoemo [花] satoimo haimo あまり作らない 新しい だゐきいも（dzuikiimo） ＜古＞ araimo, satoimo satoemo ＜作らない＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05506.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05506",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05506.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5675.36",
+      "5676.84",
+      "5678.86",
+      "5679.86"
+    ],
+    "other_text": "日本方言地図資料用紙　注記一覧　55-07\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞( )[ ]は厳密にする。\n\n（表上部）\n質問番号　地図番号　(177)\nA　普通注記　ページ (2?)\n[B　除いた共通語]\n[C　除いた特殊語]\n項目名　里手　187\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]\n\nケイモ。　<古?>\nサトイモ。　<黄?>\nコイモ。　(開)摺ったか、さいいもの　種類かもしれない。\nサトイモ。　<茎の青い種類>\nイモ。　<普通>\nトダレイモ　<老人のことば>\nsatoemo. titemo. (普通に) satoemo.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05507.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05507",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05507.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5680.34",
+      "5682.37",
+      "5684.26",
+      "5685.02",
+      "5685.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-08\n質問番号　地図番号　177.\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (30.)\n項目名　里芋 187\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5680.34   satoimo.  <作らぬ.>  [uwaimo?]  《少し作る》  1. マイモ.\n5682.37   dzui kiimo.  <作らない!>\n5684.26   satoimo.  <ここでは作らない>  買って食べる?>\n5685.02   N.R.  <作らない.>\n5685.37   Koimo  サイ.  jatsugafira  絵柄はない\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05508.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05508",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05508.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5686.31",
+      "5687.60",
+      "5688.86",
+      "5690.12"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-03\n質問番号　地図番号　177.\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (3/.)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n（表の見出し）　地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nKoimo　＜総称＞　いろいろっ種類がある　to = no imo (jinaimo) jatsuga;ra\nトオノイモ　＜茎の腹黒いもの＞　ユイモ。\n（トシレ）　＜縞＞　茎の青い種類　サトイモ。\n!tsuikoroi mo　＜露がコロコロと落ちるから＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05509.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05509",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05509.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5693.78",
+      "5695.47",
+      "5696.54",
+      "5697.53",
+      "5700.29",
+      "5712.70",
+      "5780.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-10 質問番号 地図番号 177 項目名 里芋 187 (A)普通注記 [B 除いた共通語] [C 除いた特殊語] (32) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n5693.78  (手書き) ﾀﾀｰｲﾓ 〈B〉\n5695.47 Keimo 〈形が円くて、...〉\n5696.54 sima'imo 〈形が長くて、煮るのに時間がかかる種類。味はいい。〉\n5697.53 imo 〈昔はこう言ったもの。〉\n5700.29 satoimo 〈普通使う〉\n5712.70 [satoimo]\n5780.57 (清) tjeimo satoeimo\n(ページ内の手書き注記や語形が続く)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05510.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05510",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05510.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5796.68",
+      "5792.02",
+      "5793.20",
+      "6348.91",
+      "6348.77",
+      "6354.46",
+      "6357.38",
+      "6366.24",
+      "6366.67"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-11\n質問番号　地図番号　(177.)　項目名　里芋　187\nA　普通注記　ページ　(33)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5796.68　[satoimo]\n5792.02　satoemo　どは非常に狭い e.\n5793.20　satoimo　(小学校で見せてもらった　文献ではドヤモというともある)\n6348.91　エグイモ　<古?>\n6348.77　サトイモ　<古?>\n6354.46　satoimo　<この方が古い?>\n6357.38　エグイモ　<も>\n6366.24　egui mo　<多く使う>\n6366.67　egui mo　<古い>\n(手書きメモ、活字や句読点は原資料に準ずる。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05511.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05511",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05511.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6374.64",
+      "6386.32",
+      "6393.26",
+      "6398.98",
+      "6407.43",
+      "6408.15",
+      "6408.88",
+      "6409.92"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞(　)［　］は厳密にする。 日本言語地図資料用紙 注記一覧 55-12 質問番号 地図番号 177. 項目名 里芋 187 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (34) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] からいも <…> エクライモ taimo (新) sa saimo imonoko <ら> kaimo koimo <みく, ほら> satoimo スーイキイモ <海?> サトイモ、イワイモ 万里者 サトイモ、スール スルイモ スーイキイモ <新> イコライモ タンコーイモ <丹後から来た意、希?> N.R.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05512.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05512",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05512.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6410.45",
+      "6413.43",
+      "6423.98",
+      "6425.41",
+      "6427.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-13\n質問番号　地図番号　177.\n項目名　里子\nA 普通注記 　[B 除いた共通語]　[C 除いた特殊語]　ページ (35)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n表ヘッダ：地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き注記（おおまかに）：\n<くる芋>\nスーイキイモ, オヤガシラ\n<親芋>\n<新?> サトイモ\n6410.45  ユイモ\n6413.43  dzuiiki\n6423.98  <koimo> kaikai; \"imo\" (疼い痒い芋の表しらしい) koi mo\n6425.41  <上品>\n6427.27  satoiimo （昔から用いている。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05513.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05513",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05513.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6427.40",
+      "6427.93",
+      "6428.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-14\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n質問番号　地図番号　1??\n項目名　里子　187\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（3）\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き項目（抜粋）:\ndzwi; ki; imo　[昔から用いているか]\n少ししか使わない。\ndzwi; ki; imo　[椿?]\nsatoimo　[多]\ntaimo　[普通に用いるのか]\n（サトイモよりケイ）\n（タイモは用つていると　よく出来るから）\n下段手書き: zwi, ki, imo <名> taimo　ス?体?",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05514.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05514",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05514.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6428.26",
+      "6428.96",
+      "6435.68",
+      "6436.33",
+      "6439.17",
+      "6441.55",
+      "6444.62",
+      "6445.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-15\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n質問番号　地図番号　(177)\n(A)普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ (38)\n\n項目名　里芋　187\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nタイモ。　＜総称＞\nトオイモ。　＜特に茎の食えるもの。＞\nタイモ。　＜ち＞　スケキイモ。\ndzwikimo　＜総称＞\nKoimo　＜これは小さいもの。＞　doimo\nイエノイモ。(イエは明確でないが)　サトイモ。 (jeに近い)\nスイチイモ　＜芋＞　サトイモ。\n＜…＞　サトイモ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05515.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05515",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05515.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6446.69",
+      "6447.08",
+      "6453.31",
+      "6455.31",
+      "6457.51",
+      "6458.08"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-16\n質問番号　地図番号　(197.)\n項目名　里芋　187\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ　(38)\n• A・[B]・[C]ごとに別紙を使用する。\n• その中での情報は地点番号順に並べる。\n• 注記のく <> ( ) [ ] は厳密にする。\n\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き記入（地点番号を除く欄）：\nスーキイモ　<ち>　　　　　（右欄：タイモ）\ntaimo　絵柄\ndzuiki;imo　総称および狭義の里芋\nto:ino;imo　やつかしら\nコイモ。　現。　　　　　　（右欄：スーキ）\nエクイモ。　古。\nサトイモ。　古。\nto:imo　<茎軸ワー性あり>\ndzu;iki;imo\niguimo　<b>　sato;imo.\nユモ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05516.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05516",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05516.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6458.26",
+      "6467.73",
+      "6469.18",
+      "6470.11",
+      "6481.56"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n日本言語地図資料用紙　注記一覧　55-17\n質問番号　地図番号　(77)\n項目名　里芋　187\nA　普通注記　(B)除いた共通語　(C)除いた特殊語　ページ (39)\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き行:\nトオノイモ　総称なし。\nエヒーイモ　<新>\nトオノイモ　<軸も食える>\nユイモ　<軸は味悪く、いもだけ食う>\n総称は知らぬ。\negui ma (筆記)　(不明読み)\nいも　<左希?>\narai mo　<b>　satoi mo\nサトイモ　<種類にはオヤメ Pox>\n(注: 手書きの一部は判読困難、上は粗い転写)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05517.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05517",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05517.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6485.14",
+      "6485.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 55-18\n質問番号　地図番号　177.\n項目名　里芋　187\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (40)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6485.14　アライモ。　く洗って皮をとり、売り出す\nれ8ているものについている。>\n<オヤイモ、ユイモ、スイキイモ.>\n\n6485.30　ザイモ、サトイモ。　一部的な名称\nアライモ。　農家から茶色のものをとって\n白く洗って売りにする とき\nオヤイモ、その頭をいう。\nユイモ。\nスーイキイモ。　茎のついたまつの場合",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05518.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05518",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05518.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6485.46",
+      "6485.82",
+      "6486.50",
+      "6487.41",
+      "6500.22"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-19\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）［　］は厳密にする。\n（上欄の枠）質問番号　地図番号　（手書き）177　A 普通注記　項目名　里芋　187　ページ（手書き）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6485.46\tタイモ．　＜やつサ＞\tタライモ．\n6485.82\tオヤイモ　＜親＞\tサトイモ．\n6486.50\tアライモ　＜る＞\n6487.41\tシライモ　吉。\n6500.22\t（スライキイモ、スーイキィモ　手書き）\n（下段手書きメモ）[ui]→[iː]の変化は少しも一統的でない。[a͡i]→...　[ae:]の場合ほとんど...　しかしこの語形の場合は...",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05519.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05519",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05519.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6504.44",
+      "6505.58",
+      "6506.03",
+      "6506.86",
+      "6507.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-20\n質問番号　地図番号　(177.)\n項目名　里字\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地 点 番 号　　A 語形とその注記【B・C除いた語形とその注】　　A注のない語形【B・C 残した語形とその注】\n\n6504.44　　(はっきり[じじ]となっている)　様である。　satoimo\n6505.58　　菱先、〈総称〉\n6506.03　　トノイモ、〈茎は赤い〉\n6506.86　　tonoimo　ズイキイモ　dʑi:imo\n6507.13　　アワモ、〈総称〉\n\n(手書き注記や語形は読み取りにくい箇所があります。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05520.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05520",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05520.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6507.92",
+      "6511.33",
+      "6514.25",
+      "6514.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-21\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n（右上の箱）質問番号　地図番号　(177.)　項目名　里芋　187\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (44)\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nトイイモ、〈茎が赤い。〉\nエプイモ、〈在来種てついてはたん系るが〉\nエゴイモ。〉\n\n6507.92\nケイモ。〈総称〉\nマイモ、トイモ、ヤツガシラ\n〈くれんとこれ　少しイモの種類〉\n\n6511.33\nスーイモ、スーイキモ\n（他のイモとオヤにと区別する）\n\n6514.25\nzuki imo 〈すいきいも のちちつまった?〉\n\n6514.61\ntono imo 〈茎の赤いのはすかい？〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05521.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05521",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05521.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6517.50",
+      "6521.17",
+      "6521.20",
+      "6522.03",
+      "6522.37",
+      "6522.93"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 55-22\n質問番号　地図番号　177\n項目名　里芋　187\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ntadaimo    <茎の青いものはすべて>\n(総称は得られなかった)\n\nコイモ。\nくいものの中で小さい親かしら　こイモ\n(についんイモをいう。)\n\nカイモ。\n\ntaimbo　[新]\n\nタイモ。\n芽自体はタイモであり、葉をスーイ件という。\n\nタイモ。　<やった>\n\nタイモ　(よろ.)\nユイモ\n\n(手書き注記等あり、読み取りに不確かな箇所があります)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05522.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05522",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05522.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6525.30",
+      "6525.75",
+      "6528.21",
+      "6529.88",
+      "6532.30",
+      "6532.93"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞(　)［　］は厳密にする。 日本言語地図資料用紙 注記一覧 55-23 質問番号 地図番号 1'77 項目名 里字 187 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (45) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6525.30 hatake; imo (hadakeimo のように) (有えれか？) 6525.75 yoyo imo (yoyo は yayoi 又は zuki; imo) 6528.21 ejê; imo (EJ?) 6529.88 to; imo 6532.30 ユチモ 6532.93 ユイモ、カシライモ 幾度きいてもこの地方では親代をかしろうと…",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05523.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05523",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05523.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6533.89",
+      "6534.85",
+      "6540.52",
+      "6542.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-24\n質問番号　地図番号　177\n項目名　里芋　187\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (4月6?)\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記のく <> ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（手書きの注記）\nいい、地芋をユイモといふ\nつてあって、ひっくるめん\n名前はないとのことである。\n高、スーイキは茎のことをいう\nサトイモは聞いたことなし\nものことである。\n\n6533.89　koimo.　<satoimo.>\n6534.85　koimo　<新?>　taimo\n6540.52　スーイキイモ　<希?>　ユイモ\n6542.23　スーイキイモ　<やっかい>　ユイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05524.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05524",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05524.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6542.58",
+      "7342.92",
+      "6543.52",
+      "6543.56",
+      "6544.26",
+      "6546.23",
+      "6547.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    55-25\n質問番号　地図番号　　　　177\n項目名　里芋　187\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き行（読みやすい部分を転記）:\n6542.58　スイキ（?）　経称　ユイモ、カシウイモ\n7342.92　(抹消・取消線)\n6543.52　ユイモ\n6543.56　サトイモ　＜くや>新＞　親芋\n6544.26　Koimo.　＜一般的にこの形が最も多い＞\n6546.23　tadaimu　＜昔はこう云った。今は satoimo といる.＞\n6547.62　Koimo.　＜親芋に対する呼び方は...＞\n\n（注：手書きの一部は判読困難。上は読み取れる範囲の粗い転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05525.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05525",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05525.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6552.03",
+      "6552.90",
+      "6553.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-26\n質問番号　地図番号　177\n（A）普通注記　（B）除いた共通語　（C）除いた特殊語　ページ\n項目名　里芋　187\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6552.03　トオノイモ。　茎まく食いられるもの、\n　　　　オドロイモ。　茎の青いもの。　総称はなし。\n6552.90　koimo.　（さといも、どらいも、とのちの...）\n6553.22　dayoimo.　くさといものこと？　いもを食べる？\n（欄外、手書きメモ等含む）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05526.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05526",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05526.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6556.60",
+      "6563.58",
+      "6563.84",
+      "6572.22",
+      "6572.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞(　)［　］は厳密にする。 日本言語地図資料用紙　注記一覧　55-27 質問番号　地図番号　177 項目名　里芋　187 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ 49 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 絵称, トーイモ.　<茎が食用になる。> タタノイモ.　<かわをむいて食すの。> マイモ.　<保存用にかわをおいてないもの。> ついきいも.　<茎の食えぬもの。> maimo <ずいきを食わぬもの。> toimo no imo <ずいきを食ういも。> 6572.22 タイモ. <田で作るから> トイモ、エノイモ。 6572.55 toima. スーイキ。 taimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05527.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05527",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05527.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6572.97",
+      "6573.17",
+      "6573.71",
+      "6574.06",
+      "6580.66",
+      "6581.68",
+      "6582.48",
+      "6583.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-28\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉［　］は厳密にする。\n\n質問番号　地図番号　177\n項目名　里芋　187\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (50)\n\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（手書き行）Koimo.　（種類による名でなく、総称である）\n(取り消し線で消された語)\nトーイモ　＜茎の食べられるもの＞　tadaimo\ntadaimo\ndoroimo.　新\nアライモ　＜タイモという人もある。＞\nエグイモ　＜ウワ。＞\nkoimo.　やつがしらも koimo である\nto:noimu　（おいすにするもの）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05528.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05528",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05528.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6583.45",
+      "6584.90",
+      "6591.02",
+      "6591.81",
+      "6592.35",
+      "6593.30",
+      "6603.24",
+      "6607.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-29\n質問番号 地図番号 177\n項目名 里芋 187\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (5へ)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n6583.45    maimo <芋>  satoimo.\n6584.90    maime <古>  satoimo.\n6591.02    エグイモ (ハタイモともいう)\n6591.81    エグイモ <希>  タイモ.\n6592.35    koimo, zuikiimo\n6593.30    hoimo <ほんまの芋>\n6603.24    サトイモ <余り作らない。>\n6607.68    imo. <普通の呼び名> satoimo.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05529.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05529",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05529.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6609.05",
+      "6610.77",
+      "6615.09",
+      "6631.05",
+      "6632.64"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-30\n質問番号　地図番号　177\n項目名　里芋　187\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (5月?)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6609.05　トオノイモ．　＜親が一つ．＞　サトイモ．\n6610.77　satoimo．　＜少し作る．＞\n6615.09　ジマイモ．　＜サトイモの一種に．＞\n6631.05　jamaimo　＜山に居るか＞\n6632.64　kaitoimo　＜八頭は当り．＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05530.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05530",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05530.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6642.33",
+      "6650.79",
+      "6656.31",
+      "6657.86",
+      "7218.09",
+      "7239.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-31\n質問番号 地図番号 177.\n項目名 里芋 187\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　 )[　]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6642.33  satoimo  maegaito という  ～  imo\n6650.79  keimo  古.  satoimo\n6656.31  nabkimma (くるいものときるい)  satoimo\n6657.86  satoimo  <SF> ている。\n7218.09  誤 satoimo\n7239.90  akaino, firoimo <種類によるいいわけ> satoimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05531.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05531",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05531.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "7259.22",
+      "7268.51",
+      "7268.96",
+      "7302.66",
+      "7302.87",
+      "7303.75"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧 55-32 質問番号　地図番号　177 項目名　里芋　187 A 普通注記 ページ (54) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > ( ) [ ] は厳密にする。 地点番号　A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7259.22 mizuiimo <田にあるもの?> satoimo 7268.51 mizuimo 水中に作り、茎を食べる satoimo 7268.96 to:imo 畑に作る 茎も食う 7302.66 nankinimo <右> satoimo 7302.87 Kaino 7303.75 midzuimo, aoiimo, kaimo いろいろある。 satoimo は（聞いたことがあるがえらない）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05532.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05532",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05532.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "7307.14",
+      "7320.59",
+      "7329.39",
+      "7332.46",
+      "7332.97",
+      "7336.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-33\n質問番号 地図番号 177\n項目名 里芋 187\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7307.14 satoimo <名く使う> koima.\n7320.59 mizuimo. <幾種類もある.>\n7329.39 natsuimo. (taimo は上浮？部)\n7332.46 nagasakiimo <種類が多い!>\n7332.97 tsumnoko. (芽の白いす)\n7336.71 ? satoimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05533.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05533",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05533.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "7341.47",
+      "7342.12",
+      "7342.72",
+      "7342.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-34\n質問番号　地図番号　177\n項目名　里芋　187\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (記入あり)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7341.47　ナカッサイモ、　く10、11月ごろ収獲する　葉に赤みがあり、若いはドロっとなる。>\n7342.12　? satoima　<種類が多いと答う>\n7342.72　noroimo.　<古>\n7342.76　satoimo　<煮つけて食べる>\nnagasaki imo　<出1=入れる>\n\n(その他枠内に手書きの注記や空行あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05534.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05534",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05534.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "7346.58",
+      "7349.07",
+      "7351.09",
+      "7352.61",
+      "7352.92",
+      "7359.78",
+      "7363.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-35\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >() [ ]は厳密にする。\n質問番号　地図番号　177\n項目名　里芋　187\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (5d.)\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7346.58  doimo. (根浦直春の長男、44才か)\n7349.07  satoimo, natsuimo, ojai mo\n7351.09  satoimo, ナカサキイモ\n7352.61  トオイモ, トイモ <茎だけ食べるもの>\n7352.92  サトイモ <普通使う>\n7359.78  meaka <多>\n7363.12  トオイモ, トイモ <茎だけ食べるもの>  他、サトイモ\n(手書き注記や訂正、取り消し線あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05535.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05535",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05535.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "7372.03",
+      "7372.96",
+      "7373.23",
+      "7374.15",
+      "7380.74",
+      "7381.97",
+      "7383.83",
+      "7385.61",
+      "7385.84",
+      "7386.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-36\n質問番号 地図番号 177\n項目名 里芋 187\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nイモ。　＜サトイモということははまず使わない＞\n#?、イモ。\nイモ。（サトイモとはえわない。）\n[イモ]\nサトイモ。（イモとのみはえわない）\nサトイモ。＜イモとはえわない＞\nイモ。＜サトイモとはえわない＞\nKeimo.　＜希＞\nimo.（固有名詞はないようである）\nKeimo.　＜名＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05536.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05536",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05536.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "7386.56",
+      "7391.94",
+      "7396.16",
+      "7401.60",
+      "7402.47",
+      "7406.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-37\n質問番号　地図番号　177.\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ 59 (60)\n項目名　里芋　187\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7386.56    imo. <名>.\n           keimo. <他の芋と特に区別するときに(か使わない)>.\n\n7391.94    サテンボ?  <優勢?>    サテイモ、イモ。\n\n7396.16    maimo <名>.\n           nakimo <花> (珍しい表現)\n\n7401.60    sotoimo (taimo と同かれる地帯で - ある。)\n\n7402.47    maimo <希?>    taimo\n\n7406.53    maimo <も>    satoimo sataimo\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05537.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05537",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05537.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "7412.71",
+      "7420.81",
+      "7421.38",
+      "7421.62"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 55-38 □ 資問番号 地図番号 177 項目名 里芋 187 (A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (61) 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7412.71. kwkii imo. <くち> <ともに いもを主に> taimo 食う、しかし kwk i を 食用になる。>\n\n7420.81. siro imo. <今(8月22日)ごろとれる> natsu imo. <meoke imo.> 見ごろとれ、芽が 表面をおおう。 辛味をおびている。>\n\n7421.38. taimo [小田では ho:koimo というらしい]\n\n7421.62. ho:koimo. 古 Satoimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05538.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05538",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05538.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "7426.61",
+      "7430.15",
+      "7430.75",
+      "7432.44",
+      "7432.85",
+      "7433.52"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 55-39\n質問番号　地図番号　(77)\n項目名　里芋　187\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6#)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7426.61\tteimo　〈古〉\ttaimo\n7430.15\tmeaka　〈種類によって o: doimo.〉\n7430.75\tkoimo.　〈親芋に対する芋をいうのではない〉\tnatsu'imo\n\timono ko. 〈芋の粉ってはない。里芋とのちがを…〉\n7432.44\tkakiimo.　〈古〉\ttaime\n7432.85\tbuygoimo　〈古〉\ttaimo\n7433.52\ttaimo\t差の食べられるのを kju: kju: という、rju: kju: と taimo とは…\n\n(手書きの語形・注記が続くが判読困難な箇所あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05539.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05539",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05539.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "7440.72",
+      "7442.39",
+      "7450.20",
+      "7461.39",
+      "7470.29",
+      "7501.14",
+      "7501.72",
+      "7502.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-40\n質問番号　地図番号　177.\n項目名　里芋　187\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (6月)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nsatoimo.　<…>　taimo\nbuygo (大さいもの?)　taimo\n<meaka, ko:imo>　satoimo\nmeaka.　<総称>\nmeaka.　<ケ><総称>\ntadaimo.　<タ?>\nジャイモ.　<写?>　カブリモ\nhot:imo.　一一般的・総称\n\neguimo.. 狭義の里芋",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05540.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05540",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05540.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "7503.48",
+      "7504.11",
+      "7522.48",
+      "7523.05",
+      "8302.55",
+      "8303.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-41\n質問番号 地図番号 177\n項目名 里芋 187\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (6枚)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号\nA 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n手書き欄: kabuimo. (取り消し線) 塊茎\n手書き欄: iguimo. <くち> satoimo.\n手書き欄: maimo <ち> satoimo.\n手書き欄: サトイモ <畑へうえる場合>\n手書き欄: タイモ <田へうえる場合>\n手書き欄: タイモ <田でつくるから>\n手書き欄: (？)ヒケイモ <畑にあ, かなり土及ついつた>\n手書き: 里芋類の総称\n（その他手書きの注記、語形が記載されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05541.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05541",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05541.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "8303.47",
+      "8303.70",
+      "8305.40",
+      "8315.46",
+      "8323.59",
+      "8324.83"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-42\n質問番号　地図番号\n172.\n項目名\n里芋　187\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (65?)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n8303.47.   tsunnoko. (水の牛でつくしたもの)   satoimo, サトイモ.\n8303.70.   ケイモ. <やっ古?>   サトイモ.\n8305.40.   imo. <な?>   satoimo.\n8315.46.   satoimo. <いもを区別している時>\n8323.59.   imo. <jase;imo.>   toimo.\n8324.83.   imo. <普通車にいる>\n\n（手書き注記や部分的に判読できる語を含む、原文のまま転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05542.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05542",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05542.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "8342.69",
+      "0249.17",
+      "0276.50",
+      "2086.03",
+      "2140.49",
+      "2140.96"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記のく > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 55-43\n質問番号 地図番号 177\n項目名 里芋 187\nA 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ (60?)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n8342.69  waseimo.   早い芋   ;imo.\n0249.17  naykin.    おといもの(?)\n0276.50  sataimu    <新>   Fate:umu\n2086.03  N.R.      <30年前から輸入されたているので名称ははっきりしない>\n2140.49  ?ssumuzi\n2140.96  ssumuzina (?)  (白い芋?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05543.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05543",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05543.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "2619.28",
+      "2741.46",
+      "3774.44",
+      "4598.59",
+      "4609.54",
+      "4687.01",
+      "4687.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-4 日 本 言 語 地 図 資 料 用 紙 注 記 一 覧 質問番号 地図番号 177. 項目名 里芋 187 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< ( ) [ ] は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 2619.28 ネマリエモ. サトエモ, 2741.46 サドエイモ <共><ケ>. エイモノゴ. <名> 3774.44 サトエモ. <新> エモノノ? <古> 4598.59 sato imo <希>. imo no ko. 4609.54 dzigle <希?> karadorel <総体> 4687.01 sado emo egoemo <芽のずり> 4687.37 satoemo (改めた発音) sadoemo (改めた発音) 里芋 187  (手書き注記多数、ローマ字表記と括弧内注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05544.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05544",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05544.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "4686.82",
+      "4731.42",
+      "4743.95",
+      "4750.32",
+      "5547.96",
+      "5568.22",
+      "5568.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-45\n質問番号　地図番号　177\nA 普通注記　B（除いた共通語）　C（除いた特殊語）\n里芋 187\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4686.82　satoemo　＜新＞　tada no emo　＜古くから現代まで使われている＞\n4731.42　sadoemo　＜新＞　innoyo.　とれそ草\n4743.95　oiemo　haemo\n4750.32　サトエモ　（稀）　*hadaemo\n5547.96　サトイモ　＜新？＞　ズイキエモ\n5568.22　サトイモ　＜共＞　タイモ、1°2°イモ\n5568.82　サトイモ　＜共＞　ハライモ（換称）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05545.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05545",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05545.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "5569.36",
+      "5574.42",
+      "5578.27",
+      "5579.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-46\n質問番号　地図番号　177　A　普通注記　ページ　(3)\n項目名　里芋　187\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n\n地 点 番 号　　A語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n\n5569.36　ホオハイモ。\n\n5574.42　satoimo　＜種＞\n\n5578.27　サトイモ。　＜穴＞\n\n5579.10　サトイモ。\n\n（右列 手書き注記）\nタイモ、くハタイモの一種？\nスーイキ、＜スーイキはさといも？＞\n中でも品種が少しちがっている。>\nハタイモ、サトイモ。\n2wKiiimo\nハタイモ、マイモ\n（以下、手書きの注が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05546.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05546",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05546.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "5587.74",
+      "5588.02",
+      "5589.30",
+      "5604.52",
+      "5605.70",
+      "5609.81",
+      "5611.39",
+      "5615.28",
+      "5623.42",
+      "5625.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-47\n質問番号 地図番号 177\n項目名 里字 187\nA 普通注記  B (除いた共通語)  C (除いた特殊語)  ページ (4)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nサトイモ　〈芋〉　タワイモ\nサトイモ　〈共〉　イコイモ\nサトイモ　〈上〉　ハタイモ\nsatoemo　〈共〉　[siroemo]\nhataemo <多く/用いる>\nsatoemo (新?) hataeemo <古>\nimo no Ko\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05547.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05547",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05547.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "5625.91",
+      "5633.81",
+      "5641.07",
+      "5642.67",
+      "5643.33",
+      "5651.95",
+      "5652.96",
+      "5653.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-48\n質問番号 地図番号 197\n項目名 里芋 187\nA 普通注記 ページ\nB 除いた共通語\nC 除いた特殊語 (5)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nsatoemo    <新><共>    hataemo\nsatoemo    <共?>       haemo\nsatoimo    <共?>       haimo\nsatoemo    <新,共>     hoemo\nsatoemo    <共>        haemo\nsatoimo    <共?>       # haimo\nsatoimo    <希?>       maruimo\nsatoemo    <共>        araemo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05548.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05548",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05548.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "5655.41",
+      "5657.73",
+      "5661.34",
+      "5670.47",
+      "5671.00",
+      "5671.94",
+      "5672.52",
+      "5674.06",
+      "5675.36",
+      "5680.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n55-49\n質問番号　地図番号　177\n項目名　里芋　187\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ　(6)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉（）［］は厳密にする。\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\nサトイモ、 <新>\nサトイモ。\nsatoimo <共>\nsatoimo <共>\nsatoimo <新>\nサトイモ\nsatoimo\nkawaimo\nサトイモ\nサトイモ\nsatoimo\n\nハタケイモ <ら>\nイモ\nhaimo\nhaimo\naraimo\naraimo\ndzui k iimo?\nmaimo, haimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05549.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05549",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05549.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "5681.47",
+      "5690.27",
+      "5694.29",
+      "5696.68",
+      "5697.53",
+      "6395.46",
+      "6414.17",
+      "6415.80",
+      "6415.83"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-50\n質問番号　地図番号　(177)　項目名　里芋　187\nA　普通注記　ページ　(?)　B　除いた共通語　除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）[　]は厳密にする。\n（表ヘッダ）地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n5681.47　satoimo.　<芋?>　haimo\n5690.27　satoimo　<芋>　maimo\n5694.29　サトイモ　<新>　いろいろ\n5696.68　satoimo　<芋>　koimo\n5697.53　satoimo　<丁寧な言い方>　imo <普通な用い方>\n6395.46　サトイモ　<新>\n6414.17　satoimo　<場の声などで用いる語> 2wi; Ki; imo\n6415.80　satoimo　<最近訪人があるか> dziwi; Ki; imo\n6415.83　satoimo　<新> dziwi; Ki; imo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05550.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05550",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05550.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "6423.75",
+      "6425.41",
+      "6429.61",
+      "6435.68",
+      "6437.94",
+      "6439.01",
+      "6458.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-51\n質問番号　地図番号　177　項目名　里芋　187\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ (8,)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6423.75    satoimo    ＜上品＞    koimo　＜上品＞　zuiiki?\n6425.41    サトイモ　＜新＞\n6429.61    サトイモ　＜希＞\n6435.68    サトイモ　＜希＞\n6437.94    サトイモ　＜新,意,希＞\n6439.01    サトイモ　＜黄＞\n6458.26    スイキ　＜軸の食える物＞　トオノイモ（軸も食える）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05551.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05551",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05551.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "6476.13",
+      "6482.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-52\n質問番号　地図番号　177\n項目名　里芋　187\nA　普通注記　(B) 除いた共通語　(C) 除いた特殊語　(9)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )( [ ] )は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n\n6476.13.    サトイモ。　<新>.\n6482.75.    ni;mo　<共>.\n\n（右欄手書き）コイモ、く朝仮が味変く、いさ\nんり、食う.>\n彩紋は知らぬ。\nエクイモ。\nsatoimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05552.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05552",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05552.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [
+      "6485.14",
+      "6485.82",
+      "6486.50"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　55-53\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n（右上）質問番号　地図番号　(177)　項目名　里芋　A　普通注記　B（除いた共通語）　C（除いた特殊語）　ページ（10）\n表ヘッダ：地点番号　A　語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C　残した語形とその注】\n手書きメモ（中央上）：若るは takun て piriwa は、いわない。\n行1：6485.14　サトイモ、（共）　（筆記）\n行2：6485.82　スーイキ、茎。\n行3：6486.50　サトイモ　新\n右欄手書きメモ（断片）：アライモ、く送って皮を取り去り売られる　いるものについている。　＜オヤイモ、コイモ、スガキ作＞　オヤイモ、＜親＞　アライモ、＜る＞　サトイモ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05553.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05553",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05553.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "6500.22",
+      "6505.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-54\n質問番号　地図番号　(177)\n項目名　里芋\nA　普通注記　　B　(除いた共通語)　C　(除いた特殊語)　(11.)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）[　]は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\nサトイモ．　＜新しい感じの語．＞　ズィイキイモ，スゥキイモ．\n[ui] -> [u.i] 等の音変化の注記。変化は少なめで一般的でない。ない。[ai] -> [øe:] の場合は～（続く）\n\nアライモ　＜茎は青く、まずい＞　イモ＜総称＞　トノイモ＜茎は赤い＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05554.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05554",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05554.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "6506.55",
+      "6507.13",
+      "6507.79",
+      "6508.06",
+      "6508.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-55\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )[ ]は厳密にする。\n質問番号 地図番号 (177)\n項目名 里芋\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ (12,)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\nサトイモ、＜共＞\nウワレ、＜も、他＞\nサトイモ、＜共＞\nサトイモ、＜共＞\nマイモ、くいもがまるい\nジイモ\nマイモ。＜総称＞\n＜エコイモが殻などの固からトイモ。＞ ＜茎が赤い＞\nまたというところから呼ばれて エコイモ。＜在来種で＞\n（いん名前）\nいもは丸くてん\nなるか、エコイモ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05555.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05555",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05555.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [
+      "6512.02",
+      "6512.67",
+      "6516.10",
+      "6516.15",
+      "6517.65",
+      "6518.89",
+      "6526.04",
+      "6526.45",
+      "6526.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〈〉[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 55-56 質問番号 地図番号 (177) 項目名 里芋 187 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (13.) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] satoimo <新> dziwi; kiimo koimo. satoimo <稲?> koimo. サトイモ <稲> -> <少> taimo サトイモ <共> ハメタモ ケイモ サトイモ <標準> こりモ サトイモ <共> タダイモ サトイモ <共> こりそ サトイモ <共> こりそ (handwritten rows and notes, rough/uncertain)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05556.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05556",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05556.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [
+      "6528.06",
+      "6536.68",
+      "6541.27",
+      "7342.72",
+      "6543.52",
+      "6544.26",
+      "6565.56"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 55-57\n質問番号　地図番号　177\nA 普通注記　ページ (14)\n[B] 除いた共通語　[C] 除いた特殊語\n項目名　里芋 187\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n(satoimo.) <新>　　egoimo.\n(satoimo.) <今うえいう>　　tadaimo, imo.\n[スーイキモ]　　　スマイキイモ。\n(satoimo.) <新>　　doroimo <古>.\nスイキ、塊茎　　　ユイモ。新しくつぶれたもの　カシライモ、親芋\nsatoimo <最近使われて>　　koimo（一般的に）\ntoimo　tadaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05557.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05557",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05557.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "6571.63",
+      "6580.06",
+      "6582.73",
+      "6590.35",
+      "6592.10",
+      "6600.97",
+      "6604.60",
+      "6611.68",
+      "6621.57",
+      "6623.53"
+    ],
+    "other_text": "日本官話地図資料用紙　注記一覧　55-58\n質問番号　地図番号　177\n項目名　里芋　187\nA　普通注記　　(B)　除いた共通語　　(C)　除いた特殊語　ページ (15)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nsatoimo.　＜芋＞　Taimo\nサトイモ.　＜芋＞　タイモ\nサトイモ.　＜芋＞　コイモ\nサトイモ.　＜芋＞　イブイモ?\nsatoimo.　＜芋，新＞　maimo\nサトイモ.　＜芋＞　タダイモ?\nsatoimo.　＜新＞　hoimo\nsatoimo.　上　x\nsatoimo.　＜希＞　imo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05558.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05558",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05558.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_080.jpg",
+    "page_index": 80,
+    "location_numbers": [
+      "6641.43",
+      "6646.74",
+      "6698.20",
+      "7302.66",
+      "7303.38",
+      "7320.59",
+      "7332.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙　注記一覧\n質問番号　地図番号　177\n項目名　里芋\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (16.)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nsatoimo　<希>　imo\nsatoimo　<希>　koimo\nsatoimo　<新>　imo\nsatoimo　(サ)　(kaimo?)\ngozoimo, bodo:imo　satoimo, ataimo\nsatoimo　(文の書き込み)　mizuiimo\nsatoimoとは えぬとのこと\nnagaimo　nagasakimo\n(注：語形や注記は手書きで不明瞭な箇所あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05559.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05559",
+    "source_canvas_label": "81",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05559.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_081.jpg",
+    "page_index": 81,
+    "location_numbers": [
+      "7339.27",
+      "7342.72",
+      "7344.99",
+      "7348.86",
+      "7361.17",
+      "7363.85",
+      "7366.91",
+      "7373.92",
+      "7374.15",
+      "7383.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 55-60 質問番号 地図番号 177 項目名 里芋 187 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (17.) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n\ntsuwkuimo. （種類による名） satoimo, koimo.\n\nsatoimo <新> doroimo <古>\n\nsatoimo <新> tadaimo\n\nsatoimo <新> natsuimo\n\nサトイモ <新> イモ\n\nサトイモ <上> イモ\n\nsatoimo. <英> imo.\n\nサトイモ <希> イモ\n\nサトイモ <共> （イモ）\n\nサトイモ <新2> イモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05560.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05560",
+    "source_canvas_label": "82",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05560.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_082.jpg",
+    "page_index": 82,
+    "location_numbers": [
+      "7386.55",
+      "7392.33",
+      "7393.62",
+      "7411.27",
+      "7421.38",
+      "7430.15",
+      "7430.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-61\n質問番号 地図番号 177\n項目名 里芋 187\nA 普通注記  B (除いた共通語)  C (除いた特殊語)  ページ (18.)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n7386.55  satoiimo  <サ>    keimo. <こま>\n7392.33  サトイモ.  <希, 共>    らそ\n7393.62  サトイモ.  <やっ, 新か>    侍\n7411.27  satoiimo.  芋,    tadaimo\n7421.38  satoiimo.  <上>    taimo [小田では, ho:koimo?]\n7430.15  o(ka2) wimo.    meaka <種類によって>\n7430.75  satoiimo  上.    koimo. <親芽 12はある>\n\n(手書き注記や一部文字は判読困難、上は概略の読み取り)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05561.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05561",
+    "source_canvas_label": "83",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05561.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_083.jpg",
+    "page_index": 83,
+    "location_numbers": [
+      "7431.67",
+      "7431.82",
+      "7480.69",
+      "7441.63"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-62\n質問番号　地図番号　177　A 普通注記　ページ (18.)\n項目名　里芋　187\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き欄（抜粋）:\n7431.67　sato;imo.　＜芋＞\n7431.82　sato;imo.　＜芋＞\n7480.69　tsu;imo, oido;imo.　＜sato imo＞\n7441.63　sato;imo.　＜芋＞\n右欄手書き注記（抜粋）: 芋をいりのてかなり\nimo no ko. <芋の粉> ではない, 里芋とのちがい\nnatsu;imo.\nkaki;imo.\nkoi;imo, tadaimo\n(satoimo)\n* Taimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05562.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05562",
+    "source_canvas_label": "84",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05562.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_084.jpg",
+    "page_index": 84,
+    "location_numbers": [
+      "1450.2",
+      "7500.43",
+      "3500.66",
+      "3501.14",
+      "7521.16",
+      "8301.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-63\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n地図番号 (177) 項目名 里芋\nA 普通注記  B (除いた共通語)  C (除いた特殊語)  ページ (20.)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n1450.20    oidoimo.\n7500.43    サトイモ. <芋>\n3500.66    サトイモ.\n3501.14    サトイモ.\n7521.16    サトイモ.\n8301.19    サトイモ.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05563.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05563",
+    "source_canvas_label": "85",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05563.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  },
+  {
+    "source_image": "page_085.jpg",
+    "page_index": 85,
+    "location_numbers": [
+      "8324.83",
+      "8325.77",
+      "8351.07",
+      "8361.28",
+      "8363.64",
+      "9312.42",
+      "0247.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 55-64\n\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜　＞（　）［　］は厳密にする。\n\n質問番号　地図番号　177\n項目名　里芋　187\nA　普通注記　ページ (2)\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n8324.83　sato;imo.　<芋>.　imo. <普通単にいろ?>\n8325.77　satoimo.　<布>.　nayk;imo.\n8351.07　sato;imo.　<新>.　imoyko.\n8361.28　sato;imo.　<共.新?>.　sedemonyko.\n8363.64　sato;imo.　<改まって?>.　i.mo\n9312.42　sato;imo.　<芋>.　t[s]ombo.\n0247.31　sato;imo.　<新>.　umu, uka\n\n(手書きのローマ字表記と注記の大まかな書き取り)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05564.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M177Q187/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05564",
+    "source_canvas_label": "86",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05564.tif",
+    "source_ljc_id": "LJC-M177Q187",
+    "source_map_numbers": [
+      "177"
+    ],
+    "source_title": "さといも (里芋)"
+  }
+]

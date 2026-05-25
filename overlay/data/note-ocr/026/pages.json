@@ -1,0 +1,324 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0861.48",
+      "0990.97",
+      "2790.38",
+      "4638.43",
+      "4653.84",
+      "4731.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）〔　〕は厳密にする。\n\n日本言語地図資料用紙 注記一覧 5-24\n\n資料番号 283　地図番号 26\n項目名 四角い（箱）\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (1)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n\n* Sikaku na ～\nhosonayai (直方体)\nsikakuna (共通語？)\nsikakuna (本当は sikakuda ではないか)\nSikkakuna (hako) … <正方形の>\nSikakui <～ナも使う～とは使う>\nkagüna (hako)\n<四をつけて シカクナーということはほとんどない。>\n(三角はサンカクナ(三角の)箱と言っている)\n(2) sikakuna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00524.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00524",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00524.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4732.86",
+      "4734.20",
+      "4741.43",
+      "4780.60",
+      "5604.52",
+      "5642.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧    5-25\n資料番号 283    地図番号 26\n項目名 四角い（箱）\nA 普通注記    [B] 除いた地域語    [C] 除いた特殊語    (2)\n\n（表見出し）A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\nsigakumahako\nくこの「ナ」は余計であるがこの様ではとにかくつけろと言っている\n\nsuttakucu(bako) <「イ」はつけない>\n\nsikakuma [sikakui]\n\nkakubako <こんなのはあまり使わない>\n\nSikakuma... <こちらを用いることが多い>    Sikakumo\n\nSikakui hako (Sikakuiは新しい形と思う。被調査者はずっとこのことばを使ってきたとのこと)\nSikakumahako <希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00525.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00525",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00525.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5665.12",
+      "5672.67",
+      "5674.54",
+      "5678.86",
+      "5684.11"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（ ）[ ]は厳密にする。 日本言語地図資料用紙注記一覧 5-26 資料番号 283 地図番号 26 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (3) 項目名 四角い(箱) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） カクノハコ＜シカクトワマシカクデ、コレワカクダ＞ Sikaku no hako（「そんなような」という場合ですら sonna yo: no になる） Sikakuno hako（ソンナ ヨーノ トキというほど、一 no という連体形が盛である） ?シカクイハコ（シカクナ、シカクイは本人もよくシカクナハコわからないらしい） （話の様子からは シカクイハコらしい。） Sikaku no hako（似たヨーノ人というような連体修飾形が徹底的に使われる）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00526.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00526",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00526.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5688.86",
+      "5689.10",
+      "5690.12",
+      "5750.84",
+      "5793.74",
+      "6267.68",
+      "6408.72",
+      "6414.17",
+      "6414.25"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 5-27\n資料番号 283    地図番号 26\n項目名　四角い（箱）\n(4)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n5688.86  ＊シカクイ ハコ                      Sikakui\n5689.10  Sikakuna <多>\n5690.12  Sikakuna (hako)\n（Sikakui or この地の一般の形と認められるか）\n5750.84  シカクノハコ …＜多く使う＞             シカクナハコ\n5793.74  Sikakui <多い>                        Sikakuma\n6267.68  Sikakubako …（うまく出ない）\n6408.72  Sikakuna <古>                          Sikakui\n6414.17  Kakumahako <多>                        Sikakumana hako\n6414.25  Sikakuna（箱は hako とも bako ともいう）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00527.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00527",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00527.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6416.31",
+      "6428.13",
+      "6459.87",
+      "6467.73",
+      "6484.43",
+      "6485.46",
+      "6494.21"
+    ],
+    "other_text": "A・（B）・（C）ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙注記一覧　5-28\n\n資料番号　283　　地図番号　26\n(A) 普通注記　　(B) 除いた共通語　　(C) 除いた特殊語\nページ (5)\n項目名　四角い（箱）\n\n（表見出し）\nA語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n\nSikakumahako（シカクイとは言わない）　　シカクイ（ハコ）\nシカクナ（ハコ）〈希〉　　　　　　　　　　シカクイ（ハコ）\nシカクナハコ〈希〉　　　　　　　　　　　　シカクイ　ハコ\nkakui　①Sikakui\nシカクナ（ハコ）（シカクイという形はない）\nシカクナ＜シカクナハコであって、シカクイハコとは言わない。＞\nシカクナ（シカクイという形は認められない。\n“コレワシカクナ”というようにいってしまう。またシカクナハコと実体修飾の変化の点はむろん普通である。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00528.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00528",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00528.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6476.92",
+      "6543.56",
+      "6548.26",
+      "6556.03",
+      "6567.79",
+      "6583.45"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）（　）は仮称にする。 日本言語地図資料用紙注記一覧 5-29 質問番号 地図番号 283 26 (A)普通注記 (B 除いた共通語) (C 除いた特殊語) 項目名 四角い(箱) 地点番号 A.語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) 6476.92 シカクナハコ (シカクイハコとは言わない) 6543.56 シカクイ(ハコ) シカクナは余り用いない様である。 6548.26 ? S'kakunahako ... <あまり自信はないが。 S'kakuihakoというと正四角でなければ いけないような気がする。> 6556.03 * Sikakuma 6567.79 kakumahako Sikakuma～というためには、上から見たとき 正方形でなければならない。 6583.45 Sikakui (「ヒカクイ」とは言わなかった。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00529.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00529",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00529.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6591.57",
+      "6600.97",
+      "6601.93",
+      "6604.02",
+      "6604.15",
+      "6615.09",
+      "6620.49",
+      "6626.71",
+      "6633.27"
+    ],
+    "other_text": "▲ A・(B)・(C)ごとに別紙を使用する。 ▲ その中での情報は地点番号順に並べる。 ▲ 注記の〈〉〈〉（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 5-30 資調番号 283 地図番号 26 (A) 派通注記 (B 除いた共通語) (C 除いた特殊語) ページ (7) 項目名 四角い（箱） 地点番号欄 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） Sikakui <新> Sikakuma [Sikakui hako] Sikakuma hako Sikakuma (hako) <希> Sikakui (hako) シカクノ <シカクハ ハコとは 言わない> Sikakumo <Sikakuiとは 言わない> シカクノ ハコク 普通はハコとはいわない > Sikakuma [Sikakui] nanameda <[suyko] nanameno hakoda> と言った。 Sikakui 多 Sikakuma",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00530.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00530",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00530.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6634.33",
+      "6641.39",
+      "6642.33",
+      "6645.01",
+      "6653.30",
+      "6697.39",
+      "7303.17"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧　5-31\n\n資料番号 283　地図番号 26\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n項目名 四角い（箱）　ページ (8)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6634.33　Sikakui 多　Sikakuno\n6641.39　Sikakuma 新　Sikakui\n6642.33　Sikakui hako 希　Sikaku na hako\n6645.01　Sikakui na 新　Sikakui\n　　　　Sikaku no 新\n6653.30　Sikakuma (hako)\n　　　　Sikakuiとは全く言わない。\n6697.39　Sikakuma <ていねいな言い方>　kakuma\n7303.17　Sikakui (とは言わない)\n　　　　(形容詞にしない)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00531.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00531",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00531.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "7313.34",
+      "7313.68",
+      "7320.95",
+      "7324.24",
+      "7324.47",
+      "7332.27",
+      "7354.23"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）（）は破線にする。 日本言語地図資料用紙注記一覧 5-32 資料番号 283 地図番号 26 (A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9) 項目名 四角い(箱) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7313.34 Sikaku (iをつけない) 7313.68 Sikakui (この人はiをつけた) 7320.95 Sikaku na hako i (kareは云わぬ) 7324.24 Sikaku [iはつけない] [s giに近い] 7324.47 Sikaku (iをつけない“えう”) 7332.27 Sikakui (多し) 7354.23 シカクイ <新> 右欄: Sikaku na hako シカキイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00532.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00532",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00532.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7373.99",
+      "7375.37",
+      "7382.01",
+      "7385.84",
+      "7395.09",
+      "7416.34",
+      "7430.15",
+      "7430.75",
+      "7372.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 5-33\n資料番号 283 地図番号 26 ○A 普通注記 [B 除いた共通語] [C 除いた特殊語] 項目名 四角い(箱)\n地点番号 A語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注)\n7372,27  *Sikakka hako  *Sikakui hako\n7373.99  シカクイ ハコ <約>   シカッカハコ\n7375.37  kaku na hako <多>\n7382.01  Sikakuka hako <多>   Sikakuma hako\n7385.84  Sikaku no hako ... <この方が多いように思う>   Sikakubako\n7395.09  Sikakubako (間に no. mai は入らない)\n7416.34  Sikakuna <この方が正方形の意識あり>   kakuna\n7430.15  新 Sikakui hako   Sikaku ma hako\n7430.75  Sikakui-hako <Sikakui-kao なども>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00533.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00533",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00533.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "7432.95",
+      "7514.21",
+      "8239.31",
+      "8306.42",
+      "8315.46",
+      "8324.83"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　5-34\n資料番号　283　地図番号　26　A　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (11)\n項目名　四角い（箱）\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7432.95    kakuna <普通>                             kakui\n7514.21    *nayanaku na                             makkaku na\n8239.31    *Sikaguna                                Sikakuna\n8306.42    kakubako  (シカクイとは言わず、カクイという。)\n           kakui\n           （カクハコと言うよりもカクバコと言うのが普通のようである。）\n8315.46    Sikaku no hako (形容詞の語形は出ない)\n8324.83    Sikaku na hako (形容詞の語形は出ない。つまりシカクイ・カクイなど言わないと言う。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00534.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00534",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00534.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "8351.41",
+      "9310.27",
+      "1231.72",
+      "1232.75",
+      "1270.29",
+      "2072.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 5-35\n資料番号 283 地図番号 26 A 普通注記 ページ (12)\n項目名 四角い(箱)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n8351.41　Sikakka <希>　Sikakna\n9310.27　Sikakuna (hako) (ただし 角煎餅は kakui センベイと言っていた。)\n1231.72　Sikaku (名詞)\n1232.75　Sikaku: (形容詞的に用いる時は Sikaku; bakuのように用いる。)\n1270.29　Sikkaku: [名詞] (形容詞はない)\n2072.20　Sikaku haju <四角い箱>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00535.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00535",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00535.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "0861.48",
+      "4638.43",
+      "5688.86",
+      "7372.27",
+      "7450.44"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n\n資料番号 283　地図番号 26\n項目名 四角い（箱）\nA 普通注記　B（除いた共通語）　C（除いた特殊語）　ページ (1)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\n0861.48　(Sikaku da.)　*Sikaku na〜\n4638.43　hosonage:(chako) ... ＜長方形の＞　Sikkakumachako ...\n5688.86　ホソナガイハコ　*シカクイハコ\n7372.27　jokomagja:hako　*Sikakka hako　*Sikakui hako\n7450.44　kakunagai - （長四角の）　Sikakuna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00536.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M026Q283/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00536",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00536.tif",
+    "source_ljc_id": "LJC-M026Q283",
+    "source_map_numbers": [
+      "026"
+    ],
+    "source_title": "しかくい (四角い)"
+  }
+]

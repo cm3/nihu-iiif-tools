@@ -1,0 +1,120 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "2608.90",
+      "2617.68",
+      "2649.79",
+      "2731.97",
+      "3701.49",
+      "4628.28",
+      "4658.42",
+      "4668.27",
+      "4746.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 2-3\n資料番号 259 地図番号 008\n項目名 アヒ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (1)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n2608.90 ase <aheとは言わない.>\n2617.68 ahe <少>\n2649.79 ahe <古>\n2731.97 ahe <老>\n3701.49 ase (ふれんならaseと言うはず)\n4628.28 se, [この付近ではseが多い.] (同席の先生の話)\n4658.42 ase <久保部落の老人はaʃeと発音する>\n4668.27 aʃe (希) 2se\n4746.20 2se (せの子音は東京語と全く同じ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00203.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M008Q259/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00203",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00203.tif",
+    "source_ljc_id": "LJC-M008Q259",
+    "source_map_numbers": [
+      "008"
+    ],
+    "source_title": "アセ (汗)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4760.02",
+      "5604.52",
+      "6430.26",
+      "6485.46",
+      "6520.79",
+      "6553.22",
+      "7239.82"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　2-4\n\n質問番号　地図番号　259　008\n項目名　アセ\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\n(2)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n4760.02　ase（しくらかこうなる）\n5604.52　ase（石黒村の人々は汗をaseと言うという。）\n6430.26　ase，チェ・シェの地帯でないといってよい。\n6485.46　アセ．シェではない。\n6520.79　アセ．アシェとはならない。\n6553.22　ase（「セ」の発音は[Je]となる。ただし，「セン」は「zen, zeni」(銭)を除き[ze]である。）\n7239.82　ase（志佐の方では a[e] というと，発音のe）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00204.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M008Q259/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00204",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00204.tif",
+    "source_ljc_id": "LJC-M008Q259",
+    "source_map_numbers": [
+      "008"
+    ],
+    "source_title": "アセ (汗)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "7332.27",
+      "7395.63",
+      "7401.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-5\n資料番号 地図番号\n259 008\n項目名 アセ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3)\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n別を意識している。\n\n7332.27 aʃe（seでない）\nただし口蓋化が博多地方に比して少し。\n\n7395.63 aʃe（日常会話では、セ、ゼはシェ、ジェと発音されていると思う。）\n\n7401.92 aʃe（どうも被調査者の個人的な発音のように思われる。調査者の出あった場面では、自由会話の中で調査者がその会話に加わっていても、いなくても、また当地方（松山近辺）で一度も耳にしたことはない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00205.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M008Q259/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00205",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00205.tif",
+    "source_ljc_id": "LJC-M008Q259",
+    "source_map_numbers": [
+      "008"
+    ],
+    "source_title": "アセ (汗)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "8303.84",
+      "8306.42",
+      "8325.56",
+      "0256.08"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 2-6\n（上部右）資料番号 259 地図番号 008 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4)\n（左上箇条書き）A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〈〉（ ）は厳密にする。\n表見出し：地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nhandwritten:\nase (ただし ase と aʃe との音を聞き分けることもしないし、その区別の意識もない。)\nase (日常のそんな大きな会話では aʃe と言っていると思うが、改まって、質問 されるので、aʃe に近くなるの であろう。)\nase (緊張して言うためか、全然口蓋化しない。)\naʃe <共>  aʃi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00206.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M008Q259/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00206",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00206.tif",
+    "source_ljc_id": "LJC-M008Q259",
+    "source_map_numbers": [
+      "008"
+    ],
+    "source_title": "アセ (汗)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "2649.99",
+      "4609.68",
+      "4750.37",
+      "6458.91",
+      "0248.00"
+    ],
+    "other_text": "日本言海地図資料用紙 注記一覧\n259 008\n項目名 アセ\nA 普通注記\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n2649.99    ase <新>                         ahe <古>\n4609.68    ase <改まったとき>             aɸee\n4750.37    ase <ややていねいな言い方>     aɸe\n6458.91    アセ <上, 共, 新>                アシェ\n0248.00    ase <新>                         asi'",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00207.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M008Q259/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00207",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00207.tif",
+    "source_ljc_id": "LJC-M008Q259",
+    "source_map_numbers": [
+      "008"
+    ],
+    "source_title": "アセ (汗)"
+  }
+]

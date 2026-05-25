@@ -185,12 +185,6 @@ const noteBroadcaster = createLajNoteBroadcaster(() => ({
   ocrSet: noteOcrSetForMapId($('selectMap')?.value || DEFAULT_MAP_ID),
 }));
 
-function noteOcrSetForMapId(id) {
-  const n = extractLajMapNumber(id);
-  if (n && ['017', '018', '019'].includes(n)) return '017-019';
-  return null;
-}
-
 function updateNoteViewerLink() {
   const id = $('selectMap')?.value || DEFAULT_MAP_ID;
   const set = noteOcrSetForMapId(id);
@@ -276,9 +270,15 @@ async function hasSplitConfig(nnn) {
   return ok;
 }
 
+function previewMapIdToDataKey(id) {
+  const m = id.match(/^LAJ_(S\d+|\d+)$/);
+  if (!m) return null;
+  return m[1].startsWith('S') ? m[1] : m[1].padStart(3, '0');
+}
+
 async function resolveMapConfig(id) {
   const fallback = MAP_CONFIGS[id] ?? defaultMapConfig(id);
-  const nnn = mapIdToDataKey(id);
+  const nnn = previewMapIdToDataKey(id);
   if (!nnn) {
     setSplitAvailability(false);
     return fallback;

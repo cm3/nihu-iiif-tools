@@ -1,0 +1,375 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "2791.80",
+      "3705.42",
+      "3717.90",
+      "3732.73",
+      "3741.16",
+      "3742.82",
+      "3752.47",
+      "3753.88",
+      "3762.71",
+      "3790.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-37\n質問番号　地図番号　160\n項目名　洗濯　251C\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ ( / )\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n2791.80    N.R. 〈使うことがない〉\n3705.42    センタク (？)\n3717.90    sentaku [約]\n3732.73    sentaku 普通 aremono という。\n3741.16    sentaku 〈約〉\n3742.82    sentaku aremono が普通\n3752.47    同　上\n3753.88    共通語として「センタク」を用いる。\n3762.71    sentaku 普通 aremono\n3790.27    同　上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04737.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04737",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04737.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4588.98",
+      "4589.83",
+      "4609.25",
+      "4653.02",
+      "4678.77",
+      "4694.26",
+      "4696.82",
+      "4725.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-38\n質問番号　地図番号　／ 160\n(A) 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (2)\n項目名　洗濯　251C\n地 点 番 号　　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)［　］は厳密にする。\nsendaku　〈お針のこと〉\nsendaku　〈hendaku は「縫う」こと〉\nsendaku　[沙] 普通は arau\nセンダク　おつもりで sendaku\nsendaku　若い者は sentaku\nsendaku　〈希〉古く多く使ったが今は希\nsendaku　洗ったり縫いつくろったりするをさす格である。\ngentakum　(これは実際の音声の表記であって、意識としては センタク であり、音韻論的にも sentaku である。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04738.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04738",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04738.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4730.96",
+      "4731.15",
+      "4741.43",
+      "4742.37",
+      "4752.11",
+      "4753.36",
+      "4762.99",
+      "4792.80"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-39\n質問番号 地図番号 160\n項目名 洗濯 251C\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (3)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\nsentaku (共)\nsendaku s はわずかに口蓋化。\nsendaku ... [sentakum]\nセンタク スル (gentakum sumum でおそらく) タは有声化さえしていない。\nsentaku <普通は are:mono という>\n(N.R) uso aru (共としては sentakum)\nsentaku (顕音が軽い口蓋化音)\nsentaku （長い手書きの注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04739.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04739",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04739.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5508.16",
+      "5517.90",
+      "5528.31",
+      "5537.34",
+      "5607.17",
+      "5625.91",
+      "5641.99",
+      "6354.46",
+      "6373.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-40\n質問番号　地図番号　160\n項目名　洗濯　251C\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (4)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ] は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5508.16　hendaku suru　洗い、ぬいつづくることを ヘンダク という。\n5517.90　sendaku　〈洗い 縫うこと〉\n5528.31　sendaku　( eが seにもなる )\n5537.34　sendaku　〈但し、ぬいもののこと〉\n5607.17　sendaku　〈たゝん センダクと言うこともあるようだ〉\n5625.91　* sentaku　(初の sendaku を答え、後訂正．．．) [sendaku]\n5641.99　sendaku　〈多〉　sentaku\n6354.46　sentaku　〈着物を縫う場合にも使う〉\n6373.84",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04740.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04740",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04740.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6376.33",
+      "6385.28",
+      "6386.32",
+      "6388.49",
+      "6420.58",
+      "6426.04",
+      "6432.22",
+      "6440.25",
+      "6474.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-41\nA) 普通注記 （ページ）\n質問番号 地図番号 160\n項目名 洗濯 251C\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\nsentaku …＜修繕する時にも使う＞\nsentaku ＜古い着物を譲る時にも言う＞\nsentaku 但し 余り使わない\nセンタク ＜にごらない＞\nセンタク ＜縫い直しにも使う＞\nセンタクスル ＜にごらない＞\nセンタクする 但し…センタクとなる\nセンタク ＜縫い直しを ﾎｿﾝｾﾝﾀｸ＞\nSENTAKU に含める\nセンタク ＜アライモノが普通＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04741.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04741",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04741.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6476.92",
+      "6489.01",
+      "6505.58",
+      "6523.54",
+      "6529.88",
+      "6539.78",
+      "6547.09",
+      "6547.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-42\n質問番号　地図番号　160\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n項目名　洗濯　281C\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　) [　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6476.92　センタク … 近松の“検狩飯本地”(室永6年)にセンタクとある。\n6489.01　センタク　〈古〉\n6505.58　〈現〉センタク　〈昔は 洗う と言った〉\n6523.54　センタク　〈今の子供は センタクといい、にごらない〉\n6529.88　sendaku seru　〈洗う、縫い物をする〉\n6539.78　sendaku　〈今は洗うことを指すが、昔は縫いものをすることを指した。〉\n6547.09　sendaku　〈洗うだけ〉\n6547.79　sendaku　〈土地をしては、作り直しをするのが普通。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04742.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04742",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04742.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6558.09",
+      "6567.86",
+      "6575.40",
+      "6616.22",
+      "6631.69",
+      "6640.29",
+      "7239.24",
+      "7246.45",
+      "7266.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-43\n質問番号　地図番号　160\n項目名　洗濯　251C\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( )[ ]は厳密にする。\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n6558.09　sendaku....　〈洗う意味だけ〉\n6567.86　/sendaku ...　〈sendaku ...〉\n6575.40　[sendaku]\n6616.22　-sendaku　〈今は sentaku〉\n6631.69　sendaku　〈o-sentaku, denki-sentaki の時は sentaku という〉\n6640.29　sendaku　〈洗うだけ〉\n7239.24　seːnta'ku\n7246.45　sentaku suru\n7266.92　sentas suru\n（下部手書き）senta2 suru と考える",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04743.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04743",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04743.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "7303.17",
+      "7317.29",
+      "7318.04",
+      "7324.47",
+      "7332.52",
+      "7333.75",
+      "7403.21",
+      "7403.86",
+      "7424.61",
+      "7432.95"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-44\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）【　】は厳密にする。\n質問番号　地図番号　160\n項目名　洗濯　251C\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n7303.17\t?\n7317.29\tsentaku　＜着物を修繕するときも言う＞\n7318.04\tsentaku　＜おろを縫う時にも使う＞\n7324.47\t(NR)　着物を洗うこと -> どちらも使わないことに含める。\n7332.52\tsentaku　縫う事にもそう。\n7333.75\t(注?)　(sentaku) アクセント未詳\n7403.21\tsendaku　‘洗う’意味だけ。\n7403.86\t左。sendaku\n7424.61\tsendaku　[やや日(?)に近い]\n7432.95\tsentaku　＜多＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04744.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04744",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04744.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "8239.31",
+      "8300.25",
+      "8393.69",
+      "9313.55",
+      "2076.96",
+      "2076.97",
+      "2076.99",
+      "2085.69",
+      "2095.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-45\n質問番号　地図番号　160\n項目名　洗濯　51C\nA 普通注記　ページ\nB 除いた共通語\nC 除いた特殊語　(9)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n8239.31  sentaku する (洗)\n8300.25  sentaku suru [ゆ]\n8393.69  センタク する <洗う意味>\n9313.55  同 上\n2076.96  NR <共通語としては センタクを使う>\n2076.97  同 上\n2076.99  同 上\n2085.69  同 上\n2095.60  同 上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04745.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04745",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04745.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "0990.97",
+      "4588.98",
+      "5676.52",
+      "6428.91",
+      "6439.61",
+      "6440.25",
+      "6440.67",
+      "6489.01",
+      "7383.98",
+      "7403.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-46\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n質問番号　地図番号　160\n項目名　洗濯　251C\nA　普通注記　 B　除いた共通語　 C　除いた特殊語　ページ ( / )\n表見出し：地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n0990.97　今は　sen'taku　sendaku\n4588.98　<araimon>　sendaku　<ふ鉢のこと>\n5676.52　アラウ　…　<一般的>　センタク\n6428.91　センタク　<稀>　センタク\n6439.61　センタク　<幼,希>　センタク\n6440.25　〈洗う は アラウ〉\n6440.67　アラウ　<多>\n6489.01　センタク　<幼>\n7383.98　aram　sentaku\n7403.86　針　sen'taku　他、sendaku\n（注：手書きのローマ字表記や細かな注記あり。上は概訳・粗転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04746.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04746",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04746.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "1148.59",
+      "1211.69",
+      "1221.47",
+      "1223.91",
+      "1231.72",
+      "1232.29",
+      "1232.75",
+      "1241.05",
+      "1241.49",
+      "1241.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-47\n質問番号　地図番号　160\n項目名　洗濯　251C\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2)\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nsintaku (共通語)　N.R.\n共通語として sentaku　N.R.\n同上　\n同上\n同上\n同上\n同上\n(1241.96)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04747.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04747",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04747.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "1242.00",
+      "1242.22",
+      "1250.59",
+      "1251.73",
+      "1251.98",
+      "1260.78",
+      "1260.87",
+      "1261.01",
+      "1261.16",
+      "1261.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-48 質問番号 地図番号 160 項目名 洗濯 251C A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（ ）[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 共通語として センタク。 同上 同上 「」 N.R. sentaku (共通語), are: in 共通語として センタク。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04748.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04748",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04748.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "1261.80",
+      "1270.26",
+      "1270.29",
+      "2067.52",
+      "2068.08",
+      "2072.20",
+      "2074.69",
+      "2075.22",
+      "2076.25",
+      "2076.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-49\n質問番号　地図番号　160\n項目名　洗濯　251C\nA　普通注記　　ページ\n(B)　除いた共通語\n(C)　除いた特殊語　(4)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）［　］は厳密にする。\n\n地 点 番 号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n1261.80    共通語として センタク を使う    NR\n1270.26    同上\n1270.29\n2067.52    (araigという) <共通語では sentaku>\n2068.08    are: 方言, sentaku (共通語)\n2072.20    <aruyという> <共通語として sentaku>\n2074.69    共通語として センタク を使う\n2075.22    同上\n2076.25    同上\n2076.98    同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04749.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04749",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04749.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "2086.03"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n47-50\n質問番号　地図番号　160\nA　普通注記\nB　除いた共通語\nC　除いた特殊語\nページ\n項目名\n洗濯　251C\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A　注のない語形　[B・C　残した語形とその注]\n2086.03　共通語では　センタクという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04750.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M160Q251/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04750",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04750.tif",
+    "source_ljc_id": "LJC-M160Q251",
+    "source_map_numbers": [
+      "160"
+    ],
+    "source_title": "せんたく (洗濯)"
+  }
+]

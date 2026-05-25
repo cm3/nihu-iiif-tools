@@ -1,0 +1,832 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0894.61",
+      "1747.55",
+      "1756.32",
+      "1848.24",
+      "1867.15",
+      "2785.31",
+      "3639.49",
+      "3712.89"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-53\n質問番号 地図番号\n065 123\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (1)\n項目名　なか指\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n0894.61 takatakajūmbi ＜子どもの時＞    nakajūmbi\n1747.55 takatakajubi ＜児＞    nakajubi\n1756.32 タカタカユビ ＜古＞    ナカユビ\n1848.24 nakajūbi ＜takatakajubi はきく。自分ではそういわねえ＞\n1867.15 クスリユビ    065の回答であることはたしかめた　43.3/?\n2785.31 otonajūbi <?>\n3639.49 naganagajūbi　誤記ならず\n3712.89 nagadagajūbi (昔)    nagajūbi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03253.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03253",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03253.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3721.37",
+      "3783.08",
+      "4638.22",
+      "4638.43",
+      "4653.47",
+      "4658.42",
+      "4663.49"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記　32-54\n\n065   123\n項目名　なか指\nA 普通注記　（B 除いた共通語）　（C 除いた特殊語）　（2）\n\n地点番号　A 形形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n3721.37   futočbi   064,65.66 共通   nakajum~bi\n3783.08   nakadaka   <古>   naka'imu~bi\n4638.22   naka'ji~bi   <普通>   ta'katakai~bi\n4638.43   [makaebi]   <ろ>   takatakaebi\n4653.47   ?kusurijubi   (?) 特に名づけていう必要はない\nので名をよくしらないといいながら\n答えた。066のくすりゆびには答が\nなかった。\n\n4658.42   ojajum~bi   (nakajubiとは言わない。)\n4663.49   nakaibi   [新]   takatakaibi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03254.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03254",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03254.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4666.17",
+      "4666.42",
+      "4666.99",
+      "4676.67",
+      "4689.62",
+      "4706.53",
+      "4713.45",
+      "4714.68",
+      "4723.58",
+      "4732.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-55\n質問番号 065　地図番号 123\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (3)\n項目名　なか指\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n4666.17　nakajubi, takatakajubi　＜両方昔から使った＞\n4666.42　nakatakajumbi　＜希＞\n4666.99　NR　単に jubi と言う\n4676.67　nakatakajumbi　＜共＞　nakatakajobi\n4689.62　nagatagajumbi　＜古＞　nagajumbi\n4706.53　[nakadakajumbi ... 古]　nagajumbi\n4713.45　tagatagajumbi　＜古＞＜いちばん高いから＞　nagajumbi\n4714.68　takadagajumbi　＜古＞　nagajumbi\n4723.58　nagajubi　（長指ではなく 中指である）\n4732.86　takatakajumbi　＜古＞　nagajubi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03255.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03255",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03255.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4742.95",
+      "4743.34",
+      "4744.32",
+      "4763.45",
+      "4770.62",
+      "4771.92",
+      "4781.48",
+      "4781.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧 32-56\n質問番号 065 地図番号 123\n項目名　なか指\n(A 普通注記) (B 除いた共通語) (C 除いた特殊語) (4)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4742.95  se:taka  ＜ユ＞＜稀＞（背高）    nakajwbi\n4743.34  タガタガユビ　古    ナガユビ\n4744.32  nagajwbi　（ナカエビとはならない）\n4763.45  nagajwbi　（中指）\n4770.62  Gitosafijzumbi　（？）　064参照\n4771.92  tagatagajwbi　（tagatagajwbiは使ったこと　nagajwbiがない、きいたことがあるよし、誘導による）\n\n4781.48  takatakajwbi　＜昔使った。今はあまり使わない＞\n4781.86  takatakajwbi　＜右＞    naka jubi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03256.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03256",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03256.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4790.74",
+      "4792.80",
+      "5463.12",
+      "5499.98",
+      "5575.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一 32-57\n質問番号 065 地図番号 123\n項目名 なか指\nA（普通注記） (B 除いた共通語) (C 除いた特殊語） （5）\nA・［B］・［C］ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は該当にする。\n\n表見出し: A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n\ntakatakajwbi 〈おく子どものころつかった〉 nakajwbi\ntakatakajwbi 〈子どもの頃から使う〉（入ってきた 小学生達は、わからないといった。）\nnakajubi 〈これを使うことが多い。〉\nタカタカイビ 〈希〉 ナカイビ\nナカユベ ・オヤベ、ヒトサシベに対し\nナカユベ、ベニユベとイベ系、ユベ系の二種がある。しかしナカイベとはいわないようだ。\ntakatakaibi 〈古〉 nakajubi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03257.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03257",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03257.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5579.42",
+      "5584.22",
+      "5586.70",
+      "5588.02",
+      "5595.05",
+      "5598.67",
+      "5599.41",
+      "5602.99",
+      "5608.16"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）（　）は厳密にする。 日本語言語地図資料用紙 注記一覧 32-58 065 123 項目名 なか指 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (6) 表見出し: 地点番号 A 語形とその注記 (B・C 除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) ta'katakajumbi ＜古＞    na'kajumbi takatakajumbi, makajumbi  2形同等に つかう。 nakataka, nakajubi   両形同等。 タカユビ ＜共＞    タカイビ takataka, naka:ibi   2形同等 セイタカユビ ＜共＞    セイタカイビ タカタカユビ ＜共＞    タカタカイビ nakaebi ＜古＞    nakajubi takatakajubi ＜これも使う＞    nakajubi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03258.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03258",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03258.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5609.26",
+      "5613.80",
+      "5621.43",
+      "5631.26",
+      "5633.96",
+      "5635.65",
+      "5641.99",
+      "5643.33",
+      "5644.74",
+      "5651.45"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n資料番号 065　地図番号 123\nA 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語)　(7)\n項目名　なか指\n\n（表見出し）\nA 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nta'kadakajumbi　＜多い＞　na'kajumbi\ntakatakajumbi　＜希＞　nagajumbi\nnakajumbi　（はじめの答）　takatakajumbi\ntakatakajubi　＜3＞　nakajubi\ntakatakaibi　＜-jubiともいう＞　takatakajubi\nナカユビ　＜共＞\nta'kataka'jumbi　＜子供のとき＞　na'ka'jubi\ntakatakaibi, nakaibi,　＜区別なく使う＞\nナカユビ　（共）\nnakaibi　＜共＞　takatakaibi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03259.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03259",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03259.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5652.22",
+      "5655.57",
+      "5657.73",
+      "5666.18",
+      "5669.96",
+      "5683.61",
+      "5698.19",
+      "5701.25",
+      "5751.89"
+    ],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n\n日本言語地図資料用紙　注記一覧　32-60\n質問番号　065　地図番号　123\n項目名　なか指\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（8）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5652.22　nakaibi　＜上＞＜よめ様むき＞　takatakaibi\n5655.57　ナカユビ　（共）\n5657.73　ナカユビ　（共）\n5666.18　ナカユビ　（共）\n5669.96　nagaebi　＜古＞　nagaibi\n5683.61　ナカッセユビ　＜古＞　ナカユビ\n5698.19　nakajumbi　k この地点は有声化するところ　cf. 第一集 28図　（加藤）\n\n5701.25　nagajwbi　＜新＞　makatagajubi\n5751.89　nakajumbi　? 0660 küsürijumbi ke",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03260.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03260",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03260.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6338.99",
+      "6339.44",
+      "6384.25",
+      "6396.62",
+      "6403.62",
+      "6408.72",
+      "6410.77"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　32-61\n\n質問番号 065　地図番号 123\n項目名　なか指\nA 普通注記　(B 除いた地形語)　(C 除いた特殊語)　ページ (9)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n弁別できなくなって、065は kuswirijumbiだ、というたりする。\n\n6338.99　タカタカイビ　＜どちらも使う＞　ナカイビ\n6339.44　タカタカユビ　＜古＞　ナカユビ\n6384.25　takatakajumbi　＜多＞　se:takajumbi\n6396.62　ナカタカユビ　＜古＞　ナカユビ\n6403.62　takatakaibi　（幼語、子供語）　nakaibi\n6408.72　ta'kataka'jubi　＜古＞　na'ka'jubi\n6410.77　タキタカエビ　＜古＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03261.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03261",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03261.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6412.91",
+      "6413.10",
+      "6414.17",
+      "6415.80",
+      "6416.31",
+      "6419.50",
+      "6424.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-62\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n（右上の欄）065　123\n項目名　なか指\nA 普通注記（囲み）　(B 除いた共通語)　(C 除いた特殊語)　(10)\n\n（表ヘッダ）地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nナカエビ　〈新〉\nnakajubi　〈多〉\nse:takajubi\n\ntakitakajubi（改まった場合にはユビとユが出る） takitakaibi\n\ntakatakajubi　〈多〉　takitakajubi\ntakatakaibe　〈古.多〉　nakaibe\ntakitakajubi　〈稀〉　takatakajubi\nタカタカユビ　〈共〉　タカタカイベ\ntakitakajubi（ナカエビは私が聞いて答えたもの。標準語として考えたもの、標準語として考）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03262.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03262",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03262.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6425.41",
+      "6428.26",
+      "6429.30",
+      "6429.65",
+      "6434.57"
+    ],
+    "other_text": "日本語語地図資料用紙 注記 - 32-63\n065 123\n項目名　なか指\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (11)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nえているという。従って本人はタキタカユビというのが日常らしい\ntakatakajubi　〈子供が言う。自分は用いない〉\nナカユビ　〈昔〉　タカタカユビ\nタカタカイビ　〈古〉　タカタカユビ\nタカタカユビ、ナカユビ、　両用\nタカタカイベ　〈古〉　>両用\nナカイベ　〈新〉\nタカタカユビ　〈子〉〈子供に対していう〉　ナカユビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03263.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03263",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03263.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6435.68",
+      "6435.72",
+      "6437.07",
+      "6446.05",
+      "6448.61",
+      "6467.73",
+      "6476.17",
+      "6485.14"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（ ）は敬称にする。\n\n質問番号 065　地図番号 123\n項目名　なか指\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (12)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6435.68　タカタカユビ　?　ナカユビ\n6435.72　ナカユビ　〈普〉　タカタカユビ\n6437.07　タカタカユビ　〈新共希〉　タカタカユベ\n6446.05　タカタカユビ　〈普〉　ナカユビ\n6448.61　タカタカイビ　〈古〉　タカタカユビ\n　　　　ナカイビ　〈古〉\n6467.73　nakajubi　◎takatakajubi\n6476.17　タカタカユビ　(この時 はっきりユビといった。 066.067も同じ。)\n6485.14　タカタカイビ　〈古〉　タカタカユビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03264.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03264",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03264.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6485.46",
+      "6486.07",
+      "6487.43",
+      "6500.83",
+      "6501.92",
+      "6505.58"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　32-65\n質問番号　地図番号\n065　123\n項目名　なか指\n(A 普通注記)\n(B 除いた共通語)\n(C 除いた特殊語) (13)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6485.46　タカタカイビ　（これは始めにすらりとタカタカイビと答えた。）\nタカタカユビ　〈新〉\n6486.07　タカタカイビ　これから以下066.067はともにイビであった。ユはでなかった。\n6487.43　ナカタカイビ　〈古〉（五本の指の中央にあって高いから、ナカタカイビという。）　ナカタカユビ\n6500.83　ナカイビ　〈新〉　タカタカイビ\n6501.92　ナカユビ　・子供のことば・　タカタカイビ\n6505.58　タカタカユビ　〈改〉　タカタカイビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03265.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03265",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03265.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6508.06",
+      "6508.36",
+      "6509.91",
+      "6511.85",
+      "6516.15",
+      "6518.15",
+      "6526.04",
+      "6526.08",
+      "6526.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-66\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は敬称にする。\n\n質問番号　065　地図番号　123\n項目名　なか指\nA（普通注記）　(B　除いた共通語)　(C　除いた特殊語)　(14)\n\n（表ヘッダ）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\nタカタカユビ　〈共〉　タカタカイビ\nセイタカユビ　〈共〉　セイタカイビ\nセイタカイビ　〈他〉〈自分はこの指の呼び方を、本当は知らない〉\nびおを、本当は知らない\ntakatakajibi　i＝うしろ寄りのi\nタカタカユビ　〈共〉　タカタカイビ\nタカタカ　〈他〉\nタカタカユビ　〈共〉　タカタカイビ\nタカタカイビ　〈幼〉　ナカイビ\nタカユビ　〈共〉　ナカイビ、タカイビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03266.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03266",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03266.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6527.44",
+      "6528.06",
+      "6534.37",
+      "6537.06",
+      "6545.41",
+      "6552.71"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉( )は厳密にする。\n日本語語地図資料用紙 注記一覧 32-67\n質問番号 地図番号\n065 123\n項目名 なか指\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (15)\n項目名\nA 語形とその注記 (B・C 除いた語形とその注)\nA 注のない語形 (B・C 残した語形とその注)\n\ntakatakaibi [兄]    nakaebi\nnakaibi <新>    se: takaibi\ntakayubi, nakayubi 〈どちらの形を多く\n使うかは、わからない〉\n\ntakaibi <新> 〈昔は名前がなかった〉\nnakaibi <新><公>\n\nnaka ibi <新しい言い方である>    takataka ibi\nNR\n（「ナカユビとはいいませんか」との\n問に対して「ああ、そうですね。\nナカユビと聞きます」）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03267.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03267",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03267.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6552.90",
+      "6554.08",
+      "6554.45",
+      "6557.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-68\n質問番号 地図番号\n065 123\n項目名 なか指\nA (普通注記) (B 除いた共通語) (C 除いた特殊語) (16)\n\n地点番号   A語形とその注記 (B・C除いた普通形とその注記)   A注のない語形 [B・C 残した語形とその注記]\n\n6552.90  takatakaibi  （「タカタカイビ」のアクセント は調査者である。私の 「タカタカイビ」とは異る。）\n\n6554.08  タカタカユビ  <ナカユビとは自分は言わぬ>\n\n6554.45  takatakajubi  <多い>    nakajubi\n\n6557.14  takatakaibi  <子供の時分にはこういった が大人の言葉としてはなん というかしらない。平素この 指の名前の必要になること はあまりない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03268.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03268",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03268.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6560.22",
+      "6572.55",
+      "6580.06",
+      "6580.66",
+      "6582.73",
+      "6583.93",
+      "6584.90",
+      "6600.97"
+    ],
+    "other_text": "日本方言地図資料用紙 注記一 32-69\n資料番号 065　地図番号 123\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(17)\n項目名　なか指\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\nナカユビ [タカタカユビ]\nnakajubi (takatakajubi)\nタカタカユビ 〈失〉〈少〉\nナカイビ 〈多〉\nタカタカイビ 〈少〉\n\nタカタカイビ 〈古〉　　　タカタカユビ\nナカユビ (この語を使う人もあり。)　　タカタカユビ\ntakatakajubi 〈古〉　　na'ka'jubi\nna'ka'jibi 〈多〉　　ta'kataka'jibi\ntakatakajubi 〈希〉　　nakajubi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03269.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03269",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03269.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6601.93",
+      "6603.82",
+      "6610.00",
+      "6620.20",
+      "6639.43",
+      "6698.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）には厳密にする。 日本言語地図資料用紙 注記一覧 32-70 資問番号 065 地図番号 123 項目名 なか指 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (18) 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 6601.93 takatakajubi ＜古＞ nakajubi ナカユビ 6603.82 タカタカユビ ＜古＞ ナカユビ 6610.00 セイタカ ＜軽い気持でいう場合＞ セイタカユビ 6620.20 ナカユビ、ナカイビ、［ユビという場合も改まっていうとは限らないと思われる。ナカイビというよりもナカユビという方が言いやすいのではないかと考えられた。］ 6639.43 nakaebi （eは狭く前寄り。） 6698.20 nakaibi ＜ぞんざいな言い方＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03270.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03270",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03270.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7218.58",
+      "7239.24",
+      "7246.45",
+      "7249.35",
+      "7259.22",
+      "7259.01",
+      "7303.61",
+      "7309.37",
+      "7322.81"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-71\n▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での情報は地点番号順に並べる。\n▸ 注記の＜＞（　）（　）は厳密にする。\n\n資料番号 065　地図番号 123\n項目名　なか指\nA 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語) (19)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\ntakatakajubi\t〈学校で教えたことば〉\tna'kajubi\nnaka'jubi\t〈古〉\ttakatakajubi\nnakatakaip°\t口は内破音\nタカタカ\t〈略称〉\tタカタカユビ\ntakatakajubi\t〈多〉\tna'kajubi\nタカツオ\t〈古〉\tナカユビ\ntakaibi\t（タカタカイビ・なしと答う）\tnakaibi\nnakaibi\t〈子どものとなえごとでは naka, jiroという。cf.063〉\n\ntakaibi\t（多）\ttaka so",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03271.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03271",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03271.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7326.41",
+      "7329.39",
+      "7332.97",
+      "7342.76"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）のときは厳密にする。\n日本言語地図資料用紙　注記一覧　32-72\n資料番号　065　地図番号　123\nA 普通語\n項目名　なか指\n(B 除いた共通語)　(C 除いた特殊語)　(20)\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n7326.41\tna'kajibi\t〈上品〉\tta'kataka'jibi\n7329.39\ttakatakajumbi\t〈希〉\tnakajubi\n7332.97\ttakoso\t(多)\ttakatakaibi\n\t\t\tnakaibi\n7342.76\tbensas i\t（これは薬指の方言なの? ちがっていないかと注意したが、中指の別名だと言い通すので、そのままここに採録する。誤りである。一般とちがっているのは明らかである。）\n\n（備考：手書きのローマ字表記と注記が併記されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03272.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03272",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03272.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7345.47",
+      "7346.58",
+      "7351.09",
+      "7362.42",
+      "7365.51",
+      "7373.99",
+      "7375.71"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-73\n資料番号 065　地図番号 123\n項目名　なか指\nA（普通語）　ページ\n（B 除いた共通語）　（C 除いた特殊語）　（21）\n\n地点番号　A語形とその注記　（B・C除いた語形とその注）　A注のない語形　（B・C 残した語形とその注）\n\n7345.47　takataka'ibi　〈古〉　naka'ibi\n7346.58　takatataro:　〈古〉　nakaibi\n7351.09　takaso　（古）\n　naka'ibi　（新）\n7362.42　タカタカユビ　〈希〉　ナカユビ\n7365.51　naka'ibi　〈新〉　taka'itaro:\n7373.99　タカユビ　〈新〉　タカタロ\n7375.71　naka'jubi, taka'taro:　〈両方使うが〉\n　この頃は naka'jubi の方を\n　多く使うと思う >",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03273.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03273",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03273.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7394.85",
+      "7415.47",
+      "7421.38",
+      "7425.82",
+      "7431.67",
+      "7432.95",
+      "7441.89",
+      "7451.77",
+      "7452.54",
+      "7461.23"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）[]は厳密にする。\n日本語方言地図資料用紙 注記一覧 32-74\n質問番号 065   地図番号 123\n項目名　なか指\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (22)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nnaka'jibi <新>　　　takataryo:\nnakatakaibi <古>\nnakaibi <共>　　　　takatakaibi\ntakatakajubi <古>\nnakajubi <多>　　　　takatakajubi\nta'kataka'jibi <普通>\ntakatakajubi <古>　　nakajubi\ntakatakajubi <多>　　nakatakajubi\ntakatakaibi <3>　　　nakaibi\nnakajubi <多>　　　　takatakajubi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03274.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03274",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03274.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7461.39",
+      "7500.24",
+      "7501.14",
+      "7502.91",
+      "7504.64",
+      "7510.18",
+      "7511.66"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　32-75\n資料番号　065　地図番号　123\nA　普通話（丸）\n(B　除いた共通語)　(C　除いた特殊語)　(23)\n項目名　なか指\n地点番号　A　語形とその注記　（B・C除いた語形とその注記）　A注のない語形　（B・C残した語形とその注記）\n7461.39  kusutijubi (?)（本人は数回これを固執したが、これはあやまりである。）\n7500.24  タカタカイビ　＜古＞　タカタカユビ\n7501.14  タカタカュビ　＜くすぐない＞　ナカユビ\n7502.91  タカタカイビ\n　　　　タカタカュビ＜新＞　（こちらの方が古い言い方。）　ナカイビ\n7504.64  naka'ibi　ʃe:taka'ibi　＜希＞　（もっと別のいいかたがあったようだが忘れた。）\n7510.18  タカタカイビ　＜共＞　タカイタロォ\n7511.66  ナカイビ　＜共＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03275.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03275",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03275.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7512.43",
+      "7513.01",
+      "7513.43",
+      "7521.16",
+      "7521.79",
+      "7523.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-76\n資料番号 065　地図番号 123\n項目名　なか指\n(A) （B除いた共通語）（C 除いた特殊語） (24)\n\n表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\nタカタカタロオ　用例＜ワシノ／タカタカタロオ　ケガ　シタンヤ。＞\n\nタカタカイビ\nナカイビ\n〈タカタカイビより　ナカイビの方が新しいとおもう。〉\n\nナカイビ　〈古〉　ナカユビ\n\nナカイビ　〈古〉　ナカユビ\n\nナカイビ　〈古〉　タカタカユビ　〈こういう人もある〉　ナカユビ\n\nナカイビ　〈古〉　ナカユビ\n\nタカタカイビ　タカタカユビ　〈新〉　〈使用はナカイビの方が多いが、両方使う。〉　ナカイビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03276.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03276",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03276.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "8239.31",
+      "8303.70",
+      "8315.46",
+      "8315.89",
+      "8322.43",
+      "8325.77",
+      "8335.83"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-77\n資料番号　065　地図番号　123\n項目名　なか指\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語) (25)\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n8239.31　nagajubi　＜従来＞ 有声化地帯であるから NAKA と解する (KAT)\n8303.70　タカタラー　[ t akat aro: ]　タカタロ\n8315.46　takatakajubi　nakajubi　＜同じ様に言う。＞\n8315.89　NR　（特殊の言い方はない。）\n8322.43　nakaik　（-k）は(-t)にあらず。\n8325.77　takatakaibi　＜子供の頃 使った＞　nakaibi　＜現在はこれを使う＞\n8335.83　nakajubi　＜現在 多く使う＞　takataro:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03277.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03277",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03277.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "8355.23",
+      "8373.43",
+      "0237.79",
+      "0276.50",
+      "2072.20",
+      "2095.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()は厳密にする。\n\n日本語語地図資料用紙　注記一覧\n32-78\n\n065   123\n項目名　なか指\n(A　普通注記)\n(B　除いた共通語)\n(C　除いた特殊語)　(26)\n\n地点番号    A 語形とその注記 (B・C除いた語形とその注)    A注のない語形 (B・C 残した語形とその注)\n\n8355.23  takataro   ＜希＞    nakaibi\n8373.43  nakajubi    juータシカ\n0237.79  nakaibi     ＜新＞    na:ibi\n0276.50  mandaibi    [mandaは中央の義]\n2072.20  nagajubi    28図   cf 有声化地帯\n2095.60  nagabi      28図によれば有声化しないところ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03278.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03278",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03278.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "4666.42",
+      "4686.96",
+      "4781.48",
+      "5567.46",
+      "5568.22",
+      "5568.57",
+      "5597.26",
+      "5631.75",
+      "5633.81"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-79\n資料番号 065　地図番号 123\n項目名　なか指\nA 普通注記　B 除いた共通語　C 除いた特殊語（/）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nnakajubi 〈新〉…（より多く用いる）　nakatakajubi 〈希〉\nnakajubi 〈共〉　nakatakajubi\nnakajubi 〈今これを使う〉　takatakajubi 〈昔使った。今はあまり使わない〉\n\nナカユビ　〈工〉　ナカイビ\nナカユビ　〈共〉　ナカイビ\nナカユビ　〈共〉　ナカイビ\nナカユビ　〈共〉　ナカイビ\n\nnakajubi 〈共〉　takatakajubi\nnakajubi 〈共〉　takatakajubi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03279.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03279",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03279.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5641.94",
+      "5642.17",
+      "5642.31",
+      "5671.94",
+      "6418.13",
+      "6424.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-80\n資料番号　065　地図番号　123\n（B　除いた共通語）　（C　除いた特殊語）　（2）\n項目名　なか指\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくくり〈〉（）は厳密にする。\n\n（表見出し）\nA　語形とその注記　（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nnakajubi　〈新〉\t\t\ttakatakajubi\nnakajubi　〈共〉\t\t\ttakatakajubi\nnakajubi　〈希〉\t\t\ttakatakajubi\nnakajubi　〈共〉\t\t\tnakaibi\nナカユビ　〈共〉\t\t\tナカイビ\nnakajubi　〈共〉（ナカユビは私が聞い）\t\ttakitakajubi\n　て答えたもの。標準語として\t\ttakatakajubi　〈子供が\n　考えているという。従って本人\t\t言う。自分は用いない〉\n　はタキタカユビというのが\n　日常らしい）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03280.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03280",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03280.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6439.01",
+      "6459.87",
+      "6482.75",
+      "6491.65",
+      "6494.08",
+      "6505.58",
+      "6508.74",
+      "6516.85",
+      "6518.15"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙　注記一覧　32-81 資図番号　地図番号 065　123 A 普通注記 B 除いた共通語 (B 除いた共通語) C 除いた特殊語 ページ (3) 項目名　なか指 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） 6439.01　ナカユビ　〈共〉　タカタカユビ 6459.87　ナカユビ　〈新希〉　タカタカユビ 6482.75　nakajubi　共　takatakajubi 6491.65　nakajubi　〈上〉　takatakajubi 6494.08　ナカユビ　〈新〉　タカタカユビ、タカタカイビ 6505.58　ナカユビ　〈共〉　タカタカイビ 6508.74　ナカユビ　〈共〉　セイタカ 6516.85　ナカユビ　〈共〉　タカタカイビ 6518.15　ナカユビ　〈共〉　タカタカ　〈他〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03281.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03281",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03281.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6519.67",
+      "6526.08",
+      "6526.45",
+      "6580.06",
+      "6580.33",
+      "6590.35",
+      "6601.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-82\n質問番号 065    地図番号 123\n項目名　なか指\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n(4)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 発した語形とその注）\n6519.67　ナカユビ　〈共〉　セイタカ、セイタカユビ\n6526.08　ナカユビ　〈共〉　ナカイビ、タカタカイビ〈幼〉\n6526.45　ナカユビ　〈共〉　ナカイビ、タカイビ、\n\n6580.06　ナカユビ　〈共〉　タカユビ〈共〉\n\n6580.33　ナカユビ　〈共〉　タカタカユビ〈共〉〈少〉\n6590.35　ナカユビ　〈新〉　ナカイビ\n6601.25　nakajubi　〈共〉　takatakajubi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03282.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03282",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03282.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6602.62",
+      "6629.98",
+      "6698.20",
+      "7359.78",
+      "7404.56",
+      "7415.47",
+      "7425.82",
+      "7502.91",
+      "7512.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は略称にする。\n\n日本言語地図資料用紙　注記一覧　32-83\n質問番号 065　地図番号 123\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n項目名　なか指　(5)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6602.62　nakajubi　＜希＞　takatakajubi\n6629.98　nakajubi　＜新＞　nakaibi\n6698.20　nakajubi　＜丁寧な言い方＞　nakaibi　＜ぞんざいな言い方＞\n7359.78　nakajubi　＜新＞　takatakajubi\n7404.56　nakajubi　＜新＞　taka taka\n7415.47　nakajubi　＜共＞　nakatakaibi　＜古＞\n7425.82　nakajubi　＜共＞　takatakajubi　＜古＞\n7502.91　ナカユビ　＜新＞　ナカイビ／タカタカイビ／タカタカユビ＜新＞\n7512.43　ナカユビ　＜新＞\n\n（右下余白に注記類あり、手書きで同義語の列挙）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03283.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03283",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03283.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7513.69",
+      "7523.27",
+      "7523.30",
+      "7533.12",
+      "8239.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-84\n質問番号　地図番号　065　123\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ（6）\n項目名　なか指\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7513.69　ナカユビ　＜夭＞　ナカイビ\n7523.27　ナカユビ　＜新＞　ナカイビ　ナカイビ　タカタカイビ　タカタカユビ＜新＞　（使用はナカイビの方が多いが両方使う。）\n7523.30　ナカユビ　＜夭＞　ナカイビ\n7533.12　ナカユビ　＜新しい　いい方＞　ナカイビ\n8239.31　nakajubi　＜新＞　nagajubi　＜従来＞　有声化地帯であるからNAKAと解する（KAT）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03284.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03284",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03284.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "3764.92",
+      "5678.33",
+      "7382.93"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-85\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n質問番号 065　地図番号 123　項目名　なか指\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (1)\n表ヘッダ: A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\nサンバン　〈ともいう〉　ナガダユビ\nナカ〜　（ナカ〜　度忘れかと思うが不明）　ナカユビ\nタカサゴ　〈古希〉　ナカユビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03285.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M123Q065/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03285",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03285.tif",
+    "source_ljc_id": "LJC-M123Q065",
+    "source_map_numbers": [
+      "123"
+    ],
+    "source_title": "なかゆび (中指)"
+  }
+]

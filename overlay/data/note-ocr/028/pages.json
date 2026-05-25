@@ -1,0 +1,888 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0776.88",
+      "1706.82",
+      "1744.60",
+      "3699.55",
+      "3712.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-7\n質問番号　地図番号　018.　028\n項目名　アカイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n0776.88　aka. (k音消ええずりに近い)\n1706.82　アカイ　＜稀＞　アカ\n1744.60　アガイ、＜私たちは、マッカダと言い、アガイとはあまり言わない＞\n3699.55　アゲエ　但し、被調査者は、カードの赤紙をベンガラいろで、アガではない、と主張した。（ベンガラはベニガラ）\n3712.15　#age. （はじめは名詞のag2はかり言う）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00607.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00607",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00607.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3752.53",
+      "4619.29",
+      "4619.63",
+      "4629.43",
+      "4638.43",
+      "4642.87",
+      "4652.97"
+    ],
+    "other_text": "日本雪語地図資料用紙注記一覧 6-8 資問番号 地図番号 018 028 項目名 アカイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] (2) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 3752.53 N.R この人（被調査者）は色盲である？ 4619.29 2921 （改まった時など） agge 4619.63 2921 ＜共＞ 2ge 4629.43 2921 ＜改まった形＞ agge 4638.43 2922e ＜古くから言い、現在も用いる＞ makkada [古] 4642.87 マッカダ、マッカダッキ（tsugzi）（赤い アカター きれい）という連体形もある。 4652.97 akai (共) [2ke:] akada",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00608.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00608",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00608.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4654.52",
+      "4657.64",
+      "4658.42",
+      "4659.50"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 6-9\n資料番号　地図番号\n018　028\n項目名\nアカイ\nA　普通注記\n(B　除いた共通語)\n[C　除いた特殊語]\n(3)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n4654.52　2kk2l\n4657.64　2kai　＜新＞\n　　　　[makkada]　＜右＞\n4658.42　2gae　（共）（0195を質問の場合に） makkadda　自然の話の中に出たので、これは記録した。）調査者との対話されたので（共）とは。\n4659.50　アガエ、被調査者は紙の色を見て（コエチャ）コエチャ（濃い茶）だと言え。もうすこしあかるい色えろ。アガエーである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00609.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00609",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00609.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4663.92",
+      "4666.51",
+      "4672.19",
+      "4676.42",
+      "4676.60"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 6-10\n\n資料番号 018　地図番号 028\n項目名 アカイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(4)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4663.92　akjæ:　大崎では ake:\n4666.51　makkada　〈希〉\n　　　　akae　〈古〜現〉\n4672.19　akæ　(共)(ヤヤ改まった時の発音)\n　　　　akē:　(018の調査後の自然の話の中に出た発音)\n4676.42　アカラ　赤えの言い。赤いと言う形容詞的終止形は出まから\n4676.60　[makkada] 〈希〉(妻が答えて被調査者も認めた。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00610.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00610",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00610.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4676.67",
+      "4686.52",
+      "4687.37",
+      "4694.95",
+      "4704.96",
+      "4706.53",
+      "4711.41"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 6-11\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n質問番号　地図番号　018　028\n項目名　アカイ\n（A 共通注記）　（B 除いた共通語）　（C 除いた特殊語）　ページ (5)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nagae　〈共〉　　makke:\nmakkad2　〈古〉　　akae\n2kae　　〈同じように用いるか；後者makkad2は色の濃い感じが伴う〉\n2kai　〈クロオ村の老人は makka と言う〉\n[アガ]\nagae（改まった発音）\nageze（ぞんざいな発音）\n[age:]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00611.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00611",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00611.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4711.82",
+      "4715.98",
+      "4726.80",
+      "4731.85",
+      "4734.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-12\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉[]は厳密にする。\n（右上の小箱）\n質問番号　地図番号　018　028\n項目名　アカイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（6）\n\n（表見出し）\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\nagara　（アガラのラはダの訛ったもの）　agae\nusutaka　（この靴の色については、この語　形ソー名詞ーしかひき出せず、形容詞の軽止形はであらんか）\n（もう少し濃くて本当の赤色であれば：akaeと言う。）\n\n*age:\naga (i e)　（アガイという変止形は、ほとんど用いない。連体形は[agaei]）\naga　（「イ」はつけない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00612.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00612",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00612.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4742.37",
+      "4743.95",
+      "4744.32",
+      "4750.32",
+      "4763.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-13\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）【 】は厳密にする。\n資料番号　地図番号　018　028\n項目名　アカイ\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（7）\n（表ヘッダ） A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n*[age:]\n2kaero\n2ke:　くもだし調査票附図の張り　紙の色は、本当の「アカ」ではない\n*2ke\nアガ（ダ）\nアガ（エ）\nアガイという終止形は用いない。\nダがつく。（赤丸）但し連体形の場合はアガエになる。\n例．アガエエロダ\n#. N.R.　(akaという名詞形は出たが、形容詞形は得られなかった)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00613.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00613",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00613.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5557.48",
+      "5591.60",
+      "5603.35",
+      "5603.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    6-14\n質問番号 018  地図番号 028\n項目名 アカイ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (8)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく <> () [] は厳密にする。\n\n地点番号    A 語形とその注記（B・C 除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n\n(makkadaという語形は得られた)\nphukatta- （連体形しか聞けなかったが\nとにかくアカでよいと言う。\n〈光った。〉）\n\nakai 〈beniiroのこと〉                          アカイ\n[2k2:]\n\nmakkadda 〈多〉（最初 akai と答えた。\nしかし、後から makkadda を\n答えた。）                                2kai\n\n*ake:\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00614.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00614",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00614.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5604.65",
+      "5608.51",
+      "5611.74",
+      "5615.74",
+      "5624.85",
+      "5617.85",
+      "5625.32"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 6-15\n質問番号 地図番号 018 028\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (9)\n項目名 アカイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5604.65　アカチャダ。赤色とはちがい、やや、茶色がかっていると考えていた。\n5608.51　ağa (01?と同じくアカイとは言わない)\n5611.74　カバエロダ；「カバエロダネ」と答えた。\n5615.74　*akada　はじめ疑いまがら… 2akadaと答え、後、訂正した。\n5624.85　akai (ake: でない)\n5617.85　atʃe: <子><子どもに対して使う>　ake:\n5624.85　akai (ake: でない)\n5625.32　アカ。アカダ。アカイと言う形がある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00615.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00615",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00615.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5631.26",
+      "5633.87",
+      "5635.65",
+      "5644.74",
+      "5655.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　6-16\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n（右上の枠）\n質問番号　018　地図番号　028\n項目名　アカイ\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(10)\n\n（表の見出し）\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形〔B・C残した語形とその注〕\n\nかるいか？不明。名詞であるかもし\nれない。ダを省略したものかもしれ\nない。akaという終止形があると\n思うが、得られなかった。\n\n5631.26　akai　〈共〉　2ke:\n5633.87　aka　（いろいろれすが、ねが、akaiは得られなかった。）\n5635.65　アカイ　（共）\n5644.74　アカイ　（共）\n5655.57　アカイ　（共）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00616.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00616",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00616.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5657.73",
+      "5666.18",
+      "5670.47",
+      "5678.33",
+      "5679.86",
+      "5685.37",
+      "5686.67",
+      "5689.98"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧    6-17\n質問番号 018  地図番号 028\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]\nページ (1)\n項目名 アカイ\n\n地点番号欄以外の表ヘッダ: A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nアカイ（共）\nアカイ（共）\nakai ＜あまり使わない＞    aka?\nアカイ（アカイは、質問による答）    アカ。\nakae （荒） benitaka（年より）    aka（若い者）\nakai（ake:と言わないと言う）\nアカイ（アカは出るが、アカイはあかかなか出なかった。）\nakai（この場合のkの音は、はっきりした...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00617.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00617",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00617.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5693.13",
+      "5712.70",
+      "5721.27",
+      "5740.16",
+      "5741.25",
+      "5760.57",
+      "5781.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-18\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n資料番号 018 地図番号 028 項目名 アカイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (12)\n表ヘッダ: 地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n（清音でないように聞かれれ）\n5693.13 アケエ <古> (相当使っていると思われる) アカイ\n5712.70 ake: ~age: [akai]\n5721.27 2kæ: <たまげた時、使う> 2kæ\n5740.16 [アカイ] 本人は色盲のため、赤色が分らないので、息子が代って答えたもの。\n5741.25 akai 改まると。 ange:\n5760.57 agae (誤) age:\n5781.22 makkanda. 学校で習ってきた子供たち",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00618.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00618",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00618.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5792.62",
+      "6287.71",
+      "6339.35",
+      "6348.77",
+      "6357.38",
+      "6369.32",
+      "6374.68",
+      "6377.65"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< () [] は厳密にする。 日本言語地図資料用紙 注記一覧 6-19 質問番号 018 地図番号 028 項目名 アカイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (13) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] (g?) (hakace を使う.) 5792.62 age: 〈古〉 akai 〈新〉 6287.71 ake: 〈普通〉 akai 6339.35 マッカ 〈古〉 アカイ 6348.77 アカイ 〈多〉 ベニアカ 6357.38 アカ 〈アカ/カミ＝赤紙〉 6369.32 アカ 〈アカデス〉 アカイ 6374.68 2k2（形容詞の形が出ない） 6377.65 マッカ 〈稀〉 アカイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00619.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00619",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00619.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6387.62",
+      "6394.78",
+      "6401.89",
+      "6403.60",
+      "6406.92",
+      "6407.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > ( ) [ ] は厳密にする。 日本言語地図資料用紙注記一覧 6-20 資料番号 018 地図番号 028 項目名 アカイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] (14) 表見出し: A 語形とその注記（B・C除いた語形とその注） A 注のない語形 [B・C 残した語形とその注] 2k2 (形容詞の終止形/が出ない) アカ (形容詞が出ない) マッカ ＜古＞ アカ (右欄: アカ) (米)マッカナ（古いことば） アカ. アカイ　この地方は、x: e: などとはならない。（気高部西部のみ） サエビチャイロダ（色紙の赤は暗いので、アキャア　これはエビチャイロ、もっと明るいのはアキャア。 キャ = k e^2 ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00620.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00620",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00620.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6409.72",
+      "6411.66",
+      "6412.12",
+      "6413.76",
+      "6414.17",
+      "6415.23"
+    ],
+    "other_text": "日本語地図資料用紙注記一覧 6-21\n資料番号 地図番号 018 028\n項目名 アカイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(15)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nアカイ　＜共＞\nアケァア　＜日常用語＞\nマッカナ　＜古＞　アカイ\nマッカナ　＜古＞　アカイ\nマッカ　　＜古＞　アカイ\nakja:　＜古、少＞　makkana\n（アキャーは夜が明けた時には、akai 用いる。赤いも、時にも、アキャーと言うことであった。）\n2kja:　（広戸がアキャーはないかと聞いて、2kai）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00621.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00621",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00621.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6416.31",
+      "6416.58",
+      "6417.14"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　6-22\n質問番号　地図番号　018　028\n項目名　アカイ\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（16）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >（ ）[ ] は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6416.31　2kai　（アキャーとも言うとの答であった。）　（この地方は二重母音aiは変化しない。）\n6416.58　アカ　（アカと最初に言い、次に、アカはボタンイロ。もっと赤いのを言う。この色はボタンイロだと答え。）\n6417.14　2koi　〈クヮ〉（アケイがありはしょいかと聞いたら、言うとのこと、そして、これが自分の普通の言い方と答えた。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00622.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00622",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00622.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6418.75",
+      "6419.50",
+      "6421.26",
+      "6422.16",
+      "6422.93",
+      "6423.75",
+      "6424.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-23\n質問番号　地図番号　018　028\n項目名　アカイ\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(ペーシ?)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< [ ] は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6418.75　アケァア　〈細かく言えば、エンジ色で〉\n　　　　アカイ〈共〉　ある。一般に従えばアケア\n　　　　エンジ、　アカイである。〉\n\n6419.50　アカイ　〈希、共〉　　　　アケァア\n6421.26　マッカ　〈古〉　　　　　　アカ\n6422.16　マッカナ　〈古〉〈幼〉(今は幼語となっている。)　アカイ\n　　　　(取り消し線でマッカナ)\n6422.93　アカイ　〈新〉　　　　　　マッカナ\n6423.75　akai　(2kzeiではなかれ。)\n6424.20　mak:ana　〈非常に赤いとき〉　2kai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00623.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00623",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00623.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6427.27",
+      "6430.53",
+      "6432.22",
+      "6443.88",
+      "6452.17",
+      "6456.73",
+      "6459.29"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞()［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 6-24\n\n質問番号　018　　地図番号　028　　A 普通注記　（B 除いた共通語）　（C 除いた特殊語）　ページ（18）\n項目名　アカイ\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形（B・C 残した語形とその注）\n6427.27    2kai　〈改丸場合〉    2kæ:\n6430.53    マッカナ　〈古〉    アカイ\n6432.22    マッカナ　終止形がどうしてもでない\n6443.88    2kæ:    (（?）ベンガライロは、弁柄の色合のものだけに限るようだ。従って akæ: の方をとりあげるべきれんと思う。)\n\n6452.17    アカー　〈名詞の時はヒアカ〉\n6456.73    akæ:　〈古〉    akai\n6459.29    アカイイロ　（アカイ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00624.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00624",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00624.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6462.52",
+      "6471.26",
+      "6475.07",
+      "6477.02",
+      "6484.78",
+      "6500.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-25\n質問番号 018 地図番号 028\n項目名 アカイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (19)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]\n6462.52    アカ (アカは名詞であるが、形容詞は得られなかった。)\n6471.26    アカプ 、又：にはあらない\n6475.07    akjei 〈赤色はもっと濃いのだが〉\n6477.02    アカイ (アカジャナイカイ、という言い方をし、なお聞くと、アカイドと答えた。)\n\n6484.78    アカイ、アカイオ\n6500.22    アカ。 終止形「アカイ」は、まがさか求め得なかった。実際のパロー\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00625.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00625",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00625.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6500.83",
+      "6550.96",
+      "6551.52",
+      "6554.08",
+      "6555.31"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 6-26\n\n資料番号 018    地図番号 028\n項目名 アカイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (20)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n音的実現についても、「アカ」「アカダ」という形で現われる場合が多い様である。\n\n6500.83. [akæ:]\n6550.96. [アカイ]\n6551.52. アカイ。＜アカイとは言うが、この色はヘンイロか？＞\n6554.08. アカ　アカ（方の下降強し）\n6555.31. 2ka（赤い服なら、akano fuku と言る）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00626.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00626",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00626.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6556.60",
+      "6560.22",
+      "6562.64",
+      "6565.17",
+      "6568.09",
+      "6577.71",
+      "6581.52",
+      "6582.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > < ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧    6-27\n資料番号 018   地図番号 028\n項目名 アカイ\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (2/1)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nアカイ（#アカヤナイカの中からとり出す）\n#アカイカミ、（アカイ）\nアカイロ（アカイとも言うはずあり）\n2kai　〈簡単に普通は2kai、4等に　区別する時、akaiと言う〉\n2kai（他の土着の人のアクセントは2kaiと平坂であった。）\n2kkai 〈ク〉   　A注なし欄: 2kai\nアッカイ 〈ク〉   　A注なし欄: アカイ\nアカイ（最初の答は、アカであった。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00627.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00627",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00627.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6583.93",
+      "6584.90",
+      "6593.98",
+      "6610.77"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく〈〉（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 6-28 質問番号 018 地図番号 028 項目名 アカイ (A)普通注記 [B 除いた共通語] [C 除いた特殊語] (22) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 形容詞終止形よりも、「コ」型 アカヤ、の形容動詞型が使 われるためであろう。 akja: <女の人はよく言う。男の人も言う。> akai <白川の方では, aka:と言う> *aka: (始めは「?akai」と答えれ か、これは極めて意識した答で、普通は「アカー」と言う) akai <e:でない。和合枝ではe:>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00628.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00628",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00628.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6617.75",
+      "6624.65",
+      "6701.46",
+      "6721.31",
+      "7218.09",
+      "7239.85",
+      "7246.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-29\n資料番号 地図番号 618 028\n項目名 アカイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (23)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\nと言う>\nA語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C 残した語形とその注）\n\nエビチャ（古）    エンジ、アケェ\nakæ: － 多く使う    2kai\n2kai （Kは完全な激音ではないようで半濁音の表記をする。〔より〕ではないと思う。）\n2kai ＜新＞    ake:\nakai ＜aka ka は使わない＞\nアッカ …タク？    アカカ\nmakkjakja … 多く用いる。    2kka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00629.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00629",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00629.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7302.87",
+      "7311.68",
+      "7331.27",
+      "7331.41",
+      "7332.97",
+      "7351.09",
+      "7354.23",
+      "7356.06",
+      "7361.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-30\n質問番号 018 地図番号 028 項目名 アカイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (24)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞〔〕（）は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7302.87　akai　(ka語尾なし)\n7311.68　akaka　〈聞くことあり〉　akai\n7331.27　akai　〈（コッチ）ホーガアカカという様な時、アカカと言う〉\n7331.41　アカカ、　アッカとはならぬ\n7332.97　akai　〈akakaなし〉\n7351.09　akai〈iro〉（アカカネー感動の時）\n7354.23　＊アケエ\n7356.06　akai　〈上、新〉　2ke:\n7361.17　アカ　〈アカカとは言わない〉（形容詞）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00630.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00630",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00630.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7362.67",
+      "7363.85",
+      "7362.42",
+      "7364.34",
+      "7372.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-31\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく ><()は厳密にする。\n（右上の箱）調査番号 018 地図番号 028 項目名 アカイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] （25 ページ）\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（終止形は出させなかった。）\n7362,42 [アッカ] <希>　　　アカ\n7362.67 アカ　＜基本である＞　　アカカ、アッカ\n7363.85 ＊アカカ\n7364,34 ＊アッカ　＜希＞\n＊ アカ\n7372,27 アッカ　＜希＞（形容詞終止形用法は アカ 希で：コラアカのような名詞（名詞＋○）的表現法が 陳述 基本。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00631.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00631",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00631.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7373.92",
+      "7374.95",
+      "7375.96"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく >< () は厳密にする。 日本言語地図資料用紙注記一覧 6-32 質問番号 地図番号 018 028 項目名 アカイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (26) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] ＊アカ ＊アカカ ＊アキャア ＊エビチャ アッカ akě:, ë-... 変母音、uとoの中間であるが、eに近い。これは西臼杵郡一帯にみられる特殊な発音で、アイ母音の転化によるメ・ケ・グ・レの音節は標準語音のそれと異なる。これは、これらの音節の",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00632.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00632",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00632.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7381.38",
+      "7385.38",
+      "7385.61",
+      "7391.44"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-33\n質問番号 地図番号 018028\n項目名 アカイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (29)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )［ ］は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n母音が、変母音であるためと思わ れ、それを “ë” と表記する。以 下同じ。説明書参照。\n\n7381.38　アカ　（コラァカ、コラァカ タイ、のような アッカ 名詞形が自然で優勢な形であることは、(617)の場合と等しい）\n\n7385.38　2kwe:　（2kwe:と言ったり、また2ke:と言ったりする。）\n\n7385.61　2ke:；　説明書参照。\n\n7391.44　アッカ　（希）　アカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00633.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00633",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00633.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7392.45",
+      "7402.42",
+      "7436.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-34\n質問番号 018    地図番号 028\n項目名 アカイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] ページ (28)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n7392.45 アカ\n  1. コラァカのような、体言的表現が基本。\n  2. アッカ、アカカ、アキャアを用いない\n7402.42 akai\n  〈akα: nat:oru〉のように使う\n7423.?? akai 〈多〉\n  akãːd?a 〈やや少〉\n7436.68 akai,\n  高知市では夜が明けてき\n  akanai〈古〉丸時、アコーナッタと言うか。佐喜浜では、アカノーナッテキタとも言うと言う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00634.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00634",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00634.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7440.69",
+      "7503.11",
+      "7503.48",
+      "7512.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-35\n資料番号 018　地図番号 028\n項目名　アカイ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (29)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nakai (akeiという人もある、32年調)\nakæ ([ai]の連母音は[a:]となると思って聞いたら[akæ]だと言う。それでは「赤くない」はどうかというと、[aka:na:]である。つまり基本形を求めようとすると、[akæ]となる。[akai]ではない。)\n\naka: ＜古＞\nアッカイ ＜多＞\n\nakai\nアカイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00635.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00635",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00635.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7523.30",
+      "8300.80",
+      "8301.19",
+      "8306.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-36\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n\n資料番号 018　地図番号 028　項目名 アカイ\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)　ページ (30)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7523.30　アッカイ　〈多少強調の意味がある〉　アカイ\n8300.80.　アカ　（終助詞を内題した名詞形で、陳述を表現するのが一般）　アッカ\n8301.19　アカ．（01?と同様。形容詞終止形　アッカはこの場合の終止形としては用いないようである。）\n8306.42　2kwe:（ake:のように口の先の方で調音されるのではなく、口の内部で陰にこもれるように発音される。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00636.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00636",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00636.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "8315.89",
+      "8324.83",
+      "8343.97",
+      "8373.43",
+      "8325.77"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉[　]は厳密にする。\n日本言語地図資料用紙注記一覧 6-37\n質問番号 地図番号 018 028\n項目名 アカイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3/)\n\n8315.89 makke: <色の場合は /makke:/と言い、明るい場合はあれだ /ake:/ と言う。>\n\n8324.83 akeː　語末は半長音に聞える。\n\n8325,77 * #.2ke: (取消線)\n\n8343.97 akaka　(これは aoka. これは aka- ake ka と区別して言うようなとき、これを使う。)\n\n8373.43 ake (3) ○k {ake　akaka}",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00637.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00637",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00637.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "9322.52",
+      "0247.56",
+      "0265.96",
+      "0275.36",
+      "0275.97"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n日本言語地図資料用紙 注記一覧      6-38\n質問番号 地図番号\n018.   028\n項目名 アカイ\n(A) 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\n(32)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n9322.52    akaka    (kはかすかに沈る。)\n0247.56    ahasari  <れしかめていうに持>\n            ahasa\n0265.96    ha:han   (連体であるものを終止に使うらしい。)<他の部落では ha:hariと言う.>\n\n0275.36    a:ai     (akasahi > ahahai > a:ai)\n            a:keː\n0275.97    a:han   <a:hariという人もある.>\n            (a:hariが本来の終止形で a:hanは連体形であ...)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00638.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00638",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00638.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "0276.50",
+      "0294.66",
+      "294.94",
+      "1156.89"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 6-39\n資料番号 018 地図番号 028 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (33)\n項目名 アカイ\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\nるらしい。しかし、この被調査は、一の方を用いると言う。）\n0276.50  a:mun （赤物である）  a:in\na:ai （a:ai < a:hari < akasari）\n0294.66  a:sa 〔a:sayとも言う〕\n0294.94  a:san, a:sa （名詞形で終止することが多い。）\n1156,89  akasa? an 〈新〉\n*akaha2 〈老人は多く、これを用いる〉（仲地＝山里、西銘では。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00639.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00639",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00639.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "1213.76",
+      "1232.29",
+      "1242.22",
+      "1271.05"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 6-40 資料番号 018 地図番号 028 項目名 アカイ (A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (34) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 形容詞の語尾Nが省略される 1213.76 a:saji, a:saで終止することも多い 1232.29 aharo:N (赤くなっている) aha: (名詞) (終止形は求められない。) ahahaNが推定される 1242.22 aha (終止形は求められない) 1271.05 2akaθ2N. [θ]は側面的摩擦音。2aka: θ = ! 英語の[θ]は歯裏、歯間",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00640.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00640",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00640.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "2074.69",
+      "2140.49",
+      "2141.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-41\n資料番号 地図番号 018 028\n項目名 アカイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (35)\n\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A注のない語形 [B・C 残した語形とその注]\n\n音だが、それよりもっとうしろ。\n126/1,32  aka:  [この終止形はない。赤すぎるの意味にも ju: akasan がある。]\n\n2074.69  ahajiduru (あかくしている。あかい意)\n2140.49  akaddza (「アカクツァル」からの変化 と思う。)\n\n2141.61  aka  （語幹に当るが終止に用いられる。kurja:aka <コレハアカ>。強調する時は。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00641.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00641",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00641.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "2141.71",
+      "2150.17"
+    ],
+    "other_text": "6-42 日本言語地図資料用紙 注記一覧 A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく<>（）[]は抜粋にする。 質問番号 018　地図番号 028 項目名 アカイ A 普通語記　ページ (36) axa kurja: ha: haと言っている。 （語幹を終止形に用いる。） kurja: axa: これはあかい。 強調する場合は、kurja:— axa: axa. ahatudo: （アカクアルの変化。終止形に使われる。）",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00642.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00642",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00642.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "3699.55",
+      "4726.80",
+      "4744.32",
+      "5603.88",
+      "6443.88"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記のく　>(　)〔　〕は厳密にする。\n\n日本言語地図資料用紙注記一覧\n質問番号　地図番号\n018　028\n項目名　アカイ\nA 普通注記　B（除いた共通語）　C（除いた特殊語）\n（1）\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n3699.55.　（ベンガライロ）。ただし被調査者は、カードの赤紙を見て、アガー　アガェ　ではないと主張した。（ベンガラは、ベニガラのこと。）\n\n4726.80.　2k2　〈「ィ」はつけない〉　＊age:\n4744.32　2kae　＊akε\n5603.88.　2kai　＊ake:\n6443.88.　（?）ベンガライロ。（弁柄の色合のものだけに限るようだ。従ってakae:の方を取りあげるべきだ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00643.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00643",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00643.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6500.83",
+      "7354.23",
+      "7363.85",
+      "7364.34",
+      "8325.77",
+      "6550.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 6-44\n資料番号 018　地図番号 028\n項目名　アカイ\nA 普通注記　B（除いた共通語）　C（除いた特殊語）　（2）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（[]）は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n（中央手書き）と思う\n6500.83.　アキャア　アカイ．[akæ:]\n6550,96　アカ（？）　[アカイ]\n7354.23.　マッケエ　＊アケエ\n7363.85.　アカ　＊アカカ\n7364.34　コデチャ　＊アカ\n＊アカイロ　＊アッカ〈希〉\n8325.77　aka　＊#, 2ke:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00644.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M028Q018/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00644",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00644.tif",
+    "source_ljc_id": "LJC-M028Q018",
+    "source_map_numbers": [
+      "028"
+    ],
+    "source_title": "あかい (赤い)"
+  }
+]

@@ -1,0 +1,816 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0716.46",
+      "0737.94",
+      "0894.61",
+      "1793.14",
+      "3705.82",
+      "3725.72",
+      "3727.81",
+      "3733.88",
+      "3736.03",
+      "3768.50"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-06\n質問番号　地図番号　159\n項目名　真綿　165\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ ( / )\n\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n0716.46　マワタ　(タがダに近く聞える)\n0737.94　kinu'wata　<若い人がたは mawata>\n0894.61　ma'wata　<今>\n1793.14　マワダ　(夕より夕に近く聞きとれる)\n3705.82　nebasii　<ぬばねばするから>\n3725.72　ネバス　(右)\n3727.81　同　上\n3733.88　ネバシ　<右>\n3736.03　ネバス　(右)\n3768.50　ヒギワタ　<右>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04706.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04706",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04706.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3782.98",
+      "3783.08",
+      "3793.37",
+      "3795.19",
+      "3797.32",
+      "4597.66",
+      "4609.54",
+      "4639.69"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-07\n質問番号　地図番号　159\n項目名　真綿　165\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n3782.98  nebasi  (米)     mawada\n3783.08  ne'basi   eは狭い e\n3793.37  ヒギワダ  (花)    マワダ\n3795.19  ヒギワダ  「ヒ」は「G」よりも「j」に近い\n3797.32  キギワダ  （「キ」は「G」に近い）\n4597.66  ネバリ  <ネバリは着物などに入れた綿を安定させるためのマワタである>　マワタ\n4609.54  mawada  <マユからとる時の材はミカ・という>\n4639.69  nebasiii  <着物に入れる時など nebasii o hiku というように使う>  mawata",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04707.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04707",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04707.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4653.02",
+      "4654.52",
+      "4663.92",
+      "4675.45",
+      "4687.37",
+      "4689.62",
+      "4703.88",
+      "4712.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-08\n質問番号 地図番号 159\n項目名 真綿 165\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(3)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n（表見出し）\nA 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n* gikiwata <右>    ma^wata\ngikiwata <多>\nma^wa ta <多>    ki'nuwata\nmo:ta <右>\ngikiwata .... <常にはこれを多く用いる>\nmawata .... 「外に言い方はありませんか」に対する答\ngigiwada <右>    mawada\ncigitwada <右>\ngigitwata <右>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04708.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04708",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04708.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4713.60",
+      "4714.22",
+      "4714.68",
+      "4715.33",
+      "4723.14",
+      "4723.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-09\n質問番号　地図番号　159\n項目名　真綿　165\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (4)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉［　］は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]\n4713.60    gigiwata 〈右〉\n4714.22    gigiwada 〈右〉\n4714.68    * gigiwata （手書きの日本語注記）\n4715.33    gigiwata / mawada（手書き）\n4723.14    (p)gigi wada（手書き）\n4723.58    * gigiwada ＜フレーズの注＞\n\n（ページ下部に手書きの長い日本語メモあり、ここでは大まかに記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04709.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04709",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04709.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4734.56",
+      "4761.43",
+      "4743.95",
+      "4761.93",
+      "4763.62",
+      "4771.58",
+      "4773.78",
+      "4780.64"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-10\n質問番号　地図番号　159\n項目名　真綿　165\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　ページ（5）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n\n（表ヘッダ）\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C　残した語形とその注］\n\nmawada　〈女の人はもっとすか他に言っていたようだ〉（参考のため、被調査者夫人にきくと、\"gigi wada\"と言うと答えた。）\n(ユ) neba st　〈田舎の人が使う〉　mawata\n# ? giki wata\ngiki wata　〈昔から使う〉　mawata\ngiki wata　〈古〉\ngigi wada　〈はるで使う味の名〉　mawada\ngiki wada　〈少〉\n（以下、同様の手書き語形が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04710.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04710",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04710.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4781.86",
+      "4790.74",
+      "5472.91",
+      "5506.68",
+      "5529.77",
+      "5538.88"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 47-11 質問番号 地図番号 159 項目名 真綿 165 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (6) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] mawada / gikiwada (チョッキは mawada でこさえるといい。 gikiwada でこさえるとはいわない。) (mawada の 材能的一面か gikiwada であろう。) gigi wada <著> mawada keba ..... 蘭のまわりの毛を集めたもの。 mawata tsuruwata <上等のもの> keba <下等のもの> tsiribata (このは破裂性が少ない) ワルワラ <ち> マワタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04711.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04711",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04711.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5556.84",
+      "5564.79",
+      "5567.46",
+      "5575.00",
+      "5579.42",
+      "5584.37",
+      "5588.02",
+      "5595.20",
+      "5611.74"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-12\n\n質問番号　地図番号　159\n項目名　真綿　165\nA　普通注記\n(B　除いた共通語)\n[C　除いた特殊語]\nページ　(7)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞(　)[　]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n\n5556.84　kakewata　〈右〉　mawata\n5564.79　tsuruiwata　優先\n5567.46　〈希〉　ネハリ　マワタ\n5575.00　tsuruiuba　優先　mawata\n5579.42　nerbasi　〈古〉　ma'wata\n5584.37　tsuruiiwata　昔の言い方　mawata\n5588.02　〈井〉　マアタ\n5595.20　tsurmwata　優位　mawata\n5611.74　ツリワタ　(古)(文)\n\nツルとは　つり引き伸ばす意味らしい。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04712.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04712",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04712.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5615.74",
+      "5625.91",
+      "5628.70",
+      "5635.65",
+      "5636.74",
+      "5665.11",
+      "5687.32",
+      "5687.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-13 資問番号 地図番号 159 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (8) 項目名 真綿 165 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] * [mɔ:ta] [ma:ta] mawata ヒキワタ <多> ケバ <マワタとはちがう。タマアユとか、ヤクサン?> マ2をして わくにかける ケバ <マユオマフシカラトルトキ ツイテフル> ケバ <クズ、ホホ> ヒキワタ <普通> <おくで直して引き伸して使う> マワタ キスワタ …… （話の様子では話しことばではない） マワタ（春） きのうを さくじつ のせめぐ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04713.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04713",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04713.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5688.37",
+      "5700.28",
+      "5700.32",
+      "5702.52",
+      "5722.37",
+      "5723.36",
+      "5771.42",
+      "5780.57",
+      "5792.02",
+      "6267.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-14\n質問番号　地図番号　159\n項目名　真綿　165\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(9)\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n5688.37　ムシワタ〈古〉　マワタ\n5700.28　jikiwata〈多く使う、綿の上に引くから〉　mawata\n5700.32　gikiwata〈多〉\n5702.52　jikiwata〈綿の上に引くから〉\n5722.37　gikiwada〈化〉　mawada\n5723.36　gikiwada〈古〉\n5771.42　cciwada（誘）\n5780.57　gigiwada（誘）\n5792.02　mar:ta　それは強いどに近い（読みにくい）\n6267.84　neba:s ―（にあらず）\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04714.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04714",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04714.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6339.35",
+      "6339.44",
+      "6349.23",
+      "6349.67",
+      "6384.25",
+      "6395.61",
+      "6413.29",
+      "6414.25",
+      "6417.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号　地図番号　159\n項目名　真綿　165\n(A) 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語]　(10)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞(　)[　]は厳密にする。\n\n地点番号\tA 語形とその注記 [B・C除いた語形とその注]\tA 注のない語形 [B・C 残した語形とその注]\n\n6339.35\tヌリ　〈古〉\tマワタ\n6339.44\tヌリ　〈稀〉\tマワタ\n6349.23\tヌリ　〈古〉\tマワタ\n6349.67\t同上\tマワタ\n6384.25\tneba　〈古〉\tmawata\n6395.61\tneba\t宇部市 ヒラキ君の 菓子 白? 絹ひとは nebaito.\n6413.29\tma:ta　語\n6414.25\tmawata　kebaは その周りがとるもの\n6417.85\ttsumri ... 少量の場合、\nmawata ... 大量の場合。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04715.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04715",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04715.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6466.36",
+      "6476.93",
+      "6481.56",
+      "6482.04",
+      "6491.65",
+      "6520.79",
+      "6535.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-16\n質問番号 地図番号 159\n項目名 真綿 165\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (11)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n6466.36   マワタ　<普>    キヌワタ\n6476.93   マアタ　)　マワタか　マアタとなるのである。 マワタはウルい。\n6481.56   マアタ ... <マアタとも言えるか>　マアタは　キヌワタ\n6482.04   ネハワタ (昔)   マアタ\n6491.65   keba　<keba iteru のように言う>\n6520.79   キヌワタ　この方が丁寧な言い方。\n6535.73   tsuri　<蒲団に入れたもの>  ma:ta\n\n（手書きの注記や補足説明等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04716.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04716",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04716.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6542.58",
+      "6553.47",
+      "6569.12",
+      "6571.15",
+      "6624.13",
+      "6625.66",
+      "6631.05",
+      "6667.81"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-17\n質問番号　地図番号　159\n項目名　真綿　165\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(12)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n（表ヘッダ） 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nマアタ　　マワタとは言わない。　この地では　かつて蚕を飼っていたという。\nmaata　(ma:ta というより maata ときこえる)\nkinunowata　〈多〉\nmawata\nNR　〈糸を飼わぬがら知らぬ〉\n(この土地では マワタという語 なり)\nmawata　tekumura は まゆくずわた。\nma:ta　(ふとんをしめるのに用いるのみ)\nmainagawa\n誘 ma:i:ta, 語 gikiwata 〈裏く時〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04717.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04717",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04717.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "7218.09",
+      "7218.58",
+      "7238.40",
+      "7239.24",
+      "7266.60",
+      "7302.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-18\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n（箱） 資問番号 地図番号 159\n項目名 真綿 165\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語 (13)\n地点番号　A語形とその注記 [B・C除いた語形とその注]\n7218.09  mawata  ＜ふとんに入れるもの＞    (A注のない語形) mawata\n7218.58  nebaʃi?  ＜ひっぱって布と綿をくっつけるもの＞\n    nebaʃi  ＜玉まゆなど上等のもの。伸ばしの意＞\n    ma'wata  ＜まゆで作ったもの一切＞\n7238.40  nebaʃi  ＜希に用く＞    mebaʃi\n7239.24  ma'wata  ＜nebaʃi ばかりのもの＞\n    誘 nebaʃi ＜くっつけるためのもの＞\n7266.60  nebaʃi\n7302.71  neba wata  (ワタを引っぱり、粘ばりをつけるため…)\n(以下、手書き注記、読み取りにくい部分あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04718.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04718",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04718.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "7308.33",
+      "7312.11",
+      "7321.93",
+      "7324.24",
+      "7326.41",
+      "7332.97",
+      "7338.48",
+      "7342.12"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-19\n質問番号　地図番号　/15-9\n項目名　真綿　165\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(14)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nneba　<古>　　　　　　　mawata\nneba　(マユについているはkeba)\nネハワタ　(マワタなし)\nbeba wata (neba でなかった)　　　ma:ta\nma:ta　<普通のマワタ>\nkeba　<まゆの外についているのを取って作った綿>\n(やや下級か)\nmawata (多)　　　　　　　　neba wata\nmawata (精製したものをいう)　　keba\nneba fi (ネハ布の意ない)　　　mawata",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04719.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04719",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04719.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7346.54",
+      "7352.64",
+      "7355.81",
+      "7361.82",
+      "7363.12",
+      "7363.59",
+      "7365.25",
+      "7372.03",
+      "7374.15"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-20\n質問番号　地図番号　15-9\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (15)\n真綿　165\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7346.54　neba⁷　〈古〉\tmawata\n7352.64　マワタ,\tネバシ（古, 老人風）　〈同一物〉\n7355.81　nema　〈マワタをうすくひきのばした場合〉\tmawata\n7361.82　nebaʔi　〈ねばっくから〉\n7363.12　ネバシ　（希）\n7363.59　マワタ　〈ネバシとはいわない〉\n7365.25　neba　〈希〉〈後におぼえた〉\tmawata\n7372.03　ネバシ　〈やお〉\n7374.15　[ネバシ]\tマワタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04720.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04720",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04720.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "7375.96",
+      "7376.68",
+      "7377.27",
+      "7377.72",
+      "7381.38",
+      "7381.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 47-21\n質問番号　地図番号   15 9\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (16)\n項目名 真綿 165\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7375.96  neba  [ mawata Futon ... /neba/ で /iwata/ を包んで入れてあるふとん ]\n\n7376.68  mawata 〈多〉 , neba [古]\n\n7377.27  maata 〈まわたの引伸ばされたのさ〉\nneba  かっ引く ということあり\n\n7377.72  neba 〈古〉  mawata\n\n7381.38  ワタ 〈ワタ、マワタの２種類を区別せず、ともにワタという方が多い〉 -> (?)\n\n7381.47  マワタ（着物に入れる）, ネハシ（布団に入れる）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04721.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04721",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04721.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7382.01",
+      "7382.58",
+      "7382.93",
+      "7383.98",
+      "7385.61",
+      "7385.84",
+      "7386.55",
+      "7386.63",
+      "7390.75",
+      "7391.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-22\n質問番号　地図番号　159\n項目名　真綿　165　ページ (17)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n7382.01　ne'bafi　＜昔＞　　mawata\n7382.58　ネバシ　＜古＞　　マワタ\n7382.93　ネハシ　（マワタという語も知らないように見えた）\n7383.98　キヌワタ　＜古、希＞　　マワタ、ネハシ\n7385.61　neba　＜希＞　　mawata\n7385.84　neba　＜古＞\n7386.55　neba　＜普、多＞\n7386.63　neba　＜昔〜今＞\n7390.75　ネバシ　（製造した物）　　マワタ\n7391.01　ネバアシ　＜やや希＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04722.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04722",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04722.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7393.62",
+      "7396.16",
+      "7411.61",
+      "7425.82",
+      "7522.48",
+      "7659.53",
+      "7659.62",
+      "8300.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-23\n質問番号　地図番号　159\nA 普通注記 　[B 除いた共通語] 　[C 除いた特殊語]　ページ (18)\n項目名　真綿　165\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n7393.62　ネハシ　〈?や古〉\n7396.16　mawata　.....（一般的）\n　　　　neba --- 〈着物や布団に入れる綿の上に敷く　敷く　絹のわた〉\n7411.61　nebawata　....〈古〉\n7425.82　ma:ta　....〈共〉　　　　keba\n7522.48　キヌワタ　....〈少〉　　　マアタ\n7659.53　ojari　〈真綿のくずを解いてぬしったもの〉\n7659.62　muzoge　〈粗悪なもの〉\n8300.11　マワタ　〈ネハシは数になるものである〉\n\n(注：手書きの語形・注記は判読できる範囲で転記した。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04723.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04723",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04723.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "8301.19",
+      "8302.19",
+      "8303.47",
+      "8303.84",
+      "8306.04",
+      "8306.62",
+      "8323.59",
+      "8324.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-24\n質問番号 地図番号 159\n項目名 真綿 165\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (19)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n8301.19　ネハシ　〈マワタをくるむもの。マワタの悪いもので作る製品。〉　マワタ\n8302.19　ネハシ　〈マワタを伸ばしたもの〉　ら\n8303.47　マワタ, ネハシ　〈材料、素材として見た場合にはマワタといい、品物の名としてはネハシというようだ。〉\n8303.84　ネハシ　〈マワタを引っぱってあるもの〉　マワタ\n8306.04　neba[j] 〈古〉\n8306.62　同上　mawata\n8323.59　neba[ji] , meba[j] [幼]\n8324.26　neba[s] 〈日常語〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04724.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04724",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04724.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "8331.12",
+      "8331.17",
+      "8332.42",
+      "8332.84",
+      "8335.05",
+      "8335.48",
+      "8341.94",
+      "8343.74",
+      "8350.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-25\n質問番号　地図番号　159\n項目名　真綿　165\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (20)\n\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n8331.12    nebaʃi! 〈希〉    mawata\n8331.17    nebaʃi! 〈古〉\n8332.42    nebaʃi! 〈古〉\n8332.84    nebaʃi! 〈古〉    ma:ta\n8335.05    nebaʃi! 〈古〉\n8335.48    [çi:kiwata] (被調査者も認める。思いろ さがらたのであろ。)    mawata\n8341.94    nebaʃi! 〈以前ほど使わなくなったけれど〉    mawata\n8343.74    nebaʃi! 〈希〉    mawata\n8350.68    nebaʃi! 〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04725.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04725",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04725.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "8351.41",
+      "8352.29",
+      "8352.92",
+      "8353.68",
+      "8354.29",
+      "8363.64",
+      "8373.08"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-26\n質問番号　地図番号　159\n項目名　真綿　165\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2/)\n\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜　＞〈　〉［　］は厳密にする。\n\n表ヘッダ: 地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n行の注記（地点番号除く）:\nnebaʃi: ＜古＞\ngiʔwata ＜古老は nebaʃi と言ったが 自分は使った事はない。＞\nne?basi ＜古＞\ngiʔwata ＜砂＞ ma:ta ＜昔から使っているか。 giʔwata が多くなった。＞\nnebaʃi ＜古＞    mawata\nnebaʃi ＜希＞    ma:ta\nnebaʃi ＜古＞\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04726.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04726",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04726.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "0238.55",
+      "0265.96",
+      "0276.50",
+      "1148.59",
+      "1221.47",
+      "1223.91",
+      "1232.29",
+      "1232.75",
+      "1233.61",
+      "1241.05"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-27\n\n質問番号　地図番号　.159\n項目名　真綿　165\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(22)\n\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n0238.55    mibasi <古>    ma:ta\n0265.96    同上           mawa ta\n0276.50    同上\n1148.59    itu wata 最近はない\n1221.47    mawata   約\n1223.91    ? maju\n1232.29    ? itu\n1232.75    ? kaigowata\n1233.61    ? wata <昔はなかった>\n1241.05    mawata <浮>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04727.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04727",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04727.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "1241.49",
+      "1241.96",
+      "1242.00",
+      "1242.22",
+      "1242.26",
+      "1242.72",
+      "1251.27",
+      "1260.87",
+      "1261.16",
+      "1261.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-28\n質問番号　地図番号　159\n項目名　真綿　165\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (23)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( ) [ ] は厳密にする。\n（表ヘッダ）地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\nmawata <幼?>\n同上\nmawata (?)\nN.R. ... [mawata]\nki:tu (?)\nmawata <昔はなかった>\nmawata <昔は なかった>\nwa:ta: ? <（注記・不明）>\nN.R. <綿は zi:tsu>\nmaju ? 作っていない\nmawata <紛?>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04728.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04728",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04728.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "1261.80",
+      "1271.20",
+      "2075.22",
+      "2076.25",
+      "2076.97",
+      "2076.98",
+      "2086.03",
+      "2095.60",
+      "2140.49"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞( )( )[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　47-29\n質問番号　地図番号　159\n項目名　真綿　165\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (24)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n1261.80    mawata　〈外〉\n1271.20    mawata　〈最近の輸入語〉\n2075.22    N.R.　〈最近入って来たので　共通語マワタを使い、他に方言としてはない。〉\n2076.25    minsi　〈希〉\n2076.97    mawata　〈ごく最近〉\n2076.98    mawata　〈最近入って来たことば〉\n2086.03    minsu:　〈?〉\n2095.60    ma:bata　〈?〉\n2140.49    ? mawata　〈池内にはないので？　mawata〉\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04729.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04729",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04729.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "2141.71",
+      "2150.17",
+      "2151.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-30\n質問番号 地図番号 159\n項目名 真綿 165\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (25)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[]は厳密にする。\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n2141.71  ? kaikuitu\n2150.17  (?) kaiku nuita\n2151.11  mawata ＜紡＞＜ここ最近輸入された語で共通語と意識している＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04730.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04730",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04730.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "3704.57",
+      "3715.51",
+      "3794.55",
+      "3795.33",
+      "4654.52",
+      "4675.45",
+      "4703.88",
+      "4705.20",
+      "4713.60",
+      "4714.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-31 資問番号 地図番号 159 項目名 真締 165 ページ A 普通注記 B 除いた共通語 C 除いた特殊語 ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の< > ( ) [ ]は厳密にする。 表ヘッダ: 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 37 04.57 mawata [約] nebasī 37 15.51 mawata [約] nebasī 37 94.55 マワダ ＜約＞ ヒギワダ 37 95.33 同 上 46 54.52 mawata ＜約＞ çikiwata ＜写＞ 46 75.45 mawata ＜約＞ mo:ta ＜右＞ 47 03.88 mawada ＜約＞ gigitwada ＜右＞ 47 05.20 マワダ ＜約＞ ヒギワダ 47 13.60 mawata ＜約＞ gigiwata ＜右＞ 47 14.22 mawada ＜約＞ gigitwada ＜右＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04731.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04731",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04731.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "4723.58",
+      "4731.42",
+      "4731.59",
+      "4734.20",
+      "4750.76",
+      "4763.62",
+      "4771.92",
+      "4780.64",
+      "5568.57"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　47-32\n質問番号　地図番号　159\n項目名　真綿　165\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ（2）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（「　」）は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\nmawada　＜上＞\nmawada　＜詳紛＞\nmawata　＜仮＞\n同　上\nmawada　＜綿＞\nmawata　＜付＞\nmawada　＜夕＞\nmawada　＜付＞\nmawada　＜付＞\n＜栄＞　?29\n\n右欄（ローマ字表記・注記）例:\n*gigitwada\nnebasui\nnebasui\ngigitwata\ngigitwada\ngikiwada　＜古＞\nsikitwada\ngikiwada　＜古＞\nネバリ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04732.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04732",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04732.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5569.36",
+      "5611.74",
+      "5672.67",
+      "5677.28",
+      "5696.68",
+      "6349.09",
+      "6349.23",
+      "6409.72"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-33\n\n質問番号　地図番号　159\n項目名　真綿　165\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ　(3)\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\n<共>　マワタ\t\tワタ\nマワタ（幼）\t\tツリワタ（古）（女）\n\t\tツルとは　つり引き伸ばす　意味らしい。\nmawata　<共>\t\tma:ta\n*　マワタ\t\tアアタ\nmawata　<改>\t\tma:ta\nmawata　<上品>\t\tmuri\nマワタ　<幼>\t\tマリ　<古>\n\n(以下欄外まで続く手書き注記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04733.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04733",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04733.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6418.13",
+      "6439.01",
+      "6492.11",
+      "6509.38",
+      "6611.61",
+      "7330.31",
+      "7344.45",
+      "7353.51",
+      "7373.56",
+      "7381.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号　地図番号　159\n項目名\n真綿 165\nA 普通注記    B（除いた共通語）    C（除いた特殊語）　ページ（4）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n6418.13　マワタ　＜共＞　　マアタ\n6439.01　同上\n6492.11　mawata　＜上＞　　ma:wata\n6509.38　マワタ　＜共＞\n6611.61　mawata　　ma:ta\n7330.31　マワタ　＜幼＞　　ネバシ\n7344.45　mawata　＜幼＞　　nieba\n7353.51　マワタ　＜幼＞　　ネバシ\n7373.56　マワタ　＜幼＞\n7381.38　マワタ　＜童＞\n\n（下部手書き注）ワタ、マワタの2種類を区別する／ともにワタという事が多い（？）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04734.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04734",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04734.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7385.38",
+      "7386.55",
+      "7386.63",
+      "7391.01",
+      "7393.62",
+      "7400.11",
+      "7411.27",
+      "7411.61",
+      "7659.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-35\n質問番号 地図番号 159\n項目名 真綿 165\nA 普通注記 (B) 除いた共通語 (C) 除いた特殊語 ページ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7385.38  mawata  ＜紡、共＞      neba\n7386.55  mawada  （共）            neba ＜普、多＞\n7386.63  mawata  ＜共＞           neba ＜昔〜今＞\n7391.01  マワタ  ＜め＞           ネバアシ ＜やゝ希＞\n7393.62  同 上                   ネハシ ＜？やった＞\n7400.11  mawata  希                neba\n7411.27  mawata  共                keba\n7411.61  mawata  ＜紡＞           nebawata ＜古＞\n7659.53  同 上                   ojari ＜真綿のくずを解いてねじったもの＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04735.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04735",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04735.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "8305.40",
+      "8305.73",
+      "8306.04",
+      "8315.46",
+      "8324.26",
+      "8332.07",
+      "8333.92",
+      "8335.05",
+      "8351.41",
+      "8372.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-36\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（［　］）は厳密にする。\n質問番号　地図番号　159\n項目名　真綿　165\nA　普通注記　（B　除いた共通語）（C　除いた特殊語）　ページ（6）\n表ヘッダ：地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\nmawata　〈紡〉　　　nebaʃi\nmawata　〈共〉　　　〃\nmawata　〈紡〉　　　nebaʃi　〈古〉\nmawata　〈共〉　　　＊nebaʃi\n同上　　　　　　　＊nebaʃi　〈日常語〉\nma:ta　〈紡,希〉　　nebaʃi\nma:ta　〔締〕　　　nebaʃi\nmawata　〈紡,多〉　 nebaʃi　〈古〉\nma:ta　〈紡〉　　　nebaʃi　〈古〉\nmawata　〈子〉　　　nebaʃi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04736.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M159Q165/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04736",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04736.tif",
+    "source_ljc_id": "LJC-M159Q165",
+    "source_map_numbers": [
+      "159"
+    ],
+    "source_title": "まわた (真綿)"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "734.94",
+      "0894.61",
+      "1744.60",
+      "1793.14",
+      "3689.75",
+      "3699.55",
+      "3715.51"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙　注記一覧　22-88 資料番号　地図番号 201 S　94 項目名　オチル（降りる） A　普通注記 [B　除いた共通語] [C　除いた特殊語] ページ（1） 地点番号　A 形形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注） 4. ＜小さい時は言ったかもしれない、内地から来た人は言う。人がひやかされたのを聞いた＞ 1. ＜昔は＞・＜今＞言わない。 2. ＜おりると言うのが本当のようだが、おちるという＞ 4. ＜古＞ 4. oriru という。 4. オリル、オレルという。 2. （ただし、odziruである）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02288.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M094Q201/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02288",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02288.tif",
+    "source_ljc_id": "LJC-M094Q201",
+    "source_map_numbers": [
+      "094"
+    ],
+    "source_title": "オチルを“下車する”の意味で使うか"
+  }
+]

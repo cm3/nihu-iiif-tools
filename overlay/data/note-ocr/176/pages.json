@@ -1,0 +1,806 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "2703.18",
+      "3726.21",
+      "3745.62",
+      "3755.32",
+      "3756.26",
+      "4597.72",
+      "4637.68",
+      "4638.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-46\n質問番号 地図番号 176\n項目名 さつまいも 188\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ ( / )\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n2703.18  satumaimo - SATUMAIMO か\n3726.21  サンズマ エモ  ← 小とみとむ Tak.\n3745.62  #サンズマエモ ...... <少>\n3755.32  サスーマエモ ..... <残んとつ作らない>\n3756.26  サズマイモ <希>\n4597.72  ruikiemo\n4637.68  sazume mo  saetsumaemo\n4638.22  satsumaeimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05446.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05446",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05446.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4659.50",
+      "4663.06",
+      "4678.77",
+      "4703.18",
+      "4731.59",
+      "4732.86",
+      "4733.91"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-47\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）［　］は厳密にする。\n質問番号　地図番号　176　項目名　さつまいも　188\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（2）\n表ヘッダ：地点番号　A　語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nサジマエモ　ジ→鼻濁音　山形県の他地方ではサズマエモのようになり、鼻濁音でないのが一般。\nsatsumaimo（作る）\nsatsumaemo　〈30年くらいから耕作する様になった〉\nsadziu maemo　〈ここではサツマイモを終戦後から栽培しました〉\nsatsumaimo　〈昭和以後栽培〉\nsatsumaemo　〈この地では殆ど作らない〉\nsatsumaemo（筆記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05447.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05447",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05447.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4763.61",
+      "4762.99",
+      "4763.45",
+      "5463.64",
+      "5472.34",
+      "5472.91",
+      "5556.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-48\n質問番号　地図番号　176\n項目名　さつまいも　188\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (3)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4763.61   sadzuma emo  <この辺ではかすかしか作ってない>\n4762.99   satsuima emo <?>  <この辺では余り作っていない>\n4763.45   sadzuma  <イモをつけない>\n5463.64   イモ  <多>  サツマイモ\n5472.34   サツマイモ <うす茶>  <色によって呼称が違う>  キウシュウイモ <白>\n5472.91   imo  栽培によりは文化3年ごろ来\n5556.84   -> 次頁",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05448.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05448",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05448.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5556.84",
+      "1969.1"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-49\n質問番号　地図番号　176　項目名　さつまいも　188\nA) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (4)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5556.84  satumaimo  ← これを誤りとし 訂正した。\n* Satsumaimo --- こちらが正しい。\nノート (1969.10.28) にもこのようにあるが\n以下の多くの例などから satsumaimo でなく satsumaimo と認む。\n\nカタツムリ — iekazuki 　イクワー — ikutsu\nツクル — tsukuru 　ツバ— tsubaki\nスワル — utsubukai suru\nオツリ — otsuri 　月 — otsukisama\n梅雨 — tsuju 　虹 — niji ya tatsu\n旋風 — tatsumaki 　ゆけ? — jyue tatsu\nセトモノ — karatsumono (N)\nツクシ — tsukuji 　マツヤサ — matsuyasa\n\n(一部読み取りに不確かな箇所あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05449.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05449",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05449.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5568.92",
+      "5617.85",
+      "5626.92",
+      "5628.23",
+      "5644.24",
+      "5649.53",
+      "5658.01",
+      "5659.78",
+      "5665.11"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜　＞（　）[　]は厳密にする。 日本言語地図資料用紙　注記一覧　54-50 質問番号　地図番号　176 項目名　さつまいも　188 A 普通注記 [B　除いた共通語] [C　除いた特殊語] ページ（5） 地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］ 手書き行（主な読み取り可能な語形・注記）: ナゴヤイモ　〈名古屋の方から他の苗を持って来たが〉　サツマイモ satsumaimo　〈よく出来ない〉 satsumaimo　（作らない） satsuima　〈余り作らない〉 satsuimaimo　〈ここで作らない〉 サツマ　普通の言い方 サツマ　〈多〉　サツマイモ サツマイモ　〈多〉　サツマイモ サツマイモ　（絵はハガキゴオカラ） サツマイモ＝ミエナイ TDK　絵には葉がない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05450.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05450",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05450.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5667.77",
+      "5670.47",
+      "5671.68",
+      "5678.71",
+      "5679.86",
+      "5680.34",
+      "5685.02",
+      "5685.37",
+      "5702.07"
+    ],
+    "other_text": "54-51\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　176\n項目名　さつまいも　188\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (6)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5667.77   satsuma emo （老人の発音）   satsuma, satsumaimo\n5670.47   satsumaimo   ＜一般には作っていない＞\n5671.68   satsüma imo   戦後のもの\n5678.71   satsuma   サツマだけで「サツマイモ」とは言わない。\n5679.86   satsüma emo  …（荒）sazüma\n5680.34   satsumaimo  … 終戦後1950年以降に作り始めた。\n5685.02   satsumaimo   ＜昔は作らなかった＞\n5685.37   同\n5702.07   satsuma   ＜普通＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05451.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05451",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05451.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5720.71",
+      "5740.43",
+      "5752.94",
+      "5792.02",
+      "6267.68",
+      "6296.27",
+      "6339.86",
+      "6366.24",
+      "6367.09",
+      "6369.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-52\n質問番号 地図番号 176\n項目名 さつまいも 188\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(7)\n地 点 番 号\tA 語形とその注記 [B・C 除いた語形とその注]\tA 注のない語形 [B・C 残した語形とその注]\n5720.71\tサツマ\t普通\tサツマエイモ\n5740.43\tサツマ\t〈多〉\tサツマイモ\n5752.94\tsatsümai\t誘\n5792.02\tsattsumaëmo\t\n6267.68\tko:komo\t〈対 こども〉\tko:koimo\n6296.27\ttommo\t〈多〉\ttoimo\n6339.86\t化\t〈古〉 , 置キイモ 〈希〉\n6366.24\timo\t〈imoといえば? toimoのことをさす〉\tto:imo\n6367.09\tリウキウ 化 〈古〉\n6369.32\t化\t昔\n(手書き注記や一部不鮮明な箇所あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05452.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05452",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05452.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6374.64",
+      "6385.28",
+      "6395.46",
+      "6397.24",
+      "6402.53",
+      "6403.60",
+      "6403.62",
+      "6404.83",
+      "6405.95"
+    ],
+    "other_text": "54-53\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　176\n項目名　さつまいも　188\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n(8)\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞（　）［　］は厳密にする。\n（表見出し）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6374.64　トオイモ　＜トオイモの方を多く使う＞　リュウキュウイモ\n6385.28　rjuu:kjuu:imo　＜この方が古い＞　satsumaimo\n6395.46　リュウキイモ　＜リュウキュウイモのこと＞\n6397.24　to:imo　＜この方が古い＞　rjuu:kjuu:imo\n6402.53　エモ　＜古＞　サチマエモ, リキエモ\n6403.60　キゥシュエモ　（九州諸？）\n6403.62　imo　＜古＞　satsumaimo\n6404.83　リイキイモ　＜古＞　サツマイモ\n6405.95　imo　この地方はサツマイモの栽培のため、単にイモという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05453.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05453",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05453.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6410.77",
+      "6411.66",
+      "6412.12",
+      "6412.48",
+      "6421.79",
+      "6422.77",
+      "6423.23"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n54-54\n質問番号　地図番号　176　項目名　さつまいも　188　(9)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n（表ヘッダ）地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n6410.77　エモ　リィキエモ　(この所付近は特に多く作る)\n6411.66　リィキエモ　〈古〉\n6412.12　同・上\n6412.48　リィキエモ　〈古〉\n6421.79　ri:kiiimo　〈多〉\n6422.77　サトイモ　〈里から茅藺が来るから〉　リュウキイモ\n6423.23　hamano emo　この地方では作らない。　satsuima emo\n（下部手書きメモ）? 187はズイキイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05454.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05454",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05454.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6430.26",
+      "6430.53",
+      "6439.01",
+      "6439.61",
+      "6442.35",
+      "6452.17",
+      "6464.23",
+      "6464.77",
+      "6464.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-55 質問番号 地図番号 176 項目名 さつまいも 188 A 普通注記 ページ (10) 地点番号 A語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6430.26 ri:kiimo 〈右〉 6430.53 リイキモ (リイキイモ でなく、イモと言わない) 6439.01 カライイモ 〈幼〉 サツマイモ 6439.61 カタクモ 〈右、希〉 サツメアアモ 6442.35 サトイモ 187 … スゲキイモ 6452.17 エノイモ 187はサトイモ、187のこの地の近くにエノイモあり。 6464.23 リュウキュウイモ 6464.77 リュウキュウイモ 6464.90 同 上 サツマイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05455.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05455",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05455.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6477.02",
+      "6481.56",
+      "6482.23",
+      "6482.26",
+      "6482.75"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-56\n質問番号　地図番号　176\n項目名　さつまいも　188\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（／）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n（手書き）\n6477.02　イモ（「さつまいも」を更にイモという。そして、品種を分けてワセイモ、ゴク（？）などと言う。小豆島全体に山地、丘地で水田は少く、山地・丘地は殆んど全部「さつまいも」を作るのである。）\n6481.56　イモ　〈種類に、テンジィモ、テンジクイモ、カライモなどある。〉\n6482.23　イモ　〈種類 ケンギイモ、カライモ、アメリカイモ、九州イモ〉\n6482.26　イモ　〈品種 リュウキュウイモ、カライモ、アメリカイモなど〉\n6482.75　kanjo, satsumaimo\n（共通語化しているように；家業に縁がない上もある。）\n土地人には imo wen nara などという人もある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05456.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05456",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05456.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6484.78",
+      "6485.14",
+      "6485.30",
+      "6487.66",
+      "6490.30",
+      "6491.49",
+      "6497.77",
+      "6497.90",
+      "6501.92"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧    54-57\n\n質問番号　地図番号　176\n項目名　さつまいも　188\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (12)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nリュウキイモ　古い言い方で今は余り使われない。　サツマイモ\nリュウキイモ　〈古〉\nおケイモ　〈古〉　イモ、サツマイモ\nテンジクイモ　〈古〉\nリュウキイモ　〈幼〉　おケイモ\nイモ　〈種類にはアメリカイモ、トオシマイモなど〉\nimo　（海岸部の大阪部落では to imo という）\nimo〈普通〉, bokeimo〈他〉　satsumaimo\nruu.kjimimo '69.9.6 はハガキによりカード作成。\nサツマイモ　（矢印）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05457.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05457",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05457.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6512.14",
+      "6515.24",
+      "6527.22",
+      "6547.67",
+      "6551.77",
+      "6557.14",
+      "6558.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-58\n質問番号　地図番号　176\n項目名　さつまいも　188\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　ページ (13)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6512.14  satsumaimo  ? － たしとする. SAT.\n6515.24  riuki imo  <右>    satsumaimo\n6527.22  satsumæ:mo   188は dżi:mo  SAT.\n6547.67  1. satsümaimo , 2. imo\n6551.77  imo  (単に「イモ」という)\n6557.14  satsumaimo  <- mo?\n6558.37  # satsumaimo\n(絵がよくわからなかったらしい。せんの好む甘い芋)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05458.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05458",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05458.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6575.17",
+      "6575.40",
+      "6580.06",
+      "6587.42",
+      "6592.35",
+      "6607.68",
+      "6610.77",
+      "6611.68",
+      "6624.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-59 質問番号 地図番号 176 項目名 さつまいも 188 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (14)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n6575.17  サツマ  <単にこのように  云うこともある>   サツマイモ\n6575.40  satsuma <上> , [satsum']\n6580.06  カライモ  <古><唐から来たイモの意>   サツマイモ\n6587.42  イモ  <この地区で沢山産するので、 特に サツマイモなどとは 云わぬ。>\n6592.35  satsumaimo (当地では全く作らない)\n6607.68  satsuma\n6610.77  satsumaimo <少し作る>\n6611.68  [satsuma]\n6624.13  'satsumaimo , satsuma\n（下部手書き注記） これはつままでついた、畑にあるものを云うことが多いので、 1を多く使う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05459.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05459",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05459.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6633.27",
+      "6634.32",
+      "6635.36",
+      "6635.54",
+      "6641.39",
+      "6642.33",
+      "6643.15",
+      "6643.72",
+      "6651.64",
+      "6655.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-60\n質問番号 地図番号 176\n項目名 さつまいも 188\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (15)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )［ ］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n66 33.27   satsuma  多    satsumaimo\n66 34.32   同　上\n66 35.36   同　上\n66 35.54   同　上    satsumæ:mo\n66 41.39   同　上    satsumaimo\n66 42.33   satsumaimo  多\n66 43.15   satsuma  多    satsumaimo\n66 43.72   satsumaemo  多    satsuma\n66 51.64   satsuma  多    satsumaimo\n66 55.51   satsuma  〈多〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05460.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05460",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05460.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6657.96",
+      "7208.97",
+      "7229.50",
+      "7239.24",
+      "7239.41",
+      "7239.82",
+      "7239.85",
+      "7249.35"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-61\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n（右上の枠）質問番号　地図番号　176　A 普通注記　ページ　[B　除いた共通語]　[C　除いた特殊語]　(16)\n項目名　さつまいも　188\n（表の見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書きの行（上から）：\n6657.96　satsumaimo　〈作っている〉\n7208.97　o:mura imo　〈古〉　imo\n7229.50　karaimo　〈古〉　〈現在のよりも大形であった。今はない。〉\n7239.24　[i?mo]\n7239.41　imo 〈gokoku imo などと色々ある。〉　satsumaimo\n7239.82　imo 〈普通〉\n7239.85　イモ　〈ふつう〉　サツマイモ\n7249.35　ジウキイモ dzu:kiimo 〈古〉\n（その他、表内に英字ローマ字表記や注記が手書きで多数記載されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05461.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05461",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05461.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7249.95",
+      "7257.94",
+      "7258.82",
+      "7269.51",
+      "7279.65",
+      "7302.87",
+      "7304.29",
+      "7308.33",
+      "7309.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-62\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n質問番号　地図番号　176\n項目名　さつまいも　188\nA 普通注記　ページ (17)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7249.95　リュウキュウイモ, ジュウキュウイモ　イモは そる時はも そうえない時もある。\n7257.94　imo　<平島では karaiimo という>\n7258.82　imo　<多>\n7269.51　imo　[右], karaiimo [幼]\n7279.65　[水] ジュウキィイモ　リュウキュウイモ\n7302.87　to:imo　古\n7304.29　サツマイモ　<小さい時は 単に イモと言った>\n7308.33　imo　<イモと言ったら サツマイモのことをさす>\n7309.61　imo　<普通>　gotoimo, karaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05462.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05462",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05462.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7313.68",
+      "7317.29",
+      "7318.04",
+      "7320.59",
+      "7321.87",
+      "7322.81",
+      "7331.41",
+      "7332.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞（ ）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 54-63 質問番号 地図番号 176 項目名 さつまいも 188 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (18) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7313.68 toimo (to: でない) 7317.29 karaimo <多> taijuu: imo, imo 7318.04 imo <普通イモと言えばこれもさす> satsumaimo 7320.59 rjuu:ku:imo (トォイモ、サツマイモなし) 7321.87 dzu:ki:imo dzuiki < rju:kju: 7322.81 rju:ki; kjm:imo < to:imo ともいう> 7331.41 カライモ <希> トイモ 7332.46 toimo (トーイモではない) （省）短音 to",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05463.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05463",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05463.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7332.97",
+      "7333.51",
+      "7339.27",
+      "7340.24",
+      "7340.27",
+      "7340.50",
+      "7341.51",
+      "7342.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    54-64\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n\n（枠内） 質問番号　地図番号　176\n項目名　さつまいも　188\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]　(19)\n\n地点番号　　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n7332.97    toimo　（トイモであることに注意）\n7333.51    同上\n7339.27    imo　＜種類によって genzi imo, karaimo などともいう。＞\n7340.24    imo　＜多＞　　　　karaimo\n7340.27    karaimo　＜希＞　　　to:imo\n7340.50    dzu:kiju:　＜希＞　　　imo\n7341.51    to:imo, karaimo\n　　　　＜黄色い芋は genti! などと言うれん。 これは品種について。＞\n7342.12    karaimo  ?　　　　to:imo\n\n（手書き注記や文字は乱筆のため一部推測で記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05464.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05464",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05464.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7350.21",
+      "7352.14",
+      "7352.61",
+      "7352.97",
+      "7361.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-65\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n質問番号　地図番号　176\n項目名　さつまいも　188\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ　(20)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\nsatoimo　＜新＞\n（甘藷をサトイモというのはおかしいと思ったが、確かにそう言う由来。なお、リュウキュウなどは使わないとのこと。）\n\nトオイモ　＜？紛＞\nカライモ\nカンカン（古子）\nカライモ　189にはサトイモもある。\n'69.6.19は末弘氏からのハガキにより、＜サトイモのことである＞という答をこれに訂正。\n\ntoimo　＜薩摩の落士が唐から種を持って来て、薩摩でしか作らせなかった。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05465.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05465",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05465.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7363.85",
+      "7377.27",
+      "7377.72",
+      "7380.74",
+      "7381.38",
+      "7381.97",
+      "7386.55",
+      "7391.44"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）（　）は厳密にする。 日本言語地図資料用紙　注記一覧　54-66 質問番号　地図番号　176 項目名　さつまいも　188 A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ (2/) 地点番号　A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] イモ　＜希＞＜上＞　　カライモ toimo＜古＞　　imo' toimo＜多＞　　tarai mo カライモ（カンチョは使わない） カンチョ（昔はカンチョとのみいっておった） カライモ＜やや紛＞ カライモ（め） toimo　唐芋の意と相関語は説明した。 カンチョ＜最も基準的に使う＞（カンョとは異め）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05466.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05466",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05466.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7391.94",
+      "7394.60",
+      "7396.16",
+      "7401.11",
+      "7401.60",
+      "7404.56",
+      "7406.53",
+      "7420.91",
+      "7421.62"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 54-67 質問番号 地図番号 176 項目名 さつまいも 188 A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ (22) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7391.94　カンキフ　〈古くからの語。希ではない〉　カライモ 7394.60　カンモ　〈子〉　ラ 7396.16　toimo　〈丁寧な言い方〉　karaimo 7401.11　imo, toimo　〈種類によって nju:iki imo などともいう。〉　satsumaimo 7401.60　imo　〈活躍か食用に使われている時 使う〉　toimo, karaimo 7404.56　toimo　〈普通〉　satsumaimo 7406.53　rju:kimo　〈古〉 7420.91　rju:kiimo　(中部2年の強音は muj;iimo と言った) 7421.62　rju:kimo (rju: kju:imo -> rju:kiimo という形がきかれる地… )",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05467.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05467",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05467.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7425.82",
+      "7430.80",
+      "7431.13",
+      "7431.82",
+      "7433.52",
+      "7441.63",
+      "7441.89",
+      "7452.08"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-68\n質問番号　地図番号　176\n項目名　さつまいも　188\nA 普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ　(23)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nカライモ　<稀>　imo\nmuji-imo　(消費者側の呼び方であって生産者側の呼び方ではなかろうと思う。)\nkataimo　<古>　rui:kiimo\nrju:kiimo　もともとは品種名なのか今は imo と同じ様に使う。\nsat[s]u maimo\ntsukuimo　<多>　kataimo <ケ>\n[kataimo]　imo\nkakaimo　<古>　sat'sumaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05468.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05468",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05468.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7470.72",
+      "7523.30",
+      "7659.51",
+      "8248.18",
+      "8300.25",
+      "8300.80",
+      "8301.19",
+      "8301.76",
+      "8310.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-69\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞＜（）[]は厳密にする。\n質問番号　地図番号　176　項目名　さつまいも　188　(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(24)\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7470.72   sat'sumaimo 〈共〉\n7523.30   キュウシュウ　〈古〉　サツマイモ\n7659.51   jikumo 〈古〉　satsuma\n8248.18   karaimo 〈上〉〈浜部落の人はカイモという〉 imo\n8300.25   karaimo （絵の様な〇型でなく、円形のものをまず考えるらしい。）\n8300.80   カライモ （カンチョは使わない）\n8301.19   カライモ 〈希、古、子〉　カンショ\n8301.76   カライモ 〈カンチョは用いず〉\n8310.87   karaimo 〈改〉　kaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05469.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05469",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05469.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "8332.07",
+      "8352.40"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-70\n質問番号　地図番号　176\n項目名　さつまいも　188\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (25)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n8332.07    kaimo    <多>    karaimo\n8352.40    同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05470.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05470",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05470.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "4637.68",
+      "5506.68",
+      "5568.57",
+      "5644.74",
+      "5645.89",
+      "5655.97",
+      "5657.73",
+      "5676.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-71\n質問番号 地図番号 176\n項目名 さつまいも 188\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ ( / )\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（ ）は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4637.68  kanjo (共)<幼> (今はこちらを多く用いると被調査者はえったか? 共通語 場面に於ての意味にを思う) sazumemo <古,希>\n5506.68  satsumaimo <幼> rju:kjuimo\n5568.57  カンショ <幼> サツマイモ\n5644.74  サツマイモ (共) サツマ\n5645.89  カンショ <幼> サツマイモ\n5655.97  カンショ\n5657.73  サツマイモ\n5676.10  kanjo satsuma",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05471.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05471",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05471.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5686.31",
+      "6339.86",
+      "6357.74",
+      "6409.72",
+      "6412.12",
+      "6419.50",
+      "6421.79",
+      "6423.75",
+      "6424.20",
+      "6430.26"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 \nその中での情報は地点番号順に並べる。 \n注記のく　＞(　)[　]は厳密にする。 \n\n日本言語地図資料用紙 注記一覧 54-72\n質問番号　地図番号　176\n項目名　さつまいも 188\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ（上）\n\n（表ヘッダ）　地点番号　A 語形とその注記〔B・C除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\n\nkai jo <約>　　'satsuma\nサツマイモ <約>　イモ〈古〉, リュウキイモ〈希〉\n同上　リュウキュウイモ\nサツマイモ〈共〉　サツメアモ\nサツマイモ〈約〉　リキエモ〈古〉\nカンショ〈希〉　サツマイモ\nsatjimaimo〈約〉　ri:kii imo〈多〉\nkanjo〈約〉〈共〉　satsuuma imo\n（手書きの注記や小さなルビ等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05472.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05472",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05472.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6449.84",
+      "6464.23",
+      "6464.77",
+      "6476.13",
+      "6482.52",
+      "6489.01",
+      "6517.65",
+      "6567.86",
+      "6601.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　54-73\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号　176\n項目名　さつまいも 188\nA 普通注記　(B)除いた共通語　(C)除いた特殊語　ページ (3)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6449.84　カンショ　＜稀＞　サツマイモ\n6464.23　サツマイモ　＜幼＞　#リュウキュウイモ　＜古＞＜稀＞　＜今は余り使わない＞\n6464.77　サツマイモ　＜現＞　リュウキュウイモ　＜古＞\n6476.13　カンショ　＜共＞　サツマイモ\n6482.52　satsumaimo　＜共＞　imo\n6489.01　サツマイモ　＜幼, 共, 希＞　イモ、リュウキュウイモ\n6517.65　カンショ　＜共＞　サツマイモ\n6567.86　satsuma'imo　＜希＞　imo\n6601.25　kanjo　＜希, 共＞　satsumaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05473.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05473",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05473.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6621.94",
+      "6624.13",
+      "6625.66",
+      "6633.33",
+      "6634.07",
+      "6641.97",
+      "6642.58",
+      "6643.16",
+      "6646.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    54-74\n質問番号　地図番号　176\n項目名　さつまいも　188\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ (4)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6621.94    satsumaimo    ＜希＞    satsuma\n6624.13    (handwritten)    希    1. satsumaimo, 2. satsuma  2はつるまでついた、畑にあるものを言うことが多いので、1を多く使う。\n6625.66    satsumaimo    ＜希＞    satsuma\n6633.33    satsumaimo    上    4\n6634.07    satsumaimo    希    1\n6641.97    satsumaimo    上    satsuma, sa'tsu…\n6642.58    satsumaimo    夕    satsuma\n6643.16    (handwritten)    上\n6646.74    satsumaimo    ＜希＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05474.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05474",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05474.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6650.70",
+      "6651.32",
+      "6652.30",
+      "6652.77",
+      "6661.02",
+      "6662.01",
+      "6662.38",
+      "7302.87",
+      "7324.24",
+      "7329.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-75\n質問番号　地図番号　176\n項目名　さつまいも　188\nA 普通注記　B (除いた共通語)　C (除いた特殊語)　ページ (5)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nsatsumaimo　<希>　　　imo\n同　　　上　　　　　　satsuma\nSatsumaimo　上\n同　上\nsatsumaimo　<希>\nsatsumaimo　上\n同　上\nsatsumaimo　幼　to:imo 古\nrjum:kjnu:imo (注：したことはある)\nsatsumaimo　幼　rjum:kjnu:imo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05475.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05475",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05475.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7383.83",
+      "7393.62",
+      "7403.16",
+      "7406.53",
+      "7420.91",
+      "7431.08",
+      "8302.55",
+      "8303.70",
+      "0248.00"
+    ],
+    "other_text": "54-76\n日本言語地図資料用紙　注記一覧\n質問番号　地図番号　176\n項目名　さつまいも　188\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ（6）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7383.83　カンショ　〈希〉　カライモ\n7393.62　カンショ　〈砂〉\n7403.16　satsumaimo　〈上〉　kju: kju: imo\n7406.53　satsumaimo　〈今〉　nju: kimo　〈左〉\n7420.91　satsumaimo\n7431.08　satsumaimo\n8302.55　カンショ　〈砂〉\n8303.70　カンショ　〈砂〉\n0248.00　hanji　〈ややめ〉　一部注記：一般の準処でない　(hanji)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05476.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M176Q188/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05476",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05476.tif",
+    "source_ljc_id": "LJC-M176Q188",
+    "source_map_numbers": [
+      "176"
+    ],
+    "source_title": "さつまいも (甘藷)"
+  }
+]

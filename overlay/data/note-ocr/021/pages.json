@@ -1,0 +1,927 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0873.94",
+      "2791.15",
+      "2794.85",
+      "2803.22",
+      "3688.82",
+      "3699.55",
+      "3761.74"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >() []は厳密にする。\n日本言語地図資料用紙 注記一覧 3-64\n質問番号 162 地図番号 021\n項目名 粗い\n(A)普通注記 (B 除いた共通語) (C 除いた特殊語) (1)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n0873.94 arai <普通「何寸目」と言う。>\n2791.15 are (普通、これを使うのではなかろうか) oki\n2794.85 are (普通は、これらしい。) oki\n2803.22 N.R. (漁師の生活にまい?)\n3688.82 okita <普通> okki\n3699.55 オッキ, メがオッキと言う。中々アレェが アレェ, 出てこなかったが、念をおして きいているうちアレェが出た。\n3761.74 omae <メについてだけ言う> → oome, 大目と解する。12-17.'65.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00364.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00364",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00364.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3795.33",
+      "4598.33",
+      "4609.07",
+      "4609.25",
+      "4609.54",
+      "4619.63",
+      "4628.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-65\n資料番号 地図番号 162 021\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (2)\n項目名 粗ひ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n〈メドが〉 オッキ　アレア\ndekai 〈希〉　arai\natsui 〈普通〉\narame nda.（粗目だ）とも言う　me okkeɭ\n*are.（最初の答は okke であったが are に訂正した。）併用と考えよいことにする。\narac 〈areとも言わぬ〉\no:me 〈一般〉〈古〉..(arameと較べて?)　arame\nare:, okki",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00365.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00365",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00365.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4638.43",
+      "4648.04",
+      "4665.87",
+      "4677.65",
+      "4679.65",
+      "4686.96",
+      "4689.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）[ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 3-66\n資料番号 162 地図番号 021\n項目名 粗い\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (3)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n4638.43.  [arappoe]\n4648.04  arappe: <古、希>\n4665.87  o:ki: (上)  arae <これをいちばん多く用いる>\n4677.65. o:ki: (やや改まれ場合ではあいかと思われる。)  arae\n4679.65. arle: <多く使う>  arappoe  dzune:\n4686.96. araTpoe <やや共通語的場面で>  dekoe\n4689.86  諸 ara e  o:ikṣi:  zümnaẽ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00366.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00366",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00366.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4694.26",
+      "4694.95",
+      "4700.78",
+      "4701.14",
+      "4710.55",
+      "4711.42",
+      "4714.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< 〈〉 〔〕は厳密にする。\n\n日本言語地図資料用紙 注記一覧 3-67\n質問番号 162   地図番号 021\n項目名 粗い\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (4)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n4694.26    dekke 〈多く用いる〉                                  arae\n4694.95    o:ki 〈共〉                                         dekke\n4700.78    o:me 〈新〉                                         are\n           o:maka 〈古〉\n4701.14    okkji: （釣は kj と c の中間）\n4710.55    arapoi （こういうことばはな やすりのめのを どのありい時に主として使う）    o:magadza\n4711.42    arai （ユ）                                       arame\n4714.68    usutte 〈網の目がまばらんと、うすいような感じがするからだと思う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00367.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00367",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00367.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4715.98",
+      "4732.86",
+      "4734.56",
+      "4741.43",
+      "4741.92",
+      "4742.37",
+      "4744.32",
+      "4760.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 3-68\n資料番号 162 地図番号 021 項目名 粗い\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (5)\n\n地点番号　A語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4715.98　usati\n4732.86　okkie <medo okkie とも言う> （網の目のこと）\n4734.56　usate\n4741.43　arappoi （[arai]）\n4741.92　arae <普通>　　　arapoe\n4742.37　alapoe [okke:j]\n4744.32　okki （158と同じことば）\n4760.32　（オッキ）…「目」が大きいの意（最初に登 アラポイ、アラポエ　それのがこれである。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00368.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00368",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00368.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4752.11",
+      "4772.48",
+      "4773.27",
+      "4783.74",
+      "5463.12",
+      "5472.31",
+      "5499.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-69\n資料番号 162 地図番号 021\n項目名 粗い\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (6)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4752.11 okke: 〈昔〉〈ぞんざいな言い方〉　okki:\n4772.48 o:gi: 〈古〉\n4773.27 okki: 〈arareは使わぬ〉\n4783.74 okkc: (160,161 同様。2rage まど は使わぬとのこと。)\n5463.12 オオキナ〈希〉　アライ、\n5472.31 オオメナ（大目な）\n5499.98 オーケー、158と同様、アライという語はあまりきかぬ、被調査者自身全然使わないとの事。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00369.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00369",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00369.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5569.36",
+      "5579.42",
+      "5611.39",
+      "5615.65",
+      "5615.78",
+      "5618.43",
+      "5621.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 3-70 質問番号 地図番号 162 021 項目名 粗い A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (7) 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5569.36 デカイ（アライは出なかった） dekai 5579.42 arai <普通> 5611.39 o:ki:（新） deTkae 5615.65 *aræ. はじめ o:ki:; dekæ と答え、後、訂正した。 5615.78 are: <一番多く用いる。> deTkoe <are: に次いで多く用いる。> o:ki:（希） 5618.43 arappe: <希> okke: 5621.43 dekai <古> arai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00370.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00370",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00370.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5622.48",
+      "5623.27",
+      "5623.42",
+      "5635.65",
+      "5641.73",
+      "5642.67",
+      "5644.74",
+      "5648.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〔〕（）は厳密にする。\n日本言語地図資料用紙　注記一覧　3-71\n質問番号　162　地図番号　021\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (8)\n項目名　粗い\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5622.48 arae\n5623.27 dekai, (3) [[dekai<音>, o:ki:]]\n5623.42 [arae] <共>    deke\n5635.65 アライ (共)\n5641.73 [arai]    dekai\n5642.67 dekae <驚いた時>\n5644.74 アレエ <共>\n5648.96 アライー (アライとは言いませんか) の　オオキイ、デカイ\n間に対して〈アライともいう〉と答えている。なお、アライは普…",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00371.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00371",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00371.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5655.57",
+      "5657.06",
+      "5657.73",
+      "5664.58",
+      "5666.18",
+      "5674.06",
+      "5679.86",
+      "5685.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉［］は厳密にする。\n日本盲語地図資料用紙注記一覧 3-72\n質問番号 地図番号 162 021\n項目名 粗\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] (9)\n地点番号    A語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C:残した語形とその注]\n通の言い方である。\nアライ（共）\nデカイ〈ナ〉\nオオキイ（共）\nアライ（共）\nアレエ〈下〉\nアライ（共）\nアレエ〈多〉\narae（荒）degae\ndekē:（最初にすぐ出るのはdekē:）arai\n（右側）アライ\n（右側）アライ.\n（右側）アライ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00372.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00372",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00372.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5687.86",
+      "5693.13",
+      "5703.68",
+      "5741.66",
+      "5761.27",
+      "5770.11",
+      "5782.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-73\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n質問番号 地図番号 162 021\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (10)\n項目名 粗い\n地点番号　A語形とその注記 [B・C除いた語形とその注]\nアライ <普通に用いる。>\nオオキイ <子供に対して>\nアレエ <古>\nアライ\nare: [新]\nokke: ~ okk:\no:ki:\nikai <方言的> cf.158\n*arae.\no:ki:\negae, (諸)arae\nare: <多い>\nege:, o:ki:;, dekke:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00373.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00373",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00373.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5782.94",
+      "5791.68",
+      "5792.02",
+      "5792.18",
+      "5792.62",
+      "5792.78",
+      "6277.62",
+      "6395.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    3-74\n質問番号　地図番号　162　021\n項目名　粗い\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5782.94　o:ki:　＜が一般に通ずる＞　arai\n5791.68　o:me　＜粗い目＞　uisuii　＜むりに形容詞を言えば＞\n5792.02　eke:　＜多＞　are:\n5792.18　eñe: , eは狭いe　are:\n5792.62　N.R.　cf/163.\n5792.78　are:　＜普通＞\n　　　　ijai　＜希＞\n6277.62　o:kename, OOKINAに入れてある, 47-?-2\n6395.61　ikaé　① futoi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00374.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00374",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00374.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6402.94",
+      "6403.60",
+      "6408.72",
+      "6415.23",
+      "6415.83",
+      "6420.58",
+      "6422.16",
+      "6429.61",
+      "6436.60"
+    ],
+    "other_text": "日本言語地区資料用紙 注記一覧 3-75\n質問番号 地図番号\n162 021\n項目名 粗い\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (12)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6402.94　オッケナ〈オッケナ目〉, OOKINAに入れてある (47.9.21)\n6403.60　(米)アラメ（荒ら目）　オッケナ、アライ\n6408.72　aræe ... AREEへ、分布から、TOKシルス。　o:ke:\n6415.23　arja:〈古〉　o:kii, arai\n6415.83　o:ki:（アライとは言わないと言ったか、あやしい）\n6420.58　オオケナメ、OOKINAに入れてある、47.9.21\n6422.16　オオケナ〈多〉　アライ\n6429.61　オオキイ〈希〉　アレア\n6436.60　アライ〈普〉　オオキイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00375.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00375",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00375.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6437.07",
+      "6446.05",
+      "6447.08",
+      "6456.23",
+      "6458.91",
+      "6460.10",
+      "6471.59",
+      "6482.52",
+      "6484.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    3-76\n\n質問番号　地図番号\n162　021\n項目名　粗い\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(13)\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n6437.07　オオキイ〈希〉　　アライ\n6446.05　アラェエ〈普〉　　オオケエ\n6447.08　o:ke: , メガ〜という　　arai\n6456.23　オケエ　　アネ:\n6458.91　オオキイ、坊勢島ではオオケエと言う。\n6460.10　arame〈多〉　　o:ke:\n6471.59　アラェ…arae: でなく、2.ra.e に近い。ARAIと考える。TOK? 25.12.17\n6482.52　arame-na〈多〉　　arai\n6484.43　オオケナ…オオケナメ　　アライ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00376.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00376",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00376.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6486.50",
+      "6491.65",
+      "6497.90",
+      "6504.99",
+      "6525.75",
+      "6526.04",
+      "6529.44"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-77\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n（右上の表） 資問番号 地図番号 162 021 項目名 粗い (A 普通注記) (B 除いた共通語) (C 除いた特殊語) ページ (14)\n\n地点番号    A語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n6486.50    オッキョイ、と言ってもよい。                アライ\n6491.65    arai <mendo> tarai  - komaiのように言う。\n6497.90    o:ki: (多く使う)\n           arai (少い)\n6504.99    ikai = ikai? dl (?)\n6525.75    ikai <araiはあまり使わない>\n6526.04    カライ (改めような気持の場合)\n           カラエ (自然な気持の場合)\n6529.44    arze … 分布から ara を同じにみる。 (注記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00377.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00377",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00377.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6529.15",
+      "6530.58",
+      "6547.09",
+      "6557.54",
+      "6567.79",
+      "6567.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-78\n質問番号 地図番号 162 021\n項目名 粗い\n(A) 普通注記 (B) 除いた共通語 (C) 除いた特殊語 ページ (15)\n\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A 注のない語形 (B・C 残した語形とその注)\n\n6529.15  イカイ <メカイ・イカイと言う>\n（イカイは、太い、長い、あらい、形が大きい等々の場合に使う。）\nアライ\n\n6530.58  オオキイ <希>\nアライ\n\n6547.09  arakutai <卑><かるい言い方>\narai\n\n6557.54  o:meda〈両方とも使うか; o:meda2 arai の方が「通」がいい〉\n\n6567.79  arai , このようなフルイを garame と言う。\n\n6567.86  okki: <連体形は okkina>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00378.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00378",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00378.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6571.15",
+      "6577.13",
+      "6603.08",
+      "6603.52",
+      "6604.60",
+      "6604.98",
+      "6607.68",
+      "6608.69"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　3-79\n質問番号　162　　地図番号　021\n項目名　粗い\n（A 普通注記）（B 除いた共通語）（C 除いた特殊語）　ページ（16）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n6571.15.　オオキイ（日常普通の発音ではオッキイであろう。）\n6577.13.　o:ki:　＜子供の時＞\n6603.08.　#アレエ [古]　　　　　　　　　　　　　　　アライ\n6603.52.　ahappoi（自分もこう言うことをあとで認める。）　　ikai\n6604.60.　＊デッカイ\n6604.98.　アリィイ（イはし）\n6607.68.　＊arai　　　　　　　　　　　　　　　　o:ki:\n6608.69.　arai＜古＞　　　　　　　　　　　　　　okki:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00379.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00379",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00379.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6611.61",
+      "6613.07",
+      "6617.75",
+      "6624.13",
+      "6624.65",
+      "6625.66",
+      "6631.53",
+      "6631.69"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 3-80\n資料番号 地図番号 162 021\n項目名 粗い\n(A) 普通注記\n[B] 除いた共通語  [C] 除いた特殊語 (17)\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\no:make: ＜普通によく使う＞\no:makai  オオキイ\n*アライ\n(古) デッケェ\n(新) アレェ\no:ki:, 少   arai\no:ki: 上   ikai\naræ: ＜希＞   dekæ:\no:ki: 新.   arai\no:kina 上   arai\nikai 希",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00380.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00380",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00380.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6633.33",
+      "6634.33",
+      "6636.05",
+      "6639.79",
+      "6641.82",
+      "6643.15",
+      "6643.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧   3-81\n資料番号　地図番号\n162　021\n項目名　粗い。\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]　(18)\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の< >()[]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6633.33.    ikai , 多く使う\n            arai  サ\n6634.33.    arai 多。\n            ikai\n6636.05.    arai 卑。\n            o:ki:\n6639.79.    okki: 〈アライ、コマカイは学校で習っ\n            たもの、日常は使わない.〉\n6641.82     o:ki: 〈araiとは言わない〉\n6643.15.    æræ: 新.\n            ikæ:\n6643.16.    arai  }\nooki: {上} ikai, ooki:の方がaraiよりも\nikai    よりさらに目が荒い。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00381.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00381",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00381.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6643.72",
+      "6645.37",
+      "6645.62",
+      "6650.94",
+      "6655.51",
+      "6655.87",
+      "6662.38",
+      "6697.39",
+      "6697.49"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく >< () [] は厳密にする。\n\n日本言語地図資料用紙 注記一覧    3-82\n\n資料番号 162　地図番号 021\n項目名 粗い\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(19)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6643.72　ikai - ときどき使う　arai\n6645.37　ikai <古>　arai\n6645.62　arapoe <希>　ikae\n6650.94　o:ki:, arai は言わない。\n6655.51　arai <多く使う>　ara'poi\n6655.87　de'ke: <特に目が大きい時>　ike:\n6662.38　o:ki:　上　ikai\n6697.39　o:ki: <上> {arai はごく最近のことば}\n　ikai\n6697.49　ikai <多く使う>　arai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00382.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00382",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00382.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6697.59",
+      "6698.20",
+      "6730.33",
+      "7239.41",
+      "7239.85",
+      "7258.58",
+      "7266.92"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 3-83\n質問番号 162 地図番号 621 項目名 粗い A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (20)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6697.59   ikai <呼>   arappol\n6698.20   okki: <多く使う>   arappol <共>\n6730.33   [are:]\n7239.41   araka <あらい目のふるいを jabure と言う。>\n7239.85   フトカ <メノアラカということはあるが、アラカ<希> フトカが普通だ。>\n7258.58   #＊アラカ   フトカ\n7266.92   φutoka, cf. araburi, 目のあらいふ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00383.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00383",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00383.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7302.87",
+      "7309.37",
+      "7326.41",
+      "7330.31",
+      "7342.72",
+      "7355.87",
+      "7361.82",
+      "7365.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧   3-84\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉（ ）[ ]は厳密にする。\n\n質問番号 162    地図番号 021\n項目名 粗い    (ページ (21))\n\n（表ヘッダ）\nA 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nるいのこと。\n\n（行ごとの注記）\nme-jare: -> (助詞を発音しない)\narae 〈古〉\na:re: 〈…〉\naraka 〈新〉\naraka 〈新〉\nare: 〈こういう時には、アレをも使うことが多い。〉\naraka 〈古〉\no:ki: 〈フルイの×なら、どちらでもいい。〉\nare: ,\n\n（右欄の表記）\no:ke:\nΦu:ti:\nhyutoka\nφutoka\nokki:, φutfi:\nφutoka",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00384.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00384",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00384.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7367.25",
+      "7372.27",
+      "7374.15",
+      "7375.37",
+      "7375.96",
+      "7381.38",
+      "7382.58",
+      "7384.16",
+      "7385.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 3-85 質問番号 地図番号 162 621 項目名 粗い A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 (22) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] are:- <okke:とも言うが、are:の方が okke: 普通の言い方> フテェ。〈親近語〉 フトカ〈新〉 are:〈多〉 arë: ë...説明書参照 アラカ（希） フトカ〈アラカは用いず〉 ※ arja:（常用語であろう） arë: , ë...説明書参照 右欄: フトカ フテェ 亜utswi: Fute:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00385.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00385",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00385.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7392.33",
+      "7394.60",
+      "7403.86",
+      "7421.62",
+      "7423.77",
+      "7391.01",
+      "7432.95"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-86\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n資料番号 162   地図番号 021\n項目名 粗い\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (23)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n7391,01    <?>フトカ.\n7392.33    #<?>フトカ,\n           <?>アラカ\n7394.60    アラカ〈希〉                     フトカ\n7403.86    Futoi (ちょうど同席していた子系の中学 生は \"arai\" という由。)\n7421.62    新. o:kii                        arai\n7423.77    Futoi (はじめの答)\n           *arai (新しい答)\n7432,95    更utoi〈好〉                      arai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00386.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00386",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00386.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7436.68",
+      "7461.77",
+      "7503.11",
+      "7503.48",
+      "7523.05",
+      "8229.96",
+      "8301.19"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の <　> (　) [　] は略筆にする。\n日本言語地図資料用紙 注記一覧    3-87\n質問番号 162    地図番号 021\n項目名 粗い\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] ページ (24)\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7436.68  *arai    ok:i:\n7461.77  亜utoi  <タ>\n7503.11  arae ([ai] 母音は [a:] となるはずだが\n    それだけで単独に言わせると、\n    [arae] となる.)\n7503.48  ara: <古>    araï\n7523.05  オッキィ  <この方が在来のことばかと\n    アライ 思う。>\n8229.96  araka <こまかに言い表わす時>    Futoka\n    フトカ\n8301.19  アラカ <希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00387.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00387",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00387.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "8305.73",
+      "8313.84",
+      "8325.56",
+      "8341.12",
+      "8342.69",
+      "8343.74",
+      "8344.71",
+      "8364.29"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧  3-88\n質問番号 地図番号 162 621\n項目名 粗い\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (25)\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]\n8305.73  [are:]\n8313.84  Eutoka <多>\n8325.56  okki: <新>\n        Futji: <古>\n        Fute: <古>\n\n8341.12  arame (arameとばかり答えてこまわ) araka\n8342.69  are <多>\n8343.74  are <上>\n8344.71  are <希>\n8364.29  Futji <Futjiで済ませることが多い> are\n\n（欄外の注記や小さな記号は一部略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00388.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00388",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00388.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "8363.51",
+      "9310.27",
+      "9313.55",
+      "0238.55",
+      "0265.96"
+    ],
+    "other_text": "日本音韻地図資料用紙 注記一覧 3-89\n調問番号 地図番号 162 021\n項目名 粗い\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語 (26)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n8363,51    are <希>\n9310,27    futoi <新>\n           futoka <古>\n9313,55    Futoka (カードには tfikka とあったのを araka 記入の誤りと認める。)\n           (手書き注記)\n           Futji\n0238,55    arasa <arami; あら目という表現を用いるのが普通>\n0265,96    #arahan (最初 arami (荒目) と答えていたのだが、ようやく…)\n\n（上記は原稿の読める範囲の逐語的転写。手書き部分は判読しにくい箇所あり。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00389.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00389",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00389.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "0275.97",
+      "0294.66",
+      "0294.93",
+      "0340.00",
+      "1213.76",
+      "1271.05",
+      "2074.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-90\n調査番号 162 地図番号 021\n項目名 粗い\n（A・[B]・[C]ごとに別紙を使用する。）\n（その中での情報は地点番号順に並べる。）\n（注記の＜　＞（）［　］は厳密にする。）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n(得れ形容詞。)\n0275.97 arahan <arahari という人もある.>\n0294.66 Fuisa <Fuisan という人あり、 arasa (希) <arasanという人あり.>\n0294.93 arasan. arasaでも終止する。\n0340.00 arasai (希)     ubisai\n1213.76 arasaji, arasaで終ることも多い。\n1271.05 ?araqan\n2074.69 arasa (arasadaruを終止形として使用するようである。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00390.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00390",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00390.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "3786.44",
+      "4609.07",
+      "4648.04",
+      "4676.67",
+      "4711.49",
+      "4724.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-91\n質問番号 162  地図番号 021\n項目名 粗い\nA 普通注記　除いた共通語　除いた特殊語　ページ (11)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n3786.44　オーギナメ（ダ）　アレァ\n4609.07　o:me　atsui(me)〈普通〉\n4648.04　aræ〈共〉　arappe:（右、希）\n4676.67　arae〈共、新〉　okki:\n4711.49　アラ(エ) -> アラエという終止形はほとんど\nど用いないが、アラメ（メのあら\nいこと）という様な場合はアラ\nという形をとるので、この様に\n記しておく。\n4724.75　aIae（共）　o:gi:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00391.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00391",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00391.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "4772.48",
+      "5614.62",
+      "5618.43",
+      "5631.16",
+      "5631.26",
+      "5631.75",
+      "5641.07",
+      "5642.31",
+      "5642.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 3-92\n質問番号 162    地図番号 021\n項目名 粗い\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)    ページ (2)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4772.48    arae〈新〉         o:gi:〈古〉\n5614.62    arae〈共〉         are\n5618.43    arae〈希〉         okke:\n5631.16    arai〈共〉         anappe:〈希〉\n5631.26    arai〈共〉         are:\n5631.75    arai〈共〉         dekkai\n5641.07    arai〈共〉         dekke:\n5642.31    o:me              arae\n5642.67    arae〈共〉         dekae〈驚いた時〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00392.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00392",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00392.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5652.22",
+      "5652.87",
+      "5653.60",
+      "5661.34",
+      "5671.00",
+      "5671.38",
+      "5672.67",
+      "5674.54",
+      "5693.78",
+      "5694.79"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 3-93\n質問番号　地図番号\n162　021\n項目名　粗い\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\n(3)\n（表の見出し）\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\narai <新> | o:ki:\narai <共> | are:\narae <共、上> | o:ki:\narai <上> | are:\narai <共> | are:\narai <共> | are:\narai <共> | aræ:\narai 共 | deke:, are:\nアライ <共> | デカイ\nアライ <新> | デッカイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00393.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00393",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00393.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5696.68",
+      "5723.36",
+      "5793.20",
+      "6409.72",
+      "6420.58",
+      "6429.30",
+      "6460.10",
+      "6469.77",
+      "6500.83",
+      "6517.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-94\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉［］は厳密にする。\n質問番号 162　地図番号 021\n項目名 粗い\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(4)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n5696.68　aral〈共〉　dekai, o:ki:\n5723.36　arae〈新〉　okke:\n5793.20　o:me（名詞）　ike:\n6409.72　アライ〈共〉　アレア\n6420.58　アライ〈新〉　オオケナメ\n6429.30　アライ〈共、希〉　アレア\n6460.10　arai〈少〉　o:ke:; arame〈多〉\n6469.77　アライ〈共〉　オオキイ, オッキョイ\n6500.83　アライ　aræ:\n6517.65　〈共〉アライ　アレエ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00394.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00394",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00394.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6549.03",
+      "6562.22",
+      "6571.15",
+      "6577.13",
+      "6600.97",
+      "6604.60",
+      "6613.77",
+      "6615.09",
+      "6586.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧    3-95\n\n資料番号 162   地図番号 021\n項目名 粗い\nA 普通注記   B（除いた共通語）   C（除いた特殊語）  ページ (5)\n\n地点番号    A語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n6549.03    arai〈共〉                      are:\n6562.22    アライ〈上〉                    オッキイ\n6571.15    ＃アライ〈言わぬことも多い〉    オオキイ（日常普通の発音では、オッキイであろう）\n6577.13    arai〈今〉                      o:ki:〈子供の時〉\n6586,32    arai〈上〉                      arakutai\n6600.97    arai                           o:kii\n6604.60    アライ〈共〉                    ＊デッカイ\n6613.77    アライ〈共〉                    デッカイ\n6615.09    アライ〈共〉                    デキャア",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00395.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00395",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00395.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6623.53",
+      "6624.65",
+      "6632.88",
+      "6634.07",
+      "6634.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本官地図資料用紙 注記一覧 3-96\n\n資料番号 162    地図番号 021\n項目名 粗い\nA 普通注記 (C 除いた特殊語) (6)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6623.53    arai〈希〉    o:ki:; 最初tjisai? あったが、カードの記入誤りと認める。TOK シルス。\n6624.65    arai 上.    ikai    o:ki: 上\n6632.88    arai 上.    o:ki: 上    ikai\n6634.07    arai 希.    ikai\n6634.32    arai 希    ikai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00396.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00396",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00396.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6635.20",
+      "6635.54",
+      "6636.62",
+      "6641.43",
+      "6642.33",
+      "6645.07",
+      "6646.74",
+      "6650.12",
+      "6650.70",
+      "6651.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 3-97\n質問番号 162 地図番号 021\n項目名 粗い\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (7)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[] は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6635.20    arai 新        o:ki, de'kai\n6635.54    上. areze     dekeze\n6636.62    area <上>     dekea\n6641.43    arai <新>     dekai, o:ki:\n6642.33    arai 上       ikai\n6645.07    arai 新.      dekai\n6646.74    arai <上>     dekai\n6650.12    o:me          arai\n6650.70    arai <希>     o:ma'kai\n6651.32    arai <新>     o:ki:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00397.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00397",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00397.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6652.30",
+      "6652.77",
+      "6653.30",
+      "6655.87",
+      "6665.99",
+      "6655.97",
+      "6661.02",
+      "6662.07",
+      "6665.07"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧    3-98\n\n質問番号 162    地図番号 021\n項目名 粗い\nA 普通注記    B 除いた共通語    C 除いた特殊語    ページ (8)\n\n地点番号    A語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C残した語形とその注）\n\n6652.30    arai 新    ikai\n6652.77    arai 上    ikai\n6653.30    arai 上.    ikai\n6655.87    arai ＜希＞    ike:\n6665.99（取消線） arai    de'ke: ＜特に目が大きい時＞\n\n6655.97    arai 希    o:ki:\n6661.02    arai ＜希＞    o:ki:\n6662.07    arai .上    ikai\n6665.07    arai 上    ikai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00398.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00398",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00398.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6711.60",
+      "7259.22",
+      "7325.57",
+      "7374.15",
+      "7416.34",
+      "7430.15",
+      "7430.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 4-1\n資料番号 162　地図番号 021\n項目名 粗い\nA 普通注記 （B除いた共通語） （C除いた特殊語） ページ (9)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nare・〈上〉\naraka〈といってもわかる〉\narai-〈上〉\n[アリャア]\n\n〈新〉arai\n希, arai\narai 上.\n\n右欄（注記・残した語形等）:\no:ki:\nEutoka\nara:-\nフテエ,\nフトカ〈新〉\nokei\nFutoi\no:kii",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00401.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M021Q162/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00401",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00401.tif",
+    "source_ljc_id": "LJC-M021Q162",
+    "source_map_numbers": [
+      "021"
+    ],
+    "source_title": "あらい (粗い)"
+  }
+]

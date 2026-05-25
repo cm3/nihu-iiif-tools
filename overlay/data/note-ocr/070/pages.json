@@ -1,0 +1,327 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-74\n調査番号　地図番号\n100　70\n項目名　貸す　100\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n\n地点番号　A　語形とその注記　A 注のない語形\nkasu. <motteke が一番多い>\nkafitejaru. (kasuの形は出ない)\nkasitejaru. <ただ kasu は使わない>\nkasitejaru ((kasi とはあまり言わない)という)\nkasu (kasitejaru も)\nkaseru. 〈希〉 (昔は kaseru を多く使ったが、今は kasu.)\nkasu を使うことが多い\nkasu. kaseru. 差はわからない.\nkasu 〈古一類〉\nkaseru. 〈古一類〉 うらを使うことが多いかもしれない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01674.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01674",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01674.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) は厳密にする。 日本音語地図資料用紙 注記一覧 16-75 資料番号 100 地図番号 70 項目名 貸す 100 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2) 地点番号 A語形とその注記 A注のない語形 4694. 26 kaseru. (「外にありませんか」の問に対する答え) <kaseruという方が多い> 4695. 19 kaselu. カス. (くずれも用いる) 4715. 98 kasitejam. (単独で「貸す」とだけ言うことは実際はないようだ) 4716. 20 kasitejam. (単純なカスという語形はあまり... ただし過去形のカシタのような形あり) 4723. 58 kasitejam. (単独のカスを引きずることが不可能だった) 4724. 00 kasuu <ほとんど食の語でだけである> 4724. 75 kasitejam. (単独で「貸す」とだけは言えないようだ) 4745. 27 kasitejam. (「利」がどうしてもついてしまう)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01675.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01675",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01675.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本語地図資料用紙 注記一覧 16-76\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n資料番号 100 地図番号 70\n項目名 貸す 100\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3)\n\n地点番号　A 語形とその注記　A注のない語形\n4763. 45 kas?? (kasftejalum とだけいうことが多い)\n4763. 62 kajtejalum (草根のカスはひとえもなかった)\n5462. 57 ケエタ　〈多〉\n5548. 24 kaseru. kasu.　〈どちらも使う〉\n5557. 85 kaseru　〈古〉\n5558. 09 kasu　〈希〉\n5588. 78 カセル (カセルの方が普通のことば)　カス。\n5605. 11 kasm. kasera.　〈同じように使う〉\n5606. 83 kasm.　( kasermuとはえわぬ )\n5615. 78 kasm.　〈kaseruとはえかわる〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01676.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01676",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01676.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-77\n資料番号　地図番号\n100　70\n項目名　貸す　100\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\n(4)\n\n地点番号　A 形形とその注記\n5622. 88　N.R. (返す意味の[hasu] [kaseru]のみ答えて、貸すにあたる語は引きあてなかった。)\n5624. 05　kaseru. (これも使うことが多いといった。)\n　　　　kasu. (kasuが共通語的場面に使う新しいものかどうかは明らかでない。)\n5625. 91　kaseru. (はじめ kasu と答えたが 訂正した)\n5635. 65　カス (共)\n5644. 74　カス (共)\n5652. 22　kase te jaru. (kosu. kaseru 両用)　kasu.\n5652. 81.　kaseru. kajitejaru. kajite kureru.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01677.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01677",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01677.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-78\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( )は厳密にする。\n（上部の記入欄）管理番号　100　地図番号　70　項目名　貸す　100　A　普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (5)\n\n地点番号　　A語形とその注記　　A注のない語形\n\n(「カリに来たらどうしますか。どうすると言いますか」という問いに対しては答として一語一語のように答えていると（性別は不明）)\n\n5655. 57　カス　（共）\n5657. 73　カス　（共）\n5666. 18　カス　（共）\n5669. 12　kafte jatta　（拡張形）\n5669. 96　kafte jarü　（拡張形）\n5671. 00　kajitejaru　（会話の中からとらえたもの）（単独）kaseru\n　（=kasuという形は便われていないと思われる）\n5672. 52　kasu・kaseru　（両方を同じ意味で使う）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01678.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01678",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01678.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は敬称にする。 日本言語地図資料用紙 注記一 16-79 調査番号 地区番号 100 70 項目名 貸す 100 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (6) 地点番号 A 音形とその注記 A注のない語形 5680. 98 kaseru. kasu. （両用。区別なし） 5681. 47 koseru. kasu. （どちらも同じように使う） 5687. 86 カス（099と同じく、…オカンタなどの用例ありが、カスの用例不明。最初の音はカレチャル） 5688. 01 カレチャル。（099と同じく質問が進展せず、カスが出ない。質問により、カスは使うという答があったが） 5688. 86 カス（先方が何にも言わない時、こちらが呼ぶ）。 また、オカレマスがという、従ってカスを挙用 5690. 12 kaseru, kafite jaru（kasuという単語は使われていない）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01679.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01679",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01679.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "A・〔B〕・〔C〕ごとに別紙を使用する。 その中での語順は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 16-80 質問番号　地図番号　100　70 項目名　貸す　100 A 普通注記 (B 除いた共通語) (C 除いた特殊語) （7） 地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） kasu 《[çitokkiri kajite kunne: ko] na》 どという。 kasu.（誘導） kafte jarüü（拡張形） kafte jarüü（拡張形） kafta（過去形） kasermu（多） kasermu＜古＞ kasu＜多＞。 kasermu＜少＞ カセル。（こちらから方言を聞いたもの。この方が多い　カス…） らしい。否定形はカカリよりカセンが多いと本人は言った。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01680.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01680",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01680.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は略記にする。\n\n日本言語地図資料用紙　注記一覧　16-81\n調査番号　100　地図番号　70\n項目名　貸す　100\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語)　ページ（8）\n\n地点番号　A 語形とその注記　A 注のない語形\n6416. 58　カセル（下一段）（多く使われる）　カス（四段）\n6417. 72　kaseru.　（カスとは言わない）\n6427. 93　kaseru　＜下＞　kasu.\n6428. 26　カセル・カス　＜同じぐらい使う＞\n6429. 15　カセル　＜希＞　カス\n6435. 68　カス　＜昔＞　カセル.\n6444. 62　カセル　＜著＞　カス\n6446. 05　カセル　＜普＞　カス\n6453. 64　カス　＜現在はこの言い方も使う＞\n6462. 52　カレテアゲル（単純で「貸す」という言い方はなかった）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01681.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01681",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01681.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6462.59",
+      "6487.43",
+      "6526.08",
+      "6555.31",
+      "6558.10",
+      "6567.79",
+      "6568.09"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-82\n官問番号　地図番号\n100　70\n項目名　貸す　100\nA (普通注記)　[B 除いた共通語]　(C 除いた特殊語)　ページ (9)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は略字にする。\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n6462.59　カレタル　(もどす、かえるなど言って、別所と同じく正答をえず)\n6487.43　カス　〈カンテアル〉\n6526.08　カセル　〈椵〉？　カス\n6555.31　kajitejaru.　(kasuよりふつうのいい方のようだ)\n6558.10　kaitejaru　(派生形しか得ることが出来なかった が、kasiiもあるものと思われる。)\n6567.79　kasemu　〈右〉　kasu.\n6568.09　(初期調査者は (kajitejaru) であって、kasiuはないというが、みとるくあ るものと思われる。常丁は kasiu)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01682.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01682",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01682.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略語にする。\n\n日本言語地図資料用紙 注記一覧 16-83\n（右上の表） 資問番号 地図番号\n100   70\n項目名 貸す 100\nA（普通注記）\n(B 除いた共通語)\n(C 除いた特殊語)（10）\n\n（表ヘッダ）\nA 語形とその注記　A 注のない語形\n\nカシタル。〈カスとのみはいわね〉\nkasu. 〈はじめ「カス」（...）と言ったが、訂正した。009の「る」が頭に残っていたか〉\nkasu（kaisaru（貸してやる）をもっと多く使う）\nkasu.（[kasu]と答えてから〈kafitejarube：nanteju：〉と言った。）\nkaseru. kajiru. 同じ程度に使う。\nkaserum. 〈土地の外の人はkafimuとも言う〉\nkajiru. kaseru. 同じ程度に使う。\nkasu. kaseru. 同じ程度に使う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01683.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01683",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01683.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞()は厳格にする。 日本言語地図資料用紙　注記一覧　16-84 資料番号　地図番号　100　70 項目名　貸す　100 A　普通語　(B　除いた共通語)　(C　除いた特殊語) 地点番号　A 語形とその注記　A 注のない語形 6667. 81　kaso　（終止形） 7352. 14　カス　（過去形はケエタ） 7373. 92　カス　（キャアタ（強したなどという形が通俗的）） 7382. 58　キャアタ（話した）（努力したが単純の現在形をひき出しえなかった。） 7394. 85　kasu　〈貸してくれ・ke:te:kure〉 7508. 27　kaisaru（貸してやる。貸すの対応形 得られなかった。） 7523. 74　kajitaru.　kajitaruという〈kasuといわず〉という意あり",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01684.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01684",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01684.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-85　調査番号　地図番号　100　70　項目名　貸す　100　（B　除いた共通語）（C　除いた特殊語）（12）\n地点番号　A 語形とその注記　A 注のない語形\n8303. 47　カス　（実際はキャアタのような形をとる）\n8311. 41　kasu:　（kasutのゆるんだ形）\n8312. 75　kasut:　（カスルという下に受動詞の入声形）\n8352. 40　kasut　（入声化することが多く下行の段の下二段化を促す。）\n8361. 31　kasut　「貸す」の下二段化、「貸する」の入声化。\n6265. 96　karafu., karafui.　（終止形の語尾の二形）\n（については021と022の注〈〉を参照）\n0275. 97　karafuri., karafuri\n語尾の違いは021.022.023の注を参照。\n0276. 50　karasi., karafun　（karafuiより派生か）\n（語尾の違いについては021.022の注参照）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01685.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01685",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01685.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-86\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )は厳密にする。\n\n項目番号　地図番号　100　70\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)　(13)\n\n地点番号　A　語形とその注記\n0294. 66　Fa:ʃun （但し外金を賃するのは jo:suneiu）\n0298. 93　Fa:jun. Fa:jumu　両形 2分2分\n1231. 72　kara/sur　〈新〉\n2151. 20　karasi　〈新〉\n\nA注のない語形（右欄注記）: φa:ʃun.　iza:si",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01686.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01686",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01686.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-87\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n質問番号　100　　地図番号　70\n項目名　貸す　100\n\nA 普通注記　　[B 除いた共通語]（囲み）　　[C 除いた特殊語]\n\n（表ヘッダ）\n地点番号　　語形とその注記（B・C除いた語形とその注）　　A中の注記（B・C除した語形とその注）\n\nKASU　（新）、（新しい語であろう）　　kaseru（「他にありませんか」の向け）　対する語（kaserumuという方が多い）\nカンタ　＜過去＞　　カス\nカセル　＜新＞　　カシェル\nカス　＜失＞　　カシェル\nカス　＜ヒ＞　　カセル\nカス　（希）．（共）　　カセル\nKOSMU　＜共＞　　kaseru\nカンタ　　カス\nKASIII　＜おおげさかな言い方＞　　kaseruu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01687.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01687",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01687.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6427.27",
+      "6439.01",
+      "6529.15",
+      "6559.22",
+      "6559.46",
+      "6559.67",
+      "6625.17",
+      "6635.54",
+      "6643.16",
+      "6652.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 16-88\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n調査番号　地図番号\n100　　　70\n項目名　貸す　100\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語) (2)\n\n地点番号\n6427.27　kasu　〈リ〉　kaseru.\n6439.01　カス　〈共〉　カセル.\n6529.15　カス　〈共〉　カセル.\n6559.22　kasuu　〈共〉　kaseru.\n6559.46　kasu　〈共〉　kaseru.\n6559.67　kasu　〈共〉〈髪分あるまったときに使う〉　kaseru\n6625.17　kasu　〈希〉　kaseru\n6635.54　kasu　上.　kaseru\n6643.16　kasu　上.　kaseru.\n6652.30　kasu　希　kaseru.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01688.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01688",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01688.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-89\n資料番号　100　　地図番号　70\n項目名　貸す　100\nA　普通注記　　ページ\n[B　除いた共通語]\n(C　除いた特殊語)　(1)\n\n地点番号\n0747. 70  kasitejaru.　　　　kasu.〈mottekeが一番多い〉\n3744. 33  スマス.（返す）（割りにのだから、返すというにもらに\n　　　　なったろ(い)）\n3747. 91  カスカンサー　　　　カス.\n4609. 54  kajitejaru.　　　　kaji\n4659. 50  カシテヤル　　　　　カシ\n4710. 55  kasūtejaru.　　　　kasū\n4724. 00  kasitejaru.　　　　（kasōta、ほとんどが全の自分だけであろう）\n4731. 42  [kasūtejaru]　　　　[kasū]\n4740. 26  kasūtejaru.　　　　kasin",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01689.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01689",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01689.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-90\nA・[B]・[C]ごとに別紙を使用する。\nその中での語釈は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n（右上の箱）\n項目名　貸す　100\n（A　普通注記）（B　除いた共通語）（C　除いた特殊語）\n\n地点番号　──　一語形とその注（B・C除いた語形とその注）　──　A・B・C除いた語形とその注\n4750.　32　クステヤル。　　　　　　　　　　　　　　　カス。\n4751.　42　kasiüte jagru (?)　　　　　　　　　　　　kasiü\n5603.　88　ngsu.　　　　　　　　　　　　　　　　　　kasu.\n5676.　84　エウズウ　オツケル　（全銭の場合のみ）　　カス.\n5677.　28　ナス．〈借りたものをもとへ返すとき〉　　　カス\n5678.　33　ナス．〈借りたものを返すこと〉　　　　　　カス．借りに来たから貸す.\n5693.　78　イロオ　〈古〉　OF　　　　　　　　　　　　カス\n6349.　67　カシテアゲル　〈ヒ〉　　　　　　　　　　　カシタ\n6358.　43　カシテヤル　　　　　　　　　　　　　　　カス.\n6422.　16　カセタ　　　　　　　　　　　　　　　　　カセル（?）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01690.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01690",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01690.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語根は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　16-91\n資料番号　地図番号　100　70\n項目名　貸す　100\nA　普通注記\n[B]　除いた共通語\n(C)　除いた特殊語　ページ（3）\n\n（表見出し）語形とその注（B・C除いた語形とその注）　残した語形とその注\n\njo:datsüu\tkaseru.\nカセテアゲタ\tカセル.\nkaseru　〈ヒ？〉\tkasū\n(カシタゲル)\tカス\nカシタゲル.\tカス\nカシチャル.　〈多く使う〉\tカス.\nkajitaru　〈どちらかといえば; kajitanuの方がふつうのいい方である。〉\tkasu\n\nカシチャル.\tカス.\nkaitageru\tkasm",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01691.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M070Q100/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01691",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01691.tif",
+    "source_ljc_id": "LJC-M070Q100",
+    "source_map_numbers": [
+      "070"
+    ],
+    "source_title": "かす (貸す)"
+  }
+]

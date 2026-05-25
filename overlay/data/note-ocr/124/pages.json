@@ -1,0 +1,1108 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1699.14",
+      "1706.82",
+      "1719.38",
+      "1739.85",
+      "1761.74",
+      "1762.10",
+      "1763.60",
+      "1770.18",
+      "1862.52"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()は厳密にする。\n\n日本言語地図資料用紙　注記一覧　32-86\n\n[枠内]\n質問番号　066　/　地図番号　124\n項目名　くすり指\n(A) 普通注記　ページ\n(B) 除いた共通語\n(C) 除いた特殊語　(1)\n\n表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nベニサシユビ　誘\nベニサシユビ　＜古＞　　　　クスリユビ\nベニツケユビ　＜古＞　　　　クスリユビ\n＜benijumbiは聞いたが使わない＞　　　　kusurijumbi\nベニサシュンビ（せがい？）　　　　クスリュンビ\nベニサシユビ（飾に使う）　　　　クスリユビ\nクスリユビ　＜べ＝サシとはいわない＞\nベニサシユビ　＞どちらも使う\nベニツケユビ\n\nベニサシユビ（べはどに近い発音）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03286.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03286",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03286.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1863.48",
+      "1867.15",
+      "1942.03",
+      "2608.90",
+      "2649.79",
+      "2712.33"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での音標は地点番号順に並べる。\n注記の< > ( ) は厳密にする。\n\n日本言語地図資料用紙　注記一覧　32-87\n質問番号　地図番号　066 / 124\n項目名　くすり指\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語) (2)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n1863.48　ベニツケユビ　ベニサシユビ　ベニユビ　〈少い〉　}　クスリユビ\n1867.15　NR　〈この指には名前がない〉\n1942.03　be'nijuw'bi くるときの時〈今はす〉　ku'surijumbi 〈多〉\n2608.90　クスリユビ〈ベニサシユビは知らない〉\n2649.79　ベニサシユビ（新）他に聞くことがある　クスリユビ\n2712.33　ベニサシユビ（最近は次第に使わなくなったようだ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03287.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03287",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03287.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "2731.97",
+      "2763.28",
+      "2771.64",
+      "2783.48",
+      "2785.31",
+      "2791.80",
+      "2792.07",
+      "2792.40",
+      "2795.72"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-88\n資料番号 地図番号 066 / 124\n項目名 くすり指\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語 (3)\n\n地点番号 A 音形とその注記 (B・C除いた語形とその注) A注のない活形 (B・C 残した語形とその注)\n\nベニサシユビ <多>\nクスリユビ\n\nNR <kusirijumbiという語を聞いたことがある>\nkusurijumbi <この語。学校で教わる>\nbenitsijkejumbi <新>\nkusirijumbi <新>\nNR <kusirijumbiという語。自分では使わないが聞けばわかる>\nNK <名無し>\n特に言わぬ (客の人は Kusirijumbiと言った)\nkusirijumbi <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03288.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03288",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03288.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3701.37",
+      "3702.24",
+      "3702.81",
+      "3705.47",
+      "3721.37",
+      "3736.03",
+      "3736.58",
+      "3737.32"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙 注記一覧 32-89\n調査番号 066 地図番号 124 項目名 くすり指\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nkusirijumbi<?>（普通使わない様子）\nNK <名無し>\nNR [kisitijumbi<?>]\nisabondzijumbi（医者方主指の裏で薬をかきまわすからこういう）\n\njuteto tibi 64.65.66 共通\nカンスロ（古）\n[クスリユビ]（この語を余り使わないのでなかなか思い出せなかった）\nクスリユビ（この話もとない。学習に覚えたいという）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03289.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03289",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03289.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3746.09",
+      "3746.41",
+      "3754.76",
+      "3757.09",
+      "3760.93",
+      "3786.44",
+      "4609.54",
+      "4652.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-90\n資料番号　地図番号\n066　/　124\n項目名　くすり指\nA 普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に従べる。\n注記の＜＞（）は略称にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n3746.09　benisajūbi ＜古＞　nanasijūbi\n3746.41　ベニサスユビ（古）　クスリユビ\n3754.76　クスリユビ（＜せは音はベニサスユビとも言ったようである＞）\n3757.09　kusū'rījub i　語\n3760.93　kusurijum~bl ＜希・新か＞\n3786.44　NR ：この方が“な...”という、知らないようであった。\n4609.54　kusori jobu しくも（共通）\n　　　kusūrl jobu しく今？\n4652.79　bentsutte jubi (注: kusurijūbi による英語訳?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03290.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03290",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03290.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4653.47",
+      "4654.52",
+      "4666.99",
+      "4684.77",
+      "4689.86",
+      "4731.15",
+      "4742.95",
+      "4744.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-91 資料番号 066 地図番号 124 項目名 くすり指 (A 普通注記)(B 除いた共通語)(C 除いた特殊語) (6)\n4653.47 NR(065におけると同じように薬指は特に名づけていうような必要な指であると言った。)\n4654.52 bensa; sibi <古ー現>\n4666.99 NR 単に jubi と言う。\n4684.77 Kusuri jubi. ju の u 音はかすか。\n4689.86 kusuri jumbi でなく。\n4731.15 DK (旧席にいた同年輩の村間人によれば kuw'suri'jumbi)\n4742.95 efabo:dzu <2> <稀>\n4744.32 kustli jwbi (クスリエビとはならない)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03291.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03291",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03291.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4760.98",
+      "5499.98",
+      "5537.99",
+      "5538.33",
+      "5547.96",
+      "5574.86",
+      "5591.91",
+      "5598.67",
+      "5602.99"
+    ],
+    "other_text": "• A・[B]・[C]ごとに別紙を使用する。\n• その中での情報は地点番号順に並べる。\n• 注記の< >()は厳密にする。\n日本言語地図資料用紙 注記一覧 32-92\n資料番号 地図番号 066 / 124\n項目名 くすりな\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語)\nページ (7)\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A 注のない語形 (B・C 残した語形とその注)\n4760.98  kuswri jumbi  りは十分でない。\n5499.98  ベニユベ ・紅をこの指でつけたためか\n5537.99  benijubi 〈希〉\n5538.33  bensa s t ebi (古)\n5547.96  ベンサスイビ  スイ = si\n5574.86  kuswri jumbi  優位  bensa じ\n5591.91  ベ=サシイビ ・べ=サシとユユビの時だ け(イビ)という。\n5598.67  べ=サシユビ〈共〉\n5602.99  kusuri ebi 〈くす〉  kusuri jumbi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03292.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03292",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03292.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5606.83",
+      "5615.65",
+      "5649.53",
+      "5669.76",
+      "5680.34",
+      "5688.01"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　32-93\n質問番号　066　地図番号　124\n項目名　くすりばな\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n（表見出し）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nkusurijobi <新>　　　　kusuribi\nkusuriebie <他の人は kusoriebie とも言う>\nイシャユビ <古>\n　クスリユビ <現・多>（クスリユビとは……）\n　せんかいの間に対して「クスリユビともいう」と答えている。なお、現在はクスリユビの方を多く使う。\nksüriteb+t <古>　　　　ksürit + b t\nkusurijumbi（古かしほ名がなかった）\nべ＝サシイビ、クスリイビ（クスリ/びは普通の…）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03293.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03293",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03293.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5696.54",
+      "5712.70",
+      "5791.68",
+      "5793.20",
+      "6338.99",
+      "6373.84",
+      "6376.33"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記 — 32-94\n資料番号 地図番号 066 / 124\n項目名 くすりな\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9)\nことば、ベニサシイは年配の人で洒落た人、上品な人のことば\n(以下各地点のメモ)\n5696.54 NR <名前はなさうに思う>\n5712.70 kusürijumbi (ちょっとまよう)\n5791.68 bepi;jumbi [bepitsüke;jumbi] <他>\n5793.20 be'nitsüké;jibi これは狭い e\n6338.99 <NR> <言ったことが無い>\n6373.84 NR <知らぬ?>\n6376.33 benisa[j;jumbi] (複調査者の差の答えたものに同感)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03294.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03294",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03294.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6378.87",
+      "6379.67",
+      "6385.28",
+      "6388.52",
+      "6396.08",
+      "6396.62",
+      "6402.94",
+      "6403.60",
+      "6409.72",
+      "6410.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 32-95\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n質問番号 地図番号 066 124\n項目名 くすり指\n備考注記 (B 除いた共通語) (C 除いた特殊語) (10)\n\n地点番号  A 語形とその注記（B・C除いた語形とその注）  A注のない語形（B・C 残した語形とその注）\n6378.87 ベニサシユビ（古）    クスリユビ\n6379.67 ベニサシユビ（古）\n6385.28 ndna(sijumbi) [benisasijumbi ... 村長の言]\n6388.52 [kusurijumbi] .... (同/殿の被調査者の妻)\n6396.08 NR [benisumbi]\n6396.62 ベニサシユビ（古）\n6402.94 ベネサシ（ベネ＝ベ＝）\n6403.60 [クスリエビ]（薬指）\n6409.72 ベニサシユビ＜古＞    クスリユビ\n6410.77 ベネサエビ（紅は指）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03295.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03295",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03295.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6418.13",
+      "6418.75",
+      "6419.3",
+      "6424.89",
+      "6426.04",
+      "6427.93",
+      "6428.26",
+      "6429.65",
+      "6430.53",
+      "6419.09"
+    ],
+    "other_text": "日本言語地図資料利用紙 注記一覧 32-96 質問番号 066 地図番号 124 項目名 くすり指 共通語注記 ページ (11) 見出し: 地点番号 / A 語形とその注記（B・C 欄いた語形とその注記） / A 言いたい語形（B・C 残した語形とその注記） A欄などの記入: ベニサシユビ〈笑〉, クスリユビ〈新〉 ベニサシビ〈古〉, ベニサシユビ〈笑〉, be'nii ibe 湯原阿栄 豊栄 kusu riibe riibe, kusurijumbi〈多〉, benisaji〈上〉, ベニサシビ〈古〉, ベニサシユビ〈笑〉, クスリユビ〈希〉, ベニサシユビ〈古希〉 右欄の記入: ビネサシイビ, ベニサシイベ, benisajijumbi, kanjijumbi, べニサシユビ, べニサシイベ その他印刷文: A・B・Cごとに別紙を使用する。その中での作業は地点番号順にそろえる。注記のくく（ ）は厳密にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03296.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03296",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03296.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6436.33",
+      "6437.07",
+      "6439.17",
+      "6440.25",
+      "6441.55",
+      "6446.05"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　32-97\n資問番号　地図番号　066／124\n項目名　くすり指\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ（12）\n\n（表見出し）\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nkusurijubi（〈他〉）\nクスリイベ〈老人相互〉　　　クスリイベ\nna'ka'subi（被調査者はどう）ともナカユビだという。同帯した被調査者の弟は、や Kusuri jubi だという。この被調査者の弟は、出身はここだが、宮津に永く住んでいる。\nベニサシユビ（希）　　　クスリユビ\nカニツナイビ・ベニツケイビ（この時はユビ）　両方とも をイビと発音せり\nベニツケユビ（葉）　　　クスリユビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03297.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03297",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03297.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6447.08",
+      "6447.84",
+      "6448.61",
+      "6452.17",
+      "6453.59",
+      "6453.64",
+      "6463.73",
+      "6464.77",
+      "6466.41",
+      "6472.53"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　32-98\n質問番号　地図番号　066　124\n項目名　くすりよる（手書き）\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (13)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6447.08　NK〈名はないという。夫会か〉\n6447.84　NR〈昔から名を聞かぬ〉\n6448.61　クスリビ〈古〉　　　クスリユビ\n6452.17　ベ＝サシュビ　（…か記とに記されていた）\n6453.59　ベ＝サシュビ　古　　クスリユビ\n6453.64　ベ＝ユビ〈こちらをよく使う〉\n6463.73　ベ＝サシュビ（古）\n6464.77　ベ＝サシュビ〈若〉\n6466.41　ベ＝サシュビ〈古〉\n6472.53　ベ＝サシュビ・女　クスリユビ…男",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03298.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03298",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03298.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6476.92",
+      "6477.02",
+      "6485.14",
+      "6485.30",
+      "6485.46",
+      "6485.82",
+      "6487.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（ ）は略記にする。\n\n日本言語地図資料用紙　注記一覧　33-01\n（欄）資料番号 066　地図番号 124　A 普通注記\n項目名　くすりな?\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6476.92　NR（特別にこの指の名を言わない。）\n6477.02　クスリイビ〈新〉\n6485.14　ベニユビ（これは女の方でいうことばで男はあまりいわない。）\n　　　　ベニイビ〈古〉　ベニサシイビ〈古〉\n6485.30　クスリイビ（始めは知りませんといったが「なお問うた。」）\n6485.46　クスリユビ（これはイビではない。）\n6485.82　ベニサシイビ〈女の子が使う〉　クスリイビ\n6487.43　ベニサシユビ〈女だけが使う。男は余り用がない〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03301.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03301",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03301.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6487.66",
+      "6491.49",
+      "6491.65",
+      "6500.83",
+      "6504.44",
+      "6505.58",
+      "6507.48",
+      "6507.72",
+      "6509.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。 日本言語地図資料用紙 注記一覧 33-02 資料番号 066 地図番号 124 項目名 くすりまな A 共通注記 [B] 除いた共通語 [C] 除いた特殊語 (15) 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注） いから使うことも少い。 6487.66 クスリュビ（新） 6491.49 kusuriibi（はじめはく知らんがのうといっていた） 6491.65 kusurijumbi〈希〉 6500.83 ベ＝サシィビ（やっち） 6504.44 benisaji（優先） bensaji 6505.58 ベ＝サシュビ〈笑〉 ベ＝サシイビ 6507.48 NR（名前がない。） 6507.72 クスリユビ（新・美）（音は名前がなかったように思う） 6509.43 クスリイビ〈希〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03302.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03302",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03302.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6509.91",
+      "6511.85",
+      "6512.14",
+      "6519.67",
+      "6521.17",
+      "6522.79",
+      "6526.45"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 \nその中での情報は地点番号順に並べる。 \n注記の＜＞（　）は厳密にする。\n\n質問番号　地図番号　066　/　124\n項目名　<くすり指>\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(16)\n日本音語地図資料用紙　注記一覧　33-03\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6509.91　クスリイビ〈くせ〉くにの指の呼び名は知らない。>\n6511.85　benisajibi　j=北方客のai\n6512.14　kusurijubi（学校で習った語）\n6519.67　NR〈名前を言わないから知らぬ。〉\n6521.17　ベニサシユビ（少）　クスリユビ\n6522.79　ベニサシユビ（古）。クスリユビといったので、クスリユビ\n　　　「ベニサシユビ」というわけのこの質問をしたら『多々は用いるとのこと。』\n6526.45　べ＝サシイビ〈女〉男の言い方は知らない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03303.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03303",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03303.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6527.22",
+      "6528.21",
+      "6532.70",
+      "6532.93",
+      "6534.37",
+      "6537.06",
+      "6542.58"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での音標は地点番号順に並べる。\n・注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 33-04\n資料番号 地図番号 066 / 124\n項目名 くすり指\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6527.22 bepisajiibi 〈大人になってから使うようになったが子供の時にははと言ったか記憶がない〉\n[bepisa]jiibiとはいわぬ。kusurii jibiは実際場面で使う（文通場面?）\n\n6528.21 NR〈この板の発音はあまり言わぬから知らぬ〉\n\n6532.70 クスリイビ〈やや新〉\n　　　べーサシイビ\n\n6532.93 ベニサシビ。この指で刺すは私をつけたためらしい。\n\n6534.37 bensa/jyubi〈くち〉\n\n6537.06 kusurii ibi〈新〉〈昔は名称がなかった〉\n\n6542.58 ベニサシビ（古）・ベニサシビは老人、それとも女性が使う。クスリイビ\n\n同一同音の異形はすでにクスリに（も）用いるようだ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03304.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03304",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03304.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6543.56",
+      "6546.73",
+      "6547.09",
+      "6549.03",
+      "6552.71",
+      "6552.90",
+      "6544.26"
+    ],
+    "other_text": "・A・{B}・{C}ごとに別紙を使用する。 ・その中での語順は地点番号順に並べる。 ・注記の＜＞（）は厳密にする。 右上欄: 質問番号 066 地図番号 124 項目名 くすりな A 普通注記 (B 除いた共通語) (C 除いた特殊語) (18) 表見出し: 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 手書きメモ: クスリユビ、ベニサシユビ、両者の使い分けはっきりせぬ。 kusurijumbi (nanaji jumbi という) kusurijibi (benisajibi とは言…ませんかという 調査者の何には no と○答。) (benisajibi)(benisajiibi は小・ス保の発音。発音の…はしたが…やつあ・まいである。) NR（知りません） benisajibi（べにさしび）は調査者である私の「べニサシビ」とは異る。 kusuri jibi / bensa jibi（女性用語）は最近これを使う女性は少ない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03305.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03305",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03305.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6553.22",
+      "6553.47",
+      "6555.65",
+      "6557.54",
+      "6559.67",
+      "6554.08"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　33-06\n管問番号　地図番号　066 / 126\n項目名　くすり指\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（19）\n\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n\n6553.22　benitsukejibi（手付椅の意。）\n6553.47　bensajiibi（このことばは小豆板時代に夏た 恐らく諸共この方の名前は知っていても使うことはあまり）\n6555.65　kusurijumbi（benitarosanというのを聞いた　ことがあるが使ったことはない）\n6557.54　kusuriibi（同じエセで benisa (jiibiという) のを聞いた。90才位、石屋へ10年位上行っていた人であるが）\n6559.67　（benisaji）接客的な名はない。自分はなに 言ったらよいか知らぬ。\n6554.08　ベニサジュビ（自分はクリミごとと言うがベニサジュビともよ　クスリュビ くゆく、半々ぐらい。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03306.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03306",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03306.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6561.49",
+      "6564.51",
+      "6565.17",
+      "6565.56",
+      "6571.34",
+      "6571.68"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-07\n質問番号　地図番号　066 / 24\n項目名　くすり指\nA（普通注記）　（B　除いた共通語）　（C　除いた特殊語）　（20）\n\nA・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は略称にする。\n\n地点番号\n6561.49  フスリユビ（ベニサショビという人もあり。）\n6564.51  benasaji <多> beresaji ibi <稀>\n6565.17  benisaji; jumbi (kusurijumbi)\n（聞いて被調査者の言うには「舌は大きさがで親中・子孫位しか住わなかった。」）\n6565.56  benisaji'ibi <希?>    kusuri'ibi\n6571.34  benisaji'ibi 但し 幼稚で女のよが言うのを聞いて覚えた語で、よつは別にとりたてては言わない。\n6571.68  （ビンサシ）（家人が稼のいう）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03307.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03307",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03307.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6572.04",
+      "6572.55",
+      "6575.82",
+      "6576.32",
+      "6580.66",
+      "6582.12",
+      "6584.90"
+    ],
+    "other_text": "日本音声地図資料用紙　注記一覧　33-08\n資料番号 066　地図番号 124\n項目名　くすり指\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n（表ヘッダ）地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6572.04 bepisa j iibi <和を深く好だから。> と言った。\n6572.55 bepisa ijubi (多) be~sa ijubi　kusurijubi\n6575.82 kusuri'jibi（新）, benisa j'iibi <ち>\n6576.32 benitsukijubi <せたがべーをつける損だ からこういう。ただし痛いとき・キズノにとき外にはもちろんない。>\n6580.66 ベニワケイビ <くち>　ベニワケエビ\n6582.12 ベニサシイビ <くち>　クスリイビ\n6584.90 kusurisaj'iibi <新>, benisaj'iibi <ち>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03308.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03308",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03308.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6590.08",
+      "6593.30",
+      "6600.97",
+      "6616.29",
+      "6621.57",
+      "6621.94",
+      "6632.15",
+      "6633.27",
+      "6610.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記－33-09\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()は略語にする。\n（右上の欄）資料番号　地図番号　066　124　項目名　くすり指\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n6590.08　クスリユビ（女の人でベニサシユビという人がある）\n6593.30　beˈnisaji＜糸をつける様の意＞\n6600.97　benisaji jubi＜希＞\n6616.29　NR（はとも言わない。）\n6621.57　kusuriibi　薬草を煎じた時の湯の減　をこの持で少る。\n6621.94　kusuriibi（希）\n6632.15　:beˈnisajiˈjumbi（男が使うのは妻だ＞）\n6633.27　kusuriibi　新\n6610.00　ベニサシ（他）クスリユビ（他）この指の名は知らない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03309.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03309",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03309.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6634.07",
+      "6635.20",
+      "6639.43",
+      "6641.39",
+      "6641.97",
+      "6650.70",
+      "6652.77",
+      "6698.61",
+      "6637.27",
+      "6698.20"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（　）は略符にする。\n\n日本言語地図資料用紙　注記一覧　33-10\n質問番号　066　地図番号　124\n項目名　くすり指\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(23)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6634.07  kusuriibi 希　　　　benijibi\n6635.20  kusuriibi 古　　　　benitsukeibi\n6639.43  kusuriiebi （ありは狭く赤寄り。）\n6641.39  kusuriibi 新　　　　benisajiibi\n6641.97  benisajiibi　多く使う。kusuriibi もい...\n6650.70  kusuriibi（希）　benisaji（希）＜ともにあまり言わない＞\n\n6652.77  benisaji　　benisajijumbiとは言わない...\n6698.61  kusujumbi くた... > kyusojumbi(ち?)　nanasijumbi\n（nanajiumbiと答えすぐkusujumbiと訂正）\n\n6637.27  kusuriibi 新\n6698.20  kusuriibi ＜ぞんざいな言い方＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03310.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03310",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03310.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6701.46",
+      "6702.21",
+      "7229.50",
+      "7239.82",
+      "7268.87",
+      "7284.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）は簡潔にする。\n\n日本言語地図資料用紙 注記一覧 33-11\n質問番号　地図番号　066 / 124\n項目名　くすり指\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　(24)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nさらに、KUSOJUMBIを添へ、赤みをおこすことはと説明する。しかし調査者には nanashiumbi ここではちく使われていたのではないかと思われる。\n\nbenisajijumbi <新>　　kusurijubi\n\nkusurijumbi（benitsukejumbiという人もいる。女の人がこの手で紅をつけるからだ。）\n\nbensaji <くち>　　kusuriibi\n\nbensaji（も）　　kusuriibi\n\nbensaji <くち>　　kusurijubi\n\nkusurijate°（新？）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03311.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03311",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03311.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7303.61",
+      "7308.48",
+      "7309.37",
+      "7321.93",
+      "7326.41",
+      "7329.39",
+      "7332.21",
+      "7338.48",
+      "7341.47"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（　）は略語にする。 日本言語地図資料用紙　注記一覧　33-12 管理番号　066　地図番号　124 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (2f) 項目名　くすり指 地点番号　A語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C残した語形とその注】 bintsuke ibi (bensaji はいわぬという) NR <nakajumbi no twgino jwbi?> 使わぬから知らぬ。 karu) るほのとなごと。 cf. 063 kusuriibi ベンサシ (クスリイビなし) kusuri;jibi <上品> bensaʔ jii bı benjumbi <希> kusurijumbi kusurijubi (ベンサシなし) kusurijbi 希 benjibi ベンツケイビ <くち> bentsukeibi クスリイビ kusuriibi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03312.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03312",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03312.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7342.72",
+      "7342.76",
+      "7343.76",
+      "7345.47",
+      "7349.86",
+      "7351.06",
+      "7355.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　33-13\n資料番号　地図番号　066／24　項目名　くすり指\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (26)\n地点番号　A語形とその注記 (B・C除いた語形とその注記)　A注のない語形 (B・C 残した語形とその注記)\n7342.72 beəsaji <くす・ち>    Kusurijubi\n7342.76 NR 別に名なしと答う。（この地域ではbensajiという等なのだが提示して答を引き出すことを避けた。）\n7343.76 beəsaji <くち>    Kusurijubi\n7345.47 bensajiʼibi <くち>    Kusuriʼibi\n7349.86 benisasi jumbi <新>    Kusurijumbi\n7351.06 kusuri ibi (ベンサシ言わぬ)\n7355.48 tsumdasaji igi(?) ペンサシィの記憶るがいか。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03313.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03313",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03313.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7357.31",
+      "7362.42",
+      "7363.59",
+      "7366.87",
+      "7367.49",
+      "7372.96",
+      "7374.75",
+      "7375.37"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-14\n（右上欄）質問番号 066／24　項目名 くすり指\n地 点 番 号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7357.31 bepituke'ibi〈新〉 kusuri'ibi〈新〉\n7362.42 クスリユビ（ベニサシ、ベニサシユビは用…）\n7363.59 ベンサシユビ〈古〉\n7366.87 名前がない〈若いものは bepi(sa(i)ibi などと言うけれど〉\n7367.49 Kusuri'ibi〈新〉\n7372.96 ベンサシ〈特別な名でよくことは多々ある〉\n7374.75 ベニツケ（希）\n7375.37 bensaji〈くち〉 kusuri'ibi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03314.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03314",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03314.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7375.96",
+      "7377.27",
+      "7385.84",
+      "7386.55",
+      "7386.56",
+      "7386.63"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本語語地図資料用紙 注記一覧 33-15\n資料番号 066 地図番号 124\nA 普通注記 ぺージ\n[B] 除いた共通語\n[C] 除いた特殊語 (28)\n項目名 くすり指\n\nA語形とその注記【B・C除いた語形とその注】 A注のない語形【B・C残した語形とその注】\nben'saji <くち>    kusuri'ibi\nbenitsukeibi ...〈女ならそうだが，男なら何というか知らぬ。クスリ位には近ごろの言葉だ〉〈kusuri'ibi(新)〉\nbeNsaji(ibi)(く'ibiは付けないことが多い, と言う)\nane'ibi (姉持の意)\n[bensaji] (家にいたもの, その夫人(姓氏)の人でなく高鍋の名が) が [bebsaji] というでしょうかと口添えしたが，郷調査者はよく言って肯定も否定もしない。)\nbeNsa[ji 多] (語談としては普通のようである。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03315.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03315",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03315.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7392.33",
+      "7395.01",
+      "7396.16",
+      "7401.11",
+      "7401.92",
+      "7403.21"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-16\n調査番号　066　地図番号　124\n項目名　くすり指\nA・(B)・(C)ごとに別表を使用する。\nその中での指標は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n7392.33　クスルイビ、ベンサシともに古くから使っている\n7395.01　bensafi (用...たことがあるが、私の言葉ではない) kusuri-ibi\n　　　　(県内のあちらこちらで使われている)\n7396.16　bensa;(ibi)(ibiは何か...ことか多い...>)\n7401.11　kusujubi ((kusujubiのようにriを入れては言わない... ) そうである)\n7401.92　NR (武智正人の「筆者の方言」によると bεnisa\n　　　　sijubi という地もあるらしい。)\n7403.21　nakaibi (こどものときに両手をあわせお祈りから順\n　　　　に離しでは、次のように節をつけて言って遊んだという。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03316.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03316",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03316.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7404.56"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）には敬称にする。\n日本言語地図資料用紙　注記一覧　33-17\n資料番号 066　地図番号 124\n項目名 くすり指\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語 (30)\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n<kodomo to kodomo to kenkajite,\nnakasa:ba tokoiju: tete,\ntakasa:ib haha tate te,\nhitosa: b tome temo,\nnakanaka kikanm kono ojazi:>\n7404.56 bintsukejumbi <希>\nbebitsukejumbi <希> [watagira shita]\nkoto wa nai kedo mukasi wa\nkono jumbi de ko:jite beni tsuke\ntan de[o:na] 大人の話",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03317.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03317",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03317.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7415.85",
+      "7421.38",
+      "7500.24",
+      "7500.66",
+      "7501.14",
+      "7502.89",
+      "7502.91",
+      "7504.66",
+      "7513.01",
+      "7513.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記 - 33-18\n資料番号　地図番号\n066   124\n項目名　くすりゆび (すりゆび)\nA (普通注記)　[B 除いた共通語]　[C 除いた特殊語]　ページ (31)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n7415.85  benisasijubi ..... <やっ多い?>    kusurijubi\n7421.38  kusurijibi (共)                     benisadjibi\n7500.24  クスリイビ <古>                     クスリユビ\n7500.66  ベニサシイビ <多>                   ベニツケイビ・クスリイビ\n7501.14  ベニサシュビ <古>                   クスリユビ\n7502.89  benisa'ji <新>                       kusuri'ibi\n7502.91  ベ=サシュビ <新>                     ベ=サシイビ\n7504.66  kusuri'ibi (もっと別の言いかたがあったように思う)\n7513.01  ベ=サシイビ <古>                     ベ=サシュビ\n7513.15  benisaji'ju'bi <くち>語              kusuri'ju'bi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03318.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03318",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03318.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7513.43",
+      "7521.16",
+      "7521.79",
+      "7523.30",
+      "7533.11",
+      "7533.12",
+      "8305.73",
+      "8311.63",
+      "8315.89"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-19\n(右上の小欄) 質問番号 地図番号 066 / 124 項目名 くすり (32)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C 残した語形とその注）\n7513.43    ベニサシイビ〈古〉                        ベニサシビ\n7521.16    クスリイビ〈古〉, ベニサシイビ〈古〉        クスリユビ\n7521.79    クスリイビ〈古〉                          クスリユビ\n7523.30    クスリイビ〈古〉, ベニサシイビ〈古〉\n7533.11    ベニサシイビ〈古〉                        クスリイビ\n7533.12    NR（クスリイビといっている）\n8305.73    bensaji  bensajijubiともいう。\n8311.63    b e n s a j i； ベンサシユビの形を用いない。\n8315.89    特殊の言い方はない。単に jubi といったり\n               hon kanjubi / といったりするが 066 の接合例に\n\n(下部に消えかかった手書き注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03319.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03319",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03319.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "8320.98",
+      "8324.26",
+      "8332.59",
+      "8345.18",
+      "8345.24",
+      "8352.92",
+      "8362.81",
+      "0237.79"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語彙は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 33-20 資料番号 066 地図番号 124 項目名 くすり指 (A) 普通注記 (B) 除いた共通語 (C) 除いた特殊語 (33) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) 8320.98 bensaji <希> 8324.26 bensa ji (jubi) こどもをぬずしもつけていない 8332.59 NR <名前を用いない> 8345.18 bensaji (ibi, jubi を付けないで言うことが多..ようである) 8345.24 bensa ji 普通、下に「イビ」(は)をつけないで言う。 8352.92 Ku'suriji 同/湾の稲嗤直系の母親は be rosa2 という。 8362.81 anezojit (姉さんまちの義?) 0237.79 kusuri ibi (註か)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03320.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03320",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03320.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "0246.97",
+      "0249.17",
+      "0256.76",
+      "0265.96",
+      "0276.50",
+      "0340.00",
+      "1213.76",
+      "1242.72"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >( )は厳密にする。 日本言語地図資料用紙 注記一覧 33-21 質問番号 地図番号 066 124 項目名 くすり指 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (34) 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 0246.97 na:kirjai:bi <くすり人達はkusuri:biという> 0249.17 tājanasa: <力がないという意味> 0256.76 na:kirjau:bi <くち> (右欄) kysuriu:bi 0265.96 kusirii bi <希> (右欄) naihenibii 0276.50 NR <名前はない> 0340.00 tājanasa: <力のないものの意味> 1213.76 na:sa:3iwubi ようやく覚えた答であ る。多分不安、別人にきいても肯定も得られないみたい。 1242.72 NR <知らない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03321.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03321",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03321.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "1261.80",
+      "1270.26",
+      "2076.25",
+      "2140.49"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-22\n資料番号　066　地図番号　124\n項目名　くすり指\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(35)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nNR [na:ji3ira:zi:bi]\nkusurijubi（共通語）\nna:ja-ney-ubi（名はない・まる）\ndinttfuþja ＜鑢をつくる者の意から来た＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03322.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03322",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03322.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "2812.96",
+      "3746.41",
+      "4654.52",
+      "4676.67",
+      "5567.46",
+      "5568.22",
+      "5568.57",
+      "5588.02",
+      "5597.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-23\n質問番号　地図番号　066　/24\nA　普通注記　　B　除いた共通語　　C　除いた特殊語　(1)\n項目名　くすり指\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<><>()[]は厳密にする。\n\n（表ヘッダ）\n地点番号 | A語形とその注記 (B・C除いた語形とその注) | A注のない語形 (B・C残した語形とその注)\n\nkusurijumbi <今はこういう>     benijumbi\nサブローニビ(古)               クスリユビ, ベニヤスユビ(?)\nkusunijubi (新・英) 小学校時代使い。現在 bensajubi (古〜現) でも家庭内で使う > kusurijubi(新)\nKusurijumbi <英>               kusurijobi\nクスリュビ <丁>                クスリイビ\nクスリュビ <共>                クスリイビ\nクスリュビ <共>                クスリイビ\nクスリュビ <共>                クスリイビ\nクスリュビ <共>                クスリイビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03323.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03323",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03323.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "5599.41",
+      "5671.84",
+      "6419.09",
+      "6424.20",
+      "6428.26",
+      "6429.30",
+      "6453.64",
+      "6463.73",
+      "6466.41",
+      "6486.50"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（　）は敷衍する。\n日本言語地図資料用紙　注記― 33-24\n質問番号　地図番号　066 / 124\n項目名　くすりな\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　(2)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\nクスリユビ　〈笑〉　クスリイビ\nkusurijubi〈失〉　kusuriibi\nクスリュビ〈今〉　ベニサシュビ〈古希〉\nKusürijumbi〈交通語と考えている〉　benisajisumbi\nクスリュビ〈上.笑〉　ベニサシュビ・ベニサシィビ〈古〉\nクスリュビ〈失希〉　ベニサシュビ\nクスリュビ〈時に使う。青年はこれが普通〉　ベニュビ〈こちらをよく使う〉\nクスリュビ（今）　ベニサシュビ（古）\nクスリュビ〈新〉　ベニサシュビ〈古〉\nクスリュビ　新　クスリイビ・ベニサシュビ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03324.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03324",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03324.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6507.13",
+      "6508.36",
+      "6512.02",
+      "6516.15",
+      "6526.04",
+      "6534.37",
+      "6544.26",
+      "6551.77",
+      "6552.08"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-25\n質問番号 地図番号 066 124\n項目名 くすり指\nA 普通注記　B 除いた共通語　C 除いた特殊語 (3)\n\n地点番号　A語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n\n6507.13　クスリユビ（昔・他）　ナナシュビ、ナナシイビ\n6508.36　クスリユビ（実）　クスリイビ\n6512.02　kusurijumbi（新？）　benisaji, bentsukejumbi\n6516.15　クスリユビ（又）　クスリイビ\n6526.04　クスリユビ（又）　クスリイビ\n6534.37　kasuriyubi（？新）　bensaji jubi（くち）\n6544.26　kasuri ibi－（書・北用語）　（行は取り消し）\n6551.77　kusuiibi（B）\n6552.08　クスリビ（目のやつ？）　（下に長い走り書き）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03325.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03325",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03325.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6580.06",
+      "6580.33",
+      "6590.35",
+      "6610.00",
+      "6621.98",
+      "6641.43",
+      "6650.79",
+      "6678.2",
+      "7329.57",
+      "7330.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙 注記一覧 33-26 質問番号 066 地図番号 124 項目名 くすり指 A 普通注記 B (除いた共通語) C (除いた特殊語) (4) 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 6580.06　クスリユビ（大）　クスリイビ 6580.33　クスリユビ（大）　クスリイビ 6590.35　クスリユビ（新）　クスリイビ 6610.00　クスリユビ（他）（この指の名は知らない） 6621.98　Kusurijubi（新）　Kusuriibi 6641.43　Kusurijubi（希）　benisaji 6650.79　Kusurijumbi　新　benisafijubi 6678.20　Kusurijubi（丁寧な言い方）　Kusuriibi（どんな言い方） 7329.57　Kusurijubi　上　benijubi 7330.31　クスリユビ Kusurijubi（新）　べニサジ = benisafijubi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03326.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03326",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03326.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7361.17",
+      "7373.99",
+      "7386.63",
+      "7512.43",
+      "7513.69",
+      "7523.27",
+      "7523.30",
+      "8354.29"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　33-27\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( )は厳密にする。\n\n質問番号　地図番号\n066　/24\n項目名　くすり指\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (5)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　除した語形とその注）\n7361.17　＜クスリユビ＞＜新＞　ベンサシ\n7373.99　クスリユビ＜老＞、＜新＞　ベーサシ\n7386.63　kusurijubi＜英＞　bensafi(多)(日常語としては普通のようである。)\n7512.43　クスリユビ＜新＞　クスリイビ\n7513.69　クスリユビ＜英＞　クスリイビ\n7523.27　クスリユビ＜新＞　クスリイビ\n7523.30　クスリユビ＜大＞　クスリイビ＜古＞、ベーサシ(化で古)\n8354.29　kusurijubi＜新＞　behsafi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03327.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03327",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03327.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "3764.92",
+      "4723.51",
+      "5688.37",
+      "6359.62",
+      "6378.05",
+      "6379.67",
+      "6388.52",
+      "6408.72",
+      "6436.33",
+      "3746.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 33-28\n資料番号 066　地図番号 124\n項目名　くすり指\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n3764.92　ヨバン〈ともいう〉　クスリユビ\n4723.51　ナガユビ／ツギノユビ　古　クスリユビ\n5688.37　NR（注記なし）　クスリユビ\n6359.62　ヒトサシユビ　ベーニユビ\n6378.05　オナゴユビ　ベニサシユビ\n6379.67　ナカサシユビ（ち）　ベニサシユビ（古）\n6388.52　NR　(kusurijubi) …（同）/漁の様の表（調査者の妻）\n6408.72　ze'ni'jubi（くす）　kusuri jubi\n6436.33　NR　名がない　Kusurijubisu〈他〉\n3746.41　サブロー ユビ（古）　クスリユビ・ベニサスユビ（古）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03328.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03328",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03328.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6487.66",
+      "6491.66",
+      "6512.02",
+      "6514.38",
+      "6535.1",
+      "6544.26",
+      "6545.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 33-29\n資料番号 066 地図番号 124\n項目名 くすり指\nA 普通注記  ページ\nB 除いた共通語\nC 除いた特殊語 (2)\n\n地 点 番 号    A 語形とその注記 【B・C除いた語形とその注】    A 注のない語形〔B・C 残した語形とその注〕\n\n6487.66  NRく古…我々はこの指を使わぬので名も知らら クスリユビ〈新〉 ぬさまきた。\n6491.66  NR〈何とも言わない〉                                     kusuriyubi〈希〉\n6512.02  irojubi 泉記なし                                         benisaji; bentsukejubi\n6514.38  NK 汎記なし\n6535.10  bentenibi -〈るに対(に云う)時〉                        bensasiibi\n6544.26  hensa] に[は] - (女手用語。1-で最近これを使う)  (取り消し線あり)\n\n6545.41  daji ibi -〈味指の意。料理の味を見るところから bensaliibi, Kusariibi の名? 最近は殆どこの形を使ったとみたい。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03329.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03329",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03329.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6551.77",
+      "6559.67",
+      "6571.68",
+      "6637.27",
+      "7350.44",
+      "7386.56"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報に地点番号順に並べる。 ▸ 注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　33-30\n質問番号　地図番号　066 / 24　項目名　くすり指\nA 普通注記　[B 除いた共通語]　(C 除いた特殊語) (3)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6551.77　bebsasjiibi（女）\n6559.67　NR 記なし\n6571.68　NK 記記なし\n6637.27　tjiibi 記記なし\n7350.44　benzaiten（希）\n7386.56　NR 汎記なし\n\n右欄手書き注記（抜粋）:\nbenisasi 持別になる者はない。自分は何といったらよいか知らぬ。\n[ビンサシ]（家人が手懸からいう） kusuriiibi 新\nbenijubi\n[bebsasji]（家にいたるものの夫・人（近隣の人でなく、高鈴町の人等）が...）\n（本文読み取り難。上記は概写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03330.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M124Q066/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03330",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03330.tif",
+    "source_ljc_id": "LJC-M124Q066",
+    "source_map_numbers": [
+      "124"
+    ],
+    "source_title": "くすりゆび (薬指)"
+  }
+]

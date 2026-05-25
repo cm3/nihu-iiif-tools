@@ -1,0 +1,3180 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0779.03",
+      "0840.33",
+      "0873.94",
+      "0894.61",
+      "0896.22",
+      "1744.60",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-23\n\n質問番号 地図番号 174.5\n項目名 じゃがいも 186\n[A] 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ ( / )\n\n地点番号　A 言形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n0779.03   gojoimo 〈多〉, imo 〈最普通〉   bare: so\n0840.33   imo 〈多〉, bare: ːʃo   gojoimo\n\nはっきりしないが gojoimo と比べ、別に改まった言い方ではないらしい。\n\n0873.94   gogotimo 〈多〉 (soより goに近い)\n0894.61   imo 〈多〉\n0896.22   ゴショイモ 〈古〉\n\n日常は最近、タンジャクとかベニマルとか、種類名で言うのも多い。例え\nば「あとこのタンジャクはうまい。」\n\n1744.60   エモ 〈普通〉   ゴショエモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05329.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05329",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05329.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1747.04",
+      "1762.10",
+      "1773.27",
+      "1793.14",
+      "1848.24",
+      "1854.24",
+      "1859.84",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-30\n質問番号 地図番号 174,5\n項目名 じゃがいも 186\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (2)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n地点番号\n1747.04  ゴショイモ  <共> 対外的に使う。  イモ\n1762.10  エモ  <最も普通>  ニトエモ, ゴショエモ\n1773.27  イモ  <多>  ゴショイモ <他と区別する時だけ>\n1793.14  ゴショイモ (モがあまり沈んだ音ではない)  まま (注記者)\n1848.24  imo  <多>\n1854.24  gojoimo  <多>\n1859.84  gojoimo <他と区別する時>, imo <普通に、多く>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05330.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05330",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05330.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "1863.48",
+      "1942.03",
+      "2608.90",
+      "2700.48",
+      "2713.83",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-31\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n（右上の欄）\n地図番号 174.5\n項目名 じゃがいも 186\nA ○ 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (3)\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（表の手書き記入）\nイモ　＜多＞\nnidoimo　＜子供の時＞\ngosoimo　＜前に言ったが、今は笑われる＞\nimo'　＜今＞\nニドイモ　＜早生のものをいう＞　（右欄）イモ\nエイモ　＜非常に多＞　ゴジョエイモ，ニドエイモ　=ドエイモ\nエモ　（最も普通）　ゴジョエモ，ニドエモ　（サツマイモ等と区別する時 使う）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05331.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05331",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05331.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2741.46",
+      "2750.43",
+      "2750.44",
+      "2754.11",
+      "2761.44",
+      "2765.71",
+      "2772.05",
+      "2775.45",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-32\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ] は厳密にする。\n（右上小箱）質問番号　地図番号　174.5　項目名　じゃがいも　普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (4)\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nニドエィモ....ジャカロエィモ等とはいわない。\nニドエィモ　（　）　こまりなく使うか、どちらかといえば＝ニドエィモの方が使い易い。　ゴジョエィモ\nニドイモ　＜昔＞、イモ＜今,多＞\nnidoimo (普通?)\ngojoimo <古>\ngojoiimo? (手写不明)\nbarejo <芋> imo ＜普通にはこれで足りる＞\ndzagaimo\nnindoimo\nni'doimo\nnin'doimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05332.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05332",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05332.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "2785.31",
+      "2795.72",
+      "3609.47",
+      "3699.55",
+      "3704.57",
+      "3712.15",
+      "3716.58",
+      "3727.21",
+      "3730.43",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-33\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n（右上ボックス）地図番号 174.5 じゃがいも 18c A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (5)\n（表ヘッダ）地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n2785.31　nidoimo　＜普＞　dzagaimo\n2795.72　nidoimo　＜古＞　barejo\n3609.47　gosoimo　＜古＞　dzagaimo\n3699.55　ゴドイモ　・・・　ゴショイモか、ニドイモにひかれて転じたものであろう。　ニドイモ\n3704.57　gofeimo　[外]　naruimo\n3712.15　nidoimo　＜古＞　dzagaimo\n3716.58　同上　imo\n3727.21　ニドイモ　＜古＞　ジャガイモ、ナズイモ\n3730.43　godoimo　（古）、nidoimo（新）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05333.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05333",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05333.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3733.18",
+      "3735.77",
+      "3736.58",
+      "3741.16",
+      "3745.98",
+      "3746.09",
+      "3746.76",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-34\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA　普通注記　ページ（6）\n[B　除いた共通語]　[C　除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( ) [ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n3733.18　gojoimo (普)　　　ni'dolmo\n3735.77　ナズエモ　<右>　　　ジャガエモ，ニドエモ\n3736.58　キドエモ　<右>　　　ジャガイモ，ナズエモ，アギイモ\n3741.16　[ni^doimo] [普]　　　gojoimo\n3745.98　ナズエモ　<右>　　　ジャガエモ，ニドエモ\n3746.09　zayaemo cf. gosyoemo は、牛馬に食わせる茎の高くなる1花。主として野生。芋芋のことか。\n3746.76　ナズエモ　<稀>　　　エモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05334.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05334",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05334.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "3747.91",
+      "3752.53",
+      "3754.13",
+      "3757.09",
+      "3760.93",
+      "3762.85",
+      "3764.16",
+      "3764.86",
+      "3764.92",
+      "3777.48",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-35\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（7）\n表見出し：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n（表中の行例）\n3747.91　キドエモ　〈稀〉　ニドエモ, ゴショエモ\n3752.53　nidolmo　〈古〉　dzayaimo\n3754.13　キド　〈古〉　ニドエモ\n3757.09　hodo　cf. 岩殻では hodo は野生の芋。\n3760.93　godolmo　〈古〉, nidolmo　〈多〉\n3762.85　gofolmo（昔）, nidolmo（今）\n3764.16　=ドエモ　〈古〉　ジャガエモ\n3764.86　アギエモ, ナスエモ　〈古,希〉　ニドエモ, ジャガエモ\n3764.92　ナスエモ　〈古〉　ニドエモ\n3777.48　ツルガエモ　〈古〉　ゴツエモ, ジャガエモ\n（手書き注記・語形の羅列など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05335.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05335",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05335.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "3777.86",
+      "3778.00",
+      "3785.68",
+      "3787.50",
+      "3791.02",
+      "3795.33",
+      "4589.83",
+      "4597.72",
+      "4598.33",
+      "4609.54",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-36 質問番号 地図番号 174.5 項目名 じゃがいも 186 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (8) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 3777.86 ツルガエモ <稀> ジャガエモ 3778.00 ゴンショイモ <町では ジャガタライモ という> 3785.68 ニドエモ, ナスエモ ->(古) ジャガエモ 3787.50 ニドエモ, ナスエモ, アキエモ ->(古) 同上 3791.02 nidoimo <古> dzayaimo 3795.33 パレーショ <近ころ> エモ 4589.83 hatfiri imo <希> dzayaimo 4597.72 natsuemo <古> dzayaemo 4598.33 akiemo <古> dzayaimo 4609.54 barei; so <今> nidoemo, nidoimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05336.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05336",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05336.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4628.28",
+      "4628.61",
+      "4629.43",
+      "4637.20",
+      "4637.68",
+      "4638.22",
+      "4638.43",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 53-37\n質問番号 地図番号 174,5\n項目名 じゃがいも 186\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (9)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n4628.28  godoimo 〈方〉        nidoemo\n4628.61  nido ēmo 〈稀〉      godo ēmo\n4629.43  nidoimo 〈=家 作る場合にいる〉  goto'imo, godoimo\n4637.20  nindoemo (古く、今も多く使う)\n4637.68  nidoemo 〈古、希〉\n4638.22  ni'doimo  =つ目の i はちょっと広い。\n4638.43  natsumemo 〈古〉 [多], [nidoemo]〈新〉\n(最も古く godoemo というものがあった。じゃがいもの一種かという。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05337.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05337",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05337.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4644.10",
+      "4647.87",
+      "4648.04",
+      "4648.42",
+      "4648.59",
+      "4653.84",
+      "4663.92",
+      "4665.87",
+      "4667.76",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-38\n質問番号 地図番号 174.5\n項目名 じゃがいも 186\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (10)\n地 点 番 号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4644.10 jagaimo <普通>    nidoimo\n4647.87 ニドエモ (普通), ジャガエモ (新?)\n4648.04 nidoemo <古>    dzayaemo\n4648.42 nidoemo (最も多。共通語場面でも使う)\n4648.59 karaemo <古, 今も多>\n4653.84 nidoimo <共>\n4663.92 za'gataimo, hatsui'mo nidoimo\n4665.87 niroemo <古>\n4667.76 kampanemo nidoemo\n(これは じゃがいも特有のえぐい味をいう。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05338.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05338",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05338.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4672.19",
+      "4678.77",
+      "4685.10",
+      "4685.28",
+      "4687.37",
+      "4688.45",
+      "4689.10",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉（）［ ］は厳密にする。\n日本言語地図資料用紙　注記一覧　53-39\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ ( / )\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ndzagaemo　〈共〉\nnazuwemo　〈最多〉\nkampuraemo　〈相当 用いる〉\n\nnidoemo　〈古〉〈若い時使った。老人は使う〉 dzagaemo\nko:so:emo 〈古〉（被調査者の少年時代にじゃがいもが作られ始めたという）\nkamporaemo（最も古い言い方で、被調査者より老年の人も多く用いる。） nidoemo\nnazuwemo（夏芋） kanpiilaemo\ndzagaemo 〈普通〉 siinailmo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05339.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05339",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05339.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4689.62",
+      "4694.81",
+      "4695.19",
+      "4695.21",
+      "4696.82",
+      "4701.73",
+      "4703.88",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-40\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(12)\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\nsunaemo, <古>\nnidoemo\n\nジャガエモ　<他人は=ニドエモ、サンドエモという よりである。>\n\nシコクエモ　(古)(希)\n\nko:jo:emo　<多>\n\nsagaraemo　<若い時から、今も使う。>\nnatsuemo　<新。大正時代から使っている>\n\nnido emo　<一般>　dzayaimo\n\nnidoemo　<この村では一えしか残れない。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05340.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05340",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05340.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4704.45",
+      "4706.53",
+      "4712.54",
+      "4713.02",
+      "4714.22",
+      "4716.20",
+      "4722.40",
+      "4726.0",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-41\n質問番号 地図番号 174.5\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (13)\n項目名 じゃがいも 186\n\n（表ヘッダ）\n地点番号  A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\nカラエモ <古>                                   ジャガエモ，ニドエモ\nnɨdoemo <古><稀>                                kaemo\nnɨdoemo <古>                                     dzayaemo\nemo' (大ざっぱに言うとき)\nnɨdoemo <ここでは一年に一回しかとれない>\nemo (じゃがいもをさすことにきまっている)      kasaemo\nnɨdoemo <昔はなかった>\nnɨdoemo <これはこの作をこの地に輸入した時についていた名らしい。では年一回しかとれない>\n\nnatsutemo <古, 稀>\n<ゴドケモというのは複数の変り化のことをいう。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05341.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05341",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05341.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4730.45",
+      "4731.15",
+      "4733.91",
+      "4741.43",
+      "4741.44",
+      "4741.92",
+      "4742.43",
+      "4742.95",
+      "4743.34",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-42\n質問番号　地図番号　174.5\n項目名　じゃがいも 186\nA) 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (14)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n4730.45  nido emo <精勢>    jay, roemo, nadzuemo\n4731.15  goʾjoimo <多>      niʾdoimo\n4733.91  nidoemo <数>       karaemo\n4741.43  nidoimo <古> [gojoimo]   natsüiimo\n4741.44  パレーショ [他]     ナスエモ, ジャガエモ\n4741.92  nadzuëmo <昔>      nidoemo\n4742.43  appunaemo <希>     nidoemo\n4742.95  [appuLaemo]        appuLaemo\n4743.34  ヌド エィモ　(手書き）\n\n（注記：手書きのローマ字表記やルビはおおむね判読に基づく近似表記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05342.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05342",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05342.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "4743.44",
+      "4750.32",
+      "4751.42",
+      "4753.76",
+      "4760.98",
+      "4761.93",
+      "4762.56",
+      "4762.90",
+      "4763.45",
+      "4771.58",
+      "1742.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-43\n質問番号　地図番号　1742.5\n項目名　じゃがいも　186\nA　普通注記　ページ　(15-)\n[B]　除いた共通語\n[C]　除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4743.44　gogoemo　＜た＞\n4750.32　ニドエモ　（昔，希）\n4751.42　nadzŭemo　＜古＞，agaemo　＜右＞\n4753.76　nidoemo　＜右＞\n4760.98　nido'imo　＜昔＞\n4761.93　akaemo　＜右＞，dzayaemo\n4762.56　agaemo　＜多，普＞，natsiïemo　＜夏とれる＞\n4762.90　akaemo　＜普＞\n4763.45　nadzŭemo　（夏芋）\n4771.58　agaemo, kampuraemo　＜右＞　dzayaemo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05343.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05343",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05343.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "4771.92",
+      "4772.33",
+      "4772.48",
+      "4782.04",
+      "4784.41",
+      "4792.43",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-44\n地図番号 174.5 項目名 じゃがいも 186 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (16)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n4771.92  kampūra, (子どものことば)  dzagyara (この説明は少しあやしい)    dzayaemo\n4772.33  natsüimo <古>\n4772.48  kjm:gjm:emo <石>    dzayaemo\n4782.04  nadzuemo, kju:ju:emo -> <昔>  kampura <農家では bare:jo といっている様だ>\n4784.41  [* barei so], ... 被調査者夫人が得心客。 (agaemo)    dzayaemo\n4792.43  kampūra <昔>, nadzuemo <夏U>, nindoemo (= ...)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05344.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05344",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05344.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5463.64",
+      "5471.59",
+      "5472.34",
+      "5472.91",
+      "5508.19",
+      "5538.49",
+      "5546.82",
+      "5548.35",
+      "5549.09",
+      "0174.5"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 53-45\n質問番号 地図番号 174,5\n項目名 じゃがいも 188\nA 普通注記  ページ (17)\n[B] 除いた共通語  [C] 除いた特殊語\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\nニドイモ 〈右〉    ハレエジョ\nダエシサンエモ 〈右〉    ジャガエモ\nダイシイモ 〈右〉    ジャガイモ\ndaijimo 〈右〉, zagajimo 〈多〉    daraziimo\nnajiimo 〈右〉, pidoimo 〈希〉    dzayaimo\ndzayanara 〈右〉    gojoemo\ndzajimo 〈右〉    nidoimo\n#kojiimo (秋一回とる種類。右) zagataraimo (夏とる種類。今)\ndzayanara 〈新〉    akaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05345.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05345",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05345.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5556.84",
+      "5558.09",
+      "5566.35",
+      "5567.46",
+      "5568.57",
+      "5569.36",
+      "5574.84",
+      "0174.5"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）［　］は厳密にする。\n日本言語地図資料用紙　注記一覧　53-46\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\n(A) 普通注記　ページ\n(B) 除いた共通語　(C) 除いた特殊語　(18)\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n5556.84　[zagaramimo]　jagaimo\n5558.09　sendaimo　〈た〉　dzagaimo\n5566.35　nidoeimo　〈新〉　hajaeimo\n5567.46　タライモ　（ダラとは重蔵の意）　〈年に2回もとれるのはこの作だけで、ダラみたいだから。〉\n5568.57　シンジュクイモ〈右〉、センダイイモ〈輪〉、センサイイモ〈輪〉\n5569.36　ナツイモ〈右、希〉\n5574.84　gogatsuimo　優位　dzagaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05346.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05346",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05346.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5575.93",
+      "5578.27",
+      "5586.56",
+      "5587.74",
+      "5588.78",
+      "5590.53",
+      "5598.67",
+      "5599.41",
+      "5599.75",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-47\n資問番号　地図番号　174,5\n項目名　じゃがいも　186\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (19)\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () [] は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5575.93　jagaimo <多>, hokkaido:imo <ゲ>, ko:bo:imo <昔の粒の小さいもの>\n5578.27　センダイモ <古>　ナツイモ\n5586.56　ko:bo　優先　dzayaimo\n5587.74　ニドイモ <こえとれるから>　ナツイモ\n5588.78　センダイモ <古、他>　ナツイモ\n5590.53　ハッショオイモ <やや古>　ニドイモ\n5598.67　コオボオイモ <子、昔>　ジャガタライモ\n5599.41　ジャガタライモ <古>, ゴオシンモ <幼>　ジャガイモ\n5599.75　コオボイモ <も、希>　同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05347.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05347",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05347.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5603.88",
+      "5604.28",
+      "5604.52",
+      "5604.65",
+      "5605.57",
+      "5607.17",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 53-48\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (20)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5603.88　sando'imo ＜昔＞　dzagaimo\n5604.28　koiasaemo ＜古く、今も多く使う＞\nnidoemo　＜koisaemoの一種で 北海道から来た意味がかった いも＞\n（品種の名と認めるべきか、総称と認めるべきか、迷う。）\n5604.52　sandoeemo ＜多＞ ＜tarumaeemoといって、秋以後獲る晩生のじゃがいもの一種 か昔あった＞\n5604.65　ニドエモ ＜新＞　ジャガラエモ\n5605.57　コオパエモ （右） ジャガエモ\n5607.17　natsuiimo ＜著＞ dzagaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05348.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05348",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05348.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5609.26",
+      "5609.81",
+      "5611.39",
+      "5611.74",
+      "5611.81",
+      "5612.22",
+      "5612.98",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-49\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ (21)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5609.26　kamperaimo  eは発音？\n5609.81　koisiiimo　〈古〉\n5611.39　dzayaimo　〈老人の農夫は sandoi mo という〉\n5611.74　ゴロ　？　（家族に対して云う時用いる）\n5611.81　ゴロサイモ？\n5612.22　nidoimo　〈希〉　dzayaimo\n5612.98　[dzagaramimo] 多く用いる　dzagataraimo 〈共〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05349.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05349",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05349.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5613.48",
+      "5613.80",
+      "5614.24",
+      "5615.65",
+      "5615.78",
+      "5620.16",
+      "5623.27",
+      "5624.85",
+      "0174.5"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（ ）［ ］は厳密にする。 日本言語地図資料用紙 注記一覧 53-50 質問番号 地図番号 174.5 項目名 じゃがいも 186 (A) 普通注記 [B 除いた共通語] [C 除いた特殊語] (22) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注] sandolmo <古> dzagaimo dzajara emo (自然の芋の中にあたので採録した。) dzagaraemo <新> hone nembyo: <古くから用い、今も用いる> dzagaemo <老人は dzagaraemo という> *dzagaraemo (初め dzag... 後訂正) gorozaimo <古> dzabaimo [[natsue:mo]] zagarajimo <昔別に使っているが、今は品種が違う。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05350.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05350",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05350.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5625.32",
+      "5625.91",
+      "5629.17",
+      "5631.26",
+      "5631.75",
+      "5632.2",
+      "5632.83",
+      "5633.45",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-51\n質問番号　地図番号　174.5\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (23)\n項目名　じゃがいも　186\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉［］は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\nジャガタラエモ（右）\ndzagaemo ... [dzagaraemo] ←注記\nジャガイモ〈普〉\nnidoimo〈右〉　natsuimo\ngoroimo〈希〉　dzagaiimo, natsuimo\ndzagataraimo〜dzagaiimo　natsuimo? agiimo\ndzagataraimo〈最近は bare: joと言う人もある〉　dzagaimo\ndzagaemo〈上〉　natsuemo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05351.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05351",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05351.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5635.48",
+      "5635.65",
+      "5636.74",
+      "5639.47",
+      "5639.80",
+      "5641.94",
+      "5642.17",
+      "5645.27",
+      "5645.89",
+      "0176.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-52\n質問番号　地図番号　176,5\n項目名　じゃがいも　186　ページ (41)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5635.48　サンドイモ　<古>　ジャガタラ, バレエショ\n5635.65　サンドイモ　<古。カワが黒がっていた。>　ジャイモ\n5636.74　サンドイモ　<古>　ジャガラライモ, バレイショ\n5639.47　ジャンカラ　<古。今も普通に用いる。>\n5639.80　ミドエイモ　<古。子供の歌、用いた。>　ジャガエイモ\n5641.94　natsuimo　<新>　bare: so\n5642.17　agayatar aemo　<希>　bagaemo\n5645.27　サンドイモ　<古>\n5645.89　ジャガタラ　<古>　ジャガイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05352.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05352",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05352.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5646.12",
+      "5646.39",
+      "5646.71",
+      "5647.66",
+      "5651.45",
+      "5652.06",
+      "5652.37",
+      "5653.65",
+      "5654.98",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-53\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(25)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5646.12　サンドイモ　〈古〉　　バレイショ、ジャガイモ\n5646.39　ジャガライモ〈多、新〉、サンドイモ〈古〉\n5646.71　ジャガタ　〈古〉　　ジャガタラ\n5647.66　ジャガイモ〈古〉\n5651.45　gorotaimo〈古〉　[dzayaimo]\n5652.06　dzayataraimo 〈希〉　dzayaimo\n5652.37　[dzayatara emo]　kabitaemo\n5653.65　dzayatara emo〈年よりは kabuta emo〉\n5654.98　サンドイモ〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05353.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05353",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05353.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5655.41",
+      "5655.97",
+      "5656.62",
+      "5657.53",
+      "5657.78",
+      "5658.01",
+      "5658.54",
+      "5659.46",
+      "0174.5"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n日本言語地図資料用紙　注記一覧　53-54\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（26）\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n5655.41　サントクイモ〈別〉, ジャガタライモ〈右〉\n5655.97　サントク〈児〉\n5656.62　ジャガイモ〈多〉\n5657.53　オジャガ〈女〉\n5657.78　ジャガタラ〈多〉\n5658.01　ジャガタライモ〈右〉\n5658.54　ジャガライモ〈普〉\n（これは被調査者だけの残った言い方かとも思われる。）\n5659.46　ジャガイモ　普通の言い方　ジャガタロ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05354.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05354",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05354.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5661.68",
+      "5663.09",
+      "5663.68",
+      "5664.51",
+      "5664.58",
+      "5665.11",
+      "5666.10",
+      "5666.22",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-55\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (27)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n5661.68    natsuimo 〈左〉    dzagaimo\n5663.09    dzagataraimo 〈ほかに bare: soという人あるが、普通は dan[saku]（品種名）でとおっている。〉\n5663.68    dzagataraemo 〈希〉    dzagaemo\n5664.51    dzagataraemo 〈老人は kabitaemoとも言う〉\n5664.58    ジャガイモ 〈多〉    サントクイモ\n5665.11    ジャガタライモ 〈多〉、サントクイモ 〈左、方〉\n5666.10    ジャガタライモ 〈左〉\n5666.22    サントクイモ 〈左〉    ジャガイモ\n\n（注：手書きの語形・注記をおおよそ転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05355.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05355",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05355.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5666.85",
+      "5667.41",
+      "5667.77",
+      "5667.81",
+      "5669.96",
+      "5671.68",
+      "5672.75",
+      "5674.06",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）（　）[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　53-56\n質問番号　地図番号　/ 174.5\n項目名　じゃがいも　186\nA（丸）　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n（ページ (24)）\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5666.85　サンドイモ　＜少＞\n5667.41　ジャガタラ　＜右＞\n5667.77　dzagaemo　eis 先人の発音。　dzagatara, dzagaimo\n5667.81　ハレイシヲ　＜DB昭16年大東亜戦争以後＞\n5669.96　dzagaemo …（誘）bare:jo＜新＞　dzagataro …\n5671.68　natsuïimo　＜古＞　imo\n5672.75　rokunatsuimo　＜古＞　natsuimo\n5674.06　サンドイモ　＜古＞　ジャガタラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05356.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05356",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05356.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5675.36",
+      "5675.87",
+      "5676.52",
+      "5676.84",
+      "5677.28",
+      "5677.60",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-57\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（[]）は厳密にする。\n\n（右上のフォーム）\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ（29）\n\n（表ヘッダ）\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n\n（各行の記入）\nサンドイモ　〈古〉　　（ジャガタラ, ジャガイモ, バレイショ）\nサンドイモ　昔からの語。（今では バレイショと半々に使う。）\nサンドイモ　〈年に３るとれる〉　シンシイモ　〈信州より〉\nサンドイモ　〈古〉，シンシイモ　〈老人が使う〉〈信州から来た〉　イモ\nジャガイモ　〈普通〉　（ハレイショ）\n同 上　サンドイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05357.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05357",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05357.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5678.33",
+      "5678.86",
+      "5679.31",
+      "5680.34",
+      "5680.98",
+      "5682.34",
+      "5685.02",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-58\n質問番号　地図番号　174.5　項目名　じゃがいも　186\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (30)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5678.33　ジャガイモ　＜普＞　パレエショ, ジャガタラ\n5678.86　ジャガタラ　＜普＞　ジャガイモ\n5679.31　dzagaeemo　＜普＞　dzagayatara, dzagaaemo\n5680.34　dzagaiimo　＜明治以後から＞\n5680.98　dzayataraimo　＜ていねい＞　dzagaimo\n5682.34　natsuimo　＜常.昔アキイモを作ったところ、それは対して言った。＞　dzagaimo, bare:jo\n5685.02　jitsum:imo ＜大、左＞／sando'imo ＜古＞ その他　ロシアや北海道から持って来た種類もある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05358.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05358",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05358.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5685.37",
+      "5686.31",
+      "5686.67",
+      "5687.32",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-59\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく> <()[]は厳密にする。\n\n質問番号　地図番号　174.5\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（31）\n項目名　じゃがいも　186\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5685.37　jisui: imo, sandoimo　〈古〉　rimo\n5686.31　jisui: imo　} 〈希〉　dzagatara\n5686.67　ジャガイモ　〈普〉　ツルイモ\n（サンドイモ　〈注〉　2え? るるるもとれるから）\n（秩父地方へ多いとのこと）\n当地は年寄りの間で\n\n5687.32　ジャガイモ　〈普〉　／食べる時は母らずこの2つを使う\nジャガタラ　ジャガタラ\n\n（手書きの小さな注記）　パレエショ　〈戦争中から〉、但し食する時には使わない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05359.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05359",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05359.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5688.01",
+      "5688.37",
+      "5688.86",
+      "5690.12",
+      "5692.53",
+      "5693.78",
+      "5695.10",
+      "5695.61",
+      "5697.53",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-60\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞( ) [ ] は、厳密にする。\n（右上の箱）質問番号　地図番号　174.5　A 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (32)\n項目名　じゃがいも　186\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5688.01　ジャガタラ　〈右〉　ジャガイモ\n5688.37　同　上\n5688.86　ジャガタラ　〈余り多くない〉　ジャガイモ　〈普〉\n5690.12　dgayataimo　〈別〉　natsuimo\n5692.53　nidoimo　〈希〉\n5693.78　ニドトリイモ　〈右〉　ジャガイモ\n5695.10　セエダイモ　〈右〉　ジャガイモ\n5695.61　同　上\n5697.53　dgayatara　〈老人ではこちらが普通〉　dga;naimo\n(手書きの語形は崩し字やローマ字混在あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05360.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05360",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05360.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5698.91",
+      "5703.70",
+      "5703.68",
+      "5710.84",
+      "5712.70",
+      "5723.60",
+      "5732.13",
+      "5732.17",
+      "5732.78",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-61\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n（表）\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\n（33）\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5698.91　zagyataro　＜昔､少＞　zagajaimo\n5703.70　dzanynara　＜古＞　kampura\n5703.68　pidolmo　（廃）　akaimo\n5710.84　ジャガイモ　＜普＞　ハレイショ\n5712.70　kampuraimo ... [tampura ＜古＞]\n5723.60　agaemo　＜赤いものについてだけいう＞　kampura\n5732.13　kampura　＜古＞　dzagaemo\n5732.17　kampuraemo　＜古＞　同上\n5732.78　kappuraemo　＜希＞\n\n（下部余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05361.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05361",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05361.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "5740.16",
+      "5740.43",
+      "5741.66",
+      "5742.65",
+      "5750.84",
+      "5771.42",
+      "5782.79",
+      "5790.64",
+      "0194.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-62\n質問番号 地図番号 194.5\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (34)\n項目名 じゃがいも 186\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5740.16   カンプライモ 〈右〉    ジャガイモ\n5740.43   ジャガイモ 〈多く使う〉    ジャガ・タライモ\n5741.66   kampuraimo 〈右〉    zayaimo\n5742.65   kampuiraemo (右)    dzayaemo\n5750.84   ジャガイモ 〈多〉    ハレエショ\n5771.42   dzayatara, dzayattaraemo, dzayaemo\n5782.79   zaya 〈希〉    zayaimo\n5790.64   zayatara 〈多〉, [daimo] [古]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05362.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05362",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05362.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "5791.07",
+      "5791.68",
+      "5792.02",
+      "5792.78",
+      "5793.20",
+      "6267.68",
+      "6267.84",
+      "6339.44",
+      "6339.86",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-63\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語 (35-)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nzajatara <左>　　zajaimo\ndzajataraimo <右>　dzajaimo\nzajataraëmo / zařya ëmo　　zařya, zajataraimo\ndzajaimo <普通>　dzajataraimo\nzajaimo <多>\ndzagaimo　3株の頃よりある。\nzajatarai'mo <14~5年末のもの>\nキンカイモ <左>　ジャガイモ\n(その他の手書き注記、ルビや発音記号等が各欄に記載されている)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05363.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05363",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05363.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6348.77",
+      "6349.80",
+      "6356.46",
+      "6356.98",
+      "6367.09",
+      "6369.32",
+      "6377.11",
+      "6377.65",
+      "6389.56",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-64\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(36)\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n6348.77　キンカイモ　＜右＞, キリイモ　＜切って植えるから＞\n6349.80　natsui imo　＜右＞　kinkaimo\n6356.46　kinkaimo　＜よけない＞　zjagaimo\n6356.98　キンカイモ　＜右＞　ジャガイモ\n6367.09　同上\n6369.32　キリイモ　＜右、切って植えるから＞　同上\n6377.11　キンカイモ　＜右＞　ハブレイショ\n6377.65　ニドイモ　＜右＞\n6389.56　キンカイム　（右）　ハブレイショ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05364.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05364",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05364.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6389.59",
+      "6394.09",
+      "6395.46",
+      "6402.94",
+      "6403.60",
+      "6404.83",
+      "6405.95",
+      "6406.77"
+    ],
+    "other_text": "53-65　日本言語地図資料用紙 注記一覧\n（右上ボックス）質問番号　地図番号　1745　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (37)　項目名　じゃがいも　186\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () [] は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6389.59　ジャガイモ（キンカイモとは言いませんか？）×　キンカイモはジャガイモの一種じゃ　\n6394.09　キンカイモ　〈右〉\n6395.46　キンカイモ　〈より古い〉\n6402.94　バルエジョ　〈多〉、コオおエモ　〈右〉\n6403.60　シナエモ　〈古〉（支那芋？）\n6404.83　コオボサンイモ　〈左〉　（右欄）キンカイモ\n6405.95　sandoimo　〈参〉　ko:boimo\n6406.77　ko:boimo　nidoimo　〈さほど古くはない〉　kinkaimo　〈これは種類の異る別種を指している〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05365.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05365",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05365.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6407.28",
+      "6407.43",
+      "6408.72",
+      "6409.00",
+      "6409.35",
+      "6409.72",
+      "6410.45",
+      "6411.66",
+      "0174.5"
+    ],
+    "other_text": "53-66\n日本言語地図資料用紙　注記一覧\n質問番号　地図番号\n174.5\n項目名　じゃがいも　186\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(38)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6407.28　ハッショイモ　＜古＞\n6407.43　ニトイモ　＜古＞　コオオイモ　＜古＞\n6408.72　seijo:imo　＜古＞　dzagaimo\n6409.00　ハッショイモ　＜古＞　ニトイモ　＜古＞\n6409.35　ハッショイモ　＜古＞　ジャガイモ\n6409.72　ニトイモ　＜古＞　同上\n6410.45　コオボイモ　＜古＞　同上\n6411.66　コオボエモ　＜古＞　パレエショ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05366.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05366",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05366.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6411.80",
+      "6412.12",
+      "6412.91",
+      "6413.43",
+      "6414.17",
+      "6415.78",
+      "6415.80",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-67\n質問番号　地図番号　174,5\nA) 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (39)\n項目名 じゃがいも 186\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6411.80　コオボイモ <古>　ジャガイモ\n6412.12　コオホエモ <古>,　ジャガタラエモ,　ジャカイモ　（商人の呼称が次第に明治以來かわってきた。）\n6412.91　ko:boimo <古>　dzagaimo\n6413.43　kinkaimo <古>　dzagaimo, bare:tso\n6414.17　dzagaimo <多>\n6415.78　bingo <多>　ko:boimo <古>\n6415.80　ko:boimo <古,多>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05367.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05367",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05367.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6417.14",
+      "6417.72",
+      "6418.13",
+      "6418.75",
+      "6419.50",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-68 質問番号 地図番号 174,5 項目名 じゃがいも A) 普通注記 [B 除いた共通語] [C 除いた特殊語] (40) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 nidoimo <古,多>, ko:boimo <古, 今は用いない> hokkaidimo [多], nidoimo [少] ジャガイモ <普>, シコクイモ <古>, バッショオイモ <古> ニトイモ <昔から, 今も使う> ハッショオイモ <古>, サンドイモ <古> ジャガイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05368.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05368",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05368.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6419.69",
+      "6420.34",
+      "6421.79",
+      "6422.16",
+      "6422.77",
+      "6423.23",
+      "6424.20",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-69\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（41）\n\n地点番号　　A　語形とその注記　[B・C除いた語形とその注]　　A注のない語形　[B・C残した語形とその注]\n6419.69　　ジャガタライモ　〈古〉　　ジャガイモ\n6420.34　　コオオエモ　〈古〉　　ジャガエモ\n6421.79　　ko:boimo　〈多〉\n6422.16　　キンカエモ　〈古〉\n6422.77　　パレイショ　〈多〉　　ジャガイモ\n6423.23　　finanoimo　（旁の字と説明あり）　bare:tso, dzagaemo\n6424.20　　sinaimo / kinkaimo　zagai mo\n\n（下部に手書きの注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05369.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05369",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05369.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6424.92",
+      "6427.40",
+      "6428.13",
+      "6428.26",
+      "6428.76",
+      "6428.91",
+      "6429.15",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-70\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n(上部小箱)\n質問番号　地図番号　/ 174,5\n項目名　じゃがいも 186\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (42)\n(表見出し)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6424.92\tバレエチョ　〈普〉, シナノイモ　〈古〉, キンカイモ　〈希〉\tナワイモ　ジャガイモ\n\n6427.40\tnidoimo　[左]\n\n6428.13\tサンドイモ　〈古〉\n\n6428.26\tシナイモ　〈最古〉, サンドイモ　〈古〉\n\n6428.76\tサンドイモ　〈普〉\n\n6428.91\tサンドイモ　〈普〉\n\n6429.15\tニドイモ　〈最傷多く使う〉, バレエショ　〈使うが少い〉\n\n(ページ下部余白)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05370.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05370",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05370.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6429.61",
+      "6430.26",
+      "6430.53",
+      "6433.34",
+      "6435.03",
+      "6437.94",
+      "6438.33",
+      "6439.01",
+      "6439.61",
+      "6442.80",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-71\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(×3)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6429.61　ジャガイモ　＜主に使われる＞　サンドイモ、ニドイモ、ハレエチョ\n6430.26　ko:boimo　＜右、多＞\n6430.53　キレカライモ　＜右＞\n6433.34　ハレエショ　普\n6435.03　キンカイモ　＜右＞\n6437.94　キンカイモ、ニドイモ　＜ともに希＞\n6438.33　サンドイモ　＜希＞\n6439.01　ニドイモ　＜希＞\n6439.61　オランダイモ　＜右＞\n6442.80　ジャガイモ\n(下部に手書きの注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05371.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05371",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05371.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6443.61",
+      "6443.88",
+      "6444.62",
+      "6445.11",
+      "6445.57",
+      "6446.05",
+      "6446.43",
+      "6446.69",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-72\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n質問番号 地図番号 174.5\n項目名 じゃがいも 186\nA 普通注記 ページ\n[B] 除いた共通語  [C] 除いた特殊語\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\nキンカイモ --- 古    ハレエチョ\nキンカイモ <右>, サンドイモ <外>    キンカイモ\nジャガイモ <音>    キンカイモ, パレエショ, サンドイモ\nメクリイモ <昔>    サンドイモ\nキンカイモ <稲>    サンドイモ\nパレエチョ <音>    ジャガイモ, キンカイモ, サンドイモ\nサンドイモ <音>, キンカイモ <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05372.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05372",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05372.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6447.84",
+      "6448.23",
+      "6449.33",
+      "6453.31",
+      "6453.64",
+      "6456.23",
+      "6458.26",
+      "6464.23",
+      "6464.77",
+      "6464.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-73\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n質問番号 地図番号 174,175 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (45)\n項目名 じゃがいも 186\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6447.84　ジャガイモ　＜古＞　バレイショ\n6448.23　[オランダ]　ジャガイモ，オランダイモ\n6449.33　バレイショ　＜幼＞　ジャガイモ\n6453.31　キリイモ，サントイモ　ともに 古。\n6453.64　コオオイモ　＜古＞\n6456.23　キンカイモ　＜幼＞\n6458.26　トオシンイモ　＜古＞\n6464.23　サンドイモ　＜縮＞，コオオイモ＜古＞　キンカイモ\n6464.77　キンカイモ　＜古＞\n6464.90　キンカイモ　＜普通＞　サンドイモ，ジャガイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05373.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05373",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05373.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6467.73",
+      "6474.50",
+      "6474.83",
+      "6476.17",
+      "6476.92",
+      "6476.93",
+      "6481.56",
+      "6482.26",
+      "6484.78",
+      "6485.14",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-74\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞＜()[]は厳密にする。\n\n質問番号　地図番号\n174.5\n項目名　じゃがいも 186\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (46)\n\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6467.73　kinka~imo　〈4.50年前〉　jagaimo\n6474.50　ハレエ　〈約〉　ジャガイモ、キンカイモ\n6474.83　ミツキイモ　〈普〉　ジャガイモ\n6476.17　キンカンイモ　〈古〉　同上\n6476.92　ニドイモ　〈古〉　同上\n6476.93　ゴイシイモ（ゴーシイモという言い方もーまえた）　ニドイモ\n6481.56　コオオオイモ　希　ジャガイモ\n6482.26　サンドウイモ　希　同上\n6484.78　ニドイモ　希　同上\n6485.14　ジャガイモ　〈田舎の人はニドイモという〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05374.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05374",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05374.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6485.30",
+      "6485.46",
+      "6485.82",
+      "6486.50",
+      "6486.93",
+      "6487.66",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-75\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（［　］）は厳密にする。\n\n質問番号　地図番号　（手書き）174.5\n項目名　じゃがいも　186\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（47）\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n6485.30　ニドイモ〈右〉　はじめてこれがわたって来た頃はニドイモといっていた。（明治30年頃か）後になってジャガイモという。\n6485.46　アレヅイモ〈右〉　（不明瞭）　ニドイモ、ジャガイモ\n6485.82　ジャガイモ〈多〉　[ジャカタライモ　古] …苗田氏の言。　ニドイモ\n6486.50　ニドイモ　古\n6486.93　ニドイモ〈普〉　キンカイモ〈赤くて丸っているから〉\n6487.66　ロクショイモ〈古〉、ニドイモ〈弱〉、ジャガイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05375.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05375",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05375.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6488.48",
+      "6489.01",
+      "6491.49",
+      "6497.90",
+      "6498.61",
+      "6500.22",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-76 質問番号 地図番号 174.5 項目名 じゃがいも 186 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (48) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（　）[　]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6488.48 gosu:imo <江州いもの意> 6489.01 ニドイモ <古、希> ジャガイモ 6491.49 zagaimo (海岸部の大浜部落では nidoimo ともいっている。) 6497.90 nidoimo go:su:imo 6498.61 nidoimo 6500.22 ハツショオイモ <古> ニドイモ <普通に用いる>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05376.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05376",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05376.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6500.88",
+      "6501.92",
+      "6503.73",
+      "6505.58",
+      "6506.86",
+      "6507.48",
+      "6509.38",
+      "6509.43",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-77\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n質問番号 地図番号 174.5 項目名 じゃがいも 186 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (49)\n表見出し: 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n6500.88 gajaimo (他の被調査者はこれの他に sadoimo もあるという。しかし <希> なり。)\n# nidoimo <希>\n6501.92 =ニドイモ (一般。3供達を除けば皆が使う)\n6503.73 dzagaimo 普通の言い方\n6505.58 往チョモチ <昔、希>\n6506.86 pidoimo <古> dzagaimo\n6507.48 コオボイモ <昔> ジャガイモ\n6509.38 アカイモ <総称>\n6509.43 ジャガタラ、ジャガタラ住 ともに <古> ジャガイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05377.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05377",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05377.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6512.67",
+      "6514.25",
+      "6514.38",
+      "6518.87",
+      "6519.67",
+      "6521.20",
+      "6522.79",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-78\n質問番号　地図番号　174,5　項目名　じゃがいも　186\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (50)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nnidoimo　＜老人が使う＞\nzenkodji imo　＜善光寺芋のなまり＞\norandaimo　＜古＞\nジャガタライモ　＜古＞　zayaimo / ジャガイモ\nコオシユウイモ　＜右。甲州が来たからこういう。＞　コオシイモ、ジャガイモ\ndaisiimo　＜＝大師等＞, nidoimo [幼]\nnidoimo [幼]\nジャガイモ（古）（これは方言とのことで、少し怪しいので、根調査者の妻（60才）にたずねたが、や、あいまいであった。）\n(手書き注記や余白の短い走り書きあり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05378.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05378",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05378.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6522.93",
+      "6523.54",
+      "6524.01",
+      "6527.22",
+      "6528.64",
+      "6529.88",
+      "6532.93",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-79\n質問番号 地図番号 174,5\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (51)\n項目名 じゃがいも 186\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n表ヘッダ: 地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n手書き項目（概略転写）:\n6522.93  ニドイモ, ビンコジイモ ともに <古>   ジャガイモ\n6523.54  sinaiimo 〈子供の時 使った〉   bareijo\n6524.01  dzenkojiimo 〈古〉   dzanaiimo\n6527.22  dzajiimo  } 私は dzajiimo の方が多いよう  [dza~tara]  な気がするが, 区別がつかぬ。\n6528.64  dzajatar a 〈古〉   dzajaimo\n6529.88  #nidoimo 〈普〉   dzajaimo  ko:jiimo 〈古〉\n6532.93  ニドイモ ・・年に2ろ(?)とれるので。\n\n（手書きの細かい注記や一部語形は判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05379.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05379",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05379.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6534.37",
+      "6535.24",
+      "6535.90",
+      "6536.00",
+      "6536.68",
+      "6538.46",
+      "6539.12",
+      "6540.16",
+      "6540.52",
+      "0174.5"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の<>()[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 53-80 質問番号 地図番号 174.5 項目名 じゃがいも 186 (A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (52) 地点番号 A語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6534.37 dzayataraino <稀> dzayaimo 6535.24 kojuimo <甲州 いもの意> 6535.90 dzaimo <古> dzayaimo 6536.00 kobo'imo <古> sando'imo 6536.68 dzagaimo <今は こちらが普通> dzagataraimo 6538.46 kojiiimo <私はこちらが多い> 6539.12 pidoimo <古> dzajimo 6540.16 dzayaimo ahoimo 6540.52 キンカイモ <老人層に多く用いられる> ジャガイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05380.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05380",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05380.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6541.27",
+      "6541.52",
+      "6542.58",
+      "6542.71",
+      "6543.56",
+      "6544.26",
+      "6545.64",
+      "6546.73",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-81\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (53)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6541.27　ジャガイモ, 〔キシモ〕,〔サンドイモ〕　ニトイモ\n6541.52　アキイモ　〈古〉　この地方でこれを作りあしたのはわりに新しいようだ。　ジャガイモ, バレイショ\n6542.58　ジャガイモ　（注記）\n6542.71　nidoimo　〈女〉　dzayaimo\n6543.56　ジャガイモ　〈や〉\n6544.26　nidoimo　〈若い時に使った〉　dzagaimo\n6545.64　jetaraimo　〈古〉　zagaimo\n6546.73　dzagataraimo　〈昔〉〈今は dzagaimoen〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05381.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05381",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05381.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6547.79",
+      "6548.02",
+      "6549.69",
+      "6552.46",
+      "6553.22",
+      "6554.88",
+      "6555.65",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）「 」は厳密にする。 日本言語地図資料用紙 注記一覧 53-82 質問番号 地図番号 174.5 項目名 じゃがいも 186 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (54) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] dzagaimo ＜今では一番普通に使われると思う＞ dzagatara ＜古＞ dzagatara ＜古＞ dzagaimo dzagaitamo? dzayatar a sjakui mo ＜昔,多＞ nidoimo ＜古,多＞ nidosu ＜古＞ zayatarajimo ＜最古＞ dzagaimo, （3歳の時は1、それからは2か） kojumiimo ほやって、今では又1になった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05382.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05382",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05382.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6557.36",
+      "6562.22",
+      "6562.48",
+      "6563.43",
+      "6563.58",
+      "6563.84",
+      "6564.51",
+      "6565.17",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　53-83\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　(55-)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n[ko:jiimo]　　（右欄）シジャカイモ\nニドイモ　<古>　　（右欄）シジャカイモ\nニドイモ　<ジャガイモの別名>　　（右欄）シジャカイモ\nnidoimo　(この方を多く使う)　　（右欄）zayaimo\ntso:isemmo　<明治時代のことば>　　（右欄）nidoimo\nnidoimo　<大正時代のことば、但し２支とれない>　　（右欄）nidoimo\ngju:jajimo　(古)　　（右欄）nidoimo\nnidoimo　<最多>\ntso:isemmo　<少>\n#ko:siu:imo　<今でもこれで通じる>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05383.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05383",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05383.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "6565.56",
+      "6572.22",
+      "6572.55",
+      "6573.71",
+      "6575.40",
+      "6576.32",
+      "6580.06",
+      "6582.73",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-84\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n資問番号　地図番号　174,5　項目名　じゃがいも　186　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (56)\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6565.56 nido'imo <希>    ko:ji'imo    ジャガイモ\n6572.22 ニドイモ <一年に2ぶ、とれるから>    シヲカイモ\n6572.55 nidoimo <この種に kojiimo>\n6573.71 nidoimo <ジャガイモは最近使っている言葉 たが? われらの世代は今も ニドイモを使っている。>\n6575.40 nido'imo <古> [ニドイモより更に古くは koji'imo であった。]    zagatare\n6576.32 zaga <jagaimo というのはていねいな言い方である。>\n6580.06 ニドイモ <少>    ジャガイモ\n6582.73 ニドイモ <古>    同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05384.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05384",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05384.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "6583.19",
+      "6583.93",
+      "6584.90",
+      "6591.81",
+      "6592.10",
+      "6594.67",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-85\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)〔　〕は厳密にする。\n（右上の枠）質問番号　地図番号　174,5　項目名　じゃがいも 186　A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (57)\n（表の見出し）地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6583.19  gijunajimo 〈古,共〉 ,\n   nidoimo 〈約〉\n6583.93  nid oimo 〈古〉    jagaimo\n6584.90  isemo 〈この方は一部しかとれないから、今のとちょっと品種が違うかも知れない。〉\n   nidoimo 〈今〉\n6591.81  シメイモ 〈希。梅干のようだから、梅芋。〉 = ニドイモ\n6592.10  ジャガタライモ 〈希〉 = ニドイモ\n6594.67  ジャガイモ 〈ジャガイモを使う以前は／こちらを使っていた。〉\n（その他の手書き注記や線）」}ару} PMID:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05385.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05385",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05385.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "6600.97",
+      "6601.25",
+      "6603.52",
+      "6603.82",
+      "6604.02",
+      "6604.60",
+      "6605.37",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-86\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (58)\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記のく><（）［］は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6600.97　kojimmo, kojiumo　もに〈名〉　zayaimo\n6601.25　bare;so　〈本名〉　[nidoimo]　natsuimo\n6603.52　zayata(ja)imo　〈本当の名〉　noto'r'ko　〈能登から来たからか〉\n6603.82　ジャガイモ　〈多〉　ジャガタライモ，バレエショ\n6604.02　セエダイモ　〈右〉\n6604.60　セエダイモ　〈刻の代官荒井清太夫かこの土地に持ち来ったという。〉\n6605.37　セエダイモ　〈右〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05386.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05386",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05386.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "6605.84",
+      "6606.38",
+      "6610.00",
+      "6613.07",
+      "6613.77",
+      "6614.04",
+      "6616.22",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-87\n質問番号 地図番号 174.5\nA 普通注記 ページ\n[B 除いた共通語]\n[C 除いた特殊語] (59)\n項目名 じゃがいも 186\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nジャガイモ　アカイモ（白）、シロイモ、セイダイモ等の名がある\nse:da, se:daju:, se:daimo\n(この収で 思い出してくれたか 原形か「清太夫」 芽」とすれば、 ② → ③ → ① の順に 改訂されたと思うべきか。)\n\nコオシンモ　〈布〉\nセイダイモ　〈古、老人などでは使う人がいる〉　ジャガイモ\n同上\n同上\n\nse:ida　〈今の人は [dayatara] という〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05387.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05387",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05387.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "6617.75",
+      "6620.49",
+      "6620.53",
+      "6621.34",
+      "6621.57",
+      "6621.94",
+      "6625.17",
+      "6625.66",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-88\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\n(A) 普通注記　ページ (60)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]\nA 注のない語形　[B・C 残した語形とその注]\n\n6617.75　ジャガイモ（右）\n6620.49　nidoimo　〈希〉\n6620.53　dzayataraimo　〈希〉\n6621.34　nidoimo,　}　〈bareisoのことです〉\n　希　dzayataraimo　}　〈bareisoとは云わない〉\n6621.57　zaja　（手書き）\n6621.94　zayataimo　〈希〉\n6625.17　nidoimo　右\n6625.66　zayataraimo　〈希〉\n\n（表中の手書きローマ字表記は判読に基づく推定）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05388.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05388",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05388.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "6626.30",
+      "6629.98",
+      "6630.82",
+      "6631.05",
+      "6631.60",
+      "6632.15",
+      "6633.27",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 53-89\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (61)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n66 26.30    ni:doimo 〈昔〉<=ぇとれるから>    zajaimo.\n66 29.98    he:rokuimo 〈古〉[聞いたことがない]    zajaimo\n66 30.82    ko:su:imo 〈昔。種類が別。もっと小さくて味もよくなかった〉\n66 31.05    zayatara 〈今〉\n66 31.60    zajaimo 〈昔。白い種類〉  ko:su:imo 〈赤も白もある。大きい。〉\n66 32.15    ko:bo:imo  古.    nidoimo\n66 33.27    oranda 〈昔〉  zagatara  zajaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05389.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05389",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05389.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "6633.33",
+      "6633.89",
+      "6635.54",
+      "6636.62",
+      "6641.39",
+      "6642.33",
+      "6643.15",
+      "6643.16",
+      "6643.72",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-90\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(62)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6633.33　zayatara　多　　zaya\n6633.89　zayatara　た　　zaya\n6635.54　zayatara　希　　zayaimo\n6636.62　dzayatara　<古>　同上\n6641.39　zayatara　多　　zayataraimo\n6642.33　dzayatara　多　　dzayaimo\n6643.15　zayatara　多　　zayataraimo\n6643.16　zayatara　た　　zayaimo\n6643.72　gonyatsuimo　最多く使う\n\n（注）手書きのローマ字表記はおおよその転記。ページ下部に更に注記あり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05390.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05390",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05390.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "6645.37",
+      "6645.62",
+      "6651.32",
+      "6655.38",
+      "6661.02",
+      "6665.25",
+      "7266.60",
+      "7268.87",
+      "7269.96",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-91\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ　(63)\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]\nA　注のない語形　[B・C　残した語形とその注]\n\n6645.37　zayaimo　〈一番多く使う〉　bare: so\n6645.62　zayatara　〈古〉\n6651.32　zayatara　〈希〉\n6655.38　zayatara　若い頃　使った\n6661.02　zayatara　〈希〉\n6665.25　同上\n7266.60　orandaimo　〈古〉\n7268.87　zaga　〈汚〉\n7269.96　orandaimo　〈古〉\n\n（手書きの語形・注記が複数行にわたって記入されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05391.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05391",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05391.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "7279.01",
+      "7302.87",
+      "7303.29",
+      "7303.37",
+      "7317.29",
+      "7320.95",
+      "7323.02",
+      "7324.47",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-92\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[ ]は厳密にする。\n調問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（64）\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C　残した語形とその注]\n7279.01　ジャガイモ（主），オランダイモ（古），バレイ\n7302.87　gagaimo ＜古＞， bareijo ＜幼＞ ＜農換の人から聞く＞\n7303.29　zagaimo（ゴウレユウイモなし，バレイショなし）\n7303.37　bare:jo:（サ）\n7317.29　kinka ＜多＞\n7320.95　odaisamaimo（苦）\n7323.02　zagaimo（百姓語），bareijo:（上等語）\n7324.47　bare:（so: をつけないでいう と答えた）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05392.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05392",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05392.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "7325.84",
+      "7330.77",
+      "7332.46",
+      "7332.97",
+      "7335.34",
+      "7339.27",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-93\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[ ]は厳密にする。\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (65)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7325.84  bareitso 〈日露戦争以後〉, sinana'imo 〈古〉　← no か?\n7330.77  gonsukeimo 〈古〉（ごんすけとはこのいもを移入した人だと 言い伝えられていた。）  zagaimo\n7332.46  baraiso:  eが?\n7332.97  bareiso （ゴーシュイモなし）\n7335.34  # tsoroimo 〈希〉  dzagaimo\n7339.27  zagaimo〈?〉（〈jamai mo?〉もあった。 hatake が etc.　長い注記）\n（それはちがう）このことである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05393.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05393",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05393.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "7340.27",
+      "7343.76",
+      "7345.43",
+      "7346.58",
+      "7353.51",
+      "7354.23",
+      "7359.78",
+      "7362.42",
+      "7370.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-94\n質問番号 地図番号\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (66)\n項目名 じゃがいも 186\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nbaretso: <古>    zagaimo\ndzagaimo <古>    bare:tso\n-dzagaimo    (手書き日本語注記)\n-bareitso <上>    ジャガイモ、ここハレイチョということがある。\nsitsijimo (信州いもだろう)\n<?> カンポロ <古>    ジャカイモ\nzagaimo <尊>    bareiso\nジャガタライモ <古>    ジャガ\norandaimo <古>    zaga\n(他に手書き注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05394.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05394",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05394.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "7350.96",
+      "7371.93",
+      "7374.15",
+      "7374.75",
+      "7375.30",
+      "7375.96",
+      "7383.83",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 53-95\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（[]）は厳密にする。\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (67)\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き記録（行ごとの主要な可読部を抜粋）:\njakaimo　ジャカイモ（時にジャガイモになることもある）    ジャカタロ（表記）\nzagataro　<古>    zagaimo\n[アレロ] [古]　現在 80才以上ぐらいになる人が昔に使っていた。品種改良以前のジャガイモである。\nニドイモ　くわせて、赤い色のジャガイモ　ジャガイモ\nnido'imo　古    zaga'imo\ndzagataro'imo　<希,古>    dzaga'imo\nジュウキュウ　ニドジュウキュウ（手書きメモ）\n（注：手書きのローマ字表記や旧仮名遣い、注記が多数あり、一部判読困難な字句あり。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05395.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05395",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05395.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "7391.01",
+      "7391.94",
+      "7393.62",
+      "7401.60",
+      "7402.42",
+      "7403.86",
+      "7404.12",
+      "0174.5"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 53-96\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (68)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7391.01　オカダイモ　＜古。今は殆ど用いない＞　ジャガフ\n7391.94　カラカンボ　＜古。極めて希＞　同\n7393.62　リュウキュウ… [dju:kju:]とも。　ジャガンイモ\n7401.60　zagataraimo　＜希＞　zagaimo\n7402.42　odaiji-imo　＜希＞　nidoimo\n7403.86　sodoimo（'soro imo'の訛りであろう）　nidoimo　＜年による。とれるが＞\n7404.12　zigaimo　＜ふつうにはこれを多く使う＞　zagataraimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05396.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05396",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05396.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "7404.56",
+      "7406.53",
+      "7408.50",
+      "7412.71",
+      "7414.06",
+      "7415.47",
+      "7416.34",
+      "7417.27",
+      "7418.33",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　53-97\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞( )[ ]は厳密にする。\n\n資問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(69)\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\nsando imo　〈普〉　　　3) jagaimo\ngoːjiimo　〈古〉　　　3aːgaimo\nnidoimo　(外), goːjiimo(古)\nzagaimo　〈いもが Futo i〉, zuru zui imo 〈いもが komai〉\nhoːdoimo　〈古〉　　　3aːgaimo\n同上\ngoːjiimo　〈古〉　　　nidoimo\nnidoimo　〈今〉, Fundoimo (古)\nnidoimo　〈女〉　　　zagaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05397.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05397",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05397.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "7421.38",
+      "7427.24",
+      "7431.13",
+      "7431.82",
+      "7432.95",
+      "7461.23",
+      "7506.64",
+      "7510.18",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    53-98\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (70)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7421.38   zagatara 〈下〉    zagaimo\n7427.24   nidoimo (右)\n7431.13   bareitso (後から補った。)    bareiso\n7431.82   bareitso 〈幼〉    ko:bo:imo\n7432.95   ba're?sa 〈少〉    zgajaimo, ba're:so\n7461.23   zagatataimo 〈古〉    zgajaimo\n7506.64   zagatara'imo 〈子供の時に使った〉\n7510.18   ジャガイモ 〈右〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05398.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05398",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05398.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "7521.16",
+      "7523.05",
+      "7659.40",
+      "8301.19",
+      "8324.26",
+      "8325.56",
+      "8333.03",
+      "8342.51",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 54-01 質問番号 地図番号 174.5 項目名 じゃがいも 186 A 普通注記 ページ (71) [B 除いた共通語] [C 除いた特殊語] 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] ジャガタライモ <希> ジャガイモ シャガイモ 7521.16 ジャガイモ <多> ニドイモ 7523.05 dzagaimo <昔はなかった> 7659.40 ジャガイモ <希,古,老人語> バレイショ 8301.19 dzaga'iimo <多> dzagata'imo 8324.26 dzaga'iimo 8325.56 zagaimo ([zagataimo] 注記あり) 8333.03 zagatara <希> zagaimo 8342.51",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05401.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05401",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05401.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "8345.18",
+      "8352.92",
+      "8361.28",
+      "1148.59",
+      "1156.89",
+      "1167.01",
+      "1169.84",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-02\n質問番号 地図番号 174.5\n項目名 じゃがいも 186 (72)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n8345.18    dzagataro <昔はこの辺りには なかった>\n8352.92    zagata <多>    zagatara? imo\n8361.28    dzayata <多>    dzanata, dzatanara imo\n1148.59    dzagaimo    戦後の輸入作物。\n1156.89    N.R.    (最近入って来ているので、地方の言葉ではないので答がない。)\n1167.01    ジャガイモ    (最近入って来たばかりで、未だ自分らの言葉にはなっていない。)\n1169.84    dzagaimo <外> <最近輸入された語で共通語的。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05402.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05402",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05402.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "1211.69",
+      "1221.47",
+      "1231.72",
+      "1231.88",
+      "1232.29",
+      "1232.75",
+      "1233.61",
+      "1241.05",
+      "0174.5"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 54-03\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　ページ（73）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞＜（　）［　］は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］\n1211.69　dzagaimu　戦後の輸入作物。\n1221.47　dzagaimo　例\n1231.72　dzagazimo　＜最近輸入されたので共通語を使用する。＞\n1231.88　ジャガイモ　極く最近輸入されたのでこういう。\n1232.29　同上\n1232.75　dzagazimo　＜例＞＜最近の輸入なので共通語として用いる。＞\n1233.61　dzagaimo　＜戦後の輸入作物＞\n1241.05　dzagazimo　＜妙＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05403.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05403",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05403.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "1241.49",
+      "1241.96",
+      "1242.06",
+      "1242.22",
+      "1242.26",
+      "1242.72",
+      "1250.59",
+      "1742.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-04\n質問番号　地図番号　17425\n項目名　じゃがいも　186\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (94)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]\n\n1241.49    dzagazimo　<共通語という感じで用いる>\n1241.96    同　上\n1242.06    dzagazumu　<最近の輸入なので、身分のことばの感じではない。>\n1242.22    dzaga zimo　(最近輸入されたので 共通語のままに使う。)\n1242.26    dzagazumu　<昔はなかった。昭和初年頃入って来た。>\n1242.72    dzagazumu　<戦後の輸入作物>\n1250.59    dzagazimo　<最近輸入されたので、共通語として用いる。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05404.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05404",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05404.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [
+      "1251.04",
+      "1251.27",
+      "1251.73",
+      "1251.98",
+      "1260.78",
+      "1260.87",
+      "1261.01",
+      "1261.16",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-05\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (75)\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\ndzagaimu　昔はなかった。\ndzagaimo　<例、輪入されて25年くらい>\ndzagaimo　(最近の輸入後で、共通語として使う。)\n同上\nジャガイモ　<共通語をそのまま用いる。>\ndzagaimo　<最近輸入されたので、共通語を用いる。>\ndzagaimo　戦後の輸入作物。\n同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05405.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05405",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05405.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "1261.32",
+      "1261.76",
+      "1261.80",
+      "1270.26",
+      "1270.29",
+      "1271.05",
+      "1271.20",
+      "2067.52",
+      "2068.08",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-06\n質問番号 地図番号 174.5\n項目名 じゃがいも 186\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(76)\n地 点 番 号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n1261.32 dzagaimo <最近入った語で、共通語をそのまま使う.>\n1261.76 dzagaimo <戦後の輸入作物.>\n1261.80 ジャガイモ <共通語をそのまま使う>\n1270.26 zaga zimo <約>\n1270.29 zaga zimo <最近輸入されたので共通語を用いる.>\n1271.05 dzagaimo <戦前はなく、戦後作られた.>\n1271.20 N.R. (最近輸入されたばかりで地方のことばになっていない)\n2067.52 dzagaimo <昔はなかった.>\n2068.08 dzagaimo <戦後の輸入作物.>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05406.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05406",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05406.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "2072.20",
+      "2074.69",
+      "2075.22",
+      "2076.25",
+      "2076.96",
+      "2076.97",
+      "2076.98",
+      "2076.99"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-07\n質問番号　地図番号　1745　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (77)\n項目名　じゃがいも 186\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n2072.20　dzagaimo（新しい作物。昭和10年頃入る）\n2074.69　ジャガイモ〈最近入って来たので共通語をそのまま使う。〉\n2075.22　同上\n2076.25　同上\n2076.96　zagaimo〈最近の輸入増である。〉\n2076.97　ジャガイモ〈最近輸入されたので共通語として使う。〉\n2076.98　同上\n2076.99　zagaimo〈最近の輸入増〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05407.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05407",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05407.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [
+      "2085.69",
+      "2086.03",
+      "2095.60",
+      "2140.49",
+      "2140.96",
+      "2141.61",
+      "2141.71",
+      "0174.5"
+    ],
+    "other_text": "54-08\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(78ページ)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（［］）は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き行（対応する地点番号の注記）：\nジヤガイモ　＜最近の輸入で、共通語をそのまま使う。＞\n同上\n同上\n同上　（池間の言葉とは感じておらず、はっきりした借用語。）\nagagaimo　＜外＞\nzagaimo　＜最近輸入されたので、標準語をそのまま用いる。＞\nzagaimu　＜同上＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05408.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05408",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05408.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [
+      "2150.06",
+      "2150.07",
+      "2150.17",
+      "2151.11",
+      "2151.20",
+      "2151.51",
+      "2151.64",
+      "2151.67",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-09\n質問番号　地図番号\n174,5\n項目名　じゃがいも　186\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (79)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n2150.06  zagaimo <外> (極く最近の輸入語)\n2150.07  zagaimo <外>\n2150.17  dzagaimo <外>\n2151.11  zagaimo <外> <共通語として用いる。>\n2151.20  dzagaimo <外>\n2151.51  zagaimo <外>\n2151.64  [同] 上\n2151.67  [同] 上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05409.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05409",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05409.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "0873.94",
+      "0896.22",
+      "1736.84",
+      "1756.32",
+      "1793.14",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n日本語地図資料用紙 注記一覧    54-10\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ ( / )\n\n地点番号\n0873.94\tdzagaimo　<希>\tgosoimo　<多>　(soよりgoに近い)\n0896.22\tハレイショ　<新>　最近の取引関係による。\tゴショイモ　<古>、イモ 日常は最近、ダンショクとかベニマルとか、複数名で言うのも多い。例えば「そこのダンショクはうまい」。\n1736.84\tハレイショ　<農業組合で>\tゴショイモ、シャガイモ\n1756.32\tジャガイモ　<希>\tイモ\n1793.14\t同　上\n\n（注記者）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05410.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05410",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05410.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_080.jpg",
+    "page_index": 80,
+    "location_numbers": [
+      "1942.03",
+      "2712.33",
+      "2720.75",
+      "3700.19",
+      "3705.42",
+      "3746.76",
+      "3747.91",
+      "0172.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 54-11\n質問番号　地図番号　172.5\n項目名　じゃがいも\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(2)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n1942.03　bareijo　〈配給になった時〉←〈新〉と認む SAT　nidoimo〈子供の時〉　gosoimo〈すでに言ったか 今は笑われる〉　imo〈今〉\n2712.33　ジャガエモ　共\n2720.75　ジャガエイモ　新, ごく新しい。よそから来た人が使う。 ゴショエモ, ニドエノモ\n3700.19　dzayaimo　〈共〉　imo\n3705.42　dzaya'imo　(形)　18上\n3746.76　ジャガエモ　〈幼〉\n3747.91　ジャガエモ, そく新　バレーショ\n\n（注：手書きのローマ字表記・注記は読み取りにくい箇所があります。上は判読できる範囲での転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05411.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05411",
+    "source_canvas_label": "81",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05411.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_081.jpg",
+    "page_index": 81,
+    "location_numbers": [
+      "3764.92",
+      "3767.22",
+      "3777.32",
+      "3783.58",
+      "3793.37",
+      "4598.59",
+      "4599.31",
+      "4637.20",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-12\n質問番号 地図番号 174.5\n項目名 じゃがいも 186\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\nページ (3)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞（ ）［ ］は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n語形一覧（中欄・右欄）:\nジャガイモ〈外〉　　　ナズエモ〈古〉, =ドエモ\nジャガエモ〈外〉, バレーショ〈外〉　　　エモ\nバレーショ（外）　　　ナズエモ\nジャガイモ〈外〉　　　ニドエモ\nパレーショ（外）　　　同上\ndzayaimo〈外〉　　　　nidoimo\ndzayaemo〈外〉　　　　nidoemo\n同上　　　　　　　　nindoemo（古く、今も多い）\n（欄外注記）表も古く godoemo という呼び方あった。じゃがいもの一種かどうか等の注記あり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05412.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05412",
+    "source_canvas_label": "82",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05412.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_082.jpg",
+    "page_index": 82,
+    "location_numbers": [
+      "4637.68",
+      "4638.43",
+      "4648.42",
+      "4663.06",
+      "4665.87",
+      "4666.17",
+      "4675.45",
+      "4675.62",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    54-13\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n(右上の箱) 資問番号　地図番号　174,5　項目名　じゃがいも　A 普通注記　B 除いた共通語　C 除いた特殊語　(4)\n表見出し: 地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n4637.68  bare: so 〈外〉 (多)    nidoemo 〈古,希〉\n4638.43  dzanaemo 〈対〉 昭和10年頃、北海道から種芋を買うようになって以来用いる。  natsuemo 〈古〉[多], [nidoemo]〈外〉\n4648.42  dzagaemo 〈共〉, bare: so 〈共〉    nidoemo (最も多、共通語場面でも使う。)\n4663.06  dzagaimo  [例]    nidoimo\n4665.87  dzagaemo 〈外〉    nirolmo 〈古〉\n4666.17  dzagaemo 〈共〉 多    nidoemo\n4675.45  bare: so 〈上〉, 〈共〉    nidoemo\n4675.62  dzagaemo 〈希〉    nidoemo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05413.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05413",
+    "source_canvas_label": "83",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05413.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_083.jpg",
+    "page_index": 83,
+    "location_numbers": [
+      "4678.77",
+      "4685.72",
+      "4685.28",
+      "4686.02",
+      "4686.96",
+      "4687.01",
+      "4687.37",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙　注記一覧          54-14\n（右上フォーム）\n質問番号　地図番号　174,5\n項目名　じゃがいも　J86\nA　普通注記\nB　除いた共通語\nC　除いた特殊語\nページ　(5)\n\n（表ヘッダ）\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4678.77    dzagaemo（沙）    nazuwemo ＜最多＞, kampuraemo ＜相当用いる＞\n4685.72    dzagaemo（共） -    nidoemo\n4685.28    dzagaemo ＜新＞    ko:sjo:emo ＜右＞\n4686.02    bare:jo ＜共＞    nidoemo\n4686.96    dzagaemo ＜共＞    同上\n4687.01    同上\n4687.37    dzagaemo ＜新＞    kamporaemo（最古の言い方で　報調査者より老年の人も多く用いる。）\n\n（下部手書き）\n1. nidoemo\n2. nidoemo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05414.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05414",
+    "source_canvas_label": "84",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05414.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_084.jpg",
+    "page_index": 84,
+    "location_numbers": [
+      "4689.62",
+      "4694.26",
+      "4695.87",
+      "4697.92",
+      "4710.18",
+      "4741.92",
+      "4743.44",
+      "4750.32",
+      "4750.76",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-15\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ（6）\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n4689.62　dzayaemo　<記号>　sunaemo nidoemo　<右>\n4694.26　bare:so　<井>　nidoemo\n4695.87　dzayaemo　<井>　natsumemo\n4697.92　dzayaemo　<分>　waseemo\n4710.18　dzayaemo　<共>　nidoimo\n4741.92　dzayaemo　<今>　nadzüemo <昔>\n4743.44　dzayaemo　<新>　gogoemo <右>\n4750.32　バレェショ　（今、多）　ニドエモ（昔、今は希）\n4750.76　bare:so　<新>　nidoemo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05415.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05415",
+    "source_canvas_label": "85",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05415.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_085.jpg",
+    "page_index": 85,
+    "location_numbers": [
+      "4753.76",
+      "4760.98",
+      "4772.33",
+      "4784.41",
+      "5567.46",
+      "5568.57",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\n(7)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4753.76    dzayaemo　＜新＞    nidoemo　＜右＞\n4760.98    zãgai\n4772.33    dzayaimo　＜新＞    natsuimo　＜右＞\n4784.41    bare:so　＜新＞    *bare『jo』，被調査者夫人\n　　　　(agaemo) , 3 dzayaemo\n5567.46    ジャガイモ　＜共＞    グライモ（グラとは馬鹿の音）\n5568.57    バレエショ　＜新＞\n(欄外手書きメモ) シンシュウイモ＜右＞，センダイイモ，センザイモ，ウリモ，ナツイモ\n（その他判読困難な注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05416.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05416",
+    "source_canvas_label": "86",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05416.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_086.jpg",
+    "page_index": 86,
+    "location_numbers": [
+      "5569.36",
+      "5574.42",
+      "5578.27",
+      "5579.10",
+      "5579.79",
+      "5587.74",
+      "5588.78",
+      "5597.26",
+      "5598.53",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-17\n質問番号　地図番号　174,5\n項目名　じゃがいも 186\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ (8)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5569.36　ジャガイモ　<共>　ナツイモ <古,希>\n5574.42　dzagaimo <若>　nidoi'mo\n5578.27　ジャガイモ <新,共>　センタイモ <古>, ナツイモ\n5579.10　ジャガイモ　<共>　センタイイモ\n5579.79　ジャガイモ, バレイショ <共>　センタイイモ\n5587.74　ジャガイモ　<共>　ニドイモ <こふとれるか>, ナツイモ\n5588.78　ジャガイモ <新,共>　センタイモ <右,他>, ナツイモ\n5597.26　ジャガイモ <共>　ジャガクラ, コオホイモ\n5598.53　同　上　コオハイモ, ジャガクラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05417.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05417",
+    "source_canvas_label": "87",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05417.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_087.jpg",
+    "page_index": 87,
+    "location_numbers": [
+      "5598.67",
+      "5604.28",
+      "5604.52",
+      "5609.81",
+      "5613.80",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-18\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（行1）　ジャガイモ〈英〉　コホホオイモ〈古〉, 昔〉, ジャグタモ\n（行2）　dzagaemo〈新, 希〉　ko:śaemo〈古く今も多く使〉; nidoemo〈ko:śaemoの一種〉 北海道から来た 味がかった芋。 (品種名と認めるべきか、総称と認めるべきか迷う。)\n（行3）　dzagaemo〈英〉　sandoemo〈多〉〈tarumaemoといって… 秋収獲する晩生のじゃがいもの一種か昔あった〉\n（行4）　dzagaemo〈今〉　ko:siimo〈古〉\n（行5）　dzagaemo（幼）　dzagaremo（白花の芋の中枢…）\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05418.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05418",
+    "source_canvas_label": "88",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05418.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_088.jpg",
+    "page_index": 88,
+    "location_numbers": [
+      "5615.28",
+      "5618.43",
+      "5625.32",
+      "5626.99",
+      "5628.23",
+      "5631.16",
+      "5631.26",
+      "5632.28",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　　　54-19\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n【質問番号　地図番号】 174.5\n項目名　じゃがいも　186\nA　普通注記　ページ\nB　除いた共通語\nC　除いた特殊語　(10)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n5615.28    bare: jo <共>    dzagaraemo\n5618.43    bare: jo <新>    dzagaemo\n5625.32    ジャガエモ (新)    ジャカタラ エモ (左)\n5626.99    ジャカイモ <郷>    佃\n5628.23    zagaiimo <註>    danjakuu\n5631.16    bare: jo <共.希>    goroimo, natsuimo\n5631.26    dzagaimo <共>    'nidoimo <左>, natsuimo\n5632.28    bare: jo <郷>    dzayataraimo ~ dzagaimo　※前注あり",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05419.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05419",
+    "source_canvas_label": "89",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05419.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_089.jpg",
+    "page_index": 89,
+    "location_numbers": [
+      "5633.81",
+      "5633.96",
+      "5639.47",
+      "5641.07",
+      "5641.13",
+      "5642.17",
+      "5642.31",
+      "5643.33",
+      "5645.89",
+      "0194.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-20\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n\n質問番号　地図番号　194,5\n項目名　じゃがいも　186\nA　普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (4)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5633.81　dzayaemo　＜共＞　natsuemo\n5633.96　dzayaemo　＜共＞　ro:kjoemo\n5639.47　ハレイショ　＜新＞＜改まった言い方＞　ジャンガラ　＜古。今も普通に用いる。＞\n5641.07　zgayaimo　＜共＞　goroimo, natsuimo\n5641.13　bare:jo　＜新＞　gorodzaimo\n5642.17　bare:jo　＜希＞　dzayataremo ＜希＞, dzayaemo\n5642.31　dzayaimo　＜共＞　natsuimo\n5643.33　bare:jo　＜共＞　natsuimo, dzayaimo\n5645.89　ハレイショ　＜俗＞　ジャガタラ ＜左＞ ジャガイモ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05420.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05420",
+    "source_canvas_label": "90",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05420.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_090.jpg",
+    "page_index": 90,
+    "location_numbers": [
+      "5646.71",
+      "5647.56",
+      "5651.95",
+      "5652.22",
+      "5652.37",
+      "5652.81",
+      "5652.96",
+      "5654.98",
+      "5655.41",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    54-21\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　　ページ　(12)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nジャガイモ ＜芽＞\nジャガタ＜古＞, ジャガタラ\nバレイショ ＜芽＞\nジャガイモ＜古＞\nbare:so, dganaimo ＜共＞　natsuimo\nbare:so ＜勢, 希＞　natsuimo, kabutaimo\nbare:so ＜共, 希＞　kabitaemo\ndganaimo ＜共＞\ndzanaimo ＜共＞　kabutaimo\nジャガイモ ＜芽＞　サンドイモ ＜古＞\nバレイショ ＜芽＞　サントクイモ ＜芽＞, ジャガタラ (古)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05421.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05421",
+    "source_canvas_label": "91",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05421.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_091.jpg",
+    "page_index": 91,
+    "location_numbers": [
+      "5656.62",
+      "5657.98",
+      "5658.01",
+      "5661.34",
+      "5662.78",
+      "5664.58",
+      "5665.12",
+      "5665.46",
+      "5666.10",
+      "5667.24"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞()[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧     54-22\n\n質問番号　地図番号　　　　1745\n項目名　じゃがいも　18c\nA 普通注記　　　(B) 除いた共通語　(C) 除いた特殊語　ページ (13)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5656.62　ハレイショ <郷>　　ジャガイモ <多>\n5657.98　同上　　　　　　　ジャガタラ <多>；ジャガクライモ\n5658.01　ジャガイモ <郷>　　ジャガタラ化 <古>\n5661.34　dagaimo <希> , bare:jo <郷>　natsuimo\n5662.78　bare:jo <郷>　　　　dgayaemo\n5664.58　ハレイショ <ケ>　　　ジャガイモ <多> , サントクイモ\n5665.12　ハレイショ <学校では> <- 共と読む sAT.>　ジャガタラ\n5665.46　ジャガイモ <郷>　　　サントク, サントクイモ\n5666.10　ハレイショ <努>　　　ジャガタライモ <古> , ジャガイモ\n5667.24　ハレイショ <郷>\n\n(書き取りは概略。手書き部分は判読に不確かな箇所あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05422.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05422",
+    "source_canvas_label": "92",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05422.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_092.jpg",
+    "page_index": 92,
+    "location_numbers": [
+      "5667.41",
+      "5670.47",
+      "5671.00",
+      "5671.36",
+      "5671.38",
+      "5671.68",
+      "5671.94",
+      "5672.52",
+      "5672.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-23\n質問番号　地図番号\n項目名　じゃがいも　186\nA　普通注記　ページ (14)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n5667.41　ハレイショ〈外〉　ジャカンタラ〈右〉\n5670.47　bare:jo〈例〉　dzayaimo\n5671.00　dzayaimo〈共〉　natsuimo\n5671.36　bare:jo〈例〉　同上\n5671.38　dzayaimo〈共〉　同上\n5671.68　dzayaimo〈例〉　natsuimo〈右〉, imo\n5671.94　dzayaimo〈共〉　natsuimo\n5672.52　dzayaimo〈例〉　同上\n5672.75　dzayaimo〈希〉　roku yatsuimo〈右〉, natsuimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05423.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05423",
+    "source_canvas_label": "93",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05423.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_093.jpg",
+    "page_index": 93,
+    "location_numbers": [
+      "5675.87",
+      "5676.10",
+      "5676.52",
+      "5676.84",
+      "5681.41",
+      "5681.47",
+      "5682.37",
+      "0174.5"
+    ],
+    "other_text": "54-24\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　174.5　　項目名　じゃがいも　186\nA　普通注記　　B　除いた共通語　　C　除いた特殊語　ページ　(15)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n地点番号　　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n5675.87　バレエショ・・・北海道方面から種芋をとるように　なってからの語　←　新と認む。SAT.　サンドイモ・・・昔からの語。（現在ではバレエショと半々。）\n5676.10　bare:jo　＜改まった感じ＞　zayanataraimo\n5676.52　バレエショ　＜改まったことは。農業会の申し込みの時 サンドイモ＜年に3るとれる＞、にいる。＞　シンシイモ＜信州より＞\n5676.84　バレエショ　＜共＞　サンドイモ＜古＞、イモ、シンシイモ＜老人が使う＞＜信州から来た。＞\n5681.41　bare:jo　＜妥＞　dzagaimo\n5681.47　bare:jo　＜共＞　dzagaimo, nidoimo\n5682.37　dzagaimo, bare:jo　＜上.希＞　seidaimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05424.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05424",
+    "source_canvas_label": "94",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05424.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_094.jpg",
+    "page_index": 94,
+    "location_numbers": [
+      "5682.92",
+      "5683.61",
+      "5685.02",
+      "5685.37",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    54-25\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　ページ（16）　B　除いた共通語　C　除いた特殊語\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\nbare: so ＜共＞\nnidoimo\nハルエショ ＜共＞\nジャガイモ\njagaimo ＜今＞ …ふだん使う。bare: jo: ＜今＞ 総称。\n1) siʃu:imo ＜大、古＞\n(sandoʔimo ＜古＞)\n秩と３種類。（信州と思っている）ロシアや北海道から来て来た種類もある。\nimo\nbare: so ＜共＞\n(sic handwritten notes and comments)\n（欄外に小書き）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05425.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05425",
+    "source_canvas_label": "95",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05425.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_095.jpg",
+    "page_index": 95,
+    "location_numbers": [
+      "5686.31",
+      "5688.37",
+      "5694.79",
+      "5696.54",
+      "5698.19",
+      "5712.70",
+      "5731.13",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-26\n\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）〔　〕は厳密にする。\n\n【質問番号】【地図番号】 174.5\n項目名 じゃがいも 186\nA 普通注記  B 除いた共通語  C 除いた特殊語 ページ (17)\n\n地点番号　A 語形とその注記 [B･C 除いた語形とその注]　A 注のない語形 [B･C 残した語形とその注]\n\n5686.31  bare:jo <芽>    sandoimo, sirsui:imo, dzagatara\n5688.37  ジャガイモ <今>  ジャガタラ <古>\n5694.79  ジャガイモ <幼>  モエタンイモ\n5696.54  dzajnaimo <幼>   tsuruiimo\n5698.19  bare:jo <幼>     dzajnaimo 注記\n5712.70  zayaimo <幼>     kampuraimo ..[tampurak <古>]\n5731.13  dzayaemo (幼)    kampuira, kampuiraemo, kampora, kamporaemo\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05426.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05426",
+    "source_canvas_label": "96",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05426.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_096.jpg",
+    "page_index": 96,
+    "location_numbers": [
+      "5741.25",
+      "5742.65",
+      "5780.11",
+      "5792.18",
+      "6348.77",
+      "6356.98",
+      "6366.67",
+      "6377.65",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-27\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　(B)除いた共通語　(C)除いた特殊語　ページ (18)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞( )[ ]は厳密にする。\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A　注のない語形　[B・C　残した語形とその注]\n5741.25 zagayaimo <希,約> <ほかに kampuraimo, orandaimo という人もいる>\n5742.65 pare:jo (浮)\n5780.11 bare:jo <浮>\n5792.18 pare:jo <最近>\n6348.77 バレイショ <芋>\n6356.98 バレイショ <新>\n6366.67 bareijo <浸>\n6377.65 バレイショ <古>\n（右欄手書き注） kampūraemo (古), dzagayaemo, kinka imo <古>, ギリモ <切って植えるから>, キンカイモ <古>, ニドイモ <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05427.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05427",
+    "source_canvas_label": "97",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05427.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_097.jpg",
+    "page_index": 97,
+    "location_numbers": [
+      "6394.78",
+      "6403.62",
+      "6406.77",
+      "6408.15",
+      "6408.88",
+      "6409.00",
+      "6412.12",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-28\n質問番号 地図番号 174.5\n項目名 じゃがいも 186?\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (19)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n表見出し: 地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n6394.78　バレイショ <…>　キンカイモ\n6403.62　dzagaimo <…>　jinajimo\n6406.77　bare:sjo <…>　ko:boimo <古>　nidoimo <さほど古くない>　kinkaimo\n6408.15　ジャガイモ <…>　ハセイモ\n6408.88　バレエショ <共, 希>　ニドイモ\n6409.00　ジャガイモ <…>　ハワショイモ <古>　ニドイモ <右>\n6412.12　バレイショ <…>\n手書き注: （商人の呼称か）次第に明治以末かわって来た。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05428.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05428",
+    "source_canvas_label": "98",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05428.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_098.jpg",
+    "page_index": 98,
+    "location_numbers": [
+      "6413.10",
+      "6414.17",
+      "6415.80",
+      "6415.83",
+      "6417.14",
+      "6418.75",
+      "6419.09",
+      "6419.25",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-29\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の< >（　）（　）は厳密にする。\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ　(20)\n表ヘッダ: 地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n行1: zagaimo　<別,上品>　kigkaimo\n行2: bare:jo　<別,サ>　dzagaimo　<多>　ko:boimo　<た>\n行3: bare:so　<別>　ko:boimo　<右,多>\n行4: bare:tso　<別>　ko:boimo\n行5: bare:jo　<別,上>　dzagaimo　<多>　ko:boimo　<古,今は用いない>\n行6: ジャガイモ, バレエショ　<共に新,希>　-> ドイモ　<昔から,今も使う>\n行7: バレエショ　<別,上>　ジャガイモ　同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05429.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05429",
+    "source_canvas_label": "99",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05429.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_099.jpg",
+    "page_index": 99,
+    "location_numbers": [
+      "6419.50",
+      "6421.26",
+      "6421.79",
+      "6427.40",
+      "6427.93",
+      "6428.76",
+      "6429.15",
+      "6429.30",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-30\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の< >（ ）[ ]は厳密にする。\n（右上の箱）質問番号　地図番号　174.5　項目名　じゃがいも　186　A　普通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ（-2/）\n表見出し：地点番号　A　語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n表中（読み取りできる語形・注）：バレエショ〈共〉／ジャガイモ、ハッショオイモ、サンドイモ／dzagaimo〈郷〉／dzagaimo〈粉〉／ko:boimo〈多〉／nidoimo［右］／sandoimo／ニドイモ〈最も多く使う〉／パレエショ〈使う事が少〉  (粗い筆記の転写)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05430.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05430",
+    "source_canvas_label": "100",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05430.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_100.jpg",
+    "page_index": 100,
+    "location_numbers": [
+      "6430.26",
+      "6435.03",
+      "6437.07",
+      "6439.77",
+      "6444.89",
+      "6445.57",
+      "6446.43",
+      "6448.23",
+      "0174.5"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧　54-31\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA　普通注記　ページ\n(B)　除いた共通語\n(C)　除いた特殊語　(22)\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nじゃがいも　〈外〉\njagaimo 〈外〉（手書きローマ字）\nA側例：ko:boimo 〈古、多〉\nキンカイモ 〈た〉\nサンドイモ\nハレイショ 〈外〉（レイときこえた）\n（同上）\nジャガイモ 〈幾〉\nキンカイモ、サンドイモ\nジャガイモ、〔オランダ〕\nオランダイモ\n（手書き注記や傍点、丸括弧等が複数あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05431.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05431",
+    "source_canvas_label": "101",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05431.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_101.jpg",
+    "page_index": 101,
+    "location_numbers": [
+      "6449.19",
+      "6449.20",
+      "6453.31",
+      "6453.64",
+      "6457.18",
+      "6458.40",
+      "6464.77",
+      "6466.36",
+      "6469.77",
+      "6476.92",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　54-32\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ　(23)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n（手書き記入例）\nジャガイモ　〈郷〉　ニドイモ\n同　上　オランダ，オランダイモ\nハレイショ…現　キライモ，サンドイモともに古\nジャガイモ　〈郷〉　つおおイモ〈古〉\nジャガイモ　〈別〉\nハレイショ　〈別〉　\n（など、表に手書きの語形と注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05432.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05432",
+    "source_canvas_label": "102",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05432.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_102.jpg",
+    "page_index": 102,
+    "location_numbers": [
+      "6477.02",
+      "6482.75",
+      "6485.30",
+      "6485.46",
+      "6486.50",
+      "6486.93",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-33\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )［ ］は厳密にする。\n地図番号 174,5\n項目名 じゃがいも 186\nページ (24)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nハレイショ〈共〉　ハツショイモ、ジャガイモ\njagaimo〈共〉　kan'toimo\nジャガイモ 新　ニドイモ〈右〉 はじめてこれがわたって来た頃はニドイモと言っていた。（明治30年代か。）\nハレイショ〈希〉　アンヌイモ〈右〉 ニドイモ、ジャガイモ\nハレイショ 別　ニドイモ 右\nジャガイモ〈共〉 ニドイモ〈普〉 キンカイモ〈赤くて光っているが〉\n（欄外および手書きメモが多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05433.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05433",
+    "source_canvas_label": "103",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05433.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_103.jpg",
+    "page_index": 103,
+    "location_numbers": [
+      "6500.22",
+      "6501.92",
+      "6508.74",
+      "6509.38",
+      "6512.67",
+      "6517.31",
+      "6517.65",
+      "6518.30",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    54-34\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ（25）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6500.22　ジャガイモ　〈…〉　／　ハシヨイモ〈古〉、ニドイモ〈普通に用いる〉\n6501.92　ジャガイモ（お）　／　ニドイモ（一般。子供達を除けば皆が使う）\n6508.74　ジャガイモ〈共〉　／　ジャガタラ、ジャガタライモ\n6509.38　ハレエショ〈共〉　／　アガイモ〈総称〉\n6512.67　agayaimo〈…〉　／　nidoimo〈老人が使う〉\n6517.31　ジャガイモ〈共〉　／　ジャガタラ\n6517.65　ハレエショ、ジャガイモ ともに〈共〉　／　コオスイモ\n6518.30　ジャガイモ〈雅〉　／　ジャガタラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05434.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05434",
+    "source_canvas_label": "104",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05434.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_104.jpg",
+    "page_index": 104,
+    "location_numbers": [
+      "6518.87",
+      "6522.37",
+      "6524.01",
+      "6526.04",
+      "6526.98",
+      "6530.58",
+      "6531.53",
+      "6536.00",
+      "0174.5"
+    ],
+    "other_text": "54-35\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　174,5\n項目名　じゃがいも\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ (26)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n（表見出し）\n地点番号　A　語形とその注記〔B・C除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\n\n（行）\nバレイショ　〈稀〉〈共通語で珍しいことば〉\nジャガイモ、ジャガタライモ〈稀〉〈共通語で珍しいことば〉\nジャガイモ　〈新しい感じ〉　=ニドイモ\nbareijo　〈配給時代から〉 → 部と認む\ndzentkodziimo〈古〉, dzagayaimo\nジャガイモ　〈共〉\nバレイショ　〈共、希〉\nハルエチョ？\nsando'imo, kobo'imo 〈古〉\n\n（注：手書きのローマ字表記や注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05435.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05435",
+    "source_canvas_label": "105",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05435.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_105.jpg",
+    "page_index": 105,
+    "location_numbers": [
+      "6540.52",
+      "6540.79",
+      "6547.09",
+      "6551.20",
+      "6552.46",
+      "6553.22",
+      "6563.58",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-36\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA　普通注記　(B)除いた共通語　(C)除いた特殊語　ページ（27）\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\nバレエショ　〈希〉　　ジャガイモ、キンカイモ〈老人層に多く用いられる。〉\nバレエショ　〈共、希〉　アキイモ\ndzayaimo　〈外〉　dzapatara\nジャガイモ　〈外〉\njacuaimo　〈昔、多〉\njayaimo　〈今〉　nidoimo〈古、多〉\njayaimo　〈約〉　nidoimo〈大正時代のことばには〉\n（手書きの注記・英字表記・注釈が複数あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05436.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05436",
+    "source_canvas_label": "106",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05436.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_106.jpg",
+    "page_index": 106,
+    "location_numbers": [
+      "6563.84",
+      "6564.51",
+      "6565.17",
+      "6571.63",
+      "6572.97",
+      "6573.71",
+      "6575.17",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-37\n質問番号 地図番号 174,5\n項目名 じゃがいも 186\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (28)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n6563.84　zayaimo (約)　　　nidoimo, fju:ngaimo (右)\n6564.51　zayaimo ＜多＞　　 nidoimo ＜最多＞, tio:senmmo ＜ナ＞\n6565.17　dzagaimo ＜現＞　　#koju:imo ＜今でもこれで通じる＞\n6571.63　zayaimo ＜約＞　　　nidoimo\n6572.97　zayaimo 併　　　　同上\n6573.71　zayaimo ＜約、最近使っている＞　nidoimo　最近はジャガイモだ?\n6575.17　津がイモ ＜のちにいうようになった＞　ニドイモ\n\n（手書きのローマ字つづりや注記は読みづらく、上は概略の転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05437.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05437",
+    "source_canvas_label": "107",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05437.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_107.jpg",
+    "page_index": 107,
+    "location_numbers": [
+      "6581.52",
+      "6581.68",
+      "6583.19",
+      "6592.10",
+      "6603.24",
+      "6604.60",
+      "6604.98",
+      "6610.00",
+      "6611.61",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-38 質問番号 地図番号 174.5 項目名 じゃがいも 186 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (29) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6581.52 ジャガイモ <共> =ドイモ 6581.68 ジャガイモ <共> 同上 6583.19 jagaimo <外> nidoimo 6592.10 ジャガイモ <共> ニトイモ, ジャガタライモ <希> 6603.24 同上 6604.60 ジャガイモ <妙> ニトリイモ, セエダイモ 6604.98 ジャガイモ <共> セエダイモ 6610.00 同上 コオシンモ <希> 6611.61 bare:jo <最特>, aganaimo <新> ko:jimo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05438.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05438",
+    "source_canvas_label": "108",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05438.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_108.jpg",
+    "page_index": 108,
+    "location_numbers": [
+      "6611.68",
+      "6613.54",
+      "6617.75",
+      "6620.53",
+      "6624.13",
+      "6625.17",
+      "6625.66",
+      "0174.5"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞〈〉[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　54-39\n\n質問番号　地図番号　174,5\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ　(30)\n項目名　じゃがいも　186\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ndzayaimo　〈芽〉　nidoimo\ndzajaimo　〈う〉　seː dzajaimo\nパレエジョ　(芽)　ジャガイモ（在）\nbare:jo　〈希〉　dzayaimo, dzayataraimo 〈希〉\nbare:jo　zayaimo\nzayaimo　bare:so, nidoimo …\nbare:jo　〈芽〉　zayatara, zayataraimo 〈希〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05439.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05439",
+    "source_canvas_label": "109",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05439.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_109.jpg",
+    "page_index": 109,
+    "location_numbers": [
+      "6631.60",
+      "6634.33",
+      "6635.36",
+      "6635.87",
+      "6642.58",
+      "6643.15",
+      "6643.16",
+      "6643.72",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-40\n質問番号　地図番号　174,5\n項目名　じゃがいも　186\nA　普通注記　ページ (3/)\n(B) 除いた共通語　(C) 除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ] は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nzayaimo\nzayaimo\n同上\n同上\nbareiso\nzayaimo\nnid oimo, ko:bo:imo\nzayatara\nzayataraimo\ngonnatsuimo 最も多く使う, zayatara ふだん使う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05440.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05440",
+    "source_canvas_label": "110",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05440.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_110.jpg",
+    "page_index": 110,
+    "location_numbers": [
+      "6651.64",
+      "6652.30",
+      "6652.77",
+      "6655.38",
+      "6686.75",
+      "6698.20",
+      "7268.87",
+      "7279.93",
+      "7320.95",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-41\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　174,5\nA　普通注記　ページ　(32)\n項目名　じゃがいも　186\n(B 除いた共通語)　(C 除いた特殊語)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nzayaimo\tzagataraimo\nzayaimo\tzagatara\nbare:jo\t'zayaimo\nzayaimo\tzagatara　若い頃使った。\ndzagaimo　〈例〉\tdzagataraimo\nbare:jo　〈最近〉\tdzayaimo\nzayaimo　〈幼〉\tzakka!, zaga　〈幼〉\n同　上\tto:imo\nbarei[o:]　(方)\todaisamaimo (昔)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05441.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05441",
+    "source_canvas_label": "111",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05441.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_111.jpg",
+    "page_index": 111,
+    "location_numbers": [
+      "7325.57",
+      "7325.84",
+      "7332.97",
+      "7335.19",
+      "7354.23",
+      "7355.22",
+      "7373.23",
+      "7373.56",
+      "0174.5"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく >< () [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 54-42 質問番号 地図番号 174.5 項目名 じゃがいも 186 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (33) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7325.57 bareiso <外> 7325.84 dzagaimo <外> 7332.97 zjagaimo (外) 7335.19 dzagaimo <外> 7354.23 ジャガイモ <?新> 7355.22 dzagaimo <外> 7373.23 ジャガイモ <章> 7373.56 バレイショ <外> 右欄注記: sinanaoimo / sinan'oimo - bareitjo <日露戦争以後> sinanaoimo <古> (no か?) bareiso (ゴーシュイモなど) バレイショ ジャガイモ ジャガ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05442.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05442",
+    "source_canvas_label": "112",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05442.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_112.jpg",
+    "page_index": 112,
+    "location_numbers": [
+      "7381.38",
+      "7390.26",
+      "7391.01",
+      "7392.33",
+      "7393.62",
+      "7400.11",
+      "7402.47",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-43\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n（右上の表）質問番号　地図番号　174.5\n項目名　じゃがいも　186\nA　普通注記　B（除いた共通語）　C（除いた特殊語）　ページ（34）\n表ヘッダ：地点番号　A 語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C 残した語形とその注】\n手書き欄（各行の読み取り例）:\n7381.38　バレイショ　＜外＞　ジャガイモ\n7390.26　同　上　ジャガイモ，ジャガタロ\n7391.01　ジャガイモ　＜外＞　ジャガ，オカダイモ＜古．今は殆んど用いない。＞\n7392.33　バレイショ　＜外＞　ジャガイモ\n7393.62　同　上\n7400.11　zagaimo（手書き）　ko-boimo（手書き）\n7402.47　zagaimo＜上＞　hodoimo（手書き）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05443.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05443",
+    "source_canvas_label": "113",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05443.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_113.jpg",
+    "page_index": 113,
+    "location_numbers": [
+      "7403.16",
+      "7403.86",
+      "7411.27",
+      "7411.61",
+      "7420.18",
+      "7427.24",
+      "7431.08",
+      "7431.13",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-44\n質問番号 地図番号 174.5\n項目名 じゃがいも 186\nA 普通注記  B 除いた共通語  C 除いた特殊語  ページ (35)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n7403.16  zagaimo <上>    sandoimo\n7403.86  barei?o (bareiso)    sodoimo (soroimo の訛りであろう), nidoimo <年に2るとれるが>\n7411.27  zagaimo  共    nidoimo\n7411.61  zagaimo <卯>    同上\n7420.18  zagaimo <共>    sandoimo\n7427.24  zagaimo (約)    nidoimo\n7431.08  zagaimo, bareiso <せに=針?>    koiboi: imo\n7431.13  zagaimo <外>    bareiso, baren(so) <kobo:imoというのは複数の名で、今はこの種数はなくなった。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05444.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05444",
+    "source_canvas_label": "114",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05444.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  },
+  {
+    "source_image": "page_114.jpg",
+    "page_index": 114,
+    "location_numbers": [
+      "7431.82",
+      "8302.55",
+      "8323.59",
+      "0174.5"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 54-45\n質問番号　地図番号　174.5\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\nページ (36)\n項目名　じゃがいも 186\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7431.82　jagaimo <共>　ko:bo:imo, bareitso <外>\n8302.55　ハレイショ <外>　ジャガイモ\n8323.59　dzagata'imo <外>　dzagata'imo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05445.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M174Q186/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05445",
+    "source_canvas_label": "115",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05445.tif",
+    "source_ljc_id": "LJC-M174Q186",
+    "source_map_numbers": [
+      "174",
+      "175"
+    ],
+    "source_title": "じゃがいも (馬鈴薯)"
+  }
+]

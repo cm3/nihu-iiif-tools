@@ -1,0 +1,1565 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1793.14",
+      "1862.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 12-88\n資料番号　地図番号\n071　52\n項目名　あぐらをかく\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (1)\n\n（表の見出し）\n地点番号　　　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nアグラ　カク・・・（相助詞をいわない）\nアグラ　カク　agyura kaku ＜越中の人は agnutsu kaku＞\nnemaruu .... ＜楽にすることだ＞\nネマル ..... ＜ヒサオルにも言う＞　アグラ　カグ\nアグラ　オカク・・・（早口になるとオがぬける。＜アグラ　カチサイ＞という。）\nアグラ　スル・・・（相助詞をいわない）\nアグラ　カク　カク＜？ タグラ カク＞\n＜アンヅスル きいたことがある＞\n\n3(68.28) ānjura kagu・・・単なるあぐらは小さなつましやかなもの。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01288.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01288",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01288.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3725.12",
+      "3733.22",
+      "3750.75",
+      "3755.32",
+      "4589.83",
+      "4637.20",
+      "4637.68",
+      "4638.63"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-89\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( .)[ ]は厳密にする。\n\n質問番号: 071\n地図番号: 52\nA 普通注記\n[B 除いた共通語]\n項目名: おくるを●かく\n[C 除いた特殊語]\nページ: (2)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n3725.12 ネマル……腰をおろすことはネマル cf. 071の注 | アグラ カグ\n3733.22 ańiira kagiu …… beda ańiira (大あぐら)\n3750.75 ańiira kagiu …… dæ ańiita kagiu 大きな\n3755.32 ネマル …〈安生の意ある〉 | アグラ カグ\n4589.83 anutʃi kaku …〈新〉 | nematu\n4637.20 anmʃi kakm } 〈差なく、どちらも昔から使っている〉\n       anmra kakm }\n4637.68 anmʃi kakm…（古く、又改まらぬ時 使うものであろう。）\n4638.63 u anmʃi kakm }…〈どちらも昔から用いている〉\n       2. [anmra] kakm",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01289.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01289",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01289.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4643.47",
+      "4647.69",
+      "4648.42",
+      "4653.47",
+      "4659.01",
+      "4659.85",
+      "4663.06"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　><　(　)　[　]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　12-90\n資料番号 071　地図番号 52\n項目名　あぐらをかく\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(3)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nnemaru ... 多　(はじめ jiza kuzumsu)　agutji kaku\naymura kaku ... (といった。)\nagufji kaku ...... <多く用いる>\nayuma kaku ... <いくらか上品なことばといったことがある>\nagutji kaku ... <古ー現>\nagumsi kaku ... <古>　aymura kaku\nagusji kagu ... <一般>　同上\nagutji kaku ... (この方言では nemaru は一般に生る意である。)\n\nnemaru が生る意 一般に及ぶ方言と あぐらをかく 真の方言の方言が佐渡にある。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01290.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01290",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01290.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4663.49",
+      "4663.92",
+      "4667.33",
+      "4672.19",
+      "4685.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-91\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (4)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n4663.49: agutʃi kaku ……＜ nematru はこの方言では 寝る意一般 ＞[小木町 宿根木 では「あぐらかく」の意であ3]\n\n4663.92: 1. a̤gutʃɯ: kakɯ ＜古＞ …… オかつかないと agutʃi\n　　　　　AGUCI O KAKU\n　　　　2. nemarɯ ともいう。\n\n4667.33: アゴシ カク …… 命令形5で答えたので「自分でそうすることを何と言いますか」と問う。\n\n4672.19: nemarɯ……(072の調査のは 自然に出た話。agɯra kakɯ と同じく、親しい人に対して使うという。)\n\n4685.10: daegɯʃi kakɯ ＜希＞",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01291.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01291",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01291.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4685.72",
+      "4685.88",
+      "4687.01",
+      "4687.37",
+      "4689.62",
+      "4689.86",
+      "4694.26",
+      "4695.21",
+      "4695.33"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞()は厳密にする。\n\n日本言語地図資料用紙 注記一覧    12-92\n\n質問番号　地図番号\n071　52\n項目名　あぐらをかく\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(5)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4685.72  aguji kaku (旧来の言い方)    daiguji kaku\n4685.88  aguji kaku [新]    agura kaku\n4687.01  aguji kaku <古>    agura kaku\n4687.37  agusii kaku (古)    同上\n4689.62  bitamura kagu <下>    agura kagu\n4689.86  語 bitamura kaku <古>    agyura kagu\n4694.26  akumji kaku <子供の時がよく使う。多く用いる>\n4695.21  aguji kaku …調査票には amji とあったが恐らく aguji の誤記だったと思う。agura kaku　<こちらの方を主に用いているという>\n4695.33  aguji o kaku <多>    agura o kaku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01292.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01292",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01292.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4697.92",
+      "4703.18",
+      "4711.69",
+      "4744.32",
+      "4771.58",
+      "4782.04"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　12-93\n質問番号　地図番号\n071　52\n項目名\nあぐらをかく\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（6）\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4697.92　(bidanjura kagu -- F)　　　　　　　　　aymura kagin\n4703.18　aymura kakū ---　〈なぜかというと　アグラをかいている時は 両手を膝の上において、腰を直角 に捻転 に接ぐからである〉（？）\n4711.69　ネマル ---- スクル意味にも使う　　　　アグラ　カグ\n4744.32　aymura kaku --　〈特に行儀の悪いアグラをかく 場合は bitaymula kaku という〉\n4771.58　bidaanjura kagu　〈下〉　　　　　　　aymura kagu\n4782.04　aymura kagu　〈昔 odzaganko suru を言った〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01293.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01293",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01293.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5463.12",
+      "5499.98",
+      "5517.24",
+      "5517.90",
+      "5527.15",
+      "5528.31",
+      "5536.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-94\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞（　）[　]は厳密にする。\n\n質問番号 07/ 地図番号 52\n項目名　あぐらをかく\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (7)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5463.12　アグラ カク（古）　　　　　　　　　　　　アグラ　オ　カク\n5499.98　アグラアクム　... agura^kumu or aguraa kumu　かどうかもわからない。古いの途中では長音化して用いるようだから。くり返し書かると、二重母音の如く発音する。\n\n5517.24　nemaru ... 072と同じ。　　　　　　　　agutji kaku\n5517.90　agutji kaku ... <ネマルは腰をおろすことだ>\n5527.15　nemaru ... 072も同じ。　　　　　　　　agutji kaku\n5528.31　nemaru ... <意味が広い。腰をおろすことであるか> 主に安座のこと\n5536.99　ネマル---072をネマルといってもよい。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01294.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01294",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01294.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5557.85",
+      "5565.55",
+      "5569.02",
+      "5575.55",
+      "5577.88",
+      "5578.27",
+      "5585.09",
+      "5586.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-95\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071\n地図番号: 52\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名: あぐらをかく\nページ: (8)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n5557.85 | nemaru 〈古〉 | gizakaku\n5565.55 | nemaru （072も同じ） | agutfi kaku\n5569.02 | ネマル …（072のツクバル場合とはちがう。ネマルはツクバル（正座）以外の膝をおろした時の型をいう。） | イズマカク\n5575.55 | zoro kakuu …〈古〉 | agmra kakm\n5577.88 | 〈上〉ロクネシル | ジマカク\n5578.27 | ネマル …〈寒に使う〉（目上に対する語）\n5585.09 | zoto kakuu ……〈古〉 | agmra kakm\n5586.70 | 1. nemaruu, 2. aguira kakuu, 3. dzoro kakuu\n上の順で使われるが、3は若い人に多い由。",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01295.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01295",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01295.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5605.70",
+      "5608.51",
+      "5611.74",
+      "5612.22",
+      "5612.39"
+    ],
+    "other_text": "12-96\n日本言語地図資料用紙 注記一覧\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n質問番号: 071\n地図番号: 52\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名: あぐらをかく\nページ: (9)\n\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A注のない語形 [B・C 残した語形とその注]\n\n5605.70  akuɯsi kakuɯ…（被調査者は両方とも普段も使た (akuɯsit agurae) と言ったが akuɯsiの方が古いと思る）\n\n5608.51  aguɯla o kakuɯ ——→（グを有声化するのではないか と思る）\n\n5611.74  アンチョ カク …（ず）　　　アグラ カク\n\n5612.22  aguɯtʃi kakuɯ….調査票に agitʃi kakuɯと記録されていたが aguɯtʃiの誤記と思う。\n\n5612.39  ¹アグチ カク\n²アグラ カク（共）…このばんけグがかきかれ アグチカクの場合は グでちった。",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01296.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01296",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01296.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5612.98",
+      "5613.48",
+      "5613.53",
+      "5614.24",
+      "5615.20",
+      "5621.43",
+      "5623.27"
+    ],
+    "other_text": "12-97\n日本言語地図資料用紙 注記一覧\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (10)\n\n地点番号 ｜ A 語形とその注記［B・C除いた語形とその注］ ｜ A 注のない語形［B・C 残した語形とその注］\n\n5612.98: aeɲutʃi kakui …（らしい。これを多く用いる。） aeɲutʃi kakui か古い形らしい。 | agyura kagui\n\n5613.48: deigutʃi kakui ＜古＞ | agura kakui\n\n5613.53: agɯra o kakui ＜被調査者より年をった老人は daigɯtʃi kakui という。＞ | Agɯra kakui\n\n5614.24: agɯʃi kakui …… （親しい人に言う） | Agɯra kakui\n\n5615.20: aʃikɯ kakɯ … ＜昔から今まで多くこれを使う＞\n\n5621.43: antsuɯmi o kakɯ …＜古＞ | aggɯra kakɯ\naggɯra ʃirɯ …… 最もよく用いられる。\n\n5623.27: ¹agɯira kakɯ }…. [[kagɯiro kakɯ]]\n²[aĩntʃo kakɯ]    [[aɲɯtʃo kakɯ というく まだ3]]",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01297.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01297",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01297.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5623.42",
+      "5623.85",
+      "5625.32",
+      "5625.91",
+      "5631.75",
+      "5639.80",
+      "5641.13",
+      "5641.73",
+      "5641.99",
+      "5648.13"
+    ],
+    "other_text": "12-98\n日本言語地図資料用紙 注記一覧\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）[ ]は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐら を かく\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (1)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n5623.42 | [nemaru]・〈希〉 | agutʃi kaku\n5623.85 | angoro kaku…〈agura は知っているか〉 |\n5625.32 | アグラ カク …（共） | アグシ カク\n5625.91 | aguʃi kaku…〈古くから用い、現在も用いる〉 |\n5631.75 | azukumi kaku・〈爺〉 |\n5639.80 | ビタグラ オ カク…〈下〉 |\n5641.13 | agura o kaku…〈de:ro kaku というものある〉 |\n5641.73 | azüimi o kaku・〈古〉 | agura o kaku\n5641.99 | dʒitokum o käkum〈古〉 | rokum o käkum\n5648.13 | ! bitaguira kakuu |",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01298.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01298",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01298.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5652.37",
+      "5652.81",
+      "5652.46",
+      "5661.68",
+      "5674.59",
+      "5676.84",
+      "5678.33",
+      "5679.31",
+      "5679.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-1\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <> () は厳密にする。\n\n質問番号 071    地図番号 52\n項目名 あぐらをかく\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (12)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\naguro kaku ... <希>\nagura o kaku ... <azumikiという語を聞いた> =ことがある。\nagura kaku ... <多>    agura suru\nazumiki o kaku ... <古>    agura o kaku\nブナカル ... <多>    アグラ オ カク\nブナカル .... ブサカッテ ハナスベエ\nアグラ カク ... <者>\nagura kaeterii .... (拡張形)\nagura kaeterii ... 終止形はあらなかった。  KAKU",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01301.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01301",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01301.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5680.34",
+      "5685.02",
+      "5687.60",
+      "5690.12",
+      "5696.54"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（）［　］は厳密にする。\n\n日本音韻地図資料用紙 注記一覧    13-2\n\n[右上の小欄]\n資料番号 071    地図番号 52\n項目名　あぐらをかく\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (13)\n\n[表の見出し]\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n5680.34    suwaru ...〔女も自由になる〕\n　　　　別に、かたびざを立てる坐り方あり。hottate という。 -> (図)\n\n56 85.02    bu'tsikaram ...〈区別不明、両用〉\n　　　　\"suwaruru\" 幸島氏[『suwaru は正座で、各座ではない。』](cf.072)\n\n56 87.60    アグロ オカク\n　　　　(一語では アグラというか、カクを続けると アグロとなった。)\n\n56 90.12    subaru  --> SUWARU\n\n56 96.54    bi'sa:ruu ...〈フックスワルの意〉 --> SUWARU",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01302.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01302",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01302.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5698.19",
+      "5701.25",
+      "5711.85",
+      "5723.36",
+      "5740.43",
+      "5740.87",
+      "5760.24",
+      "5770.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-3\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n（上部ボックス） 資問番号 071 地図番号 52 項目名 あぐらをかく A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (14)\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5698.19\n1. aj∫ura o kaku ... ＜親しい同僚で＞\n2. gidza o kumu ... ＜公けの場面で大勢を相手にする場合のことば＞\n3. aji o kummi\n\n5701.25\nbitagura kagu ... ＜下品なことば、使ったことなし＞ ajmura kagu\n\n5711.85\n同上 .... ＜下＞ 同上\n\n5723.36\n同上 .... ＜右＞ 同上\n\n5740.43\nビタグラ オカク ... ＜右＞ アグラ オカク\n\n5740.87\nアグラ オ カク .... 一般的な言い方\n\n5760.24\nbitagura kaku ... 地面に腰をおろすような性分かたは butjikarun といろ。\n\n5770.11\najmura kederu (進行形) → KAKU\n\n（手書き註記やくずし字を含む：読み取りに不確かな箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01303.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01303",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01303.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6286.68",
+      "6349.09",
+      "6377.11",
+      "6394.09"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-4 質問番号 071 地図番号 52 項目名 あぐらをかく A 普通注記 (B 似いた共通語) (C 似いた特殊語) ページ (15-) A・(B)・(C)ともに別紙を使用する。 その中での順位は地点番号順に改める。 注記の〈 〉( ) は厳禁にする。 地点番号 A 語形とその注記（B・C 欄いた語形とその注記） A 注のない語形（B・C 残した語形とその注記） →KAKU angura kaederu（座行跡） 「genda suiru … tettso: i'dori suru は右図のごとき姿勢なり。」 tettso: idori suru?（sum 2 か） tettso:〈右〉suru, “gengari”〈右〉 tettso suru（—動詞） giza: kumm rokumi sumun …（Kの有無およびクニンサイトとり） ヒザ + アゥ …〈奄〉 スフル スフル …「アグラ（を）（動詞）という形がない」",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01304.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01304",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01304.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6403.60",
+      "6408.15",
+      "6408.88",
+      "6409.00",
+      "6411.33",
+      "6411.66",
+      "6414.17"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく<>（）は慣例符号にする。 日本言語地図資料用紙 注記一覧 13-5 質問番号 071 地図番号 52 項目名 あぐらをかく A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (16) 見出し: 地点番号 / A 語形とその注記（B・C 除いた語形とその注）/ A 注のない語形（B・C 残した語形とその注） 6403.60: アブタカシ…〈古〉｜ヒザ オワン 6408.15: アグラ カク（…）〈…〉 6408.88: 1. アグラカク〈劣〉, 2. スワル〈少〉, 3. ワンニノル〈上〉 6409.00: ショラクム…〈昔・稀〉｜アグラカク 6411.33: 1. エシマクン → IZUMA KUMU, 2. サケン〈古〉 → HIZA KUMU 6411.66: 1. アグァン…〈古〉, 2. フサグシン（クシシ＝両方） 6414.17: agura: kumumu …〈新〉｜abuta kumunu",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01305.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01305",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01305.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6415.78",
+      "6415.83",
+      "6416.31",
+      "6416.58",
+      "6419.09",
+      "6423.75",
+      "6424.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　13－6\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071　地図番号: 52\n項目名: あぐらをかく\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\nページ（17）\n\n地点番号 ／ A 語形とその注記 ［B・C 除いた語形とその注］ ／ A 注のない語形 ［B・C 残した語形とその注］\n\n6415.78　agura kummu …〈上〉　／　abuta kummu\n\n6415.83　1. agura o kaku…〈古〉←（被調査者はこう言えているか 反対ではないかと思う。）\n　　　　　2. abuta: kummu〈上〉\n\n6416.31　abuta: kaku…〈古、稀〉\n\n6416.58　アクダ ケェトル →KAKU ……（ケェトル は カイテイルの略）\n\n6419.09　アブタ カク　…〈古、今〉\n\n6423.75　roku ni surm（お客さんに 勧めるとき ロクニシナサイ というふうに用いる）　／　izui mao kummu\n　　　　　hiza: kummu ……（ヒザオクム の略）\n\n6424.20　izui ma: kummu …〈友人などに対して。下品ではない。〉　／　giza: kummu\n　　　　　…（これは 私が捨てりを試してみたら「用いる」とのことであった。）",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01306.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01306",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01306.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6427.27",
+      "6428.26",
+      "6428.91",
+      "6429.15",
+      "6446.05",
+      "6446.43",
+      "6446.69",
+      "6448.61",
+      "6452.98"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。・その中での情報は地点番号順に記入する。・注記の＜＞（ ）は該当にする。\n日本言語地図資料用紙 注記一覧 13-7\n質問番号 071　地区番号 52\n項目名 あぐらをかく\nA 普通語形　(B 欠いた共通語)　(C 欠いた特殊語)　ページ (18)\n見出し: 地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\nakunda: kaku …（アグラ… 長者になるは …）\nヒラアグラ カク … ＜特にこうは言わぬ＞　｜　アグラ カク\nアグラ カク　両用の言い方を別に用いる。スワル ＜ソニアア キョオオキヤセト スワッテ アグラ デモ カイテ＞\nヒラアグラ カク … ＜右＞　｜　アグラ カク\nアグラ カク … ＜普＞\n? アグラ カク　｜　（…）\n! アグラ\nヒラアグラ カク … ＜右＞\n1. ビサァ アム，2. ヘグル\nロクにスルとも言う。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01307.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01307",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01307.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6469.19",
+      "6472.05",
+      "6484.43",
+      "6485.14",
+      "6485.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧    13-8\n\n質問番号　地図番号\n071　52\n項目名　あぐらかく\nA 普通語注記\n[B 除いた共通語]\n[C 除いた特殊語] (19)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nジョオラクム ・・・・ <右、希>    アグラ カク\n[hetaru] ・・・ <右>    siwaru\nHIZAKUMU ←　（ヒサクム　ヘザクム　ヘザつム）\nヒザクム　(上下) ヘザクム\nHIZA KUMU\n（被調査者は、「ヘザクムはあまりきかぬ。それは団固しる人の言葉である」といった。第二落もヘザクムは川津木などの田舎の方の言葉であると助言した。）\nヘザクム ・・・ <下>  ----> HIZA KUMU <---- ヒザクム",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01308.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01308",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01308.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6485.82",
+      "6500.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< [] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 13-9\n質問番号 071    地図番号 52\nA 普通注記   B 除いた共通語   C 除いた特殊語   ページ (20)\n項目名 あぐらをかく\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\nHIZAKUMU\n1. ヒザクム(上), ヘザクム\n2. <古> ジョラクム……〈職人の使うことば〉\n(香川県ではショラクムとはあまりいわない。他に今の所きいていない。\n調査者は18才〜20才の頃、大阪で洋服仕立の職人修業をしていたから\nその時大阪でこのことばを身につけたかと思う。調査者は約30年前、阪神の\n魚崎、芦屋辺で老人からショオラクムをきいたことがある。)\n\nアブタタク…この語形の場合は接助詞「ヲ」をあまりつけない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01309.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01309",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01309.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6501.92",
+      "6504.01",
+      "6505.58",
+      "6506.86",
+      "6512.02",
+      "6512.09",
+      "6514.61",
+      "6517.65",
+      "6520.50",
+      "6521.17"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n日本言語地図資料用紙 注記一覧   13-10\n資料番号　071　地図番号　52　　　ページ\n項目名　あぐらをかく\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(2/)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n6501.92　ジョロクム・・・（百姓のみ）　アグラヲクム\n6504.01　joro kaku ...（名詞か joroko, アグラオクにあたるのか: joro kakum）\n6505.58　スワル・・・・（アプラヲクムをスワルというのは、本来はまがっていると思うが＝このように言っている）\n6506.86　daijo:ra kasu? \n6512.02　djoroku:aku → ZYOROKU KAKU\n6512.09　ayuura kakum (= a(ki) ppk)\n6514.61　gitto maru・・・〈古〉　agura o kaku\n6517.65　〈下〉 ジオラカス・・・（普通のいい方であろう）　アプラ カク\n6520.50　ロク・・・〈新、希〉　アプラ カク\n6521.17　1. ジョロクカク\n　　　　2. ロワ＝スル\n　　　　3. ジョロッコカク\n　　　　合語形の違いは対過表現にも関係する。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01310.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01310",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01310.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6521.20",
+      "6522.03",
+      "6522.79",
+      "6523.54",
+      "6523.86",
+      "6524.01",
+      "6525.30"
+    ],
+    "other_text": "13-11\n日本言語地図資料用紙 注記一覧\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (22)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n6521.20 | dzo:roku kaku … [古] | agura kaku\n6522.03 | アグラ カウ ……… かしこまった時に。 | ジョロッコ カウ\n6522.79 | ¹ジョロコ カウ …→ 小の方か やゝ古い形だか 老人 ²ジョロ クム …… 層でも 両者共用。 |\n6523.54 | itabira kaku …… 〈稀〉 | dzoroko kaku\n6523.86 | ! zoroko kaku … 〈古〉 | agura kaku\n6524.01 | itabira kaku …… 〈老、上品〉 dzoro kaku …… 〈老、下品〉 | 同 上\n6525.30 | 1. dzora kaku 〈今〉 2. itabura kaku 〈古〉〈昔 使った〉 |",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01311.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01311",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01311.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6526.08",
+      "6526.98",
+      "6529.63",
+      "6532.30",
+      "6532.70",
+      "6532.89",
+      "6532.93",
+      "6533.31",
+      "6534.37",
+      "6534.41"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧    13-12\n質問番号 071   地図番号 52    ページ (23)\n項目名 あぐらをかく\n\n地 点 番 号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6526.08    〈替〉 ジョララ カク    アプラ ラカク\n6526.98    オオヒザヲ カク --- 〈アショクスシテ スワル〉\n6529.63    (o)rokunji suru --- 〈上〉＜お客などに対して[男]＞    ayura o kaku\n6532.30    ジョロウ カク --- 〈多〉    ジョロク クム\n6532.70    ジョロク カク ---- 隔助詞「を」は全く入らない。\n6532.89    ジョロ クム ---- 名詞は ショロク\n6532.93    ジョロ クム ---- 子供もこれを使い、アグラといることはほとんどあまり用いない。\n6533.31    ジョロ クム ---- 名詞形は ジョロク。\n6534.37    itabura o kaku --- 〈古〉\n6534.41    1. djoroko kaku 〈そんざいない言い方〉\n         2. ayura kaku 〈普通の言い方〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01312.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01312",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01312.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6534.85",
+      "6537.06",
+      "6537.58",
+      "6540.79",
+      "6542.32",
+      "6542.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　13-13\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071　地図番号: 52\n項目名: あぐらをかく\nA 普通注記 / [B 除いた共通語] / [C 除いた特殊語]\nページ (24)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nITABURA\n6534.85　itaura kaku …〈稀に老人が使う〉　　agura o kaku\n6537.06　o:giza kaku …〈新〉　　agura kakuu\n6537.58　(o:giza o kaku)〈古〉…(「先の地点で o:giza o kakuというのを聞いたか」という調査者の問に対して、〈ここでも昔はそう言っていたか。今では段々少くなった〉という回答を得た。)\n\nANZA KAKU\n6540.79　アンザリ カク……〈古〉〈今も〉\n         ジョラ クム ……〈余〉\n\n6542.32　ジョロ クム …〈多〉　　ジョロク カク\n6542.58　ジョロ クム … (古, 稀)　　アグラ オ カク",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01313.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01313",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01313.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6543.52",
+      "6545.41",
+      "6545.88",
+      "6546.15",
+      "6549.03",
+      "6553.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　13-14\n\n► A・(B)・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の< >( )[ ]は厳密にする。\n\n質問番号: 071　地図番号: 52\n項目名: あぐらをかく\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]　ページ (25)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形・[B・C 残した語形とその注]\n\n6543.52　ジョロクモ → ? → ZYOROKUMU\n6545.41　dzoro kumu ---- 〈上〉あらたまった時の言い方\n6545.88　① dzorokumumu ....〈普〉\n　　　　② agura kaku ....〈上〉\n6546.15　① アズキマイ カク …〈多〉〈子供くさい古い方〉\n　　　　② アグラ カク ……〈減るに言わない〉\n6549.03　angura o kaku → [agurao kaku]\n　　　　（小久保氏も星野氏も aguraとおっしたが 鈴木氏は認めながら。）\n6553.22　zoro kumu 〈「アグラカク」は「ジョロクム」の意がわからぬ人のための通沢語にすぎない。〉",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01314.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01314",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01314.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6554.08",
+      "6554.88",
+      "6562.22",
+      "6562.48",
+      "6562.64",
+      "6563.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　13-15\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）[ ]は厳密にする。\n\n質問番号: 071　地図番号: 52\n項目名: あぐらをかく\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (26)\n\n地点番号 ／ A 語形とその注記 [B・C 除いた語形とその注] ／ A 注のない語形 [B・C 残した語形とその注]\n\n6554.08　イタブラ オカク …〈多〉　／　アグラ オカク\n6554.88　itabura kaku …〈希〉　／　utabura kaku\n6562.22　デラ クム … 〈下〉\n6562.48　①オタウラ オカク　→ OTABURA\n　　　　②オタビラ オカク　｝〈三者の違いは 不明。〉\n　　　　③ジョロ オ クム\n6562.64　ジョラ クム …（アクセントが ジョラ クムであるから、複合動詞とは認められない。ジョラが名詞、クムが動詞と思われる。）\n6563.58　otabira kaku…〈多〉\n　　　　〈オタビラ クムとは いわぬ〉",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01315.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01315",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01315.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6565.09",
+      "6568.13",
+      "6572.04",
+      "6572.55",
+      "6573.17",
+      "6573.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　13-16\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (27)\n\n地点番号 ｜ A 語形とその注記 [B・C 除いた語形とその注] ｜ A 注のない語形 [B・C 残した語形とその注]\n\n6565.09  dʒo:raku kaku …〈古, 少〉　　　　　　　　agura kaku\n\n6568.13  1. azuki o seru }…〈区別なし〉\n         2. azuki o kaku     [angura o kaku][古]\n                              調査者は調査続、\n                              上記の言いふがあると\n                              (同地 生えぬきの老人から きいた。\n                               しかし インフォマントに確める 社会が\n                               なかった。)\n\n6572.04  1. zora kumu…〈多〉, 2. otabira kaku…〈少〉\n\n6572.55  getto süru…〈3〉, ① jagura kaku　　　dʒora kumu\n                        GITTO\n\n6573.17  1〈3〉otabura kaku, 2.〈少〉jagura kaku\n\n6573.71  dara kumu…〈新〉　　　　　　　　　　　otabira kaku",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01316.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01316",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01316.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6574.06",
+      "6580.33",
+      "6590.08",
+      "6590.35",
+      "6592.10",
+      "6593.30",
+      "6595.32",
+      "6603.52",
+      "6603.82",
+      "6609.05"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　13-17\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071　地図番号: 52\n項目名: あぐらをかく\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (28)\n\n地点番号 ／ A 語形とその注記 [B・C 除いた語形とその注] ／ A注のない語形 [B・C 残した語形とその注]\n\n6574.06　共 rokku ni suwaru　／　otabira kaku\n6580.33　アグラ カク…〈共〉　／　オタグラ カク\n6590.08　オタグラ カク …〈オタグラ クムともいう人がある〉\n6590.35　オタグラ カク …〈古〉　／　アグラ カク\n6592.10　アグラ クム …〈カ〉　／　同上\n6593.30　o'ta↗gura ka'ku …〈新〉　／　su'waru\n6595.32　'アグラ カク …〈普〉　／　アンサン カク\n6603.52　sewa'ku ……〈普通 こういう 坐り方のことをさす〉　／　a'ɲutʃio kaku\n6603.82　スワル ….（普）　／　アグラ オ カク\n6609.05　古）アコプロ オ カク",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01317.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01317",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01317.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6611.68",
+      "6618.46",
+      "6522.69",
+      "6624.13",
+      "6630.43",
+      "6631.53",
+      "6633.89"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　13-18\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（　）[　]は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (29)\n\n地点番号 ／ A 語形とその注記 [B・C 除いた語形とその注] ／ A注のない語形 [B・C 残した語形とその注]\n\n6611.68:\n1. !dossuwaru …〈見下した言い方〉\n2. [adzumiki kaku … 希]\n→ suwaru\n\n6618.46: b) アグロ オ カク → アプラ オ カク\n\n6522.69: agura o kaku …〈昔〉 → adzukuumi o siru\n\n6624.13: agura o kaku …「すわるとんのは「あぐらをく\nことをいう。かしこまる時には\n「すわる」とは言わない。\n\n6630.43: agura o ka'ku …〈s'waru は 071 と 072の\n両方をさす。〉\n\n6631.53: suwatku … --- 多 → aguta o kaku\n\n6633.89: aguta o kaku … 多 → suwaru",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01318.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01318",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01318.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6634.33",
+      "6635.87",
+      "6650.79",
+      "6655.38",
+      "6721.31",
+      "6686.75",
+      "7238.82",
+      "7239.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　13-19\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071　地図番号: 52\n項目名: あぐらをかく\n[A 普通注記]　ページ\n[B 除いた共通語]\n[C 除いた特殊語]　(30)\n\n地点番号 ／ A 語形とその注記 [B・C 除いた語形とその注] ／ A 注のない語形 [B・C 残した語形とその注]\n\n6634.33 | agmta o kakm--3 | suwatm\n6635.87 | suwatm ....+ | agmta o kakm\n6650.79 | agmta o kakm -- スワルは 071, 072の総称.\n6655.38 | suwatm .. 3 | azukura: kakm\n6721.31 | agmtao kam -- <右> → KAKU | agmra o kakm\n6686.75 | 'a[jura]kaku <女のことば> ＋ 'a[zukura]kaku <男のことば>\n7238.82 | <古> itagurane } suru　又 itagurami } suru | agurakaku\n7239.24 | [itagurame suru]",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01319.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01319",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01319.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7239.85",
+      "7266.34",
+      "7266.92",
+      "7268.87",
+      "7284.16",
+      "7302.71",
+      "7321.93",
+      "7330.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-20\n\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\n[A 普通注記]\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (31)\n\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A注のない語形 [B・C 残した語形とその注]\n\n7239.85 イタグラメスッ …（ただ か 話し体ではスッとなる）\n7266.34 イタグラ スッ … イタグラン（いたぐらみ?）ともいう。\n7266.92 kaçkomar ..（072に非ず）\n7268.87 itagurame suru …〈古〉  | agura kaku\n7284.16 kaçkomat°・（072に非ず）\n7302.71 àbìntá e kum'm\n　　　　　稀しいと思った\n7321.93 イラグラ / アグラ ｛〈ワンドー a枠にある〉｝\n7330.31 ベットオ ズワリスル 〈子〉  | アグラカク\n　　　　イタグラメスル　〈番〉",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01320.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01320",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01320.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7331.41",
+      "7332.97",
+      "7336.54",
+      "7341.47",
+      "7343.76",
+      "7351.09",
+      "7354.23",
+      "7356.06",
+      "7362.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく <> ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 13-21\n質問番号 071 地図番号 52\n項目名 あぐらをかく\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (32)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n7331.41  195 グラライ 多  -> ITAGURAI\n7332.97  (光) itagurami  (若) agura kaku\n7336.54  -oroku: suru ... <古上>  dobekurizuwai su2\n7341.47  ドベクリズワイス?\n7343.76  (?) agura kuru\n7351.09  itamagruru (板間アグラの音転である)\n7354.23  スワル ------ <昔からの基ででる>\n7356.06  cidzo: kumu <古> -> HIZO o KUMU   cida o kumu -> HIZAO KUMU\n7362.42  [イタマクル] .... <光,希>  アグラカク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01321.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01321",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01321.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7362.67",
+      "7363.12",
+      "7367.25",
+      "7372.27",
+      "7373.56",
+      "7373.92",
+      "7375.30",
+      "7381.38",
+      "7383.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-22\nA・(B)・(C)ごとに別紙を使用する。\nその中での番号は地点番号順に並べる。\n注記のく＞（ ）〔 〕は略語にする。\n質問番号 071  地図番号 52\n項目名 あぐらをかく\nA 普通注記（B 除いた共通語）（C 除いた特殊語）\nページ (33)\n\n地点番号／A 語形とその注記（B・C除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\n〈イタグラヌ スル〉／アグラ カク\nイタグラメ スワル（古）／同上\nhiza: ku'mu（ま？）\nイタグラメ …〈やや古〉（動詞形はないという）／アンズスル\nアグラメ …〈共新〉\nイタグラメ スワル〈希〉／イタグラメ スワル\n① agura kaku〈多〉；itagura kaku〈たまに使うこともある〉\nアグラ カク …〈イタグラスルという人もある〉\nイタグラメ スル …〈？〉",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01322.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01322",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01322.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7391.94",
+      "7395.88",
+      "7401.11",
+      "7401.60",
+      "7402.47",
+      "7403.86"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >< () [] は厳密にする。\n日本言語地図資料用紙 注記一覧\n質問番号 071 地図番号 52 項目名 あぐらをかく\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語] (34)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7391.94　ウスワル -> SUWARU　（命令形のみ使われる形に ウスエロ、ウっスエっち（ラワニャッち とも）という。ウッスコルという形がもともあったものだろうか。）　イタグラム\n7395.88　agura(o) kaku　（助詞 o は あったり／なかったりである。）\n7401.11　① hiza o kumu <多>、 ② agura o kumu <希>\n7401.60　hiza o kumu --- <上>　hiza kumumu\n7402.47　agura kumu … <上>　同上\n7403.86　hiza kumumu（ちょっと表われた。中学生の孫は [agura kaku] と云っていた。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01323.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01323",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01323.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7412.71",
+      "7620.18",
+      "7620.91",
+      "7432.95",
+      "7440.72",
+      "7523.30",
+      "8310.26",
+      "8311.63"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-24\n質問番号 671 地図番号 52 項目名 あぐらをかく\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (35)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n7412.71 hizakummu  <kjakumba nara rakumi sei のように動かる。>\n7620.18 同上 〈多〉    agura kaku\n7620.91 agutra kummu ... 新    hiza o kummu\n7432.95 gi;za:ku:mu ..... いずるは立っている状態から 生ずる状態になること。生り方は 問題にせず。\n\n7440.72 hiza kumzusu  < 都おりには hiza kumumjitara e:ja naika ということもある。→(上、本) と認む。>    hizakummu\n7523.30 ヤグラ クム ... <新>    クタグラ カク\n8310.26 itagura o sut (oをとらないで言うことが多い)\n8311.63 itagurame sut ... (を) を略す",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01324.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01324",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01324.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "8315.89",
+      "8332.59",
+      "8334.63",
+      "8341.46",
+      "8342.51",
+      "8342.69",
+      "8355.23"
+    ],
+    "other_text": "13-25\n日本言語地図資料用紙 注記一覧\n\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (36)\n\n地点番号 ／ A 語形とその注記 [B・C 除いた語形とその注] ／ A 注のない語形 [B・C 残した語形とその注]\n\n8315.89: agura kaku … ＜普通の場合＞\n\n8332.59: itagua o sut … (itaguka > itagua)\n\n8334.63: ①itagura o ketʃoru KAKU … (常用語)\n         ②jagura o ketʃoru … (アグらを勘違いしていると思う) KAKU のではないかと思う。\n\n8341.46: itagurame sut … (ヲをぬかして言う)\n\n8342.51: itagurame o sut … ＜希＞        itaguta o sut\n\n8342.69: ①itagurame ka2 … ＜古＞\n          ② 同上 SUᵐa2 ＜多＞\n\n8355.23: çiutʃi o suru [あぐらをかく時の足の恰好が 燒金に似ている所から言う。] びうら",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01325.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01325",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01325.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "8362.34",
+      "9312.42",
+      "0228.96",
+      "0237.79",
+      "0265.96",
+      "0275.97"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記のく ><()[] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 13-26\n質問番号 地図番号\n071    52\n項目名　あぐらをかく\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]　(37)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n8362.34    itagutame o sut 多\n\n9312.42    gizzuwai o sut 〈火打ち坐りの義で、火打ち石を打つ〉\n           〈此の物を持ちから来た。〉\n           (しかしあやしい、疑わしい)\n\n0228.96    azajiri [fun]\n           〈azaは「お父さん」の古語。〉\n           〈全体で「お父さんを生りする」〉\n\n0237.79    #agura kakjuri (新しい言い方らしい)\n           ↓ KAKU\n           〈juritto suriという言い方を普通用いる。〉\n\n0265.96    andzajiri [jun]\n           andzajiri [jui]\n           ・・・(詰尾の二形の区別については021と022との注文内参照)\n\n0275.97    agundzo kumjuri\n           agundzo 'kumjui' も形としてはあり得るが実際に使うことは殆どない。\n\n(動詞の終止形の接尾の違いは、021、022、023の注を参照。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01326.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01326",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01326.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "0276.50",
+      "0294.66",
+      "2076.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-27\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><［］は厳密にする。\n\n質問番号 地図番号 071 52\n項目名 あぐらをかく\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (38)\n\nA 語形とその注記 [B・C除いた語形とその注]\nagundzorajiri [su?] / sui (浜底の意味については 021, 022 の注記参照)\naguneji [sun] (ji は 生する?)\ngiraji: (男すわり)\nagure:bi: [su?] 自分の動作についている形\nsuji --- 自分以外の人の動作を見ている形\n\nbiN --- <あぐらをかくことか普通の坐り方>\nNR --- 同上\nNR --- <hiraku nare: (楽にしなさい) とはいう>\n\n2076.25 dais t kibi ti dusti: (直訳は --- そうするであるが --- をする意味になるように)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01327.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01327",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01327.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "2095.60",
+      "2140.49",
+      "2141.61",
+      "2150.07",
+      "2150.17",
+      "2151.20",
+      "2151.64"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞( )は厳密にする。 日本言語地図資料用紙 注記一覧 13-28 質問番号 071 地図番号 52 項目名 あぐらをかく A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (39) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 2095.60 PAN anzahe: birun (足) (すわる) 2140.49 fu:jabi: ast (ast は「する」に当る) 2141.61 (?) angui kakt bi: (アグラに当る名詞と思う。 1か アグラ ワクにも同じ語形を使うと、親子調査者は答える。) 2150.07 (?) impisamatsi ast 2150.17 (?) dazi btzi u ast 2151.20 avungakibizi ba fi: du ulz ＜あぐら そば しど 居り＞ 2151.64 ?dah kurabi: ast:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01328.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01328",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01328.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "4637.68",
+      "4653.47",
+      "4666.17",
+      "4685.10",
+      "4685.72",
+      "4686.52",
+      "4689.86",
+      "4694.26",
+      "5463.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-29\n\n► A・(B)・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\n\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\nページ: (1)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n4637.68 | agura kakui …（新） | agujsi kakui; （古く、又 改まらぬ時 使うものだろう。）\n4653.47 | agura kakui …〈共〉 | agutsi kakui〈古一現〉\n4666.17 | 同上 …〈新〉〈共〉 | agujsi kakui\n4685.10 | ■ 同上 …〈新〉 | daegujsi kakui〈希〉\n4685.72 | 同 上 | aguji kakui (旧来の言い方)\n4686.52 | agura kakui (上) …〈お客様等に対して言う〉 | daegujsi kakui\n4689.86 | agura o kakui …〈いいことば〉 | 諸 bi'tagura kakui〈古〉\n4694.26 | agura kakui (新)…〈子供の時から 使う〉 | akuji kakui〈多〉\n5463.64 | アグラ カク …〈新〉 | アブタ カク",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01329.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01329",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01329.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "5605.70",
+      "5614.24",
+      "5615.20",
+      "5625.91",
+      "5631.75",
+      "5635.65",
+      "5639.80",
+      "5655.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-30\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\n\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (2)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n5605.70 | agura kakui (新) ← | akuɰi kakui…（被調査者は両方とも 昔も今も使うと言れが、akuɰi の方が 古いと思う。）\n\n5614.24 | agura kakui…（目上の人、共通語・場面） | aguɰi kakui（親しい人に言う。）\n5615.20 | 同上 …〈上〉、〈新〉 | asikui kakui 〈昔から今まで 多くれを使う。〉\n\n5625.91 | agura kakui…〈新、共。又、家庭内でも使う〉 | aguɰi kakui・〈昔も今も使〉\n5631.75 | agura o kakui…〈新〉 | azukumi kaku・〈希〉\n5635.65 | アグラ オ カク….（共） | アグロ オ カク\n5639.80 | アグラ オ カク・・・〈上〉 | ヒタグラ オ カク・・〈下〉\n5655.57 | アグラ オ カク・・・（共） | アグロ オ カク",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01330.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01330",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01330.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "5664.51",
+      "5667.81",
+      "5671.38",
+      "5671.68",
+      "5676.84",
+      "5681.41",
+      "5682.92",
+      "5690.12",
+      "6411.66"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 13-31 資問番号 地図番号 A 普通注記 ページ 071 52 項目名 あぐらをかく (B 除いた共通語) (C 除いた特殊語) (3) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5664.51 ajura o kaku .... <上> anjyoro kaku 5667.81 アグラ オ カク .... <上> アグラ オ カク 5671.38 ajura o kaku .... <共> azumiki o suru 5671.68 ajura o kaku .... [新] 同上 5676.84 アグラ オ カク .... <上> ブチカル....ブチカッテ ハブスペ(?) 5681.41 ajura o kaku .... <上> dossuwaru 5682.92 同上 <共> ! dossuwaru 5690.12 ajura kaku .... <上, 新> subaru -> SUWARU 6411.66 アグラ アク .... <新> 1. フサクソン... (右) 2. フサクジシ (クジシ = 崩す)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01331.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01331",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01331.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6416.31",
+      "6419.09",
+      "6419.25",
+      "6428.26",
+      "6439.01",
+      "6447.39",
+      "6448.61",
+      "6449.19",
+      "6508.74",
+      "6525.75"
+    ],
+    "other_text": "13-32\n日本言語地図資料用紙 注記一覧\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\n\nA 普通注記\nB 除いた共通語\n[C 除いた特殊語]\nページ: (4)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n6416.31 | agura: kaku…〈新〉 | abuyta: kaku…〈古, 稀〉\n6419.09 | アグラ カク ……〈今, 新〉 | アブタ カク…〈古今〉\n6419.25 | アグラ カク ….〈新〉 | アブタ カク\n6428.26 | アグラ オカク….〈上, 共〉 | 1. アグダア カク  2. ヒラ アグダア カク〈特に詣れ た 姿勢〉\n6439.01 | アグラ オカク….〈共〉 | アグラ カク\n6447.39 | agura kaku…〈新〉 | giragunta kaku\n6448.61 | アグラ カク ….〈新〉 | ヒラマタ カク…〈古〉\n6449.19 | アグラ　…－〈新〉 | 1. アンタ オ カク, 2.#アグラ オカク\n6508.74 | 〈ア〉アグラ ヲカク | 1. ヒザ カリ, 2. ヒザヲ カク\n6525.75 | agura kaku….〈新〉 | dzoira kaku",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01332.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01332",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01332.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6526.04",
+      "6533.89",
+      "6534.37",
+      "6543.56",
+      "6549.60",
+      "6551.20",
+      "6560.40",
+      "6568.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-33 質問番号 071 地図番号 52 項目名 あぐらをかく A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (5)\nA・[B]・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は該当例にする。\n表見出し: 地点番号／A 語形とその注記〔B・C 除いた語形とその注〕／A 注のない語形〔B・C 残した語形とその注〕\n〈共〉アグラ カク\nayura kaku …〈新〉\nayura kaku …〈新〉\nアグラ カク …〈新〉\nayura o kaku …〈新〉\nアグラ カク …〈移〉\nアグラ カク …〈新、共〉\nayura o kaku …〈上〉\n右欄メモ: ！ジョラカク／1. dzoro kaku, 2. dzoro kumu／itabura o kaku〈右?〉／ジョロ カク／anjura o kaku／同上 等の書込み",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01333.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01333",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01333.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6580.33",
+      "6582.73",
+      "6609.05",
+      "6621.94",
+      "6625.17",
+      "6645.62",
+      "6665.01",
+      "6697.39",
+      "6697.49",
+      "6697.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　13-34\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜　＞（　）［　］は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\n\nA 普通注記\nB 除いた共通語\n[C 除いた特殊語]\nページ: (6)\n\n地点番号 | A 語形とその注記〔B・C 除いた語形とその注〕| A 注のない語形〔B・C 残した語形とその注〕\n\n6580.33　アグラ オ カク … 〈共〉　| 1. アグラ カク〈共〉, 2. オタグラ カク\n6582.73　アグラ カク … 〈共〉　| オタグラ カク\n6609.05　新）アグラオ カク　| 上) アコプロ オ カク\n6621.94　agura o kaku … 〈上〉　| suwaru\n6625.17　agura o kaku … 上　| aguroo kaku\n6645.62　agura o kaku … 〈新〉　| azukura: kaku\n6665.01　agura o kaku … 上　| 同 上\n6697.39　agura o kaku 〈上〉　| afikkura: kaku\n6697.49　agura kaku … 〈上〉　| atsukura kaku\n6697.59　同 上　| 同 上",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01334.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01334",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01334.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7239.29",
+      "7341.42",
+      "7341.51",
+      "7354.23",
+      "7363.85",
+      "7372.27",
+      "7373.99",
+      "7380.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-35\n質問番号 地図番号\n071 52\n項目名 あぐらをかく\nA 普通注記  B 除いた共通語  C 除いた特殊語 （7）\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注記]  A 注のない語形 [B・C 残した語形とその注記]\n\nayura kaku ･･･〈新〉\nアグラ ･･･〈新〉\n〈新〉 agura kaku\nアグラカク･･･〈やや新か〉\nアグラカク･･･〈共〉\n同上\n\nアグラカク･･･〈新〉\nアグラカク･･･〈共〉,〈新〉\n\n（右欄手書き注記）\nベットオ ズワリ する\nbetto o zuwari suru\nイタグラミ スワル\n# イタグラミス?\n同上\nスワル〈昔からの基本である〉\nイタグラメ スワル\n① イタグラメ〈やや古〉（動詞形はないと思う）\n② アンサスル\nイタクルマ カク\nイタグラメ スル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01335.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01335",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01335.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7391.94",
+      "7403.21",
+      "7410.57",
+      "8331.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-36\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n資料番号　地図番号　071　52\n項目名　あぐらをかく\nA　普通注記　(B　除いた共通語)　[C　除いた特殊語]　ページ（8）\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\nアグラ　カク　〈新〉\n① イタクラム\n② ウゥ スワル -> SUWARU\n命令形のみ使われる形に ウゥスエロ、ウゥスエヲセ、（ラクニ シナッとか）という（ラクニ シナッとも）というウッスルという形かもともあったものではあろうか。\n\nagura kaku ... 〈希〉\nhiza kumu?   (右欄手書き)\n同上 ... 〈新〉\nhezo kammu?  (右欄手書き)\nagura o kaku ... 〈新・希〉\nitaguta o kaku  (右欄手書き)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01336.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01336",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01336.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "1708.05",
+      "1738.19",
+      "3648.28",
+      "3649.64",
+      "3726.25",
+      "3756.40",
+      "3761.74",
+      "3762.62"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく〈〉()[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　13-37\n\n質問番号　071　地図番号　52\n項目名　あぐらをかく\nA 普通注記　[B 除いた共通語]　(C 除いた特殊語)　ページ (1)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n1708.05\traku ni suru\t1.O.F., 2. agura kaku\n1738.19\tçira ni naru <夕> / raku ni naru / raku ni suru \t{agura o kaku / suru} は使わない。　0.F.\n\n3648.28\tdebē añūra kagūi ...　大きなあぐら。この語の始まりは debē ないしろ。　1.O.F., 2. añūra kagūi\n3649.64\tdenbe- añūra kagūi ...　大きな行儀の悪いアグラ。　1.O.F., 2. añūra kagūi\n3726.25\tベットアグラ = ナル\t1.O.F., 2. ネマル\n3756.40\tアプラ ケア デ ネマル\tアプラカカ？\n3761.74\tdeañūra kagūi <大きな行儀の悪いあぐら>\tañūra kagūi\n3762.62\tañūra kaide nemarū\t同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01337.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01337",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01337.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "3763.17",
+      "3764.92",
+      "3765.74",
+      "3767.87",
+      "3778.00",
+      "3787.50",
+      "3792.33",
+      "4598.33",
+      "4713.02",
+      "4723.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-38\n質問番号 地図番号 071 52\n項目名 あぐらをかく\nA 普通注記  [B 除いた共通語]  (C 除いた特殊語)  (2)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n3763.17　(ベッタ)アグラ カグ　AGURA KAKU\n3764.92　アグラ　アグラ カグ\n3765.74　アグラ ケアデ ネマル　同上\n3767.87　タエラ = スル　1. OF , 2. アグラーカグ\n3778.00　ネマーテル〈ともいう〉　アグラ カク\n3787.50　アグラ ケアデ ネマル　1. アグラカグ；2. アグラ オ カグ\n3792.33　âjura kede nemarü　âjūra kagū\n4598.33　nimaru　NEMARU\n4713.02　dzagën ni sürü- ＜新＞＜上品＞　1. agura kâku, 2. OF\n4723.51　ビタグラ　アグラ カグ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01338.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01338",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01338.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "4762.77",
+      "5517.57",
+      "5538.50",
+      "5568.22",
+      "5568.57",
+      "5568.92",
+      "5569.36",
+      "5574.62",
+      "5578.27"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 13-39\n\n質問番号 071    地図番号 52\n項目名　あぐらをかく\nA 普通注記　[B 除いた共通語]　(C 除いた特殊語)　ページ (3)\n\n（表見出し）\nA 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n-rakutza ni suwrute <上>    agyura kaku (agyura kaku)\n-nemaru .... <腰をおろすこと>    ajutsu kaku\n-アモナ　カワ    OF\n-〈共〉ラフニスル, 2. ラフネシル    シマカク\n-〈上〉タイラネシル    1. シマガリ, 2. ワケネシル\n-ヒザマク.... (立っていないで腰をおろすことをネマルという。ヒザマクは腰をおろした一つの型。)    OF\n-〈仏、希〉ウスコマル    ネマル\n-jokoza kaku    agyura kaku\n-タイラネシル    1. イステカ?, 2. ネマル\n\n（客に限る）（目に対することば）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01339.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01339",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01339.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "5579.79",
+      "5612.22",
+      "5615.28",
+      "5631.75",
+      "5632.83",
+      "5635.68",
+      "5636.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-40\n\n► A・(B)・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\n\nA 普通注記\n[B 除いた共通語]\n(C 除いた特殊語)\nページ: (4)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n5579.79 〈共、改〉 ラクザゼル | 1. スワル、2. イズマカク\n\n5612.22 taira ni siru ---- 人にあぐらをかくように勧める時使う。 | agutʃi kaku\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| 調査表に agitʃi kaku とも書かれたが、agutʃi の誤記と思う。\n\n5615.28 raku ni naru〈上〉…〈お客様に勧める時〉 | aji o kaku\n\n5631.75 raku ni iru …〈余〉 | azukumi kaku…〈布〉\n\n5632.83 denyura kaku…〈こく さっさくに〉 | agura o kaku\n\n5635.68 1 テェ アグロ オ カク、2 チョット ブサタ ニ カク | アグロ オ カク\n\n5636.74 タイラニ | 1. アグラ オ カク、2. アグロ オ カク",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01340.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01340",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01340.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "5644.74",
+      "5646.71",
+      "5652.22",
+      "5652.37",
+      "5674.06",
+      "5675.36",
+      "5678.33",
+      "5679.31",
+      "5686.31",
+      "5689.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-41\n\n► A・(B)・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (5)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A注のない語形 [B・C 残した語形とその注]\n\n5644.74 | デェ アグロ オ プちカク … 〈下〉〈古〉 | アグロ オ カク\n5646.71 | 1. デェアグロ オ カク , 2. デェ アグロ オ プチカク | 同上\n5652.22 | [deggoro kaku] …… 〈古〉 | aggoro kaku\n5652.37 | deggoro kaku | aggoro kaku〈希〉\n5674.06 | テェラ ニ イル | アグロ オ カク\n5675.36 | タイラ ニ スル | ブチ カル\n5678.33 | オタイラ ニ ナサイ | アグラ カク … 〈零〉\n5679.31 | taura ni ʃte küdasae … (命令形) | aguira kaeterüi (拡張形)\n5686.31 | raguro o kaku …… 〈希〉 | buɴtʃi ka⁷ru\n5689.98 | takuza o kakui … 〈会けの席にただような時に使〉 |",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01341.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01341",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01341.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "5690.96",
+      "5731.13",
+      "5740.87",
+      "5742.32",
+      "5792.78",
+      "6277.62",
+      "6286.68",
+      "6339.35",
+      "6409.00"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 13-42 質問番号 071 地図番号 52 項目名 あぐらをかく A 普通注記 [B 除いた共通語] (C 除いた特殊語) (6) 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 下 dotsubaru（「他の言い方はありませんか」という問に対して。）　ayura o kaku (ode: ranit) ... 命令　ayura kaju ラグザ オ スル　アグラ オ カク・・・一般的な言い方 bidaymura cikaeru ... ＜悪く言う場合＞　ayura o kaku te:ra:pi sifu　OF 1. tettso: <を> suru 2. gengari <を> suru agura いくらか に近い tettso suru (ー動詞) otokoi doji (一名詞) tettso suru (ー動詞) ヒザヲ クンデ スフル　ヒザヲ フム ラクニスル・・・＜上, 共＞ 1. アグラカク 2. ジョラ クム・・・＜昔、稀＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01342.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01342",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01342.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6423.75",
+      "6424.20",
+      "6434.57",
+      "6469.84",
+      "6459.87",
+      "6461.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-43\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\nA 普通注記\n[B 除いた共通語]\n(C 除いた特殊語)\nページ: (7)\n\n地点番号 ｜ A 語形とその注記 [B・C 除いた語形とその注] ｜ A 注のない語形 [B・C 残した語形とその注]\n\n6423.75 | parm ni süitm → お家さんに アグラを勧める時、←1. tokm ni süirm\n　　　　　　　　　　　　　　　おクニ シナサイ、ラクニシナサイ　　 2. hiza:kummu\n　　　　　　　　　　　　　　　という場合に用いる。　　　　　　　　　　（ヒザアクムの略）\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 3. izüima o kummu\n\n6424.20 | 1. beta:kokm…〈田んぼなどで〉　　　　　　　　　　　　 1. çiza:kummu\n　　　　　 2. rakm ni süirm〈宴会などで お客に対していう〉　　　　 2. izüima:kummu\n　　　　　　　　　　　　　　↑ ラクニシテ ワカーサイ。　　　　　　　　〈友人などたい）。下品ではなし〉\n　　　　　　（この二つは 私が 諮形を呈してみたら）\n　　　　　　（用いるとのことであった。）\n\n6434.57 | アグウ クム…〈？〉　　　　　　　　　　　　　　　　　　　1. アグラア カク\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 2. アクダア クム\n\n6469.84 | ラクニ シトウンナハレ（ラクニスル）　　　　　　　　　　　1.アグラ カク、2. ヒザオクズス\n\n6459.87 | オイダクム　　　　　　　　　　　　　　　　　　　　　　　 OF.\n\n6461.27 | オケダア クム　　　　　　　　　　　　　　　　　　　　　　 OF.",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01343.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01343",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01343.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6469.19",
+      "6489.27",
+      "6492.50",
+      "6505.60",
+      "6506.81",
+      "6508.74",
+      "6516.85",
+      "6520.03",
+      "6537.06"
+    ],
+    "other_text": "日本言語地図資料採用紙 注記一覧 13-44\n質問番号 071  地図番号 52\n項目名 あぐらをかく\nA 普通注記（B 除いた共通語）（C 除いた特殊語）\nページ（8）\n\n地点番号 / A語形とその注記〔B・C 欠いた語形とその注記〕 / A 主のたい語形〔B・C 欠いた語形とその注記〕\nオイラ クゥ …〈古、希〉 | 1. アグラ カク 2. 〈古・希〉\nオトコニジ…スル | アグラ オカク（hiza o …）\nasji o kuzusum | 1. agura kaku, 2. kaku\ndambira kaku ＜古＞（くれる）…いた | itabira kaku\n（削除線） daijo: naka su- | —\nツクバル | 1. ヒザカク 2. ヒザヨカク\nクスズ | アグラ カク\nアシタ オカク | アグラ ヨカク\n! teptjitenno: ni sumu | 1. agura kaku 2. ojiza kaku〈新〉\n〈カルタ絵など 児童の用で使う。〉\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に整理する。\n注記のく<>（）は厳禁にする。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01344.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01344",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01344.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "6571.63"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-45\n質問番号 071　地図番号 52　項目名 あぐらをかく　ページ (9)\nA 普通注記／(B 聞いた共通語)／(C 聞いた特殊語)\n・A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＜＞（ ）［ ］は厳密にする。\n見出し: 地点番号 / A 語形とその注記（B・C 聞いた語形とその注記） / A 注のない語形（B・C 残した語形とその注記）\nA欄の記載（抜粋・大意）:\n・ラワニスル …〈新〉\n・アンダラ …（居何）\n・オイラオ ヲム\n・[ jora kaku ] …〈あまり いわぬ〉 / [ jora kumu ]\n・オトコナオリスル\n・ジョオザ オク（不確）\n・otoko naori suru\n・オトコスワリ\n・オタメ ヲ（不確）\n右欄の記載:\n1. アグラヲカク —〈古、今も〉\n2. ジョラクム 〈希〉\nジョロクム／ジョラヲム（不確）\notabira kaku …〈多〉／〈オタビラウム とは いわぬ〉\nアグラオカク\nオトコ スワリヲ スル\nOF / OF / OF",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01345.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01345",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01345.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "6583.93",
+      "6587.42",
+      "6601.25",
+      "6615.02",
+      "6621.57",
+      "6710.55",
+      "7239.24",
+      "7239.82",
+      "7246.45"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。\n日本言語地図資料用紙 注記一覧 13-46\n資料番号 地図番号 071 52\n項目名 あぐらをかく\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (10)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n6583.93  nainai osuru .... <内々か>    OF\n6587.42  オイサン か?                 アグラ カク\n6601.25  kayura-kaku                 OF\n6615.02  ラクザ オ スル ... <共>    アグロオカク\n6621.57  rakuza ... 人に勧める時は、 rakuza ni opinasai とか suwarinasai という。  agura o kaku\n\n6710.55  gohe:za ni naru             agura o kaku\n7239.24  itagurume                   [itagura me suiru]\n7239.82  [itagurame]                 itaguramja:\n7246.45  itandami suwar             OF",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01346.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01346",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01346.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "7275.07",
+      "7279.93",
+      "7320.59",
+      "7320.95",
+      "7322.17",
+      "7322.81",
+      "7331.27",
+      "7331.41",
+      "7332.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 13-47\n資料番号　地図番号　071　52\n項目名　あぐらをかく\nA　普通注記　[B 除いた共通語]　[C 除いた特殊語] （11）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7275.07　ヨコサンバ　スル　OF\n7279.93　do: guan su?　OF\n7320.59　irakuname ...　(朝から晩まで イラクリメで... の様に云う と答う)　OF\n7320.95　irakurame　OF\n7322.17　wari gīra kumuu　OF\n7322.81　agura kam\nafu: kuzumsu　irakurarame\n7331.27　izakurame　OF\n7331.41　ｲﾀﾝｸﾞﾗｲ　(ｲﾀｸﾞﾗｲ→ ITAGURAI)\n7332.27　itagura　OF",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01347.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01347",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01347.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "7333.51",
+      "7333.75",
+      "7338.48",
+      "7340.27",
+      "7342.76",
+      "7343.14",
+      "7343.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-48\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞( )[ ]は厳密にする。\n\n質問番号: 071\n地図番号: 52\n項目名: あぐらをかく\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ: (12)\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n7333.51  jako çiza                              itagurami\n7333.75  dongguri zuwaru                        OF\n7338.48  ①hiraku, ② hirakuumu                 OF\n         (ra音は za音の転化と見われる。\n          親しい者 同志の時 ならば\n          daruma hirakara kai と勧め。\n          改まった時ならば hirakuumi nasai という由) ①itagurai su2\n7340.27  itagurai tsuku: (あぐらをつくるの意)   ②itagurami su2\n7342.76  itamaguure                             OF\n7343.14  uppeko suru                            OF\n7343.17  kuzusu                                OF",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01348.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01348",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01348.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "7351.68",
+      "7353.03",
+      "7356.70",
+      "7365.25",
+      "7371.54",
+      "7373.23",
+      "7373.92",
+      "7374.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-49\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）は厳密にする。\n\n資料番号 071    地図番号 52\n項目名 あぐらをかく\nA 普通注記  [B 除いた共通語]  (C 除いた特殊語)  ページ (13)\n\n欄見出し: A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\ndonguri zuwari wo suru\t\tsuwaru\nitama guri\t\tOF\ngekkwari suru\t\tOF\nna'na nai o suru (縄をなう/はこういうかこういう) （縄をなわない時でも言う）\t\tgida o kumu\nkuzusu\t\tgiza o kumu\nクルマサ＝ナル ・・・ ?\t\tOF\nイタクルマ　スワル\t\t①イタクルミヤ スワル, ②イタクルマ スワル\n①クズス , ②ユルウナル , ③イタクルマ＝ナル\t\tイタクルマ スワル <希>\nイタクラミゴ = スワル , クズス\t\t①イタクラミゴ スワル, ②イタグラミゴ? スル\n\n（下部に手書き注記、番号付きの別表記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01349.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01349",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01349.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "7375.30",
+      "7383.98",
+      "7392.33",
+      "8300.11",
+      "8303.84",
+      "8315.89",
+      "8331.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく< >（ ）は厳密にする。\n\n日本言語地図資料用紙 注記一覧    13-50\n資問番号　地図番号\n071　52\n項目名　あぐらをかく\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\nWarigiza suru　〈はなまいうこともある〉　→　① agura kaku ＜多＞　② itagura ,\nイタグラスワリ スル　〈古くからの言い方？〉　イタグラミ スル〈く？〉\nオトマケニ スワル\tOF\nマタグラスル\t①イタグラカク、②イタグラミ スル\nイタグラス\tOF\nuwagura kaku …〈鼻拭〉（特殊な場合に疑問）（しているコトバである）\nアグラをかいてならないような場合に、かいている者に向かって、uwagura kaku na と言ったりもする。\nuwagura は「大アグラ」の意であろう。\n\nitagura o sut → SURU\nitagura o su: ……〈禁ねえ方〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01350.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01350",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01350.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "8362.34",
+      "9322.52",
+      "0257.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 13-51\n質問番号 地図番号\n071 52\n項目名 あぐらをかく\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > < ) [ は厳密にする。\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n8362.34  otokone mai sut - 男生りという義。  itagurame o sut ... 多\n9322.52  otokozuwai sut  OF\n0257.12  *andzai ; fum    anda : fum",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01351.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M052Q071/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01351",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01351.tif",
+    "source_ljc_id": "LJC-M052Q071",
+    "source_map_numbers": [
+      "052"
+    ],
+    "source_title": "あぐら (胡座) をかく"
+  }
+]

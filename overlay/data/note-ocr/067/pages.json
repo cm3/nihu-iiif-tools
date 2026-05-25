@@ -1,0 +1,164 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の< > () []は厳密にする。\n日本言語地図資料用紙 注記一覧 16-51\n(右上のボックス) 265 67\n項目名 かつぐ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語]\n(ページ記入欄)\n表見出し: 地点番号   A 語形とその注記   A 注のない語形\nkandzungu, kandzuugu, どちらも使う。\nkaɁzuku (kata e ~, kata de ~)\n[kataneru] (はじめに katsugumu を答え, 書の言によって訂正した)\nkatsuneru <新・共>   kataneru\nkatsuneru (新) kazuku\n(両方同じように用いると言うが: kazukuが古くからの言い方で 多く用い. katsuneruは新しい言い方のように思われる。)\nninau   ( [katsatjuu] )\n!katsuiju (いろいろなかつぎ方があることを面白がったの)\nnaun, ninaun  双方同等\nkatsugiu  びんざ棒でかつぐと言う。びんざ棒をとは言わない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01651.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M067Q265/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01651",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01651.tif",
+    "source_ljc_id": "LJC-M067Q265",
+    "source_map_numbers": [
+      "067"
+    ],
+    "source_title": "かつぐ (天秤棒を担ぐ)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は敢略にする。 日本言語地図資料用紙 注記 16-52 質問番号 265 地図番号 67 項目名 かつぐ A 普通注記 (B 除いた共通語) (C 除いた特殊語) (2) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 5613. 80 katsujuu (tembin de～) 5671. 94 katsuŋu (車段の名詞形は tembin / katsuŋi が使われる) 5696. 68 katsujuu, ninau <どちらも使うが、ninau はやや改った言い方かもしれない> 5793. 74 kazumu <kazumuiでもよい> 6267. 84 kataguŋ? 桶以外はこうしない.. 6287. 71 katageru <ninau は使わない> 6408. 88 ミナウ <共・希> = ラウ 6412. 91 inau <古> ninau 6416. 31 inau. (カタグとは言わない) 6424. 92 カタグ <普> カツグ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01652.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M067Q265/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01652",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01652.tif",
+    "source_ljc_id": "LJC-M067Q265",
+    "source_map_numbers": [
+      "067"
+    ],
+    "source_title": "かつぐ (天秤棒を担ぐ)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "6425.41",
+      "6455.31",
+      "6465.82",
+      "6472.05",
+      "6472.68",
+      "6475.27",
+      "6477.02",
+      "6482.75"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　16-53\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n資料番号 265　地図番号 67　項目名 かつぐ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6425.41　カタグ（普）　カツグ\n6455.31　katagu　〈pino:という人もある〉\n6465.82　カタグ（普）　カツグ\n6472.05　kadagu　〈古〉　katsuigu\n6472.68　＝ニナウとも言う。　カツグ\n6475.27　＝ニナウ（普）　カツグ\n6477.02　＝ニナウ〈ニナウは男が重いものをかたぐ場合。〉\n　　　カタグ〈カタグはせがせの脇の様に軽いものをかたぐ場合〉\n6482.75　ninawu.〈pino: tekure. pino: tejaruのようにいう由〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01653.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M067Q265/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01653",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01653.tif",
+    "source_ljc_id": "LJC-M067Q265",
+    "source_map_numbers": [
+      "067"
+    ],
+    "source_title": "かつぐ (天秤棒を担ぐ)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本方言地図資料用紙　注記一覧　16-54\n資料番号　265　地図番号　67\n項目名　かつぐ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（X）\n\n（表の見出し）\nA 語形とその注記（B・C除いた語形とその注）　A 注のない語形\n\nシナウ　（「荷う」である）\n＝ニオ　〈＝ニオトル。〉\nイナエル。（＝ニナエルの訛りである。）\nイナウ　〈古〉　＝ニナウ\nシナウ　〈共〉　イナウ\n＝ナウ　〈共・希〉　イナウ\nkazuku　〈こんぴん棒を〜と言えばkazukuとなる〉\ninau　〈同の様な場合にてんびん棒で〜と言えばinauとなる〉\ninau　〈こんぴん棒を〜といえばあとはkazukuと言う〉\nkazuku　〈但し「てんびん棒で」と言えば「inau」となる〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01654.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M067Q265/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01654",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01654.tif",
+    "source_ljc_id": "LJC-M067Q265",
+    "source_map_numbers": [
+      "067"
+    ],
+    "source_title": "かつぐ (天秤棒を担ぐ)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）〔　〕は厳密にする。\n\n日本言語地図資料用紙 注記一覧 16-55\n資料番号 265　地図番号 67　A 普通注記\n（B 除いた共通語）　（C 除いた特殊語）　ページ（5）\n項目名　かつぐ\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6549. 03. (荷を中心に言うときは inau となり、てびし棒そのものに注目して 調査表の文脈を与えれば kazuku となり、264 と別になる)\n6560. 40. カツイデ（カツグ または カガグ）　ニナウ。\n6567. 86. inau ＜希＞\n6568. 13. inau（この絵では自然 inau となる。しかし「てびし棒どﾞと」 いえば kazuku といわなければならぬ）\n6583. 93. inau。和者である接尾は ninau といふ人もあると言う。\n6584. 90. ginau（終止形のときはこちらが多い）　ginou\n6591. 57. nihaw（少し）　katayeru\n6593. 30 nihau ＜古＞　inau",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01655.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M067Q265/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01655",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01655.tif",
+    "source_ljc_id": "LJC-M067Q265",
+    "source_map_numbers": [
+      "067"
+    ],
+    "source_title": "かつぐ (天秤棒を担ぐ)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく<>(){}は厳密にする。\n\n日本言語地図資料用紙 注記一覧 16-56\n（右上ボックス） 質問番号 265　地図番号 67\n項目名　かつぐ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (6)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）\n6640. 76　ninau くの絵で、これをどうすると思かれば、ninauと自然に出てくるが、天秤棒をどうするかと\n　katsujuu／向かいといえば自然 katsujuuということになる。\n6662. 01　katsuguu, inau.　同じ程度に使う。\n7340. 74　inau.　〈ino:te iku など〉\n7354. 23　〈?〉カタグル。\n7400. 11　ninau　布。\n7427. 90　binau　ともいう。\n7432. 95　jinau　〈夕〉\n8315. 46　kataguru（この方を早表使う）　hinau（笑）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01656.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M067Q265/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01656",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01656.tif",
+    "source_ljc_id": "LJC-M067Q265",
+    "source_map_numbers": [
+      "067"
+    ],
+    "source_title": "かつぐ (天秤棒を担ぐ)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は敬称にする。 日本言語地図資料用紙　注記一覧　16-57 質問番号　地図番号 265　67 項目名　かつぐ 音注記 [B　除いた共通語] [C　除いた特殊語] ページ 1 (7) 地点番号 A 音形とその注記（B・C除いた活形とその注） A注のない活形（B・C　除した活形その他） kataguru <ktagetfoi> katagu ino <多し> katamui katagui nino (半々に使う) katamijum. o:kofum. （いずれも用いる：o:koはてんぴん様のこと） katamijum. o:kofum. 多少重分に使う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01657.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M067Q265/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01657",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01657.tif",
+    "source_ljc_id": "LJC-M067Q265",
+    "source_map_numbers": [
+      "067"
+    ],
+    "source_title": "かつぐ (天秤棒を担ぐ)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) は厳密にする。 日本言語地図資料用紙 注記一覧 16-58 質問番号 地図番号 項目名 かつぐ A 普通註記 B 除いた共通語 (C 除いた特殊語) (1) かつぐ katsugu 〈やや改まった言い方〉 kazuku カツプ° 〈希〉 イナウ katsuwu 〈日常語ではない〉 ninaw 〈少し〉 katageru <?>カツグ゜ <?>カタグル =ナウ katsugu. inau katsugw 〈日常使用語ではない〉 hinaw katsuwu 〈共〉 ninaw katsuwu 〈共〉 ninaw katsuwu 〈共〉 ninaw",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01658.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M067Q265/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01658",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01658.tif",
+    "source_ljc_id": "LJC-M067Q265",
+    "source_map_numbers": [
+      "067"
+    ],
+    "source_title": "かつぐ (天秤棒を担ぐ)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別表を使用する。 その中での語順は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 日本言語地図資料用紙　注記一覧　16-59 資料番号　265　地図番号　67 項目名　かいつぐ A　普通注記 (B　除いた共通語) (C　除いた特殊語) (1) 地点番号　A語形とその注（B・C除いた語形とその注）　A以外の語形（B・C残した語形とその注） kakeru. （特に重くない場合なら。）　katsugu tembingatsune siru.　katsuneru inotoru.　inau（希）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01659.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M067Q265/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01659",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01659.tif",
+    "source_ljc_id": "LJC-M067Q265",
+    "source_map_numbers": [
+      "067"
+    ],
+    "source_title": "かつぐ (天秤棒を担ぐ)"
+  }
+]

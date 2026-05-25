@@ -1,0 +1,1161 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0737.94",
+      "0747.70",
+      "0779.03",
+      "0840.33",
+      "0894.61",
+      "1727.75",
+      "1738.19",
+      "1747.55",
+      "1798.13",
+      "1848.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-84\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n（右上ボックス）　地図番号　/36　項目名　男\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n0737.94　〈鼻〉 jaro　　　　　　　　　　　　　　　otoko\n0747.70　〈鼻〉 jaro:　　　　　　　　　　　　　　otoko\n0779.03　detsu　〈鼻〉〈子供の範〉　おこられたりからかわれたりする時　otoko\n0840.33　jaro.　〈鼻〉　　　　　　　　　　　　　　otoko\n0894.61　jaro　〈鼻〉　　　　　　　　　　　　　　otoko\n1727.75　ホオシ　〈鹿〉　　　　　　　　　　　　　オトコ\n1738.19　〈鼻〉　baka　　　　　　　　　　　　　otoko\n1747.55　jaro　〈鼻〉　　　　　　　　　　　　　otoko\n1798.13　okkai〈男〉〈鼻〉（聞いたことはあるが使ったことはない）　otoko\n1848.24　jaro〈鼻〉　　　　　　　　　　　　　　otoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03784.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03784",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03784.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1854.24",
+      "1867.15",
+      "2619.28",
+      "2765.71",
+      "3619.58",
+      "3639.49",
+      "3699.55",
+      "3649.16",
+      "3649.64",
+      "3689.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　37-85\n質問番号　地図番号　/36\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]（2）\n\n項目名　男\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\njaro:〈単〉\n下 ボオズ\n下 ヤロ\n〈単〉 kusareodogo\n(単) jaro\n(単) jaro bagajaro\nオドゴ　odojo とする（室員）\n(単) jakko, hoido, jaro, bagajaro\n(単) jaro\njaro（単）\n\n（右欄） 'otoko'　オトコ　オドゴ　odogō　odogo　odogo\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03785.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03785",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03785.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3712.74",
+      "3712.89",
+      "3720.58",
+      "3720.71",
+      "3721.30",
+      "3721.37",
+      "3722.97",
+      "3730.43",
+      "3731.46"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 37-86\n地図番号 136\n項目名 男\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (3)\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n\n37 12 .74 (単) bagajaro           odogo\n37 12 .89 (単) jaro   tšikkišo      odogo\n3720.58 (単) jaro tsikijo           odogo\n3720.71 (単) bagajaro idzarekesi   odogo\n3721.30 (単) jaro                 odogo\n3721.37 (単) jaro tšikišo (男女文通) odogo\n3722.97 (単) jaro                 odogo\n37 30.43 (単) jaro tsikijo         odogo\n37 31.46 (単) jaro tsikijo         odogo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03786.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03786",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03786.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3731.61",
+      "3732.26",
+      "3733.18",
+      "3733.22",
+      "3740.33",
+      "3740.82",
+      "3741.57",
+      "3750.28",
+      "3750.75",
+      "3751.81"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-87\n質問番号　地図番号　136\n項目名　男　630\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　(4)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n(軍) bagajaro\todogo\n(軍) bagajaro\todogo\n(軍) bagajaro　野化もに。\todogo\njaro (軍)\todogo\njaro (軍)\todogo\njaro (軍)\todogo\njaro (軍)\todogo\njaro (軍)\todogo\njaro (軍)\todogo\njaro (軍) baga (軍)\todogo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03787.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03787",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03787.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3752.89",
+      "3760.58",
+      "3761.22",
+      "3761.74",
+      "3762.42",
+      "3762.85",
+      "3770.49",
+      "3770.62",
+      "3771.29",
+      "3771.44"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧 37-88\n質問番号　地図番号　136\n項目名　男 680\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語] (5)\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n3752.89 (単) bagajaro lgezarü lgetsikü　odogo\n3760.58 jaro (単)　odogo\n3761.22 (単) bagajaro　odogo\n3761.74 (単) jaro (単) tsikkijō　odogo\n3762.42 odogo　単称はまちなかった\n3762.85 (単) jaro　odogo\n3770.49 (単) jaro　odogo\n3770.62 jaro (単)　odogo\n3771.29 (単) jaro bagake bagajaro　odogo\n3771.44 (単) bagajaro　odogo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03788.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03788",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03788.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3772.32",
+      "3772.73",
+      "3730.65",
+      "3781.21",
+      "3781.49",
+      "3782.38",
+      "3782.71",
+      "3791.76",
+      "4619.23",
+      "4652.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-89\n\n（右上）質問番号　地図番号　136　項目名　男　080\nA　普通注記　ページ\n[B]　除いた共通語　[C]　除いた特殊語　(6)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き項目（左から右へ）:\n3772.32　(単) jaro\t\todogo\n3772.73\t同上\t\t同上\n3730.65　(単) jaro dadzagui jaro bagajaro\t同上\n3781.21　(単) jaro\t\t同上\n3781.49\t同上\t\t同上\n3782.38　(単) bagajaro noldo\t同上\n3782.71　(単) jaro noldo\t同上\n3791.76　(単) jaro\t\t同上\n4619.23\tja'ro: (写?)\t\todoko\n4652.79\totoko no mon ... OTOKO\n\n下部手書き注記: ＜ち〜現＞　これも最も多く用いる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03789.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03789",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03789.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4659.50",
+      "4667.33",
+      "4672.19",
+      "4676.42",
+      "4677.65",
+      "4685.72",
+      "4689.86",
+      "4694.81",
+      "4695.21"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n日本言語地図資料用紙　注記一覧　37-90\n地図番号　136　項目名　男　080　A 普通注記　ページ（7）\n[B 除いた共通語]　[C 除いた特殊語]\n（表ヘッダ）地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\nヤロ（鼻）\tオドコ\nヤロヲ　ののしる場\tオトコ\notokono mon （相川では otokono MON といったふうなえいすが ありますか の問いに対する答え。）\totoko\nヤラオオ（下品）\tオトコ\nodoko（jaro は「男の子」を意味する）\todoko / otoko\njaro:（下）〈jaro: は けんが腰の時用いる〉\totoko\nzaro:〈悪口〉\todoko\nヤラオオ（下品、ののしる語）\tオトコ\njaro〈下〉 zumbe〈下〉\totoko\n（下部メモ）に用いる難しい言葉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03790.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03790",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03790.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4699.42",
+      "4706.53",
+      "4711.49",
+      "4723.14",
+      "4725.01",
+      "4735.42",
+      "4741.44",
+      "4743.44",
+      "4750.32",
+      "4761.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-91\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n（表右上）地図番号　136\n項目名　男　080\nA　普通注記\n（B　除いた共通語）\n（C　除いた特殊語）　（8）\n\n（表見出し）地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n\n4699.42　jaro:（単称）\t\totoko\n4706.53　odogo　〈男の単称は jalo:〉\t\tオドゴ\n4711.49　ヤロ（単）\t\tオドゴ\n4723.14　jaro　［単］\t\todogo\n4725.01　オドゴ〈単、ヤロ〉\t\todogo\n4735.42　単　ヤロオ\t\tオドゴ\n4741.44　ヤロ（単又は子供に対して）\t\tオドゴ\n4743.44　otoko〈単称としては jalo: かある〉\t\tオドゴ\n4750.32　ヤロ（単）又は子供に対して\t\tオドゴ\n4761.57　jaro:〈単称〉\t\totoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03791.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03791",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03791.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4772.33",
+      "4773.15",
+      "4781.48",
+      "4782.96",
+      "4791.65",
+      "4792.43",
+      "4793.41",
+      "4794.30",
+      "5566.95",
+      "5567.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 37-92 質問番号 地図番号 136 A 普通注記 ページ (9) 項目名 男 080 [B 除いた共通語] [C 除いた特殊語] 地点番号 A 語形とその注記 (B・C除いた語形とその注) A 注のない語形 (B・C 残した語形とその注) 4772.33 jaro <あのしる言い方?> otoko 4773.15 jaro: <鼻?> odoko 4781.48 jaro: <ばかにしている> otoko 4782.96 jaro: <下> odoko 4791.65 jaro: (鼻秕) 同上 4792.43 ba ajaro: <鼻?> odogo 4793.41 odoko (jaro: 鼻秕) 4794.30 jaro: <ばかにしている> otoko 5566.95 オトコ <新> オトコ 5567.46 <鼻?> デュチイ オトコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03792.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03792",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03792.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5568.57",
+      "5603.88",
+      "5605.11",
+      "5605.57",
+      "5109.26",
+      "5609.81",
+      "5611.74",
+      "5612.39",
+      "5612.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-93\n質問番号　地図番号　136\n頁　A 普通注記\n[B　除いた共通語]　(C　除いた特殊語)　(10)\n項目名　男　060\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n5568.57　〈鼻〉 ボ　オトコ\n5603.88　jaro〈下〉　otoko\n5605.11　jaro:〈下〉　同上\n5605.57　オツコ　otsukoという形にきかれた。男の児は otsukokko\n5109.26　jaʳro〈要口〉　oto'ko\n5609.81　jaro:〈単体〉　otoko\n5611.74　ヤラオオ（下）〈悪口をいう時使う〉　オトコ\n5612.39　ヤラオオ（下）（希）　同上\n5612.98　#米! otogo はじめ okkasa へと云い、これを訂正した。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03793.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03793",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03793.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5617.85",
+      "5623.27",
+      "5623.85",
+      "5625.32",
+      "5632.28",
+      "5633.45",
+      "5635.48",
+      "5636.49",
+      "5636.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 37-94\n質問番号 地図番号 136\n項目名 男 060\nA 普通注記 (ページ)\n[B 除いた共通語]\n[C 除いた特殊語] (11)\n\nA 語形とその注記 [B・C除いた語形とその注] A 注のない語形 (B・C 残した語形とその注)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は省略にする。\n\n手書き表の行:\notoko 〈jaro: は鼻社〉\notôko [[獣は オト.オンナ 鳥は オス.メス]] jaro 〈鼻.下〉\njarokko (鼻)\nヤラオオ (下)(99は用いる)\njaro 〈鼻〉\n同上\nヤロオ 〈鼻〉\nヤロ 〈下〉\nヤロオ 〈鼻〉\n\n右側対応語:\notogo\nオトコ\notoko\nオトコ オトコシ\nオトコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03794.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03794",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03794.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5644.74",
+      "5646.71",
+      "5657.73",
+      "5665.41",
+      "5666.18",
+      "5669.19",
+      "5669.96",
+      "5676.28",
+      "5676.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-95\n質問番号　地図番号　136\nA　普通注記　ページ\n(B　除いた共通語)　(C　除いた特殊語)　(12)\n項目名　男　080\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく<>[]は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n（表 中の手書き注記、地点番号は除く）\nオスく（鼻）\tオトコ\nヤロオく〈下〉\t同上\nヤロオく〈下〉\t同上\nヤロオく〈カゲデ〉\tオトコ　オトコシ\nヤロオく〈下〉\tオトコ\njaro（裏口）\totoko\njaro（鼻）\todogo\njaro：（鼻）\totoko\nヤロオ〈年令に関係なし〉　オス（ほかにしたような性）　〈新〉\tオトコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03795.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03795",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03795.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5677.28",
+      "5678.33",
+      "5678.59",
+      "5679.31",
+      "5683.61",
+      "5686.15",
+      "5687.32",
+      "5687.59",
+      "5689.43",
+      "5689.98"
+    ],
+    "other_text": "◀ A・[B]・[C]ごとに別紙を使用する。\n◀ その中での語順は地点番号順に並べる。\n◀ 注記の＜＞（）［］は数箇にする。\n日本言語地図資料用紙　注記一覧　37-96\n質問番号　地図番号　136\nA　普通注記　ページ\n(B　除いた共通語)　(13)\n(C　除いた特殊語)\n項目名　男　080\n表見出し: 地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n手書き欄（各行の注記、語形の写し）:\nオトコヤロオ〈鼻〉    オトコ\nヤロオ〈鼻〉    同上\njaːro・〈古〉    oːtoko\njaro〈鼻〉    otoko\nヤロウ〈鼻称〉    オトコ　オトコシ\nko^no jaro:〈鼻〉    otoko\nヤロオ〈鼻〉    オトコ\njarro:〈鼻〉    otoko\njaro:〈鼻〉    otoko\notoko (下線) 〈鼻称 [jaro:]〉    otoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03796.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03796",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03796.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5693.78",
+      "5694.79",
+      "5696.13",
+      "5696.68",
+      "5697.20",
+      "5697.24",
+      "5698.19",
+      "5698.30",
+      "5698.54",
+      "5699.25"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-97\n（枠内）質問番号　地図番号　136\n項目名　男　060\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(14)\n\n表見出し：\n地点番号　A　語形とその注記　（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n5693.78　ヤロオ　〈下〉　オトコ\n5694.79　ヤロオ　〈下〉　オトコ　オトコシ\n5696.13　〈下〉〈古〉ヤロオ　オトコ\n5696.68　jaro:〈単称〉　otoko\n5697.20　-jaro:〈単称〉　「otoko」\n5697.24　〈下〉ヤロオ　オトコ\n5698.19　jaro:〈単称〉　otoko\n5698.30　-jaro:（単）　「otoko」\n5698.54　（同上）　（同上）\n5699.25　okoko　jaro:〈単〉\n\n（下部手書き）toの記述と判定　otokoとする（登員）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03797.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03797",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03797.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5699.42",
+      "5700.28",
+      "5702.52",
+      "5703.19",
+      "5710.29",
+      "5711.18",
+      "5712.88",
+      "5713.65",
+      "5714.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　37-98\n質問番号　地図番号　136\nA　当通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(15)\n項目名　男　080\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n5699.42　jaro:　〈単称〉　otoko\n5700.28　jaro:　〈単称〉　otoko\n5702.52　同上　〈下〉　同上\n5703.19　otoko　単称　jaro: 若者 dzidzi 老人\n5710.29　otogo　(jaro: 単称、中年まで)　otoko\n5711.18　otoko　単称　jaro: 大人でも含む　dzidzi 老人\n5712.88　jaro:　〈下〉　otoko\n5713.65　otoko　jaro: jatsui\n5714.10　jaro:　〈下〉　otoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03798.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03798",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03798.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5721.27",
+      "5721.77",
+      "5731.13",
+      "5741.25",
+      "5742.65",
+      "5751.89",
+      "5760.24",
+      "5760.57",
+      "5761.91",
+      "5770.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-01\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳格にする。\n（枠内） 質問番号　地図番号　136\nA 普通注記（丸印）\n[B] 除いた共通語\n[C] 除いた特殊語　(16)\n項目名　男　080\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形（B・C 残した語形とその注）\n5721.27  otoko  単称 若いもの jaro 老人 dzidzi\n5721.77  jaro  ＜わるくいう時＞  otoko\n5731.13  (男) jaro  odogo\n5741.25  jaro ＜下＞  otoko\n5742.65  (男) jaro  odoko\n5751.89  jaro：〈男〉  otoko\n5760.24  jaro ＜要口＞  otoko\n5760.57  jaro 〈男〉  odogo\n5761.91  同上\n5770.11  同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03801.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03801",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03801.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5770.46",
+      "5772.00",
+      "5780.57",
+      "5781.22",
+      "5781.65",
+      "5782.32",
+      "5782.79",
+      "5782.94"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の＜＞（）[]は抜粋にする。 日本言語地図資料用紙 注記一覧 38-02 地図番号 136 男 080 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (17) 地点番号　A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5770.46　jaro　〈鼻〉　odogo 5772.00　(鼻) jaro　同上 5780.57　jaro　〈鼻〉　同上 5781.22　jaro　jaroは必ずしも単称ではない。 “今までうちへ jaro が生れて...” というようにも使う。 5781.65　jaro:〈悪い意味、ケンソンにも使う〉　odoko 5782.32　jaro:〈鼻称〉　otoko 5782.79　otoko〈希〉　jaro〈鼻、下〉　odono 5782.94　jaro:〈ケンカのとき〉　otoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03802.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03802",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03802.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5791.23",
+      "5791.68",
+      "5792.02",
+      "5792.18",
+      "5792.62",
+      "5793.20",
+      "5793.74",
+      "6348.71",
+      "6366.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-03\n質問番号　地図番号　/36/\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(18)\n項目名　男　080\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n5791.23   jaro:　単称　　odogo　otoko\n5791.68   jaro　〈単．赤と坊が生れたとき〉　otoko\n5792.02   ! ja'ro:　〈ケイベツの意なし〉　otoko　〈共通語として〉\n5792.18   ja'ro:　〈子供のこと。最近少なくなった。ケンの呼と使う〉　otoko\n5792.62   jaro:　〈右．鼻〉　odogo ～ odoko\n5793.20   jaro　〈主腹したときい〉　otoko\n5793.74   jaro:　〈単称〉　odogo\n6348.71   テキ　〈右、下〉　オトコ\n6366.24   otoko　(単称なし)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03803.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03803",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03803.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6373.59",
+      "6374.68",
+      "6376.68",
+      "6384.73",
+      "6385.63",
+      "6386.66",
+      "6393.26",
+      "6394.09",
+      "6395.46",
+      "6396.08"
+    ],
+    "other_text": "日本音声地図資料用紙　注記一覧　38-04\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は略語にする。\n\n質問番号　地図番号　136\n項目名\n男　060\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(19)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)\n\nOTOKO（異表なし）\n同上\n同上\n同上\n同上\n同上\n同上\n同上\n同上\n同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03804.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03804",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03804.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6396.62",
+      "6398.42",
+      "6411.66",
+      "6420.34",
+      "6426.47",
+      "6428.76",
+      "6442.80",
+      "6445.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-05\n質問番号 地図番号 136\n項目名 男 050\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (20)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<>（）[]は数箇にする。\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n6396.62  オトコ <若い男の 未婚者をノンコと言う。あまり上品ではない。>\n6398.42  otoko  <単体 別になし>\n6411.66  オトコ <ただ オトコと言えば 下男のこと>\n6420.34  オトコ <異案＝オノコゴシ〈古〉>\n6426.47  jarro: <悪口>\n6428.76  ヤロオ <下>  ガキ <下>  <ヤロウ、ガキは相手がオトコ 大人でも子供でも使う>\n6442.80  オノコゴ <右> オトコ\n6445.11  <!> オトコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03805.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03805",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03805.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6447.08",
+      "6457.51",
+      "6476.17",
+      "6477.02",
+      "6479.51",
+      "6485.46",
+      "6485.82",
+      "6486.07",
+      "6486.50"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n質問番号　地図番号　136\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n項目名　男\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の < > ( ) [ ] は省略にする。\n\n（表見出し）\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C　残した語形とその注]\n\n（手書き行抜粋、地点番号は省略）\nonta [男] … おすっ意\totoko\nojazime <単>\totoko\nオンタ <下> <異るときは人間を動物と同じに見て オンタという>\tオトコ\n! オンタ　オンタは意地悪に、又はおかしくいるとき。\tオトコ\nonta [男] 雄の意\totoko\nオトコシ <下>\tオトコ\n! オレタ\t同上\n下、ヤロオ\t同上\nT! オトコドクロ\t同上\n\n（ページ下部枠線）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03806.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03806",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03806.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6487.43",
+      "6488.48",
+      "6509.43",
+      "6516.15",
+      "6518.87",
+      "6519.43",
+      "6528.21",
+      "6535.73"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（）[]は略語にする。 日本語音語地図資料用紙　注記一覧　38-07 質問番号　地図番号　136 A　普通注記　ページ [B　除いた共通語] [C　除いた特殊語] (＞2) 項目名　男　080 地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注] ＜下＞　オン（オンはオス（雄）の意味。不良ことばであるという。）　オトコ ga?ki ＜鼻＞　「oto」ko ボオ ＜鼻＞（動物のおすをあらわす時には使わない）　オトコ ＜鼻＞ ボオズ ＜鼻＞（動物のおすをあらわす時には使わない） オトコ ＜鼻＞ ボオズ ＜浮＞ ホオズ ＜浮＞ ダンシ ＜他＞＜鼻＞ ガキ ＜英＞ ダンシ オトコ jaro: ＜下＞＜希＞ otoko otoko 男子は次のように呼び方が変る bo: -> waro -> dʑi:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03807.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03807",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03807.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6538.46",
+      "6546.73",
+      "6547.24",
+      "6548.26",
+      "6549.03",
+      "6549.60",
+      "6553.22",
+      "6553.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は略称にする。 日本言語地図資料用紙 注記一覧 38-06 地図番号 136 項目名 男 080 A 普通注記 B 除いた共通語 C 除いた特殊語 (23) 地点番号 6538.46 jaro〈単〉 otoko 6546.73 otoko [子供に関しては kobo という] 6547.24 jaro:〈単〉 otoko 6548.26 jaro:〈下〉〈へのしるような場合〉 otoko 6549.03 jaro:〈下〉 同上 6549.60 jaro:〈下〉 同上 6553.22 onta〈単〉 同上 6553.47 onta〈良〉 生まれたとき。 「トゥ デンタンァ?」 「オンタヤ」という風に。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03808.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03808",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03808.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6557.14",
+      "6558.10",
+      "6558.37",
+      "6559.67",
+      "6561.49",
+      "6564.51",
+      "6568.13",
+      "6580.66",
+      "6581.52"
+    ],
+    "other_text": "日本語地図資料用紙　注記一覧　38-09　質問番号　地図番号　136　項目名　男　080　A　普通注記　[B　除いた共通語]　[C　除いた特殊語]　(24)\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（　）［　］は厳密にする。\n表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\njaro 〈鼻〉＜めったに使わぬ＞　　　　　　otoko\njaro: ＜下＞　　　　　　　　　　　　　　　同上\njaro: 〈鼻〉〈あまり多くは使わぬ〉　　　　同上\n同上　〈怒って自分の子供などに使う。(しかし ごく希である)〉　同上\nオンタ　〈鼻〉　　　　　　　　　　　　　　同上\nonda　〈鼻〉　　　　　　　　　　　　　　　同上\njaro　〈下〉　　　　　　　　　　　　　　　同上\nマロオ　〈下〉　　　　　　　　　　　　　　同上\nガキ　〈鼻〉〈アノ ガキ。などいう〉　　　　同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03809.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03809",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03809.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6586.27",
+      "6591.02",
+      "6591.57",
+      "6603.52",
+      "6603.82",
+      "6604.38",
+      "6604.60",
+      "6606.35",
+      "6606.38",
+      "6607.03"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での指標は地点番号順に並べる。\n注記の＜＞（）[]は敬語にする。\n\n日本言語地図資料用紙　注記一覧　38-10\n質問番号　地図番号　/36\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語] (25)\n項目名　男 086\n\n（表見出し）\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n\njaro　<小さい時に使った。怒った時など今でも(使)>　otoko　オトコ\nヤロオ　<下>　オトコ\nカキ　<下>　カキシット　<下>　オトコ\nonoʳko　<どんないな言い方、さげすんだ言い方>　otoko\nヤロウ　<下>　オトコ\nヤロウ　<単>　オトコ　オトコシ\nヤロオ　<下>　オトコ\notokoʳ　（鼻母音はNR）\ngaki　（単）　\"otoko\"\n-anojaro-　<下>　-aitsu<下>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03810.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03810",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03810.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6607.84",
+      "6608.07",
+      "6609.02",
+      "6609.05",
+      "6613.07",
+      "6613.77",
+      "6618.51",
+      "6619.76",
+      "6621.94",
+      "6623.53"
+    ],
+    "other_text": "日本語地図資料用紙　注記一覧　38-11\n質問番号　地図番号　136\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(26)\n項目名　男　080\n\n（表ヘッダ）\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n- otokoji ([-ji] = 「案」か)       otoko\n- jaro: (卯?)                      otoko\n- jaro: <下>                       o'toko\n下 ヤロオ                           オトコ\nヤロオ <下> <野郎は ののしっていう>    オトコ\nオトコシ <男衆の意味である>             オトコ\n-jaro: (男の単語)                   otoko\n-jaro: (単)                         otoko\n同　上 <異>                         同上\njaro: <下>                          同上\n\n（手書き注記や括弧内の説明多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03811.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03811",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03811.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6624.13",
+      "6624.65",
+      "6625.17",
+      "6625.66",
+      "6626.30",
+      "6627.12",
+      "6626.4",
+      "6626.71",
+      "6628.23",
+      "6628.59"
+    ],
+    "other_text": "日本音声地図資料用紙 注記一 38-12\n（右上枠）管理番号　地図番号　/36\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(27)\n項目名　男 080\n\n地点番号　A 語形とその注記　[B・C 除いた語形とその注記]　A 注のない語形　[B・C 残した語形とその注記]\n\n6624.13   kozo: 下 (親しい気持ち)    jaro: 下    otoko\n6624.65   jaro: 卑    同上\n6625.17   jaro: 下    同上\n6625.66   jaro: <鼻>    同上\n6626.30   jaro: <要口>    otoko\n6627.12   jaro: (TF)\n6626.40   osu¹ <鼻>\n6626.71   aitsu <鼻>\n6628.23   jaro: <鼻>\n6628.59   同上  <[jaro:] は過去などが使う>\n\n（手書きの注記・矢印・枠など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03812.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03812",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03812.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6629.24",
+      "6630.58",
+      "6632.88",
+      "6633.33",
+      "6633.89",
+      "6634.07",
+      "6634.32",
+      "6635.54",
+      "6635.87",
+      "6636.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-13\n質問番号　地図番号　136\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(28)\n項目名　男　080\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6629.24    jaro: <鼻>    otoko\n6630.58    jaro: <鼻>    otoko\n6632.88    同上    同上\n6633.33    同上    同上\n6633.89    単 kozo:    同上\n6634.07    jaro: 鼻    同上\n6634.32    下 jaro:    同上\n6635.54    単    同上\n6635.87    jaro: 下\n6636.62    同上 <鼻>    otoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03813.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03813",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03813.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6638.14",
+      "6639.43",
+      "6640.34",
+      "6640.76",
+      "6641.43",
+      "6641.82",
+      "6642.33",
+      "6642.58",
+      "6643.16",
+      "6643.72"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は数値にする。\n日本語地図資料用紙　注記一覧　38-14\n質問番号　地図番号　136\nA 普通注記　（ページ）\n[B　除いた共通語]\n[C　除いた特殊語]　(29)\n項目名　男　080\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\njaro:〈鼻〉　　　「otoko」\njaro:〈鼻〉　　　otoko\njaro:〈下〉〈希〉　同上\n同上　〈発音はあまり使わない〉　同上\njaro:〈鼻〉〈年令に関係なく 全般に使う〉　同上\njaro:〈鼻〉〈年令に関係なし〉　同上\njaro:鼻　　　　同上\n同上　下　　　同上\n同上　下　　　同上\njaro:鼻　jar o:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03814.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03814",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03814.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6645.37",
+      "6645.62",
+      "6646.23",
+      "6646.74",
+      "6649.28",
+      "6650.70",
+      "6650.79",
+      "6651.32",
+      "6652.06",
+      "6652.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での計録は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　38-15\n質問番号　地図番号　136　項目名　男　080\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(30)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)\n\n6645.37    jaro: <鼻>    otoko\n6645.62    同上          同上\n6646.23    同上          同上\n6646.74    同上          同上\n6649.28    jaro <単数>    oto: oto'o\n6650.70    jaro: <鼻>    同上\n6650.79    単 jaro:       同上\n6651.32    jaro: <鼻>    同上\n6652.06    jaro:         # otoko\n6652.30    jaro: T       otoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03815.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03815",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03815.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6652.77",
+      "6653.30",
+      "6655.51",
+      "6655.87",
+      "6656.31",
+      "6657.54",
+      "6657.96",
+      "6661.02",
+      "6662.01",
+      "6662.38"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-16\n質問番号　地図番号　136\n項目名　男　080\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(3/)\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）[ ]は略記にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6652.77    jaro:　卑　　　otoko\n6653.30    同上　　　　同上\n6655.51    jaro:　〈卑〉　同上\n6655.87    同上　　　　同上\n6656.31    同上　　　　同上\n6657.54    - kono jaro:　〈卑〉　tɕi: ['ki] o?: 〈卑〉　otoho?\n6657.96    質問せず\n6661.02    jaro:　〈卑〉　otoko\n6662.01    jaro:　卑　　　同上\n6662.38    同上　　　　同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03816.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03816",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03816.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6665.25",
+      "6697.39",
+      "6697.59",
+      "6698.20",
+      "6698.61",
+      "6700.25",
+      "6700.48",
+      "6701.01",
+      "6701.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-17\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n質問番号　地図番号　136\n項目名　男　080\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)　(32)\n\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A注のない語形　(B・C 残した語形とその注)\n\n手書き項目（概略）:\njaro: 〈鼻〉　jarokko 〈愛称〉　otsumko 〈古〉　jaro 〈鼻称〉　jaro:kko 〈愛称〉\njarokko 〈愛称〉\njaro: 鼻 (Nom.)\njaro: 〈鼻〉\n\n右欄（概略）:\notoko\n同上\n同上\n同上\n同上\notoko\notoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03817.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03817",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03817.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6702.21",
+      "6710.02",
+      "6710.55",
+      "6711.95",
+      "6720.23",
+      "6720.67",
+      "6721.33",
+      "7218.26",
+      "7303.29",
+      "7313.34"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-18\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）［］は厳密にする。\n質問番号　地図番号　136　項目名　男　080　A 普通注記　ページ　(33)\n[B 除いた共通語]　[C 除いた特殊語]\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n6702.21  jaro 〈鼻〉\t\totoko\n6710.02  jaro: 〈鼻〉\t\toto ko\n6710.55  jaro: (鼻)\t\toto  otoko\n6711.95  ! jaro: 〈鼻〉\t\toto  otoko\n6720.23  jaro: (鼻)\t\t同上\n6720.67  15上\t\toto\n6721.33  同上\t\totoko\n7218.26  ko'nu\"wotoko 〈鼻〉\t\trwotoko\n7303.29  otoko 〈鼻 別にない〉\n7313.34  (鼻) gaki\t\totoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03818.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03818",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03818.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7313.68",
+      "7321.93",
+      "7323.17",
+      "7332.97",
+      "7351.09",
+      "7500.24",
+      "7503.11",
+      "7510.18",
+      "7511.66",
+      "7512.43"
+    ],
+    "other_text": "日本書語地図資料用紙　注記一覧　38-19\n質問番号　地図番号　136\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(34)\n項目名　男　080\n\nA・{B}・{C}ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<>()[]は厳密にする。\n\n表ヘッダ: 地点番号　A語形とその注記　{B・C除いた語形とその注}　A注のない語形 {B・C 残した語形とその注}\n\n手書き欄:\n(卑) kuso kero\totoko\nオトコ\t卑く(別にない)\totoko\n卑称 kedo\totoko\notoko\t卑く(別にない)\totoko\n同上\nヤロオ　<卑称>\tオトコ\notoko(i)　〈オトコシ〉は複数に限る。\totoko\nヤロオ　〈卑〉\tオトコ\nガキ　〈下〉\tオトコ\nヤロ　〈下〉\tオトコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03819.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03819",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03819.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7513.69",
+      "7521.16",
+      "7521.79",
+      "7522.48",
+      "7523.30",
+      "7523.74",
+      "7533.11",
+      "7659.53",
+      "8333.03",
+      "9313.55"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）[　]は厳密にする。 日本語地図資料用紙　注記一覧　38-20 （右上のボックス） 地図番号　/36 項目名　男　060 A　普通注記 [B　除いた共通語] [C　除いた特殊語]　(35) 表ヘッダ: 地点番号　A語形とその注記 [B・C除いた語形とその注] A注のない語形 (B・C 残した語形とその注) 表内容（地点番号に対応する語形等、数字は除く）: ヤロく〈下〉　ヤロバチ〈下〉　オトコ ヤロ〈下〉　ヤロッカチ〈下〉　オトコ ガキ〈下〉　オトコ ヤロ〈下〉　カンキ〈下〉　オトコ クサリガキ〈下〉　オトコ otoko　子供なら bo: ガキ〈下〉 誘 onokogo otoko　雄は otts otsuko〈希〉　otoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03820.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03820",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03820.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "0747.70",
+      "0896.22",
+      "1743.70",
+      "1798.13",
+      "3721.71",
+      "3724.96",
+      "3733.18"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[ ]は厳密にする。\n日本語語地図資料用紙　注記一覧　38-21\n\n質問番号　地図番号　136\n項目名　男　080\nA　普通注記　ページ\n[B　除いた共通語]\n(C　除いた特殊語) ( / )\n\n地点番号　A　語形とその注記　【B・C 除いた語形とその注】　A 注のない語形　【B・C　残した語形とその注】\n\n0747.70  warasi 〈子供全般をもいう　ひとりをもいう〉　　　otoko 〈単〉 jaro:\n0896.22  [ワラシ][古]　ワラシは男とも子供に対する呼び方。　[ユオンフ]　オトコ\n1743.70  ヤロコ　ヤロコは子供をさす　　　　　　　　　　　　オドゴ\n1798.13  hekatʃi 〈男の子〉〈アイヌ語である。子供の時にそう呼ばれた〉 (ポンシンパ＝小さいダナンケ)　otok o\n3721.71  (卜) bagajaro　　　　　　　　　　　　　　　　odogo\n3724.96  ワゲアモノ〈青年〉　　　　　　　　　　　　　　　オドゴ\n3733.18  gagi (若いもの 幼いものに)　(単) bagajaro　男女ともに　odogo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03821.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03821",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03821.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "3733.22",
+      "3744.18",
+      "3765.74",
+      "3781.49",
+      "4619.29",
+      "4653.02",
+      "5569.36",
+      "5578.27",
+      "5579.79",
+      "5588.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-22\n質問番号　地図番号　136\n項目名　男 060\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語 (2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の〈〉()[]は厳密にする。\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n3733.22  kuisarebitta (鼻) 子供に。                jaro (鼻) odogo\n3744.18  かキ (男児)(鼻)                           オトコ\n3765.74  ビッキ (男児)                              オトコ\n3781.49  gagii (子供に対して)                      jaro (鼻) odogo\n4619.29  jaro (親に対しての語)                      odogo\n4653.02  jaroko'be (親の単独)                        odogo\n5569.36  <幼> ボオ                                オトコ\n5578.27  ボオ <幼、鼻>                             オトコ\n5579.79  <幼> ボオ                                同上\n5588.78  ボ <幼> ボイズ <幼>                       オトコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03822.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03822",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03822.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "5597.78",
+      "5599.41",
+      "5646.71",
+      "5752.94",
+      "5780.11",
+      "6439.01"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は敬体にする。 日本言語地図資料用紙 注記一覧 38-23 項目番号 地図番号 136 A 普通注記 [B 除いた共通語] (C 除いた特殊語) (3) 項目名 男 080 \n＜鼻＞ ポオ  {大人に対して使う場合は殆どなく、 大人か男の子供に対して使うことば。} オトコ\nポオ ＜幼・鼻＞\nオトコシ ＜結婚後＞ ヤロオ＜下＞ オトコ\n(鼻) zizi: ＜死人について＞ otoko\njaro jaroは自分の子供についていう。 jaro dek? ta（生れた） odo go\nガキ ＜子＞ オトコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03823.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03823",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03823.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6487.66",
+      "6494.08",
+      "6498.61",
+      "6507.13",
+      "6507.48",
+      "6507.79",
+      "6518.15"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の< >（ ）〔 〕は敬俗にする。 日本語言語地図資料用紙　注記一　38-24 質問番号　地図番号　136 項目名　男　089 A 普通注記　ページ [B] 除いた共通語 C 除いた特殊語 （　） 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形（B・C 残した語形とその注） 6487.66　かきノコ　<子><下>　オトコ 6494.08　ドクロ<下>　コドクロ<下>　〈ドクロは多く子供に〉　同上 6498.61　gaki（子供、鼻）　otoko 6507.13　ホオ　ホオズ　}　〈子供に対していうことば〉　オトコ 6507.48　ホオ　〈子供に対していうことば〉　オトコ 6507.79　〈卑〉デッチ　オトコ 6518.15　アンシャ　〈兄を呼ぶ　子供のことば〉　オトコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03824.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03824",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03824.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6518.87",
+      "6519.43",
+      "6519.67",
+      "6533.36",
+      "6571.68",
+      "6584.90"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　38-25\n質問番号　地図番号　136\n項目名　男　080\nA　普通注記　　B　除いた共通語　　C　除いた特殊語（5）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n〈単〉 ボオズ（大人には使わない。自分の子供、または他人の子供を叱ったりする時に使う。）　〈学〉 ダンシ　オトコ\n〈幼年〉 ボオズ　〈他〉〈単〉 ガキ　〈共〉 ダンシ　オトコ\n〈幼年〉 ボオ　オトコ\nbo:zu〈子〉　otoko\nヤッコ　〈男の子供〉　オトコ\n小さい男の子のことを nju:do:〈少〉 ... もう少しいやしけて kusonju:do: ともいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03825.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03825",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03825.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6604.60",
+      "6617.34",
+      "6617.75",
+      "6618.46",
+      "6625.17",
+      "6626.30",
+      "6638.14",
+      "6641.43",
+      "6641.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-26\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語形は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）は厳密にする。\n（上部表）質問番号　地図番号　136　項目名　男　080　A 普通注記　（B 除いた共通語）　（C 除いた特殊語）\n表ヘッダ：地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n手書き行（上から順）:\nコゾオ ＜下＞ ＜青少年に対してののしる時は使う＞　ヤロオ＜下＞　オトコ　\"otoko\"\nNR ＜鼻＞ 〈単字〉　\"otoko\"\n（下）ヤロオ（年少者に対して）　オトコ\n（子、鼻）　ガキ　オトコ\nKOZO: 子、 jingzi: ... 老人という、全て年齢ではない。 jaro: 下　otoko\nkozo: <子供に対しての悪口> jaro <裏口> otoko\n＜子どもの単称は [gaki]＞ jaro:（男） \"otoko\"\noji:（老人） zinzi: <早><老人を> jaro: <年><年令に関係なく全般に使う> otoko\n（下段）oji: san / 年寄のとき jaro: <年><年令に関係なく> otoko\n（ページ下部に続きあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03826.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03826",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03826.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6643.16",
+      "6652.30",
+      "6697.59",
+      "6730.33",
+      "7312.11",
+      "7329.57",
+      "7436.40"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-27\n質問番号 地図番号 136\n項目名 男 030\nA 普通注記 ページ\n[B 除いた共通語]\n(C 除いた特殊語) (7)\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n\n6643.16  gaki  下、子    jaro: 下  otoko\n6652.30  kozo:  下、子    jaro: 下  otoko\n6697.59  jarokko  <小さな男の子の意>    otsumko <古>  jaro <卑称>  otoko\n6730.33  [gaki] は男の単称であるが年等には使わない。  otoko\n7312.11  子供の性 of: o: (資料)  otoko\n7329.57  <男の子が生まれたとき bo:ga deketa sona といったりする。>  otoko\n7436.40  男の子の単称 gaki  otoko",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03827.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03827",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03827.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7500.66"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-28\n質問番号　地図番号　136\n項目名　男　080\nA　普通注記　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　(8)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n7500.66　(ガキ〈鼻〉もある)　オトコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03828.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M136Q080/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03828",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03828.tif",
+    "source_ljc_id": "LJC-M136Q080",
+    "source_map_numbers": [
+      "136"
+    ],
+    "source_title": "おとこ (男)"
+  }
+]

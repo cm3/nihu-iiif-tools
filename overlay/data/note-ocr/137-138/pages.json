@@ -1,0 +1,3179 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0716.46",
+      "0724.95",
+      "0747.70",
+      "0776.88",
+      "0779.03",
+      "0789.95",
+      "0840.33",
+      "0990.97",
+      "1699.14",
+      "1706.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-29\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > () 【 】は既落にする。\n地点番号 A 語形とその注記 {B・C 除いた語形とその注}\n項目名 女 081\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\nページ\nメッカイ (下) オンナ\nmekkai (子供の頃 聞いた) onna\nmekkæ: <多><30才ぐらいの人を> onna <方>\nmekkje (早口のとき) mekkai\nmero <単><子供のころ おこられたり かわれたりするおは> onna\n<手にり か 早しめて onna yo とい> onna\nmekkai <も><鳥> onna\nonna <越中の人 me'ro'>\nメッケ 後度する語 オナゴ\nメッカイ <魔> オンナ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03829.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03829",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03829.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1715.53",
+      "1719.38",
+      "1727.75",
+      "1743.2",
+      "1744.60",
+      "1745.54",
+      "1747.04",
+      "1747.55",
+      "1754.16",
+      "1756.32",
+      "0137.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）[]は数格にする。\n\n日本言語地図資料用紙　注記一覧　38-30\n\n質問番号　地図番号　137.13?　A 普通注記　ページ\n[B　除いた共通語]　(C　除いた特殊語) (2)\n項目名　女　081\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n1715.53　〈メッカイ〉（家内のこと）（女性の裏称）　onna\n1719.38　下　メロ　オンナ\n1727.75　アマ〈鼻〉　オンナ\n1743.20　メッケ　メロ　共に単称　オンナ\n1744.60　メッカイ　昔はよく使った、今は馬鹿にする時に云う人がある　オナゴ\n1745.54　メッカイ〈下〉　オナゴ\n1747.04　オンナ〈多〉　オナゴ〈少〉　語彙、聞くけれども使わない\n1747.55　mero〈鼻〉　メロウ〈鼻〉　onna\n1754.16　メッカイ〈鼻〉　オンナ\n1756.32　メッカイ〈下〉　オンナ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03830.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03830",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03830.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "1757.61",
+      "1770.18",
+      "1781.95",
+      "1786.13",
+      "1791.33",
+      "1793.14",
+      "1798.13",
+      "1848.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-31\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞（）［］は厳密にする。\n（右上の表）質問番号　地図番号　137.138　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ(3)\n項目名　女　081\n（表見出し）地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n1757.61　メロウ〈鼻〉　オンナ\n1770.18　メッケ〈鼻〉　オナゴ\n1781.95　メッケ〈鼻〉　同上\n1786.13　メッカイ〈鼻〉　オンナ\n1791.33　メッケ〈下唇を感じていう時だけ〉　オンナ　オナゴ\n1793.14　メッケェ〈下〉　オンナ\n1798.13　メロウ〈鼻〉　mekkai〈女〉〈鼻〉　onna\n　　kai -> ke という。今日も使用。\n1848.24　me'ro〈鼻〉　onna'",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03831.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03831",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03831.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "1859.84",
+      "1863.48",
+      "1867.15",
+      "1942.03",
+      "2617.68",
+      "2619.28",
+      "2649.79",
+      "2699.89",
+      "2700.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-32\n質問番号 地図番号 138 137\n項目名 女 081\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (4)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＜＞（ ）[ ]は敢縮にする。\n地点番号  A 語形とその注記 (B・C除いた語形とその注)  A注のない語形 (B・C 残した語形とその注)\n1859.84  <鼻> mekkae <大人にでも子供にでも。最近いない。いねない。子供を me'tkae warāgi といった。> onna\n1863.48  オンナ <悪口では×>  オンナ\n1867.15  下 メロ  オンナ\n1942.03  onayo <子供のころ使って かわれた> onna\n2617.68  メッケ <かい> オナゴ\n2619.28  下メケ 女語は使わぬ オナゴ\n2649.79  メッケ <万鹿にした時> オナゴ\n2699.89  事 ama onajo\n2700.48  オナゴ <メッケは東北出身者に多く使う> オナゴ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03832.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03832",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03832.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "2703.18",
+      "2712.33",
+      "2713.83",
+      "2731.97",
+      "2732.39",
+      "2734.05",
+      "2741.46",
+      "2750.43",
+      "2750.44",
+      "2751.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-33\n質問番号　地図番号　/ 137 138\n項目名　女　081\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(5)\n地 点 番 号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\nmekkai　〈稀〉（鼻）\n(下) メッケ\n〈米〉 メッケ〈下〉\nメッケ〈着〉\nオナゴ　早稲\nメッケ〈夏３時〉\nオナゴ〈メッケは掌か　木吉肉でいう〉\nオナゴ〈メッケは履めないか　裸は使う〉\nメッケ〈悪口の時使う〉\nメッケ〈古〉今は殆ど使わぬ\n（右欄にはカタカナ表記や「同上」などの注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03833.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03833",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03833.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "2753.44",
+      "2754.56",
+      "2761.44",
+      "2762.61",
+      "2763.22",
+      "2763.28",
+      "2765.02",
+      "2765.71",
+      "2771.22",
+      "2771.64"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 38-34 質問番号 地図番号 137,138 項目名 女 081 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (6)\n地点番号 A 語形とその注記 [B・C除いた語形とその注記] A注のない語形 [B・C 残した語形とその注記]\n単独 女 bikki\tonayo\n単独 ama bikki\t同上\n〈単称〉 mettakyusare\t同上\n単称 meke kusare\t同上\n単称 onayo bikki\t同上\n〈古〉 onayo 単称 bikkijaro\tonna\nonajo 〈単称なし〉\n〈単〉 kusare onayo\tonayo\n単称 mettakusare\n〈単称 meta〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03834.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03834",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03834.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "2771.83",
+      "2772.05",
+      "2773.13",
+      "2781.91",
+      "2782.16",
+      "2783.06",
+      "2784.63",
+      "2785.31",
+      "2791.80",
+      "2792.40",
+      "4020.0",
+      "0959.0",
+      "0672.0"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-35\n（上部箱）調問番号　地図番号　137/138　項目名　女　081　A 普通注記　ページ　(B 除いた共通語)　(C 除いた特殊語)　(7)\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞( ) [ ]は厳密にする。\n\n表ヘッダ：地点番号　A.語形とその注記　(B・C 除いた語形とその注)　A 注のない語形　(B・C 残した語形とその注)\n\n2771.83　（手書）　metta\n2772.05　onayō　単語なし\n2773.13　〈卑〉 mike bidari\n2781.91　〈卑〉 mettaku­sare\n2782.16　onna (?)　単語なし\n2783.06　単語　mekke\n2784.63　〈卑〉 mekke\n2785.31　onayō　単語なし\n2791.80　同上\n2792.40　onna (onayo ... ) 　（手書き注記）」}4020.00 47.00 959.00 672.00} PMID: 0.00 0.00 0.00 0.00}",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03835.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03835",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03835.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "2795.66",
+      "2800.52",
+      "2811.01",
+      "2812.96",
+      "3619.58",
+      "3639.49",
+      "3649.16",
+      "3649.58",
+      "3649.64",
+      "3688.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-36\n質問番号　地図番号　/ 137,138\n項目名　女　081\nA 常通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n\n表見出し：地点番号　A 語形とその注記　〔B・C 除いた語形とその注〕　A注のない語形〔B・C 残した語形とその注〕\n\n（手書き一覧）\nmidakunasi 〈妹〉\nメッカイ〈下〉（女を軽蔑して）　オンナ\nメッカイ〈古〉\ndosum mekke〈キカイ女〉（厚）　mekkê\n(卑) onâyokiūsare　kûisare\n(卑) jaro　bagajaro　onayo\n(卑) 男と同じく jakko, hoido, jaro, bagajaro 同上\n(卑) dzabeküsare　onāyo\n(卑) jaro　onayo\naba 〈男は toto〉\n\n（余白・罫線等あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03836.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03836",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03836.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "3689.38",
+      "3689.75",
+      "3699.25",
+      "3700.19",
+      "3701.49",
+      "3705.42",
+      "3706.91",
+      "3710.91",
+      "3711.92",
+      "3711.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　38-37\n地図番号　/ 137,138\n項目名　女　681\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (9)\n表見出し: 地点番号　○A 語形とその注記　{B・C 除いた語形とその注}　A 注のない語形　{B・C 残した語形とその注}\ndzabe\t\tonayo\nd.　同上\t\tonago\nzabe　(女の子後の呼称)\t\tonayo\nonanyo　〈単数は特になし〉\t\tonayo\n同上\t\tonaño\nonayo　〈右〉〈鼻緒なし〉\t\tonayo\n単数 bita\t\tonayo\n(卑) bagajaro\t\tonáyo\n(卑)　特殊なし\t\t同上\n同上\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03837.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03837",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03837.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "3712.74",
+      "3712.89",
+      "3713.75",
+      "3714.27",
+      "3716.58",
+      "3720.58",
+      "3720.71",
+      "3721.30",
+      "3721.37"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳格にする。\n日本言語地図資料用紙　注記一覧　38-38\n質問番号　地図番号　137／138\nA 普通注記　ページ\n(B 除いた共通語)　(C 除いた特殊語)　(10)\n項目名　女\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n(♀) bagajaro\t\tonāyo\n(♀) jaro tsikkifo\t\tonayo\n(♀) mekka bikki\t\tonāyo\n(単) bitta kusobitta\t\tonāyo\n単 onayobitta, kusarebitta\t同上\n(♀) jaro tsikifo\t\tonāyo\n(♀) bagajaro tdzarekesi\t\tonayo\n(♀) jaro\t\tonāyo\n(♀) jaro tjikifo (男女通)\t\tonayo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03838.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03838",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03838.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "3721.71",
+      "3722.90",
+      "3722.97",
+      "3730.39",
+      "3730.43",
+      "3731.46",
+      "3731.61",
+      "3732.26",
+      "3732.73",
+      "3733.18"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-39\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n（上部枠）A 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n項目名　（表の見出し）\nA 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n(手書き項目)\n(甲) bagajaro\tonayo\n(甲) 特殊はない\tonāyo\n(甲) jaro\tonayo\n(甲) bagake\tonāyo\n(甲) jaro tsikijo\tonayo\n(甲) jaro tsikijo\tonayo\n(甲) bagajaro\tonayo\n(甲) 同上　但し余り使わぬという\tonāyo\n(甲) bagake\t同上\n(甲) bagajaro　黒文字面\tonayo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03839.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03839",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03839.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "3733.73",
+      "3740.29",
+      "3740.33",
+      "3740.82",
+      "3741.57",
+      "3742.82",
+      "3746.09",
+      "3750.28",
+      "3750.43",
+      "3750.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[]）は厳密にする。\n日本語語地図資料用紙　注記一覧　38-40\n質問番号　地図番号　137 138\n項目名　女　081\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(/2)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n(単) jaro\tonayo\n(単) なし\tonayo\nama (単)\tonago\nbaga (単)\tonayo\n(単) jaro\tonayo\n同上\tonayo\n落 bit'ta (単)\tonayo\n(単) jaro (女)\tonayo\n(単) jaro (ウ)\tonayo\n(単) metjakii t'jare\t同上\n(単) jaro\t同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03840.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03840",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03840.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "3751.81",
+      "3752.47",
+      "3752.89",
+      "3753.88",
+      "3754.13",
+      "3757.59",
+      "3760.33"
+    ],
+    "other_text": "A・[B]・[C]ごとに別訳を使用する。 その中での情報は地点番号順に並べる。 注記のく〈〉（）は厳密にする。 日本言語地図資料用紙 注記一覧 38-41 資問番号 地図番号 項目名 女 081 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (／3) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 3751.81 (卓) jaro <女に対してもいる> baga onanyo 3752.47 (卓) baga bagajaro 同上 3752.89 (卓) odafügüu onanyo kamado kesi .... いずしも女に対する異称と のみは いえぬように 見られる そのまま とる。 3753.88 オンナ〈少し改まって〉 オナゴ 3754.13 ビッタ (早) 同上 3757.59 オナゴ〈古〉 オンナ 3760.33 (卓) jaro baga jaro onanyo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03841.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03841",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03841.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "3760.58",
+      "3761.22",
+      "3761.74",
+      "3762.42",
+      "3762.71",
+      "3762.85",
+      "3764.92",
+      "3770.49"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-42\n質問番号 地図番号 /37 /38\nA 普通注記 ページ\n[B 除いた共通語]\n[C 除いた特殊語] (14)\n項目名 女 081\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 (B・C 減した語形とその注)\n3760.58  jaro (鼻)    onayo\n3761.22  (鼻) bagajaro    同上\n3761.74  (鼻) jaro  tsičkijo    onäyo\n3762.42  õnago  獣や鳥についても オナゴ、オナゴを使う のが一般。\n3762.71  (鼻) なし    onäyo\n3762.85  (鼻) bitta  agabitta    同上\n3764.92  ? オナゴ\n3770.49  (鼻) küsare  onajo  kü:sarekesi - küsare\n念を押したが 女に対してのみ使う由。使う由。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03842.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03842",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03842.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "3770.96",
+      "3771.29",
+      "3771.44",
+      "3771.97",
+      "3772.32",
+      "3772.73",
+      "3781.21",
+      "3781.49",
+      "3782.12",
+      "3782.38"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は敬称にする。\n日本言語地図資料用紙　注記　38-43\n（表上部）質問番号　地図番号　項目名　女 081\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n3770.96　（単） dzabe\tonanyo\n3771.29　（単） jaro bagake bagajaro\t同上\n3771.44　（単） baga jaro\t同上\n3771.97　（単） odafuigui\t同上\n3772.32　（単） jaro\t同上\n3772.73　（単） sutemeke（男か女）\t同上\n3781.21　（単） jaro\t同上\n3781.49　（単） jaro gagi（単）は080に同じ\tonanyo\n3782.12　（単） tsikijo holedo\tonanyo\n3782.38　（単） bagajaro hoido\tonanyo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03843.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03843",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03843.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "3782.71",
+      "3782.98",
+      "3784.24",
+      "3790.27",
+      "3791.76",
+      "3792.96",
+      "3796.95",
+      "4589.83",
+      "4597.66",
+      "4597.72"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-44\n質問番号　地図番号　137 138\n項目名　女　081\nA 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語]　(16)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注)\n\n3782.71　(鼻) jaro holdo　onãyo\n3782.98　(鼻) 不明　同上\n3784.24　オナゴ（女）　オンナ\n3790.27　(鼻) dzabe　onãyo\n3791.76　(鼻) jaro (ケ) 女にも使うことあり　onayo\n3792.96　(鼻) bidagûre　onãyo\n3796.95　ビデア〈粗〉　オナゴ\n4589.83　njo:bo〈右〉　onna\n4597.66　ニョオボ？〈現？〉　メロ\n4597.72　mero〈下品〉　njo:bo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03844.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03844",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03844.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "4598.59",
+      "4619.23",
+      "4637.68",
+      "4639.69",
+      "4643.47",
+      "4644.10",
+      "4647.69"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-45\n質問番号　地図番号\n137 / 138\n項目名　女　081\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(17)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の < > ( ) { } は厳密にする。\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n4598.59　njo:bo　〈女〉　onna\n4619.23　ba'tsi　〈...〉　o'najo\n4637.68　onayo　（古く現在も用いる）\n4639.69　hena　（単称）　onago\n4643.47　nejo:　〈nejo: が多い。単数ではない〉　onna\n4644.10　ne'jo:　〈少ない〉　o'nna\n4647.69　onayo　「外にありませんが」に対する反応。（古くからの語で、今でも多く用いる。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03845.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03845",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03845.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "4648.59",
+      "4652.79",
+      "4653.02",
+      "4653.47",
+      "4653.84",
+      "4654.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一 38-46\nA・(B)・(C)ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の〈〉（）[]は省略にする。\n項目名　女　081\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(18)\n\n地点番号欄:\n4648.59 onayo 〈希〉〈古くから用い 現代も使うが稀になった〉\n4652.79 onnano mon 〈古一現〉 onago 〈古現〉\n(これを最も多く用い、次いで onago を多く用いる。 onna は共通語的場面において用いる。)\n4653.02 menare 〈長男のことば〉 nejo:\n4653.47 onago 〈女子を nejo: noko という〉\n4653.84 ona'yo 〈古〉\n4654.52 [ne]?: 〈も〉 (調査終後の雑談中にこの語があることがある)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03846.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03846",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03846.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "4659.50",
+      "4663.06",
+      "4666.17",
+      "4666.42",
+      "4672.19"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-47\n（右上枠）質問番号　地図番号　137 138\n項目名　女　081\nA 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語]　(19)\n\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4659.50　ガチン（卑）　ガギは年令に関しない　オナコ\n4663.06　onago ~ onago [発音ゆれあり]　neɟo: ... やや［卑］　onna ... 若い人がいる\n4666.17　onago（「外にありませんか」の声に対する応答）\n4666.42　（調査地）　[onago]　後藤藤吉\n4672.19　onna no moN <家庭内で多く用いる>　onago（「外の言い方はありませんか」に対する答え）\n\n（末尾手書き注）＜相当多く用いる。部落内で被調査者が用いる。＞\n＜古の人は neɟo: no moN といった様である。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03847.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03847",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03847.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "4675.45",
+      "4675.62",
+      "4676.60",
+      "4685.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-48\n質問番号　地図番号　137 / 138\n項目名　女　081\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (20)\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に載べる。\n注記の< > ( ) [ ]は数簿にする。\n\nonago <古→現> 「オトに言い方はありませんか」に対する答え。 (これは古くから用い、今も onna より多く用いると言う)\nonago <昔から用いている>\nbate <下> (単体である?)\nama <下>\nonago <古><下> 人を下げた感じがある。ことばか→ onna よくなって のったりして onago とはいわなくなった。\n(onago uji という語は onna uji というより多く用いるという) (220)\n\nonago <これを多く用いる>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03848.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03848",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03848.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "4685.72",
+      "4685.88",
+      "4686.96",
+      "4687.37",
+      "4689.62",
+      "4689.86",
+      "4694.81"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に書く。 注記のく<>()[]は数字にする。\n\n日本言語地図資料用紙　注記一覧　38-49\n\n質問番号　地図番号　137　138\n項目名　女　081\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]（2）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n4685.72　ama（下）（けんかごしの時使う）　onna\n4685.88　onago　onnago　〔古〕女を意味する上品な語　同上\n4686.96　onago domo　onnajo:（複数をあらわす）〈公的場面で使う〉　同上\n4687.37　onayoju:　〈これを多く用いる〉　onayo　onna\n4689.62　onago　〈onayko, bide: などは単数形〉\n4689.86　! bide　〈悪口〉　onna\n4694.81　アマ（下）　オンナ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03849.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03849",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03849.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "4695.21",
+      "4695.87",
+      "4699.07",
+      "4702.10",
+      "4703.18",
+      "4705.53",
+      "4706.53",
+      "4711.41",
+      "4711.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記－38-50\n質問番号　地図番号\n137　138\n項目名　女 081\nA 普通注記　（ページ）\n[B 除いた共通語]　[C 除いた特殊語]（22）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nbate <下> 女性をののしる時に用いることは。　onna\nonna (onnago は娘の意)\nonayo (く返し南にいたか 単株はないと答えた)\nonāyo (単株、答えなし)\nonayo onapasi <古> (両方とも男 (odogo) に対する)\nオナゴ（女）\nonayo <単位は bite を:>\n[onayo]\nfena <長いことば。左では普段に使う> onayo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03850.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03850",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03850.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "4711.49",
+      "4713.02",
+      "4716.20",
+      "4721.36",
+      "4723.14",
+      "4723.51",
+      "4725.01",
+      "4731.42",
+      "4731.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-51\n質問番号 地図番号\n項目名 女 081\nA 普通注記 137 138\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<>()[]は厳密にする。\n（右上の枠内）A 普通注記  ページ\n[B 除いた共通語]\n[C 除いた特殊語] (23)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]\n4711.49  ヘナ（鼻）    オナゴ\n4713.02  onayo? （誘導によって得た答え）    onna\n4716.20  <子供の場合は onako であり、これは女の単語としても使われる。>  onayonogito（共）（上）\n4721.36  [onayo]\n4723.14  bide: [鼻]\n4723.51  ビデコ（女に対する単語である）    オナゴ\n4725.01  オナゴ ＜鼻、オナパス＞\n4731.42  [onayo]\n4731.85  同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03851.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03851",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03851.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "4735.37",
+      "4735.42",
+      "4741.44",
+      "4742.43",
+      "4743.44",
+      "4746.20",
+      "4750.32",
+      "4753.76",
+      "4760.64"
+    ],
+    "other_text": "日本書語地図資料用紙 注記一覧 38-52\n地図番号 137／138\n項目名 女 081\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\nonna ＜単独としては bide: がある。 このピテニめ というように となりつりつる場合の多い＞\n鼻 ピデェ\nオナゴ\nオナゴ onna\nヘナ（鼻、又は子供に対して）\nonanyo ＜古＞\n(onago/onna 等の手書き注記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03852.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03852",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03852.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "4761.57",
+      "4761.93",
+      "4762.04",
+      "4762.90",
+      "4763.11",
+      "4771.58",
+      "4771.92",
+      "4771.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　38-53\n質問番号　地図番号　137 138\n項目名　女　081\nA 普通注記　ページ　(25)\n[B 除いた共通語]\n[C 除いた特殊語]\n地 点 番 号    A 語形とその注記 (B・C除いた語形とその注)\n4761.57   mero・　〈単系〉\n4761.93   onna　〈単語〉→　若い女に対して　カキ　年寄りに対して　ババを使う\n4762.04   オナゴ　早く(ビデェ?)　ヘナコ?\n4762.90   onanyo　(単語、若い女をかす　老女をババという)\n4763.11   bikcci　[早]\n4771.58   onna　onanyo　〈同方向〉\n4771.92   onanyo　(ふつう)　onna\n4771.98   onanyo　〈若い女に対する単系 mero・　年寄りの女に対する単語 baba〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03853.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03853",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03853.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "4772.33",
+      "4773.15",
+      "4773.70",
+      "4780.26",
+      "4780.60",
+      "4781.48",
+      "4783.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-54\nA・[B]・[C]ごとに別表を使用する。\nその中での語順は地点番号順に並べる。\n注記の<>()[]は厳密にする。\n資料番号 地図番号 137 138\n項目名 女 681\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (26)\n\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 [B・C 除した語形とその注]\n\n4772.33    mero: <つのしる言い方>    onna\n4773.15    onago <単>    同上\n4773.70    onna    単移 がき (幼女) ハンバ(老女)\n4780.26    onna (単移 -> gaki 若い方に)    baba 老人に使う\n4780.60    onna <年持-> okame 目下に対していう baba 年寄りに対していう\n4781.48    mero: <ばかにする時 使う>    onna\n4783.38    onna    単移 がき (小さい女の子) メロオ(若い女) ババ (老女)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03854.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03854",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03854.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "4784.41",
+      "4790.30",
+      "4791.12",
+      "4791.65",
+      "4792.43",
+      "5472.34",
+      "5499.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-55\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での音課は地点番号順に並べる。\n▶ 注記の＜＞(){}は除略にする。\n（右上の枠）\n質問番号　地図番号\n項目名　女　081\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n（表ヘッダ）\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n\n4784.41   mero　〈単称〉    onayo\n4790.30   onna　　単称　bitē　40才等に対して　baba　老女に対して\n4791.12   onayo　　単称 mero: 若い方　baba　年とった方　30才か大体・境界線\n4791.65   mero:（単称）    onna\n4792.43   baka mero:〈愚〉    onayo\n5472.34   ニョオハ（古）\n5499.98   メンタ（鼻）\n\n（下部余白メモ、判読しにくい手書き多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03855.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03855",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03855.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5507.09",
+      "5507.20",
+      "5508.16",
+      "5508.43",
+      "5516.19",
+      "5517.24",
+      "5517.78",
+      "5518.20",
+      "5518.71",
+      "5527.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は敬称にする。 日本言語地図資料用紙 注記－ 38-56 質問番号 地図番号 137 138 項目名 女 081 A 普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5507.09 mero <下> njo:bo 5507.20 mero <右> onna 5508.16 mero <希> njo:bo 5508.43 mero <下> 同上 5516.19 mero <下> オナゴ 5517.24 mero <下> onna 5517.78 mero <右> オナゴ オンナ 5518.20 dosumero <下> onna onago 5518.71 mero <下> onna 5527.15 mero <下> 同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03856.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03856",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03856.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5528.31",
+      "5538.63",
+      "5546.34",
+      "5558.09",
+      "5564.77",
+      "5565.12",
+      "5565.55",
+      "5567.46"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-57\n質問番号　地図番号\n137 138\n項目名\n女 081\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(29)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n5528.31　mero <下>　onna\n5538.63　dosti mero <単>　mero\n5546.34　mero <下る>　onanyo\n5558.09　mero <下>　同上\n5564.77　mero onanyo on:a\n5565.12　チェ12 <下>　オンナ\n5565.55　mero <下>\n5567.46 <単>　ヒラツケ　（手書き注記）\nmeroの優先。あの2形は上に次ぎ同等に使用。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03857.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03857",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03857.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5568.22",
+      "5568.92",
+      "5569.02",
+      "5569.99",
+      "5574.84",
+      "5575.93",
+      "5579.42",
+      "5579.79",
+      "5584.22"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-58\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は抜粋にする。\n（右上の記入欄）項目名　女　081　地図番号137/138　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]（30）\n表見出し：地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n5568.22　ニョウホジュウ（女性群・軍？）　オンナ\n5568.92　ニョウおオ　〈経緯〉\n5569.02　ニョウボ（総称）\n5569.99　njo:bo:　〈全体を表した。新語とのこと。〉：onna（むしろない語ではないか？）\n5574.84　me:ro　若い女に使ったがこのたちはあまり使わない。　onna\n5575.93　mero　M階刻の女　otokomero\n5579.42　njo:bo　〈右〉\n5579.79　ニョボ・シュウ（女性屋の意）　オンナ\n5584.22　me:ro　やや軽い言い方。　onna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03858.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03858",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03858.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5584.37",
+      "5586.56",
+      "5586.70",
+      "5588.02",
+      "5591.91",
+      "5594.02",
+      "5594.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-59\n地図番号 137 138\n項目名 女 C81\nA 普通注記  B 除いた共通語 (31)  C 除いた特殊語\n\n地点番号  A 語形とその注記  [B・C 除いた語形とその注]\n5584.37  doment[a]  me:ro  （手書き注記）  onna\n5586.56  onna  優先  onayo\n5586.70  mero  若い者はあまり使わない  onna\n5588.02  ＜単＞ ビラ ＜単＞ ビンタ ＜怒って言う＞  ショオホー --- ＜女性の総称的な使う＞\n5591.91  オンナ（終称）\n5594.02  onayo -- （復伝か） 今の若い人はあまり言わぬ  onna\n5594.37  onayo  me:ro  onna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03859.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03859",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03859.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5595.20",
+      "5602.99",
+      "5605.11",
+      "5608.16",
+      "5608.51",
+      "5609.26",
+      "5611.39",
+      "5611.74",
+      "5611.81"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-60\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語群は地点番号順に並べる。\n▶ 注記の＜＞（　）[　]は解釈にする。\n（右上の欄）質問番号　地図番号　137 138　項目名　女　081　A 普通注記　[B 除いた共通語]　[C 除いた特殊語] (32)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5595.20　mero　やや軽んじた使いかん。　onna\n5602.99　onnadomo　＜下＞＜上品なことばでない＞　onna\n　　　　onnayoSSO　（オトコシューに対する語）\n5605.11　ama　＜下＞＜暑の時用いる下品なことば＞　onna\n5608.16　omanyo　（かきは 若い女に対する尊称であるという）\n5608.51　onna　＜onanyoは使わない＞\n5609.26　go?bi　＜女への悪口＞　onna onna'yo\n5611.39　ama　＜下＞　onna\n5611.74　!ビッタ（下）＜裏口をえう用に使う＞　オンナ\n5611.81　onanyo（初め[onna]と変したが 被調査者の自然な話の中に[onanyo]が出て来たので、それを採った。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03860.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03860",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03860.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5612.39",
+      "5612.98",
+      "5615.78",
+      "5617.28",
+      "5617.85",
+      "5620.16",
+      "5620.30",
+      "5620.80",
+      "5623.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-61\n資問番号　地図番号　137 138\n項目名　女 081\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(33)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5612.39　アマ (下希)　　　　　　　　　　　　オンナ\n5612.98　onna. onagoとは えわない.　　　　　onna\n5615.78　onnafo: (複数?)　　　　　　　　　　onna\n5617.28　onna　<amaは若い女に, bobaは老女に対する単称である>\n5617.85　onna　<merappaはむすめ>\n5620.16　mero <下>　　　　　　　　　　　　　onna\n5620.30　onago <古>　　　　　　　　　　　　mero\n5620.80　njo:bo <上位階級の女>　mero <下位階級の女>\n5623.27　a'ma <母・下>　　　　　　　　　　　onna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03861.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03861",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03861.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "5623.85",
+      "5625.32",
+      "5628.23",
+      "5632.28",
+      "5633.45",
+      "5635.48",
+      "5636.49",
+      "5636.74",
+      "5644.74",
+      "5646.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-62\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語彙は地点番号順に並べる。\n▶ 注記の＜＞（）[]は略語にする。\n（右上の枠）質問番号　地図番号　137　138　項目名　女　081　A 普通注記　ページ　(B 除いた共通語)　(C 除いた特殊語)　(34)\n表見出し：地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n表内（行ごとに概略）:\n5623.85　amakko (♀)　オンナ\n5625.32　アマ (下) (のしる時 用いる)　オンナ\n5628.23　onanyo (古)　onna\n5632.28　ama 〈鼻〉　onna\n5633.45　ama (♀)　同上\n5635.48　アマ 〈鼻〉　オンナ\n5636.49　アマ 〈下〉　オンナ\n5636.74　アマ 〈鼻〉　オンナ\n5644.74　メス 〈鼻〉　オンナ\n5646.71　アマ 〈下〉　オンナ\n\n（注）手書き文字は読み取りにくい部分があり、上は大まかな転写。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03862.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03862",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03862.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "5657.73",
+      "5665.46",
+      "5666.18",
+      "5667.77",
+      "5669.19",
+      "5669.96",
+      "5676.28",
+      "5676.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記 - 38-63\n（上部ボックス） A 普通注記　ページ　(B 除いた共通語)　(C 除いた特殊語) (35)\n● A・[B]・[C]ごとに別紙を使用する。\n● その中での詳細は地点番号順に書べる。\n● 注記の＜＞（）[]は厳密にする。\n\n（表ヘッダ）\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n（表内容：地点番号は省略）\nアマ　＜下＞　　　　オンナ\nアマッチョ　＜カゲテテ＞　　オンナ　オンナレ\nスベタ　＜下＞　　　オンナ\namakko　[草]　　　　onna\nama　（裏12）　　　　（同上）\nama　＜草＞　　　　（同上）\namatte/fo　（母）　 me:ta　（同上）\n\nメス　＜ほかにしたような時＞＜新＞\nアマッチョ　＜年令に関係なし＞　　　　オンナ\n\n（右側列の注記）\n女　081\n（いくつかに同上と注記あり）\n\n（下部余白に手書きメモ、文字潰れあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03863.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03863",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03863.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "5677.28",
+      "5678.33",
+      "5678.59",
+      "5679.31",
+      "5683.61",
+      "5686.15",
+      "5686.31",
+      "5687.59",
+      "5689.43",
+      "5689.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-64\n質問番号　地図番号　137/138\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語 (36)\n項目名　女　081\n\n（表ヘッダ）\n地点番号　A 語形とその注記　［B・C 除いた語形とその注］　A注のない語形（B・C 残した語形とその注）\n\n・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の〈〉（）[]は略称にする。\n\n（表中の語形と注記の抜粋）\nスペタ 〈鼻〉\nアマ 〈鼻〉\naːma 〈古〉\nama 〈鼻〉\nama 〈鼻称〉\naːma 〈悪口〉\naːma 〈鼻〉\n# aːma 〈鼻〉\nama 〈鼻〉\nonna 〈鼻称 [aːma:]〉\n\n（右列の対応）\nオンナ\nオンナ\no'nna\nonna\nオンナ\nオンナ オンナシ\no'nna\no'nna\no'nna\n(on'na)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03864.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03864",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03864.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "5693.78",
+      "5694.79",
+      "5696.13",
+      "5696.68",
+      "5697.24",
+      "5698.19",
+      "5698.30",
+      "5699.25",
+      "5699.42",
+      "5700.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本語地図資料用紙　注記一覧　38-65 資問番号　地図番号　137／138 項目名　女　081 A　普通注記　ページ (B　除いた共通語) (C　除いた特殊語) (37) 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 (B・C 残した語形とその注) 5693.78　ビフッチョ　＜右＞＜下＞　ビク＜下＞　オンナ 5694.79　ビク＜下＞　オンナ　オンナシ 5696.13　オンナ　（下）（左）　アマーチョ 5696.68　ama＜単称＞　onna 5697.24　（下）アマ　オンナ 5698.19　anna＜単称＞　onna 5698.30　a'ma（単）　onna 5699.25　ãma＜単＞　onna 5699.42　ama＜単称＞　onna 5700.96　onna＜家族＞　onna 下部手書き注記：＜単称＞ メロオ小中学生くらい アマ＝小中学生より上の年の者。 パパ 40才以上くらいに対している。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03865.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03865",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03865.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "5701.73",
+      "5703.03",
+      "5703.19",
+      "5710.29",
+      "5711.18",
+      "5711.85",
+      "5712.70"
+    ],
+    "other_text": "日本語語地図資料用紙　注記一覧　38-66\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）[]は数値にする。\n質問番号　地図番号\n137 138\n項目名　女　081\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]（38）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5701.73  mero:（単独）　　　　　　　　　　　　　　　onna\n5703.03  onayo（単独→30才以下に対してmeroを、それよりも年長に対してはbabaを使う。）\n5703.19  onayo　単独　ama 若い者　baba 老人\n5710.29  onna（単独→ama 若い女にいう）\n5711.18  onna　単独→ama 若いもの　baba 老人\n5711.85  onayo〈下〉\n5712.70  onna　onna onano〈表〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03866.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03866",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03866.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "5712.88",
+      "5713.65",
+      "5714.10",
+      "5721.26",
+      "5721.27",
+      "5721.77",
+      "5723.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のくく( )は数値にする。\n日本方言地図資料用紙 注記一覧 38-67\n（箱） /137 138 \n項目名 女 081\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n57 12.88　ama　<下>　　　　　　　　　　　　　　　onna\n57 13.65　onna　単称 ama\n57 14.10　ama　<下>　　　　　　　　　　　　　　　onna\n57 21.26　onna　〈単称→　若い女の場合　ama　老女の場合　ハババ〉\n57 21.27　onna　単称→　若いもの ama　老人 baba\n57 21.77　onna　単称→　gakime　えにせの子供にいう　baba　年をとった女にいう\n57 23.02　onna　〈単称〉　幼少の女に　アマ　目下の若い女に　ハババ　老女に言う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03867.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03867",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03867.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "5723.60",
+      "5731.13",
+      "5733.02",
+      "5741.25",
+      "5742.65",
+      "5751.89",
+      "5760.24",
+      "5760.57",
+      "5761.91",
+      "5770.11"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧 38-68\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n（小表見出し）地点番号　A語形とその注記　A注のない語形\n（右上小欄）137 138　項目名　女　081　A 普通注記　B 除いた共通語　C 除いた特殊語　(40)\n5723.60 onanyo <在のことば> onna\n5731.13 (単) ama onna\n5733.02 onanyo [右] 同上\n5741.25 ama <下> amame <下> 同上\n5742.65 (軍) ama 同上\n5751.89 ama <単> 同上\n5760.24 a'ma <裏口> onna\n5760.57 ama <軍> onna\n5761.91 ama <卑> onna\n5770.11 同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03868.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03868",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03868.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "5770.46",
+      "5772.00",
+      "5780.57",
+      "5781.22",
+      "5781.65",
+      "5782.32",
+      "5782.79",
+      "5782.94"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-69\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は略符にする。\n質問番号　地図番号　137/138\n項目名　女　081\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (41)\n地点番号　A品形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n5770.46　ama <鼻>　onna\n5772.00　同上\n5780.57　同上\n5781.22　ama　ゆずしも鼻持ではない。今迄うちへ ama が生まれて…というふうにも使う。\n5781.65　ama <悪い意味　謙譲して使う>　onna\n5782.32　ama <鼻称>\n5782.79　ama <鼻・下>　同上\n5782.94　ama <ケンカのとき>　onna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03869.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03869",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03869.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "5790.64",
+      "5791.07",
+      "5791.23",
+      "5792.02",
+      "5792.62",
+      "5793.20",
+      "5793.74",
+      "6267.16",
+      "6267.68",
+      "6267.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-70\n資問番号　地図番号\n137 / 138\n項目名　女　081\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　（42）\nページ\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形（B・C 残した語形とその注）\n\n5790.64　amakko　〈単形〉\tonna\n5791.07　同上\t同上\n5791.23　ama　〈鼻形〉\tonna\n5792.02　! a'ma　〈軽蔑の意なし〉\tonna\n5792.62　amakko　〈古.鼻〉\tonna\n5793.20　a'ma　〈主腹したとき〉\tonna\n5793.74　amakko　〈単形〉\tonna\n6267.16　オトゴ　〈女の鼻移はメナ。〉\tonago\n6267.68　menata're　〈下〉\tonago\n6267.84　me'na　〈下〉　同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03870.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03870",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03870.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6287.71",
+      "6348.71",
+      "6349.09",
+      "6349.67",
+      "6354.46",
+      "6359.38",
+      "6366.24",
+      "6368.60",
+      "6373.59"
+    ],
+    "other_text": "日本音声地図資料用紙 注記一覧 38-71\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語形は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密にする。\n（右上の箱）質問番号　地図番号　137／138　A 普通注記　ページ　（43）　[B 除いた共通語]　[C 除いた特殊語]\n項目名　女　081\n表ヘッダ：地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n手書き行（概訳・筆記）：\n6287.71　onago　〈君が代は kimiyajo である〉　オナゴ\n6348.71　ビク　〈下〉　オナゴ\n6349.09　onago　〈下品 又は普通〉　onna　（一般に、やや上品と見られている）\n6349.67　ショオボ　〈古〉　オンナ\n6354.46　onagobo:zuu　〈厚称〉　onago\n6359.38　フジン　雅　オナゴ　二ヨオボ\n6366.24　onago　（単称なし）\n6368.60　onago　〈水商売の女〉　onna\n6373.59　onago　（単称なし）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03871.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03871",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03871.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6374.68",
+      "6375.08",
+      "6375.40",
+      "6376.33",
+      "6376.68",
+      "6377.65",
+      "6383.77",
+      "6384.25",
+      "6384.73"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記の＜＞（）[]は敬語にする。\n日本言語地図資料用紙　注記一覧　38-72\n質問番号　地図番号\n137 / 138\n項目名　女\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語　(44)\n表ヘッダ: 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6374.68　obj: <下> <卑下した言い方>　onago\n6375.08　onago <下>　onna\n6375.40　onago (単語なし)\n6376.33　mentsu: <下> <卑下した言い方>. 女がでしゃばった onago はなどに使う。\n6376.68　onago (単語なし)\n6377.65　ニョオボ <古>　オナゴ\n6383.77　onago <昔>　onna\n6384.25　onago <古>\n6384.73　mero: <卑>　onago",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03872.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03872",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03872.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6385.63",
+      "6387.62",
+      "6388.49",
+      "6394.09",
+      "6395.46",
+      "6396.62",
+      "6403.62",
+      "6405.95",
+      "6408.72",
+      "6409.72"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-73\n質問番号 地図番号 137/138 項目名 女 081 A 普通注記 ページ (B 除いた共通語) (C 除いた特殊語) (45)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない活形 (B・C 残した語形とその注)\n6385.63 onago (単称なし)\n6387.62 mero: (単称)\n6388.49 onago (単称別になし)\n6394.09 オナゴ (単称がさない)\n6395.46 オナゴ <女の裏口をえう場合、ハカオナゴという。>\n6396.62 オンプウ <下>\n6403.62 onago <上>\n6405.95 onago <多く言う> onna\n6408.72 語 o'nago <右> a'mame <単称>\n6409.72 オナゴ <右>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03873.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03873",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03873.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6410.45",
+      "6410.77",
+      "6411.33",
+      "6411.66",
+      "6412.91",
+      "6413.29",
+      "6414.17",
+      "6415.78",
+      "6415.80"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-74\n▶ A・{B}・{C}ごとに別紙を使用する。\n▶ その中での情報は地点番号順に載べる。\n▶ 注記の< >（）[]は省略にする。\n（右上枠）資料番号　地図番号　137 / 138　項目名　女　081\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(48)\n\n（表見出し）地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n6410.45　オナゴ　<古>　　　　　　　　　　　　　　　　オンナ\n6410.77　ニョオバ？／三才バ？　<古>　　　　　　　　\n6411.33　同上\n6411.66　同上\n6412.91　onago　<未婚？><古>　　　　　　　　　　　onna\n6413.29　誘 njo:ba　<古>　　　　　　　　　　　　　onago\n6414.17　onago　<下><稀>（onagoは聞いた相手に下品と思われるのであまり用いないとのこと）　onna\n6415.78　njo:ba　<多く言う>　　　　　　　　　　　onna\n6415.80　onago　<等>\n\n（下部余白に手書きの追記や小さな注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03874.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03874",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03874.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6415.80",
+      "6415.83",
+      "6416.31",
+      "6419.25",
+      "6419.50",
+      "6420.60",
+      "6421.26",
+      "6421.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-75\n項目番号 地図番号 137 138\n項目名 女 081\nA 常備注記  ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞（）［］は厳密にする。\n地点番号  A語形とその注記 [B・C除いた語形とその注]\n6415.80 onago ＜多＞\n6415.83 njo:ba ＜共同作業などで ニョーバに手伝って貰う などと言う＞\n6416.31 onago ＜古＞\n6419.25 スベタ ＜下＞\n6419.50 ビクニ ＜下＞＜ビクニ＝下穿した気持である。女の子が生れた時に ビクニデス などと用いる＞\n6420.60 ニョオボー ＜古＞\n6421.26 メン ＜下＞\n6421.82 po:ba [no:bo]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03875.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03875",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03875.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6423.75",
+      "6424.20",
+      "6424.89",
+      "6424.92",
+      "6425.57",
+      "6426.47",
+      "6426.83",
+      "6427.27"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-76\n質問番号　地図番号\n(137 / 138)\n項目名　女　081\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n地点番号　A語形とその注記　(B・C除いた語形とその注)\n6423.75  njo:bo: <よく用いる。イニョーボーと言う時は 美しい onna 女を言う。>\n6424.20  njo:ba <軽んじた言い方> onna\n6424.89  njo:bo 湯原付種 kusoba'ba: (単称)\n6424.92  ニョオボオ <希>\n6425.57  オナゴ <古>\n6426.47  hennnago <悪口><変な女の意>\n6426.83  オナナ <普> ニョオボオ <古>\n6427.27  onago onna (草書の区別はない。どれも同じように用いる。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03876.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03876",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03876.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6427.40",
+      "6427.93",
+      "6428.91",
+      "6429.15",
+      "6430.26",
+      "6430.53",
+      "6431.41",
+      "6431.85",
+      "6434.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-77\n資料番号 地図番号 137 138\n項目名 女 081\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (49)\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n\n6427.40  onago onna   オナゴもオンナも 上下はない。 (別に異称はない。)\n6427.93  onago <多>   onna\n6428.91  オナゴ   ゴは y と g の間\n6429.15  オナゴ <右>   ドォスベタ <下>   オンナ\n6430.26  onago <多>   onna\n6430.53  =ヨオホ= <古>   オンナ\n6431.41  同上   オナゴ\n6431.85  オンナ   オナゴ\n6434.57  =ヨオホ= <鼻> チアメンゴ <鼻>   オナゴ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03877.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03877",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03877.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6435.03",
+      "6435.68",
+      "6436.33",
+      "6436.60",
+      "6438.33",
+      "6439.01",
+      "6439.17",
+      "6440.67",
+      "6442.35"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-78\nA・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n質問番号　地図番号\n137\n138\n項目名　女　081\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(50)\n（表見出し）地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　{B・C　残した語形とその注}\nニョオホ（小学生ぐらいの女は ニョオホンコ　イスメノコ　初女 は ビワ）\nニョオホ　小学校女児などを ニョオホンコ という\nonna〈古〉 onago〈新〉\nオンナ　!ニョオポ〈＝ニョオホンコは少女〉\nオンナ〈卑〉\nオナゴ〈童〉　オナコ（下品）\nスベタ〈下〉\nhenda〈のりのことば〉\nオナコ〈新〉　ニョオホ〈古〉\nニョウホー",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03878.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03878",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03878.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6443.61",
+      "6445.11",
+      "6445.57",
+      "6446.69",
+      "6447.08",
+      "6450.45",
+      "6457.18",
+      "6457.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-79\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n（上部の欄）地図番号　137/138　項目名　女　081\n地 点 番 号\n6443.61　普　オナゴ\t\tオンナ\n6445.11　<!> オナゴ\t\tオンナ　＜区別なし＞\n6445.57　オンナ　＜自分の女房はオナゴ。自分の女房のことである。＞\n6446.69　オナゴ　＜普＞\n6447.08　onago -9- ～.9- mental（軍）めすの意\n6450.45　ニョボ　＜ｶ＞　子候でもニョボという由。\n6457.18　オナゴ　＜古＞\n6457.45　#アマッチョメ＜下＞　#オナゴ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03879.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03879",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03879.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6457.51",
+      "6458.08",
+      "6466.36",
+      "6472.05",
+      "6574.52",
+      "6474.83"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-80\n質問番号　地図番号　137／138\n項目名　女　081\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(52)\n\n（表ヘッダ）　地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C　残した語形とその注]\n\nmero〈鼻〉　onagome〈鼻〉　onagobari? me〈鼻〉\no'nago\n# オナゴ〈多〉\nメンタ〈下〉\non go〈右〉\nonnagoji〈「オナゴジ」...〉　（オナゴシとは、女中の意味ではなく、妻・女の人のことで、単数。）\nonayo（「オナゴ」）\nネショ〈古・罕〉\n（手書き注記・説明が続く）\n\n（右側欄）　オンナ　オナゴ　オナゴ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03880.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03880",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03880.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6475.07",
+      "6476.17",
+      "6476.93",
+      "6477.02",
+      "6479.51",
+      "6480.91",
+      "6482.23",
+      "6484.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-81\n項目名 女 081\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (53)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)\n6475.07　オナゴ〈昔〉　オナゴ\n6476.17　メンタ〈メンタ〉クセ = デシャハルナ。　オナゴ\n6476.93　鼻 ネショ　オナゴ\n6477.02　! メンタ〈ウチニメンタガマタデケダカ、というば、オナゴ〉女の子が生まれたことを おかしく いうのである。\n6479.51　menta [鼻] 離の意　onago\n6480.91　オナゴ〈稀〉　(婦人)フジン\n6482.23　(下) オナゴ　(上) オンナ\n6484.43　! ネショ〈下〉! ネショクライ〈下〉オナゴ\n(ページ上部に表枠、手書き番号 137 / 138 などの記入あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03881.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03881",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03881.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6484.78",
+      "6485.14",
+      "6485.30",
+      "6485.46",
+      "6486.07",
+      "6486.50"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-82\n▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での語形は地点番号順に並べる。\n▸ 注記の<>()[]は省略にする。\n項目番号　地図番号　137／138\n項目名　女　081\nA（常用注記）　ページ（54）　(B 除いた共通語)　(C 除いた特殊語)\n--------------------------------------------\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形［B・C残した語形とその注］\n6484.78　単ネショ　単クソネショ　（早ネショ？）　（相手をののしる意味の）である。　オナゴ\n6485.14　[下]　ネショオ　オナゴ\n6485.30　! ネショオ　! クソネショ　<男をいう単形は　青年に対してはドロロ、少年に対してはコドロロがある。>　オナゴ\n6485.46　オナゴシ ＜下＞　ネショ ＜下＞　オナゴ\n6486.07　下　スベタ、ネショ、オネショ　オナゴ\n6486.50　下！ネショビリ　下！ネショ　オナゴ　ウナゴ\nネショデ　オッテ　カバナ　キクナ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03882.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03882",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03882.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6486.93",
+      "6487.43",
+      "6487.66",
+      "6488.48",
+      "6491.49",
+      "6494.21",
+      "6494.55",
+      "6503.73"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-83\n質問番号　地図番号　137／138　項目名　女　081\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(55)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語形は地点番号順に並べる。\n▶ 注記のく＞（）は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記　(B・C除いた語形とその注)　A注のない語形　{B・C 残した語形とその注}\n\n6486.93   ！ネジョ　<ネジョメガ　などと　略めている。>    オナゴ\n6487.43   <下> メン（メンは不良ことばである。）    同上\n6487.66   クソネシャ　下>    同上\n6488.48   o'nä~gora i:　<単>    o'nä'go\n6491.49   onago-basu <下><のの(っていう)とき使う。>　(沿岸部の大浜部落では basu(下) が使われている。)    onago\n6494.21   ！メンタ　<メンタガイケンノーのように言う。>    オナゴ\n6494.55   ＃ネジョ　<下>    同上\n6503.73   mero　(になるときなど稀に言うも、3?と言わない。)　ONNA\n\n（手書きの注記や略記あり。上は判読できる範囲の粗い転写。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03883.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03883",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03883.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "6507.13",
+      "6507.48",
+      "6507.79",
+      "6508.06",
+      "6509.43",
+      "6510.65",
+      "6512.09"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語形は地点番号順に並べる。 注記の＜＞（）［］は略語にする。 日本言語地図資料用紙 注記一覧 38-84 資図番号 地図番号 項目名 女 081 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (56) 地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形［B・C 残した語形とその注］ 6507.13　ビクニー（単語。女性に対し　このアマ！という時の　アマの意）　オンナ 6507.48　〈卑〉　アマ　オンナ 6507.79　〈同上〉　同上 6508.06　単　アマ　同上 6509.43　ビイ〈卑〉（ビイは動物のめすを表わす時には使わない。）　同上 6510.65　オナゴ　同一と思う。 ONAGOの旧。（宝貝）　オナゴ 6512.09　mero〈下〉 onago",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03884.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03884",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03884.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "6512.14",
+      "6512.67",
+      "6515.70",
+      "6516.10",
+      "6516.15",
+      "6517.70",
+      "6518.30",
+      "6518.87",
+      "6519.43",
+      "6520.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-85\nA・(B)・(C)ごとに別表を使用する。\nその中での語形は地点番号順に並べる。\n注記のくくり〈〉（）[]は族語にする。\n質問番号 地図番号 A 新独注記 (B 除いた共通語) (C 除いた特殊語) ページ (57)\n項目名 女 081\n地点番号　A 語形とその注記 [B・C除いた共通語とその注]　A 注のない語群 (B・C 残した語群とその注)\n6512.14  mero (単)　onayo\n6512.67  mero <倍葉的>　onayo\n6515.70  onayo-me (下)　同上\n6516.10  <鼻> ビック <鼻> ドピック <鼻> アマ　オンナ\n6516.15  <鼻> ピック <怒とドオヒソなどとおる場合がある。>　オンナ　オナゴ\n6517.70  <鼻> アマ　月上\n6518.30  <鼻 幼児> アマ　オンナ\n6518.87  <堂 共> ジョシ　オンナ\n6519.43  <鼻> アマ <共> ジョシ　同上\n6520.94  オナゴ　<オナコは一般の女の人を指して言う>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03885.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03885",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03885.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "6522.03",
+      "6522.93",
+      "6524.01",
+      "6527.22",
+      "6527.44",
+      "6527.73",
+      "6528.06"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-86\n（右上の枠）資料番号　地図番号　137 / 138　項目名　女 681　A 普通注記　B 除いた共通語　C 除いた特殊語（58）\n\n（表ヘッダ）地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n6522.03　オナゴ　たとえ80の婆さんでも　オナゴである。\n6522.93　メロ（○）　　オナゴ\n6524.01　onayo / onayodomo　}（見下げた えいすである）　onna\n6527.22　ama〈鼻．希〉　onajo（鼻．希）　onajo?　onna\n6527.44　onajō　（目信）　a'ma［鼻］\n6527.73　onago〈古〉〈老人に多い。若いものは使わない〉　onna\n　　　　ama〈下．希〉〈のしりことば。普通はあまり使わぬ〉\n6528.06　ama〈鼻希〉　onna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03886.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03886",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03886.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "6528.21",
+      "6532.89",
+      "6532.93",
+      "6533.36",
+      "6534.85",
+      "6535.73",
+      "6536.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語彙は地点番号順に並べる。 注記の＜＞（）[]は略語にする。 日本言語地図資料用試 注記一覧 38-87 質問番号 地図番号 項目名 女 081 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (59)\nama <下・希>  onna\nオナゴ (やや下品)  オンナ\nオナゴ・老人はオナゴの方が単称と云い。 「アノ オナゴ シリカルヤナア」 著者（28才、23才の男性）は オナゴは複称であり、決して単称には用いぬとのことである。\nmero <下>  onayo\nonayo <丁寧な言葉である>  onna\nonna onago <女子は次のように呼び方が変わる> bi: -> oba -> ba:\nmenta <下>  onago",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03887.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03887",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03887.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "6536.68",
+      "6537.06",
+      "6538.02",
+      "6538.41"
+    ],
+    "other_text": "日本語言地図資料用紙 注記一覧 38-88\n▷ A・[B]・[C]ごとに別紙を使用する。\n▷ その中での音韻は地点番号順に並べる。\n▷ 注記の＜＞（）｛｝は旅語にする。\n(欄) 質問番号 地図番号 /37 /38\n項目名 女 681\nA 普通注記 (丸囲み) ページ\n[B 除いた共通語] (C 除いた特殊語) (60)\n\n地点番号    A 語形とその注記   [B・C 除いた語形とその注記]\n6536.68  menta 〈下〉                          onago\n6537.06  ?onago 〈新〉    ? onna\n〈onagoは 新しいことばで、 onnaが昔からのことばのように思う〉（別の個所の談話の中で 被調査者の知らない内に onagoを 観察し得た。）\nama 〈鼻・希〉\n6538.02  onna 〈一般に使う〉\nonnayo〈古〉〈年寄りのことば。男女ともに使う。〉\nama 〈下〉〈怒った時などだけ〉\n6538.41  ama 〈鼻〉                     onna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03888.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03888",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03888.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "6540.79",
+      "6541.27",
+      "6542.32",
+      "6542.58",
+      "6542.71",
+      "6543.05",
+      "6545.88"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-89\nA・[B]・[C]ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > () []は厳密にする。\n（右上の小枠）普通注記　ページ　[B　除いた共通語]　[C　除いた特殊語]　(61)\n項目名　女　681\n（欄見出し）地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6540.79　オナゴ　オンナ　<オナゴは古く　オンナは新しいが　同じく行われる>\n6541.27　オンナ　【オナゴ】\n6542.32　オナゴ　オナゴ　この語の場合は[g]音がかなりあるらしい。\n6542.58　オナゴ（右）　オンナ\n6542.71　onago　-タシカ\n6543.05　オナゴ（下）　オンナ\n6545.88　onago　〈onagoとも言う〉　ONNA",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03889.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03889",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03889.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "6546.15",
+      "6546.73",
+      "6547.09",
+      "6547.24",
+      "6547.67",
+      "6548.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-90\n項目番号　地図番号　137/138　女 681\nA 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語] (62)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nオナゴ　オナゴシュウ　オンナ　オンナ\n〈オナゴが多い〉（オナゴシュウは複数であろう）\n\nonago〈昔の言い方〉　ONna\nonnago〈昔の言い方〉　onna\nonnago〈古たい言い方〉　onna\nama〈集〉\nonna 2. onago\n\n〈インフォマントは1を使うか？ 同地の農家では2も使う人も当多い〉\n\nonna〈一般普通に使うが、どちらかといえば新しい語ではないかと思う〉 onago〈古〉〈老人に多い〉 onna・onago〈古・他〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03890.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03890",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03890.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "6549.03",
+      "6549.60",
+      "6551.52",
+      "6552.90",
+      "6553.22",
+      "6553.47",
+      "6553.83"
+    ],
+    "other_text": "A・[B]・[C]ごとに別表を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は略符にする。\n日本言語地図資料用紙　注記一覧　38-91\n質問番号　地図番号\n137／138\n項目名　女　081\nA　普通注記　（ページ）\n(B　除いた共通語)\n(C　除いた特殊語)　(63)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n65 49.03　amatt[o]〈下〉 ama〈下〉 }〈どちらも区別なく使う〉　onna\n65 49.60　ama〈下〉　onna\n65 51.52　オナゴ〈オナゴという人もある〉　オンナ\n65 52.90　onayo（「オナゴ」と「オナコ」と2つのアクセントの型あり。）\n65 53.22　menta〈鼻〉　onayo\n65 53.47　menta〈鼻〉〈「メンタ」の鼻形は、例えば子供がonayo 生まれたとき…という風に。〉\n65 53.83　古下 onayo〈オナゴは古く使ったが、今は余りONNA 使わないか、使えば下品になり、また差し障ることになる。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03891.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03891",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03891.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "6553.99",
+      "6554.88",
+      "6557.14",
+      "6557.77",
+      "6558.09",
+      "6558.10",
+      "6558.37"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-92\n質問番号　地図番号　137 / 138　項目名　女　081\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(64)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での前後は地点番号順に並べる。\n▶ 注記の＜＞()[]は数箇にする。\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 {B・C 残した語形とその注}\n\n6553.99  onayo （「オナゴ」）\n6554.88  onayo ＜子供についていうときのみ＞ onayo\n6557.14  amatt/o ＜鼻＞（⊗　腹をたてた時など以外にはあまり使わぬ 下品な語） onayo\n6557.77  ama ＜鼻・希＞ （99 にることば：あまり使わない） onna\n6558.09  ama　　　　onna\n6558.10  ama ＜下＞　　onna\n6558.37  ama ＜鼻＞ amatt[o] ＜鼻＞ onayo\n\n＜両方とも差別なく使う。onaro はより黒い語である＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03892.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03892",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03892.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "6559.22",
+      "6559.46",
+      "6559.67",
+      "6560.40",
+      "6561.49",
+      "6563.43",
+      "6563.58"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-93\nA・[B]・[C]ごとに別紙を使用する。\nその中での指標は地点番号順に並べる。\n注記の＜＞（）[]は敬称にする。\n（右上の欄）地点番号　地図番号　137 / 138　項目名　女　081　A 普通注記　ページ　[B　除いた共通語]　[C　除いた特殊語]　(65)\n表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n手書き欄（抜粋、上から下へ）:\n6559.22  aʔma 〈鼻〉  on:na\n6559.46  ama 〈下･希〉〈普通のときはあまり使わぬ.〉  onna\n6559.67  amarpdzaku 〈鼻〉〈怒った時にそれに使われる〉 同上\n6560.40  クソオンナ〈下〉  オナゴ\n6561.49  メンタ 〈鼻〉  オンナ　オナゴ\n6563.43  古下 onayo onna\n6563.58  onayo onna 〈区別はない〉\n（下段に手書きの注記が続くが判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03893.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03893",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03893.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "6564.33",
+      "6564.51",
+      "6567.79",
+      "6568.13",
+      "6572.29",
+      "6573.71",
+      "6577.13",
+      "6577.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-94\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での構成は地点番号順に並べる。\n► 注記の＜＞()[]は厳密にする。\n（右上の枠） 質問番号　地図番号　137 / 138　項目名　女　081　A 普通注記　ページ　(B 除いた共通語)　(C 除いた特殊語)　(65)\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6564.33 onayo <とくに、女のことを「メロ」という。>\n6564.51 mero <鼻> menda <極?> onayo\n6567.79 onnayo <古?> ōnna\n6568.13 ama <下> onna\n6572.29 menta <鼻><!>（下か。男の異称として、[onta]<!> を附加した。） onayo\n6573.71 mero <鼻> onayo\n6577.13 onna <但錦町の方では ama などという>\n6577.71 (?) onna (onago などの形がありそうだか調査のとき聞きもした。)\n\n（ページ内の手書き注記や一部字形は判読が不確かな箇所があります。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03894.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03894",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03894.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "6577.86",
+      "6580.06",
+      "6580.66",
+      "6581.36",
+      "6581.52",
+      "6582.48",
+      "6582.73",
+      "6583.41",
+      "6583.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-95\n質問番号 地図番号\n137 / 138\n項目名 女 081\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (67)\n\n地点番号 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注)\n\n6577.86 onago <赤ん坊については 男 jaro 女 ama という>\n6580.06 メンタ アマエタ アマポオス 〈ののしっていうことば〉 オナゴ\n6580.66 アマッチョ〈下〉 オナゴ\n6581.36 アマッタ〈下〉 同上\n6581.52 アマクレ〈鼻〉 オナゴ\n6582.48 mero〈鼻〉 merokuta〈鼻〉 onago\n6582.73 ネショオ〈下〉 オナゴ\n6583.41 ! mero〈鼻〉 ! kusomero〈鼻〉 onago\n6583.93 onago〈舌〉 オンナ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03895.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03895",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03895.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "6584.90",
+      "6586.27",
+      "6587.42",
+      "6590.35",
+      "6591.57",
+      "6592.10",
+      "6593.30",
+      "6594.67",
+      "6595.32",
+      "6603.52"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-96\n質問番号　地図番号　137/138　項目名　女　081\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (68)\nA・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6584.90　on'na　o'nayo　〈昔のことば〉　（小さい女の子は〈オ〉amakuri　のしりつことば kusomero kusobiku などについて。親には kusobaba）\n6586.27　amo　〈小さい時に使った。怒った時など／今でも使う〉　onago\n6587.42　オナゴ　オンナ　〈オナゴの方を多く使う〉\n6590.35　アマ　〈のっしっていうことなど、下品〉　オナゴ\n6591.57　アマチョ　〈下〉\n6592.10　オナゴ　〈多い〉\n6593.30　a'ma　〈単独〉　o'nago\n6594.67　オナゴノコ　オンナ　〈ふつうはオナゴノコを多く用いる〉\n6595.32　オナゴ　〈昔はオナゴとも云った。〉　オンナ\n6603.52　ona'go　〈どんな言い方か、下げなんだ言い方〉　o'nna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03896.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03896",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03896.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "6603.82",
+      "6604.38",
+      "6604.60",
+      "6606.35",
+      "6607.03",
+      "6607.84",
+      "6608.07",
+      "6608.22",
+      "6609.02",
+      "6609.05"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　38-97\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n質問番号　地図番号　137／138　項目名　女　081\nA　普通注記　ページ　[B]　除いた共通語　[C]　除いた特殊語　(69)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\nビク〈下〉　オンナ\nビク〈鼻〉　オンナ　オンナシ\nビク〈下〉　オンナ\nonna? (単語は NR)\namattʃo〈下〉 a'ma〈下〉　o'nna?\nonnaji (わるいことばはない) という\nama〈鼻〉 a'mattʃo〈鼻〉　o'nna?\nオンナ〈近くの転生地では オナゴと言っている〉\na'ma〈下〉　o'nna\nアマ　オンナ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03897.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03897",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03897.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "6613.07",
+      "6617.34",
+      "6617.75",
+      "6618.46",
+      "6618.51",
+      "6619.76",
+      "6620.20",
+      "6621.94",
+      "6623.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 38-98\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳格にする。\n\n(右上の枠)\n質問番号　地図番号\n137 / 138\nA 普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(70)\n女 081\n\n表ヘッダ:\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A注のない語形 [B・C 残した語形とその注]\n\n手書き行:\n6613.07　ビク <下> <のさしって言う>　オンナ\n6617.34　NR <鼻>　o' nna'\n6617.75　オンナ　(下)アマッコ (年少者に対し)\n6618.46　オンナ　(3,鼻) アマ\n6618.51　o'nna'　＜特に女の単称はない。ただ [warui jatsu] などという。＞\n6619.76　onnago (鼻)　onna\n6620.20　(鼻) アマ　オンナ\n6621.94　bikutta <鼻>　onna\n6623.53　onna (女の老若に亘る単称の総称はない)\n\n(下枠罫線)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03898.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03898",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03898.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "6624.13",
+      "6624.25",
+      "6625.17",
+      "6625.66",
+      "6626.46",
+      "6626.71",
+      "6627.12",
+      "6628.23",
+      "6628.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　39-01\n質問番号　地図番号\n項目名　女　081\nA（普通注記）　(B　除いた共通語)　(C　除いた特殊語)\n地点番号欄（省略）\nA　語形とその注記　[B・C除いた語形とその注]\nA注のない語形　[B・C　残した語形とその注]\nāma 下　ama'tjo: fots　onna\nāma 甲　（注）　同上\nāma 下　（注）　同上\nonna　〈女には老若を含めた一つの単語はない〉\nmesu?　〈牝〉　onna\naitsu　〈卑〉　同上\nme:ta　単数（下）　mero:\nbi:ta　〈鼻〉　同上\nāma　（鼻）〈[āma]は道夫などが使う〉　同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03901.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03901",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03901.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "6629.24",
+      "6630.58",
+      "6633.33",
+      "6634.32",
+      "6634.07",
+      "6635.54",
+      "6635.87",
+      "6636.62",
+      "6638.14",
+      "6639.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-02\nA・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の〈〉（）（）は厳密にする。\n\n質問番号　地図番号　137　138\n項目名　女　081\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(92)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形（B・C残した語形とその注）\n\n手書き項目（おおまか）:\nama 〈卓〉　amattso 〈卓〉\t\tonna\nmero: 〈卓〉\t\t\t\t\tonna\n卓 mefo:\t\t\t\t同上\n下　同上\t\t\t\tonna\nāma  卓\t\t\t\tonna\n同上\t\t\t\t同上\nāma'tso  ama'tso F,T\t\t同上\nāma 〈卓〉\t\t\t\t同上\namattso 〈卓〉\t\t\t\tonna\nonnago 〈卓〉\t\t\t\tonna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03902.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03902",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03902.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "6640.29",
+      "6640.34",
+      "6640.76",
+      "6641.43",
+      "6642.33",
+      "6642.58"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-03\n質問番号　地図番号　137／138　項目名　女（68）　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)（78）\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（）[]は厳密にする。\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n6640.29　amazazaku（amaざzaku）〈鼻〉〈けんかでもしたとき。〉　onna\n6640.34　ama　〈下〉〈希〉　同上\n6640.76　ama　〈下，希〉〈怒ったときなどに希に使う〉　同上\n6641.43　āma　〈鼻〉〈年令を問わない〉　同上\n6642.33　amaro zaku／amārozaku　〈鼻〉〈年令を問わない・最も早んだいいかた。〉　同上\n6642.58　mero:　（メロ）　mentsa: F（貴語）　mentsu: F（〃）　同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03903.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03903",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03903.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "6643.16",
+      "6643.72",
+      "6645.37",
+      "6645.62",
+      "6646.23",
+      "6646.74",
+      "6649.28",
+      "6651.32",
+      "6652.06",
+      "6652.30"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-04\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＜＞（）[]は厳密にする。\n\n（右上の枠）\n質問番号　地図番号　/37　/38\n項目名　女　081\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語　(74)\n\n表ヘッダ：\n地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n手書き一覧（概略転記）：\n6643.16　ama'to / mentfa: T　　onna\n6643.72　単 mentfa: / 単 mentu:　　onna\n6645.37　āma　〈単〉　　onna\n6645.62　onna　（女子の老者を問わない単称はない）\n6646.23　āma　〈単〉　　onna\n6646.74　同上\n6649.28　amatfo〈単〉 oyggo〈最も単〉　同上\n6651.32　amanzaku〈単〉　同上\n6652.06　単 mentu:\n6652.30　āma F　同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03904.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03904",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03904.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [
+      "6652.77",
+      "6653.30",
+      "6655.51",
+      "6655.87",
+      "6656.31",
+      "6657.54",
+      "6661.02",
+      "6662.38",
+      "6665.25",
+      "6697.39"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-05\n質問番号　地図番号　137 138\n項目名　女　081\nA 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語)　(75)\n\n地 点 番 号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注）\n\nāma\t（単）\tonna\nmentfa:me\t（鼻）\t同上\nāma〈鼻〉\t同上\n同上\t同上\n同上\t同上\n〈鼻〉 NR\tonna?\namamazaku〈鼻〉\tāma〈鼻〉\tonna\nāma〈鼻〉\t同上\nāma〈鼻〉\t同上\nāma〈鼻転〉 amakko〈鼻転〉\t同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03905.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03905",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03905.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "6698.20",
+      "6698.61",
+      "6700.48",
+      "6701.01",
+      "6701.46",
+      "6702.21",
+      "6710.02",
+      "6710.55",
+      "6711.95",
+      "6720.23"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-06\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n質問番号　地図番号　137 / 138\n項目名　女　081\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(76)\n（表見出し）地点番号　A 語形とその注記　[B・C 除いた語形とその注]　A注のない語形（B・C 残した語形とその注）\n手書き欄（抜粋）:\nama <鼻> amakko <愛称> onna\nama <いやしんだ言い方> amakko <愛称> 同上\nama <鼻>\nãma (鼻)\namakko <鼻>\namako <鼻>\namattefo <鼻?> onna'\nonna'go\n（行は続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03906.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03906",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03906.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "6720.67",
+      "6721.33",
+      "6730.33",
+      "7218.26",
+      "7238.90",
+      "7239.29",
+      "7246.45",
+      "7269.48",
+      "7275.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-07\n質問番号 地図番号\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (77)\n137 138\n項目名 女 681\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 (B・C 残した語形とその注)\n\n6720.67    onnago (単)\n6721.33    同上\n6730.33    onna [amattjo] は女の卑称であるが 年寄りは使わない。\n7218.26    mesira <単>\n7238.90    オナゴ <女卑称は オナハチ>\n7239.29    オンナ <町方のより オナゴとは 決していわない>\n7246.45    onago  megra は女童\n7269.48    オナゴ (卑称は オナメンツと言う)\n7275.07    オナゴドン 卑称\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03907.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03907",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03907.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [
+      "7303.17",
+      "7303.29",
+      "7308.33",
+      "7308.48",
+      "7312.11",
+      "7313.34",
+      "7313.68",
+      "7320.59"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-08\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n\n地図番号　137 138\n項目名　女\n\nA　普通注記　（ページ (78)）\n[B　除いた共通語]\n[C　除いた特殊語]\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7303.17　(単) onago\t\t\tonna\n7303.29　(単) metʃo <古>\t\t\tonago\n7308.33　onagobindare <卑>\t\t\tonago\n7308.48　onago　<よく喋る女などを bindare という。下品な言い方である。>\t\tonago\n7312.11　mero: (男称) metʃo: (貴称)\t\tonna\n7313.34　(単) mero\t\t\t同上\n7313.68　(単) mero:\t\t\tennago\n7320.59　onago (① onago と ② onago と =様の)\n\tアクセントがあり、用法が異っている。②は親愛を帯びる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03908.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03908",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03908.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [
+      "7321.93",
+      "7323.17",
+      "7324.24",
+      "7329.57",
+      "7332.97",
+      "7338.48",
+      "7339.27"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 39-09\n質問番号　地図番号　137 138\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (79)\n項目名　女 681\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7321.93　オナゴ　（少し悪くいう時）　オンナ\n7323.17　鼻形　mero:　onago\n7324.24　（鼻）　mero　onago\n7329.57　onago　＜女の子が生れたとき、bi:ga m m are-ta と言ったものだ。＞　（年令聞／年あり）\n7332.97　mentso（鼻）　onago　昔の人 悪異。今の人は余りわからない。メレタなし。\n7338.48　onago　＜別に卑屈の感じは伴わない＞という。\n7339.27　bet:a　＜下＞　onago",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03909.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03909",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03909.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "7342.12",
+      "7342.72",
+      "7342.76",
+      "7345.43",
+      "7351.09",
+      "7352.61",
+      "7354.23"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。 ・その中での情報は地点番号順に並べる。 ・注記の<>()[]は厳密にする。\n日本書語地図資料用紙 注記一覧 39-10\n質問番号 地図番号 137 138\n項目名 女 081\nA 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] (80)\n地点番号 列見出し A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\nmetat(i) <悪口の時は metat(i)という。> (女たち, が) onago\nmeta <鼻> — (注記) dama <鼻> — (北馬のこと) onago\nero: (悪口) onago\nme'ro <下> - onago\nmeta (鼻) <(メタング, シャベンナ)の様に> onago\nメッタ (下) オナゴ\nメタ <鼻> クリメロ <鼻> オナゴ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03910.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03910",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03910.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_080.jpg",
+    "page_index": 80,
+    "location_numbers": [
+      "7359.78",
+      "7367.61",
+      "7370.41",
+      "7373.92",
+      "7374.75",
+      "7375.71"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-11\n質問番号　地図番号　137 / 138　項目名　女　081\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (81)\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（ ）〔〕は厳密にする。\n表見出し：地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n7359.78　＜希＞　onago　oⁿna　(onna?)\n7367.61　mero?　＜鼻,下＞　onago-\n7370.41　オナゴ　単話はメラという。　メラダケラ（女だてらに、女のくせに）などを使う。\n7373.92　＜オナメ＞［鼻］＜希＞　オナゴ\n7374.75　*メッチョ　#コメッケョ　#メロ  （手書きで不明瞭）\n7375.71　mero　＜古,鼻科＞　onago\n（左余白に同じく）A・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（ ）〔〕は厳密にする。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03911.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03911",
+    "source_canvas_label": "81",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03911.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_081.jpg",
+    "page_index": 81,
+    "location_numbers": [
+      "7381.97",
+      "7391.44",
+      "7392.45",
+      "7401.11",
+      "7401.60",
+      "7404.56",
+      "7410.57",
+      "7412.71"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-12\n質問番号　地図番号\n項目名　137　138　女　081\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　(82)\n▶ A・[B]・[C]ごとに別訳を使用する。\n▶ その中での語は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\n7381.97　メタ　〈単語〉　オナゴ\n7391.44　同上　同上\n7392.45　オナメロ　〈単〉　同上\n7401.11　onago　〈別に海る気持は含まれていない。婦人の役りでも　そういう感を受けない〉\n7401.60　onago　（特に身しれている気持は含まれていない由）\n7404.56　onna no hito　〈上〉　onago\n7410.57　onago　（〈使うにも　使われた婦人役りにも　畏異感はない〉という。）\n7412.71　onago　〈are wa onago tate ni などのように〉　残視した気持を含む。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03912.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03912",
+    "source_canvas_label": "82",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03912.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_082.jpg",
+    "page_index": 82,
+    "location_numbers": [
+      "7415.85",
+      "7416.34",
+      "7420.91",
+      "7421.62",
+      "7423.77",
+      "7423.80",
+      "7424.60",
+      "7424.67"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-13\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n質問番号　地図番号　137 138\n項目名　女　081\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(83)\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n7415.85　onāgo　＜従々にして　軽蔑の意を含む＞　onna\n7416.34　＜古＞ onago　ōnna\n7420.91　onago　＜ふつうに使う。別に卑賤する意はない。＞\n7421.62　onago　＜自分の妻のことを、他の人に向っていう時にも。onago ga などという。上品にいう時には使わない。＞\n7423.77　mentu　単称　onna\n7423.80　onāgo　＜3＞　onna\n7424.60　onāgo　＜やや そんざいに＞　on:a\n7424.67　nefo:sate　＜単称＞　onāgo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03913.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03913",
+    "source_canvas_label": "83",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03913.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_083.jpg",
+    "page_index": 83,
+    "location_numbers": [
+      "7425.82",
+      "7430.15",
+      "7431.13",
+      "7432.95",
+      "7433.37",
+      "7436.40",
+      "7436.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 39-14 地図番号 137 138 項目名 女 osi A 普通注記 ページ (84) [B] 除いた共通語 [C] 除いた特殊語 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 {B・C 残した語形とその注} onāgo 〈多〉 onago 〈1. 女子のことにいうとき、... 気持はない。 2. 自分の妻のことを他に向っていう時にも使う。〉 onagoi (特定の個人を指すのでないときは、単数の場合にもそうらしい。) ne}jo: 〈つのしていうとき〉 onāgo 〈多〉 onāgo 一般女性の単称 単称は見当らぬ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03914.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03914",
+    "source_canvas_label": "84",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03914.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_084.jpg",
+    "page_index": 84,
+    "location_numbers": [
+      "7440.69",
+      "7441.89",
+      "7442.39",
+      "7446.26",
+      "7460.23",
+      "7460.39",
+      "7461.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　39-15\n\n資問番号　地図番号\n137\n138\nA　普通注記　ページ\n(B)　除いた共通語\n(C)　除いた特殊語　(85)\n項目名　女 '081\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)\n\n7440.69　onago ＜下＞\n　　　to:ni? ni t:o-t:e wa\n　　　onna to iwareru ho: ga jokaro:\n7441.89　onãgo ＜やや 軽蔑して＞\n7442.39　onãgo ＜モ?＞\n　　　onna\n7446.26　onãgo ＜多＞　onna ＜少＞\n7460.23　neʃ:o (軽視して)　onago\n7460.39　neʃ:o:　onago\n7461.39　[ neʃ:o: ]\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03915.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03915",
+    "source_canvas_label": "85",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03915.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_085.jpg",
+    "page_index": 85,
+    "location_numbers": [
+      "7471.38",
+      "7500.24",
+      "7500.66",
+      "7501.14",
+      "7502.89",
+      "7502.91",
+      "7503.11",
+      "7503.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-16\nA・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）[]は敬語にする。\n質問番号 地図番号 137 138\n項目名 女 081\nA 普通注記 ページ\n(B 除いた共通語) (C 除いた特殊語) (86)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 (B・C 残した語形とその注)\n7471.38  ne so: 単称\n7500.24  ビリ <単称> ネショ <単称。女性のよみよりえた> オナゴ onãgo\n7500.66  オナゴ -> <一般に広く使う>\n        アマ、アマチョ <両方とも単称で よそから来たことば>\n7501.14  バッサイ <下> オナゴ\n7502.89  ne[?]jo <古> onãgo\n7502.91  アマ <下> オナゴ\n7503.11  onayoji <「オナゴシ」は複数に限る。> onayo\n7503.48  onna <老婆または女のこと>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03916.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03916",
+    "source_canvas_label": "86",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03916.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_086.jpg",
+    "page_index": 86,
+    "location_numbers": [
+      "7510.18",
+      "7511.66",
+      "7511.93",
+      "7512.43",
+      "7513.15",
+      "7513.43",
+      "7513.69",
+      "7521.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-17\n質問番号　地図番号\n137 138\n項目名　女 081\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (89)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n7510.18　オナゴサレ　アマッタレ　アマッチョ　〈卒〉　オナゴ\n7511.66　アマ〈下〉　→〈鼻下してそう時ある。自分の子を「ウィ」〉　アマッチョ〈下〉　アマワ〜〉　オナゴ\n7511.93　ネショオ〈下〉　オナゴ\n7512.43　アマチョ〈下〉　同上\n7513.15　諸 ona~go〈右〉 'onna\n7513.43　!ネショ〈下〉　!ネショノビンダレ〈下〉　オナゴ\n7513.69　ネショ〈下〉　アマチョ〈下〉　オナゴ\n7521.16　アマッチョ〈右〉　オナゴ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03917.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03917",
+    "source_canvas_label": "87",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03917.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_087.jpg",
+    "page_index": 87,
+    "location_numbers": [
+      "7521.79",
+      "7522.48",
+      "7522.94",
+      "7523.05",
+      "7523.27",
+      "7523.30",
+      "7523.74"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のくくり()[]は厳密にする。\n日本言語地図資料用紙 注記一覧 39-18\n質問番号　地図番号\n項目名　女 081\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (88)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)\nアマ　〈下〉\t\tオナゴ\nアマノコ〈古〉〈両方ともそう思ひでなく用いた。〉 ネショウ〈古〉 今、あまり用いぬ。\nオナゴ（単称の場合の呼び名なし）\nネショ（下）\t\tオンナ\n！ネショ〈下〉！ ネショ〈下〉！アマ〈下〉　オナゴ\nネショウ〈古〉〈昔は毎家の意がなかった。〉　オナゴ\nアマノコ〈古〉　今はある。　onago\n子供なら［早・やや］ama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03918.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03918",
+    "source_canvas_label": "88",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03918.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_088.jpg",
+    "page_index": 88,
+    "location_numbers": [
+      "7533.11",
+      "7533.12",
+      "7659.53",
+      "8248.18",
+      "8320.59",
+      "8321.58",
+      "8322.68",
+      "8333.03",
+      "8333.79",
+      "8343.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-19 質問番号 地図番号 137 138 項目名 女 031 A 普通注記 (B 除いた共通語) (C 除いた特殊語) (89) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 (B・C 残した語形とその注） 7533.11 ネショウ <下> クサリネショウ <下> オナゴ 7533.12 アマ <くのしっていうことば> 同上 7659.53 詞 onnago 8248.18 onago mettsui: (卑称) onago 8320.59 meta <卑称> 同上 8321.58 mettsu <卑> 同上 8322.68 mera <卑> mettsu <卑> 同上 8333.03 onago 8333.79 meta <卑> onago 8343.74 同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03919.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03919",
+    "source_canvas_label": "89",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03919.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_089.jpg",
+    "page_index": 89,
+    "location_numbers": [
+      "8346.11",
+      "8351.65",
+      "8352.29",
+      "8353.68",
+      "8373.43",
+      "8393.69"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-20\n質問番号　地図番号\n137 / 138\n頁\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n(90)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n83 46.11    mera 〈鼻〉\n83 51.65    mera, metantsu 〈鼻〉\n83 52.29    onameha 〈鼻〉\n83 53.68    mera 〈鼻称〉\n83 73.43    onago  (k) onagoと言うか 同じくらい onna とも言うと 話している。\n83 93.69    metahatji 〈鼻〉    onãgo\n（右欄）onago / 同上\n手書き注記、ローマ字表記多数、同上表記あり",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03920.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03920",
+    "source_canvas_label": "90",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03920.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_090.jpg",
+    "page_index": 90,
+    "location_numbers": [
+      "3705.42",
+      "4598.33",
+      "4618.87",
+      "4637.68",
+      "4638.43",
+      "4647.69",
+      "4648.59",
+      "4652.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-21\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > () は厳密にする。\n（上部の小さな表）資料番号　地図番号　項目名　女　081\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n3705.42    onna ＜新＞                             onayo ＜古＞＜単称なし＞\n4598.33    onna ＜新＞                             njo:bo\n4618.87    onna ＜上＞                             onayo\n4637.68    onna （新）                            onayo（古、現在も用いる）\n4638.43    onna ＜英＞                             onayo\n4647.69    onna ＜新＞                             onayo 「外にありませんか」の問いに対する反応。＜古からの語で今でも多く用いる＞\n4648.59    onna ＜新＞                             onayo ＜希＞＜古から用い、現代も使うか＞\n4652.79    onna ＜共＞                             onnano mon ＜古一現＞ ... onago ＜古一現＞\n（右下に縦書きの追加注記や手書きメモあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03921.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03921",
+    "source_canvas_label": "91",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03921.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_091.jpg",
+    "page_index": 91,
+    "location_numbers": [
+      "4666.17",
+      "4672.19"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）〔〕は厳密にする。 日本語語地図資料用紙　注記　39-22 質問番号　地図番号　137 138 項目名　女　081 A　普通注記　ページ B　除いた共通語（丸囲み） C　除いた特殊語（2） 地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形（B・C　残した語形とその注） 4666.17　onna〈新〉　onago－（「外にありませんが」の間に対する反応）〈古い言い方〉 だから今も onna より多く用いる。〈onago no ko などとも用いる〉 4672.19　onna〈希〉　onna no mon…〈家庭内で多く用いる〉 onago…（方の言い方はあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03922.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03922",
+    "source_canvas_label": "92",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03922.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_092.jpg",
+    "page_index": 92,
+    "location_numbers": [
+      "4675.45",
+      "4675.62",
+      "4685.10",
+      "4714.68",
+      "4716.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-23\n項目番号　地図番号\n(137 138)\n項目名　女　081\nA 普通注記　B 除いた共通語　C 除いた特殊語\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n表見出し: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n行1: onna <新>　／　onago <古ー現>　『外ト言う方はありませんか』に対する答え　(これは古くから用い、今も onna よりも多く用いると思う。)\n行2: onna <新><上>　／　onago <昔から用いている>　bate <下>　ama <下>\n行3: onna <新>　／　onago <これも多く用いる>\n行4: onna <新>\n行5: onna <年頃の女以上の年令>　(子供の場合は onako であり、これは女の尊称としても使われる)\n下部手書き: onayo no goto <英> (上)\n(注: 手書き部分は判読難、上は概略の復元)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03923.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03923",
+    "source_canvas_label": "93",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03923.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_093.jpg",
+    "page_index": 93,
+    "location_numbers": [
+      "4726.80",
+      "5462.29",
+      "5463.12",
+      "5463.73",
+      "5517.90",
+      "5537.99",
+      "5538.90",
+      "5556.35",
+      "5568.57"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）［］は厳密にする。\n日本語語地図資料用紙　注記一　39-24\n配置番号　地図番号\n137\n138\n項目名　女　081\nA 音連注記　ページ\n(B 除いた共通語)\n[C 除いた特殊語]\n(4)\n地點番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形（B・C 残した語形とその注）\nonna ＜新＞\nオンナ ＜英＞\n同上 ＜新＞\n同上 上\nonna ＜新＞\n同上 上\n同上 上\nonna ＜あふたまった時＞\n＜矢＞ オンナ\nonayo\nニョオバ\n同上\nオナゴ\nmero\n同上\n同上\n(4) ヒラフケ ＜特に自分の娘などを買ていうことば＞\nニョボ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03924.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03924",
+    "source_canvas_label": "94",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03924.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_094.jpg",
+    "page_index": 94,
+    "location_numbers": [
+      "5568.92",
+      "5569.02",
+      "5574.42",
+      "5588.02",
+      "5703.70"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-25\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\n質問番号　地図番号\n137 138\n項目名　女　081\nA　共通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ（5）\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\n5568.92　〈女〉　オンナ　ニョウボ（総称）\n　　　　〈身〉　ヒラツケ〈幼児・子供〉\n5569.02　〈女〉　オンナ\n5574.42　onna　〈若〉\n5588.02　〈女〉　オンナ\n5703.70　onna　〈新〉\n\n（手書き注記多数、ニョウホンコ（女の子）などの語例あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03925.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03925",
+    "source_canvas_label": "95",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03925.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_095.jpg",
+    "page_index": 95,
+    "location_numbers": [
+      "5723.36",
+      "5792.02",
+      "6395.61",
+      "6407.43",
+      "6408.88",
+      "6409.00",
+      "6409.72",
+      "6415.80",
+      "6415.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-26\nA・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n項目名 女 081\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(6)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nonna 〈新〉\nonna 〈共通語として〉\nonna 〈新〉\nオンナ 〈英〉\nオンナ 〈上共希〉\nオンナ 〈新共〉\nオンナ 〈新〉\nonna 〈上〉\nonna 〈上〉\nonago〈古〉\n!a?ma〈軽蔑の意なし〉\nonago 〈古〉\nオナゴ\nオナゴ\n同上\nオナゴ〈古〉\nonago〈参〉\nnjo:ba(共同作業などでショーハに 手伝って貰う などと言う)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03926.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03926",
+    "source_canvas_label": "96",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03926.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_096.jpg",
+    "page_index": 96,
+    "location_numbers": [
+      "6416.31",
+      "6417.14",
+      "6418.13",
+      "6429.61",
+      "6439.01",
+      "6439.77",
+      "6448.61",
+      "6449.19",
+      "6453.59",
+      "6457.45"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-27\n質問番号　地図番号　137 138\n項目名　女　081\nA　普通注記　ページ\n(B)　除いた共通語　(C)　除いた特殊語　(7)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉（）[]は録音にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n(onna) オンナ〈新・上・稀〉　onago〈古〉\n同　上　onago\nオンナ〈共・稀〉　オナゴ\nオンナ〈共・希〉　オナゴ\nオンナ〈共・新〉　オナゴ　スペタ〈下〉\nオンナ〈新〉　オナゴ\nオナゴ　オナゴ\n上品　オンナ\n#オンナ〈上・共・新〉　#アマツチメ〈下〉　#オナゴ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03927.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03927",
+    "source_canvas_label": "97",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03927.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_097.jpg",
+    "page_index": 97,
+    "location_numbers": [
+      "6458.40",
+      "6458.91",
+      "6459.87",
+      "6505.58",
+      "6510.65",
+      "6520.94",
+      "6522.37",
+      "6526.45",
+      "6527.44"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-28\n質問番号　地図番号　137/138\n項目名　女　081\nA 普通注記　B（除いた共通語）　C（除いた特殊語）\n---表ヘッダ---\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n6458.40　オンナ　〈新〉　　　オナゴ\n6458.91　オンナ　〈新・希・英〉　オナゴ\n6459.87　オンナ　〈新・希〉　　　同上\n6505.58　〈英〉　オンナ　　　　同上\n6510.65　オンナ　〈新〉　　　　オナゴ？同一と思る。オナゴ ONAGO の中。（室奥）\n6520.94　オンナ　〈妻をさしてだけ用いる〉　オナゴ〈一般の女の人を指して言う〉\n6522.37　オンナ　〈新〉　　　　オナゴ\n6526.45　〈新〉　オンナ　　　　オナゴ\n6527.44　on'na［英］　　　　onago？ 直差別 a'ma［奄］／ on'nayo？\n\n（注：手書きの一部は不鮮明のため推定で記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03928.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03928",
+    "source_canvas_label": "98",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03928.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_098.jpg",
+    "page_index": 98,
+    "location_numbers": [
+      "6529.15",
+      "6530.23",
+      "6530.58",
+      "6531.53",
+      "6533.31",
+      "6537.21",
+      "6540.52",
+      "6556.60",
+      "6557.36",
+      "6557.54"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-29\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は教係にする。\n\n質問番号　地図番号\n137 138\n項目名　女\nA 音濁注記　B 除いた共通語　C 除いた特殊語　(9)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6529.15　〈共〉 オンナ　オナゴ\n6530.23　オンナ 〈エ〉　オナゴ\n6530.58　オンナ 〈共〉　オナゴ\n6531.53　同上\n6533.31　オンナ（エ）　オナゴ\n6537.21　onna〈新〉　onayo\n6540.52　オンナ〈共希〉　オナゴ\n6556.60　オンナ〈共〉　オナゴ\n6557.36　onna〈新〉　onayo\n6557.54　onna〈共〉　onayo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03929.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03929",
+    "source_canvas_label": "99",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03929.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_099.jpg",
+    "page_index": 99,
+    "location_numbers": [
+      "6581.52",
+      "6582.12",
+      "6582.73",
+      "6590.87",
+      "6592.10",
+      "7329.57",
+      "7341.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-30\n質問番号　地図番号　A　活語注記　ページ　137/138　(B　除いた共通語)　(C　除いた特殊語)　(10)\n項目名　女　081\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくくり（ ）[ ]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n6581.52　オンナ〈英〉　オナゴ　アマクレ〈鼻〉\n6582.12　同上　オナゴ\n6582.73　同上　オナゴ　ネショオ〈下〉\n6590.87　同上　オナゴ\n6592.10　同上　オナゴ〈多〉\n7329.57　新 onna　onago\n7341.42　オンナ〈新上〉　オナゴ onago\n\n〈女の子が生れたとき〉\nbi: ga m mare-ta <た>（とえったものだ）\n年令関係あり",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03930.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03930",
+    "source_canvas_label": "100",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03930.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_100.jpg",
+    "page_index": 100,
+    "location_numbers": [
+      "7349.91",
+      "7401.60",
+      "7402.47",
+      "7403.16",
+      "7423.80",
+      "7425.82",
+      "7431.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-31\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n質問番号　地図番号　137 138\n項目名　女　081\nA　音連注記\n(B)　除いた共通語\n(C)　除いた特殊語\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n7349.91　〈新〉　on:na　onago\n7401.60　on:na　〈工〉　onago（好く/楽しめる気持は含まれていない）\n7402.47　on:na　〈新〉　onago\n7403.16　on:na　〈工〉　同上\n7423.80　on:a　〈サ,上〉　onāgo〈多〉\n7425.82　on:a　〈共〉　onāgo〈3〉\n7431.13　〈新〉　on:na　onago\n\n（右側に手書きの注記や小さな説明あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03931.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03931",
+    "source_canvas_label": "101",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03931.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_101.jpg",
+    "page_index": 101,
+    "location_numbers": [
+      "7433.37",
+      "7436.68",
+      "7441.89",
+      "7442.75",
+      "7502.89",
+      "7513.69",
+      "7522.48"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-32\n質問番号　地図番号　137／138\n項目名　女　081\nA　普通注記　ページ\n(B)　除いた共通語　(C)　除いた特殊語\n・A・(B)・(C)ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）（［］は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n7433.37　on:a　＜英＞　　　onāgo　＜多＞\n7436.68　onna　＜サ＞　　　onāgo　＜多＞\n7441.89　onna　＜英＞　　　onāgo　＜やや軽蔑して＞\n7442.75　on:a　＜英＞　　　onāgo\n7502.89　'onna　＜新＞　　　ne|o　＜古＞　onāgo\n7513.69　オンナ　＜共＞　　オナゴ　ネショウ＜下＞　アマケタ＜下＞\n7522.48　同上　　　　　　　アマノコ＜古＞　（用いた。今、あまり用いぬ。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03932.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03932",
+    "source_canvas_label": "102",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03932.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_102.jpg",
+    "page_index": 102,
+    "location_numbers": [
+      "7523.30",
+      "9310.27",
+      "9313.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-33\n質問番号 地図番号\n項目名 女 081\nA 普通注記 (B 除いた共通語) (C 除いた特殊語)\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 {B・C 残した語形とその注}\n7523.30 オンナ <英>\nネショウ<古> アマノコ<古> (音は侮蔑の意かなかった。今はある。)\n9310.27 on'na <新>\n9313.55 metja <鼻>\nonāgo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03933.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03933",
+    "source_canvas_label": "103",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03933.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_103.jpg",
+    "page_index": 103,
+    "location_numbers": [
+      "0840.33",
+      "0873.94",
+      "0894.61",
+      "0896.22",
+      "1742.24",
+      "1816.52"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-34　質問番号　地図番号　項目名　女　081　A 普通注記　ページ　[B 除いた共通語]　[C 除いた特殊語] 08 40.33 mero 〈若い 18's 22～23のものぐらいまでに言った〉 〈鼻〉 mekkai 〈古〉〈鼻〉 onna 08 73.94 mero〈鼻〉 〈13～14才までに言う〉 mekkai〈鼻〉 on'na 08 94.61 Xena 〈えすめぐらいまで?〉 on'na onayo 08 96.22 [メッカイ][古] （手書き長文注記） 語義の意味 ユーモアの意味かと思われ とにかく使う 1742.24 メッケ 女子に対する軽侮 オナゴ 1816.52 〈女の子には悪口としてメッカイと言った〉 オンナ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03934.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03934",
+    "source_canvas_label": "104",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03934.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_104.jpg",
+    "page_index": 104,
+    "location_numbers": [
+      "1848.24",
+      "1854.24",
+      "1862.48",
+      "1867.15",
+      "1893.10",
+      "1942.03",
+      "2720.75",
+      "2732.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞()[]は厳密にする。\n日本言語地図資料用紙　注記一覧　39-35\n質問番号　地図番号\n項目名　女　081\nA　普通注記　ページ\n[B　除いた共通語]\n(C　除いた特殊語) （2）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n1848.24　mekkai　〈女の子に対して。今日はーす まない〉　〈鼻〉　mero　on'na\n1854.24　mekkai　〈女の子に〉　on'na\n1862.48　メッカイ　〈下〉〈小字をぐらいまでの女の子に対して〉　オンナ\n1867.15　下　メッカイ　女に反することば。　オナ　下メロ\n1893.10　〈越中衆かmeroというを聞く〉　on'na\n1942.03　〈抜か女の子供を mekkai というを多くきいた。自分は使わないが。子供が大人やもいう時には使わない。〉　on'na　onan yo〈子供の呼び〉\n2720.75　メッケ　女の子に対する卑称　オナゴ\n2732.39　メッケ　女形を多くの人がいう　オナゴ…単称　メッケ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03935.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03935",
+    "source_canvas_label": "105",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03935.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_105.jpg",
+    "page_index": 105,
+    "location_numbers": [
+      "2795.01",
+      "3699.25",
+      "3714.74",
+      "3724.96",
+      "3733.18",
+      "3733.22"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 39-36\n質問番号　地図番号\n137 138\n項目名　女　081\nA 普通注記　ページ\n[B] 除いた共通語\n(C) 除いた特殊語 (3)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n2795.01　mekke　若い女の単称　onayo\n3699.25　zabeko　(女の子供の呼称)　zabe (女の子供の呼称)　onayo\n3714.74　bitta　<単> bitta　<として若いへ>　onayo\n3724.96　アネコ <青女>　アッパコ <中女>　オナコ\n3733.18　gagi (幼若ん子チョし)　onayo\n3733.22　kiisare bitta (年) kiisare appa (年)　onayo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03936.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03936",
+    "source_canvas_label": "106",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03936.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_106.jpg",
+    "page_index": 106,
+    "location_numbers": [
+      "3744.18",
+      "3757.09",
+      "3765.74",
+      "3770.62",
+      "3780.65",
+      "3781.86",
+      "3783.11",
+      "4619.29"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-37\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n（枠内）質問番号　地図番号　137 138\n項目名　女　081\nA 普通注記　B 除いた共通語　C 除いた特殊語　(4)\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n3744.18　びった（女児　？）　ガギ（同上）　オナゴ\n3757.09　bitta（若い娘に対する単語）　onayo\n3765.74　アカビッキ（女児）　オナゴ\n3770.62　djanbe（男、若いて）　onago\n3780.65　(男) djanbe（年下の女に）　onayo\n3781.86　（男） onãyo gagi（年下の女に対し）　他について答なし　onãyo\n3783.11　メラス（女中）　オナゴ\n4619.29　battsui（女児の愛称）（アローと対する）　onayo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03937.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03937",
+    "source_canvas_label": "107",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03937.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_107.jpg",
+    "page_index": 107,
+    "location_numbers": [
+      "4653.02",
+      "4663.49",
+      "4677.65",
+      "4744.10",
+      "4782.96",
+      "4791.39",
+      "4791.61"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-38\n質問番号　地図番号\n項目名　女　081\nA　普通注記　　（B：除いた共通語）　（C：除いた特殊語）\n\n地点番号　　A 音形とその注記　［B・C 除いた語形とその注］　　A 注のない語形　［B・C 残した語形とその注］\n\n4653.02　me?na　〈小さい女の子のこと〉　　menare　〈要賞のことは〉　ne?o:\n4663.49　〈neso: は 女の子供、若い女という〉　　onago\n4677.65　(babzi (ba[i]i) は 「女の子」の意味で、女の子を ... )　　onna\n4744.10　onanyo　〈稀〉〈主に老人の女を指すか？〉　　onna\n4782.96　mero:　〈下〉〈若いものにいう〉　　onna\n4791.39　mero:　〈いやめていう、年上に対して〉　　onna　baba　〈いやしめていう、年寄りに対して〉\n4791.61　mero:　(若いものに対する単語)　　onnayo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03938.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03938",
+    "source_canvas_label": "108",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03938.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_108.jpg",
+    "page_index": 108,
+    "location_numbers": [
+      "4792.80",
+      "5462.29",
+      "5559.51",
+      "5566.51",
+      "5568.22",
+      "5568.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-39 質問番号 地図番号 137 138 項目名 女 081 A 普通注記 ページ (B 除いた共通語) (C 除いた特殊語)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n4792.80　mero: ＜中年以下に話する異称＞　baba ＜老年に対する異称＞　onayo\n5462.29　(取消し)\n5559.51　〈鼻〉 メロオ　〈鼻〉 ヘラッケ　(メロオは年のいっている人へらけ ミョオボ?)\n5566.51　ama ＜女児＞　mero\n5568.22　オナゴ（娘）　オナゴ・シュウ（娘たち）　オンナ　ニョウボシュウ（女性群・軍）\n5568.57　〈鼻〉 ビ …",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03939.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03939",
+    "source_canvas_label": "109",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03939.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_109.jpg",
+    "page_index": 109,
+    "location_numbers": [
+      "5568.92",
+      "5569.02",
+      "5569.36",
+      "5578.27",
+      "5579.79",
+      "5588.02"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-40\n質問番号　地図番号　137　138\n項目名　女　081\nA 普通注記　ページ\n[B] 除いた共通語\n(C) 除いた特殊語　(7)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉（）【】は厳密にする。\n\n表ヘッダ:\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　{B・C 残した語形とその注}\n\n手書き欄（おおよその読み）:\n〈卵〉ヒランケ 〈幼児・子供のまして〉　／　ニョウボン（終承）　〈女〉オンナ\nニョウボンノコ（女の子）　／　ニョウボ（終承）　〈女〉オンナ\n〈幼〉ビラ　／　オンナ\nビィ〈幼虫〉ビレタ〈幼.鼻〉ヒラッケ〈幼.鼻〉　／　オンナ\n〈幼〉ビラ　／　ニョボシュク（女性遠の意）　オンナ\nムスメ〈嫁入りする女の子〉　／　（注記・補足）\n\n（手書きは判読しにくい箇所があります。上は読み取れる範囲の概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03940.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03940",
+    "source_canvas_label": "110",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03940.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_110.jpg",
+    "page_index": 110,
+    "location_numbers": [
+      "5588.78",
+      "5591.91",
+      "5597.78",
+      "5599.41",
+      "5614.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-41\n質問番号　地図番号　137 138　項目名　女　081\nA　音形注記　ページ　[B]　除いた共通語　(C)　除いた特殊語　(8)\nA・{B}・{C}ごとに別票を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）{}は略語にする。\n地点番号　A　語形とその注記　{B・C除いた語形とその注}　A注のない語形　{B・C　残した語形とその注}\n5588.78　ビイ　〈幼・卑〉　ピンタ〈幼・卑〉　トビンタ〈幼・卑〉　オンナ\n5591.91　オナゴ（若い娘んまして）　オナイ（総称）\n5597.78　〈鼻〉ビイ　〈鼻〉ビイノコ　（女の子供をさすことばで、大人の女をさしては普通使わない。）\n（ビクという語は他の動物の乳を呼ぶことばとしても使う。）\n5599.41　ビイ〈幼・卑〉　ピンタ〈幼・卑〉　オンナ\n5614.62　onna fuu（若い女性から中年の女性までを総称して、onna 又、複数のそれをそう）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03941.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03941",
+    "source_canvas_label": "111",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03941.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_111.jpg",
+    "page_index": 111,
+    "location_numbers": [
+      "5620.16",
+      "5646.71",
+      "5671.36",
+      "5687.32",
+      "5652.94",
+      "5780.11",
+      "5791.68",
+      "5792.18",
+      "6349.09"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > () [] は数寄にする。\n日本音声地図資料用紙 注記一覧 39-42\n質問番号 地図番号 137 / 138\n項目名 女 081\nA 普通注記  ページ\n[B 除いた共通語]\n[C 除いた特殊語] (9)\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)\n5620.16    onago <女中に対していう>    onna  mero <下>\n5646.71    オンナシ <結婚後>    オンナ  アマ <下>\n5671.36    bitta jo <女の子、軽い卑称>    onna\n5687.32    アマ <卑> 白し中年位の女性    オンナ\n5652.94    (母) baba: <老人について>    onna\n5780.11    ama 自分の子供についていう    同上\n5791.68    amakko <鼻・赤ん坊の生まれたとき>    同上\n5792.18    a'ma <子供の…>    同上\n6349.09    njo:bo: <自分の妻に> onago <下品 又は普通>\n(on na (一般にやや上品と 思われている))\n（注：写し取りにより誤字あるかもしれません）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03942.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03942",
+    "source_canvas_label": "112",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03942.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_112.jpg",
+    "page_index": 112,
+    "location_numbers": [
+      "6401.89",
+      "6415.83",
+      "6418.13",
+      "6418.75",
+      "6419.25",
+      "6435.03",
+      "6439.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-43\nA・[B]・[C]ごとに別紙を使用する。\nその中での語群は地点番号順に並べる。\n注記の＜＞（）[]は省略にする。\n質問番号　地図番号　137　138　項目名　女　081\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(10)\n\n表見出し：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n\nニョオハコ ＜子＞ （女児をまとする場合 女房子？）\nbikun／biku? ＜子供に対する裏口に言う＞　njo:ba ＜共同作業などで 手伝って貰うなどと言う＞\nビクニゴ ＜幼女、□□に出生時＞　オナゴ\nビク ＜希＞＜生した頃 ビクと呼ぶ＞　オナゴ\nビク ＜下、子＞　オナゴ　スペタ＜下＞\nムスメ ＜年ごろの娘＞　オナゴ＝ニョオホン？（小学生ぐらいの女は ニョオホン／ムスメノコ　幼女は ビク。）\nビワニ ＜子＞　スペタ＜下＞　オナゴ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03943.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03943",
+    "source_canvas_label": "113",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03943.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_113.jpg",
+    "page_index": 113,
+    "location_numbers": [
+      "6507.13",
+      "6507.48",
+      "6507.72",
+      "6508.06",
+      "6509.91",
+      "6518.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 39-44 質問番号 地図番号 137 138 項目名 女 081 A 普通注記 B 除いた共通語 C 除いた特殊語 (11) 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） 6507.13 ビイ <子供に対して使うことば> ビックニ（単語、女生に対しこの「アマ！」というかなのアマの意。） オンナ 6507.48 <単> ビッチョ <子供に対する単語> <単>アマ オンナ 6507.72 <単>アマ <単>ビッチョ 6508.06 単 ビィ <幼い子に対する単語> オンナ 6509.91 <単>コビ（小さな女の子を呼びする場合） オンナ 6518.15 アンネ <アンネは姉を呼ぶ子供のことば> オンナ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03944.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03944",
+    "source_canvas_label": "114",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03944.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_114.jpg",
+    "page_index": 114,
+    "location_numbers": [
+      "6518.87",
+      "6519.67",
+      "6539.78",
+      "6540.16",
+      "6546.73",
+      "6547.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-45\n質問番号　地図番号　137 / 138\n項目名　女　081\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語] (12)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)\n6518.87　〈鼻〉アマ（鼻緒であるか、光学に対しては使用しない。）　オンナ　〈客共〉ジョシ\n（この語は080のホオズよりも年令65にいって広く用いられる。）\n6519.67　〈幼・鼻〉アマ\n6539.78　ama〈鼻〉〈女の子を比べる場合などで大人に対しては onna 使わぬと思う〉\n6540.16　henda　女の子の[鼻][舌]　onayo\n6546.73　ama　〈子供に関して〉　onna onago〈昔のそうい〉\n6547.79　bi:ta / bi:takuta　子供間の悪口の場合　onna",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03945.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03945",
+    "source_canvas_label": "115",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03945.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_115.jpg",
+    "page_index": 115,
+    "location_numbers": [
+      "6571.68",
+      "6606.38",
+      "6625.17",
+      "6626.30",
+      "6632.88",
+      "6641.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のくく( )[ ]は厳密にする。 日本言語地図資料用紙　注記一覧　39-46 質問番号　地図番号　137 / 138 項目名　女　081 A 普通注記　ページ [B 除いた共通語] [C 除いた特殊語] (13) 地点番号　A 語形とその注記【B・C 除いた語形とその注】　A注のない語形（B・C 残した語形とその注） 6571.68　アマ〈女の子供〉　オナゴ 6606.38　gaki〈赤ン坊から娘迄皆[gaki]という〉　onna1 6625.17　ama'ko: F — むすめに　ama'tso: F — こどもに　banba: — 老女に　onna　ama下 6626.30　a'makko〈子供に対しての悪口〉　bakabamba〈大人に対しての悪口〉　onna 6632.88　mero:　年老母には使わないという　onna 6641.43　oba:〈年寄りに〉　bamba:〈母〉〈年寄りに〉　onna　ama〈年×年令を問わない〉 amazagaku〈母〉〈年令を問わない〉 最も年寄にいい方。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03946.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03946",
+    "source_canvas_label": "116",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03946.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_116.jpg",
+    "page_index": 116,
+    "location_numbers": [
+      "6641.82",
+      "6643.16",
+      "6652.30",
+      "6662.01",
+      "6697.59",
+      "7354.23",
+      "7500.66"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-47\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号　（表ヘッダ）\n地図番号　137 138\n項目名　女　081\nA 普通注記　ページ\n[B] 除いた共通語　[C] 除いた特殊語　(14)\n\n66 41.82  oba: sara <年寄り>        onna\n66 43.16  meto: 下,子               ama't/fo ?  下\n66 52.30  amanzakuru  F, 3         onna   āma 下\n66 62.01  amanzaku  先せにはいわない。  onna\n66 97.59  ama <目下の子>  amakko <小さな女の子>  同上\n73 54.23  オナンコ <若い女性をいう>    オナゴ\n7500.66  ビリ <年少の女に用う。>     オナゴ -> <一般に広く使う。>\n\n（手書きの注記や線、その他判読しにくい個所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03947.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03947",
+    "source_canvas_label": "117",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03947.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  },
+  {
+    "source_image": "page_117.jpg",
+    "page_index": 117,
+    "location_numbers": [
+      "7503.48",
+      "7504.64",
+      "7513.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-48\n質問番号　地図番号\n(137 138)\n項目名　女　081\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(15)\n\n地点番号　A　語形とその注記　【B・C除いた語形とその注】　A注のない語形　【B・C　残した語形とその注】\n75 03.48　o'mango　〈若い方にしか使わない〉　o'nna〈老若ともに女のこと〉\n75 04.64　nejo　〈子〉　onna\n75 13.43　アマ　〈下〉〈小さな女の子をさしている〉　オナゴ　!ネショ〈下〉　!ネショノビンタレ〈下〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03948.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M137Q081/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03948",
+    "source_canvas_label": "118",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03948.tif",
+    "source_ljc_id": "LJC-M137Q081",
+    "source_map_numbers": [
+      "137",
+      "138"
+    ],
+    "source_title": "おんな (女)"
+  }
+]

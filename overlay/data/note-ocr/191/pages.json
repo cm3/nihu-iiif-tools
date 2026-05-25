@@ -1,0 +1,405 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0894.61",
+      "1762.10",
+      "1773.27",
+      "3699.25",
+      "3741.16",
+      "3764.92",
+      "3776.83"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-06\n質問番号　地図番号　244　171　A　普通注記　[B]　除いた共通語　[C]　除いた特殊語　ページ　( / )　項目名　イエ\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の< > ( ) [ ]は厳密にする。\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き注記（読み取り可能な部分）：\nie　e　wt͡si　<昔>　<今>\nウケー　<な?>\nウチ　<客>\nye　<普通>\ne は狭い e\nウスー　（改まったえい方と聞いた）\nwitsi　<方>\nie　（濁音）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06106.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06106",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06106.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3787.35",
+      "3791.02",
+      "4598.59",
+      "4638.22",
+      "4639.69",
+      "4644.10",
+      "4653.84",
+      "4653.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 61-07\n質問番号 244 地図番号 191\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2)\n項目名 いえ\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n3787.35    e:    <古>・・・（清濁）    wtʃi\n3791.02    je    ㋹ je:\n4598.59    ie    <希>\n4638.22    i:e    <??> e は従い e\n4639.69    ye    (摩擦は微か, geも l2にも良い)\n4644.10    wtʃi    <気のきいたえい方、ていねいなことば>\n4653.84    wtʃi    <wtʃi: a方が音からのえいかれ? ie>\n4653.02    ize    <古いことば>    wtʃi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06107.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06107",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06107.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4668.27",
+      "4678.77",
+      "4685.10",
+      "4686.96",
+      "4713.45",
+      "4714.68"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-08\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号　244　　地図番号　131\n項目名　いえ\n\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(3)\n\n地点番号　　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n4668.27　e:　<若い人は wtj; たえう。>\n4678.77　wtj;　<新>\n4685.10　e:　<多>\n4686.96　wtj;\n4713.45　wtj;　<上><称>\n4714.68　wtsta, e:　<全く同じにより／使い　新　旧の別やニュアンス>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06108.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06108",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06108.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4715.33",
+      "4716.72",
+      "4725.92",
+      "4731.15"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-09\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞（　）（　）[　]は厳密にする。\n質問番号　地図番号　244　181　A　普通注記　（B　除いた共通語）　（C　除いた特殊語）　ページ（4）\n項目名　いえ\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n4715.33　e: ko.　ちがいもない. >(? )　＜この絵のように小さい家は　こちらだよ＞\n（e:）　＜普通のもっと大きい家＞\n4716.72　wtʃi:　＜改まったとき＞\n4725.92　je:　（頷きは少しマサノが）　あるようである）\n　　＜子供は wtʃi という.＞\n4731.15　ge:　se: のつもりかろうか　相互摩擦する\n（手書きの注記・語形は判読が粗い部分あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06109.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06109",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06109.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4742.37",
+      "4792.80",
+      "5507.09",
+      "5528.31",
+      "5546.34",
+      "5548.24",
+      "5558.09",
+      "5569.02"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-10\n質問番号　地図番号\n244　191\n項目名　いえ\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ （5）\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜　＞(　)[　]は厳密にする。\n表見出し: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き列（A欄・注記など、原文どおりの概略）:\nje:　〈今〉\nwt5??　〈新〉\ne:　〈発〉\nwtj:　〈使うこともある〉\nje　〈新〉\njue　〈希〉\nie　〈新〉\nie　〈上〉\nie　〈荒〉\n最後の行（メモ）: ケチ, イエ　〈どちらも使うがウチという方が...〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06110.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06110",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06110.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5584.37",
+      "5594.37",
+      "5598.67",
+      "5609.26",
+      "5625.91",
+      "5641.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-11\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n質問番号　地図番号　244　191\n項目名　いえ\nA　普通注記　（Aに丸）\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(6)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n\n5584.37.　ie.　普通のことば: ＞　この頃のえい方とえろ。\n5594.37.　wtʃi, ie.　まえは wtʃi: といい、いまは ie という\n5598.67.　うナ.　<音?>\n5609.26.　j e: j がつ?になる ときあり\n5625.91.　e:\n\n5641.98.　ie.　<ことばが---?>　上品なえい方　wtʃi;\n\n(手書き注記・発音表記等が多く、上記は判読できる範囲の概略転写です)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06111.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06111",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06111.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5647.27",
+      "5665.87",
+      "5672.67",
+      "5677.28",
+      "5682.34"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-12\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n質問番号 244　地図番号 191\n項目名 112\n普通注記 (A)\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (2)\n\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書きの注記（A列など）：\nイエ.　＜新＞\nウチ　＜左＞\nウチ　＜多？＞\nie.　＜共？＞\nウチ.　＜昔から＞\nイエ.　＜今のことば？＞\n\n（但し、アスコノウチワというが　アスコノイエワとは云わない）\n\nその他の走り書き：utsj　＜術？＞　(ora e no/foi)　e:　e:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06112.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06112",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06112.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5684.11",
+      "5688.01",
+      "5695.10",
+      "5782.18",
+      "5783.2"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-13\n質問番号 地図番号 244 191\nA 普通注記  ページ (8.)\n項目名 いえ\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞〈〉（）［］は厳密にする。\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n5684.11   ie.   おら家の家などといっている (会話の中でも多く使っている)\n5688.01   utʃ:   <どちらも使う?> ミケンナラセノハウケカアル\n5695.10   エエ   <古?>\n5782.18   e:   そは狭い e.\n5783.20   wtじ?   <古い?> ie\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06113.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06113",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06113.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6406.77",
+      "6415.83",
+      "6417.92",
+      "6417.85",
+      "6418.69",
+      "6420.58",
+      "6441.18",
+      "6445.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-14\n質問番号 地図番号\n244 191\n項目名 いえ\nA 普通注記 ページ (9)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n6406.77   ie.  <家を立てたい時 イウチヲ タテタイとはえう。>\n6415.83   ie.  (うちとはえわないとのこと)\n6417.92   ie.  (ウチとはえわない。)\n6417.85   ie.  ウチは自分の家を指すときにのみ言う。\n6418.69   イエ.  <上?>\n6420.58   I.  <な?>\n6441.18   イエ.  eに近い。\n6445.11   イエ.  <イエは建物であり、ウチは…>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06114.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06114",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06114.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6465.07",
+      "6482.5",
+      "6510.65",
+      "6516.85",
+      "6520.79",
+      "6532.30"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-15\n質問番号　地図番号\n244　181\n項目名　いえ\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ　(10.)\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\nせ帯をます　>\n<菅>.\nie.\n<utsi; to ju: nowa\njibun no ie ni\nkagiru >\nkagiruw >\n<やつる>\n(目合の家)\n<嫁>.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06115.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06115",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06115.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6542.58",
+      "6552.90",
+      "6553.52",
+      "6575.40",
+      "6584.90",
+      "6585.83"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 61-16\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< （ ） [ ] は厳密にする。\n\n質問番号　地図番号　244　191\n項目名　いえ\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(11.)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6542.58　ウチ，（お）　ウチは昔で、今ではほとんど＝イエ。用いない。\n6552.90　i.e.　＜ウチというは自分の家のこと。＞\n6553.52　i.e.　＜ウチというと、自分の家のような感しを与える、と答えた。＞\n6575.40　[utʃ;]　[utʃ:]\n6584.90　e:\n6585.83　utʃ;　＜自分はutʃ;をつかうか。このあたりではieをつかう人の方が多い＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06116.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06116",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06116.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6600.97",
+      "6604.98",
+      "6606.89",
+      "6617.99",
+      "6621.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-17\n質問番号　地図番号　244　181　項目名\nA 普通注記　ページ\n[B　除いた共通語]　[C　除いた特殊語] (12)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6600.97　ie　<上>　utj;\n6604.98　イイ.　<くし:と発音する。>\n6606.89　utj:　<物置 小屋なら [koe:] とえう。>　(koe: は愛甲、深久井両郡に分布。)\n6617.99　utj:　(屋根の種類とか行く住宅とか具体的なことを想起して…)\n6621.57　utj:　自分のところをさすときは utj; je:\n（ページ下部に続く手書きの注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06117.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06117",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06117.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6633.27",
+      "6641.82",
+      "7268.96",
+      "7320.95",
+      "7322.21",
+      "7343.76",
+      "7356.70"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　61-18\n質問番号　地図番号\n244　191\n項目名　いえ\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ(13)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6633.27　ije　新上。　wtʃ;\n6641.82　ie.　〈特に接しているとき、…〉　何某の wtʃ;、自分の wtʃ;、あの wtʃ; という。 \n7268.96　ie　(ije に近い発音)\n7320.95　ie.　wtsi とは自家のみにし…\n7322.21　wtʃ;　attʃ; といえばあの家、あの家族\n7343.76　ie.　(ga naro: zoru)\n7356.70　ie.　(人が居る家は orija という)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06118.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06118",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06118.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "7361.17",
+      "7364.34",
+      "7373.82",
+      "7376.68",
+      "7386.16",
+      "7400.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-19\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく <> ( ) [ ] は厳密にする。\n\n質問番号　地図番号　244　191\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (14)\n項目名　いえ\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\ni e は人が住んでいる家でいなくても\n(学校・役場のようなところでも)\ni.j. >\n<舎> <新>\nエ.\n(優勢)\nエ、エ、イエ.\ni e (i e と i j の中間のようなえい方)\nutj; <我が墓を指す場合> i.e.\n<utj: e i j と wagaya をさす>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06119.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06119",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06119.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7401.60",
+      "7411.61",
+      "7521.79",
+      "7533.11",
+      "7659.51",
+      "8302.19",
+      "8303.84",
+      "2076.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-20\n質問番号　地図番号　244　191\n項目名　いえ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (15)\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7401.60.　ie　<上> <立派な家の場合>　wtf;\n7411.61.　ie.　<自分の家について>　wtf; (e u) >\n7521.79　エエ　<古>\n7533.11.　エエ　<若>\n7659.51.　情 je\n8302.19.　je.　<優勢>\n8303.84.　e.　例. eno saygen aru. je\n2076.97.　ja:　<軒は Kiburi to iu>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06120.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06120",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06120.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-21\n質問番号　地図番号\n244　181\n項目名\nいえ\nA　普通注記\n(B　除いた共通語)\n[C　除いた特殊語]\nページ　(16,)\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の<　>(　)(　)[　]は厳密にする。\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\npitukiburi - 軒\nqutakiburi = 軒",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06121.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06121",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06121.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "3688.82",
+      "7362.42",
+      "7450.44"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-22\n質問番号　地図番号　244　191\n項目名　ひえ\nA　普通注記　ページ　( / )\nB　除いた共通語\nC　除いた特殊語\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nimaya　<古>　　　wtsu\n(不明手書き)　　　ie.\norija.　(住宅)　　　je.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06122.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M191Q244/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06122",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06122.tif",
+    "source_ljc_id": "LJC-M191Q244",
+    "source_map_numbers": [
+      "191"
+    ],
+    "source_title": "いえ (家屋)"
+  }
+]

@@ -1,0 +1,531 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "2619.28",
+      "2732.39",
+      "2734.05",
+      "3705.82",
+      "3722.32",
+      "3726.21",
+      "3760.93",
+      "3780.65",
+      "4629.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >()[]は厳密にする。 日本言語地図資料用紙 注記一覧 35-74 質問番号 地図番号 131 項目名 垢 074 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ ( / ) 地点番号欄の各行の注記など： コンビ　特に足のもの　アガ アガ　足などについたものは「つご」という。 コンビ（特に足などについた垢をコンビという）　アガ aga <註> kobi（昔） kôbi は幼い時にいた。 aga こび＜ひどい垢＞　アガ koge＜古＞　aka koge　昔は kogera aga＜上＞ p4650",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03574.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03574",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03574.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4698.15",
+      "4711.41",
+      "4721.36",
+      "4731.42",
+      "4731.85",
+      "4735.37",
+      "4760.64",
+      "5339.74",
+      "5611.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-75\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく < > ( ) [ ] は厳密にする。\n（左上欄）質問番号　地図番号　1 / 31　項目名　坂　074\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n4698.15    aka    (Voiced (ない))\n4711.41    [aga]\n4721.36    [aga]\n4731.42    [aga]\n4731.85    [aga]\n4735.37    koge ----（あかのたまってつくるをコチタルという）\n            aga ＜新・夭＞\n4760.64    [aga]\n5339.74    koke ＜希＞（特殊なときに使うという。）　aka\n5611.74    アカノヨリビソ（こすったために寄りあつまったアカ　あかのたまりであろう）\n\n（左余白手書き）4698 15",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03575.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03575",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03575.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5622.48",
+      "5624.85",
+      "5648.96",
+      "5672.52",
+      "5677.28",
+      "5680.34",
+      "5681.41",
+      "5686.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-76\n質問番号 地図番号 131\n項目名 堀 074\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(3)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[]）は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n5622.48    aga 普通の言葉\n           aseabura <上> 上品な言という。\n5624.85    koke <古>\n5648.96    アカ (アカとはいいませんか) という問いに対して <アカともいう>と答えている。\n5672.52    kobi <若..人は使わない>\n5677.28    アカ <グシォキモネエ アカがデルナという例>\n5680.34    aka [ko'ke] I.コゲ II.コゲ\n5681.41    aga 母音間の[k]は有声化する。\n5686.67    アカ 祓などにつく あか エリアカ\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03576.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03576",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03576.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5792.18",
+      "6357.38",
+      "6357.74",
+      "6375.65",
+      "6384.25",
+      "6387.62",
+      "6389.59",
+      "6389.98",
+      "6396.62",
+      "6418.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 35-77 質問番号 地図番号 131 項目名 坑 074 普通注記 [B 除いた共通語] [C 除いた特殊語] (4) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5792.18 kasu <多> a'ka 6357.38 コケ <古> アカ 6357.74 コケツ <古> コケ、アカツ 6375.65 アカ <多く使う> コケ 6384.25 aka <多> koke 6387.62 koke ---- <この方を多く使う> aka 6389.59 コケ 希 アカ 6389.98 コケ 古希 アカ 6396.62 コケツ <下> アカ・コケ 6418.75 アカ <普通の程度>, コケ <希> 身体が黒く見える位に多くついている時はコケだが使ったことはない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03577.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03577",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03577.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6428.76",
+      "6464.23",
+      "6480.29",
+      "6480.41",
+      "6480.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-78\n質問番号　地図番号　1/31\n項目名　垣　074\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語] (5)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6428.76　モクク〈最も汚れたとき〉\n　　　　ヨリヨリ〈次に汚れた程度〉\n　　　　アカ\n6464.23　コケツ〈鼻〉\n　　　　アカ．２ケ\n6480.29　コケ　希→〈くるびつ…ていればコケというアカ\n　　　　今はこごりツイイレホドアカ\n　　　　をつけたものがないので目\n　　　　然にすたれたと思う〉\n6480.41　コケ　希　アカ\n6480.71　コケ〈ころ…ものが落ちるのをコケがヨレル\n　　　　ルと言う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03578.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03578",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03578.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6481.15",
+      "6482.23",
+      "6492.11",
+      "6520.94",
+      "6535.73",
+      "6559.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記のく ><()[]は厳密にする。\n日本言語地図資料用紙 注記一覧 35-79\n質問番号　地図番号　131\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n項目名　垣 074\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6481.15　(右) アカ　　　コケ\n6482.23　コテ 古　　　アカ\n6492.11　koke <2> (kokei ha odoke-ta toki ni …) と説明していた。　　　aka\n6520.94　コケ <3> <カラダ アラワント コケガハエルゾ。>　　　アカ\n6535.73　yori aka　<におしてできるもの>　　　aka\n6559.67　aka <あかで蛇の皮のようにぎらぎらになった場合は kose' no jo?; pi naru という。しかしそのあか自体の名前はな... >",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03579.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03579",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03579.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6564.33",
+      "6585.25",
+      "6593.98",
+      "6657.96",
+      "6697.49",
+      "6697.59",
+      "6701.46",
+      "7239.24"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく >< ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 35-80\n質問番号　地図番号　1.31\tA 普通注記\t(B 除いた共通語)\t(C 除いた特殊語)\tページ (7)\n項目名　垣 074\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6564.33　aka (直接関係が無いが、「アカガトレタ」の「トレタ」を「ヨレタ」というとの説明あり。)\n6585.25　つび {多い場合にこびと言い、少..湯? アカ} 全にアカと言う\n6593.98　jorijaka (「ジョリカ」は「寄り垣」の意か)\n6657.96　kabi <苔> \t右欄: ko'ke\n6697.49\tkoke <…> \t右欄: aka\n6697.59\taka <て・ねいな言い方> \t右欄: koke\n6701.46\taka (k は有声?)\n7239.24\t[ko'ke]\tjo'rejore",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03580.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03580",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03580.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "7239.41",
+      "7303.29",
+      "7303.61",
+      "7311.68",
+      "7312.11",
+      "7312.69",
+      "7313.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 35-81\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< 〔 〕は厳密にする。\n（右上欄）項目名 垣 074\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7239.41   koke くびりつ..た様なひと..あかについて  aka\nはコケという\n7303.29   koke (土)  こちがイッペイデトル  aka (稀)\n7303.61   koke <下品に感じる>  aka <普通>\n7311.68   koke (ｻ・稀)  koke no 〇〇\n7312.11   <aka (稀)>   koke\n7312.69   koke がつづと 一の様な時\n7313.68   koke (多)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03581.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03581",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03581.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "7316.93",
+      "7320.59",
+      "7321.93",
+      "7322.81",
+      "7323.02",
+      "7325.84"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）［　］は厳密にする。\n\n日本言語地図資料用紙注記一覧    35-82\n資料番号　地図番号　/ 131\n項目名　垣　074\nページ (9)\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n7316.93  bero'  ---〈人さい〉　　　　　　　　　　　　　　koke'\n7320.59  aka (コケとは言わぬと言う。これは個人差ではないか、コケという人がある等である)\n         (糸島地方ではこの語形が稀になっていることが観察される)\n7321.93  アカ〈(小竹の様言)〉(稀)コケのオチラの様に言うことはある。聞いたことある。\n7322.81  koke (多)　　　　　　　　　　　　　　　　　aka\n7323.02  koke (昔)\n7325.84  bero' <下>(beroはkoke大きなものをいうらしい) koke'",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03582.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03582",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03582.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7326.41",
+      "7326.69",
+      "7329.57",
+      "7330.31",
+      "7331.27"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 35-83\n質問番号　地図番号　1 31\n項目名　垣 074\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] (10)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7326.41　bero　<コケのことをべーといいます>\n<0775のところでの補充説明として: -\nberoはこすってはじめて出てくるもの、\nkokeは見ただけでもついていることがわかる（はたににはっきりしているもの）>\n\n7326.69　bero' ..... <大きいコケを言う>　koke'\n\n7329.57　koke. 古. ぐhid oi koke tsuketo duka\nru na:'といったらした。>\n\n7330.31　koke <下>　アカ\n\n7331.27　Aka (エド) <年老い、アザの出来たのをつけ>\n/ ハエテナッチャー ナガイキンジャローの様な時に言わぬこともない...",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03583.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03583",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03583.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "7332.97",
+      "7333.51",
+      "7335.34",
+      "7342.12",
+      "7342.76",
+      "7343.16"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（[]）は厳密にする。\n日本言語地図資料用紙 注記一覧 35-84\n質問番号　地図番号　/131\n項目名　垣 074\n（A 普通注記）（B 除いた共通語）（C 除いた特殊語）\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7332.97　aka（多）、koke（少）\n7333.51　jogore＜昔・多＞\n7335.34　bero＜下＞＜大きなコケという。＞\n　　　　ira＜希＞＜イラがオキョルというように（成句的に使う。）＞\n7342.12　aka（コケ??）\n7342.76　aka＜aka no tsukae to:ki: goro goro suru＞の様に言う。\n　　　　（コケとは別に言わぬと答う）\n7343.16　jogore……＜姫＞、koke……＜小さのひと…＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03584.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03584",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03584.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "7351.09",
+      "7352.61",
+      "7353.19",
+      "7354.23",
+      "7355.81",
+      "7361.17",
+      "7365.25",
+      "7367.25"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧　35-85\n質問番号　地図番号　131\n項目名　垢　074\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n7351.09　aka　＜コケと言わぬ。AKA no koge　joruと言う＞\n7352.61　アカ　＜ヨゴレはひっついたまたたな…もののこと　でアカではない。＞\n7353.19　jogore ----（垢のこと。浄なる汚れではない）　koke\n7354.23　コケ　＜上品なことば＞　⇒コーレ\n7355.81　kokentan＜下＞　koke\n7361.17　コケ＜古＞　アカ\n7365.25　koketan＜下＞　koke\n7367.25　koke?＜右・下＞　aka'",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03585.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03585",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03585.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "7372.96",
+      "7380.74",
+      "7381.47",
+      "7386.63",
+      "7390.70",
+      "7391.44",
+      "7403.21"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 35-86\n質問番号　地図番号　/31\n項目名　垣 074\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語] （V3）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7372.96 つけ <身体のあか>\n　ヨゴレ <衣の襟・などのあか>\n7380.74 ヨゴレ〈希〉\n　アカ\n7381.47 つけ 例えばくつケン　タイトル、つけ アヤス（におう、おもす）\n7386.63 koke <くさ>\n　jogore\n7390.70 コケ（アカのはなはだしくついたものをコケということあり）\n　「ナゴオ」別語エ入シント　ツケ　生ユルゾン\n7391.44 ヨゴレ（コケとは言わない）\n7403.21 「あかまみれ」になっているのを <akamobure> に なつ/なる という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03586.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03586",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03586.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "7410.57",
+      "7431.67",
+      "7440.72",
+      "7441.63",
+      "7441.89",
+      "7450.20",
+      "7451.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙　注記一覧　35-87\n質問番号　地図番号　131\n項目名　垣　074\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　ページ（14）\n\n（表ヘッダ）地点番号　A　語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C　残した語形とその注］\n\nA欄（手書き）:\naka（一般には、ひどくついている垣を koke といっているものもある。）\nakagyo.....＜80代の人＞\naka（koke ga tsumi toru というのをきいたこともある。）\nkoke.....＜程度がひどい場合＞　aka\nkoke＜稀＞　aka\naka＜ぬるぬるした水あかはkoke＞\nkoke....＜落ちぬ糸の状態のとき＞（しかし sasuri....＜落ちる時＞）両者は\n\n（下手書きメモ）あまりはっきりした区別ではないのではないか",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03587.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03587",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03587.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7452.54",
+      "7460.39",
+      "7504.27",
+      "8300.80",
+      "8301.19",
+      "8301.76",
+      "8303.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 35-88\n質問番号　地図番号　131\n項目名　垢　074\n[A 普通注記]　[B 除いた共通語]　[C 除いた特殊語]　ページ (45)\n\nA 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n[ikoke]\nkoke（古）\naka [koke.....（新）]\n\nユケ →（コゴレの基だ（…ものをいう）\n文例　コケオトシ＝イコイ）\n\nユケ →（コケン（生））・・・ようにあかの基だし\n＜附着せる状態をいう場合に慣用語　中に用..る。）\n\nヨゴレ\n\nユケ〈希〉→（ヨゴレの基だ（…もの））　ヨゴレ\n\nユケ →〈病気上りの時など、特別にヨゴレの名〉　ヨゴレ\n\n時・ユケ／オキダという代の語のいい方をする",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03588.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03588",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03588.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "8303.70",
+      "8304.66",
+      "8306.42",
+      "8312.33",
+      "8315.46",
+      "8315.89",
+      "8335.11"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 35-89\n質問番号　地図番号　1/31\n項目名　垣　074\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(46)\n\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n8303.70　コケ（コケン　生ニュルゾのような鼻音的な性調　ヨゴレ　語として希に）\n8304.66　jogore　.....　＜近頃はそれを多く使う＞　koke\n8306.42　jogore　.....　（意味が広いと思う）　koke\n　　　　kokentAN　-----　＜一番よく使う＞\n8312.33　jogore　＜アカとは言わない＞\n8315.46　jogore　.....　（この方は店に限らず云々）\n　　　　koke　.....　（店そのものに限定される。）\n8315.89　kokentan　＜古＞　jogore\n8335.11　koke（0775のところで見い出した）　jogore",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03589.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03589",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03589.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "8335.48",
+      "8344.11",
+      "8361.31",
+      "8362.81",
+      "8352.29",
+      "8373.43",
+      "0275.36",
+      "0276.50",
+      "1169.84"
+    ],
+    "other_text": "▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 35-90\n質問番号　地図番号　1 / 31\n項目名　垣　074\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(47)\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\nkoke ..... ＜主に使う＞\njogore .....［意味がうい］\nkoke ＜希＞\nkat［椛］.... 'かび'から来ている。\njogore ＜アカとは教育のある人がいう＞\njogoe（r脱）\njogore ＜多＞\nA:（アカの訛り）\naki（はおしか..? 発音）\nAKA ＜多く用いる＞\n右欄例：kokent'an　／　aka　／　aga　／　aka　／　hingu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03590.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03590",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03590.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "232.75",
+      "242.22",
+      "270.26"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞（）（）は厳密にする。 日本言語地図資料用紙 注記一覧 35-91 質問番号 地図番号 131 項目名 垣 074 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (18) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 (B・C 残した語形とその注) 232.75 pinguく墨をつけたように黒くついたものに aha 主としていう。 242.22 pingu <<くろくついたものを言う>> aha: 270.26 ka:ji （最近は hingu というが余満のような感じはしない。） 2/40.49 phusu <多く用いる> naba 2/50.06 phusu <多く用いる> naba",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03591.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03591",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03591.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "4637.68",
+      "4726.80",
+      "5671.36",
+      "6378.87",
+      "6396.08",
+      "6697.39",
+      "6697.49",
+      "6697.59",
+      "6698.61",
+      "7313.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本音韻地図資料用紙 注記一覧 35-92\n資料番号　地図番号　/131\n項目名　坂　074\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ（/）\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C残した語形とその注］\n\n4637.68　aka（丈）\taga／aga\n4726.80　aka＜新＞\tkoke＜古＞\n5671.36　aka＜上＞\tkobi\n6378.87　コケ（昔の者が言っていたのをきいたことがある）\tアカ\n6396.08　aka＜外＞\tkoke\n6697.39　aka＜新＞\tkoke\n6697.49　koke＜古＞（取り消し）\taka\n6697.59　aka＜て・ね…な言い方＞\tkoke\n6698.61　aka＜新＞\tkoke\n7313.68　aka（し）\tkoke（ろ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03592.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03592",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03592.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7323.02",
+      "7339.27",
+      "7346.63",
+      "7363.85",
+      "7373.99",
+      "7374.15",
+      "7375.71",
+      "7393.62",
+      "7414.43",
+      "7430.75"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >()[] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 35-93\n\n質問番号　地図番号　/31/\n項目名　垣　074\nA　普通注記\nB　除いた共通語\nC　除いた特殊語　ページ（2）\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7323.02　aka（今）　koke（苔）\n7339.27　aka＜新＞　koke\n7346.63　aka'＜新・英＞　koke'\n7363.85　アカ＜上＞　ヨコレ（手書き）\n7373.99　アカ＜新＞　ヨコレ\n7374.15　アカ＜失＞＜希＞　ヨコレ\n7375.71　aka＜新＞　koke\n7393.62　アカ＜新＞　ヨコレ\n7414.43　aka＜共＞　sasuki\n7430.75　aka エ　koke",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03593.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03593",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03593.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "8301.19",
+      "8303.47",
+      "8342.51",
+      "8362.34"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の< > ( ) [ ] は厳密にする。　日本言語地図資料用紙 注記一覧 35-94　質問番号　地図番号　1.31　項目名　垢　074　A 普通注記　B 除いた共通語　C 除いた特殊語 (3)\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 [B・C 残した語形とその注]\n8301.19　アカ　→（英）　ヨゴレ、コケ、コケ→（タンパク）　エダのようにあかの著しく附着せる状態という場合に（運用途中に用いる。）\n8303.47　アカ（エ）　ヨゴレ、コケ→（病気よりの時など。特別にヨゴレの多い時 'ョ'ノ'オキダ'という成分的のいい方をする）\n8342.51　aka（赤）　jogore\n8362.34　aka…[英]　jogore",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03594.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M131Q074/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03594",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03594.tif",
+    "source_ljc_id": "LJC-M131Q074",
+    "source_map_numbers": [
+      "131"
+    ],
+    "source_title": "あか (垢)"
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　17-47\n\n質問番号　地図番号　236　77\n項目名　びっくりする\n\n（表ヘッダ）地点番号　A語形とその注記　A注のない語形\n\n0840. 33　bikkuri koku　〈古、言ったこともある。〉〈卑〉　bikkuri suru\n1770. 18　ビックリスル　〈多〉　タマケル\n2608. 90　dotten siru　〈うんと驚かせた時使う〉　bikkuri/siru\n2774. 59　ōdoroku　〈新？〉　donden siru\n3689. 38　tamageriu　とも　doden sūrū　とも\n4597. 72　obokeru　〈稀〉　bikkuri suru\n4618. 49　obokeru．〈検調査各自身は使わないが：kijmokeruという人もある〉\n4653. 84　oboeru　〈これが最も普通の言い方〉　tamageru．odoroku　bikkuri suru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01747.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01747",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01747.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4689.10",
+      "4703.88",
+      "4710.18",
+      "4711.42",
+      "4714.22",
+      "4714.68",
+      "4725.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は略筆にする。 日本音語地図資料用紙 注記一覧 17-48 資料番号 236 地図番号 77 項目名 びっくりする A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2) 地点番号 A 語形とその注記（B・C除いた語形とその注） A 注のない語形（B・C 残した語形とその注） 4689.10 tammayeru 〈普通これを使う〉 4703.88 do:ten susum （稀） tamagelru 4710.18 dodesuruu 〈強度の時〉 bikkurasūru, bikkurisurum 4711.42 tamayeru 〈予想以上のものに会った時。例:大きい魚を釣ったとき〉 dodesiru. 4714.22 bikkurisurum 〈声をかけられてから、本人が「アッ」など〉 tamayelru ビックリッタというところが多い。それ以外はあまり使わないのではないか。 4714.68 bikkuri surru 〈古〉 tamagelru. 4725.68 do:ten suiru 〈希〉 bikkuri suiru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01748.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01748",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01748.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-49\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n236　77\n項目名　びっくりする\nA 普通注記　　[B 除いた共通語]　[C 除いた特殊語]　(3)\n\n地点番号　A 語形とその注記　A 注のない語形\n4731. 15. sikurasuru 〈多〉\t\t　tamageru\n4732. 86. bikkurisuru 〈この方が驚きの度合が強くて大げさか？〉\tdo:den suru\n4733. 91. bikkuri suru 〈意外な偶然などに〉\tdo:tensuru 〈びっくりしたとき一般に〉\n4742. 95. dodensuru 〈人の死を聞いたりする場合にも使う〉\n4752. 11. bikkuri sotu ru 〈突然、ちょっとしたことで〉\ttamageru 〈大きいことについて〉\n4771. 98. bikkurijiru 〈これも使う〉\tdo:denjiru\n5548. 24. bikkurijiru 〈新〉\tsobureru\n5584. 22. obieru, bikkurisuru　同等につかう",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01749.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01749",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01749.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-50\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n質問番号　236　地図番号　77　項目名　びっくりする\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（×）\n表ヘッダ：地点番号　A 語形とその注記　A 注のない語形\nオビヤカス　〈受動はオビエタ〉\nオビレル　〈共〉\nobieru. bikkuri suru　2形同等に使う。\nビックリシル　〈他〉　　　ビックリセル\nbikkuri/siru　〈昔から少しは使った。〉（改まった言い方でもない様である。）　namageru\nオドロク、ビックリスル　〈同程度に使う〉\nタマゲル　〈多く用いる〉　　　ビックリスル\nタマゲル、オドロク　〈同じように使う〉\nodokeru（古） bikkurisuru（古） odoroku（新）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01750.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01750",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01750.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5655.41",
+      "5659.78",
+      "5668.38",
+      "5671.94",
+      "5676.84",
+      "5677.60",
+      "5678.33",
+      "5687.60",
+      "5688.37"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n\n日本言語地図資料用紙　注記一覧　17-51\n資料番号 236　地図番号 77\n項目名 びっくりする\nA 普通語彙\n[B　除いた共通語]\n[C　除いた特殊語] (5)\n\n地点番号　A　語形とその注記　A注のない語形\n5655.41　タマゲル　〈多〉　ビックリスル\n5659.78　タマゲル　〈ほんとに驚いた時に言う〉　ビックリスル\n5668.38　オドロク、タマゲル　〈同程度に使う〉\n5671.94　odoroku　〈共〉　odokeru\n5676.84　ネ、タマゲラカス〈他動詞〉タマゲル〈自動詞〉\n5677.60　タマゲル　〈普通〉　オドロク、ネドロク、ビックリスル\n5678.33　タマゲル　〈普〉\n5687.60　タマゲル　〈声を出してびっくりする〉\nビックリスル　〈普通〉〈意味はたまげるを含む〉\n5688.37　タマケル。オドロク。ビックリスル。ビックリシタ以上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01751.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01751",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01751.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5688.86",
+      "5710.84",
+      "5750.84",
+      "5793.63",
+      "6338.99",
+      "6339.44",
+      "6349.09"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-52\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n（右上のボックス）\n資料番号　236　　地図番号　77\n項目名　びっくりする\nA 普通語形記　(B 除いた共通語)　(C 除いた特殊語)　ページ（6）\n\nは前進しなかったので、止むを得ず、質問によってビックリスルを得た。普通はタマゲル・オドロクを使うとのこと。\n\n5688.86　ビックリスル　〈多〉　オドロク\n5710.84　オドロク　〈普通の言い方〉　ビックリスル\n5750.84　タマゲル、ビックリスル、同じ程度に使う\n5793.63　tamageru　〈多〉　bikkurisurum\n6338.99　タマゲタ　〈古〉\n6339.44　タマゲタ　〈古〉　ビックリシタ\n6349.09　tamageru　〈多〉　bikkurisurum",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01752.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01752",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01752.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6405.95",
+      "6417.72",
+      "6417.85",
+      "6419.69",
+      "6427.27",
+      "6427.40",
+      "6435.68",
+      "6472.05",
+      "6505.58"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注意の＜＞（　）は厳密にする。 日本言語地図資料用紙　注記一覧 17-53 質問番号　236　地図番号　77 項目名　びっくりする A　常通注記 [B　除いた共通語] [C　除いた特殊語] （7） 地点番号　A語形とその注記　A注のない語形 bikkuri suru（オビエルとは言わないとのこと。） bikkurisuru（多）　obieru sobokasu（これは人を驚ろかす意のようである）　bikkuri suru オビエル　〈古・希〉　ビックリスル obieru　［99］　sobokeru obieru.（オビエルとは言わないかという質問に対して）　bikkuri suru オビエルとも言うとのこと。同じ位に用いる。（←下の差あり） オビエル。（昔）　ビックリスル obokeru　〈古〉　bikkurisuruu ビックリシル〈昔〉　ビックリセル（現）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01753.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01753",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01753.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6537.58",
+      "6547.09",
+      "6557.14",
+      "6567.86",
+      "6617.99",
+      "6621.94",
+      "6634.33",
+      "6635.44",
+      "6641.39",
+      "6642.85"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は原簿にする。\n\n日本言語地図資料用紙 注記一覧    17-54\n\n管理番号　地図番号\n236    77\n項目名　びっくりする\n\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ　(8)\n\n（表見出し）\n地点番号　A 語形とその注記　A 注のない語形\n\nbikkura seru〈子・古〉〈今はあまり子供も使わないようだ〉　bikkuri seru\nodokeru〈古〉〈今はあまり使わない〉　bikkuriseru\nodjiketa〈去〉（過去形の次元であったが現在形もあると考える）　bikkuri shita\nbikkuri suru（dokiha uttaというようである）　bikkuri siru\nbikkurissuru〈特に強くおどろくことは[たまげる?]〉\nwtamageru（ひどくおどろいたとき）　tamageru\nbi'kuri simu　上　bi'kura/jimu\noziru　希　bikurisimuru\nbi'kuri seru　新　odokeru\nodokeru〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01754.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01754",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01754.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6643.15",
+      "6667.81",
+      "7218.26",
+      "7325.84",
+      "7375.37",
+      "7377.72",
+      "7412.71",
+      "7415.47",
+      "7452.54",
+      "8239.31"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は略称にする。 日本言語地図資料用紙　注記一覧　17-55 質問番号　地図番号　236　77 項目名　びっくりする A　普通語 (B　除いた共通語) (C　除いた特殊語) ページ (9) 地点番号　A 語形とその注記　A 注のない語形 bi'kura/siru. bikkuri/siru　同語度に候 wotokeru　<古> tagwaru　<魂消るの意> ke:tamagaru　<ひどくおどろく> tamagaru　<[gittamagaru]とも言う. 少し強> tamagaru　<驚きの大きい場合> tamageru　(tamgetaという形で多く言われている。) okureru　<多> (例: ネコにハビタシテチキオクル タカネー などと使う) bik:kuri suru bikkurisuru　<多> tamageru tamagaru　(あらたまった場合) tamaaru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01755.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01755",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01755.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の〈〉()[]は厳密にする。\n日本言語地図資料用紙　注記一覧\n17-56\n調査番号 236　地図番号 77\n項目名 びっくりする\nA 普通訓記　(B 除いた共通語)　(C 除いた特殊語)　ページ (10)\n（表ヘッダ）地点番号　A語形とその注記　（B・C 除いた語形とその注注）　A注のない語形\nbikkui sut　〈タ〉\nbikkui sut. tamagat（便いれば言いにくい）\ntamagat〈夕〉, bikkuisu:（案な言い方）　bikkui sut.\nbikkui suru. tamagaru　〈区別不明〉\nbikkui tamagat（ビックリスルとタマガルとの混濁形）\ntamagaru アヤシ, tamagatta と答えた。\nurukun（udurukunの略なるべし）\nobejum（オビエルという語か）　obêtikijum\nobetikiti（助詞のついに切ってあるが, 国語のオビエルという語と同じものと思う。終止形は得られなかった）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01756.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01756",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01756.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本語地図資料用紙 注記一覧 17-57\n\n（右上の箱）\n236.   77\nびっくりする\n（B 除いた共通語）\n（C 除いた特殊語） (11)\n\n表ヘッダ:\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き項目:\n1232. 75  udurukun (非常におどろくことは tamaji nugi: Nとも言う)\n2074. 69  <udorjan はおどろいた> (終止形は求めかねた)\n2085. 69  bairuy <多く用いる>    udurakuy",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01757.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01757",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01757.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 17-58\n資料番号 236 地図番号 77\n項目名 びっくりする\nA 普通注記  B 除いた共通語  C 除いた特殊語 ( / )\n\n地点番号\n4686. 96 bikkuri suru (希)(昔から使うけれども稀にしか用いない) tamageru\n4689. 10 bikkuri sūru (使うこともある) tamnageru (普通これを使う)\n4724. 00 bikkurisuuru (共) do:tensuru\n4750. 76 bikkuri sūru <上> tamageru\n5517. 57 bikkuri suru <共> ikisoru\n5613. 80 bikkuri suru <新> tamageru\n5631. 16 bikkuri suru <上.希> odokeru\n5631. 75 bikkuri suru <共> odokeru\n5641. 94 bikkuri suru <共> odokeru\n5651. 45 bikkurisuru <共> odokeru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01758.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01758",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01758.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 17-59 登録番号 236 地図番号 77 項目名 びっくりする A 普通注記 B 除いた共通語 C 除いた特殊語 (2) 地点番号 5661. 68 bikkuri suru (共) odokeru 5672. 67 bikkuri suru (共) odokeru 5792. 62 bikkurisūru (新) tamayeru 6415. 78 bikkurisuru この方がオバレより分かりやすいと思う oberu 6505. 58 ビックリスル (共) ビックリシル (昔) ビックリセル (現) 6509. 91 ビックリ スル (共) ビックリ セル 6541. 52 オドロイタ (新) ビックリシタ 6601. 25 bikkurisuru (共) odoketa 6620. 53 bikkurisuru (共) odokeru 6621. 57 bikkuri suru 新 tamageru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01759.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01759",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01759.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語形は地点番号順に並べる。\n注記の〈〉（ ）は厳密にする。\n日本言語地図資料用紙　注記一覧　17-60\n質問番号　地図番号\n236　77\n項目名　びっくりする\nA　普通注記\nB　除いた共通語\nC　除いた特殊語　(3)\n地点番号\n6631. 53.  bi'kurisuru　（新）　tamageru\n6641. 43.  bi'kuri suru　（希）　odokeru\n6642. 85  bikkuri suru　（新）　odokeru（古）\n7350. 96  bikku s u?　（新）　bittji: su?\n7352. 14. bikkuri suru　（新）　tamagaru, hittamagaru\n7361. 17  ビックリスル　（新）　タマガル\n7420. 18  bikuri suru　（上）　tamage-ta\n7421. 38  bikuri suru　（新）　tamageru\n8303. 13. bikkuri suru　（新）　tamagaru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01760.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01760",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01760.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙　注記一覧　17-61\n質問番号　地図番号\n236　77\n項目名　びっくりする\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n（右上欄）A　普通注記　[B　除いた共通語]　(C　除いた特殊語)　(1)\n地点番号\n4711. 42.  dode kappa siru. （驚いてあわてて逃げる場合）    dodesiru. tamageru. （予想以上のものに出会った時 例 大きい魚を釣ったとき）\n5463. 64.  バラマー　しらんぞ〈女〉 （女性がおどろいた・びっくりした時に出す言葉）    オビヤカス〈受動はオビコタ〉\n5587. 74.  オドロク    オビレル〈実〉\n6338. 99.  オドロイタ〈新〉　タマカス〈人をおどろかすこと〉　タマゲタ〈古〉\n6339. 37.  タマガシテヤロウ　タマガカス\n6358. 87.  タマガアタ（人をタマがアタである）　タマゲッタ\n6641. 82.  odokasareta （両方同じくらいに使う）　bikuri suru\n7377. 72.  bikuttosuru （驚きの小さい場合）　tamagaru （驚きの大きい場合）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01761.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M077Q236/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01761",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01761.tif",
+    "source_ljc_id": "LJC-M077Q236",
+    "source_map_numbers": [
+      "077"
+    ],
+    "source_title": "びっくりする (驚く)"
+  }
+]

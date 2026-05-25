@@ -1,0 +1,1561 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.12",
+      "0896.22",
+      "0990.97",
+      "1893.10",
+      "2608.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-40\n\n質問番号　地図番号\n185　190\n項目名　かかし\nA　普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ ( / )\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（［］）は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き記入（読み取り）:\n0724.12  Karasuwboi   <雁を追っても>  ← —— 絵 Kakaji\n0896.22  カカシ   最近まで、ほとんど一対策を\n[カカシ]\n0990.97  odosi/odosji   絵 Kakasi\n1893.10  kakaji/kakasi\n2608.90  ? カカシ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06040.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06040",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06040.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3746.09",
+      "3750.75",
+      "3760.58",
+      "3765.28",
+      "3770.62",
+      "4589.83",
+      "4648.42"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 60-41\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n\n質問番号　地図番号\n項目名　かかし　185\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (2)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nhatokakasi; このあたりでは鳩の被害が最も大きい。\nkagasi (a. 多分鼻音化あること)\nkagasi かすかに kâgasi の如くも聞える。\nhatokakasi <足をまいたときに立てる>\nkagasi 多分鼻音化の気がする。\nkagasi <新> odosi;\nkagasi <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06041.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06041",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06041.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4659.50",
+      "4666.42",
+      "4676.38",
+      "4686.52",
+      "4687.01",
+      "4705.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-42\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n質問番号　地図番号　190\n項目名　かかし　185\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(3)\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A 注のない語形　[B・C　残した語形とその注]\n\nkakasi　〈古〉　かかし　カガシ　かは最終音に…　山形以外の地方はカカシてある。\nkagasi　〈新〉　（はく別の言い方があった様）\nkayasi　184はtoijoke／Kayasi\nkagasi　〈昔から今まで多く作った〉\nkagasi　〈赤〉\nkagasi　〈芥〉\nkayasi　〈共〉\nカガス　〈人形のもの〉\n（下段手書き注記）トリョケン、ススメケースケー\n\n（注：手書き文字は判読困難な箇所あり。上は読み取れる範囲の粗い転写。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06042.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06042",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06042.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4711.42",
+      "4731.15",
+      "4732.86",
+      "4733.91",
+      "4742.37",
+      "4743.61",
+      "4752.11"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-43\n質問番号　地図番号　190\nA　普通注記　ページ（4）\n項目名　かかし　185\n[B　除いた共通語]　[C　除いた特殊語]\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n表見出し：地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\nkakasi　(人間の形をしていないものに　ついては N.R. (普はない) とのこと)\nkakasi　このときスペースメホーイはいわない\nkakasi　<この辺には姿と同じものはないが、大根饅頭などにこんな>\nkakasi　(音韻としては kakasi である)\nkakasi　(184と同じ)\nkakasi　人間の形をした方\nkakasi　<これは人形の方>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06043.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06043",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06043.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4771.92",
+      "4780.64",
+      "5462.29",
+      "5463.64",
+      "5517.28",
+      "5517.90"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 60-44\n質問番号　地図番号　190\n項目名\nかかし 185\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (5)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4771.92　kagaji　<totorijoge の中に入る>\n4780.64　kakatji　( tji: は j: のつもりでつづっている )\n5462.29　ニンギョオ　<古>　カカシ\n5463.64　カラシ　( かっしも からし )\n5517.28　オトカシ　<古>　オトレ\n5517.90　kagayj?　<新>　odsji?",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06044.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06044",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06044.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5528.31",
+      "5548.58",
+      "5549.09",
+      "5557.85",
+      "5558.09",
+      "5565.12",
+      "5568.57",
+      "5569.02",
+      "5574.42",
+      "5575.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-45\n質問番号　地図番号 (190)　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n項目名　かかし　185\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5528.31  kaya ji;  <新>?    odoʃi;\n5548.58  odosi;  <古>?       kayaji;\n5549.09  toruboi (島追い)    kayaji;\n5557.85  odosi;  <希>?       kaya ji;\n5558.09  kayaji;  <新>       odoʃi;\n5565.12  [オドシ]             カガン\n5568.57  カガン  <新>         ソメ\n5569.02  カガレ  <黄>         ソメ\n5574.42  kayaji; <昔>         odosi;\n5575.55  kayaji; <ころころ(変)> karasumodosi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06045.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06045",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06045.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5578.27",
+      "5579.10",
+      "5579.42",
+      "5579.79",
+      "5584.57",
+      "5585.09",
+      "5588.81",
+      "5595.05",
+      "5597.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-46\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記\n[B　除いた共通語]\n[C'　除いた特殊語]\n(7)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（一覧、手書き）\nカガシ　<共>\nカガシ　<他, 変?>\nsome.　<昔?>\nkayaji　<今?>\nカガシ　<共?>\nカガシ　<共?>\nkayaji　<上>\nkayaji　<新>---<別のこと>\n[some]\nsome.\nソメ　<昔>\ndekombo, odosi\nodoji\nkayaji\nかがし\n（その他手書き注記、英字ローマ字入りの注など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06046.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06046",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06046.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5519.41",
+      "5603.88",
+      "5606.83",
+      "5612.22",
+      "5615.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-47\n質問番号　地図番号　190\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (8)\n項目名　かかし　185\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n地点番号　5519.41　A語形とその注記: ソメ　<ソメは特にからす防ぎをする。>　かかし\n5603.88　kagaj;　くあまり作らない、鳥はいないし　えんと害を(ない、少しくらいなら　くれてやる)\n5606.83　kagaʃi;　(kaga... )　被損調査よりもっと今老い者かー　えうのを被損調査はきいた\n5612.22　kagaʃi;　生活圏にはない\n5615.78　kagaʃi;　(方は kakaji という)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06047.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06047",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06047.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5623.27",
+      "5624.85",
+      "5644.24",
+      "5652.06",
+      "5666.10",
+      "5679.86",
+      "5682.34",
+      "5686.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-48\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　190\n項目名　かかし　185\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(9)\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nkakaji:　<とりよけてない>\n〔とりよけの一種〕\nkagaji:　(悪いとりはない)\nkakaji:　<ここにない>\nkakaji:　(184と区別しない)\nカカシ　<な>\nkakaji:　(濁) kagaji\nkakaji:　<風でゆれるものや音を立てるものは...>\nkakaji:　(カカシのクローネ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06048.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06048",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06048.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5688.37",
+      "5689.43",
+      "5690.12",
+      "5690.96",
+      "5692.53",
+      "5693.78",
+      "5699.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-49\n質問番号 地図番号 190\n項目名 かかし 185\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (10)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞(　)［　］は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n5688.37   カカシ    184と区別なし\n5689.43   Kakaji;  (総称も Kakaji;)\n5690.12   some.   <若い人は kaka(i)>\n5690.96   some   <some は sudzume- kaka(i)>\n5692.53   some.\n5693.78   かかし   <184と185とを区別しない>\n5699.53   kakaaji;  <このように a を入れることも kaka; j>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06049.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06049",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06049.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5699.25",
+      "5699.42",
+      "5771.36",
+      "5791.23",
+      "5792.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-50\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語　(11)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）〔　〕は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nkakaji;　こともある。　きらきら光るひもも\nkakaji;　（装飾と人間の形を　（ひものは同じ塔形）\nkakaji;　こんぶの昔からの本来の　kakaji; である。\nkagaji;　きらきら光るものをひもに\nkakaji;　＜今はない＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06050.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06050",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06050.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5793.20",
+      "5793.74",
+      "6339.35",
+      "6339.86",
+      "6348.09",
+      "6349.67",
+      "6366.16",
+      "6369.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-51\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (12)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nkakase　こはごくわずかに狭い、ほとんど\neと等しい\n\nkarase　<多?>　　karasi:　オドン\n\nkakan　<新>\nオトン　<古>\n\nodosj:　<友, 少>\nkagaji:　<刺, 名>\n\nkagaji:　<新, 名>\n\n（以下、手書きの語形・注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06051.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06051",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06051.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6383.77",
+      "6387.62",
+      "6388.69",
+      "6394.09",
+      "6395.61",
+      "6396.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-52\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (13)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）［　］は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n行項目（手書き）:\nodoji;　<昔>\nkagaji;　<今?>\nkagaji;　<新>\nkagaji;　<新>\nトリオドン　<人間の形をしたものは　主として鳥を追うので—あるから　トリオドンという。>\nodoji;　<方>\nkagaji;　<新>\nいかがーン　<ちゅう呼び名があったように>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06052.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06052",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06052.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6401.89",
+      "6402.53",
+      "6403.62",
+      "6408.88",
+      "6409.00",
+      "6410.45",
+      "6411.33"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-53\n質問番号　地図番号　c90\n項目名　かかし　185\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (14)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6401.89　[オドシ]　思うか。覚えぬ。>　<海岸ではつくらない>　[近村ではオドシと言う]\n6402.53　オドレ／デコ　(デコ＝人形)\n6403.62　odosi　<古><多>\n6408.88　かかし　<荒、新、希>　オドレ\n6409.00　?かかし　ニョーンチョオ　オドシ\n6410.45　オドシ　<かかしもオドンである>\n6411.33　オドレデコ　<古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06053.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06053",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06053.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6411.66",
+      "6411.80",
+      "6412.48",
+      "6413.10",
+      "6415.23",
+      "6415.80",
+      "6417.85"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-54\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (15)\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n# オトシデ？　<右>\nオトシデコ　<右>　　　　オトシ、カカシ\nデコ　（デコ＝人形）\nodoʃi;　（カカシとは答えなかった）\nkagasi;　<odoʃiとも言ってよいか?>\nkagasi;　<新>　　　　odoʃi;\nodoʃi　>風で音をたてるもの\n\nこれは全部をひっくるめて言う\nodoʃi, kakasi　>人の形をしているもの",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06054.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06054",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06054.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6419.25",
+      "6419.69",
+      "6420.58",
+      "6421.79",
+      "6421.82",
+      "6422.16",
+      "6422.93",
+      "6423.23"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-55\n質問番号　地図番号　192\n項目名　かがし　185\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(16)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　　A語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C 残した語形とその注］\n6419.25    ?オドシ　　　　オドシ\n6419.69    ニンギョオ／オドシ　〈常〉　　　オドシ\n6420.58    オドシ　デコ　　〈かかし〉　　　オドシ\n6421.79    kakaじ　〈新〉　　　odoji\n6421.82    kakaす　（オドシのうちではない）　　オドシ\n6422.16    かかシ　（新？）　　　オドシ\n6422.93    オドシ　〈古〉\n6423.23    odoś\" , sijizimeodoś;  (手書きの注)\n\nkagaji　新　自分はえわないとのこと。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06055.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06055",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06055.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6423.75",
+      "6425.41",
+      "6426.04",
+      "6426.47",
+      "6427.27",
+      "6428.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-56\n質問番号　地図番号　190\n項目名　かかし　185\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（17?）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[ ]は厳密にする。\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6423.75　kagaji　人の形をしんもののみ\n　　　　＜かかしとか音を立てるものとか＞\n　　　　ピカピカ光るものとか、火の総体がー\n\n6425.41　カガシ　〈新〉　オトレ（オトレ?）\n6426.04　kagaji　［新］ odoji\n6426.47　odoji　〈も〉 kagaji\n6427.27　kagaji　［新, 竹］ odoji\n6428.13　カガシ　〈今〉\n\n（手書きの小さな注記や文字は判読しにくい部分あり。上は読み取れる範囲での概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06056.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06056",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06056.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6428.91",
+      "6429.61",
+      "6433.34",
+      "6435.68",
+      "6437.07",
+      "6437.94",
+      "6438.33",
+      "6439.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-57\n質問番号 地図番号 180\n項目名 かかし 185\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (18)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞( )[ ]は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\nカカシ　<上新、希>　オトレ\nカガシ　<希>　　　　オトシ\nカカシ　新芽　　　　オトシ\nオトシ　<藁>\nカカシ　<希>　　　　オドン\nカカシ　<新、共?>　　オドン\nカカシ　<新、共る希>　オドン\nスズメ オドン <老人用語> カガン\nKajasi <今>\nodoji <昔>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06057.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06057",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06057.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6439.77",
+      "6440.67",
+      "6447.37",
+      "6447.84",
+      "6448.61",
+      "6449.18"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞〈〉［］は厳密にする。 日本言語地図資料用紙 注記一覧 60-58 質問番号 地図番号 190 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] 項目名 かかし 185 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] カガシ <斬?> オドン オドレテコ <古> かがし <斬> k agaji <斬> oddoji かかシ <斬?> オドン かかシ <斬> オドン (にれをもひっくるめて オドン→) あるが、特にいえば かかシと い)ことらしい",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06058.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06058",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06058.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6449.20",
+      "6449.33",
+      "6455.31",
+      "6456.57",
+      "6457.18",
+      "6457.45",
+      "6458.40",
+      "6459.87",
+      "6465.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-59\n質問番号　地図番号　190\n項目名　かかし　18B\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (20)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）[　]は厳密にする。\n\n地点番号　　A 語形とその注記［B・C 除いた語形とその注］　　A 注のない語形［B・C 残した語形とその注］\n\nかかし　＜新＞　オドシ\nかかし　＜新＞　オドシ\nkagasi;　＜新＞　odoʃi\n?? オドシ\nかかし　＜新＞　オトシ\nかかし　＜新＞　オトシ\nかかし　＜新＞　オトシ\n#? ニンゲンノ　オトシ\nかかし　＜新、希＞　オトシ\nかかし　＜共？＞　オトシ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06059.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06059",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06059.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6469.77",
+      "6474.83",
+      "6475.27",
+      "6476.13",
+      "6476.92"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-60\n質問番号 地図番号 120\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2/)\n項目名 かかし 185\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号  A語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n6469.77  カカシ  <新?>    ススーメノオドン\n6474.83  オドン  <妻?>    カカシ\n6475.27  オドン  <妻?>    カカシ\n6476.13  オドン  <む>  <一般に人間の形を>\nかかし  1たものを含めて すべて\nオドンをいい 人間の形を\n(1ものをすみ かかしといふ)\n6476.92  N.R, かかし (人形を/たもの)\nかかしのみ答えー一般的な\n(絵物は知らなかった)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06060.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06060",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06060.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6479.28",
+      "6479.51",
+      "6482.75",
+      "6484.43",
+      "6485.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 60-61\n質問番号　地図番号　120\n項目名　かかし　185\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (22)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nカンカン　く斬?　声音は何とかいった。\nkagasi: [新]　-g〜g〜　odosi;\nodosi;　(人間)の形をしたものは\n<kagasi; zake〜do odosi; to juntoru> といふ。\nオドレ、カガシ、オドレの中にかかしも含まれる。かかしは人形の...\nオドレ、<オドレをオロシ>という。人形の場合も古くはオロシ...",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06061.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06061",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06061.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6485.46",
+      "6486.83",
+      "6487.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-62\n質問番号　地図番号\n項目名　かかし　185\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ　(23)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6485.46　　かがし　　<新>　　てあった。\n6486.83　　かかし　　オドン、かかし\n6487.43　　テユ。　　<も>\n\n（以下、手書きの注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06062.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06062",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06062.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6491.65",
+      "6492.50",
+      "6494.21",
+      "6497.00",
+      "6504.01",
+      "6505.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-63\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[ ]は厳密にする。\n質問番号　地図番号　190\nA 普通注記 　[B 除いた共通語]　[C 除いた特殊語]　ページ (24)\n項目名　かかし　185\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き行（概訳・読み取り）:\n6491.65　かがし　<新?>　kagaji; <上>　odoji\n6492.50　kagaji; <人間の形をしたものをかがし>　suzume no odoji　karasu no odoji\n6494.21　かかし　人間の形をしたものをかかし　オドシ\n6497.00　kayasi　人形で変したものは odosi\n6504.01　kayasi　<新>\n6505.58　オドン　(184と区別なし)\n\n（注：上は読み取りのための概略転写。手書きの英字表記や傍記は判読困難な個所あり。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06063.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06063",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06063.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6505.60",
+      "6506.03",
+      "6507.72",
+      "6509.38",
+      "6511.49",
+      "6514.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-64\n\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞( ) [ ]は厳密にする。\n\n質問番号　地図番号　170\n項目名　かかし　185\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (25)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6505.60　odosi; <古?>　kayaji\n6506.03　カカシ　<共>　カカシ\n6507.72　カラスオトシ　<古?>　カカシ\n6509.38　オトシ　<ぴかぴか/変わり、妻をから...>　カカシ\n6511.49　カカシ　<人の姿、かたちをしたもの>\n6514.38　odosi　<昔は人形のものしかなく...>　kayaji\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06064.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06064",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06064.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6517.31",
+      "6518.15",
+      "6520.50",
+      "6520.79",
+      "6522.03",
+      "6522.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-65\n質問番号　地図番号　190\n項目名　　かかし　185\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (26)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n6517.31　　（手書き）から185もオドシといった。　くカカシはオドシの一種。\n6518.15　　カカシ　＜歩＞\n6520.50　　カカシ　＜布、束＞　ススーメノオドシ\n6520.79　　カラスノオドシ（古）今では用いない　カカシ\n6522.03　　オドシ　すべてを総称していう\n6522.79　　オドシ　えさ物をつけたもの\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06065.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06065",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06065.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6522.93",
+      "6523.06",
+      "6523.54",
+      "6525.75",
+      "6525.90",
+      "6526.08"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の< >（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　60-66\n質問番号　地図番号　180\n項目名　かかし　185\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　（27）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6522.93　カカシ　オトシの中の一つ\n6523.06　odoji　絵称\n6523.54　kayaji\n6525.75　kayaji\n6525.90　kayaji　＜人間の形をしたもの＞\n6526.08　カガシ　＜人間の形をしているもの、トリオドシ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06066.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06066",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06066.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6527.73",
+      "6528.21"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-67\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (28.)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6527.73. some. とくに人の形を（九州のばかり）\nではない。 しかし、これもsome\nという。\nkayaji: <新> ぐごく新しいことになってー\nsome という/はずが一変面\n\n6528.21. kayaji: <新>\n<黄 なんといっていたか>\n忘れたが kayaji という語がー\n後になって使われだしたのは\n確かであろう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06067.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06067",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06067.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6528.64",
+      "6529.88",
+      "6530.23",
+      "6530.58",
+      "6531.53",
+      "6532.93",
+      "6533.89",
+      "6535.24",
+      "6535.90"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）［ ］は厳密にする。\n日本言語地図資料用紙 注記一覧 60-68\n質問番号　地図番号\n項目名　かかし　185\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (29)\n地点番号　A語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n6528.64　some.　古、　kapaji\n6529.88　some.　〈高、これまげ(人形)〉でなく　鳴るその他のものも some と言う。\n6530.23　カガシ　〈荒〉　ススメノオドシ\n6530.58　カガシ　〈新斎〉　オドシ\n6531.53　カガシ　〈新斎〉　オドシ\n6532.93　オドシ　カカシとはえわない\n6533.89　odosi　〈人間の形をしたものは使わない〉\n6535.24　kayaji　〈人の形をしたもの〉\n6535.90　odori　(人間の形をしたものは…)\n\n(手書きの語形注記や小さな潰れ・汚れあり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06068.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06068",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06068.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6537.06",
+      "6537.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-69\n質問番号　地図番号　190\n項目名　かかし　185\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(30)\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜＞（）（）は厳密にする。\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n(作らないとのこと)\nkaraji; <新>\nsuzume odoji; <古>\n<昔は karaji という語が>\nなく、人の形をしているものを\n他の者のするもの、支えるものと\n一緒に suzume odoji と\nいった。>\n\n6537.06.\n6537.58.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06069.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06069",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06069.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6539.78",
+      "6541.52",
+      "6542.27",
+      "6542.32",
+      "6542.58",
+      "6547.09"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-70\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞（）（）[ ]は厳密にする。\n（右上欄）質問番号　地図番号　190　A 普通注記　ページ（31）\n項目名　かかし　185\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n6539.78　kagasi　<新>　忘れた〉　50me\n6541.52　カガシ　<新>　オトシ\n6542.27　カガシ　<やっけつ>　オトシ\n6542.32　カガシ　<考>　オトシ\n6542.58　カガシ　(Kagasiであり、Kayasia)　如く鼻音はみられない。\n6547.09　some.　<ち?>　〈鳥がとし全般をさすか〉 kagasi\n\n（続きの手書き注記）音は kagasi と普通 some と\nいった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06070.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06070",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06070.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6547.67",
+      "6547.79",
+      "6548.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-71 質問番号 地図番号 190 項目名 かかし 185 (A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (32) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 65 47.67 gitɔjata. 185a gitɔjata も some のうちに入る 65 47.79 some. <b> <とりおとし全(本をけすか) 人間の形をしたものを入る> kayaʃi; <kayaʃi; の方は 新しい語のような気がする。> 65 48.26 kayaʃi; <新> <学校がどこかで一覚えれ ような気がする。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06071.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06071",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06071.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6549.03",
+      "6551.20",
+      "6552.46",
+      "6552.88",
+      "6553.22"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-72\n質問番号　地図番号　190\n項目名　かかし　185\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(33)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）[　]は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n6549.03  some. <あ> <今では人の形をしたものは kayaji; とくに kadasi; と云うが 昔は184のそうと区別せず。 全部 some といった。>\n6551.20  かがし　<新>  ＃オドシ\n6552.46  kayaji;　<新> (学校で子供たちが odorakaji 習うことば)\n6552.88  kayaji;　<今の若い人>  odosi\n6553.22  suzume no odori　<古> <＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06072.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06072",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06072.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6553.47",
+      "6553.83",
+      "6554.08",
+      "6554.45",
+      "6555.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-73\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n質問番号 地図番号 180\n項目名 かがし 185\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (34)\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き記入欄:\n6553.47  odoi; (特に かがしとは えうか。まず、オドシでまかあっている)\n6553.83  odoi; <形による区別はなく>\n6554.08  kaya; 新、すべてオドシと異は いつ、古例を・・・\n6554.45  kagas; <ほんとうは かがし ですが> odoj i\n6555.65  kagaji; <新>\n\n（手書きの注記は読み取りにくい箇所が多く、上記は概略の転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06073.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06073",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06073.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6558.09",
+      "6563.58",
+      "6564.33",
+      "6565.19",
+      "6570.82",
+      "6571.34"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-74\n質問番号　地図番号　120\n項目名　かかし　185\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(35)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n6558.09  ? kayasi\n6563.58  kayaʃi; <odoʃi のうちである>\n6564.33  odosi; <海>（共通語のものは…）\nここでは「オドシ」を多く用いる\n6565.19  kayaʃi?  <後に寄ってから>\n6570.82  カガシ　<新>\n6571.34  odosi  <昔>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06074.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06074",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06074.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6571.63",
+      "6571.68",
+      "6572.04",
+      "6572.29",
+      "6572.97",
+      "6575.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-75\n質問番号　地図番号　190\n項目名　かかし　185\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（36）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）[　]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n6571.63　odoji;　<kayagi: とはあまりいわない>\n6571.68　オロシ　（オドシの訛音）\n6572.04　odoji;　<カカシは学校で一習うことば>\n6572.29　odoji;　<な>\n6572.97　odoji;　<suzume odoji; <ナ>　kaya ji?>\n6575.17　オドシ, カガシ　<カガシは学校へ行ってから...>\n\n（手書き注記多数、判読困難な箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06075.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06075",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06075.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6575.40",
+      "6576.28",
+      "6580.06",
+      "6581.36",
+      "6583.19",
+      "6583.41",
+      "6584.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-76\n質問番号　地図番号　190\n項目名　かがし　185\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (3)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉（ ）［ ］は厳密にする。\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\nえっとしおう〉\n[kayaji?] odoji　オドシ\nカカーン　〈共〉\nオトン　〈カガシの持は使わない〉\nカガシ　〈共〉\nodoji　〈右〉\nkayaji　〈新〉\nodoji　(184と185を区別せず 同一語形である。)\nkayaji 〈う〉 odoji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06076.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06076",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06076.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6585.49",
+      "6590.87",
+      "6592.35",
+      "6594.19",
+      "6594.67",
+      "6595.32",
+      "6602.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-77\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><( ) [ ] は厳密にする。\n（右上ボックス）質問番号　地図番号　(120?)　A 普通注記　ページ (38.)\n[B 除いた共通語]　[C 除いた特殊語]\n項目名　かかし　185\n（表ヘッダ）地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\nKagaji　<新>　odoji;\nカガジ　<新しいことば>　オトシ\nodoji　<古>\nkayaji　<くる孑?>\nkayaji　<希>\n（手書き注）<odoji を用いるのがかるう。>\nオトシ　<カガシは学校で習った>\nカカシ　<昔はオトシといったが>\n今はカガシが多い。\nsome.　<希?>\nKakaji (署名)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06077.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06077",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06077.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6603.52",
+      "6611.61",
+      "6613.77",
+      "6621.94",
+      "6630.43",
+      "6631.69",
+      "6632.15",
+      "6634.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-78\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記　(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (39)\n\n地点番号\n6603.52　N.R. (なか、な.)\n6611.61　kakaji; <kakaji; otatete.> some o so: という\n6613.77　かかし　<184と185と区別して表わない>\n6621.94　some. (184と区別なし)\n6630.43　some.　左　kayaji\n6631.69　some.　かかしもおどしも同系\n6632.15　jimo. <推賞山に人の形をしたるもの> kakaji\n6634.32　kayaji (184も kayaji)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06078.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06078",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06078.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6634.33",
+      "6639.27",
+      "6643.15",
+      "6650.70",
+      "6651.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　60-79\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (40.)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6634.33  kayaji; 新。\nodoji; 人間の形のものも、ひもに つけたりもする方を含めて称呼。\n6639.27  ka:ji 〈貴〉\n6643.15  kayaji; 頭を張ったものをも含めている。\n6650.70  odoji, some.\n(かかしとりおとしを区別し[て] つけていない)\n6651.64  odoji; 鳴る、すすめおとしまで含めての kakaji 総称",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06079.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06079",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06079.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6652.30",
+      "6665.25",
+      "6686.75",
+      "6697.39",
+      "6697.48",
+      "6698.61",
+      "6730.33",
+      "9238.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-80 質問番号 地図番号 190 項目名 かかし 185 (A)普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (41) ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞( )[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6652.30 kayaji: サ. odokaji 6665.25 kakasi; <kakaji;も kakeという。> 6686.75 kakaji; pingjo; karasupingjo; <kakaji;は張る手> 6697.39 N.R. <人間の形をしているものは(作らない。)> 6697.48 N.R. <この島にない。> 6698.61 N.R. <くのようなものはない。> 6730.33 [Ka;ji] 9238.82 karasutoboji; <このあたり すずめより>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06080.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06080",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06080.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7238.24",
+      "7248.15",
+      "7259.22",
+      "7259.28",
+      "7268.96",
+      "7279.93",
+      "7284.16"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-81\n質問番号　地図番号　120\n項目名　かかし　185\nA (普通注記)　[B 除いた共通語]　[C 除いた特殊語]　ページ（42）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈 〉( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7238.24    [karasuodo: j;]    からす がうない 〉\n7248.15    karasu tobo j;    人形のものはあまり用いない\n7259.22    kaga j;    くこれも含めて全部を　いろのに suzume odo j;〉\n7259.28    to:bo j;    <ち>    kaga j;\n7268.96    to:bo j;    特にかかしのこと　suzume odo j;\n7279.93    to:bo j;    <ち>    kaga j;\n7284.16    kaga j;    [郡?]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06081.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06081",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06081.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7302.71",
+      "7303.12",
+      "7303.61",
+      "7305.13",
+      "7317.29",
+      "7318.04"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-82\n質問番号　地図番号　190　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (43)\n項目名　かかし　185\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7302.71　sususume odosi (d = d n の半同音?)\n7303.12　odosi　(カカシとは教科書などで- 子供がえ.)\n7303.61　kagasi odosi\n7305.13　カカシ　<普通>　オドシ\n7317.29　Kagasi　<新>　odosi\n7318.04　odosi　<弦紋>　deko　<人間とか鳥の形をしたもの>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06082.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06082",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06082.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7320.59",
+      "7329.39",
+      "7329.57",
+      "7330.31",
+      "7332.97",
+      "7338.48",
+      "7338.55",
+      "7340.24",
+      "7341.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-83\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n質問番号 地図番号 190 項目名 かかし 185 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (44)\n地 点 番 号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7320.59    Kazaji    (カカシの訛音)\n7329.39    odoji    <人間の形をしたものもり>\n7329.57    kagasi    <人間の形をしたもの>\n7330.31    Kagasi    希\n7332.97    Kakagi    (カカシなし)\n7338.48    odoji    (いわゆるkakaji は) ...\n7338.55    odoji    <184,185 ともに同じ>\n7340.24    kagasi    <新?>\n7341.47    kagasi    <新>\n(備考: 上記は読める範囲の概略転記。手書き注記や一部文字は判読に難あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06083.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06083",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06083.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7345.47",
+      "7345.98",
+      "7347.55",
+      "7349.07",
+      "7349.86",
+      "7349.91",
+      "7352.14"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 60-84 質問番号 地図番号 120 A 普通注記 ページ (45) 項目名 かかし 185 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] waraziy gjo: <古> odosi: <くつう オドシで すませる> odoj: <ち> kaga;j・kagaji; ?kagaji; kagaji <新> kagaji <人の形をしているもの以外は> suzume no odoji suzume odoji という。 スズメオドシ <おいか> かかし",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06084.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06084",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06084.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7352.97",
+      "7353.03",
+      "7353.51",
+      "7356.70"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-85\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( ) [ ]は厳密にする。\n\n質問番号　地図番号　190\n項目名　かかし　185\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（46）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n? ススメ オトシ\n? トリオドレ　＜？希＞\nKajime.　＜ただし184, 185の注釈＞\n例えば-kajime-ni,\nningjo:don, tate toita\nkagaji:　（新？）\nカガジ　＜共＞＜新＞\nオドシ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06085.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06085",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06085.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7356.98",
+      "7357.31",
+      "7363.85",
+      "7365.51",
+      "7366.87",
+      "7367.25",
+      "7367.49"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-86\n質問番号 地図番号 項目名 かかし 185\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (47)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞＜（　）［　］は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n7356.98.  suzume odosi; 〈人の姿のもの〉  suzume odosi;\n7357.31.  Kaga; 〈新〉  odoji;\n7363.85.  カガシ 〈希〉\n7365.51.  トリオドシ (使ってきた>)\n7366.87.  odoji; 〈人の姿と同じ〉 tono odoji;\n7367.25.  Kaga; 〈新, 共〉 odoji;\n7367.49.  odoj;  人の形のもの\n(以下欄内手書き注記あり、読み取り困難な箇所あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06086.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06086",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06086.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7372.03",
+      "7372.86",
+      "7373.56",
+      "7373.92",
+      "7373.99",
+      "7374.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-87\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n質問番号　地図番号　190\n項目名　かかし　185\n(A) 普通注記　ページ\n(B 除いた共通語)\n(C 除いた特殊語)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nオドシ　　<カカシということは-は使わない>\nカカシ　　<斬>\nオドシ　　<ち>\nカカシ　　<斬、兵>\nトリノオドシ　<ち>\nトンノオドシ　<ち>\n\nカカシ　　<斬><希>\n[トリオドシ]\n[カカシ] (共)\n\nススーメ　オドシ、オドシ\nトリオドシ\nトリオドシ\n\n(手書き注記、漢字・かなの表記あり、読み取りに不確かな箇所あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06087.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06087",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06087.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "7376.62",
+      "7381.38",
+      "7381.97",
+      "7383.83",
+      "7383.98",
+      "7385.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-88\n質問番号　地図番号　(100?)\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　(49)\n項目名　かかし　185\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\nKarasu no odoji\nodoji\n<簡略には \"odoji\">\nという。この辺には\n雀は居らない>\n\nオドシ\n<かかしという語は\n最近使いだした語でー\n自分たちは オトシとのみそう>\n\nカガシ\n<希>\n\nオトシ\n<希>\nオトン　かごメ\n\nカカシ\n<新>\nトリオトシ、ススメオトシ\n\nodoji\n<一般的に>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06088.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06088",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06088.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "7386.55",
+      "7386.63",
+      "7390.75",
+      "7391.01",
+      "7391.44",
+      "7392.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-89\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (50.)\n地点番号　A 言形とその注記（B・C 除いた言形とその注）　A 注のない言形【B・C 残した言形とその注】\n# kagasj;　<人間の形をした場合に>\n# odosi;　<カカシは弱と一度わない>（被調査者はカカシという 言葉も知っている）\nかかし　<新, 芸?>　オドシ\nく; かかし\nオドシ　<カカシとはる子供は いろかもしれぬ>\n↓\nオドシ　<ちくからの湯 奥? >　かかし",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06089.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06089",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06089.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "7393.62",
+      "7385.88",
+      "7384.85",
+      "7400.11",
+      "7400.15",
+      "7403.86",
+      "7404.12"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-90\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　190\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (5/)\n項目名　おかし　185\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n7393.62　カガシ　<新>　トンノオドン、スマメノ、オドシ\n7385.88　kazime, odoji;　くいずれも使う、島や壁に対し、kazimeを受けて　オドス、どれ故、odoj; ともい\n7384.85　kagasi;　<新>　kazime.\n7400.11　odoji;　<人間>形らをしえのす　odoji; である。\n7400.15　kagasi;　<新>　odoji;\n7403.86　kagasi;　<人の形を(ているものをいう)>　odoji;\n7404.12　kagasi;　<新>　odoji;",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06090.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06090",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06090.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "7405.85",
+      "7411.61",
+      "7412.71"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-91\n質問番号　地図番号　190\n項目名　かかし　185\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ　(52)\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n7405.85.    i x.    くると-もは odoʃi: はあまりいわない\n7411.61.    Kagasi:    <新?>    odosi:\n7412.71.    Kagaʃi:    <hatate?>    かがし\n\n（以下、手書きメモ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06091.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06091",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06091.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "7415.85",
+      "7420.18",
+      "7421.38",
+      "7421.62",
+      "7427.90",
+      "7430.15",
+      "7430.80"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-92\n質問番号　地図番号　(190)\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　(53)\n項目名　かがし　185\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n（手書き欄）\nわらなとーて 巻いておく\njime.　<ら>　kagaji\n#kagaji　<上>\n(hata∫i goto a ときに=)\n腰に下げてくゆらすものを\nkakio: という物\nodose.\no~dorakagaji　<も>\nkagaji　新\nkagaji　<人間の形をしたもの>  swzumme no odofi\n\n（表罫線あり、手書き注記多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06092.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06092",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06092.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "7431.08",
+      "7431.13",
+      "7433.37",
+      "7442.39",
+      "7451.22",
+      "7500.24",
+      "7502.22",
+      "7502.89"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-93\n質問番号　地図番号　190\n項目名　かかし　185\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (54)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き欄（右側のメモ、読み取り例）：bo:to: <くち>　tori no odosi;  kaga; odorakaj; odose; Kâga; kaka; ôdoji; オトン  \n（ページ下部にさらに同様の手書き語形と注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06093.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06093",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06093.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "7510.18",
+      "7511.66",
+      "7513.15",
+      "7513.69",
+      "7521.16",
+      "7533.12",
+      "7659.31",
+      "8248.18",
+      "8300.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　60-94\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (55)\n（表見出し）地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\nカガシ　＜新＞\tオドシ\nオドシ　＜人間の形をしたものをさす＞\n（え名はない）\nodoji　＜古＞\tka~gaji\nカガシ　＜新しい姿のように思う＞\tオドシ\nカガシ　＜新＞\tオドシ\nカガシ　＜カガシはるどもらう（度）＞\nodoji　＜古＞\tkakaji\ngagaji　＜新＞\nカカシ　＜トリオトシとはえわぬ＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06094.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06094",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06094.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "8302.55",
+      "8302.51",
+      "8303.84",
+      "8311.41",
+      "8316.20",
+      "8320.59",
+      "8325.03",
+      "8325.56",
+      "8331.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-95\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (56)\n項目名　かかし　185\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n8302.55   カカシン　＜共＞　　　トリノオドシ\n8302.51   トリノオドシ（くち）　　カカシ\n8303.84   トイノオドシ\n8311.41   オトシ　＜やつち＞　　　かかし\n8316.20   Kagaji　＜新＞　　　　odoji\n8320.59   Kagaji　＜新＞　　　　odoji\n8325.03   Kagaji　＜新＞　　　　odoji\n8325.56   suzume odoji　＜普通この方を使＞　Kagaji\n8331.12   odoji　＜ち＞　　　　Kagaji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06095.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06095",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06095.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "8335.48",
+      "8342.69",
+      "8351.07",
+      "8351.41",
+      "8352.82",
+      "8355.23",
+      "8363.51",
+      "8372.47"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　60-96\n質問番号　地図番号　120\n項目名　かかし　185\nA 普通注記 (丸A)\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (57)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n[表ヘッダ]\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n8335.48　kagasi;　<柿>　　　　　　　　　　　　odoʃi;\n8342.69　kekasi;　<??>\n8351.07　odoʃi;　<古>\n8351.41　kagasi;　<新>　　　　　　　　　　　　odoʃi;\n8352.82　kagasi;　<新>\n8355.23　odoʃi;　(子は軽い有声)\n8363.51　tanokamedono　(田の神様)\n8372.47　odoʃi;　(特定の名称はないようだ)\n\n（記載は読み取りに基づく概略転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06096.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06096",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06096.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "9322.52",
+      "0237.79",
+      "0237.84",
+      "0247.31",
+      "0247.56",
+      "0248.00",
+      "0257.12",
+      "0257.43",
+      "0265.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-97 質問番号 地図番号 190 項目名 かかし 185 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (58)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n9322.52  kayaʃi  <あまり作らない>\n0237.79  #senʲe  (結局トリオドンと区別せず)\n0237.84  siːme  [siːmiという人もあるようだ]\n0247.31  taːtʃu  <田の人の義, 今でも用いる>\n0247.56  kagaʃi  <新>\n0248.00  ˈim˧  <む>\n0257.12  kakaʃi  <希, 新><作ることまれ>\n0257.43  ˈim˧  <カカシは立てることすぐない>\n0265.96  N.I.R.  [kagaʃiという]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06097.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06097",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06097.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "0275.97",
+      "0276.50",
+      "0297.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 60-98\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n\n質問番号 地図番号 190\n項目名 かかし 185\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (55)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n0275.97    jundurjajuki\n(184 1=同じ)\n[issamboという。ます]\n法師の義である。\n(上村春=えろ; issamboは\n伊仏村阿権でも用いて居り。\n...\n0276.50    N.R.    <作らぬ、鳥はいず、産も少い>\n0297.66    #kagaji  <新、希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06098.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06098",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06098.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "0340.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-01\n質問番号　地図番号　190\n項目名　かかし　185\n(A) 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (60)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n\n地点番号\n\nかかしはあまり作らない。\n鳥産の書は吾のよりに多くはない。>\n（上村の別の人の調査に）\n例えば: amaga:ga という\nのが方言であった、又一般\nには ta:nu; mu\nnindgo;（田主の人形の\n案か）というと。\n03 40.00. N.R. <名前はないようである>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06101.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06101",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06101.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "1169.84",
+      "1270.26",
+      "2085.62",
+      "2141.61",
+      "2150.17",
+      "2151.20",
+      "2151.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-02\n質問番号　地図番号　190\n項目名　かかし　185\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (6/)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）［］は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n1169.84 tjondara: (兵太郎から来た語)\n1270.26 N.R. <kakafi: というが、新しい　諸である。共通語としてつかう。>\n2085.62 gaitari nu katsı (?:)\n2141.61 (?)! minggio:\n2150.17 ? pitumukata <新>\n2151.20 ? pitumukata:\n2151.64 ? pitukata:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06102.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06102",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06102.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "0861.48",
+      "4687.01",
+      "4704.04",
+      "4731.59",
+      "4743.61",
+      "5463.12",
+      "5588.02"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-03\n質問番号　地図番号　190　A　普通注記　(B 除いた共通語)　C　除いた特殊語　ページ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n0861.48    narwko.    <人の形でないもの>    * kakasi;\n4687.01    [kakaʃi;]    kagaʃi; <共>\n4704.04    ナリュ?    <鳴るものをつければ・鳴り>    かかす\n4731.59    torijoke    (夜間の前半の部分に対する kakasi)\n4743.61    #smdzome joke    # kakasi\n5463.12    かかし    <郷>\n5588.02    かかし    <共>    ソオドン　ソメ\n\n（手書きの語形・注記が複数行にわたって書かれています。上は読み取り可能な部分の概略転記です。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06103.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06103",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06103.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "6339.86",
+      "6357.74",
+      "6411.66",
+      "6422.93",
+      "6430.26",
+      "6516.10",
+      "6522.79",
+      "6631.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-04\n質問番号　地図番号\nA　普通注記　ページ\nB　除いた共通語\nC　除いた特殊語\n項目名　かかし　185\n（表見出し）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6339.86　カカシ　〈新〉　オトシン　〈立〉\n6357.74　カカシ　〈新〉　*オトン\n6411.66　カカシ　〈新〉　#オドシデコ　〈立〉\n6422.93　カカシ　〈新〉　オトン〈くち〉\n6430.26　Kakaji　〈新〉　odoji\n6516.10　カカシ　〈共〉　オトシ\n6522.79　ナルス　いわゆる鳥子（がうがう）　オトシ　えるものをつけたもの\n6631.53　Kakaji　新　some.\n（下部手書き注記）人間の形をしたものをひとつ頂いておどしを含むという",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06104.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06104",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06104.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "6642.33",
+      "6655.51",
+      "7239.24",
+      "7239.29",
+      "7335.93",
+      "8362.85",
+      "0248.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-05\n質問番号 地図番号 190\n項目名 かかし 185\nA 普通注記  B 除いた共通語 C 除いた特殊語  ページ (3)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n6642.33  kakasi  上  odoji:\n6655.51  kakasi  <上>  waraningjo:\n7239.24  [渋 toboʃi:] <わらをまるめて頭のところを> [karasuodori:]\n7239.29  kakasi  <新?>  カラスオトシ\n7335.93  kakasi  <新,英>  * odoji:\n8362.85  kakasi  <新>  odoji:\n0248.00  kakasi  <新>  simi <ち>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06105.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M190Q185/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06105",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06105.tif",
+    "source_ljc_id": "LJC-M190Q185",
+    "source_map_numbers": [
+      "190"
+    ],
+    "source_title": "かかし (案山子)"
+  }
+]

@@ -1,0 +1,573 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0840.33",
+      "0873.94",
+      "0894.61",
+      "0990.97",
+      "1762.10",
+      "1793.29",
+      "1798.13",
+      "2765.02"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧    61-23\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n（右上の小枠）質問番号　地図番号\n248    192\n項目名　こすま\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n（/）\n（表の見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n0840.33    karakami   <…>\n0873.94    karakami   <…>\n0894.61    (handwritten) えむじま / ewjima\n0990.97    karakami   <…>\n1762.10    カラカミ\n1793.29    フスマ\n1798.13    karakami   <建てつけたもの>\n2765.02    Karakami  <…>\n\n（下に罫線と余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06123.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06123",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06123.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2765.66",
+      "2785.31",
+      "3745.62",
+      "3791.02",
+      "4619.23",
+      "4694.26",
+      "4713.45",
+      "4760.98",
+      "4762.99"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-24\n質問番号　地図番号　192\nA 普通注記　ページ（2）　[ B 除いた共通語 ]　[ C 除いた特殊語 ]\n項目名　ふすま　248\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）[　]は厳密にする。\n表見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き欄（一部読み取り）：\nKarakami <ち>    Fusi jima\nKarakami <ち>    Fusijima\n#フスマ （障子を用いる義務めて跡の...）\nφusima <大衆にしかない>\nKarakami <襖>    φusijima\n(Karakami の付記、取り消し線あり)\nKalakami (傍)\nφusijama いわゆる化はごく軽微\n（あまりこうり建具は使わない）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06124.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06124",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06124.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5547.25",
+      "5558.09",
+      "5564.79",
+      "5579.42",
+      "5609.26",
+      "5611.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-25 質問番号 地図番号 192 A 普通注記 ページ (3) 項目名 ふすま 248 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注] (被調査者の家には見えなかった) karakami.do. (唐紙戸) kusuma <古> karakami <新> karakami ちなみに 紙でなく、木のものは フスマという。 karakami <普通> kusuma <古> 連島 (被調査者の家には… )",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06125.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06125",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06125.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5613.33",
+      "5615.78"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-26\n質問番号　地図番号　192\n項目名　ふすま　248\nA○ 普通注記　（B　除いた共通語）　（C　除いた特殊語）　ページ（4）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）[　]は厳密にする。\n\n（表ヘッダ）\n地点番号　　A　語形とその注記　[B・C除いた語形とその注]　　A注のない語形　[B・C　残した語形とその注]\n\n（手書き）\nまるところからすると、emswma\nだーろうという。\n? karakami (karatami は中が-)\n板で紙に紙を張ったものを\nえらかとやっ疑いながら答えた。\n(はすまを使わぬ土地であろうか)\nKarakami 〈こちらを用いることが多いか〉\n両方とにかく用いる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06126.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06126",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06126.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5628.70",
+      "5666.85",
+      "5667.81",
+      "5678.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-27\n質問番号　地図番号　192\n項目名　ふすま　248\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (5)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nかいん、被調査宅に\nkarakami はない。この\n土地にはサないものかも\nしれない、ほんとうに\n(読み取り困難な箇所あり)\n\n5628.70　からかさ、フスマ　<使用率>\n5666.85　フスマ　<子>\n5667.81　からかさ　<多・方>\n5678.33　フスマ　<葉?>　からかみ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06127.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06127",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06127.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5688.01",
+      "5688.86",
+      "5689.43",
+      "5791.68",
+      "6349.80",
+      "6409.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-28\n質問番号　地図番号　192\n項目名　ふすま 249\nA　普通注記  [B　除いた共通語]  [C　除いた特殊語]　ページ (6)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n5688.01　かうかみ　<み?>　フスマ\n5688.86　かうかみ　<くち>　被調査者の小さい時のフスマ　ことば\n5689.43　suma　<裏表に紙をはったもの>　karakami <表にだけ紙をはって>\n5791.68　tsugima　<タ?>\n6349.80　gusui?ma　<タ?>\n6409.00　かうかみ　<表>　フスマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06128.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06128",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06128.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6419.69",
+      "6426.83",
+      "6428.13",
+      "6427.27",
+      "6440.67",
+      "6446.05",
+      "6460.10",
+      "6465.07",
+      "6469.19"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-29\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　(192)\n項目名　ふすま　248\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ ( )\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6419.69　からかえ、　<む>\n6426.83　からかみ、　<菅>\n6428.13　からかみ、　<今>\n　　　　フスマ　<ち>\n6427.27　karakami　(よなんのえいずらしい)\n6440.67　からかえ、　<む>\n6446.05　フスマ　<菅>\n6460.10　karakami　<ち>　ふすいま\n6465.07　からかえ　<菅>\n6469.19　からかみ　<上、着>\n(Note: handwritten entries transcribed roughly and may be uncertain.)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06129.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06129",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06129.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6474.83",
+      "6486.93",
+      "6489.01",
+      "6494.55",
+      "6504.44",
+      "6532.93",
+      "6565.90",
+      "6590.35"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく >( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 61-30\n質問番号　地図番号　192\n項目名　ふすま　248\nA 普通注記　ページ (あ)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nからかゝ　<夢>　　フスマ\nからかゝ　<ち>\nからかゝ　<上、兵衛>　　フスマ\nビョオフ?　(扉風をもビョオフという)　\nkarakami\"　優位　　(読み等)\nキャネット:　一方が板張りのそゝ?　　フスマ\n(?)　玉巣suma\nからかゝ　<ち>　　フスマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06130.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06130",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06130.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6606.89",
+      "6607.68",
+      "6616.22",
+      "6621.94",
+      "6625.66",
+      "6631.53",
+      "6631.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-3i\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉( )[ ]は厳密にする。\n\n質問番号　地図番号　192\n項目名　ふすま　248\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]\n\n（表見出し）地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\nkarakami　<かなり上品なことば>　Fusuma\nkarakami　<俗>　fusuma\nFusuma　<今はfusumaと言う。>\nhusuma　<希>\n(summa)　(あまり一般啓に… はない　障子紙をはった仲障子である。)\n(some lines unreadable) karakami　よすまはない。 障るか板戸である。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06131.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06131",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06131.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6634.33",
+      "6641.39",
+      "6649.55",
+      "6650.70",
+      "6677.70",
+      "6686.75",
+      "6702.21",
+      "7246.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-32\n質問番号 地図番号 192\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (10)\n項目名 ふすま 248\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6634.33.   karakami   新\n6641.39.   karakami   フスマ きは うか は ある 部屋をえろ\n6649.55.   obuto.\n6650.70.   karakami  <ち>\n6677.70.   fusuma.  <最近のもの>\n6686.75.   karakami  <最近のもの>  若は\n6702.21.   fusuma  <用紙のことを karakami>\n7246.45.   fusuma  は肉破壊\n\n(手書きの英字・かな混りの語と注記を含む。表の下部にもさらに行が続くが切れている。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06132.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06132",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06132.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "7320.95",
+      "7342.72",
+      "7353.03",
+      "7372.03",
+      "7403.21",
+      "7403.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-33\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n質問番号　地図番号　192\n項目名　ふすま　248\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（11）\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n7320.95    maedado    (d＝d～t 中間音)    dに近い\n7342.72    fusūma    木の引戸 は mairado\n7353.03    fusuma    mairado は 中（仕切用）の 片面板張り，片面紙張りの戸\n7372.03    フスマ （優勢）    フスマ\n7403.21    karakami    ＜板張のは Funsuma という。＞\n7403.86    Fusuma    ＜両面とも紙をはったものをいう。＞ karakami ＜板戸の片面板の上に紙をはったものをいう。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06133.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06133",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06133.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "7412.71",
+      "7415.85",
+      "7421.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-34\n質問番号 地図番号 192\n項目名 ふすま 248\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (12.)\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n→(調査していた部屋にあったのをさし示しながら説明していた。)\n\n7412.71 Karakami <板戸のほ kagamidoeis.>\n7415.85 maira. <この引き手は板の上に.>\n紙を張ってある.>\nkarakami <左右、木のわくに紙を張ったものは karakami である.>\n7421.38 Karakami (板張りのものを <maira>)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06134.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06134",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06134.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "7423.12",
+      "7426.61",
+      "7431.08",
+      "7432.95",
+      "7503.48",
+      "7513.15",
+      "7513.43"
+    ],
+    "other_text": "61-35\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　192\n項目名　ふすま　248\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(13)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n<Kitsumedo>　片側が抜こう紙張りのもの\n7423.12　Fusuma　<る>\n7426.61　Fuguma　<やつ等>\n7431.08　Karakami　(細い縦模様の格子風の…)\n7432.95　Karakami　<板で合わせたのはmaira>\n7503.48　karakami　<板で合わせたのは maira?>　ふすま\n7513.15　karakami　<む>\n7513.43　からかみ　<む>　ふすま",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06135.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06135",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06135.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "7523.27",
+      "7533.11",
+      "7533.12",
+      "7659.53",
+      "8360.39",
+      "8361.28",
+      "8373.43",
+      "9312.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-36 質問番号 地図番号 192 項目名 ふすま 248 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (14.) ► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の< > ( ) [ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7523.27 からかみ、 <くち> フスマ 7533.11 からかみ、 <くち> フスマ 7533.12 からかみ <くち> フスマ 7659.53 Karakami <国ことば> ふすま 8360.39 Fuima ( Fusuma > Fusima ) 8361.28 Kasuma (誤記で-はない) 8373.43 Kusuma 9312.42 zuma (増記のFuを落した形)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06136.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06136",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06136.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "9322.52",
+      "0048.59",
+      "1261.80"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-37 質問番号 地図番号 192 A 普通注記 ページ (15) 項目名 ふすま 248 A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] Kusuma <希><替からのえいす> husuma nakabajina (中板戸) H.K. ふすま <共通語としてつかっている>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06137.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06137",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06137.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "0779.03",
+      "0840.33",
+      "1770.18",
+      "2722.67",
+      "4694.26",
+      "4762.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-38\n質問番号　地図番号　248　192\n項目名　よすま\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ ( / )\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）［　］は厳密にする。\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n1行目 A欄: 重すま. ＜今、古＞　　　右欄: karakami\n2行目 A欄: 重すうま. ＜今＞　　　　右欄: Karakami. ＜古＞\n3行目 A欄: フスマ ＜新＞　　　　　右欄: からかみ\n4行目 A欄: フスマ （新）　　　　　右欄: カラカミ\n5行目 A欄: 重すま ＜上＞ …＜やっと上部＞　右欄: karakami\n下段メモ欄（右側）: ＜ちくから現在お？＞　きのんに（用いられぬ）\nその他手書き英字メモ: sigiht (？)  to (？)\n備考・注記: 器具は使わない ＞ （被調査者の表にには）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06138.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06138",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06138.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5539.74",
+      "5579.42",
+      "5584.22",
+      "5585.63",
+      "5613.33",
+      "5629.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 61-39\n質問番号　地図番号　192\n項目名　ふすま　248\nA　普通注記　　B　除いた共通語　　C　除いた特殊語　ページ (2)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5539.74　ふすま <新>　Karakami　(見えなかった)\n5579.42　重いすま <新>　karakami <普通>\n5584.22　karakami　優位　Fuswuma\n5585.63　\"\"　Fuswuma\n5613.33　重いすま <常新>　karakami\n5629.98　フスマ <新>　かうかみ <くち>\n\n(下部に手書きの注記あり、判読困難な語句あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06139.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06139",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06139.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5631.75",
+      "5642.67",
+      "5651.95",
+      "5667.81",
+      "5682.34",
+      "5684.11",
+      "6349.09",
+      "6406.77",
+      "6419.69"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記のく > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 61-40\n質問番号　地図番号　192\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (3)\n項目名　ふすま　248\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5631.75  husuma 〈新〉    karakami\n5642.67  Fusuma 〈上〉    karakami\n5651.95  Fusu ma 〈上〉   Karakami\n5667.81  フスマ 〈少・新〉\n5682.34  Fusuma 〈希〉    karakami\n5684.11  Fusuma 〈希〉    karakami\n6349.09  Fusuma （高い人、上品）  karakami\n6406.77  Fusuma 〈新・稀・上品〉  karakami 〈ち〉\n6419.69  722 フスマ 〈新〉    karakami 〈ち〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06140.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06140",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06140.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6427.27",
+      "6427.40",
+      "6453.64",
+      "6457.51",
+      "6458.91",
+      "6465.07",
+      "6472.05",
+      "6484.43",
+      "6485.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-41\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n\n質問番号　地図番号　192\nA　普通注記　ページ（9）\n項目名　ふすま　249\n（B　除いた共通語）　（C　除いた特殊語）\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6427.27　phusuma. [新][上]　karakami (よびん?)　えいすらしい\n6427.40　phusuma　[上品・サ]　karakami\n6453.64　フスマ <上>　おろか?\n6457.51　phusuma <新>　karakami\n6458.91　フスマ <新><常>　かうか?\n6465.07　フスマ <常>\n6472.05　phusuma <新>　karakami\n6484.43　フスマ <新>　かうか。\n6485.46　フスマ <共>　かうか。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06141.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06141",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06141.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6486.93",
+      "6516.85",
+      "6600.97",
+      "6602.62",
+      "6607.18",
+      "6621.57",
+      "6635.20",
+      "6635.44",
+      "6641.82",
+      "6642.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-42\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n質問番号　地図番号　192\n項目名　ふすま　248\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ　(5)\n\n地点番号　A　語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\nフスマ、＜新？＞　からかみ＜くも＞\nフスマ＜共＞　からかみ\nFusuma＜帝？＞　karakami\nFusuma＜革？＞　karakami\nFusuma＜新＞　karakami\nFusuma　新　karakami\nhusuma　上新　karakami\nhngsuma　上．　karakami\nhusuma＜新､希？＞　karakami\nhusuma＜新？＞　karakami",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06142.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06142",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06142.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6643.15",
+      "6645.01",
+      "6645.62",
+      "6649.55",
+      "6651.32",
+      "6677.41",
+      "7239.29",
+      "7329.39",
+      "7350.96",
+      "7401.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-43 質問番号 地図番号 192 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (6) 項目名 ふすま 24B\nA・[B]・[C] ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）[ ]は厳密にする。\n表ヘッダ: 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n行項目（読み取り）: husuma / Fusuma / husuma / Fusuma / husuma / # husuma / karakami / karakami / karakami / obuto / * karakami / suma\n（手書きの語形・注記の一部を粗く転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06143.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06143",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06143.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7411.61",
+      "7415.47",
+      "7420.18",
+      "7421.38",
+      "1148.59",
+      "1211.69",
+      "1221.47"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　61-44\n質問番号　地図番号　192　項目名　ふすま\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（　）（　）［　］は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nFusuma.　* Karakami\nmaira'　<板でつくったフスマ. 立に農家で(使用する).>　Fusuma.\nFusuma　<上>　Karakami\nFusuma　<新>　Karakami (板張りの物を <maira>)　<kitsunedo>\nnakabajiru (中板戸)　(中板戸)　<- N.R.\nnakawajiri (中板戸)　N.R.\n(その他手書きメモ、英語読みや注記が複数記載)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06144.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06144",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06144.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "1261.01",
+      "1261.16",
+      "2068.08",
+      "2074.69",
+      "2076.86",
+      "2095.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 61-45\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号 地図番号 192\n項目名 ふすま 248\nA 普通注記\nB [除いた共通語]\nC [除いた特殊語]\nページ (8)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n1261.01　nakabasi:ru (中板戸)　N.R.\n1261.16　nakabasi:ru (中板戸)　N.R.\n2068.08　nakabasi:　(中板戸)　N.R.\n2074.69　N.R.　<フスマはない>\n2076.86　N.R.　<くるすまはない。>\n2095.60　N.R.　<くるすまがない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06145.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M192Q248/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC06145",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC06145.tif",
+    "source_ljc_id": "LJC-M192Q248",
+    "source_map_numbers": [
+      "192"
+    ],
+    "source_title": "ふすま (襖障子)"
+  }
+]

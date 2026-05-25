@@ -1,0 +1,843 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0779.03",
+      "0896.22",
+      "1762.10",
+      "1763.60",
+      "1773.27",
+      "1814.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-17\n質問番号 016 地図番号 049\n項目名 イクツ\n[A] 普通注記 [B] 除いた共通語 [C] 除いた特殊語 (1)\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n0779.03 ikutsuu 〈両方まちまちに言う〉 nambo\n0896.22 イクラ 〈上〉 ナンボ\n1762.10 ナンボ 〈タ?〉 イクツ\n1763.60 ナンボ 〈自然〉〈ナンボは使わない〉 (店に来客があり買う数量を聞きれしし時、本人が「ナンボ」と返すますかと聞いた。) イクツ\n1773.27 ナンボ 〈古〉 イクツ\n1814.25 ナンボ 〈少い〉 ナンコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01217.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01217",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01217.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1862.48",
+      "2800.52",
+      "2812.96",
+      "3733.88",
+      "3751.87",
+      "3794.55",
+      "4643.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-18\n質問番号 016 地図番号 049\n項目名 イクツ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）［］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n1862.48　ナンボ・（タタ）　イクツ\n2800.52　ナンボ　〈下〉〈相手による〉　イクラ\n2812.96　nambo（自分でナンボを多く使用することに属ついた。）\n3733.88　イグラ　〈上〉　ナンボ\n3751.87　nambotsü.　ナンボッと、ツのつくのかのようもしろい。但し分の数のときに限る。\n3794.55　イグラ〈新〉　ナンボ\n4643.47　nantsu〈割合少い数をあらわす時に〉 ikutsu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01218.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01218",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01218.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4657.64",
+      "4663.49",
+      "4697.92",
+      "4713.60",
+      "4714.68",
+      "4734.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-19\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉（ ）［ ］は厳密にする。\n質問番号 016 地図番号 049\n項目名 イワツ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (3)\n\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n使うような。年齢には、使わない。\n\nnambo ＜数などに対した時＞\nnambo ←015のカード参照。\nnantsu ←〈子供が使う〉ので、この方言としては、[新]なるべし。\n\nekutsu? (共？) (014に同じ)\nnambo ＜右＞\neku52  ! nambo\neku52 ＜上＞\n! nambo （いろいろな場合に \"nambo\" というひとつのことばで済ませ）というひとつのことはで済ませ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01219.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01219",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01219.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4746.20",
+      "4753.52",
+      "4770.62",
+      "4780.26",
+      "4780.60",
+      "4782.96",
+      "4792.80",
+      "4793.41"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n日本言語地図資料用紙注記一覧　12-20\n質問番号 016　地図番号 049　A 普通注記　ページ (4)\n項目名　イワツ\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nていることに気づき、面白かられもの)\n4746.20  nambo  <古>    eku...（欄に手書き）\n4753.52  nambo  (~nano ga2), ()の中は、ナデ　スカに当る。\n4770.62  nambo  <これを多く用いる。>    igudzuu\n4780.26  ekutsüi  <多く使う>    nambo\n4780.60  ekutsüi  <多く使うようだ>    nambo\n4782.96  nambo  <普通使う。>\n4792.80  ekutsüi  <多く使う>    nambo\n4793.41  nambo  <多>    egudzui.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01220.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01220",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01220.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5538.63",
+      "5539.74",
+      "5564.79",
+      "5569.36",
+      "5608.51",
+      "5618.43",
+      "5622.48",
+      "5629.98",
+      "5632.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-21\n質問番号 016　地図番号 049　ページ (5)\n項目名　イクツ\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　） は厳密にする。\n\nA 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\nikutsi, IKUCU (=に入れる). 東北はCIとCUの区別がないため、加藤シルス(?)\ndodake　(くドレダケ)\nikiüra　(夕?)\n? イクツ\niguzuu\nnambo: ＜これが普通＞\nikutsuu\nナンボ　＜古＞\ndonokure (aru?)\n\n右欄の注記: iküitsu　nanbo　イクツ　ikutsu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01221.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01221",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01221.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5633.87",
+      "5635.65",
+      "5636.49",
+      "5643.33",
+      "5644.24",
+      "5648.13",
+      "5648.96",
+      "5653.65"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 12-22\n（右上）資料番号 016　地図番号 049　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n項目名　イクツ\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5633.87　nanko　〈希〉\n5635.65　ドノクライ　〈雅〉\n5636.49　イクツ　〈イクツアル ダイフ〉\n(取り消し) 5633.87　nanko　〈希〉\n5643.33　donokure　〈普通〉\n5644.24　イクツ　（共）\n5648.13　nambo　〈古〉\n5648.96　ナンボ　〈稀〉\n5653.65　ekura　〈この場合は nambo とは言わない。〉\n右列（注記のない語形例）： ikutsu / ikutsu / ikutsu / イクツ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01222.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01222",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01222.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5665.41",
+      "5655.57",
+      "5657.73",
+      "5663.09",
+      "5665.46",
+      "5666.18",
+      "5669.12",
+      "5678.33",
+      "5682.37"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧     12-23\n質問番号 016   地図番号 049\n項目名 イワツ\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (7)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]\n5665.41   イクツ   ＜イワツアルイ＞\n5655.57   イクツ   （共）\n5657.73   イクツ   （共）\n5663.09   ikutsu  ＜何箇とは言わぬ＞\n5665.46   イワツ.  ＜イワツハイッテルヤ＞\n5666.18   ドノクライ  （共）\n5669.12   ekts (üi)   (3)(誘) nambo ＜古＞\nnanko\n5678.33   イワツ  （〜アルカ）\n5682.37   nanko  ＜新＞＜希＞    ikutsu.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01223.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01223",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01223.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5684.11",
+      "5684.26",
+      "5686.31",
+      "5688.37",
+      "5689.98",
+      "5691.37",
+      "5696.68"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 12-24\n質問番号 016　地図番号 049\n項目名 イクツ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (8)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nnambo <古>　ikutsu\nikutsu （「いくらでもできる」などと言うときは namboでもできると言っている。）\nikutsu ③　nambo <老人でこういう人があった。>\nイクツ　<上>(〜ハイッテマスカ)　イクツ アルンダイ\nikutsu (ju:tsuとは言わない)\ndonoyurai <何箇とは言わない>　ikutsu\nnambo <古>　ikutsutt",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01224.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01224",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01224.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5698.91",
+      "5711.85",
+      "5733.02",
+      "5772.00",
+      "5780.57",
+      "5791.07",
+      "5792.18",
+      "5793.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 12-25\n質問番号 016　地図番号 049　項目名 イクツ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (9)\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\nikura <稀>　　2ikutsüü <普>\nekudzuu <nambo:は、在てでは、使って> ekwura いるが、使われことはない。\nnambo [古]　ikuttsuu\negūdzūi (老)　 ektsüi (若)\nnanyko <新>　 egüi(d)zui\nigwttsu, IKUCU (=入れてある。白沢ルス)\nikutsüü, kの有声化の程度は割に強い。\nikura (ナンボではよいと言う。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01225.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01225",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01225.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6267.68",
+      "6349.80",
+      "6395.61",
+      "6408.88",
+      "6409.72",
+      "6416.09",
+      "6416.58"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での情報は地点番号順に並べる。\n▸ 注記の＜＞（ ）[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 12-26\n質問番号 016 地図番号 049 項目名 イクツ\n(A) 普通注記   [B 除いた共通語]   [C 除いた特殊語]   ページ (10)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6267.68  nambo 〈数の多いとき使うのではあるまいか〉  ikura\n6349.80  nambo 〈古〉  ikutsi\n6395.61  nambo ① ikutzu\n6408.88  イクツ 〈豊岡市など都会に出た時ナンボにイクツを使ってみせる。〉\n6409.72  イクラ 〈共〉  ナンボ\n6416.09  ナンボ (ナンボハイットルと本人は答えた)\n6416,58  ナンボ (答はナンボヘットルカであれ) (ヘットルは、入っているの意)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01226.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01226",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01226.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6419.09",
+      "6423.75",
+      "6445.57",
+      "6447.84",
+      "6449.84",
+      "6458.08",
+      "6459.52",
+      "6466.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 12-27\n質問番号 016　地図番号 049\n項目名 イクツ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(11) ページ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6419.09　ナンボ　〈昔、少〉　イクラ\n　　　　イクツ　〈今、多〉\n6423.75　nambo:（ナンボ＝アル？という答であれ）\n6445.57　（?）イクラ、（普通はナンボオである）\n6447.84　ナンボ　〈新、上〉　イクラ\n6449.84　イクラ　〈共〉　ナンボ\n6458.08　ナンボホド アルンヤ（ナンボ）\n6459.52　ナンボイットリマスカ（ナンボ）\n6466.01　ナンボオ アルンデ〈長上に交えて〉\n　　　　ナンボオ アルンナラ〈同等以下に交えて〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01227.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01227",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01227.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6476.93",
+      "6477.02",
+      "6479.26",
+      "6482.52",
+      "6482.75",
+      "6484.43",
+      "6484.78",
+      "6485.14",
+      "6485.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧 12-28 質問番号 地図番号 016 049 ページ (12) 項目名 イワツ? A 普通注記 [B 除いた共通語] [C 除いた特殊語] 地点番号 A 語形とその注 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] ナンボ．　ナンボアルカミテミイ． ナンボ．　〈ナンボイットンドイヤ〉 ナンボナンボアリマスカ．（ナンボ） nambo　（nambo aruka のように言う） nambo　〈nambo aro: kano をとと言う〉 ナンボ．　コンナカニ ナンボアルンナ ナンボ．　コンナカニ マンジュカサンボアル ノイヤ、のように言う。 ナンボ　〈ナンボイットリマスカ？〉 ナンボ．　〈ナンボイットルカ？ときく〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01228.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01228",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01228.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6485.82",
+      "6486.07",
+      "6486.50",
+      "6488.85",
+      "6489.01",
+      "6492.11",
+      "6494.08",
+      "6494.21"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧\n質問番号 016    地図番号 049\n項目名 イワソ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ 12-29\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6485.82　ナンボ　＜ナンボハイットンヤロカ。ナンボア ルンデン＞\n6486.07　ナンボ　\"ナンボアリマスカ.\"の如(言)\n6486.50　ナンボ．　コンナカニナンボイットルンナ．　いくつはいているか．\n6488.85　ナンボ　～ハットルカイ\n6489.01　ナンボ　(B?)．ナンボカ．\n6492.11　naⁿbo　<nambo aroka>\n6494.08　ナンボ　＜ナンボイットンナ＞\n6494.21　ナンボ　ナンボイットルカ．",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01229.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01229",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01229.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6494.55",
+      "6500.88",
+      "6522.37",
+      "6523.54",
+      "6530.58",
+      "6539.12",
+      "6544.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 12-30 質問番号 016 地図番号 049 項目名 イクツ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (14) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 (B・C 残した語形とその注) 6494.55. ナンボ ＜ナンボ ハイットルソ？＞ nambo 6500.88. ikutsu ＜希＞ ikura ＜希＞ 6522.37. イクツ ＜新＞ ナンボ 6523.54 nambo ＜比較的親しみのこもった言い方＞ ikutsu 6530.58. イクラ ＜上＞ ナンボ ＜子、家族＞ 6539.12 i'kutsiu (？は動揺しているようである) 6544.69 ?nambo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01230.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01230",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01230.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6550.13",
+      "6554.08",
+      "6554.45",
+      "6557.36",
+      "6562.22",
+      "6562.48"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　12-31\n質問番号　016　地図番号　049　(A)普通注記　ページ (15)\n項目名　イクツ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6550.13　ナンボ アル　（ナンボ）\n6554.08　イクツ アンニャ\n　　　イクツ アルンカ ＜処あられた時用いる＞\n6554.45　nanbo　　ikutsu　} cf.015\n6557.36　[likutsu]\n6562.22　ナンコ　〈共〉　　　ナンボ\n6562.48　イクツ　（別に改めて言うわけではないと。）（この町には、ナンボという人も多い。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01231.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01231",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01231.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6574.06",
+      "6580.06",
+      "6581.68",
+      "6582.12",
+      "6582.73",
+      "6584.90",
+      "6587.42"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 12-32\n質問番号 016 地図番号 049 項目名 イクツ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (16)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C残した語形とその注]\n\n6574.06 (nambo) （「ナンボアンド」の文型式から抽出した。）\n6580.06　ナンボ　＜少＞　イワツ\n6581.68　ドンダケ　＜多少＞\nナンボ　＜少＞\n6582.12　ドンナケ　＜希＞（ドレダケの訛化）　ナンボ\n6582.73　ナンボ　＜希＞　イクツ\n6584.90　ikutsu　＜見ていて大体わかる時＞\nnambo　＜概数の見当がつかえり時＞\n6587.42　イクツド　＜「イクラ ハイットン/ンドイ」と言＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01232.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01232",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01232.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6591.02",
+      "6591.57",
+      "6593.98",
+      "6594.67",
+      "6600.97"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞〈　〉［　］は厳密にする。\n\n日本言語地図資料用紙注記一覧 12-33\n質問番号 地図番号 016 049\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (17)\n項目名 イクツ\n\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n\nイクツドイ。うのが普通。\n6591.02  イクツ　（イクラと言う人もある。）\n6591.57  ナンボ　＜新＞          イクツ\n6593.98  ikutsu　（奈良県の平坦部のように 「ナンボ」という形は使わない。）\n6594.67  イクツ？（〜アルツナ）＜目上に対して ダッササマ、イクツアリマスカイネ。目下に対して、イクツアルドレ＞\n6600.97  nanko　＜新、共＞    ikutsu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01233.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01233",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01233.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6603.82",
+      "6608.22",
+      "6613.54",
+      "6626.30",
+      "6630.43",
+      "6635.54",
+      "6642.58",
+      "6730.27",
+      "7208.97",
+      "7229.25"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 12-34\n質問番号 016　地図番号 049　項目名 イクツ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(48)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〔〕は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6603.82　イクトウ　〈トウのる音はえり舌のせ〉\n6608.22　イクツ　〈イクツ クレエと聞く。〉\n6613.54　nambo　〈昔〉\n6626.30　nambo　〈昔〉\n6630.43　oikutsü　〈上〉　ikutsüに入れる。\n6635.54　doredake　多。\n6642.58　ikura　少\n6730.27　ikutsuŋ　[juttsu]〈言わない〉\n7208.97　ikutsu　(ikutsu anuke: など)\n7229.25　ikutsu　〈いくつあるかは イクツアルエエという〉\n\n右欄（備考）に ikutsü / ikutsu / ikutsuŋ などの記入あり。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01234.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01234",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01234.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7246.45",
+      "7259.22",
+      "7302.87",
+      "7321.93",
+      "7326.41",
+      "7330.77",
+      "7338.48",
+      "7339.27"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 12-35\n質問番号 016 地図番号 049 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (19)\n項目名 イクツ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 (B・C 残した語形とその注)\n\n7246.45  itoda. 同島神の浦は ikora\n7259.22  ikura <量については doga (sikoという)>\n7302.87? nambo. (数も量も区別なし)\n7321.93  イクツ <〜トルカの様に言う>\n7326.41  nangon <多い、別に改まった感じでは nambo ない>\n.        \n7330.77  ikutsu [前/部落も]\n7338.48  na^bo <na^bo arukaと言う>\n7339.27  na^mbo <na^bo ito:rai? のように使う。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01235.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01235",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01235.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7345.47",
+      "7346.63",
+      "7353.03",
+      "7356.70",
+      "7361.17",
+      "7361.82",
+      "7364.34",
+      "7372.27"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 12-36\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >[ ]は厳密にする。\n\n資料番号 016　地図番号 049\n項目名 イクツ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (20)\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n7345.47　nambo. (B) ナンボカ　ikutsu (ナンボカ)\n7346.63　nambo-\n7353.03　doga/jiko　→ gjaでえu　dojiko\n7356.70　ikutsu　〈多〉　ikutsu\n7361.17　〈[ドシコ]〉〈古〉　イグツ\n7361.82　諸. doga/jiko.　ikutu\n7364.34　イクラ・〈共.新?〉　ドッダケ\n7372.27　ドギャシコ〈下〉〈親近語〉　イクツ\nドシコ　〈下〉〈親近語〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01236.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01236",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01236.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7373.99",
+      "7375.30",
+      "7375.71",
+      "7377.72",
+      "7390.25",
+      "7392.94"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉［］は厳密にする。\n日本言語地図資料用紙 注記一覧 12-37\n質問番号 016 地図番号 049 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (21)\n項目名 イクツ\n（表見出し） A 語形とその注記 [B・C除いた語形とその注] ／ A 注のない語形 [B・C 残した語形とその注]\nドシコ <希><やや古>\nドレシコ <希><やや古>\nイクツ\nnambu <新>\nikutsu\nikutsu. <多>\nnambo\n#dojiko. (どれだけの意)\nikutsu <多>\nnambu\nドガシコ (古)\nイクラ\nナンボ <希>\nイクラ\nドシコ <希>\nイクツ\nイクツ <希>\nイクラ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01237.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01237",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01237.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7394.60",
+      "7401.11",
+      "7401.60",
+      "7401.92",
+      "7402.42",
+      "7402.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    12-38\n質問番号 016.   地図番号 049\n項目名 イクツ\n(A) 普通注記   (B 除いた共通語)   (C 除いた特殊語)    ページ (22)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n7394.60　　ドシコ　　くざっとした言い方、同義、目下＞　　　　イクラ\n7401.11　　na^mbo　　<na^mbo it:oroka?>\n7401.60　　ikura　　＜上＞\n　　　　　na^mbo.　 na^mbo it:toru nde.\n7401.92　　na^nko.　 共.　　　　na^mbo\n7402.42　　na^mbo　　<\"na^mbo hodo arukano?\" という.>\n7402.47　　na^mbo　　<na^mbo hait:oru>という由\n　　　　　　(とoruはteoruの融合した言い方である.)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01238.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01238",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01238.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7403.21",
+      "7403.86",
+      "7404.12",
+      "7404.56",
+      "7412.31",
+      "7412.71",
+      "7420.18",
+      "7421.38"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）［ ］は厳密にする。\n\n日本言語地図資料用紙注記一覧　12-39\n質問番号　地図番号　016　049\n項目名　イグツ\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(23)\n\n地点番号　A 言形とその注記 [B・C除いた言形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7403.21　nambo <don'dake guraiと言うこともある。>\n7403.86　nambo (〈nambo itoru〉のようにいう)\n7404.12　nambo (nambo it:on desu kaと答え。)\n7404.56　nambo. <nambo aru? とか、nambo hait:oru? という.>\n7412.31　nambo <nambo hait:toru>\n7412.71　nambo <下> <nambo hait:ioru>　ikura\n7420.18　nambo. <nambo arana>という。\n7421.38　nambo (〈nambo hait:orumo?zo〉)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01239.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01239",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01239.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7421.62",
+      "7430.80",
+      "7431.08",
+      "7431.82",
+      "7432.95",
+      "7442.39",
+      "7450.44"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　12-40\n資料番号 016　地図番号 049\n項目名 イクツ（？）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（84）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n（のように言う由）\n\nnaᵐbo　＜naᵐbo hamattonu? のよう＞　に使う\n\nikura　＜新＞\n　　　　　　　naᵐbo\n\nikura　＜上＞\n　　　　　　　naᵐbo\n\nnaᵐbo　＜naᵐbo it:oruと言う＞\n\ndoreba:　＜どれぐらいの意＞　nambo\n\ndoreppa: / doreba:　}　まとめて、単用となる。\n\nnambo　［新］　nambu\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01240.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01240",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01240.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7503.48",
+      "8300.11",
+      "8302.19",
+      "8302.91",
+      "8303.84"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 日本言語地図資料用紙 注記一覧 質問番号 016 地図番号 049 項目名 イクツ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ 12-41 (25)\n\nikutu. つは少しあやしい。あるいは、tsuを誤って書いたのかもしれない。\nナンボ　〈希〉\nイクツ\nイクラ　〈ドシコとは言わぬ〉\nイクツ　（ドシコは古くは用いていたと言う。）\nイクラ　〈タ〉\nイクツ、ドシコ\nイクゥッ\nドシコ　〈希〉〈ともに昔から用いる〉\nイクツ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01241.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01241",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01241.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "8313.88",
+      "8316.20",
+      "8325.03",
+      "8333.03",
+      "8343.97",
+      "8351.41",
+      "8352.92",
+      "8354.14",
+      "8373.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n日本言語地図資料用紙注記一覧 12-42\n質問番号 016　地図番号 049　普通注記　ページ (26)\n項目名 イグツ\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n8313.88　nambu　〈タ〉　doçiko\n8316.20　nambo　〈99〉\n8325.03　nambu　(年齢、値段、物の数、すべてナンブである。)\n8333.03　doçko　〈古〉　iku2\n8343.97　dojko　〈古?〉　nambo\n8351.41　ikut　〈上品〉　dasuko\n8352.92　doʃiko　(doma)〈domaは「くらい」の変〉　iku2\n8354.14　nambu　多少　dojiko\n8373.43　dojiko bakkai　㋐ ikutuと主張する。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01242.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01242",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01242.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "8393.69",
+      "8394.01",
+      "9303.88",
+      "9310.27",
+      "0265.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（ ）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 12-43 質問番号 地図番号 016 049 項目名 イクツ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (27) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 8393.69 ikutsu <新> ikura 8394.01 nambo <会話中>（はじめ、こう言う人もいるらしいと、いっていたか） 9303.88 ikura <普通> dojiko <希> nambo <希><昔から物の数を数えるときだけ用いている> 9310.27 dojiko <古> ikutsu 0265.96 ikutsi <ikutsiangga(イクツアルカ)と言って言葉になる。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01243.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01243",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01243.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "0275.97",
+      "0276.50",
+      "0294.66",
+      "0294.93",
+      "1261.80",
+      "2072.20"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<>()[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧    12-41\n質問番号 016    地図番号 049\n項目名 イグツ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (28)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n0275.97    ikutsi   <ikutsiangga イグツアルカと言って初めて使える。>\n0276.50    ikutsi   <angga \"アルカ\"を加えないと、実際には、ikutsiだけでは用いない。>\n\n0294.66    i'kutsu  <ikutji という人もある。>\n0294.93    i'kutji  ... 普通    ikja sa\n1261.80    ikutji   <tjassaともいうことがある。>\n2072.20    ingutji  ikutji に入れる。加藤ルス（読み不確か）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01244.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01244",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01244.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "0789.95",
+      "1867.15",
+      "3765.74",
+      "3794.55",
+      "4638.43",
+      "4648.04",
+      "4657.64",
+      "4657.88",
+      "4658.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉〔〕は厳密にする。\n日本言語地図資料用紙 注記一覧 12-45\n質問番号 016 地図番号 049\n項目名 イクツ\nA 普通注記  B 除いた共通語  C 除いた特殊語 (1)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nikutsu 〈今〉\tnambo\nイクツ 〈共〉\tナンボ\nイグツ (上)\tナンボ\nイグズ 〈新〉\tイグラ〈新〉、ナンボ\nekuzuu 〈共〉\tnambo\nekuzuu 〈共〉\tnambo\ntkuttsu 〈上〉\tnambo〈数などに対した時〉\n\nekuzuu 〈共〉\tnambo\neguzuu 〈新〉〈共〉\tnambo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01245.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01245",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01245.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "4697.92",
+      "4782.96",
+      "4790.74",
+      "5536.78",
+      "5618.43",
+      "5635.65",
+      "5666.18",
+      "5678.33",
+      "6408.88"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　12-46\n質問番号　016　地図番号　049\n項目名　イクツ\nA　普通注記　ページ（2）\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n4697.92 (nambo)    ekutsu (共?) (014に同じ)\n4782.96 ekutsii <稀>    nambo <普通使う>\n4790.74 egudzuu <共>    nambo\n5536.78 ikutsu <共>    nambo\n5618.43 ekudzuu <共上>    nambo: <普通>\n5635.65 イクツ <共>    ドソクライ <雅>\n5666.18 イクツ (共)    ドソクライ (共)\n5678.33 ナンコ <共>    イクツ\n6408.88 イクツ <上, 共, 希> 豊岡市など都会に出ればナンボ 時にイクツを使ってみせる",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01246.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01246",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01246.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6418.13",
+      "6424.20",
+      "6429.15",
+      "6448.23",
+      "6449.33",
+      "6479.95",
+      "6492.50",
+      "6511.49"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞(　)[　]は厳密にする。 日本言語地図資料用紙 注記一覧 12-47 資問番号 地図番号 016 049 項目名 イクツ A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3) 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 6418.13　イクツ　＜共,希＞　ナンボ 6424.20　ikutsüi (aru) ＜上品.しかし希＞　nambo:(aru) 6429.15　イクツ　＜共＞　ナンボ 6448.23　イクツ　＜共＞　ナンボ 6449.33　イクツ　＜新＞　ナンボ 6479.95　イクツ　＜新＞　ナンボ 6492.50　ikutsuu　＜上＞　nambo 6511.49　ナンボ、ナンボとは言わないと言うか、おばあさん（近くの奥上村分校の小使さん）はナンボを使うと言う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01247.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01247",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01247.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6523.86",
+      "6541.52",
+      "6543.05",
+      "6543.56",
+      "6572.97",
+      "6577.71",
+      "7335.34",
+      "7349.86",
+      "7353.03"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧    12-48\n質問番号　016　　地図番号　049\n項目名　イクツ\nA 普通注記　(除いた共通語)　(除いた特殊語)　ページ (4)\n\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形（B・C 残した語形とその注）\n\nikutsu 〈稀〉　　　　　　　　　　　　　　　　nambo\nイクツ 〈共〉　　　　　　　　　　　　　　　　ナンボ\nイクツ 〈少〉　　　　　　　　　　　　　　　　ナンボ\nイクツ 〈新〉　　　　　　　　　　　　　　　　ナンボ\nikutsu 〈共〉〈稀〉　　　　　　　　　　　　　nambo 〈普通に使う〉\n[ikutsu]　　　　　　　　　　　　　　　　dondake\nikuʦu 〈共〉　　　　　　　　　　　　　　　　nambo\nikura 〈新〉　　　　　　　　　　　　　　　　nambo\nikuddan (いくつぐらい)　　　　　　　　　　　dojiko, dogajiko\n　　　　　　　　　　　　　　　　　　　　　ikutsu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01248.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01248",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01248.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7367.61",
+      "7368.32",
+      "7382.93",
+      "7383.98",
+      "7392.33",
+      "7523.05",
+      "8316.20",
+      "8321.58",
+      "1251.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ()[] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 12-49\n質問番号 地区番号 016 049 項目名 イクツ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (5)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7367.61    ikutsu 〈新〉〈共〉    nambo-\n7368.32    ikutsu 〈共〉    nambo\n7382.93    イクツ 〈上〉    ドショコ\n7383.98    ドレシコ 〈やや希〉〈古い言い方〉    イクラ、ドレグライ\n7392.33    イクツ 〈新〉    トレシコ\n7523.05    イクツ 〈共〉    ドンタケ\n8316.20    ikutsu 〈少〉    nambo 〈??〉\n8321.58    ikutsu 〈上〉    dojiko\n1251.98    tjassa 〈新?〉    ikusa",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01249.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M049Q016/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01249",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01249.tif",
+    "source_ljc_id": "LJC-M049Q016",
+    "source_map_numbers": [
+      "049"
+    ],
+    "source_title": "いくつ (個数)"
+  }
+]

@@ -1,0 +1,2569 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.12",
+      "0724.58",
+      "0737.94",
+      "0747.70",
+      "0776.88",
+      "0779.03",
+      "0789.95",
+      "0840.33",
+      "0861.48"
+    ],
+    "other_text": "（上部落書き）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 48-40\n質問番号　154　地図番号　164\n項目名　まないた\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n0724.12\tmanaita\t<野菜・肉両用>\n0724.58\tmanaida\t(saibanという者もある。)\n0737.94\tkiriban\t<野菜用と肉魚用と別しない>\n0747.70\tmanaita\t<二種類あるが名前は区別しない>\n0776.88\tmanaita\t(itaはedaに近い)　saiban\n0779.03\tkiriban\t<野菜用・魚用の区別がない>\n0789.95\tmanaita\t<魚用・野菜用の区別なし>\n0840.33\tsaiban\t<B>\n0861.48\t(sai? saiban)\t<野菜用> } <=> manaita\n（下部にさらにmanaita等の注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04840.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04840",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04840.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "0873.94",
+      "0894.61",
+      "0896.22",
+      "0990.97",
+      "1731.89",
+      "1738.11"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧 48-41\n質問番号　地図番号　169\n項目名　まないた　154\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nmanaita <魚・肉用> <総称>\nsaibanita <野菜用>\nmanaita <野菜用も魚、肉用も>\nマナイタ [キリバンというのを聞いたことがある。]\n(取り消し線) 絵皿　manaita\n<boven no manaita> (魚)\n<sai jin no manaita> (野菜)\nサイバン <も>\nマナエアー\nmanaita <野菜用と肉魚用区別なし>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04841.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04841",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04841.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "1739.10",
+      "1754.16",
+      "1762.10",
+      "1773.27",
+      "1791.33",
+      "1893.10",
+      "2700.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-42\n質問番号 地図番号 164\n項目名 まないた 154\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (3)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）［ ］は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\n1739.10    manaita （総称） 野菜用\n1754.16    saib an  マナイタ 〔サイバン〕 妻\n1762.10    サイバン 〈料理屋用の大さいのをいう〉 アナイタ\n1773.27    サイバン 〈光〉 アナイタ\n1791.33    マナイタ－ サイバンは使わない\n1893.10    manaita 〈野菜用、魚・肉用とも〉\n2700.48    サイバン 〈希〉 アナイタ\n\n（注：手書きの語形注記は判読できる範囲で記載）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04842.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04842",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04842.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2703.18",
+      "2713.83",
+      "2722.67",
+      "2750.44",
+      "2754.11",
+      "2763.28",
+      "2771.22",
+      "2781.58",
+      "2782.16"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-43\n質問番号　地図番号　164　A 普通注記　ページ（4）　項目名　まないた　154\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）（ ）[ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n2703.18　saiban　＜今も稀に聞く＞　manaïta\n2713.83　サイバン　右\n2722.67　サイバン　（左）\n2750.44　サイバン　＜老人ふけ＞　マナイタ\n2754.11　sebaN.　＜古＞　mana'ida\n2763.28　sembaïda　＜古＞　manaida\n2771.22　sementa　＜野菜用と魚用と区別＞\n2781.58　sambaïda　＜上＞　samba.\n2782.16　sembai da　（抹消線）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04843.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04843",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04843.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3609.17",
+      "3688.82",
+      "3701.49",
+      "3730.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-44\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >()[]は厳密にする。\n質問番号　地図番号　164\n項目名　まないた　164\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (5)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n3609.17　sondzise~mba　野菜用\n3688.82　saganase~mba　魚用\n3701.49　se~mbaN　絵?/語形\n(sondzi-se~mbaN)　野菜用\nso:dzi-no-saeban　<野菜用>　saeban\n3730.43　manaida (写)　genban",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04844.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04844",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04844.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3733.88",
+      "3757.59",
+      "3782.71",
+      "3785.68",
+      "3791.02",
+      "4598.74",
+      "4637.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-45\n質問番号　地図番号　164?　項目名　まないた　154\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (6)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nサイハーン　<古>　アナイダー\nサイハーン　<古>\nsabana　(野菜用)\n(魚用) manaida\nサエハーン\nsaiban　(M) se~ban\nsaiban　<客>　manaita\n(下部に続くが判読困難)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04845.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04845",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04845.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4644.10",
+      "4659.50",
+      "4694.95",
+      "4703.18"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n日本言語地図資料用紙 注記一覧 48-46\n質問番号　地図番号　169　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2)\n項目名　きないた 154\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n([kabu; imaneʔta 魚用])    manaeta\n[?o:zi; imaneʔta 野菜用]\nマンナエター　夕は鼻濁音である。（他の...\nmanaeta（挿林　野菜用）\nsakanamanaeta（魚用）\nse:ban.　<切るから裁板というので->\n（以降手書きの注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04846.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04846",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04846.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4703.88",
+      "4706.84",
+      "4712.16"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-47\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　ページ　(B 除いた共通語)　(C 除いた特殊語)\n\n地点番号　A 語形とその注記〔B・C除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\n\n4703.88\tかもしれない　> \tse:baN [古]\tkisi:baN [新]\t<sagamak;iiban>　魚用のもの\n4706.84\tse:eban.　<魚のまないた(大きい)と野菜のまないた(小さい)は区別して使用するが、ことばとしては同じになる。>\n4712.16\tmãena and eta　<蓋>\tkisi:baN <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04847.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04847",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04847.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4713.60",
+      "4715.98",
+      "4716.20",
+      "4725.92",
+      "4736.63",
+      "4742.43",
+      "4743.61",
+      "4744.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >() [] は厳密にする。\n日本言語地図資料用紙 注記一覧 48-48\n質問番号　地図番号　16p\n項目名　まないた　154\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語] (9)\n地 点 番 号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n4713.60  kiliban　<右>　manaeda\n4715.98  seeban　<右>　kiliban\n4716.20  seeiban　<右>\n4725.92  saeban　<右くからえった、今でも使う>\n　　　kiliban　<新?>\n4736.63  manaeta　<右>\n　　　saeban　<新>\n4742.43  maneida　<俗>　manaeda\n4743.61  manaeta　(野菜用と魚用での区別はない)\n4744.10  manaeta　(魚の場合の感じがする)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04848.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04848",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04848.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4744.32",
+      "4753.36",
+      "4771.58",
+      "4773.15",
+      "4773.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-49\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記 (A)　[B] 除いた共通語　[C] 除いた特殊語　ページ (10)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（ ）[ ]は厳密にする。\n\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n[saeban.]　野菜の場合の感じがする\n4744.32　se:ban.　＜くさ＞（野菜用と魚用の区別）\nmanaeta\n4753.36　kgiriban.　（語頭は kgɪ～cc のように）　時によって発音が違う\n4771.58　kiriban.　（上品な落ちつき、年より若い者）　manaeda\n4773.15　kgiriban.　（取り消し線）\nsakanakigiriban.　魚用は特に　kgiriban\n4773.78　kiri:ban.　＜野菜について＞　manaeda　＜魚＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04849.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04849",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04849.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4781.86",
+      "4792.43",
+      "5462.29",
+      "5463.12",
+      "5463.64"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-50\n資問番号　地図番号　164\n項目名　まないた　154\n(A) 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (11)\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n道具がべつなので野菜は切らない　>\nsakana no kiriban. <魚につかう>\nkiriban. <新>\nkiriban. <薬用>\nman aeda <魚用>\n5462.29　キリハン <広>\n5463.12　キリハン <広>\n5463.64　(取り消し線)\nクサバン <魚用>\nショオジンバン <薬用>\n(備考・メモ等、判読できる範囲で転記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04850.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04850",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04850.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5463.73",
+      "5471.59",
+      "5472.34"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-51\n質問番号　地図番号　164\n項　目　名　まないた　154\nA 普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(12)\n\n• A・[B]・[C]ごとに別紙を使用する。\n• その中での情報は地点番号順に並べる。\n• 注記のく＞()[]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\n(上段・上行は取り消し線)\n\n手書き表記（右欄の注記）:\nショオジーバン　<野菜用>\nクサバン　<魚用>\n(取り消し線の語形)\nショオジーキャッパー　<野菜用>\nナマクサキャッパー　<魚用>\nキッパー　<ち>　アナイタ\nヤサイバン　<野菜用>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04851.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04851",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04851.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5508.19",
+      "5516.19",
+      "5537.34",
+      "5555.84",
+      "5556.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-52\n質問番号　地図番号　164\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (13)\n項目名　まないた　154\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5508.19　サカナバン　<魚用>　so:ji:mano ～　benno ～　野菜　（無塩の？）　（箱でも包でも？）　manaita\n5516.19　マナイタ　魚・肉用\n5537.34　キリバン　野菜用\n5555.84　saiban. <ま>\n5556.84　(抹消線あり)\n\nfo:jimmanaita　野菜用　manaita",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04852.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04852",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04852.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5565.19",
+      "5574.84",
+      "5575.00",
+      "5576.60",
+      "5584.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-53\n質問番号　地図番号　164\n項目名　まないた 154\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(14)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5565.19  buemmanaita　魚用   kiriban.\n5574.84  kiriban.\n5575.00  manaita　野菜用\n5576.60  (取り消し、取り消し線あり)\n5584.22  kiribaN.　まないた　魚用\n\n（手書きのローマ字表記や注記が各行に記載されている。ページ下部にさらに同様の手書き項目あり。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04853.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04853",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04853.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5585.63",
+      "5586.56",
+      "5586.70",
+      "5590.53",
+      "5594.02",
+      "5594.37",
+      "5595.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-54\n質問番号　地図番号　16P\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (15)\n項目名　まないた 154\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）［ ］は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5585.63  kiriban.  絵柄\n5586.56  manaita  魚用\n5586.70  kiriban.  (書き込み)\n5590.53  ナマイタ (魚類)\n5594.02  kiriban. (野菜用)\n5594.37  kiriban.\n5595.20  kiriban. 優先\n（手書きのローマ字表記: kiriban, manaita, manai'ta など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04854.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04854",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04854.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5605.57",
+      "5609.26",
+      "5620.32",
+      "5621.43",
+      "5623.85",
+      "5628.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-55\n質問番号　地図番号　164\n項目名　きないた 154\nA 普通注記 [B 除いた共通語] [C 除いた特殊語]　ページ (16)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5605.57　アネエタ。 これは man e ta とええなかった。\n5609.26　manaita　<野菜用>\n5620.32　kiriban　<魚用>\n5621.43　マナイタ　<魚肉用>\n5623.85　manaita　絵柄、野菜用のもの。\n5628.23　kiriban　<野菜用>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04855.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04855",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04855.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5628.70",
+      "5629.23",
+      "5633.45",
+      "5644.74",
+      "5645.43",
+      "5646.12"
+    ],
+    "other_text": "（左上の注記）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧    48-56\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (17?)\n\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き行一覧（概略）：\n5628.70    rjo:ribaN.    <総称, 新>    アナイタ.\n5629.23    ? キリバシン    <右>\n5633.45    maneta    <mana ita たけれど>\n5644.74    マネエタ    <ヤサイ>\n5645.43    マナイタ    <ヤサイ>\n5646.12    サカナイタ    <サカナ>\n\n（右下欄）キリバン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04856.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04856",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04856.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5647.27",
+      "5648.53",
+      "5658.01",
+      "5659.78",
+      "5665.11",
+      "5667.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-57\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n質問番号 地図番号 164\n項目名 まないた 154\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (18)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nアナイタ　<古>\nキリバン　<新>\nキリバン　<（小さいもの）>\nアナイタ　<大きなもの>\nキリバン　<客>\nアナイタ\nサイバン　<古>\nキリバンイタ　<多>\nキリダイ　<少>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04857.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04857",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04857.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5667.24",
+      "5667.97",
+      "5669.19",
+      "5669.96",
+      "5674.11",
+      "5674.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-58\n質問番号　地図番号　164\n項目名　まないた　184\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　ページ (19)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<・>（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5667.24　アナイタ．〈名〉\n(取り消し線) 5667.97\n5669.19　manaita この土地というはつう。\n5669.96　salban. 近ごろ来たりよくもりか一度り。\n5674.11　(取り消し線)\n5674.59　キリバン　〈名、古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04858.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04858",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04858.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5675.36",
+      "5676.52",
+      "5677.28",
+      "5678.33",
+      "5679.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-59\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　(B 除いた共通語) (C 除いた特殊語) ページ (20.)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nマナイタ.　<オモニサオナ オキル>\nキリバン　<タ>\nアナイタ　<サ>\nキリバン　<普通のことば>\nアナイタ　<タ>\nキリバン　<古>\nアナイタ　<寒>\n（意）kiriban.（いちばん 普通に＝）\nseiban\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04859.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04859",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04859.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5680.34",
+      "5682.37",
+      "5686.67",
+      "5687.32",
+      "5687.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-60\n質問番号　地図番号　164\n項目名　まないた 154\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2/)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）〔　〕は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5680.34　manaita　KiribaN.　〈古〉　mana'ita\n5682.37　naba + ;　〈大昔〉\n5686.67　manaita（抹消）　mane;ta　〈悪いことば〉　manaita\n5687.32　マナイタ　〈普通〉　マナイタ\n5687.59　manaita　革用と魚用と区別なし.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04860.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04860",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04860.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5691.37",
+      "5693.13",
+      "5695.47",
+      "5696.68",
+      "5697.53",
+      "5698.81",
+      "5711.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-61 質問番号 地図番号 169 項目名 まないた 154 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (22) ► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の＜＞（ ）[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5691.37 mane:ta (scribble) 絵 5693.13 キリバン <大きいのをり> アネエタ 5695.47 manaita (crossed out) 5696.68 kiriban. 5697.53 mane:ta <俗な言い方> manaita 5698.81 mane:ta 5711.85 kiriban.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04861.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04861",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04861.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5723.36",
+      "5732.13",
+      "5740.43",
+      "5741.25",
+      "5750.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-62\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n質問番号　地図番号　164\n項目名　まないた　154\nA　普通注記（Aに丸）\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（23）\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\nkiribaN.　〈右〉　manaeta\nwswpa　〈葉切用〉\nkiribaN.　〈右〉　manaeta\nマナイタ　〈名〉　キリバーン\nmanaeta　〈亜用〉\nkiribaN.　〈野菜用〉\n〈総称はなく、今こうちゃに使って〉\n半そぐらい、しかし農家では数称に\nKiribaNを多く使う。\n\nサイバーン　〈右〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04862.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04862",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04862.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5751.78",
+      "5751.89",
+      "5752.32",
+      "5752.94",
+      "5772.84",
+      "5780.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-63\n質問番号　地図番号　164\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(24)\n項目名　まないた　154\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の<　>(　)[　]は厳密にする。\n\n地点番号　　A　語形とその注記　[B・C除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\nmanaeta　　<野菜用・魚用の区別なし>\nmanaita　　菜用・魚用の名称上の区別なし。\nkiriban.　　<野菜用>\nmanaeta　　<魚用>\nmanaita　　<魚用>\nsaiban.　　<菜用>\nmanaeta　　<総称>\nsaebaN.　　<これは野菜用>\nmanaeda　　<一般的>\nsaeba N.　　<...>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04863.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04863",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04863.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5781.22",
+      "5781.65",
+      "5782.32",
+      "5782.79",
+      "5782.94",
+      "5790.03",
+      "6338.99",
+      "6339.35"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）（　）は厳密にする。 日本言語地図資料用紙 注記一覧 48-64 質問番号 地図番号 164 項目名 きないた 154 (A) 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ (25) 地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注] 5781.22  sae ban. まないた 5781.65  saeiban  ＜一般家庭にあるもの＞ 5782.32  saeban  <古> 5782.79  <se:ban> 5782.94  se:ban <農家では> 5790.03  se:ban  6338.99  ナマクサイタ <特に区別するとき 魚用> アナイタ 6339.35  キリハン (魚用にはフックかウロコをはずす?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04864.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04864",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04864.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6339.44",
+      "6348.63",
+      "6348.71",
+      "6349.67",
+      "6354.46",
+      "6356.98",
+      "6358.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-65\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n質問番号　地図番号　164\n項目名　まないた 154\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (26)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6339.44　キリバン　<古>　ごく浅い楯形のものがあるらしい　アナイタ\n6348.63　manaita　絵柄　魚用（漢?ではないかと思うが本人がどういう。）\n6348.71　キリバン　<古>　アナイタ\n6349.67　サカナマナイタ　<魚用>\n6354.46　manaita　<野菜用と魚用と区別なし>\n6356.98　サカナマナイタ　<魚用>　アナイタ\n6358.87　キリバン　<絵>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04865.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04865",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04865.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6365.91",
+      "6366.16",
+      "6366.24",
+      "6366.67"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜ ＞( )［ ］は厳密にする。 日本言語地図資料用紙　注記一覧　48-66 質問番号　地図番号　164 項目名　まないた　154 A　普通注記 [B　除いた共通語] [C　除いた特殊語] ページ (27) 地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］ アナイタ〈魚用〉 manaita　〈魚用〉 野菜用 namakusa manaita 〈魚用〉 kiriban　〈野菜用・魚用の区別なし〉 kiriban　〈総称〉 sakanakiriban　〈魚用〉 so:djin kiriban　〈野菜用〉 kiriban　〈総称〉 野菜用は別になし",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04866.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04866",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04866.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6368.59",
+      "6373.59",
+      "6373.84",
+      "6374.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-67 質問番号 地図番号 164 項目名 まないた 184 A 普通注記 ページ (28) [B 除いた共通語] [C 除いた特殊語] ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく <> ( ) [ ] は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] キリバン <古くは> アナイタ manaita (総称) so:dzi:n no manaita <野菜用> namakusai manaita <魚用> kiriban (魚用) -> namakusai kiriban kiriban manaita <但し魚用のみに使う> so:dzi:n manaita (野菜用)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04867.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04867",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04867.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6375.40",
+      "6375.65",
+      "6376.33",
+      "6376.68"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 48-68\n質問番号　地図番号　164\n項目名　きないた　154\nA　普通注記\n(B　除いた共通語)\n[C　除いた特殊語]\nページ (129)\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]\nA注のない語形 [B・C 残した語形とその注]\n\nnamakusa manaita　(魚用)\nmanaita　(絵称)\n63 75.40　manaita　<絵称>\nnamakusa manaita　(魚用)\nso:ji manaita　<野菜用>\n6375.65　アナイタ　(絵称)\nショオシン　アナイタ　(野菜用)\nナマクサイ　マナイタ　(魚用)\n6376.33　kiri:ban　(野菜用と魚用の区別なし)\n6376.68　kiriban　<野菜用?>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04868.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04868",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04868.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6377.11",
+      "6383.28",
+      "6384.25",
+      "6384.73"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞(　)［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 48-69\n質問番号　地図番号　164\n項目名　まないた 154\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(30)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nmanaita　＜魚用＞\n(はっきりと二つの区別がつかないようだ)\n(別に総称なし)\nサカナマナイタ　＜魚用＞　アナイタ\nKiriban　＜野菜用＞\nmanaita　＜魚用＞\n(総称なし)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04869.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04869",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04869.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6385.10",
+      "6385.28",
+      "6386.66",
+      "6387.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-70 質問番号 地図番号 164 項目名 まないた 154 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (3/) ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞( )[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] kiriban ＜野菜用＞ Kiriban ＜魚用? もの たけは＞ namakusa kiribanと まないた ＜魚用・野菜用の区別なし＞ kiriban ＜魚用・野菜用の区別なし＞ manaita ＜魚用・野菜用の区別なし＞ kiriban ＜野菜用＞ manaita ＜魚用 もか→野菜用にも使う＞ 総称 ＜kiriban 野菜用＞ manaita ＜両用＞（総称）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04870.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04870",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04870.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6388.49",
+      "6388.52",
+      "6389.56",
+      "6389.59",
+      "6393.26",
+      "6393.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-71\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]　(32)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\nkiriban　<野菜用>\nmanaita　(野菜用・魚用の区別なし)\nmanaita　(野菜・魚用 区別なし)\nキリバン　(も)\nキリバン　左\nKiriban　(総称)\n\nnamakusa; kiriban\n<魚用のもの、野菜用のものは\n別になし　>\n\n（下部に続く備考など）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04871.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04871",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04871.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6394.09",
+      "6394.78",
+      "6395.46",
+      "6395.97",
+      "6396.08",
+      "6396.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-72\n質問番号　地図番号　164\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n(33)\n項目名　まないた　154\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\nA 注のない語形 [B・C　残した語形とその注]\n\nkiriban とも言う\nアナイタ　<野菜用と魚用の区別なし>\nキリバン　(区別なし)\nキリバン　<野菜用の小さいもの>\nアナイタ　<大きい方をいう>\nkiriban　<野菜・魚用の区別なし>\nmanaita　<絵柄、魚用>\n<kiriban　野菜用>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04872.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04872",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04872.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6396.83",
+      "6397.24",
+      "6397.62",
+      "6398.07",
+      "6398.42"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧 48-73 質問番号 地区番号 164 項目名 まないた A 普通注記 [B] 除いた共通語 [C] 除いた特殊語 ページ (34) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] kiriban ＜野菜用・魚用の区別なし＞ kiriban ＜野菜用 魚用の区別なし＞ manaito ＜足がついてない＞ kiriban ＜足がついている、主として＞ 魚用、牛乳以上の家庭に使う、使う。 manaito 総称 manaita ＜野菜用 魚用 の区別なし＞ manaita （野菜用、魚用の区別なし）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04873.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04873",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04873.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6398.78",
+      "6401.89",
+      "6402.83",
+      "6402.94",
+      "6403.60"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-74\n質問番号　地図番号　164\n項目名　まないた　154\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（35）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n6398.78　kiri ban　〈昔は使っていたが今は使わない〉　manaita\n6401.89　ショオシン マナイタ　〈野菜用〉　アナエダ\n6402.83　アナエタ　〈魚〉\n6402.94　マナエタ　〈魚用〉\n6403.60　アテハン　〈まな板？〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04874.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04874",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04874.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6404.83",
+      "6405.75",
+      "6406.77",
+      "6408.15",
+      "6408.72",
+      "6409.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-75\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号　(164)\n項目名　まないた 154\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (36)\n\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nキリバン、マナイタ、アナイタは魚の時に使う。\n火の他はキリバン。\nmanaita　〈魚用〉\nkiriban　〈野菜用〉\nmanaita　（魚、野菜に対して何んもアナイタであり、キリバンは用いない。）\nキリバン　〈新〉\nkiriban　〈ち〉\nキリバン　〈古、希〉　アナイタ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04875.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04875",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04875.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6409.72",
+      "6410.45",
+      "6410.77",
+      "6411.66",
+      "6412.12",
+      "6413.10",
+      "6413.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-76\n資料番号 地図番号 164\n項目名 まないた 154\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (37.)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n6409.72    ?キリバン    <魚>    アナタ\n6410.45    アナタ    <魚用>    アナタ\n6410.77    ショオシンアナイタ    <葉>    アナエタ\n6411.66    エオマナエタ    <魚用>    アナエタ\n6412.12    ナマクサ／ノマナイタ    <魚用>\n6413.10    nahajaji    <野菜用>\n6413.43    manaita / sakanai'ta, nana'ita    <魚用>\n\n(手書きの語形や注記が続く)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04876.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04876",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04876.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6413.76",
+      "6414.17",
+      "6414.25",
+      "6415.23",
+      "6415.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-77\n質問番号 地図番号 164\n項目名 まないた 154\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\n(38.)\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n64 13.76 manaita まないた  キリバン, マナエタ. アナエタは魚に使い、その他 はキリバン\n64 14.17 manaita <魚用>  kiriban <野菜用>\n64 14.25 kiiban [ち]  kiribaN.\n64 15.23 kiribon <野菜用>\n64 15.78 kiriban <野菜用>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04877.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04877",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04877.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6415.80",
+      "6415.83",
+      "6416.08"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-78\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）［］は厳密にする。\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (38)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6415.80　manaita　＜魚用＞\n＜自分は アナイタのみを用いる が、キリバンも聞いたことがある。 マナイタよりも 上品な言い方と 思っている。＞\n6415.83　kiriban（?）　＜野菜を切る＞\nmanaita　＜魚を切る＞\n6416.08　マナイタ　（野菜、魚用共にアナイタという）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04878.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04878",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04878.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6416.31",
+      "6416.58",
+      "6417.14",
+      "6417.72",
+      "6417.85",
+      "6418.13"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜ ＞( )[ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 48-79\n質問番号　地図番号　164\n普通注記　[A]　ページ (40)\n項目名　まないた\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6416.31    manaita    (キリバンは言わないとのこと)\n6416.58    キリバン    野菜用\nナマクサマネエタ　魚料理のものをさす\nアネエタ　＜続称＞\n6417.14    kiriban　<タ>　(この二つは魚用　野菜用　区別なく用いる)\nmanaita\n6417.72    manaita　〈二つとも区別なく(野菜…)\nkiriban\n6417.85    kiri.ban　古い言い方　manaita\n6418.13    キリバン　〈野菜〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04879.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04879",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04879.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6419.09",
+      "6419.50",
+      "6419.69",
+      "6420.34",
+      "6420.60"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-80\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (4/)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n表ヘッダ：地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n(手書き表の内容・一部読み取り)\n6419.09　ナマイタ　<魚料理用>\n6419.50　ナキリ　<古、野菜用>　アナイタ\n6419.69　キリバン　<古、野菜用>\n6420.34　ショオジン　マナエタ　<野菜用>（精）　アナエタ\n6420.60　ナマクサ／キリバン　<魚用>\n\n（その他手書きの語形や注記が複数記載されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04880.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04880",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04880.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6421.26",
+      "6423.23",
+      "6424.20",
+      "6424.89",
+      "6426.04"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　48-81\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (42.)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n6421.26　ナキリマナエタ　（野菜用）　アナエタ\n6423.23　エオマナエタ　（魚用）\n6424.20　mahayaji?　草用\n6424.89　manaita　絵物／絵材\n6426.04　kiriban　＜野菜用＞\n6426.04　manaita　＜魚料理用＞\n（頁下 部分の手書き注記や語形は不明瞭だが上記が判読可能な箇所の写し）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04881.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04881",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04881.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6427.27",
+      "6427.6",
+      "6427.93",
+      "6433.34"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-82\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > () [ ] は厳密にする。\n質問番号　地図番号　164\n項目名　まないた 154\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (63)\n地点番号\nkiriban    野菜用 > 新旧まど〜ない\nnakiribow\n6427.27.   monaita   <自分はどちらも言>\nkiriBAN    魚、野菜の区別はない\n6427.60.   Kiriban.   [ち]\n6427.93.   monaita   <タ>\nkiriban    <ち>\n6433.34.   アナイタ　菜　キリバン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04882.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04882",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04882.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6436.98",
+      "6439.17",
+      "6440.67",
+      "6442.80",
+      "6440.81",
+      "6444.62",
+      "6449.20",
+      "6449.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-83\n質問番号 地図番号 164p\n項目名 まないた 154\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (4p)\n\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n6436.98   キリバン  <希>    アナイタ\n6439.17   Kiri ban  <野草用>   manaita <魚用>\n6440.67   サカナマナイタ <魚用>   アナイタ\n6442.80   キリバン  斧  アナイタ\n6440.81   kiri ban  終林魚用  アナイタ\n6444.62   キリバン <…>\n6449.20   アナイタ <くいすれも>\n6449.33   アナイタ <いずれも>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04883.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04883",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04883.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6452.83",
+      "6453.64",
+      "6455.31",
+      "6458.08",
+      "6458.40",
+      "6460.08",
+      "6460.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 48-84 質問番号 地図番号 164 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] (45) 項目名 まないた 154 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6452.83 キリバン (ち) アナイタ。 6453.64 マナイタ。 <新、葉> キリバン 6455.31 manaita 魚肉用 □ 型 6458.08 Kiri.ba. 野菜用 □ 型 6458.40 アナイタ。 <どちらも> 6458.40 #ナアプサイマナイタ。 アナイタ。 6460.08 キリバン (ち) アナイタ。 6460.10 manaita キリバンとは厚みのうすい 大きな棚",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04884.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04884",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04884.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6464.77",
+      "6466.41",
+      "6469.77",
+      "6470.59",
+      "6472.53",
+      "6472.58",
+      "6473.04",
+      "6476.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-85\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[ ]は厳密にする。\n質問番号　地図番号　164p\n項目名　まないた 154\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (46)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n井キリハン　<普>　マナイタ\nmanzeita　<新>\nkiriba　<ち>\nマナイタ　<どちらも>\nキリバン　(多)\nナマクタ　「生のものを切るからというよう」　キリバン\nキリバン　(ち)\nキリバン　(ち)\nマナイタ　野菜用と魚用とはことな〜\n（以下手書きの注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04885.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04885",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04885.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6476.92",
+      "6477.02",
+      "6479.26",
+      "6479.85",
+      "6481.56",
+      "6482.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-86\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n質問番号　地図番号　164　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (47)\n項目名　まないた 154\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n6476.92.　アナイタ.　裏表に使い分ける。<魚用も野菜も同じものを用い、洗って使い分ける。>\n6477.02.　アナイタ.　<野菜用と魚用と区別はするけれども、名称は同じく「まないた」である。>\n6479.26.　アナイタ.\n6479.85.　アナイタ.　<いずれも>\n6481.56.　キリバン　希.\n6482.52.　manaita　(瀬戸部落では)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04886.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04886",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04886.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6484.43",
+      "6485.14"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）[　]は厳密にする。 日本言語地図資料用紙 注記一覧 48-87 質問番号 地図番号 164 ページ (48.) 項目名 まないた 154 A 普通注記 [B 除いた共通語] [C 除いた特殊語] 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] kiri,ba という. 紹介者族. 6484.43 ソオマナイタ. (魚用) <魚のことをゾオモンという? そのまないたを野草用と区別して リオアナクタという.> マナイタ. 6485.14 マナイタ <魚と草とは使用を区別する ぬけでことばとしてはあまり 区別しない. いって区別すれば ウオアナイタとマナイタである.>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04887.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04887",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04887.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6485.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞（）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 48-88 質問番号　地図番号　169? 項目名　まないた　154 A　普通注記 [B　除いた共通語] [C　除いた特殊語] ページ (49) 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注] 6485,30 アナイタ、ソオマナイタ <ショオシンマナイタ> （魚の料理に用いるのはソオ） アナイタという。すべて魚料理には ゾオという。コントン ホホー（法事） ハツオテ スルソ？ ソオ イルタ（魚を使った） 又その洗い桶をソオオケという。 普通フマナイタは 時にはショオ シンマナイタという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04888.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04888",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04888.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6485.46",
+      "6485.82",
+      "6487.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-89\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (50)\n\n地点番号　A語形とその注記 [B・C 除いた語形とその注]\n6485.46　アナイタ。〈野菜用、魚用の物の区別はするが、名称は同じである。古いのを魚用にする。〉（但し、家によっては魚用は板を厚くしたりしている。）\n6485.82　アナイタ。〈魚を料理するときは昔は部屋い板のアナイタ（足がついていない）を裏返しにして使った。〉ともにアナイタである。\n6487.43　アナイタ、ウオマナイタ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04889.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04889",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04889.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6487.66",
+      "6489.27",
+      "6491.49",
+      "6492.11",
+      "6494.08"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-90\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n（枠内）\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (5/)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n<ウオマナイタ は魚料理用つもり。 それをも含めてすべてマナイタという。>\n\n6487.66　アナイタ.　<野菜、魚の区別をしない。>\n6489.27　アナイタ.\n6491.49　manaita (沿岸部の大港部落では kiriita も使う。)\n6492.11　manaita 'ほうちょう' は hotje;o\n6494.08　ウオマナイタ.　<魚、鶏肉などのなまぐさり アナイタ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04890.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04890",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04890.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6494.21",
+      "6498.55",
+      "6500.22",
+      "6501.86",
+      "6503.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-91\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　164\n項目名　まないた　154\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（52）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n6494.21　アナイタ　それを料理するものは野菜用と区別してソオマナイタという。　野菜用 魚用の区別をしない。\n6498.55　アナイタ　＜野菜用、魚用ともに活用＞　（これはアナイタである。）\n6500.22　ナギリ　（野菜用）\n6501.86　アテ　＜やつ、あ＞\n6503.73　manaita　（総称）　namaywsa nanaita　（魚用）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04891.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04891",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04891.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6512.67",
+      "6514.38",
+      "6514.61",
+      "6517.65",
+      "6519.43",
+      "6521.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-92\n質問番号　地図番号　164　普通注記\n項目名　まないた　154　ページ (53)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6512.67\tso:dzi:manaita　(野菜用)\n6514.38\tmanaeta　魚用\n6514.61\tkiriban　野菜用\n6517.65\tkiriban　〈料理屋の板前が使〉\n6519.43\tマナイト　〈共〉\n6521.17\tアテ　左。\n（※手書きの注記や語形の表記は読み取りにくい箇所あり。上は視認できるおおよその転写。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04892.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04892",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04892.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6523.54",
+      "6524.01",
+      "6524.66",
+      "6525.05",
+      "6525.30",
+      "6525.90",
+      "6529.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-93\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n質問番号　地図番号　164\n項目名　まないた　154\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (54)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nkiriban. <む>\nkiriban. <む>\nmonaita <料理屋などにある大きい?> kiriban\nnakkiriban. <野菜用?>\nmonaita <魚用?>\nkiriban. <む>\nmonaita <野菜用,魚用 区別なし>\nkiriban.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04893.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04893",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04893.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "6530.23",
+      "6533.89",
+      "6534.13",
+      "6534.37",
+      "6534.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 48-94\n質問番号 地図番号 164 ページ (55)\nA 普通注記 [B 除いた共通語] [C 除いた特殊語]\n項目名 まないた 154\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n65 30.23  キリバン <古>  アナイタ\n65 33.89  Kiriban  <魚、野菜用の区別なし>\n65 34.13  Kiriban  <野菜用>\nmanaita  <魚肉用>\n65 34.37  manaita  <野菜用、魚用 何れも>\n（手書き注記） アナイタ? あるが、野菜用の\nアナイタは チリトリのようす\n形をしている>\n65 34.41  Kiriban.  <野菜用、ちりとりのように>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04894.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04894",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04894.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "6534.85",
+      "6535.73",
+      "6535.90",
+      "6537.06",
+      "6544.26"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（ ）［ ］は厳密にする。 日本言語地図資料用紙　注記一覧　48-95 質問番号　地図番号　164 A 普通注記 ページ（56） [B　除いた共通語] [C　除いた特殊語] 項目名　まないた　154 地点番号　A　語形とその注記［B・C除いた語形とその注］ A 注のない語形［B・C 残した語形とその注］ manaita　〈魚用〉 kiriban.　〈ちりとりのように 三方に〉 かみのあるもの。〉［野菜用］ manaita　〈魚用〉 kiriban.　〈野菜用〉 manaita　〈魚用〉 manze:ta　〈新?〉 これは魚用にかきられている。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04895.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04895",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04895.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "6544.69",
+      "6547.24",
+      "6549.03"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-96\n質問番号　地図番号　164\n項目名　まないた　154\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(57?)\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\nkiriban.　〈三方を板でかこってあるもの〉\nとい屋さんは野菜用である。〉\n(丁度、ちりとりのような形をしている。)\n\n65 44.69　[manaita]　kiriban.\n65 47.24　kiriban.　野菜用　魚用\n65 49.03　kiriban, manaita\n\n〈調理板は一般に kiriban.〉\nというか、特に魚用を…",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04896.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04896",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04896.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "6569.69",
+      "6554.88",
+      "6557.14",
+      "6557.36",
+      "6557.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    48-97\n質問番号 地図番号 164\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (58)\n項目名 まないた 154\nA 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n手書き欄:\nkiriban.  <新、希>\nmanaita  <かつて短期(用) 2-はあるが>\nタバコの栽培をしていたとき\nタバコ用にするものを\nkiribanと称した。\nmanaita  <とくに魚を料理する板> kiriba (N)\n[kiribaN]\nmanaita  <魚の甲のもの> kiriban\n\n(手書きの語形や注記が続くが不鮮明な箇所あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04897.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04897",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04897.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "6557.77",
+      "6558.37",
+      "6559.46"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　48-98\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n質問番号　地図番号　169\n項目名　まないた　154\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（59）\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nKiriban. <家庭のは野菜等用でも魚を料理するのでも。\n魚を料理するのでも。\nKiribanと言うと思うか?\n魚屋の使うのは manaita と言うようだ。>\n\nKiriban. <野菜などを料理する板>\n#manaita <魚を料理する板>\n\nKiriban. <魚以外>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04898.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04898",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04898.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "6559.67",
+      "6560.22",
+      "6561.49",
+      "6562.48",
+      "6567.86",
+      "6568.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-01\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n質問番号　地図番号　164\nA 普通注記　ページ　（60）\n項目名　まないた 154\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nmanaita　＜魚用＞\nkiriban.　＜家庭で普通に使う料理板＞　（直にはあまり使わぬ）\nmonaita　＜魚屋などのもっているもの＞\nアナイタ　＜野菜用＞\nクサマナイタ　＜魚用＞\nアナイタ　＜焼杉、それ以外にはない＞\nアナイタ　＜魚・肉・菜の区別なし＞\nkariba　＜峠＞\nkiriban　＜野菜に使う＞\n（その他手書きの注記や語例あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04901.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04901",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04901.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "6571.15",
+      "6572.97",
+      "6574.06",
+      "6576.56",
+      "6583.93",
+      "6585.25",
+      "6591.02",
+      "6594.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-02\n質問番号 地図番号 164\n項目名 まないた 154\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (61)\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A注のない語形 [B・C 残した語形とそっ注]\n\nita  <魚の料理に使う>\n<絵紋なし>\n65 71.15 アナイタ  <肉、葉とも>\n65 72.97 monaita  <野菜用と魚用とは区別しない。>\n65 74.06 monaita  <野菜用と魚用とは区別しない。>\n65 76.56 kiribay [黄]  monaita\n65 83.93 kiribana <古>  monaita\n65 85.25 キリバン  <キリバンは昔よく使った。> アナイタ\n65 91.02 アナイタ  (キリバン、キリハコも用る)\n65 94.67 アナイタ  <良い裁では (ヨオン＝マナイタ) ...>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04902.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04902",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04902.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "1595.9",
+      "6603.52",
+      "6604.98",
+      "6611.61",
+      "6613.77",
+      "6616.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-03\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n地図番号 164p\n項目名 まないた 154\nページ (62)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\nというものがあって、法事など特別の際に用いる。>\n\n1595.90  manaita  <魚用>\n6603.52  kiriban.  <野等用>\n6604.98  manaita  <む>\n6611.61  Kiriban.  <新>\n6613.77  キリバン  <む>\n6616.77  manaita  <共>\n\n（手書きの語形や注記が複数行にわたり記入されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04903.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04903",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04903.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "6620.20",
+      "6621.57",
+      "6621.94",
+      "6623.28",
+      "6623.53",
+      "6624.65",
+      "6625.66",
+      "6627.12"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-04\n質問番号　地図番号　164\n項目名　まないた　154\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(63)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）［］は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\nkiriban.\nバン　〈大きなマナイタをいう〉　アナイタ\nkiriban.　区別はしているが、名称は一つ？\nkiriban.　(両用を兼ねる、足あり)\nキリバン　〈帯〉\nkiriban　(野菜用、魚用の区別)はあるが名称は一つ\nmonaita　魚・菜用の区別はしない\nkiriban　〈野菜用、魚用の区別なし〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04904.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04904",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04904.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "6629.24",
+      "6631.53",
+      "6631.60"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-05\n質問番号　地図番号　164　普通注記　ページ (64)\n項目名　きないた　154\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n（表見出し）地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\ntsukeba といふ。>\n注, 被調査者はすし屋\n(そと通夫)\n6629.24 manaita　魚用\nkiriban　野菜用\n6631.53 kiride:, kiriban\nmanaita と区別して使って\nいるが名称はー?\n6631.60 kiriban, manaita\n野菜用、魚用の区別はしていない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04905.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04905",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04905.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "6631.69",
+      "6632.88",
+      "6633.27",
+      "6633.33",
+      "6633.89"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく　＞(　)[　]は厳密にする。\n日本言語地図資料用紙　注記一覧　49-06\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (65.)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6631.69　kiridai　色別に用いるときも同じ。通常は裏表で使い分ける。\n6632.88　monaita　(野菜用)　sai　(魚用)\n6633.27　monaita　色別にして使ってはいないか？　名前はひとつ。\n6633.33　monaita　(後略・魚専用)\n6633.89　monaita　色別はついているが、用語は　kiriban ー？",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04906.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04906",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04906.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "6634.07",
+      "6634.32",
+      "6634.33",
+      "6635.36",
+      "6635.44",
+      "6635.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-07\n質問番号 地図番号 164\n項目名 まないた 164\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (66)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n表ヘッダ: 地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n6634.07  kiriban. 区別はするが秤呼は一つ?\n6634.32  kiriban. 野菜、魚の区別なし。 一枚を裏返して使う。\n6634.33  kiriban. 区別をしているが、秤呼はひとつ。\n6635.36  monaita 区別しているが、名称は→\n6635.44  kiriban 区別して使っているが、称呼は一つ。\n6635.54  kiriban (焼結)(野菜専用のときも) monaita (魚専用)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04907.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04907",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04907.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "6635.87",
+      "6636.05",
+      "6636.62",
+      "6639.27",
+      "6639.79",
+      "6641.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-08\n質問番号 地図番号 164\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (67)\n項目名 まないた 15\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\nKiriban. 古\t\t\tmonaita\nkiriban.　区別（に使うが、統呼は一つ）\nmonaita　＜菜＞　＜野菜用、魚用の区別は\nkiribana　＜菜＞　あるが、ことは？\nKiribaN.　＜野菜用＞　＜技術はない＞\nmonaita　＜魚用？＞\nkiriban　区別して使っているが\n\nkiriban　区別（に使っているが、...）\n名称は一つ、長い魚（かつお）などに使う、大きさのを\n...（読み取りにくい部分あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04908.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04908",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04908.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "6641.43",
+      "6641.82",
+      "6641.97"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 49-09\n質問番号　地図番号　164\n項目名　まないた\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (68.)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nmanaita　<区別(しているか)。名称は一つ。>\nsakanaban　<特に魚用で使う名>　<古くは bandai, ban b>\n<なくは bandai, ban b>\nいつも自分は使わなかった。\nmanaita　<区別をして使い分けているが名称には区別はない。>\nmanaita (漁事用)　絵柄はない。\nkiriban　(野菜用)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04909.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04909",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04909.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "6642.58",
+      "6643.15",
+      "6643.16",
+      "6643.72",
+      "6645.37",
+      "6645.62"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-10\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ　(69)\n▸ A・[B]・[C]ごとに別紙を使用する。\n▸ その中での情報は地点番号順に並べる。\n▸ 注記のく < > ( ) [ ] は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6642.58　kiriban　絵柄、野菜用\nmanaita　魚用\n6643.15　kiriban　区別して使っているが名前は一つ\n6643.16　kiriban　新\n6643.72　manaita　(絵柄)(魚専用)\n6645.37　kiriban　(野菜専用)\n6645.62　kiriban　<新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04910.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04910",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04910.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "6646.23",
+      "6646.74",
+      "6649.55"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-11 質問番号 地図番号 164 項目名 まないた 154 A 普通注記 ページ (70) [B 除いた共通語] [C 除いた特殊語] ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）[]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] manaita (野菜用と魚用は足の有無で区別しているが名義は一つ) 66 46.23 kiriban. <野菜、魚 それぞれ別り> 66 46.74 Kiriban. manaita <別とに分けるときは> jasai kiriban sakanaki kiriban 66 49.55 manaita <蓋>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04911.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04911",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04911.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "6650.12",
+      "6650.70",
+      "6650.79",
+      "6650.94",
+      "6651.32",
+      "6651.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-12\n質問番号　地図番号　164\n項目名　まないた　164\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（71）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく <>（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6650.12    kiriban. <上流域で.> (漁具)\n6650.70    manaita  (区別（しているか）不明)\n6650.79    kiriban.  魚用、野菜用の区別についての注\n6650.94    ban  区別はあるが秩序は一つ\n6651.32    monaita  <炊術>\n6651.64    ban  炊事・野菜用\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04912.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04912",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04912.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "6652.06",
+      "6652.30",
+      "6652.77",
+      "6653.30",
+      "6655.38",
+      "6655.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-13\n質問番号　地図番号　664\n項目名　まないた\nA 普通注記\n[B] 除いた共通語　[C] 除いた特殊語　ページ (92)\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n6652.06　sakanaban.　魚用\n6652.30　kiriban.　魚用・野菜用の区別はない\n6652.77　kiriban　（野菜用）\n6653.30　manaita　（魚用）\n6655.38　kiriban.　（野菜用）\n6655.51　manaita　（魚用）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04913.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04913",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04913.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "6655.87",
+      "6655.97",
+      "6656.31",
+      "6661.02",
+      "6662.01",
+      "6662.38"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 49-14\n質問番号　地図番号　164　A 普通注記　ページ (73)\n項目名　まないた\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nkiribana　<野菜用>\nmanaita　<絵符, 野菜用>\nsakanamanaita　<魚用>\nmonaita　区別はするが、呼呼は一つ？\nmanaita　<絵符と野菜用>\nnamayusamanaita　<魚用>\nban.　<二種区別している>\nban.　野菜用\nsakanaban　魚用\nban.　絵符",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04914.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04914",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04914.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "6665.01",
+      "6665.25",
+      "6667.81",
+      "6697.49"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-15\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）[ ]は厳密にする。\n\n質問番号　地図番号　164\n項目名　まないた　154\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（74）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nsakanaban.　魚用のものに言う。\n（野菜専用のものは特に称呼はない。）\nmanaita　野菜用\nkireban.　魚用\nmanaita　〈野菜、魚、両方につかう〉\nうら返しにして。\nmanaita\nkiriban\nkiriban　(手書きの語形等)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04915.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04915",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04915.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [
+      "6697.59",
+      "6698.20",
+      "6700.25",
+      "6710.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-16\n質問番号　地図番号　164\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (75)\n項目名　まないた\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6697.59　KiribaN.　〈新?〉\tmonaita\n6698.20　KiribaN.　〈B?〉\tmonaita\n\n（この調査を終って後、僕は 懐太郎翁に聞った為、被調査者 が神職である故に使う。 特殊なことは... ないかと判れ、 しかし KiribaN は伊ヶ谷、 阿左にも残集されている。）\n\n6700.25\tse:bana\t〈b〉\tmonaita\n6710.70\tmonaita\t〈大型〉〈長アミー四尺のもの〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04916.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04916",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04916.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "6711.60",
+      "6721.31",
+      "6730.27",
+      "7218.09",
+      "7218.26",
+      "7218.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-17\n質問番号　地図番号　164\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (76)\n項目名　まないた 154\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n6711.60\tkiriban.　<小型>　<長さ一、並〜大のもの>\n6721.31\tmanaita　<小さくて野菜用>\n6730.27\ttatsiita　<魚用。この方が大きく、持ち手有>\n7218.09\tkiriban.　<希>(清掃?)\n7218.26\tsojigkiriban\n7218.58\tkiriban　<野菜>\n表内の手書き語例: kiriban, manaita, kusaki kiriban, sojig kiriban\n（手書きが不鮮明な箇所あり、上は粗い書き取り）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04917.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04917",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04917.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "7238.90",
+      "7239.24",
+      "7246.45",
+      "7249.95",
+      "7258.82",
+      "7268.87",
+      "7279.01",
+      "7302.87"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-18\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n質問番号　地図番号　164　項目名　まないた 184\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (77)\n表見出し：地点番号　A語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C 残した語形とその注〕\n手書き行（抜粋、地点番号は省略）：\niokiribAN.　<魚>　　キリバン　<も?>　　マナイタ.\nja/ja:manaita　<野菜>　nona i ta　rawakusamanaita　<魚>\nkiriban.　　(ki:ban)　キリバン　野菜用、魚用の区別はない\n*kiriban　<も>　　nonaita\n(kiriban)　Ki:ban.　キリバン　(野菜用に使うもの)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04918.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04918",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04918.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [
+      "7303.61",
+      "7307.18",
+      "7307.48",
+      "7309.61",
+      "7317.29",
+      "7318.04"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-19\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号 地図番号 164\n項目名 まないた 154\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (78)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n7303.61    monaita    (魚料理用に使うもの)\n7307.18    kiriban    野菜のとき\n7307.48    kiriban    <古い>    monaita\n7309.61    kiriban    <野菜用 と 魚用 の区別なし>\n7317.29    kiriban    <魚用、野菜用 区別なし>\n7318.04    monaita    <野菜用、魚用 区別なし>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04919.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04919",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04919.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [
+      "7322.81",
+      "7331.27",
+      "7332.46",
+      "7333.51",
+      "7336.28",
+      "7351.09",
+      "7352.14",
+      "7352.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-20\n質問番号 地図番号 164\n項目名 まないた 154\n(A) 普通注記    ページ (79)\n[B 除いた共通語]\n[C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\nmanaita    <野菜と魚と板の表裏で区分する。称呼に変りはない。>\nmanaita    (Kiribanと聞いたことないと答う？)\nmanaita    (キリバンは聞いたことがない)\nkiriban    (黄)\nban.    <古>\nmanaita    <キリハンなし>\nアナタ。    <キリハンはえわぬ>\nアナナ。    <昔からずっと今まで>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04920.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04920",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04920.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "7354.23",
+      "7356.70",
+      "7361.17"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく >（ ）[ ] は厳密にする。 日本言語地図資料用紙 注記一覧 49-21 質問番号 地図番号 164 項目名 まないた A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (80) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] キリバン  ＜新しいことはであるが 今は当地では普通に用いられているようである。＞ ＜アナイタもキリバンも同じもので区別はない。＞ 7354.23. アナイタ キリバン ＜やっち＞ ＜器物および用法に区別はない。＞ 7356.70. manaita ＜る＞ ateita 7361.17. キリバン、キルバン （手書き注記、やや判読困難） アナイタ ＜魚用？＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04921.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04921",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04921.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_080.jpg",
+    "page_index": 80,
+    "location_numbers": [
+      "7361.82",
+      "7362.42",
+      "7362.67",
+      "7363.58",
+      "7363.85"
+    ],
+    "other_text": "日本雪語地図資料用紙 注記一覧 49-22\n質問番号　地図番号　164\n項目名　まないた\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (81)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7361.82.　manaita　野菜用と魚用との区別がない\n7362.42.　アナイタ　終焉としてはキリハンよりも古い　魚料理のせつ\n7362.67.　アナイタ　＜古くからいう＞\n7363.58.　アナイタ　魚を料理する太いものをいう　キリバン　ことがある\n7363.85　キリバン　基本? ＜両者は同じもの＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04922.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04922",
+    "source_canvas_label": "81",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04922.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_081.jpg",
+    "page_index": 81,
+    "location_numbers": [
+      "7364.34",
+      "7365.51",
+      "7372.03",
+      "7372.27",
+      "7372.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-23\n質問番号　地図番号　164\nA 普通注記\n[B 除いた共通語]　[C 除いた特殊語]　ページ (82)\n項目名　まないた\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）［ ］は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7364.34　キリバン　絵称　つけもの　野菜　用のもの\n7365.51　Kiriban. <帯>　manaita\n7372.03　キリバン <帯>　新旧の区別はない　同一物で区別はない\n7372.27　アナイタ (キリバンとはえわぬ)\n7372.96　アナイタ <キリバンというのは新しい　ことはって自分は用いない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04923.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04923",
+    "source_canvas_label": "82",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04923.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_082.jpg",
+    "page_index": 82,
+    "location_numbers": [
+      "7373.56",
+      "7373.92",
+      "7373.89",
+      "7374.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-24 質問番号 地図番号 164 項目名 まないた 154 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (83) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7373.56 キリバン（野菜用） と区別する傾向 アナイタ（魚用） もある 7373.92 アナイタ（魚用） どちらも キリバン（野菜用） 古くから使う 7373.89 キリバン ＜本来 この土地のことは＞ あるまい。 まれに、大きい板のアナイタを まれに、大小い板のアナイタを いろいろな。 7374.15 [アナイタ] [最新] [キリバン] [やっ古]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04924.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04924",
+    "source_canvas_label": "83",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04924.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_083.jpg",
+    "page_index": 83,
+    "location_numbers": [
+      "7375.37",
+      "7375.96",
+      "7381.38",
+      "7382.58",
+      "7382.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-25\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n質問番号　地図番号　164\n項目名　まないた\nA 普通注記　　ページ　(84)\n[B　除いた共通語]\n[C　除いた特殊語]\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7375.37　manaita　<多?>　　　　kiriban\n7375.96　kiriban　<~manaita -- 3どんなそを>\n7381.38　アナイタ\n7382.58　(取り消し)\n7382.93　キリバン　<多?>\n\n（ページ下部に続く手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04925.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04925",
+    "source_canvas_label": "84",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04925.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_084.jpg",
+    "page_index": 84,
+    "location_numbers": [
+      "7383.98",
+      "7385.84",
+      "7386.63",
+      "7390.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-26\n質問番号　地図番号　164\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名　まないた　154\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（手書き注記）\n野菜用とする所か〜　ないように思う。\n7383.98　キリバン　＜古くから＞\n7385.84　kiriban　＜老人語＞\n7386.63　manaita　＜名＞\nkiriban　（旧方言としてはこの語形か。多く使われている。）\n7390.26　キリバン、マナイタ\n＜古くから昔に用いる＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04926.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04926",
+    "source_canvas_label": "85",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04926.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_085.jpg",
+    "page_index": 85,
+    "location_numbers": [
+      "7392.33",
+      "7392.45",
+      "7394.60"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-27\n質問番号　地図番号　164\n項目名　まないた\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (86)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n(用途・用法に区別なし >)\nキリバン　〈野菜、大根用〉\nアナイタ　〈魚をこしらえる　足がついてなく、形もキリバンより大きい〉\n〈総称はない〉\nアナイタ　〈魚用のものをしることが…　キリバン〉\nマナイタ　〈キリバンということが多いが　キリバン〉\nマナイタも古くからのことはってあると思う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04927.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04927",
+    "source_canvas_label": "86",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04927.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_086.jpg",
+    "page_index": 86,
+    "location_numbers": [
+      "7405.21",
+      "7415.85",
+      "7501.14",
+      "7501.72",
+      "7502.89",
+      "7503.11",
+      "7513.15",
+      "9659.31"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 日本言語地図資料用紙 注記一覧 49-28 質問番号 地図番号 164 A 普通注記 (B 除いた共通語) [C 除いた特殊語] ページ (87) 項目名 まないた 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7405.21 manaita 7415.85 kiriate 7501.14 キリハン 7501.72 キリバン 7502.89 monaita 7503.11 Kiri ban (野菜用と魚用の区別なし) 7513.15 monaita (野菜用と魚用の区別はない) 9659.31 kiri ban sakana kiriban",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04928.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04928",
+    "source_canvas_label": "87",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04928.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_087.jpg",
+    "page_index": 87,
+    "location_numbers": [
+      "7659.51",
+      "8300.11",
+      "8301.19",
+      "8302.19",
+      "8302.55"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-29\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく〈〉（ ）[ ]は厳密にする。\n\n[右上の表]\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (89)\n\n地 点 番 号　　A 語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n\n7659.51　Kiriban.　〈新〉　　　　kiri:ta\n8300.11　アナイタ.　〈キリバンとはえわぬ。〉\n8301.19　アナイタ.　絵柄　〈魚をきるもの〉\n8302.19　キリバン　〈香物、野菜などを切るもの。〉\n8302.55　キリバン　〈やっと〉　アナイタ\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04929.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04929",
+    "source_canvas_label": "88",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04929.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_088.jpg",
+    "page_index": 88,
+    "location_numbers": [
+      "8302.91",
+      "8303.47",
+      "8305.73",
+      "8305.76",
+      "8315.46",
+      "8316.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-30\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記のく　> ( ) [ ] は厳密にする。\n\n（右上の囲み）\n地図番号　164\n項目名　まないた　154\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(89.)\n\n表見出し：\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n表本文（地点番号は左欄に記載）：\nキリバン　（総称）\nマナイタ　＜魚用のもの＞\nキリバン　＜漬物　野菜をきる時のもの＞\nマナイタ　＜魚を料理する時のもの＞\n[Kiriban]\nmonaita\nmonaita　＜魚用＞\nkiriban　＜野菜用＞\nmonaita　野菜用\n\n（手書きの語形・注記が複数列にわたって記載されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04930.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04930",
+    "source_canvas_label": "89",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04930.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_089.jpg",
+    "page_index": 89,
+    "location_numbers": [
+      "8325.77",
+      "8332.59",
+      "8334.25",
+      "8334.63",
+      "8342.35",
+      "8342.69"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-31\n質問番号　地図番号　164\n項目名　まないた　154\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(90)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A　注のない語形　[B・C　残した語形とその注]\n\nmanaita\t<空用>\nkiriban.\t<野菜用>\nki:ba ra\t<常> <従来>\nkiriban.\t(これも ki:ban と)\n（暗で-はえうらしい）\n野菜用\nmanaita\t魚肉用\nmaneta\t(アネタはアナタタの?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04931.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04931",
+    "source_canvas_label": "90",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04931.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_090.jpg",
+    "page_index": 90,
+    "location_numbers": [
+      "8352.52",
+      "8354.14",
+      "8372.87",
+      "8373.43",
+      "8394.01",
+      "9312.42",
+      "0239.79"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（）［］は厳密にする。 日本言語地図資料用紙 注記一覧 49-32 質問番号 地図番号 164 A 普通注記 ページ (91) [B 除いた共通語] [C 除いた特殊語] 項目名 まないた 154 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 8352.52   ki:ban   <野菜ヲ総称> <特に区別する時、魚用は jioki:ban?> 8354.14   manaita   多   ki:ban 8372.87   moneta   <古>   Ki:ban 8373.43   Ki:ban   (k) maneta 8394.01   manaita   [kiri:ban] → 9312.42   mayeta   (maneta など?) 0239.79   manaita   <古> naraita",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04932.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04932",
+    "source_canvas_label": "91",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04932.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_091.jpg",
+    "page_index": 91,
+    "location_numbers": [
+      "0840.33",
+      "1761.74",
+      "1781.95",
+      "2712.33",
+      "2713.83",
+      "2722.67",
+      "2731.97",
+      "2751.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-33\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n質問番号　地図番号\n154　164\nA　普通注記\n(B) 除いた共通語　(C) 除いた特殊語　ページ (1)\n項目名　まないた\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n0840.33　まないた　<今> <野菜用と魚・肉用と別にあるが名前は同じ>　saiban <左>\n1761.74　アナイター　(新)　サイバン\n1781.95　アナイタ　<サ>　サイバン\n2712.33　アナイター　新　サイバン\n2713.83　アナイター　新　サイバン　左\n2722.67　アナイター　(新)　サイバン (左)\n2731.97　アナイタ　<新>　サイバン\n2751.10　マナイター　<新>　サイバン\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04933.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04933",
+    "source_canvas_label": "92",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04933.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_092.jpg",
+    "page_index": 92,
+    "location_numbers": [
+      "2785.74",
+      "2790.38",
+      "3777.86",
+      "3783.11",
+      "3791.76",
+      "4713.45",
+      "4716.20",
+      "5463.12",
+      "5508.43",
+      "5527.89"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-34\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n質問番号 地図番号 A 普通注記 ページ (2)\n項目名 まないた 154\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n2785.74  manaita  <新>   saibaN\n2790.38  manaida  <新>   saebaN\n3777.86  マナエダー  <新>   サエベーン\n3783.11  マナイダー  (改まって)   サイベーン\n3791.76  manaida  (今)   [sanbaida?]\n4713.45  manaeta  <新>   KiLiBaN\n4716.20  manaita  <新>   see:ban\n5463.12  アナイタ  <新>   キリバ? \n5508.43  manaita  <新>   saibaN\n5527.89  manaita  <新>   Kiriban",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04934.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04934",
+    "source_canvas_label": "93",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04934.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_093.jpg",
+    "page_index": 93,
+    "location_numbers": [
+      "5567.46",
+      "5569.36",
+      "5574.42",
+      "5578.27",
+      "5585.09",
+      "5588.02",
+      "5594.37",
+      "5603.88",
+      "5613.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-35 質問番号 地図番号 164 A 普通注記 B (除いた共通語) C (除いた特殊語) ページ (3) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] マナイタ manaita キリバン kiriban きりばん itaban kiriban kiriban *mane ta maneita",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04935.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04935",
+    "source_canvas_label": "94",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04935.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_094.jpg",
+    "page_index": 94,
+    "location_numbers": [
+      "5614.62",
+      "5615.78",
+      "5620.30",
+      "5624.05",
+      "5626.99",
+      "5629.23",
+      "5631.16",
+      "5631.26",
+      "5645.43",
+      "5652.06"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-36\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉［ ］は厳密にする。\n\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　ページ (4)\n（B）除いた共通語　（C）除いた特殊語\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5614.62    manaeta    ＜共＞    mane:ta\n5615.78    manaeta             mane:ta\n5620.30    manaata    ＜新＞   KiriBAN.\n5624.05    manaeta    （上）   mane:ta\n5626.99    アナイタ    ＜新＞   バン\n5629.23    アナイタ    ＜新＞   ?キリバーン＜右＞\n5631.16    mana:ita    ＜上＞   mane:ta\n5631.26    mana:ita    ＜共＞   mane:ta\n5645.43    アナイタ    ＜ヶ＞   キリイタ ＜左＞\n5652.06    manaeta     ＜上＞   mane:ta",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04936.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04936",
+    "source_canvas_label": "95",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04936.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_095.jpg",
+    "page_index": 95,
+    "location_numbers": [
+      "5652.22",
+      "5652.81",
+      "5653.08",
+      "5659.78",
+      "5661.34",
+      "5661.89",
+      "5665.46",
+      "5671.00",
+      "5672.69",
+      "5674.54"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-37\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n質問番号　地図番号　164\n項目名　まないた　154\nA 普通注記　ページ\n[B] 除いた共通語　[C] 除いた特殊語\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nmanaita\t<ていねいに言えば>\tmaneta\nmanaita\t<共>\tmaneta\nmanaita\t<共>\tmaneta\nマナイタ\t<新>\tサイバーン <古>\nmanaita\t<上>\tmaneta\nmanaita\t上\tmane:ta\nマナイタ\t<新>\tキリク?\nmanaita\t<共>\tmaneta\nmanaita\t<共>\tmaneta",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04937.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04937",
+    "source_canvas_label": "96",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04937.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_096.jpg",
+    "page_index": 96,
+    "location_numbers": [
+      "5681.47",
+      "5683.77",
+      "5684.11",
+      "5686.31",
+      "5690.12",
+      "5693.78",
+      "5694.71",
+      "5684.82",
+      "5696.54",
+      "5696.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-38\n質問番号 地図番号 164\n項目名 まないた 154\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語 ページ (6)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（）[]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nmanaita <上>　mane:ta\nアナイタ. <斬>　キリバン\nmanaita <斬, 共>　mane:ta\nmanaita (帝)　KiriBAN\nmanaite <共>　ban\nアナイタ. <共>　キリバン\nアナイタ. <斬>　キリバン\nアナイタ. [共]　キリバン\nmanaita <最近のことば>　Kiriban\nmanaita <斬><養老用つものは>　Kiriban <多>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04938.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04938",
+    "source_canvas_label": "97",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04938.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_097.jpg",
+    "page_index": 97,
+    "location_numbers": [
+      "5712.70",
+      "5742.65",
+      "5750.84",
+      "5770.11"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　49-39\n質問番号　地図番号　164\nA　普通注記　ページ（7）\nB　除いた共通語\nC　除いた特殊語\n項目名　まないた　154\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5712.70.  manaita  <古?>   [kiriban.  manaita <新>]\n今でもmanaitaとは云わない？\n(宿の人:\nmanaitaは島用か。\n又坂前さんのことをmanaitaともいう。)\n\n5742.65.  manaeda (新)\n\n5750.84.  マナイタ  <新>\n　PTイタ  <新>\n\n5770.11.  manaeda  <新>\n　seiban\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04939.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04939",
+    "source_canvas_label": "98",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04939.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_098.jpg",
+    "page_index": 98,
+    "location_numbers": [
+      "5770.46",
+      "5791.23",
+      "6416.58",
+      "6418.13",
+      "6418.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-40\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜＞（ ）[ ]は厳密にする。\n質問番号　地図番号　164\n項目名　まないた　154\nA　普通注記　（除いた共通語）　（除いた特殊語）　ページ（8）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\nmanaeda　<新>\nmona ita　<椀?>\nマナイタ、マネエタ\n（マナイタ、マネエタ、キリバンは ナマクサマネエタ）\n野菜用とのこと。\nなおマネエタはマナイタの...（手書き注）\nマネエタ、＜続称＞\nキリバン＜野菜＞\nナマイタ＜魚料理用＞\nナマイタ、...",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04940.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04940",
+    "source_canvas_label": "99",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04940.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_099.jpg",
+    "page_index": 99,
+    "location_numbers": [
+      "6423.23",
+      "6427.40",
+      "6428.13",
+      "6428.76",
+      "6428.91",
+      "6444.62",
+      "6470.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-41 質問番号 地図番号 164 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9) 項目名 きないた 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6423.23 manaeta 魚用 nahaya ji 草用 6427.40 monaeta [新、上品] kiriban [方] 6428.13 アナイタ <新、芸希> ナギリ 6428.76 アナイタ <上、芸> キリバン 6428.91 アナイタ <新> キリバン <も> 6444.62 アナイタ <新> キリバン <も> 6470.59 アナイタ (サ) キリバン (方) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04941.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04941",
+    "source_canvas_label": "100",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04941.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_100.jpg",
+    "page_index": 100,
+    "location_numbers": [
+      "6506.03",
+      "6508.06",
+      "6515.24",
+      "6516.10",
+      "6523.54",
+      "6525.75",
+      "6526.04",
+      "6526.98",
+      "6533.89"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-42\n質問番号　地図番号　164\n項目名　まないた 154\nA 普通注記　B(除いた共通語)　C(除いた特殊語)　ページ (10)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6506.03　マナイタ　〈共〉　キリバン\n6508.06　マナイタ　〈…〉　kiri ban\n6515.24　monaita　〈野菜用〉　kiri ban\n6516.10　sakana no kiriban　kiriba\n6523.54　マナイタ　〈共〉　kiriban\n6525.75　monaita　〈新〉　kiriban\n6526.04　マナイタ　〈新・共〉　キリバン\n6526.98　マナイタ　〈他等〉　パン\n6533.89　monaita　〈新〉　kiriban 〈魚、野菜〉\n\n（右下手書き）とりなし？",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04942.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04942",
+    "source_canvas_label": "101",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04942.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_101.jpg",
+    "page_index": 101,
+    "location_numbers": [
+      "6566.87",
+      "6567.79",
+      "6581.68",
+      "6600.97",
+      "6604.02",
+      "6605.37",
+      "6613.54",
+      "6615.02",
+      "6620.53",
+      "6623.28"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-43\n質問番号　地図番号　169\n項目名　まないた　154\nA　普通注記　除いた共通語　除いた特殊語　ページ（11）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6566.87　manaita　<新?>　kiriban　キリバン\n6567.79　manaita　<今?>　kiriba.　キリバ.\n6581.68　アナイタ　<共?>　キリバーン\n6600.97　manaita　<新?>　kiriban\n6604.02　アナイタ　<共?>　キリバン\n6605.37　アナイタ　<共,上>　キリバン\n6613.54　manaita　<新?>　kiriban\n6615.02　アナイタ　<共,上>　キリバン\n6620.53　manaita　<共?>　kiriban\n6623.28　アナイタ　<共?>　キリバン＜希＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04943.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04943",
+    "source_canvas_label": "102",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04943.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_102.jpg",
+    "page_index": 102,
+    "location_numbers": [
+      "6629.98",
+      "6631.53",
+      "6632.15",
+      "6632.64",
+      "6635.20",
+      "6639.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-44\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく>（ ）[ ]は厳密にする。\n質問番号 地図番号 A 普通注記 ページ\n項目名 まないた 154 (12)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6629.98　monaita　〈新〉　Kiriban.\n6631.53　monaita　新　Kiribān; 甲別に2度? いるがる特は一つ?\n6632.15　# Kiriban. monaita\n6632.64　monaita　〈新〉　Kiriban.\n6635.20　monaita　新　kiriban\n（中央の手書き）Kiribanと野菜用、併用\n9区別をしない 同じ道具で 両用\n6639.27　monaita　〈最近〉　Kiriban. 増?",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04944.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04944",
+    "source_canvas_label": "103",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04944.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_103.jpg",
+    "page_index": 103,
+    "location_numbers": [
+      "6642.33",
+      "6643.15",
+      "6645.01",
+      "6650.12",
+      "6658.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-45\n質問番号　地図番号　169\nA　普通注記　ページ　(13.)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( ) [ ]は厳密にする。\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n6642.33\tmanaita\tまないた\tKiriban\n6643.15\tmanaita\t上。\tKiriban\n(消し線の66)\n6645.01\tmanaita\t新。\tKiriban\n6650.12\tmanaita\t新。\tKiriban\n(下部に取り消し線) 6658.82 (消去)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04945.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04945",
+    "source_canvas_label": "104",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04945.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_104.jpg",
+    "page_index": 104,
+    "location_numbers": [
+      "7258.82",
+      "7268.96",
+      "7274.87",
+      "7279.01",
+      "7333.27",
+      "7333.51",
+      "7335.93",
+      "7344.99",
+      "7350.44",
+      "7353.51"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-46\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n\n（右上の小表）\n質問番号　地図番号　（手書き）\n項目名　きないた　154\nA　普通注記\n除いた共通語\n除いた特殊語　ページ（14）\n\n（表見出し）\n地点番号　　A　語形とその注記［B・C除いた語形とその注］　　A注のない語形［B・C残した語形とその注］\n\n（表の行、手書き）\nmanaita\t\t*Kiriban <ち>\nmanaita\t\tkiriban.\nアナイタ\t\tシャアハン\nアナイタ\t\tキリバン（ち）\nmanaita\t\tKiriban.\nmanaita\t\tkiriban（筒?）\nmanaita\t\tKiriban.\nmanaita\t\tkiriban\nkiriban\t\t*kiriban\nアナイタ\t\tキリバン\n\n（以下、その他手書き注記等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04946.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04946",
+    "source_canvas_label": "105",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04946.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_105.jpg",
+    "page_index": 105,
+    "location_numbers": [
+      "7374.75",
+      "7382.58",
+      "7383.98",
+      "7385.38",
+      "7385.84",
+      "7391.01",
+      "7392.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-47\n質問番号 地図番号 164\n項目名 まないた 154\nA 普通注記 ページ (15)\n(B) 除いた共通語\n(C) 除いた特殊語\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n7374.75  アナイタ\n7382.58  アナイタ  <料理屋、魚屋などで使う>  長くて、板の厚いもので、家庭用の...\n    キリハンとはちがう そのこである\n7383.98  アナイタ  <新>、<区別している時、魚用>  キリハン <古くから>  <野菜用>\n7385.38  manaita  <新>  kiri ban\n7385.84  manaita  <此頃は普通この方を使う>  kiriban <老人語>\n7391.01  アナイタ  <新>\n7392.94  アナイタ  <共.新>  キリバン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04947.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04947",
+    "source_canvas_label": "106",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04947.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_106.jpg",
+    "page_index": 106,
+    "location_numbers": [
+      "7393.62",
+      "7395.63",
+      "7396.53",
+      "7400.15",
+      "8300.80",
+      "8301.76",
+      "8302.13",
+      "8303.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 49-48\n質問番号　地図番号　164?　A　普通注記　ページ (16)\n項目名　まないた　154\n(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ] は厳密にする。\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7393.62　マナイタ　〈新〉　キリバン\n7395.63　委 kiribaN.　〈人によっては使う。自分は manaita を使う〉　manaita\n7396.53　manaita　〈荒〉　kiriban\n7400.15　manaita　〈新〉　kiriba\n8300.80　マナイタ　〈荒〉　キイバン\n8301.76　マナイタ　〈新〉　キリバン\n8302.13　manaita　[新]　KiribaN\n8303.70　マナイタ　〈?新〉\n（下部に注記手書き）　〈魚用の太いキリバンを〉　キリバン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04948.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04948",
+    "source_canvas_label": "107",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04948.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  },
+  {
+    "source_image": "page_107.jpg",
+    "page_index": 107,
+    "location_numbers": [
+      "8310.87",
+      "8332.59",
+      "8354.29",
+      "0237.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　49-49\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n質問番号　地図番号　164\n項目名　まないた　154\nA　普通注記\nB　除いた共通語\nC　除いた特殊語\nページ　(17)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nmanaita\nマナイタということもあるか。\n厳密に区別はしない。\n<希>　上品系いう\ness　Ki;ban\n\nmonaita\n<新>\nKi;ban <希>.\n\nmanaita\n<新>\nkiriban\n\nmonaita\n<新>\nmana(a",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04949.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M164Q154/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04949",
+    "source_canvas_label": "108",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04949.tif",
+    "source_ljc_id": "LJC-M164Q154",
+    "source_map_numbers": [
+      "164"
+    ],
+    "source_title": "まないた (俎板)"
+  }
+]

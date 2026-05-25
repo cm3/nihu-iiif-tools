@@ -1,0 +1,411 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0894.61",
+      "2608.90",
+      "3711.98",
+      "4588.98",
+      "4663.92",
+      "4686.96",
+      "4700.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-63\n質問番号　地図番号　/183\n項目名　唐辛子　253\nA 普通注記　ページ\n[B 除いた共通語] [C 除いた特殊語]\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n0894.61　naˈmba〈音〉, naˈmbaɲN〈今〉\n2608.90　nanban〈多〉\n3711.98　namba〜 微か\n4588.98　nampa　ナンパ（間きあやまりではない）\n4663.92　koˈjo:〈普通〉　naˈmban\n4686.96　namiban（新古の差はない。その他 用法の差も分らない）\n4700.78　namba　“nambo”とあったのを\n調査票と照合の結果訂正\n69.10.23 Sat",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05763.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05763",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05763.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4750.76",
+      "4762.90",
+      "4771.98",
+      "4780.26",
+      "4780.60",
+      "4792.80",
+      "5472.31",
+      "5564.29"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-64\n質問番号 地図番号 183\n項目名 唐辛子 252\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n（2）\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n4750.76  namba <稀>    nambam\n4762.90  nambaN <昔から使う>\nto:yaraji <これも使う>\n4771.98  nambaN <普通使う>    to:yaraji\n4780.26  to:garasi <これも使う>    karasi\n4780.60  karali <これを多く使う>    nambaN\n4792.80  tonnarasi <多く使う>    namban\n5472.31  ゴショ  <辛いの アマゴショ?>\n5564.29  namba 優先",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05764.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05764",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05764.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "6502.99",
+      "5604.52",
+      "5615.74",
+      "5629.98",
+      "5633.96",
+      "5641.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-65\n質問番号　地図番号　/183\n項目名　唐辛子　252\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (3)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6502.99  koso <kojo:tombo は赤とんぼ。\n     aogoso は若い戸主を言う。>\n5604.52  namban (どちらも古くから使っている)\n     to:garaji\n5615.74  namban    to:garapi は namban\n     を材料とした調味料の製品を言う。\n5629.98  トンカラシ く古くからの言い方、今も多く使う\n5633.96  kojo <kojo: をばしては言わない>\n5641.99  kojo: <多>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05765.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05765",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05765.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5654.98",
+      "5655.41",
+      "5655.97",
+      "5658.01",
+      "5674.89",
+      "5678.86",
+      "5681.47",
+      "5688.01",
+      "5688.37",
+      "5695.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-66\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　/183\n項目名　唐辛子 252\nA 普通注記　ページ (4)\n[B] 除いた共通語\n[C] 除いた特殊語\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5654.98　トオガラシ〈多・土〉, ナンバン〈日本生のことば〉\n5655.41　ナンバン〈多・古〉\n5655.97　ナンバン〈少〉\n5658.01　トンガラシ〈多く使う〉\n5674.89　ナンバン〈多〉\n5678.86　トンガラシ〈昔の人のことば・今でも使う〉\n5681.47　namban〈希〉\n5688.01　トンガラシ〈多〉\n5688.37　''〈少〉\n5695.10　ナンバン〈粉にしたのをトオガラシという〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05766.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05766",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05766.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5698.69",
+      "5740.43",
+      "6267.84",
+      "6277.62",
+      "6286.68",
+      "6379.68",
+      "6402.94",
+      "6403.60",
+      "6403.62",
+      "6405.95"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-67\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n地図番号 183\n項目名 唐辛子 252\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (15)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5698.69　to:nya'raji　<子供の頃使った>　to:nyaraji\n5740.43　トガラシ　<多く使う>　トオガラシ\n6267.84　to:garaji　...りにあらず\n6277.62　koso: <新>, togara:ji <古くから>\n6286.68　koso: [新]\n6379.68　トンガラシ (昔)\n6402.94　カラト (辛褐?)\n6403.60　カラゴショ (辛胡椒?)\n6403.62　koso <古・多>\n6405.95　koso: <一般にこの方を言う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05767.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05767",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05767.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6409.00",
+      "6414.25",
+      "6415.83",
+      "6421.82",
+      "6424.89",
+      "6424.92",
+      "6430.26",
+      "6432.22"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく ><()[] は厳密にする。 日本言語地図資料用紙 注記一覧 57-68 質問番号 地図番号 183 項目名 唐辛子 252 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (6) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6409.00 トンガラシ〈農家〉 トオガラシ 6414.25 tento goso: <とうがらし、単に koso: と言えばピーマンを考える> 6415.83 koso: <トウガラシもユショウラも絵柄(?)> コショーと言う? 6421.82 namba <古> 6424.89 to:garasi <善、左> 6424.92 トオガラシ〈普〉 6430.26 to:garasi <ちょうような気がする> namba (ちょうような気がする) 6432.22 ナンバ？",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05768.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05768",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05768.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6435.03",
+      "6464.90",
+      "6469.19",
+      "6472.05",
+      "6486.93",
+      "6504.44",
+      "6505.58",
+      "6510.65",
+      "6512.14"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-69\n質問番号　地図番号　183\n項目名　唐辛子　252\nA　普通注記　ページ（7）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　A　語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C　残した語形とその注】\n6435.03　トンガラシ（普）　トオがうシ\n6464.90　トンガラシ〈上〉　トンガラセ\n6469.19　トガウシ〈希〉　トンガラシ\n6472.05　tongarasi〈ち〉　to:garasi\n6486.93　トンガラシ〈5〉　トンガラシ\n6504.44　namba　優先　to:garasi\n6505.58　ナンバン〈昔〉　トンガラシ\n6510.65　トガラシ　トガウシの如く長く発音　トガラシ\n6512.14　tongarasi　…絵にあるどうがらしのみ\n\nsitsjimi … 絵にあるどうがらしのみ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05769.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05769",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05769.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6533.89",
+      "6535.90",
+      "6540.16",
+      "6542.71",
+      "6559.46",
+      "6575.6",
+      "6593.30",
+      "6604.98",
+      "6606.89"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　57-70\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n質問番号　地図番号　1083\n項目名　唐辛子　252\nA　普通注記　ページ（8）\n[B　除いた共通語]\n[C　除いた特殊語]\n地点番号　A　語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n手書き記入（おおまか）:\n6533.89　toyarasi -(toは長音(=にならない))\n6535.90　soramuki ＜音＞\n6540.16　toyarasi (to:yarasi と長くしない)\n6542.71　toyarasi (に?)(誤記のおそれあり)\n6559.46　toyarasi ＜とがっているから言うのであろう＞\n6575.60　namba ＜上＞　toyarasi\n6593.30　(tongarasi) torarasi\n6604.98　ナンバン ＜粉にしたものをトオガラシという。＞\n6606.89　namba?N ＜今は [to:garasi]＞\n（手書きは判読があいまいな箇所があります。上は読み取れる範囲での概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05770.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05770",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05770.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6614.04",
+      "6620.83",
+      "6702.21",
+      "7208.97",
+      "7237.67",
+      "7239.41",
+      "7239.90",
+      "7259.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-71 質問番号 地図番号 183 項目名 唐辛子 252 (A)普通注記 (B)除いた共通語 (C)除いた特殊語 ページ (19) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 6614.04 ナンバン＜調味料＞に作ったものはトオガラシという。 6620.83 nambaN＜実＞ namba: 6702.21 to:garafi (アヤシイりか) 7208.97 tongarasi＜新＞ 7237.67 kojo (いず場合では ko:jo 又は kojo:) 7239.41 karasi＜くすりつぶ＞ 7239.90 ko:sui:＜くち＞ ko:jo: 7259.22 kojo:＜普通＞ もっと昔は ko:ju:; ko:ju:＜といった＞ to:gararafi＜くもい＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05771.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05771",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05771.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7313.68",
+      "1968.12"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。 ▲ その中での情報は地点番号順に並べる。 ▲ 注記の< >( )[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 57-72 質問番号・地図番号 183 項目名 唐辛子 252 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ ( /0 ) 地点番号 7313.68 tongarasi (カードには「両方言う」とあった to:garasi) が、1968.12月照合に対する 返事では以上の二つが得られた。 252はトーガラシの項目 ゆえ、「両方に言う」というのは25/ (センタク、センタク)、253(うまイ/オオ) のカードの混入と思う。 のカードの混入と思う。 ただし253はmmのaiである。 25/は「両方言う」とある。 従って252と25/に同じ答を記入し252の正しい答は記入されたと思う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05772.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05772",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05772.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "7333.29",
+      "7340.27",
+      "7352.14",
+      "7356.70",
+      "7361.17",
+      "7363.59",
+      "7364.34",
+      "7383.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　57-73\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n質問番号　地図番号　183\n項目名　唐辛子　252\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (／)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nkoʃu: ＜古＞\nkoʃu: ＜多...＞\nkoʃo: ＜koʃu:は言わず＞\nkoʃo: ＜粉にしたとき＞\nto̞garasi ＜丸のままのもの＞\nユショオ ＜新＞\nコオシュ／コショオ\n（ここのいくつかの手書き注記やローマ字表記、丸括弧内の注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05773.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05773",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05773.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "7385.84",
+      "7391.01",
+      "7391.94",
+      "7421.38",
+      "7432.95",
+      "8373.43",
+      "1261.32",
+      "2086.03"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-74\n質問番号 地図番号 183\n項目名 唐辛子 252\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (12)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7385.84　kojo: <昔から多く使う。今も日常語>　to:garaji\n7391.01　toŋgaraji <新>　koʃu:\n7391.94　koʃu: <優勢>　koʃu:, kojo:\n7421.38　toŋgarasi; <からいのはこういった方が感>　to:garasi\n7432.95　toŋgarasi <多>　karasi, to:garasi\n8373.43　koʃu: (K) koʃu\n1261.32　garan <稀>　ko:re:gusu\n2086.03　NR [toŋgarasi]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05774.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05774",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05774.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5564.79",
+      "5587.74",
+      "5615.65",
+      "5625.91",
+      "5629.98",
+      "5651.95"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　57-75\n質問番号　地図番号　183\n項目名　唐辛子　252\nA　普通注記　　ページ\nB　除いた共通語\nC　除いた特殊語\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5564.79    to:garasi　最近の言い方　namba　優先\n5587.74    トオガラシ　<実>　ナンバン\n5615.65    to:garasi　くそばの薬・味にしたものを言う　nambaN\n5625.91    to:garasi　<実>　namban\n5629.98    トオガラシ　<新>　トンガラシ〈古くからの言〉\n5651.95    to:garasi〈え〉　ko(o):, namban",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05775.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05775",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05775.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5655.41",
+      "5671.94",
+      "5674.59",
+      "5678.86",
+      "5682.34",
+      "5684.11",
+      "6405.95",
+      "6406.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-76 質問番号 地図番号 183 項目名 唐辛子 252 A 普通注記 ページ (2) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（［］）は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] トオガラシ <少・新> ナンバン <多・古> to:jarasi <新> kojo: トオガラシ <新> ナンバン <多> トオガラシ <今のことば> トンガラシ <昔の人のことば> 今でも使う to:jarasi <希> nambara to:jarasi <共> \"\" to:garasi <稀・(昔からトーガラシの言い)> kojo: <一般にこの方をいう> などという過事であった",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05776.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05776",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05776.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6428.91",
+      "6453.64",
+      "6486.93",
+      "6489.01",
+      "6521.20",
+      "6537.58",
+      "6540.16",
+      "6542.71",
+      "6601.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 57-77\n質問番号　地図番号　/183\n項目名　唐辛子　252\nA　普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (3)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6428.91　トオガラシ〈英・希〉　トンガラシ\n6453.64　〃　〈上フ〉　〃\n6486.93　〃　〈新〉　〃〈ち〉\n6489.01　トオガラシ〈新・希〉　トンガラシ\n6521.20　to:yara(si)〈新〉　toyarasi\n6537.58　namba〈や〉〈土地の人の半分ほどは＝〉　to ygarasi（handwritten）\n6540.16　toyarasi [?] (誤記のおそれあり)\n6542.71\n6601.93　to:yarasi〈新〉　namban, koso:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05777.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05777",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05777.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6631.53",
+      "6634.33",
+      "6645.01",
+      "7410.57",
+      "7503.48"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　57-78\n質問番号　地図番号　183\n項目名　唐辛子　252\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n表ヘッダ：地点番号　A　語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き欄（地点番号は省く）:\nto:harasi　　新　　nanban\nto:harasi　　“\nto:garasi　　“　　tongarasi\nto:garasi　　<新>　karasi\n<今は> to:garasi　to:garasi",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05778.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M183Q252/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05778",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05778.tif",
+    "source_ljc_id": "LJC-M183Q252",
+    "source_map_numbers": [
+      "183"
+    ],
+    "source_title": "とうがらし (蕃椒)"
+  }
+]

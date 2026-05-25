@@ -1,0 +1,641 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0779.03",
+      "0990.97",
+      "1742.55",
+      "1761.74",
+      "1762.10",
+      "1763.60",
+      "2781.91",
+      "3619.08"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-57\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　＞( )「 」は厳密にする。\n質問番号　地図番号　(140)\n項目名　玄琢　241\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n( / )\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\njasaiyo　<悪口に jasaiyo と言うけれど>\njasayo　<gimayo のこと、gimayo とは 言わない>\ntawzura-mayo　<音使った>　jasayo\nヤシャコ・ (稀) (あまり言わない)\nヤシャコ・ <あまり使わないし、聞事も少い>\nN.R. <レアリティマコ? という人も居る>\njasayo　<?>\njasayo　<これは聞いたことがあるかもしれない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03957.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03957",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03957.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3710.81",
+      "3733.73",
+      "3733.88",
+      "3752.53",
+      "3757.32",
+      "3761.22",
+      "3764.82",
+      "3778.00",
+      "3782.38"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　39-58\n質問番号　地図番号　140\n項目名　玄孫　241\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（2）\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n3710.81   jafarago   jafarago の次は tsu dzu? dzu? hago（手書き）\n3733.73   jafago    jafogo の次は dzira dzi rigo　さらにその次は dzinego\n3733.88   ヤシャコー　（使うことなし）\n3752.53   çikomayo　[その次を jafayo という]（手書き）\n3757.32   [ヤシャコ]\n3761.22   dzemayo　その次を dzindziri mayoo という（手書き）\n3764.82   ヤレヤコー　＜と聞いている＞\n3778.00   ヤレヤコー　＜祭＞\n3782.38   jafago　やシャコの次は dzi nd zi rigo（手書き）\n\n（下部に小さな手書きの注記や N.R. 等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03958.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03958",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03958.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3787.35",
+      "3791.02",
+      "4607.07",
+      "4609.25"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-59\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n質問番号　地図番号　140\n項目名　玄孫　241\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（3）\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nその次は dzirigo と若の人は\nいっちょうびをいり、たんこのあ(の)春り\n前後はちょっとはっきりしないよう\nでもあった。\njajayo -----（誘導）\njajayo その次は dzizitamayo\nさらに次を desmayo\nN.R.（該当語形なし）\n調査に同伴した男（70位）\n同地域は（土地のタレタ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03959.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03959",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03959.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4639.10",
+      "4648.04",
+      "4687.01",
+      "4696.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-60\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n（右上ボックス）\n質問番号　地図番号　140\n項目名　玄孫　241\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語\n\n表ヘッダ:\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n手書きメモ（読み取りできる範囲）:\ndaze: 4g5ko というと答えたが\n他の3人の同席者はとりはずれないという。\n\n4639.10  yasayo    <yafayo a は dzi→dzi riyo>\n4648.04  jasayo    <希> <あまり使わぬ。老人は使う。>\n4687.01  jasaygo   <jaʃaygo a とは zw-zw mra tko?>\n4696.82  jasago    はじめ zw-zw rago と答え。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03960.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03960",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03960.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4713.62",
+      "4722.40",
+      "4731.15",
+      "4732.86",
+      "4752.11",
+      "4753.36",
+      "4771.98"
+    ],
+    "other_text": "日本音語地図資料用紙 注記一覧 39-61\n質問番号　地図番号　140\n項目名　玄孫　241\nA 普通注記　(B 除いた共通語)　[C 除いた特殊語]　ページ (5)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n\n地 点 番 号　A 語形とその注記〔B・C除いた語形とその注〕　A 注のない語形〔B・C 残した語形とその注〕\n\n4713.62　(japanese/romanized handwritten) jaʃagyo これは ... 訂正した。\n4722.40　jasacyo　<くそのまん実のなを dzo ndzo ru と言う>\n4731.15　jasaiyo　j は摩擦が相るあり /12近い\n4732.86　jaseiyo　くつまれた族は dzin dziri yo とする\n4752.11　dzindzirayo　< ? > <希>\n4753.36　jasdeyo　[i] は非有声\n4771.98　dziun dzüreyo <皆が言うから使う>\n\n(手書き部分は読み取りにくく、上は頁内の目視に基づく概写・おおよその転記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03961.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03961",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03961.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5462.57",
+      "5463.64",
+      "5508.16",
+      "5537.99",
+      "5539.74",
+      "5568.22",
+      "5575.00",
+      "5604.28"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 39-62\n質問番号 地図番号 140\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (6)\n項目名 玄孫 241\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n5462.57    N.R. くぅったことがない(?)\n5463.64    ヒビイマコー [希] <あまり言わぬ>    N.R.\n5508.16    N.R. 知らないという\n5537.99    dondakure <F>\n5539.74    dondarayo <F>\n5568.22    トリァア <...>\n5575.00    N.R. 言い様がないと云う\n5604.28    N.R. <jagagoと言う語をきいたことは>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03962.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03962",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03962.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5615.65",
+      "5615.78",
+      "5623.42",
+      "5626.99",
+      "5631.75",
+      "5641.07",
+      "5641.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-63\n質問番号 地図番号 140\n項目名 玄孫 241\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (7)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n表見出し: 地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n手書きメモ（行ごと、地点番号は除く）:\nあるが用いたことはない。 ja sago -- <これを多く使う> gimago -- ( ? )\nja sago <希>\nN.R. <父のことはあまり言わない>\nキレヤコ <ソノツギヤワラチヤコットナル>\nN.R. <昔老人が～ku tte jamayo を言った a を聞いた。>\nN.R. <言わないので>\nN.R. [E] gijimayo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03963.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03963",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03963.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5652.81",
+      "5653.60",
+      "5655.87",
+      "5671.68",
+      "5673.78",
+      "5676.84",
+      "5677.28",
+      "5678.33",
+      "5678.86",
+      "5684.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-64\n質問番号 地図番号 140\n項目名 玄孫 241\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (8)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n5652.81  N.R.  <言うことはがない>\n5653.60  N.R.  <聞いたことがない>\n5655.87  ヤシャコー  <ヤシャコー、いつかフクヤコー>\n5671.68  <?> jagiko\n5673.78  [ja(amayo)]  <どういうすると言うことがある>\n5676.84  pシャコー  単にことばとして存在\n5677.28  N.R.  特別な〜で使わない\n5678.33  pシャコー  話者より聞いて返答\n5678.86  pシャコー  <ヤシャコーの次、キシャコー?>\n5684.11  N.R.  [ja?amayo]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03964.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03964",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03964.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5687.60",
+      "5688.01",
+      "5690.12",
+      "5696.54",
+      "6287.71",
+      "6365.91",
+      "6375.08"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-65\n質問番号　地図番号　140\n項目名　玄孫　241\nA 普通注記　ページ\n(B 除いた共通語)\n[C 除いた特殊語]　(9)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（筆記メモ）\nN.R. （どうしても思い出せないらしい。）\n不明。くん族にマーもと？ヤシャ？という　時はあるが実例がないので不明>\n# [jajayo]\n# ? gi:imayo\n? ja;iwamayo\nN.R. <呼び方なし>\n?! tsuru no mango\n<自分で使ったことはないか聞いたことがある。>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03965.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03965",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03965.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6375.40",
+      "6386.66",
+      "6386.08",
+      "6419.69",
+      "6420.58",
+      "6432.74",
+      "6437.23",
+      "6385.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-66\n質問番号 地図番号 140\n項目名 玄孫 241\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (10)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n地点番号 | A 語形とその注記 [B・C 除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n6375.40  N.R.   ＜知らない＞\n6386.66  N.R.   ＜別がない＞\n6386.08  gju::gjun::mago\n6419.69  N.R.   セセラマコー\n6420.58  カシャラマコー ＜章＞\n6432.74  （ヒマゴノコ） 自信なし\n6437.23  ジャジャラマコー、やじゃマコー\n\n＜区別なし＞\n\n6385.10  tswru no ko  tswru no mango  ＜めったに(聞)かないことばで 自分は使ったことはない＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03966.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03966",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03966.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6444.62",
+      "6455.31",
+      "6460.10",
+      "6467.73",
+      "6474.83",
+      "6476.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-67　質問番号　地図番号　140　項目名　玄孫　241　A 普通注記　ページ (11)　[B 除いた共通語]　[C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の< >（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6444.62　[セイ、セイマニ？]　N.R.\n6455.31　tsu:ru mago　そゔ次／sajaramago?\n6460.10　jasaramago　ヤサラとは小さな海の漁具　オハシキに使う。\n6467.73　jasaramago　@ jasanimago\n6474.83　セセウマニー　<希>\n6476.82　ジャジャウマニー　（近代の“杵臼村両車管”）\n（以下余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03967.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03967",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03967.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6484.43",
+      "6501.92",
+      "6505.60",
+      "6520.79",
+      "6522.03",
+      "6527.93"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-68\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　140　項目名　玄孫　241\nA 普通注記　ページ　(12)\n[B 除いた共通語]　[C 除いた特殊語]\n-----\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6484.43　セセラマユー　<B>　シャレヤラマユー\n6501.92　ピャロマコ　・あやらかに鼻音\n6505.60　2020ri'ko　<B>\n6520.79　N.R.　・何度いっても「そんなのは知らない」のような応答(手書きの長い注記)\n6522.03　ヒマヅソ　・但しこういうことはない(手書きの注記)\n6527.93　N.R.　くまあーとこまでは何んとも言わんと 思う>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03968.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03968",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03968.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6532.30",
+      "6532.83",
+      "6542.58",
+      "6545.64",
+      "6567.79"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 39-69\n質問番号　地・図番号　1 40\n項目名　玄孫　241\nA 普通注記　ページ (13)\n[B 除いた共通語]\n[C 除いた特殊語]\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n6532.30　わからぬ。　はっきりした語形がない。\n6532.83　ヒーヒーマユ　・そんなものは知らぬとのことたらか\n　　もしヒマユにつけ替が生まれたら\n　　よういいますか」といけ「ヒーヒーマユ」と\n　　いろりた方があるまい」とのことであった。\n6542.58　つルノマユ（ち）\n　　・つルノマユは今ではほとんどきかず。\n　　ヒーヒーマユ　ない。\n6545.64　jzsa　[聞こ/読めず]\n6567.79　jajago　もう一列ぎがると zundenggo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03969.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03969",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03969.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6569.12",
+      "6572.55",
+      "6583.41",
+      "6585.83",
+      "6591.81",
+      "6592.35"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-70\n質問番号 地図番号 140\n項目名 玄孫 241\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (15)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく＞( )[ ]は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n6569.12   ja(a)jo   <希>\n6572.55   [tsurunomago]\n6583.41   tsuru no maggo\n6585.83   ja / aego   (一はナーーのー)\n6591.81   いれやつマコ・ <希>  'フル / マコ'\n6592.35   N.R.  (別に為は無い也。)\n(マコツは、どうもマシつときこえる)\n(この地域血族が多く、長命者で)\n60〜70才のものも43%に見えないので\n実際上、ヒマつこどまりらしい。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03970.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03970",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03970.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6594.19",
+      "6595.90",
+      "6600.97",
+      "6601.93",
+      "6607.68",
+      "6611.61",
+      "6611.68",
+      "6620.53",
+      "6636.05"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-71\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n質問番号　地図番号　140\n項目名　玄孫　241\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(15)\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6594.19　jajayo　<希>　Gimayo\n6595.90　gijigo　<ち>\n6600.97　jafarawan yo　<新>\n6601.93　N.R.　<言わない>\n6607.68　N.R.　<使ったことがない>\n6611.61　ja(??)　<人の言うのを聞く程度、実際にはない>\n6611.68　N.R.　<使ったことがない／ひとは ja jayo のような...>\n6620.53　#Gimayo ?\n6636.05　jajayo kijayo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03971.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03971",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03971.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6640.29",
+      "6641.82",
+      "6650.12",
+      "6700.98",
+      "9229.5",
+      "7336.54",
+      "7238.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-72\n質問番号 地図番号 140 A 普通注記 ページ (A) [B 除いた共通語] [C 除いた特殊語]\n項目名 玄孫 241\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〈〉( )[ ]は厳密にする。\n表ヘッダ: 地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6640.29   #[ja]jayo   (はじめ答が出なかったので飯田の答えを出したら、より丸: そうひと (いっしょ同意した))\n6641.82   jaɟaŋyo   <希>\n6650.12   jaɟaŋo   斉\n6700.98   (?) jaɟaŋo\n9229.50   ? jajanago\n7336.54   jaɟaramaygo <B>    gi:ci:maŋgo\n7238.82   [jaɟumamago]   jajamago\n\n下の注: simai = あねとみる",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03972.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03972",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03972.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7239.29",
+      "7269.96",
+      "7309.37",
+      "7313.34",
+      "7316.65",
+      "7318.04",
+      "7322.21",
+      "7323.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-73\n質問番号 地図番号 140 項目名 玄孫 241\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n7239.29    ヤシャマコー    <ヤレヤマコーがはっううん>    ピィピィマコー\n7269.96    N.R.    <jasimagoという語はきれいこともある。>\n7309.37    tsumuno mago    その次 kamenomago\n7313.34    tsuⁿ ru no mago (鶴の孫かという)\n7316.65    N.R. 同席の山下丸氏(漁業組合長 60歳)    <くらいによれば・ウスラマンゴ>\n7318.04    tsumuno mago <サ>\n7322.21    [jasimago] ...(同席の中年の役場の人の報告) N.R.\n7323.17    tsumuno mago\n(面白い語彙である。初めて見た。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03973.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03973",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03973.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7342.72",
+      "7343.76",
+      "7359.28",
+      "7361.17",
+      "7375.30",
+      "7383.78",
+      "7385.38",
+      "7385.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-74\n質問番号　地図番号　140\n項目名　玄孫　241\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（18）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) . [ ] は厳密にする。\n地点番号　A　語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C　残した語形とその注〕\n採録（しん）\nN.R.　ことはかがない。\ngu: m ago　次は gu: gu:mago\nhju: hju: mago\n[テュテュ マゴー]　N.R.\nja(u' ) mago　S Y U U に入れる。（70k）\nN.R.　＜特別のことはかがない＞\n<?>　hju hju mago\nja(u' ) mago　sikuに ･･･",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03974.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03974",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03974.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7391.84",
+      "7392.84",
+      "7394.85",
+      "7395.09",
+      "7401.60",
+      "7415.47",
+      "7421.38"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-75\n質問番号　地図番号　140\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n項目名　玄孫　241\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　　A 語形とその注記 [B・C除いた語形とその注]　　A注のない語形 [B・C 残した語形とその注]\n\n<手書きの注記列>\n7391.84　<[h]ju: hjm: mago>\n　　　　[ ] 牛多枚長夫人\n\n7392.84　sazusumago <sazusukeは[藁打ち]のことであるという。丸た[打つ]ことにもいうという。>\n\n7394.85　N.R.　言わない。\n\n7395.09　N.R.　<くんなろの・呼び名は無い>\n\n7401.60　(sjaramago) <希>\n\n7415.47　sese ramāgo <名>\n\n7421.38　(jajaramago) [jajaramago] sajaramāgo hi:hi:mago",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03975.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03975",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03975.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7431.08",
+      "7461.77",
+      "7471.33",
+      "7503.48",
+      "7521.16",
+      "7659.51"
+    ],
+    "other_text": "日本音語地図資料用紙 注記一覧 39-76 質問番号 地図番号 140 項目名 玄孫 241 A 普通注記 ページ 20 [B 除いた共通語] [C 除いた特殊語] ▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞( )〔 〕は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 7431.08 hjun:mago no kodomo (<kotokonaji de mo: keta kowa jn (jaramago>?) 7461.77 gju:gju:mago (jisai'ta? ほに a[jara-mago] ) 7471.33 N.R. <ぎい方無し> 7503.48 t(at)aramayo <というよりに思う> 7521.16 N.R. <名称ない。> 7659.51 gogo (まいまちがいか?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03976.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03976",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03976.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "8239.31",
+      "8302.19",
+      "8305.76",
+      "8311.41",
+      "8313.84",
+      "8325.03",
+      "8330.58"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-77\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n質問番号　地図番号　140\n項目名　玄孫　241\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ (2)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n8239.31   Fu:tammago (よれ孫の義か)\n8302.19   N.R.　特別の話をしない。　<kujunju magoとはえない。>\n8305.76   gijimago <めったに使わない。>\n8311.41   gijitam m ago <希に>\n8313.84   jasumago <希>\n8313.84   jasumago <希>\n8325.03   jokozutsumago <卑語に成る>\n8330.58   N.R. [jasumago]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03977.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03977",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03977.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "8343.06",
+      "8343.97",
+      "8345.18",
+      "8352.92",
+      "8372.47",
+      "8373.08",
+      "8373.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　39-78\n質問番号　地図番号　140\n項目名　玄孫　241\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\njasumago　＜希＞\njasuramago\n<くんスはtsunxomago 鶴の形ということ。>\ngjūgjuramago\n＜あまり使わない言葉である。＞\njagemago　とは少し変り\nN.R.　＜コトバを知らない＞\njasuramago ＜古＞\njasuramago (k) matasuromago",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03978.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03978",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03978.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "8393.69",
+      "9313.55",
+      "2072.20",
+      "2076.98",
+      "2085.69"
+    ],
+    "other_text": "日本官話地図資料用紙　注記一覧　39-73\n質問番号　地図番号　(140)\n項目名　玄孫　241\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n8393.69　N.R.　[gi:gi:ma:go]\n9313.55　matamágo　<希>\n2072.20　dutji:maŋu　<四つ子の意>\n2076.98　mi:ma:　<ややつづ? の注記 epitsima: と>\n\nいら、これは実際は　いない? 〜\n昔ながらの中などでつかわれる。>\n\n2085.69　jatji:ma:　<jatji:ma: の方は pitji:ma:という。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03979.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03979",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03979.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "3766.97",
+      "6566.1",
+      "7659.57"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は略符にする。\n\n日本言語地図資料用紙　注記一覧　39-80\n資料番号　地図番号　140\n項目名　玄孫　241\nA　普通注記　ページ\n(B)　除いた共通語\n[C]　除いた特殊語\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n3766.97　ヤシャプ°（新）　ヒーマユ°\n6566.10　ヤリュプ°　〈くせの人〉　ヤレフ\n7659.57　jaja jago　gogo（きいまちがいか？）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03980.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03980",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03980.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "0779.03",
+      "1747.55",
+      "4736.63",
+      "4744.10",
+      "4744.32",
+      "6505.60",
+      "7266.08"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 39-81\n\n質問番号　地図番号　(140?)\n項目名　立孫　241\nA　普通注記　ページ\n[B　除いた共通語]\n(C　除いた特殊語)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n0779.03    NR.    jasaiyo <裏口に: jasa iyo と言うけれど。>\n1747.55    daimayo <昔使った>    jasa iyo\n4736.63    Gi:mayo    漢字とみせむ (70k)    jasaenyo\n4744.10    gi: kono kodomo    NR, jasaeyo\n4744.32    jasaiyo    漢字とみせむ (70k)\n6505.60    jasa <用いたことはある>    2020riko <古>\n7266.08    Gi:Gi:mayo    漢字あっつい (70k)    jasaamago\n\n(注: 上は画像から読み取れる可読部分の大まかな転写。完全正確でない箇所があります。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03981.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03981",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03981.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "7317.29",
+      "7350.44"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 39-82 質問番号 地図番号 140 項目名 玄孫 241 A 普通注記 ページ [B] 除いた共通語 (C) 除いた特殊語 (2) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（ ）[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] -atamago <聞いたことがある。> gju:gju: mamago jafumamago こちらを漢客とみとむ。70K.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03982.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M140Q241/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC03982",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC03982.tif",
+    "source_ljc_id": "LJC-M140Q241",
+    "source_map_numbers": [
+      "140"
+    ],
+    "source_title": "やしゃご (玄孫)"
+  }
+]

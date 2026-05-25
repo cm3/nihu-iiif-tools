@@ -1,0 +1,266 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "3272.74",
+      "3275.45",
+      "3291.8",
+      "2699.89",
+      "3649.58",
+      "3700.19",
+      "3704.42",
+      "3714.27",
+      "3714.96"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )( )は厳密にする。 日本語番地図資料用紙注記一覧 2-8 箱内: 278 009 項目名 セイキン (A 普通注記) (B 除いた共通語) (C 除いた特殊語) (1) 表ヘッダ: 地点番号 | A語形とその注記 (B・C 除いた語形とその注) | A注のない語形 (B・C 残した語形とその注) dze:kiːN 〈普通は kippu と言う。〉 dze:kiːN tsinaji 〈古〉 dzekiN 〈普通 kippuと言う。〉 dze:kiːN dzekiN 〈自分より年とった人が使う。〉 dze:kiːN zêkin (今) kippu 〈古〉 dze:kiːN dze:kiːN 〈新〉 dzono. tsinaji 〈古〉 dzei kiːN dzono 〈古〉 dze:kiːN jaguttsinaji 〈古〉 dze:kiːN",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00208.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00208",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00208.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3724.20",
+      "3762.11",
+      "3767.22",
+      "4609.07",
+      "4609.25",
+      "4628.28",
+      "4638.22",
+      "4638.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-9\n資料番号 278 地図番号 009\n項目名 セイキン\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (2)\n表見出し 地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\ndzono <今も老人は使う>\ndzono <普通使う>    dze:kin.\nzêkin, toridateと普通言う.    ジェーキン, ジョーソー\nオヤクセン <古>\n3e: <dze:とも言う>\ndze: kɯn [新]    dehen\ndze: [一般には dze:] (同席の先生の話)\nze:kin <昔は demonoと言った.>\ndze:kin ... 「土地の自然な発音では ze:kin という言いますか」に対する反応。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00209.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00209",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00209.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4658.42",
+      "4663.92",
+      "4706.89",
+      "4711.82",
+      "4725.68"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）のは厳密にする。\n\n日本言語地図資料用紙注記一覧  .2-10\n質問番号 278　地図番号 009\n項目名　セイキン\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(3)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nze:kin 、久保も ze:kinと言う\nze:kin <古くは tsunagi, osame と言れ>\ndze:ki:N <この地方は岩手県や宮城県 一般のようなジーという音が多い>\nze:kin (被調査者は町会議室などしている関係でセーキンと言いきれているのであろう。一般には ze:kin か。)\ndze:ki/N <共>\nosame <普通に使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00210.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00210",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00210.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4730.96",
+      "4732.18",
+      "4752.11",
+      "4753.36",
+      "4760.54",
+      "4771.98",
+      "5516.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-11\n資料番号 278.009\n項目名 セイキン\nA（普通注記）　(B 除いた共通語)　(C 除いた特殊語) (4)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\n4730.96    dze:kiN（共）                       dʒo:no:\n4732.18    dze:kiN＜新＞                       osame\n4752.11    dze:kiN＜昔は.osameと言った＞       ze:kiN\n4753.36    osame（古）\n4760.54    dze:（やや dʒ に近いようにも聞きとれるが、その発音を真似すると、被調査者は否定する。）\n\n4771.98    osame＜古＞,\n           dze:kiN＜今＞\n\n5516.59    dʒo:no:kiN＜古＞                     dze:kiN",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00211.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00211",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00211.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5537.34",
+      "5549.55",
+      "5731.29",
+      "5732.17",
+      "5742.32",
+      "6349.09",
+      "6385.10",
+      "6395.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙 注記一覧 2-12 資料番号 278 地図番号 009 項目名 セイキン (A)普通注記 [B 除いた共通語] [C 除いた特殊語] (5) 地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］ tattjin ＜古＞　　dze:kiN dassen ＜古＞　　dze:kiN dzo:no:（普通、こう言っている）　　dze:kiN dzo:no: ＜古＞　　dze:kiN dze:kiN ＜やや改まった言い方＞ dzo:no ＜ふだんはこう言う＞ dzo:no:（古系）　　dze:kiN zo:no: ＜古＞　　ze:kin dze:kin; アゼ、ゼニは de~dze が出た..",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00212.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00212",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00212.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6422.77",
+      "6426.47",
+      "6440.81",
+      "6441.19",
+      "6455.31",
+      "6482.75",
+      "6494.21"
+    ],
+    "other_text": "日本語語地図資料用紙注記一覧 2-13\n資料番号 278 地図番号 009\n項目名 セイキン\nA 普通注記  B 除いた共通語  C 除いた特殊語 (6)\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n6422.77　ジョオノウ〈古〉　セイキン\n6426.47　ze:kin, 方言としては kakarimon と言う。\n6440.81　dzo:no:〈古〉　dze:kin\n6441.19　ジョウノウ〈古〉　セイキン\n6455.31　dze:kin [自然にはときに dze に聞えることあり。]\n6482.75　zeikin〈農民の中には osamegi? と言うものもある。〉\n6494.21　ゼエキン、ジェエキン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00213.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00213",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00213.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "6551.77",
+      "6552.90",
+      "6504.44",
+      "6521.20"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧\n資料番号 278 地図番号 009 (A) 普通注記 ページ (7)\n項目名 セイキン\n(ジェエキンというときもあると認めた。そこで、土地の中家の先祖聞くと、子供もシェン・シェというのが普通であるとのことであれ。)\n6551.77 ze:kin ( /se//ʒe/ の音は言わず)\n6552.90 ze:kin (「ゼ」は [ze] で、[ʒe] とは言わないことは、他の語例でもわかれ)\n6504.44 dʒo:no. 上が復先、されど若い人は dze:kin 使用せず。\n6521.20 dze:kiN, 古くは dʒo:no:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00214.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00214",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00214.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6536.00",
+      "6552.46",
+      "6553.52",
+      "6572.55",
+      "6583.45",
+      "6593.30"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n\n資料番号 278　地図番号 009\n項目名　ゼイキン\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)　(8)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n\n6536.00  gɐ nengu <古> <15,6才までは、nengu ze:kin を用いた。>\n6552.46  ze:kin <昔は「カカリモン」と言った。>\n6553.52  ze:kin <昔は［30:no:］（上表内）と言ったと言う。私の祖父もそう言っていたことを思い出した。>\n6572.55  ze:kiN <昔は koirjo kake を税金さめと言われ。>\n6583.45  de:kin <また、「ダシマイ」と言う。>\n6593.30  ze:kiN , kippu o osameru <古>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00215.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00215",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00215.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6606.89",
+      "6539.5",
+      "6642.85",
+      "7208.97",
+      "7309.37",
+      "7441.19"
+    ],
+    "other_text": "日本語地図資料用紙 注記一覧\nページ 2-16\n資料番号 278　地図番号 009\n項目名 ゼイキン\n(A)普通注記　(B)除いた共通語　(C)除いた特殊語\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n6606.89  -dze:kiN <昔は「dazikko」などと言われ。>\n6539.50  dajika 古くは、こう言う。    ze:kiN\n6642.85  dze:kiN <新>　地図では dze: に入れてしまって印刷されてある。    osame\n7208.97  zo:no: <古>    zeikin\n7309.37  古くは dzo:no:    de:kiN\n7441.19  reikin（昔の人が言っていたと言う） dei に入れてある。    zeikin",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00216.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00216",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00216.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "7502.89",
+      "8306.42",
+      "8331.98"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。\n日本言語地図資料用紙注記一覧　2-17\n資料番号　地図番号　278.009\n項目名　セイキン\n(A)普通注記　(B)除いた共通語　(C)除いた特殊語　(10)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7502.89  ze: ＜新＞\t\tkippu\n8306.42  dze:kin（平素はもっと口蓋化して\ndze:kinと言っているのであろう\nと思う。）\n8331.98  dzono＜古＞\t\tze:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00217.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00217",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00217.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "2785.74",
+      "2794.8",
+      "3649.58"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　2-18\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n資料番号　地図番号\n278　009\n項目名　ゼイキン\nA　普通注記　B（除いた共通語）　C（除いた特殊語）　ページ（/）\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C残した語形とその注）\n\ndzono <古>\ndzekiN (削除)\ndzono (昔)\n\n右欄:\ndzekiN.\nzêkīn (今)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00218.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M009Q278/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00218",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00218.tif",
+    "source_ljc_id": "LJC-M009Q278",
+    "source_map_numbers": [
+      "009"
+    ],
+    "source_title": "ゼイキン (税金)"
+  }
+]

@@ -1,0 +1,1323 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0896.22",
+      "1738.19",
+      "1739.10",
+      "1744.60",
+      "1816.52",
+      "1848.24",
+      "1862.48",
+      "1893.10"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-51 質問番号 地図番号 181 186 項目名 たんぼ（広） 普通注記 ページ (2) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）[]は厳密にする。 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 0896.22 スイデン 他の言い方なし 1738.19 suiden <主にこれ> ta' <昔> 1739.10 suiden <多> tambo 1744.60 タンボ <この村には田がない> 1816.52 タ スイデン {父や祖父はタンボオといった} 1848.24 ta <多> suiden 1862.48 タンボ <多> スイデン 1893.10 ta <昔> suiden <今>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05851.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05851",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05851.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2703.18",
+      "2812.96",
+      "3699.55",
+      "3721.30",
+      "3735.50",
+      "3740.29",
+      "3774.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-52 資料番号 地図番号 181 186 項目名 田 (広) A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (3)\n\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の< > ( ) [ ] は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n2703.18  tambo  <この辺には米がとれないので よくわからない>\n2812.96  (いずれも tambo)\n3699.55  タンボ (少しく稔)\n3721.30  ta  tamodeと対するとき, taは tamode 1枚,2枚の狭いところをさす。\n3735.50  タンボ (田少し)\n3740.29  tamode [tamode] は <田のある現場> ta というような説明。\n3774.61  タンボ (面積のとき) タ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05852.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05852",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05852.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3783.08",
+      "3785.42",
+      "3791.76",
+      "4618.87",
+      "4619.63",
+      "4619.98",
+      "4637.20",
+      "4638.43",
+      "4643.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-53\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n質問番号　地図番号　181　186　項目名　田（広）　A 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (4)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nta 湿田を (sidoruta) 乾田を katata いう。\nta 歩くところはタンボトリ\ntamode（音）, tambo（今）\ntamodo（タ, も場合により使わぬわけではない。）\nta 〈タンボは田畑をあわせていう語。(tambo)〉 → タンボ道\ntamoto ＜普通の言い方＞ tambo\nta ＜多＞\n[tanabowara] ta （板数に関係なし。広いつながった田は...）\nta, tambo その地名（固有名詞）でいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05853.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05853",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05853.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4644.10",
+      "4648.59",
+      "4653.47",
+      "4653.84",
+      "4654.52",
+      "4663.49",
+      "4666.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-54\n質問番号 地図番号 186\nA 普通注記  [B] 除いた共通語  [C] 除いた特殊語  ページ (5)\n項目名 田(広) 181\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4644.10  ta? 〈古〉    tambo\n4648.59  tanabo 〈古くから用い、現在も用いる。〉\n4653.47  dendzi 〈法律的言い方〉  [tambo]\n4653.84  denzi 〈広さの制限はない〉\n4654.52  dendzi 〈登記などの場合に用いる〉    tambo\n4663.49  tambo    ta\n4666.17  dendzi  地を多く所有している意\nrendzi （「田地」に対する） 例：家の人はでんぢをまけいもっている（筆記一部不明）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05854.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05854",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05854.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4666.99",
+      "4669.55",
+      "4672.19",
+      "4685.10",
+      "4687.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　58-55\n質問番号　地図番号　186\n項目名　田(広)　181\nA　普通注記　ページ (6)\n[B　除いた共通語]\n[C　除いた特殊語]\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく　>（　）[　]は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n4666.99  ko:tsi　〈昔から使った語〉　ta\nnoden　〈昔から使った。「広い noden だ」等と用いる。土地柄から田を主とするが、畑地が含まれてもよい。〉 tanabo\n4669.55  tambo　〈新〉\ntadomode　〈田の全面積〉\n4672.19  dengi　（土地という意識の強い場合。）\ntambo　（農業用語）\n4685.10  tambo　（非農家）\n4687.01  tanabo〈古〉 ta　(oratoko の ta 等と用いる。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05855.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05855",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05855.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4689.86",
+      "4694.26",
+      "4695.87",
+      "4700.78",
+      "4701.73",
+      "4703.18"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　58-56\n質問番号　地図番号　186　項目名　田(仮)　181\nA 普通注記　ページ　[B 除いた共通語]　[C 除いた特殊語]　(7)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4689.86    ta (会話中)    tambo\n4694.26    tambo (tamboの方が古い言い方か。)\n           ta (taが新しいか。)<taは同友同志の間の会話に使う>\n4695.87    tambo (新)    [taTPO] (古)\n4700.78    tomode (古語にセンガリ, トモデとあり)\n4701.73    tomode <畑を入る場合あり>    tambo\n4703.18    tambo <古>    ta",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05856.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05856",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05856.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4710.55",
+      "4711.41",
+      "4711.49",
+      "4714.68",
+      "4715.33",
+      "4716.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-57 ▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の〈〉( )[ ]は厳密にする。 調問番号 地図番号 186 項目名 田(広) 181 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (8) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 4710.55 tomode <畑は入らぬ> <田畑をあわせれば tamboである> 4711.41 [tambo] [ta] 4711.49 タンボ セモデ (トモデ?) (トモテ?)には 畑を入る 屋敷以外をいう。 4714.68 tambo <日の附近を指して漠然と言う場合であって、 'だれだれのタンボ' のように言うことはできない。> 4715.33 tambo <や・広いところを言う。> 4716.20 koido <見渡すかぎり田が連なっている場合>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05857.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05857",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05857.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4721.36",
+      "4722.55",
+      "4725.92",
+      "4731.42",
+      "4731.85"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-58\n質問番号　地図番号　186\n項目名　田(広)　181\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(9)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は略記にする。\n\n地点番号\ntambo　〈kido:doより小規模であって。一町歩ぐらいまで。〉\n[ta]\n[tambo]\n4721.36 {ta}\n4722.55 tambo　{この辺にはそのような広い水田がない。}\ntambo　}\n4725.92 tambo　〈全面を指す〉\n4731.42 [tambo]\n4731.85 {ta}\n\n（手書き注記や表内の語形の羅列が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05858.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05858",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05858.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4733.91",
+      "4736.63",
+      "4741.44",
+      "4742.37",
+      "4743.61",
+      "4743.95",
+      "4744.10"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　58-59\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n質問番号　地図番号　186\n項目名　田(広)　181\nA　普通注記　ページ　(10)\n[B　除いた共通語]\n[C　除いた特殊語]\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\ntambo <古>\nta <この島に田はない>\n（手書き）畑を含めて屋敷以外をハウ。 「トモデ」と\ntambo <新>\nko.do ぐ広土の意である。ただし、田んぼの場合だけであって、畠や草原などには広くともこう言わない>\n[ko.do] 希\n[ta 古] tambo",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05859.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05859",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05859.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4750.32",
+      "4760.64",
+      "4761.93",
+      "4763.45",
+      "5463.73",
+      "5471.59",
+      "5499.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-60\n質問番号 地図番号 186\n項目名 田(広) 181\nA 普通注記  ページ\n[B 除いた共通語]\n[C 除いた特殊語] (//)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n4750.32  タンボ  タ(18D) タンボ は非常に厳密な意味の区別 ではないようである。\n4760.64  <tambo>\n4761.93  ta 〈普通使〉\n4763.45  tambo  (新/最??)  koido 〈古〉\n5463.73  タ 〈広い場所がない〉\n5471.59  タ 〈余り広い田はない〉\n5499.98  ター 長音",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05860.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05860",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05860.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5537.34",
+      "5548.24",
+      "5568.57",
+      "5568.92",
+      "5569.99",
+      "5575.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-61\n資問番号 地図番号 186\n項目名 田(広) 181\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (12)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[ ]は厳密にする。\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n5537.34 ta: <ともいう>    tambo\n5548.24 ta: <井>    tambo\n5568.57 タンボ? (ハタケに対してはタンボ・ハタに対してはタという。)<タンボという方がタよりも多少よい言葉である。>\n5568.92 タ 　タンボという時は畑を含んでいる場合もある。 例、<タンボへ行くは、畑仕事に行くことも含む>\n5569.99 NR. ない\n5575.93 tanbo の持続中、口がだんだん閉じる。んではじまり。 Okida",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05861.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05861",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05861.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5577.88",
+      "5589.30",
+      "5590.53",
+      "5604.28",
+      "5604.52",
+      "5613.48",
+      "5615.74"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-62\n質問番号　地図番号　186\nA　普通注記　ページ　(13)\n項目名　田(広)　181\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5577.88　タンボ　〈タンボと言うと、広々とした感じ〉　mでそる感じ。がする。\n5589.30　タンボ〈上〉\n5590.53　タンボ〈多少いろあり〉\n5604.28　tabbo（自然な発音）\n5604.52　tambo〈希〉\n5613.48　ta　tamboとは言わぬ。ja mada（山田）　okida（沖田）などと言う。\n5615.74　[tabbo]〈多〉　ta",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05862.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05862",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05862.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5617.85",
+      "5625.91",
+      "5628.23",
+      "5629.17",
+      "5629.98",
+      "5631.16",
+      "5631.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-63\n質問番号　地図番号　186\n項目名　田(広)　181\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (14)\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の< >〈 〉( )[ ]は厳密にする。\n（表 ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n（行1） ta 〈田は一枚もない〉\n（行2） ta(？)　（但し調査地には水田は全くない。山間の寒冷地だからである。）\n　　  tambo(？)　ない。\n　　  [tappo]\n（行3） tambo 〈希〉\n（行4） タンボ〈多〉\n（行5） タンボ〈古〉\n（行6） タ〈新〉\n（行7） tanbo 〈最近言うようになったような気がする〉 ta\n（行8） ta 〈tamboは流行語〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05863.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05863",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05863.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5632.28",
+      "5633.45",
+      "5635.48",
+      "5636.74",
+      "5639.80",
+      "5641.07",
+      "5641.99"
+    ],
+    "other_text": "58-64\n日本言語地図資料用紙 注記一覧\n\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () [] は厳密にする。\n\n[箱] 質問番号　地図番号　186\n　　　項目名　田(広)　181\n　　　A 普通注記　ページ\n　　　[B　除いた共通語]\n　　　[C　除いた特殊語]　(15)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]\nA注のない語形 [B・C 残した語形とその注]\n\n5632.28　その他\n5633.45　ta　(田畑を総称するときは tambo)\n5635.48　ダッポ〈古〉　〈イイカン(カナリ)マトマッタトコロヲ〉　ダッポトユウ\n5636.74　タンボ〈新〉　タンボ（多い）　広い場所のことをタ、タンボという\n5639.80　タンボ〈ナ〉\n5641.07　oki　く…の oki の箱はできがいい、などと\n5641.99　ta〈昔から多い〉\n\n（手書き注記多数、上は判読できる範囲の概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05864.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05864",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05864.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5644.24",
+      "5645.89",
+      "5648.53",
+      "5648.96",
+      "5652.06",
+      "5653.08",
+      "5653.60",
+      "5656.62"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-65\n質問番号 地図番号 186\n項目名 田(広) 181\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (16)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( )[ ]は厳密にする。\n\n地点番号\tA 語形とその注記 [B・C除いた語形とその注]\tA注のない語形 [B・C 残した語形とその注]\n\n5644.24\ttambo 〈最近多くなった〉\n5645.89\tTambo 〈ここにない〉\n5648.53\tスイデン〈新〉\n5648.96\tタンボ 〈多〉\n5652.06\toki〈古〉〈田畑をひとまとめにしていう時 tambo / ta〉\n5653.08\t?ta 〈田は作っていない〉\n5653.60\ttd 〈あの辺の tade と言う〉\n5656.62\tタンボ〈ドチラモオオシ・クベッスルトキワ…〉\n\n（手書き注記・語形はいくらか判読しにくい箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05865.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05865",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05865.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5665.89",
+      "5667.41",
+      "5668.38",
+      "5669.12",
+      "5674.59",
+      "5675.87",
+      "5676.10",
+      "5676.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-66\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n質問番号 地図番号 186\n項目名 田(広) 18A\n(A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (17)\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n5665.89　タンボ〈多〉\n5667.41　タンボ〈多々〉\n5668.38　タンボ〈他人の分をも含めた広範囲の時〉\n5669.12　tanna ka（誘）\n5674.59　タンボ〈ココラ＝ワナイ〉\n5675.87　タンボ『水田はないが』とお置して。\n5676.10　tambo（希）\n5676.52　＃タンボ（この地方は田がないので、被調査者の想像による。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05866.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05866",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05866.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5678.33",
+      "5678.59",
+      "5679.31",
+      "5685.02",
+      "5685.37",
+      "5686.31",
+      "5687.60"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　58-67\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記のく >< () [ ] は厳密にする。\n（上部枠）質問番号　地図番号　186　項目名　田（広）181　A　普通注記　(B　除いた共通語)　[C　除いた特殊語]　ページ（18）\n表見出し：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\nスイデン〈共〉\nタンナカ〈昔〉\nタンボ〈普〉\ntambo〈希〉\nta〈普通〉\ntannaga〈誘〉\n<?> ta' （米は作らない）\nた〈?〉　米は作らない\nta〈?〉 tambo\nこの地方は山ばかりで田はないので詳しいことは不明だとのこと。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05867.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05867",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05867.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5690.12",
+      "5696.68",
+      "5697.24",
+      "5698.19",
+      "5699.25",
+      "5703.03"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-68\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞( )[ ]は厳密にする。\n\n質問番号　地図番号　186\n項目名　田(広)　181\nA 普通注記　ページ (19)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5690.12  tambo 〈新〉    tabbo\n5696.68  tambo 〈どちらかといえば方言的な言い方〉    ta\n5697.24  タンボ （自分の部落には水田はないが: よその田を見て〉\n5698.19  tambo 〈多〉    ta\n5699.25  ta  tambo\n5703.03  tambo 〈普通これを使う〉 ta 〈これも使う〉\n\n（手書き注記や細かい語注あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05868.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05868",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05868.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5703.70",
+      "5731.67",
+      "5740.43",
+      "5750.30",
+      "5761.91",
+      "5771.42",
+      "5780.11",
+      "5780.57"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-69\n質問番号 地図番号 186\n項目名 田(広) 181\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (20)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( ) [ ]は厳密にする。\n\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n5703.70 koido <古>    tambo\n5731.67 tambo くできのいいたんぼ、だれそれのたんぼなどと いえない。>\n5740.43 タ <多>    タンボ\n5750.30 タンボ? くどちらも いう。\n5761.91 (諸)tannaga    tambo\n5771.42 tannaga (諸)    tambo\n5780.11 tannaga <古>    ta\n5780.57 tannaga (希)    ta\n\n（注）上記は読み取りに基づく粗い書き取りです。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05869.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05869",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05869.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5790.79",
+      "5791.23",
+      "5792.18",
+      "5793.20",
+      "5793.74",
+      "6287.71",
+      "6348.77"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜ ＞（ ）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 58-70 質問番号 地図番号 186 項目名 田（広） 181 (A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (2) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] tambo (はっきりと「タンボ」が広く、「タ」は狭いという意識があるわけではない。) tanbo? ta } <区別はない。どちらかと言うと[tanbo]の方が大きいのかもしれない。 ta〈普〉 tambo たく普？ tambo 少（元来この部落には広い田はない） kb:do〈多〉 ta（旧厳居町には全く田がない） タ〈旧で〉場処を持っていることを、マルコンドル又はマルツンダッと言う。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05870.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05870",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05870.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6349.23",
+      "6349.80",
+      "6356.98",
+      "6358.43",
+      "6358.87",
+      "6367.73",
+      "6403.60",
+      "6405.95"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-71\n質問番号　地図番号　186\n項目名　田(広)　181\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (22)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6349.23　バラ　〈地名を冠してイタ々　バラと呼ぶ。〉\n6349.80　ta　〈多〉\n6356.98　タンポ〈新〉\n6358.43　タンボ〈新〉\n6358.87　〈？〉ヒトハラ\n6367.73　〈？〉すべてタ\n6403.60　7.　〈広い場所がない？〉\n6405.95　tambo.　〈多〉\n\n〈R田もタンポと言う〉　それは\n（この地方は水田が少ないためである。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05871.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05871",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05871.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6410.77",
+      "6411.80",
+      "6413.6",
+      "6418.75",
+      "6420.34",
+      "6420.58"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　58-72\n質問番号　地図番号　186　項目名　田（広）181　A 普通注記　（B 除いた共通語）　（C 除いた特殊語）　ページ（23）\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\nレンダーエ、フトレンダーエ　＜／ねんれい.＞\n＜ハッタンベ＝坂場名に＞\n面積による名称もある。>\n\nバレョ。　フトバジョ＜／場所＞\n\n(取り消し線のある項目)\n\nタンポ。　＜普通＞\nタ。　＜植える時に言う。＞\n\nテンダーエ。　＜田舎ならん＞\nリンダーエ。　＜農地名を冠せて、汐々リンダーエ＞\n（以下、手書き注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05872.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05872",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05872.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6422.93",
+      "6426.04",
+      "6427.27",
+      "6427.40",
+      "6428.91",
+      "6430.53",
+      "6432.22"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n日本言語地図資料用紙　注記一覧　58-73\n質問番号　地図番号　186\n項目名　田(広)　181\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (24)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6422.93　フトホリ　<ナワテとナワテの間の一区域>　タンボ\n6426.04　nagare. (谷間に水田があるため、田の集ったのをひと流れという。)　tambo.\n6427.27　tambo.　[形]\n6427.40　tambo.\n6428.91　g.　<常>　タンボ\n6430.53　モトベショ　<？> (場所)\n6432.22　タンボ　[フトタンボ]はひと続きの田を示すことば",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05873.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05873",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05873.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6437.07",
+      "6437.94",
+      "6438.33",
+      "6439.01",
+      "6439.17",
+      "6448.61",
+      "6458.26",
+      "6458.40",
+      "6459.87",
+      "6476.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-74\n質問番号　地図番号　186\n項目名　田（広） 181\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語　(25)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nタヲ〈新〉　タンボ\nタヲ〈新 布〉　タンボ\nタ〈希〉　タンボ\nタヲ〈古〉　タンボ\nタヲ〈今〉　tambo\n#タヲ〈某〉　タンボ\nタンボ〈広い場所はオオキイタンボと呼ぶ〉\nタンボ　デンジ？〈ここには田がない〉\nタンボオ　タンボ？（島の事とて小さい田が段々になって...）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05874.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05874",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05874.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6482.52",
+      "6484.43",
+      "6484.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-75\n質問番号　地図番号　186\n項目名　田(広)　181\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (26)\n\n（表見出し）\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n\n（手書き本文）\nあるだけで、広々とした何枚を平ら\nに続いたところはない。）\n〈田の中に掘ってある灌漑用の井戸\nを tamboという。地上部には、側を\n築かない。〉\n6482.52 ta:\n（次の行）6484.43 タナカ　(タナカは田の真中の意であるが、多くのタノ連っている意識がある。）\n6484.78 タンボ: 広狭を別なし。アソタンボハ五也(？) アル。\nヒルカラミンナタンボエ(イ)クシジャ。のような具合\nにいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05875.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05875",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05875.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6485.14",
+      "6486.07",
+      "6486.93",
+      "6487.43",
+      "6487.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-76\n質問番号 地図番号 186\n項目名 田(広) 181\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] ページ (27)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6485.14    スイデン〈井〉    タンボ；\n6486.07    タンボ。　但しもう1人の志度の報調査者は、まれに広い場所をデンダイという\n　　　　と答えた。これは由任左も、そうであるから\n　　　　大川君町には古くはデンダイであったことが推量される。\n6486.93    スイデン〈新〉\n6487.43    （手書きの注：タンボ以外は田植の後の木を入れてある時のをいい、タンボは木の入っていない時のをいう。）\n6487.66    デンダイ　広くつづいている田全体をひっくるめて\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05876.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05876",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05876.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6489.01",
+      "6494.21"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-77\n質問番号　地図番号　186\n項目名　田(広)　181\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (28)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく〈〉()[]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nデンダイという。\nヒケタデンダイ（引田）\nシロトリデンダイ（日鳥）\nシオヤデンダイ（塩屋）などという。\nNR.（この島には水田が全然ない。火畑ばかりである。その主に漁業に出る者ばかりだから稲作に関することは全く知らない。）\n（畑についていえば）一枚一枚の畑名、畑の廻っている全体をすべてともにハタケである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05877.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05877",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05877.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6500.22",
+      "6501.82",
+      "6505.60",
+      "6506.55",
+      "6510.65",
+      "6511.49"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-78\n質問番号 地図番号 186\n項目名 田（広） 181\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ 29 (X)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）〔　〕は厳密にする。\n\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\n夕。広の場合〈クネ〉　タンホ、\nN.R.　林は砂地で田は一切ない。れっ…\n麦はすこし植える所もある\nta~bo.〈左〉　Ta:\nタンポ、〈共〉　タ。\n夕。〈多〉\n\nタンポ：〈余り用いないか、特に一旦過り〉\n用でなく、広をとした所をさすとい\n意味の場合を方用いられる〉\nカードなし。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05878.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05878",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05878.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "6517.31",
+      "6518.30",
+      "6519.62",
+      "6520.50",
+      "6520.72",
+      "6521.20",
+      "6529.15",
+      "6530.58",
+      "6532.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-79 質問番号 地図番号 186 項目名 田(広) 181 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ 30 A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )[ ]は厳密にする。 6517.31 6518.30 6519.62 6520.50 6520.72 6521.20 6529.15 6530.58 6532.30 タンボ, タ 絵、くハタに対してタ、ハタケに 対してタンホというよりにも思う。 タンホ <共> (タンホはタよりも共通語 的なと考えている) タア <希> ター 一般にはタ─である tambo [新] タ <備?> 1 <希?> タンボ タア",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05879.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05879",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05879.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "6537.06",
+      "6537.21",
+      "6538.02",
+      "6539.12",
+      "6540.52"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　58-80\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n質問番号　地図番号　186\n項目名　田(広)　181\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　31\n\n（表見出し）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き注記（各行、地点番号欄を除く）:\n1行目: ta, tambo. (ta はいろんな文中で。tambo は独立した場合に使われるのではないかと思われる。)\n2行目: ta, tambo. <単独でいうときはtambo が多く、他の語につつけて使うときは ta が多い。>\n3行目: tambo. <考?>    ta\n4行目: taribo. yamada に対して、平地の水堀　ta:mo という。\n5行目: タ? <希>　ワンポ\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05880.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05880",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05880.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6542.27",
+      "6542.58",
+      "6543.56",
+      "6545.88",
+      "6547.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-81\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（［］）は厳密にする。\n（右上の欄）質問番号　地図番号 186　A 普通注記　ページ 32\n項目名 田（広）181\n（表の見出し）地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n6542.27\tタア？　大ていの場合、長音形が用いられる。\n6542.58\tター、タンホ。　taと長音化する。　タンホの方はあまり用いない。\n6543.56\tタンボ。　〈やっ新〉　タア？\n6545.88\ttaNbo.　〈なる〉　ta。\n6547.67\ttambo　〈taというより、tamboと言う方が普通だ。〉\nta\t〈hataと対立させて考える〉\n（以下本文の手書き注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05881.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05881",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05881.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "6548.02",
+      "6549.03",
+      "6549.60",
+      "6549.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 58-82 質問番号 地図番号 186 項目名 田(広) 181 (A) 普通注記 (B) 除いた共通語 (C) 除いた特殊語 ページ 33 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6548.02 ta. <区別なく(使うと思う)か: tae; kwt tambo. 普通に他の語と一緒につかり ときは ta が多いようだ> 6549.03 tambo, ta. <単独に言う場合は自然 tambo> 6549.60 ta. <希> tambo. 6549.69 tambo. <単独語> ta <文中で使う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05882.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05882",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05882.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6554.88",
+      "6551.18",
+      "6559.22",
+      "6559.46",
+      "6562.68",
+      "6566.89",
+      "6567.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-83\n質問番号　地図番号　186\nA 普通注記　ページ 34 (61)\n項目名　田（広）181.\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞＜（ ）[ ] は厳密にする。\n表見出し：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6554.88\tta: <特に広くつついている場所を okida'i という>\n6551.18\tコアダ? （コアザ?説的表記）\n6559.22\tto:mo. <特に田も畑もひっくるめて、ひろい ta, tambo>\n6559.46\ttambo. <俗表感じ>\n6562.68\tタンボ　<広狭 差別なし>\n6566.89\ttambo. <希?>\n6567.86\ttambo. <希?>\n(手書き注記・その他の細かい文字ありが不鮮明)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05883.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05883",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05883.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6568.09",
+      "6571.34",
+      "6575.40",
+      "6577.91",
+      "6580.33",
+      "6581.52",
+      "6581.68",
+      "6582.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-84\n質問番号 地図番号 186\n項目名 田(広) 181\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ 35 (X)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n\n表ヘッダ: 地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6568.09    ta.    ＜よく使う＞    tambo.\n6571.34    tambo.    (通常、ターというのであるが; ここではタンホーといっていると答えられ.)\n6575.40    tambo    ＜新＞    ta:\n6577.91    ta:    <b>\n6580.33    タア    (1音節半の長さである.)\n6581.52    (書き込み・訂正)    <タンホーといいう人もある.>\n6581.68    タンホ、    ＜新＞\n6582.73    タア    (使う人もあり)\n\n（ページ下部余白）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05884.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05884",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05884.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6583.45",
+      "6584.90",
+      "6586.32",
+      "6590.35",
+      "6590.87",
+      "6591.02"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 58-85 質問番号 地図番号 181 186 項目名 田（広） A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (36)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）[ ]は厳密にする。\n地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注）\n6583.45 ta ＜田があるのは大字川合あたりだけで他は hatake (畑) があるのみ＞\n6584.90 ta 長く引かないが、?はない。\n6586.32 tambo [さらに広い場所 すなわち、三丁〜五丁 のようなものを okiいう。 ただし、この付近ではなく、一の瀬などである。]\n6590.35 タア ＜少＞ タンボ\n6590.87 タア ＜新しいことばで少ない＞ タンボ\n6591.02 タア (タンボという人もある。タアという人の方がはるかに多い。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05885.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05885",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05885.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6591.57",
+      "6600.97",
+      "6603.24",
+      "6609.05",
+      "6611.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-86\n質問番号 181　地図番号 186\n項目名 田（広）\nA 普通注記　　B〔除いた共通語〕　　C〔除いた特殊語〕　ページ（37）\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\nどちらが土着の語かについては、わからない。）\n\nタンボ　〈古〉\ntambo　〈この村には田が何枚もつづいてあるということはない。全村で3町歩そこそこ。〉\nタンボ　〈この部落には田は1枚もない。〉\nタンボ　新\nta　〈希〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05886.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05886",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05886.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6615.09",
+      "6617.99",
+      "6624.65",
+      "6629.24",
+      "6630.43",
+      "6633.33",
+      "6634.07",
+      "6634.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n58-87\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n質問番号　地図番号　186\n項目名　田(広)　181\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　38 (Np.)\n\n（表見出し）\n地点番号　A 語形とその注記 [R・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き行:\n66 15.09.    ?\n66 17.99.    ko:tsi; <今の新しいことば;>    tambo.\n66 24.65.    tambo.    <タ>    ta.\n66 29.24.    ? tambo　<タンボの方が広い気がする>\n66 30.43.    to:moN は hata に なる?    ta, tambo.\n\n66 33.33.    ta\n66 34.07.    ta    tambo.\n66 34.32.    tambo.    <タ>    ta\n\n（以下、手書き注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05887.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05887",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05887.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6634.33",
+      "6635.54",
+      "6635.87",
+      "6640.76",
+      "6643.72",
+      "6646.23",
+      "6656.31",
+      "6657.54",
+      "6657.96"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-88\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><( )[ ]は厳密にする。\n\n質問番号　地図番号\n186\n項目名　田(広)　181\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ 39 (N)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nta　新　tambo.\nta　多　tambo.\ntambo.　サ　ta.\nta　（...へ行くときの場合には　taの方が多く使われる）　tambo.\nta　サ　tambo.\nta　<希?>　tambo.\nta　<希?>　tambo.\nN.R.　<大島には田がない。>\ntambo.　<田はない 陸稲を少し作るだけ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05888.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05888",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05888.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6667.81",
+      "6677.70",
+      "6697.39",
+      "6697.49",
+      "6697.57",
+      "6618.2",
+      "6698.61"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 58-89\n質問番号　地図番号　/ 186\n項目名　山(広) 181　ページ 40 (仮)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6667.81　ta;　<田かゝない>\n6677.70　tambo, ta　<試験地で作るなーけ>\n6697.39　N.R.　<田にあるものは三宅島にない>\n6697.49　ta　但島に ta はない。\n6697.57　ta, tambo.　ここには田、田園にあるものはない\n6618.20　ta　<たたし、たは>に欠く、内地のことば?\n6698.61　ta, tambo.　<但し、田やたんはなく、何れも内地のことば>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05889.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05889",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05889.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6701.01",
+      "6710.55",
+      "6711.60",
+      "6720.23",
+      "7239.29",
+      "7239.90",
+      "9266.09"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-90\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n\n質問番号　地図番号　186\n項目名　田(広) 181\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ 41(補?)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6701.01    tambo.    tamboの方がたより広い気がする\n6710.55    tambo, to.    感じとして、tamboの方が広い気がする\n6711.60    tambo    <上>    ta\n6720.23    tambo.    (感じとして、tamboの方が)\n7239.29    taibara.    (いわば平野のことで、集内他の地方にもみられる語)\n7239.90    tabar.    (ruの音を脱落したような南北?)\n9266.09    tannaka    (一般には ta といって、ta...)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05890.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05890",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05890.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "7325.84",
+      "7330.91",
+      "7338.48",
+      "7340.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-91\n質問番号　地図番号　186\n項目名　田（広）181\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ 42\n（表の見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n田の中に働ききりのときは\ntannaka といふ。>\n(やっ語源を意識した答か。)\n<田のある場所（耕地）を\nte: haru とも言う。>\ntannaka ね\nTa. <この部落には現在、田はない。\n土地台帳に田となっている\nところはあるが、>\nt[a]ibaru. (t[a]ibaru は平野でも。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05891.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05891",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05891.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "7341.42",
+      "7349.86",
+      "7351.68",
+      "7352.14",
+      "7352.38"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（［］）は厳密にする。\n日本言語地図資料用紙 注記一覧    58-92\n質問番号　地図番号　186\n項目名　田（広）　181\nA 普通注記（丸A）　[B 除いた共通語]　[C 除いた特殊語]\nページ　43\n表見出し：地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n（手書き欄）\n（いう意味である。）　（セマチなどのいい方はしらぬ（という））\nta　〈田はない〉\ntannaka. （セマチなし。）\nタンナカ。　〈タンポともえわず〉\nharu.　tannakaは主として／枚だが。\n広い場合もいえる、しかし。\n広い場合はharuということか／ない、たむし、haruは…",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05892.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05892",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05892.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "7354.23",
+      "7356.70",
+      "7357.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-93\n質問番号　地図番号　186\n項目名　田（広）　181\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ 44\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（　）（　）［　］は厳密にする。\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n広い平らな場所で、耕地の集ったところという意である。平である故、そのほとんどが田である。\n7354.23　タンボ　＜新＞\n7356.70　ta.　＜一人の耕作者の受け持ちのものを tsubo という＞\n7357.31　ta.　＜広い耕作地域を tsuru ということがあるが、それは田とは限らない。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05893.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05893",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05893.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "7361.17",
+      "7363.85",
+      "7364.34",
+      "7366.89",
+      "7368.32",
+      "7372.27",
+      "7375.96",
+      "7377.27"
+    ],
+    "other_text": "58-94\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　186\n項目名　田（広）\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ 45\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nタンボ、〈希〉\nタンボ、〈新?〉\nタンナカ、〈新〉\n#ざんruu、〈とまってもいい〉\nta.\nくこの辺には夕方が全くないから、詳しいことは知らぬ。\nタンボ、〈共〉\nta\n田そのものが大きい場合、uina, giiroda,と言う。（この地実に水田なし）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05894.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05894",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05894.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "7380.74",
+      "7381.47",
+      "7386.55",
+      "7390.26",
+      "7390.15",
+      "7391.01",
+      "7391.84"
+    ],
+    "other_text": "58-95\n日本言語地図資料用紙 注記一覧\n質問番号　地図番号　186\n項目名　田（広）　181\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ　46\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）は厳密にする。\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n7380.74　テエバール　（広い田園をいう）　タンナカ。\n7381.47　タンポ　（広い場所の田のこともいう）　タベラ。\n7386.55　タンホ　＜特に広い場合　tabaru　（田厚の訛り）という＞\n7390.26　チャアパル　平野一面〜町以上の田をいう　タンナカ。\n7390.15　タァ　[ta']　名　＜畑から使う＞\n7391.01　タンオ\n7391.84　タァ　＜タンホは排水溝、タンナカは田の中の畦しか用いず＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05895.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05895",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05895.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "7392.33",
+      "7392.94",
+      "7394.60",
+      "7395.88",
+      "7400.11"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 58-96\n質問番号　地図番号 186\n項目名　田(広) 181\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ 47\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7392.33　タンナカ。　〈タンボとはえわない!〉\n7392.94　タ?　（基本的にいゝ）〈古くからいう〉　タンナカ。\n7394.60　タンボ。　〈新〉\n7395.88　tabaru.　田の屋の変。\n7400.11　ta　〈現在、ほとんど畑に転換してしまった。野菜が足りないので〉\n（以下、空欄）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05896.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05896",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05896.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7403.21",
+      "7405.35",
+      "7412.26",
+      "7416.34",
+      "7424.67"
+    ],
+    "other_text": "58-97\n日本言語地図資料用紙　注記一覧\n質問番号　地図番号　186\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　48\n項目名　田(広)　181\n\n▶ A･[B]･[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C 残した語形とその注〕\n\n7403.21　ta:　[no: te とい]人もある。 実際にはこの地方は広い　田が全くない。\n7405.35　ta:\n7412.26　ta:\n7416.34　de~dai　乾田。\n7424.67　tambo　現在はタンおと(を使う)ことが多く、ta:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05897.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05897",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05897.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "7431.13",
+      "7431.67",
+      "7432.44",
+      "7432.95",
+      "7436.68",
+      "7450.20"
+    ],
+    "other_text": "► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記のく >< () [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 58-98\n質問番号　地図番号　186\n項目名　田(広)　181\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ 49 (手書き)\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き表内（概訳）:\nta~bo.    <新>　　　ta\nta~bo.    <共>　　　ta\nta.        taこといわず\ntambo:    <近ごろ全けい>   ta:\ntambo.     <共>　　　ta:\nta:        夕作ーほと・広くなくとも よいという観念があるようで ある。\n\nkota.     <山田(段々にあっている)のことば> ta'bo.\n\n（ページ下部に手書き注記と余白あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05898.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05898",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05898.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "7450.44",
+      "7501.14",
+      "7502.91",
+      "7513.01",
+      "7513.43",
+      "7522.48",
+      "7523.05"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-01\n質問番号 地図番号 186\nA 普通注記\nページ 50 (22)\n項目名 田(広) 181\n[B 除いた共通語] [C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉( )[ ]は厳密にする。\n（表ヘッダ）地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n手書き注記:\nKota to iu.\nKota no bun ga sunda\n（たとのようにい）。\ntambo. タンボ　〈古〉　タ?\nタンボ　〈古〉　タ?\nタンボ　〈新〉　タ?\nタンボ　〈新〉　タ?\n（下部に続く同様の語形と注記の列）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05901.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05901",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05901.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "7523.30",
+      "7533.11",
+      "8300.11",
+      "8300.25",
+      "8301.76",
+      "8302.19",
+      "8302.55",
+      "8302.91",
+      "8303.13",
+      "8303.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-02\n質問番号　地図番号　186\n項目名　田(広)　181\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ 51 (2枚)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7523.30\tタ?　＜タンホ-は用いぬ。＞\n7533.11\tタ?　＜タンホ-は用いぬ。＞\n8300.11\tタ?　（優勢）\n8300.25\tta.　＜tannakaは田の中の貫＞\n8301.76\tタンナカ.　＜タバリ、チャアバリ用いる。＞\n8302.19\tタンナカ　＜新？＞\n8302.55\tタンホ-　＜新つく希＞\n8302.91\tタンナカ　（昔から優勢）\n8303.13\tta.　（方）　tannaka.\n8303.84\tタンナカ　＜タンホ-とはいわない。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05902.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05902",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05902.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "8305.73",
+      "8306.04",
+      "8306.42",
+      "8315.89",
+      "8316.20",
+      "8320.98",
+      "8331.17",
+      "8342.51",
+      "8345.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-03\n資問番号 地図番号 186\n項目名 (広) 181\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ 52\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n8305.73    ta.  くこの辺にはとり広い場所はない！>\n8306.04    ta    tambo は使わない\n8306.42    tazuru, tazuro. (取り消し線あり)\n8315.89    tazwru  <左, 希.?>\n8316.20    tambo. <新>\n8320.98    tambo.  <宿泊にはタメボーはない。>\n8331.17    tambo. <希?>  ta.\n8342.51    tambo.  ta.\n8345.24    ta  タンボという語は使わない\n\n(ページ下枠線)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05903.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05903",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05903.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "8361.28",
+      "8363.51",
+      "8394.01",
+      "1148.59",
+      "1261.01",
+      "1261.16",
+      "1271.05",
+      "2068.08",
+      "2140.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-04\n資料番号 地図番号 186\n項目名 田(広) 181\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ 53\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n8361.28　ta~bo.　＜水田はないけんど＞\n8363.51　tabai　＜常＞　ta~bo.\n8394.01　ta~bo.　＜耕＞\n1148.59　N.R.　ない。\n1261.01　ta:　ない。\n1261.16　ta:　ない。\n1271.05　Qa:　田はない！時々茂作をすることはある。\n2068.08　N.R.　なんばなし。\n2140.69　ta:　＜昔は田があったが現在はない＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05904.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05904",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05904.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "2141.71",
+      "2150.07"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-05\n質問番号　地図番号　186\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　54（2枚）\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の<　>（　）（　）は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n2141.71　ta:　〈特に名はない。旧圃はせまいので、所有者の名をつけている。〉\n2150.07　ta:　〈仲地には田はない。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05905.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05905",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05905.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "5632.28",
+      "6378.87",
+      "6379.68",
+      "6609.05"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-06\n質問番号　地図番号　186\n項目名　田(広)　181\nA 普通注記　B (除いた共通語)　C (除いた特殊語)　ページ ( / )\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく <> ( ) [ ] は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5632.28　その他　he (gito-he) <一囲地、その次が tambo　tamboである。>\n6378.87　ヨリ（こっちのより、奥のより　など...）\n6379.68　タンボ（今のことども）\n6609.05　ノラ　<ノラに田の草とりにいくなど>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05906.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M186Q181/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05906",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05906.tif",
+    "source_ljc_id": "LJC-M186Q181",
+    "source_map_numbers": [
+      "186"
+    ],
+    "source_title": "た (水田) ―集合"
+  }
+]

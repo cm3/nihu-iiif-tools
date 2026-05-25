@@ -1,0 +1,627 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0897.91",
+      "2750.43",
+      "2771.64",
+      "3711.92",
+      "3711.98",
+      "3713.75",
+      "3717.90",
+      "3720.58",
+      "3721.30"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n日本言語地図資料用紙　注記一覧　18-21\n028 S 79\n項目名　オドロク（目覚める）。\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　(1)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n5. <おばあさんがトドロクとかオドロクとかいうようにいってたが>\n5. <津軽弁は使う>\n5. <odogaruとは言う>\n5. odogaruという\n5. \n5. [odogaru] オドガルという。\n1. 過 odorotta\n5. odogaruという\n5. odogaruという、他動詞は odogasu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01821.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01821",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01821.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3721.71",
+      "3723.21",
+      "3724.36",
+      "3725.72",
+      "3725.77",
+      "3726.21",
+      "3726.25",
+      "3727.81"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のくくり（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-22\n\n質問番号　地図番号\n028 S 79\n項目名　オドロク（日覚める）\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語\n(2)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n3721.71　5. odogarüという。\n3723.21　5. 眼がさめる odogarü. 眼をさます\n　　　　odogasü. 形態類似のため誤記する。\n3724.36　1. （オドロゲ…おきろ…とはいう）\n3725.72　1. （大人から小人に）『オドロッタ』の形で。\n3725.77　1. オドロケ、とはいう。\n3726.21　1. オドログ＜嬰？＞、オドロッタの形で。\n3726.25　1. （オドロッタ）\n3727.81　1. 「子どもが寝ているので、オドログから\nさわぐな、のように使う。」",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01822.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01822",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01822.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3730.39",
+      "3732.26",
+      "3733.18",
+      "3733.22",
+      "3735.50",
+      "3735.77",
+      "3736.03",
+      "3741.57",
+      "3742.82",
+      "3743.49"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-23\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は敬称にする。\n\n管理番号　地図番号\n028 S　79\n項目名　オドロク（日覚める）\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　(3)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5. odogaruという。\n5. odogaruという。\n5. 〃\n5. 〃\n1. オドロッタという。\n1. ＜オドロカスナと否定の時にのみ＞\n1. 「オドロケ」とはいう\n5. odogaruという。\n5. オドボルという。\n1. [ ]（本人も思い出して使うといった）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01823.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01823",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01823.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "3744.33",
+      "3745.62",
+      "3746.76",
+      "3747.91",
+      "3753.85",
+      "3754.13",
+      "3754.37",
+      "3754.76",
+      "3762.85",
+      "3763.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-24\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n資料番号 028 S　地図番号 79\n項目名　オドロク（日覚める；\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (4)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n1. <オドロッタ>\n1. (オドロッタ、オドロゲ など)\n1. <オドロガスを起すことには使う>\n1. <オトロイタ>（子どもに対して用いる時）\n1. <オドロッタという形で>\n1. <オドロッタ>\n1. (〈オドロッタ〉と)\n1. (オドロッタ)\n5. odogariu とはいう\n1. <オドロッタと>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01824.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01824",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01824.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3764.86",
+      "3765.03",
+      "3765.74",
+      "3772.32",
+      "3774.44",
+      "3775.83",
+      "3776.51",
+      "3777.32",
+      "3784.24",
+      "3787.45"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-25\n資料番号　028 S　地図番号　79\n項目名　オドロク（日覚める）\nA　普通注記　（B　除いた共通語）　（C　除いた特殊語）　（5.）\n\n地点番号　A 語形とその注記　（B・C 除いた語形とその注）　A 注のない語形　（B・C 残した語形とその注）\n\n3764.86　4.　＜古・稀＞\n3765.03　1.　（「おどろった」の形で）\n3765.74　1.　（「オドロッタ」と）\n3772.32　5.　オドガルという。\n3774.44　5.　＜オドロッタの形はあった＞\n3775.83　1.　＜少々、「オドロッタ」という＞\n3776.51　5.　隣村（旧）土州では使う。\n3777.32　4.　＜少しく＞\n3784.24　1.　（オドロッタ と）\n3787.45　4.　使わない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01825.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01825",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01825.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3787.50",
+      "3790.27",
+      "4697.92",
+      "4790.74",
+      "5472.91",
+      "5517.90",
+      "5557.48",
+      "5568.57",
+      "5621.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-26\n質問番号　地図番号　A　普通注記\n028 S　79\n項目名　オドク（目覚める）\nページ　（6）\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n1. （オドロエダクの形で）\n5. odogaruという\n5. <me:sameru まつづ>\n5. <ogiru あるいは me:sameru というように>\n5. [mege:ta　ナガイタと言う]\n5. <ビックリスルという>\n5. <bekkuri;　siruという>\n5. （オドレルということはかあろう）\n5. obieta: obijakasaretaという",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01826.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01826",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01826.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5623.85",
+      "5631.75",
+      "5632.83",
+      "5641.07",
+      "5641.13",
+      "5690.96",
+      "5699.42",
+      "5790.79",
+      "6287.71",
+      "6368.60"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-27\n質問番号　地図番号\n028　S　79\n項目名　オドロク（日覚める）\nA 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (T.)\n\n地点番号　A 音形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n5623.85　5.　<そりゃ ogiru だ!>\n5631.75　1.　<よく使う>\n5632.83　5.　?\n5641.07　1.　<アヤンホザ odoroita カラ抱いてやれよ>\n5641.13　1.　<こどもの眠っている場合にかぎって使う>\n5690.96　5.　<ビックリするという>\n5699.42　5.　#\n5790.79　5.　<「目が覚める」を使う>\n6287.71　1.　<jonaka ni odoroita などという>\n6368.60　4.　<夜半にうせやることを言う。舞については言わり>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01827.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01827",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01827.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "6394.43",
+      "6398.78",
+      "6460.76",
+      "6462.52",
+      "6472.05",
+      "6474.83",
+      "6476.93"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙　注記一覧　18-28 調査番号　028 S　地図番号　79　項目名　オドロク（目覚める） A　普通注記 [B]　除いた共通語 (C)　除いた特殊語 （8.） 表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注） 2. <あまり使わない> 4. <現在はほとんど使わないが> 2. 使わない。 1. <夜中にふと耳がさわる場合には使う> 1. obokeru 5. <ネサルと普通、言>（古老はオドロクを使ったらしい） 1. たいてい夜中にふと何かの物音に目がさめるというような時に使う。従って普通の...",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01828.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01828",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01828.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6477.02",
+      "6482.52",
+      "6482.75",
+      "6484.43"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語順は地点番号順に並べる。\n注記の＜＞（）（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　18-29\n質問番号　地図番号\n028 S　79\n項目名　オドロク（目覚める）\nA 普通注記　（B 除いた共通語）　（C 除いた特殊語）　（9.）\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n意味の「目が覚める」とは少し意味がちがう。\nこの被調査者は「オドロク」とダイヂライの混同がみられた。\n6477.02 5. （但し 草壁の近くで、同じ内海町内（内）苗羽（のうま）の出身である久留島武保氏（草壁小学校長）は調査の側に居られて、子供の頃聞いた覚えがあると言われた）\n6482.52 4. ＜老人は若いものよりも多く使う＞\n6482.75 5. ＜me ga sameru という＞\n6484.43 1. ヨナカニ　オドロイタラ　アナガ　ツノッタ（筆写不確か）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01829.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01829",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01829.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6485.14",
+      "6485.46",
+      "6486.07"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情況は地点番号順に並べる。\n▶ 注記の< > ( )は厳密にする。\n日本言語地図資料利用紙 注記一覧 18-30\n頁問番号 地図番号\n028 S 79\n項目名 オドロク（目覚める）\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n（10）\n地点番号　　A 語形とその注記（B・C除いた語形とその注）　　A 注のない語形（B・C 残した語形とその注）\n6485.14　5.　【然し、旧坂出市の南の方との川津村\n（今は新市内）では、夜明けなどに何かり\n物音でふっと目覚めたようなときには使う。\n然し、坂出市内では使わない】\n6485.46　1.　＜驚くという時にはオオクタガハ・ビックリシタなど\nという＞\n6486.07　2.　然し、そう多くは使わない。ヨナカニチョット\nオドロイテナア、のように用いる。その時には\n夢現の時にほんやりした意識の状態で\n目覚め、ややて又眠入ってしまうという時に用いる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01830.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01830",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01830.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6487.43",
+      "6491.49",
+      "6492.11",
+      "6492.50"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-31\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での語根は地点番号順に並べる。\n▲ 注記の＜＞（ ）は敬語にする。\n（枠内右上の表）\n質問番号　地図番号\n028 S　79\n項目名　オドロク（日覚める）\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語　(11)\n\n（表の内容）\nA 語形とその注記（B・C除いた語形とその注）\nA 注のない語形（B・C 残した語形とその注）\n\n2. ＜ソレテトオルケドモ、アンマリツカワズ。（それで 意味は有るけれどもあまり使わない） （それで多少は使う方という気持が残っている。）\n\n1. <odoro-i-taの形でいう>\n\n1. neodoroitaといういう人はある。<neodoroita> はすい眠中にハッと目を覚ますことてゝあろ。 眠り足って目覚めるのにはいやないといっていた。\n\n5. codorokuを使う者はこの地域にもいる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01831.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01831",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01831.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6505.60",
+      "6519.43",
+      "6521.17",
+      "6536.32",
+      "6554.45",
+      "6555.65"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（ ）は原語にする。\n日本言語地図資料用紙　注記一覧　18-32\n資料番号　028 S　地図番号　79\n項目名　オドロク（目覚め；）\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]（12）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n026Sに注記したのと同じ状況が検調査\n着にこの語を吸収させたかったのであろう\n語　過課により質問しなかったので、ちとむり\n郵便調査の答え。\n\n6505.60　1.\n6519.43　5.　＊\n6521.17　5.　「オドロク」という語なし\n6536.32　5.　＜「おどろく」ということは、単3が鈍\nでは使わないことはであろう＞\n6554.45　5.　＜ふつうは「ビックリスル」と云う＞\n6555.65　5.　＜オドロクということは感動体をあまり用いない＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01832.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01832",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01832.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6565.17",
+      "6572.29",
+      "6583.45",
+      "6583.93",
+      "6593.98",
+      "6730.33",
+      "7275.07"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > () [] は略符にする。\n\n日本語語地図資料用紙　注記一覧　18-33\n\n資料番号 028 S 地図番号 79\n項目名 オドロク（目覚める）\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (13)\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\nA注のない語形　[B・C 残した語形とその注]\n\n5. <odorokuというコトバを使うのはよほど気のきいた人で、我々は bikkuri/jitaと言う>\n5. <「おどろく」は、ビックリした時に使うのだ>\n5. <「おどろく」はビックリスルこと>\n1. <子どもの寝ていて、近くで騒いで目をさます時は使う>\n1. <(odoroku)という発音>\n5. 「おどろく」に当る鴨川の言葉は普通[tamageru]である。\n5. ＊（びっくりすること）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01833.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01833",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01833.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "7289.31",
+      "7302.87",
+      "7305.13",
+      "7311.68",
+      "7312.69",
+      "7312.83",
+      "7320.59",
+      "7321.93",
+      "7322.81",
+      "7324.47"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-34\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n質問番号　地図番号\n028 S. 79\n項目名　オドロク（目覚める）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(14.)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n5. 目覚めるは ozomu という\n5. <me samasu>という\n5. <父が使っていたのを聞いたことがある>\n5. <ozomuという>\n5. ozummuという\n5. tamagaru\n5. me samasuという\n5. ビックリする時しか使わない\n5. <okiruとは言わない>\n2. 然し megasamuru(=サムル)と類いう",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01834.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01834",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01834.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7329.39",
+      "7329.57",
+      "7331.27",
+      "7332.46",
+      "7333.51",
+      "7338.48",
+      "7342.12",
+      "7342.72",
+      "7342.76",
+      "7343.76"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-35\n\n028 S 79\n項目名 オドロク（日覚める） (15)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（）[]は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n7329.39  5. <me ga sameruという>\n7329.57  1. <5ji ni odoroite... のように使う>\n7331.27  5. <ozumanという>\n7332.46  5. <me no samuruという>\n7333.51  5. <ozuman・okiranともいう>\n7338.48  5. <tamageruという>\n7342.12  5. <me samasmuという>\n7342.72  4. (tamagaruという)\n7342.76  5. <me sameta>という\n7343.76  5. 起きているを ozu:dzoru という。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01835.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01835",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01835.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "7349.91",
+      "7351.68",
+      "7352.14",
+      "7352.61",
+      "7353.19",
+      "7353.51",
+      "7354.23",
+      "7356.70",
+      "7359.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 18-36\nA・[B]・[C]ごとに別紙を使用する。\nその中での語は地点番号順に並べる。\n注記の< > ( ) は厳密にする。\n管理番号 地図番号 028 S 79\n項目名 オドロク (目覚める)。\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (16.)\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\n5. <okiruという>\n5. mega sameruという\n5. (オゾムという)\n5. オズムを使う。\n5. (?) <ozomuというのがふつう>\n5. <オズムという>\n5. <〃>\n5. [大野郡西大野村では「…う」] 小学校の先生の説。\n5. <mega sameru>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01836.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01836",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01836.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7362.42",
+      "7364.34",
+      "7373.23",
+      "7373.92",
+      "7373.99",
+      "7374.15",
+      "7374.75",
+      "7381.97",
+      "7385.61",
+      "7390.75"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧 18-37\n質問番号 028 S　地図番号 79\n項目名　オドロク（日覚める）\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (17.)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n7362.42　5.　タマサル・ビンタマルという。\n7364.34　5.　タマサル、＜目がさつることはオズムという＞\n7373.23　5.　＜タマサルを呼ぶ＞\n7373.92　5.　＜オズムという＞\n7373.99　5.　＜サムル・オズムを使う＞\n7374.15　5.　＜オゾムという＞\n7374.75　5.　＜オズム・ナササムを使う＞\n7381.97　5.　タングアルを用う。\n7385.61　5.　＜○ゾm藁という＞\n7390.75　5.　オズムという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01837.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01837",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01837.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7392.33",
+      "7393.62",
+      "7401.60",
+      "7401.92",
+      "7403.16",
+      "7403.21",
+      "7410.57"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞( )には厳密にする。\n日本言語地図資料用紙　注記一覧　18-38\n管囲番号　地図番号\n028 S　79\n項目名　オドロク（目覚める）の\nA 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語　(18)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形・[B・C 残した語形とその注]\n\n7392.33　5. <メナリサムル・オズム (オズウドル) 同かさめて\n　　　　ぬ床に居る状態を特にオズッドルという>\n7393.62　5. オズムという\n7401.60　4. 近ごろは、使うことが少なくなった\n7401.92　5. （武智正人「愛媛の方言」によると松山（中部）でも使っている）\n7403.16　1. <me o samasu>も使うと答えた\n7403.21　1. <kesara jozi(??) ni odoroita no yori ni e?>\n7410.57　1. <juibe wa saisaid odori te nerare nanda などという>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01838.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01838",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01838.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7412.71",
+      "7430.15",
+      "7430.75",
+      "7430.80",
+      "7432.44"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 18-39\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n管理番号 028 S 地図番号 79\n項目名 オドロク（日覚める。）\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (19)\n\n地点番号　A 音形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注）\n\n7412.71 1. <tamageta toki mo> 言う由。\n7430.15 1. <okiruという>（話している間に、△3に odoroka naikenzo ということもあるといった。odorokuという形では、使わないという意味らしい。）\n7430.75 1. <幼児が急に目をさましたときなどにもいう>\n7430.80 5. （調査者の手持ち資料でも東宇和郡の西半分の地域では使っていない）\n7432.44 1. *使わない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01839.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01839",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01839.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7440.72",
+      "7502.22",
+      "7502.91",
+      "7503.11",
+      "7503.48",
+      "7513.43",
+      "7513.69"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　18-40\n質問番号　地図番号\n028 S　79\n項目名　オドロク(日覚める)\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)　(20.)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n7440.72　4.　＜以前に＞\n7502.22　5.　小入り（竜神より1kmへたった字では、＜昔の人は言ったかもしれない＞と\n7502.91　4.　＜近頃はあまり用いられない＞\n7503.11　1.　＜北部大和方言との差であろう＞\n7503.48　1.　＜パッと耳がさわるときにいう。たと「耳がさわる」というのとは違う。＞\n7513.43　4.　＜若い人は使わない＞\n7513.69　1.　例＜ケサリ　オトロイテ＝ミタラ　オオイケ　フリヤルケン＞\n（今朝　日出さって見ると　大雪が降っているようだよ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01840.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01840",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01840.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7522.94",
+      "7523.27",
+      "8302.55",
+      "8302.91",
+      "8303.47",
+      "8303.70",
+      "8345.24",
+      "1156.89",
+      "1167.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-41\n貴問番号　地図番号\n028 S 79\n項目名　オドロク（日覚める。）\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)　(21.)\n\n地点番号　A語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C残した語形とその注】\n7522.94　1.　例 <ユウべ、2ジゴロ　オトロイテ　アトモヲ　オヤレナダ>\n　　<昨夜2時頃に目が覚めて、わたしも眠れなかった>\n7523.27　4.　<むかしは聞いた、きいたことがある。>\n8302.55　5.　<オズムを使う>\n8302.91　5.　<”　”>\n8303.47　5.　<オキルを使う>\n8303.70　5.　<オズムという>\n8345.24　5.　「ちょっとく」という語を使わない\n1156.89　5.　udurutstu（動詞の語尾Nは省略される）\n1167.01　5.　udurutjuN",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01841.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01841",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01841.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "1169.84",
+      "1223.91",
+      "1231.88",
+      "1232.29",
+      "1232.75",
+      "1241.05",
+      "1241.96",
+      "1250.59",
+      "1251.73",
+      "1251.98"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　18-42\n資料番号　地図番号\n028　S　79\n項目名　オドロク（日覚める）。\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(22.)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n1169.84　5.　＜「おどろく」に当る語形は udurutsun＞\n1223.91　5.　(　\"　\"　　udurukun)\n1231.88　5.　udurutsun\n1232.29　5.　＜「おどろく」に当る語形は ururukun＞\n1232.75　5.　(　\"　\"　udurukun)\n1241.05　5.　(　\"　\"　ururukun)\n1241.96　5.　5.　(　\"　\"　udurutsun)\n1250.59　5.　(　\"　\"　zudurutsun)\n1251.73　5.　(　\"　\"　zudurutsun)\n1251.98　5.　(　\"　\"　udurutsun)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01842.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01842",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01842.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "1260.78",
+      "1261.32",
+      "1261.80",
+      "1270.26",
+      "1270.29",
+      "1271.20",
+      "2074.69",
+      "2075.22",
+      "2076.98",
+      "2095.62"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）〔 〕は厳密にする。\n\n日本語語地図資料用紙　注記一覧　18-43\n調査番号　地図番号\n028 S　79\n項目名　オドロク（目覚める）\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(23.)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5.（おどろくに当る語形は zudurut(suN)）\n5. 〃　udurut(suN)\n5. 〃　ururut(suN)\n5. 〃　ururuku(N)\n5. 〃　zedurut(suN)\n5. udurutsuN\n5.（おどろいたに当る語形は udo:ri）\n5.（おどろくに当る語形は udarakuN）\n5. 〃　uduruguN\n5. 〃　udurugu(N)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01843.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01843",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01843.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "2140.49",
+      "2141.61",
+      "2141.71",
+      "2150.06",
+      "2150.17",
+      "2151.20",
+      "2151.51",
+      "2151.64",
+      "2151.67"
+    ],
+    "other_text": "▸ A・[B]・[C]ごとに別紙を使用する。 ▸ その中での情報は地点番号順に並べる。 ▸ 注記の〈〉（）[]は厳密にする。 日本言語地図資料用紙 注記一覧 18-44 資料番号 028 S 地図番号 79 項目名 オドロク（目覚める） A 普通注記 [B 除いた共通語] [C 除いた特殊語] (24) 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注） 2140.49 5. <くわをさます 意は misuri:> 2141.61 5. <「おどろく」は uduruwu> 2141.71 5. <おどろくに当る語形は udarakt> 2150.06 5. < 〉 udurufu) 2150.17 5. < 〉 udurutsi) 2151.20 5. < 〉 udurukt> 2151.51 5. < 〉 uduruki) 2151.64 5. < 〉 uduruts†> 2151.67 5. < 〉 uduruts†>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01844.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M079Q028/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC01844",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC01844.tif",
+    "source_ljc_id": "LJC-M079Q028",
+    "source_map_numbers": [
+      "079"
+    ],
+    "source_title": "オドロクを“目覚める”の意味で使うか"
+  }
+]

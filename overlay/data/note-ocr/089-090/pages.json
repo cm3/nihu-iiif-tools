@@ -1,0 +1,1221 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0716.46",
+      "0737.94",
+      "1736.84",
+      "1756.32",
+      "1793.14",
+      "1867.15",
+      "2722.67",
+      "2754.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-41\n質問番号 地図番号 054 89.90\n項目名 いびきをかく 054\nA 普通語註記 (B 除いた共通語) (C 除いた特殊語)\n(ページ)\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\n0716.46　イビキカク　(オ助詞を使わない)\n0737.94　ibiki kaku　(<ibiki kai tetaともいうし,\n　　　　ibiki siteruともいう>)\n1736.84　イビキカフ　(オ助詞なし)\n　　　　(ゆっくりいわせるとオを入れる)\n1756.32　イビキカフ　(オを入れずにいう)\n1793.14　ハナプラカプ　イビキカプ　(オ助詞をいわない)\n1867.15　ハナイビキタス　(はなでまらすように用いる場合)　イビキカフ\n2722.67　イビキカブ　(タ)\n　　　　ハナオドスル\n2754.56　ibiki kaguw　(kaguwは共通語の影響?)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02141.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02141",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02141.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2763.22",
+      "2763.89",
+      "3699.55",
+      "3744.18",
+      "3766.47",
+      "3771.29",
+      "3775.11",
+      "3781.49",
+      "3783.08",
+      "4638.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-42\n資料番号 054  地図番号 89.90  A 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (2)\n項目名 いびきをかく\n\n地点番号  A 露形とその注記 [B・C 除いた普通形とその注]  A 注のない語形 (B・C 残した語形とその注）\n2763.22  hanabie sīrw (hanabie 鼻笛?)\n2763.89  hananodo sirw 〈右〉  hanaodo sīru\n3699.55  エビギカブ (一般) 〈え〉は(イ)と(エ)の中間音  エビギカブ\n3744.18  イビギガフ これは今はそういうといった。  ハナオド ツオエ(?) イビギャッオエ\n3766.47  ハナゴド (名詞形しか出なかった)\n3771.29  nebigi sürw (やさしい音)  hanaodo taderw\n3775.11  ハナオドタケア いくら聞い直しても… タラルは出てこない\n3781.49  hanaibigi nagu (音の強い場合 トイワ)  ibigi kagū\n3783.08  hananodo ka'ku <ともいう>  hanaodo sürw\n<4638.22  ebri'ki kaku  eは非常に狭い e",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02142.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02142",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02142.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4663.49",
+      "4665.87",
+      "4710.18",
+      "4714.68",
+      "4715.33",
+      "4715.98",
+      "4732.18"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙 注記一覧 21-43\n質問番号 地図番号\n054   8990\n項目名 いびきをかく 054\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (3)\n地点番号  A 語形とその注記（B・C 除いた語形とその注）  A 注のない語形（B・C 残した語形とその注）\n4663.49  ibikkaku  K(=口蓋化 ibiki; ibiki + kakuのつまったもの)\n4665.87  ebiki o kaku <古.現>  <昔も今も使う>\nebiki si ru (今使う) ……（昔使わなかったかどうか分らない）\n4710.18  jwŏbǵl kagu ( [jm] は時に [jo] を生ずる。 wとoの中間的な音。)\n4714.68  hanaibiki s w l w （語源意識によって作り出したらしい） hanabiki s w l w\n4715.33  hanabigi kagtt ＜ハナビギは「鼻のいびき」である＞\n4715.98  hanabiki s w l w ＜同じ様に使う＞\n        hanaodo s w t w\n4732.18  hanabiki süwru ＜古＞    hanabiki kaku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02143.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02143",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02143.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4740.26",
+      "4741.92",
+      "4742.37",
+      "4746.20",
+      "4753.76",
+      "4773.78",
+      "4781.86",
+      "5499.98"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙　注記一覧　21-44\n（右上の箱）054　89.90　項目名　いびきをかく　064\n（表見出し）地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4740.26　ebil kagw　（エビカブで　エビギカブのギをいわない）\n4741.92　ebilgl kagw　＜改ったときの言い方＞　ebil kagw\n4742.37　hanayusakakuw　＜古＞　ebikikakuw＜新＞\n4746.20　hana`bigt kaku＜古＞　e`bitjt kakuw\n4753.76　nebikiokakuw＜古＞　hanayusakakuw\n4773.78　hananwra taderw. hananwra kagw　＜両方ともおなじように使う＞\n4781.86　hanaywra kagw　＞　＜両方同じ様に使う＞　hanaywra taderw\n5499.98　ｲﾋﾞｷｶｸ　・055のところのモキスル／モキスル＞となるように　教に格助詞の｛の｝を使う例が少ない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02144.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02144",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02144.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5537.34",
+      "5574.79",
+      "5594.37",
+      "5604.28",
+      "5608.51",
+      "5609.26",
+      "5612.22",
+      "5619.67",
+      "5628.66"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（　）の字は厳密にする。\n日本語語地図資料用紙　注記一覧　21-45\n資料番号　地図番号\n054　89.90\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\n頁 (5)\n項目名　いびきをかく\n地点番号　A 露形とその注記（B・C除いた露形とその注）　A 注のない露形（B・C 残した露形とその注）\n5537.34　ikibiki kaku　イキビキカク\n5574.79　ibiki kakü　( aっ b の形との o b の終止形 )　(は出てこない。)\n5594.37　ibiki o suwru　kakuとはしわないと特にいう。\n5604.28　eki kakw <希>　ebiki okakuw\n5608.51　ibiki kaguw　(ibikiにならない)\n5609.26　i'bikjo kakw　キ2の口は少し寄り\n5612.22　sibiki kakw　まらがいではない。\n5619.67　ハナブランテル　<大きなイビキの時にいう>　イビキオカク\n5628.66　ハナプラオラテル <古> <今でも稀に言うことがある>　イビキオカク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02145.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02145",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02145.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5628.70",
+      "5629.17",
+      "5629.23",
+      "5635.48",
+      "5635.65",
+      "5636.74",
+      "5638.53",
+      "5641.99",
+      "5644.74"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-46\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略筆にする。\n\n（右上の箱）資料番号 054　地図番号 89.90\n項目名　いびきをかく\nページ（6）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n5628.70　イビキオカフ　ハナプラオタテル　＜同程度に使用＞\n5629.17　ハナプラオタテル　＜多く使う＞　イビキオカフ\n5629.23　イビキオカフ　＜後でいう時に使う＞\n　　　　ハナプラオタテル　＜その場でいう時に使う＞\n5635.48　イブキオカフ　＜古＞　イビキオカフ\n5635.65　イビキオカフ（共）\n5636.74　ゴトカフ＜古＞　＜ユクベノヨリアイニゴトカイテイタ＞　イビキオカフ\n5638.53　ハナプラオタテル　＜化により大きい時にいう＞　イビキオカフ\n5641.99　'ibiki'o'ka'kw' 第1のは少し用いている\n5644.74　イブキオカフ（共）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02146.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02146",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02146.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5645.27",
+      "5649.29",
+      "5655.57",
+      "5657.73",
+      "5659.42",
+      "5666.18",
+      "5678.33",
+      "5679.86",
+      "5686.67"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）は厳密にする。\n\n日本言語地図資料用紙　注記一覧\n21-47\n質問番号　054　地図番号　89.90\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (7)\n項目名　いびきをかく　054\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5645.27　イブキオカク　〈古〉　　　　　　　　イビキオカク\n5649.29　イビキオカク　普通の言い方　　　　ハナフラオタテル\n5655.57　イビキオカク　（共）\n5657.73　イビキオカク　（共）\n5659.42　ハナプラオタテル　→普通の言い方　　イビキオカク\n5666.18　イビキオカク　（共）\n5678.33　ハナグルマカク　〈昔〉　　　　　　　イビキイカク\n5679.86　nebiki / skü　（荒） hana / skü　　ネブスリイカク\n5686.67　イビキイカク　〈普通〉　　　　　　　ネプスリイカク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02147.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02147",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02147.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5687.32",
+      "5688.01",
+      "5688.37",
+      "5689.98",
+      "5710.84",
+      "5771.36",
+      "5712.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-48\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）は厳密にする。\n\n質問番号　地図番号\n054　29.90\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名　いびきをかく\n\n（表ヘッダ）\nA 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nネブキイカク　〈ネブキとイグキは同じもの〉\nイブキイ　カク　（＝語の違いを追求しなかった）\nイビキィカク　〈普〉\nネビ・キイカク　も相当多いとのこと。\nスビキイカク　スビキオカといわないでスビキカクと答えたので、その通り記入。\nibiki kakw　〈hananarasw〉とも言う。\nハナプラオメテル　〈古〉－〈今は殆んど言わない〉　イビキカク〈新〉\nhana narasuu　〈家庭内では普通こういう〉　ebiki o kakw\nhanaywraotate’rw　[hanayurakakw]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02148.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02148",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02148.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5720.71",
+      "5721.27",
+      "5730.57",
+      "5730.71",
+      "5750.84"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-49\n調問番号　054　地図番号　89.90\n項目名　いびきをかく　054\n[A 普通注記] [B 除いた共通語] [C 除いた特殊語] （9）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n5720.71　ネビキオスル　→　同様に使う\n　　　　ネビキオカフ\n　　　　ハナプラオタテル（諸）兄談をいうような時に使う\n5721.27　hanaywra kakw　＜多く使う＞　　hanaywra taterw\n5730.57　化:キオカフ　＜多く使う；主として小さい時にいう＞\n　　　　ハナプラオカフ　→　＜大きな音の時にいう＞\n5730.71　イヒキオカフ　…＜小さい時＞\n　　　　ハナプラオタテル　＜大きい時＞\n5750.84　化:キオカフ　→　＜同程度に用いる＞\n　　　　ハナプラオタテル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02149.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02149",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02149.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5760.24",
+      "5761.91",
+      "5770.11",
+      "5772.00",
+      "5780.11",
+      "5791.23"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本語語地図資料用紙　注記一覧　21-50\n資料番号　054　　地図番号　89.90\n項目名　いびきをかく\nA（普通注記）　[B]（除いた共通語）　[C]（除いた特殊語）(10)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5760.24  ēbigi kakw <口が鳴るとき>（この区別あやしい）\n         hananarasw <鼻が鳴るとき>\n         ha´na gi´kw <赤ん坊がよく寝るとき、スマスマの感じ>\n\n5761.91  ebigit kak hanaywra otaderü　使い方は同様。\n\n5770.11  nebitgit ʃterü　（進行形）\n\n5772.00  hanaywra kagü （先）\n\n5780.11  nebitgit kaederü（進行形）\n         nebitgi ɕi:derü（進行形）\n\n5791.23  nananarasw　「にキ」に対する語はとくに聞き出せなかった。　ibiki o kaku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02150.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02150",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02150.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5792.02",
+      "5792.62",
+      "6349.80",
+      "6408.72",
+      "6423.75",
+      "6426.04",
+      "6428.76",
+      "6429.65"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略記にする。\n\n日本言語地図資料用紙 注記一覧　21-51\n（右上の箱）\n質問番号 054　地図番号 89.90\n項目名 いびきをかく 054\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\n\n（表の見出し）\n地点番号　A 形態とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n5792.02.　ne'bikisurw　こは狭いe.\n5792.62.　nebana (yao:ki:)　ビギオフという表現はまずしい。\n6349.80　ika]o takwr　<粥を焼く…その昔に>\n　「ながらえて…多少訛読風だが昔は普通に使った」\n6408.72.　ne'biki ka'ku <古>\n6423.75　ibiki o kaku (江尾のイワムクリ)を聞いたら聞いたことがある由。 ただし(黒坂2には用いぬとのこと)\n6426.04　ibiki o kaku <多>　nebiki o kakw\n6428.76　コロタヒク　<古>　ネビキ　ネイビキ　同じ程度に使う\n6429.65　（ネビキ）\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02151.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02151",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02151.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6438.33",
+      "6439.61",
+      "6445.57",
+      "6447.08",
+      "6447.39",
+      "6447.84",
+      "6455.31",
+      "6459.29",
+      "6473.65"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）は厳密にする。 日本言語地図資料用紙 注記一覧 21-52 質問番号 地図番号 054 A9.90 項目名 いびきをかく (054) A普通注記 (B 除いた共通語) (C 除いた特殊語) 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注） 6438.33 ゴロタヒク [老人間] イビキオカク 6439.61 ヒビキカク <方> ネビキカク 6445.57 イビキオカク (イビキュウカクが普通である) 6447.08 gorota giku とくに大きいびきの場合 ibiki kaku 6447.39 gorota giku (大音) ibiki giku <小音> 6447.84 イビキカッキョル (カク) 6455.31 ikada okudasu <袋を下すでその力の音を なぐられたものならむ> 6459.29 イビキカッキョル (カク) イビキオカク 6473.65 イビギューカク (ネイキとも云う) ゴロター ヒク <大きいネイキを云う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02152.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02152",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02152.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6474.03",
+      "6474.83",
+      "6476.13",
+      "6479.26",
+      "6482.23",
+      "6484.43",
+      "6485.14",
+      "6485.46"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-53\n管回番号 地図番号\n054 89.90\n項目名 いびきをかく\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (13)\n\n地点番号    A 語形とその注記    (B・C除いた語形とその注)    A注のない語形 (B・C 残した語形とその注)\n\n6474.03  イビキオカク  布により IBIKIO とする   イビキュウカク\n6474.83  ゴロダオヒク  <普>\n6476.13  ネビキ カク  <右>\n6479.26  イビキ  [＊イビキカク]\n6482.23  ゴロオヒク  (光)\n6484.43  ゴロヒク  <右>   イビキカク\n6485.14  ハナナラス  <右>  (ハナナスはそれだけでは使われずハナナラシテヨル、と\n        いうように少礼、ネイルがくっつかねばならない。)\n6485.46  ハナナラス  <アッガにハナラシテヨル> という (ガイには ひどく、盛んに の意味)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02153.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02153",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02153.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6486.93",
+      "6487.43",
+      "6487.66",
+      "6492.50",
+      "6507.79",
+      "6522.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-54\n資料番号 054　地図番号 29.90\n項目名 いびきをかく 054\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語) (14)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6486.93　ゴロタレク <希>　イビキカク\n6487.43　ゴロタビク <古>　<ゴロタビッャルというような言い方をする。>\n6487.66　ゴロタヒク <古>　<イビキカクと共にそれぞれ使われている。>\n6492.50　ibikio kakku（gorota hikuwともいう地域である。）\n6507.79　イビキヨカク（いびきをかくのをきいた時、イビキヨミタというらしい。）\n6522.79　イビキーカカク・イビキー（ibikii）となるか（ibikii）となるか判別が困難だが、発音は二重母音のようである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02154.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02154",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02154.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6539.60",
+      "6540.16",
+      "6542.58",
+      "6545.41",
+      "6547.79",
+      "6550.96",
+      "6552.71",
+      "6552.90"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-55\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。\n質問番号 054　地図番号 97.90　項目名 いびきをかく 004　A 普通注記　[B 除いた共通語]　[C 除いた特殊語] (15)\n表見出し：地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n6539.60　hanaki ga arai (−(る)はうまく出なかった)　ibiki kaku\n6540.16　gorosiku 〈早〉\n6542.58　イビキカフ、イビキカフ。数回発音してもらったがその度に両方に聞える。こちらが重い／古いどちらも言うとのことであった。\n6545.41　ibiki kaken 〈普通はこういっている〉　ibiki o kaku\n6547.79　sibiki o kaku 〈古〉　ibikio kaku\n6550.96　イビキオントル（…スル）　イビキオカイトル〈多〉（…カク）\n6552.71　イビキオカク〈音が低い時〉\n6552.90　ibiki kaku（テビキカク）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02155.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02155",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02155.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6553.47",
+      "6553.99",
+      "6558.09",
+      "6563.58",
+      "6564.51",
+      "6565.22"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-56\nA・[B]・[C]ごとに別表を使用する。\nその中での語彙は地点番号順に並べる。\n注記の＜＞（　）は敬称にする。\n\n質問番号　054　地図番号　29.90\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (16)\n項目名　いびきをかく　004\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6553.47　doroKaku <くち>\n6553.99　ibiKi kaku （「イビキ カラン」）\n6558.09　ibikiokaku（回答とは ibikiという語しか得られなかった。しれなかった。cibiKidaという発音が観察された。（インフォメントの承認を得られなかった））\n6563.58　ibiki kaku <普通の言い方>\n　　　　doro kaku <極端に大きないびきのとき。あまり使わぬ>\n6564.51　dorokaku <[dorokaki]はその人を指す。>\n6565.22　イビキカク　<親しい人にはゴロクとク？>\nゴロクヒク　えうがぶっうはイビキカクと言う",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02156.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02156",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02156.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6567.79",
+      "6574.52",
+      "6575.66",
+      "6629.24",
+      "6632.88",
+      "6639.79"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-57\n質問番号　地図番号　054　89,90\n項目名　いびきをかく\n\n地点番号　A語形とその注記（B・C除いた語形とその注）\ni'bi'ki Kaku　 一番はじめのがちょっと他のより広い。\nibiki kaku　（イビキカク）\nibiki okaku　（どちらも同じ位に使うようである。）\nibiki kaku\nibiki okaku　（hana:nara sw が普通であるが、「しびき」に対する名詞はやはり[ibiki]である。）\ngorota o cikw　新一多く使う。　ibikjo: kakw\nhana narasw　<イビキオカクはちょっとしれてるとき>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02157.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02157",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02157.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6730.33",
+      "7239.85",
+      "7266.60",
+      "7275.84",
+      "7302.71",
+      "7303.17",
+      "7220.59"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情況は地点番号順に並べる。 注記の〈〉（）（）は簡潔にする。\n\n日本言語地図資料用紙　注記一覧　21-58\n\n（欄） 資料番号 054　地図番号 99.90　項目名 いびきをかく　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（18）\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n6730.33\tibiki o kaw　[kaw]は単独で[kāw]\n7239.85\tイビッカク ibikkaku　くいびきを単独にいうときはイビッキである\n7266.60\tibi2　(ibikiを動詞的に使っている　ibitte nerarenなどの用例をきく)\n7275.84\tイビッ バ カツ　(イビキをかくことをこの地方で（はハナブとも言う）)\n7302.71\te gwu tji ka kuw　(嬉しいと思った)\n7303.17\tibi kei kea kuw　(○の助詞表音になった)\n7220.59\tigwu tji kekaw　(普通はibikiである。この地方一般に。この老人など地域の方言形と類取れ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02158.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02158",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02158.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "7322.81",
+      "7332.52",
+      "7338.48",
+      "7351.06",
+      "7355.48",
+      "7359.78"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-59\n質問番号　地図番号\n054　29.90\n項目名　いびきをかく　054\nA（普通注記）　[B　除いた共通語]　[C　除いた特殊語]　ページ（19）\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nibiki kakw（oを発音しなかった）\njibiki kakw（助詞 o を欠く）\ngoro hikow（間にあるはずの助詞は消えている。前の語の末尾が o を欠くために吸収されたものか、goro：hikwo の様にいう地もあるから短縮したのかもしれない。）\nibi rei kakw（oの助詞がない点が特色である）（－語化してイビキとカクの間に中断がない）\nibiki o suru（〜のをと言うらしい）\ngorota o kakw ＜音の高いのにいう＞\nibikio kakw ＜婦人などの音の低いのにいう＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02159.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02159",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02159.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "7371.93",
+      "7372.03",
+      "7385.84",
+      "7386.55",
+      "7386.63",
+      "7395.09",
+      "7340.24"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-60\n（右上欄）054　97.90　項目名　いびきをかく　054\nA　普通注記　（B　除いた共通語）　（C　除いた特殊語）　ページ（20）\n\n（表ヘッダー）地点番号　A 音形とその注記　（B・C 除いた音形とその注記）　A 注のない語形　（B・C 残した語形とその注記）\n\nneibikkaku（寝いびきの意）\nネメキスル　オクメキスル（古くからのいい方。現在も優勢）　イビキカク\nibikju kaku　＜この方が普通の言い方＞　ibikio kaku\nibikju kaku　ibikjuはibikioの融合\nibikju kaku（日常ではこの方が普通であろう） ibikio' kaku\nibiki kaku・・・＜とも言う＞\nibikju kaku（どちらを多く使うかは定め難いようである。詳し融合した ibikju kaku が日常の表現であろうと思う）\nイビキカク（ibiki kaku）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02160.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02160",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02160.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7395.63",
+      "7395.88",
+      "7396.16",
+      "7403.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-61\n質問番号 地図番号 A 普通注記 (B 除いた共通語) (C 除いた特殊語)\n054 29.90 項目名 いぴきおか\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は略筆にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注記）　A注のない語形（B・C 残した語形とその注記）\n\n7395.63　ibiki(o) kaku　（助詞「を」は言ったり言わなかったりする。日常会話では恐らく ibikkakuと言うであろう。これは後で本書に確かめてみた。）\n7395.88　ibikju kaku　ibikju は ibiki の熟合形である。\n7396.16　ibikju kaky ...（日常語）\n　　　　ibiki o kaku ... ＜丁寧な言い方＞\n7403.16　gotota hitew（gorota de ne-jorw）\n　　　　（～jorw は ～te i w の意味）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02161.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02161",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02161.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7406.25",
+      "7410.57",
+      "7417.27",
+      "7421.38",
+      "7430.15"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）は厳密にする。 日本言語地図資料用紙 注記一覧 21-62 項目番号 地図番号 A 常語注記 (B 除いた共通語) (C 除いた特殊語) 054 89.90 項目名 いびきおか？ （22） 地点番号 A 音形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注） goro o kaku〈大〉 ibiki o kakw（標準語意識のはたらいた客の様に思われる。） gorota-hikuwがふつうに聞かれる はずと思うのだが深く追及はしない ɪjwʊsi sareru〈ijwtsiは用水口（田に水を入れる口）の小石をかきのける音を化すの音にたとえた比喩を言う〉 ibiki hikiw〈上〉 gorota hiku gorota o hiku〈o; gorota, hii te nejowa などという〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02162.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02162",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02162.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7430.75",
+      "7440.72",
+      "7460.23",
+      "7461.77",
+      "7503.48",
+      "7522.48",
+      "7523.27"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-63\n管理番号　地図番号\n054    87.90\nA 普通注記    (B 除いた共通語)    (C 除いた特殊語)\nページ (23)\n項目名　いびきをかく\n\n地点番号    A 語形とその注記 (B・C 除いた語形とその注)\n7430.75    gorota o hiku <…>\n7440.72    gobota.hiku (新) その土地の人がいうのをまねていだ(たように思う)    gorota kaku\n7460.23    egutsi o kaku　下品な言い方\n            nebiki o kaku　上品な言い方\n7461.77    erbiki o 'ka'ku <音>    ibiki o 'ka'ku\n7503.48    i'biki o:'ka'ku  ライフは ka:te となる\n7522.48    イビキ スル <希>    イビキ カク\n7523.27    イビキ カク <をは省く>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02163.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02163",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02163.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "8306.42",
+      "8313.88",
+      "8316.20",
+      "8321.58",
+      "8324.83",
+      "8325.77",
+      "8332.07"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-64\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）は厳密にする。\n【右上ボックス】資料番号 054　地図番号 09.90　項目名 いびきをかく 064　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]（24）\n表見出し：地点番号　A 音形とその注記　[B・C 除いた音形とその注]　A 注のない語形　[B・C 残した音形とその注]\n8306.42　ibikju kaku　(ibikio > ibikju)\n8313.88　nebiki kaku　(日常の会話内では 'nebit kat,' と言うのであろう。)\n8316.20　ibikju kaku　ne;ibiki okaku　〈何れも同じ程度に使う〉\n8321.58　ibikjo kaku　(ibikjo はイビキョせ)\n8324.83　ibikju kat　kaku は入念に発音した場合\n8325.77　neiki o jitjoru　〈音の低い場合〉　ikibi o jitjoru　〈音の高い場合〉\n8332.07　hana o narasut　〈この言い方が自然である〉　hanaibiku kat",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02164.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02164",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02164.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "8333.79",
+      "8334.25",
+      "8334.63",
+      "8341.46",
+      "8341.94",
+      "8342.35"
+    ],
+    "other_text": "A・{B}・{C}ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 21-65\n質問番号 054 地図番号 89.90 A 普通注記 項目名 いびきをかく (25)\n\n地点番号　A 番形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\n8333.79    ibiku kat (ibiku < ibikjo < ib:kio)\n8334.25    ibikju kaku (丁寧にゆっくり発音した時)\n           ibikju kat (日常の無意識な発音)\n           (以下この様な語形の場合すべて同じことある。)\n\n8334.63    ibikju kat (日常会話)    ibiki o kaku\n8341.46    hana ga naru (この言い方（い得られない）)\n8341.94    hana ga nat (イビキヨクという形式は用いないらしい。即鼻が鳴るという)\n\n8342.35    ibiku sat (ハナキョクという形をし、高いイビキスルという)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02165.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02165",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02165.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "8342.51",
+      "8343.74",
+      "8343.97",
+      "8344.11",
+      "8344.71",
+      "8350.68",
+      "8351.07"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　21-66\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞(　)□は厳密にする。\n質問番号　054　地図番号　89.90　A　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (26)\n項目名　いびきをかく　054\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n8342.51  nebiku kat (これは nebiku の中に含まれている)\n8343.74  hana o nahakasu (鼻を鳴らすという言い方は発見できない)\n8343.97  hanaga naru <この表現のみ>\n8344.11  ibiku kat (ibiku <ibiku< ibi-kio>)\n8344.71  ibikio kat <やや改,?>\n          ibiku kat <日常>\n8350.68  ibiku sut (ibiku はイビキョセ?)\n8351.07  hana o narasut (この表現はない)\n          hana ga nat",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02166.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02166",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02166.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "8351.65",
+      "8352.29",
+      "8352.40",
+      "8354.14",
+      "8354.29",
+      "8360.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧    21-67\n資料番号 054   地図番号 89.90\n項目名 いびきをかく 064\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\n(27)\n\n地点番号    A 語形とその注記 (B・C除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n\n8351.65    hana ga naru (鼻がナルという形式で、表現するのみ、イビキというコトバを知らないのであろう)\n8352.29    hana ga nat (鼻が鳴ると物答えてくれない)\n8352.40    hana ga nat (鼻が鳴るという言い方)\n            hana onarakasu (いびきに対する名詞はどうしても得られなかった)\n\n8354.14    ibiku kat    ibikuは\"を\"も含んでいる\n8354.29    ibiki kaku (\"を\"を略す)\n8360.39    hana ga naru (イビキ(を)〜動詞という形は出なかった)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02167.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02167",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02167.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-68\n資料番号 054 地図番号 87.90\n項目名 いびきをかく 064\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (28)\n\n地點番号    A 語形とその注記 (B・C 除いた語形とその注)    A 注のない語形 (B・C 残した語形とその注)\n\n8361. 28    hana ga nai (鼻が鳴る という言い方にはない) (方言なし)\n8361 31     hanaibigu kat hanaibiguは「そ」を含んだサラ\n8362. 81    hana wo narasut (いびきに対する名詞をいろ表せる?)\n8364. 33    N.R. (いびきの名詞は neiki! という。)\n8362. 85    hana ga naru (この形ハ得られない)\n8372 47     hiku kat <新希>    hana o narakasu\n8372. 87    hanaiki o sui (イビキという名詞はないようだ)\n8373. 43    hana o narasu hanaonarakasu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02168.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02168",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02168.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "9312.42",
+      "9315.55",
+      "0246.97",
+      "0249.17",
+      "0257.12",
+      "0265.96"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料利用紙　注記一覧　21-69\n\n資料番号　054　　地図番号　89.90\n項目名　いびきをかく　064\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\nページ　(29)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nhanaiki ya take: <この言い方(いない)\nhanaikiは名詞、いびき。\n\nneikjo kaku <案言い方>　neikio kaku\n\nni'kjum ( 'は半長)\n\nhana narasui (ハ鳴らすという形)\n\nni'kjum (ハは半長音)\n\nnibiki kak(jun) (「を」を略す)\nnibiki kakjui (諸尾の二形の区別については021・022との注記の内を参照。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02169.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02169",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02169.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "0275.97",
+      "0276.50",
+      "0294.66"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\n日本語言語地図資料用紙　注記一覧\t\t\t21-70\n（質問番号）　054\t　地図番号　89.90\n項目名　いびきをかく\t（054）\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)\tページ (30)\n\n地点番号\tA語形とその注記（B・C除いた語形とその注）\tA注のない語形（B・C残した語形とその注）\n\n0275.97\tnikisun　（寝いをするの意）\n\tnikisuri　（語尾の違いについては021,022,023の注＜＞内を参照。）\n\n0276.50\tniki sui　＜nikisunとは言わない＞\n\t【niki sunという言い方はあるが 実際に使う場合がでてきにくい】\n\t（動詞終止形の語尾の二形の違いは021,022の注記参照）\n\n0294.66\tnitji sun　（nitjiはねいるの数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02170.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02170",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02170.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "0294.93",
+      "1213.76",
+      "2141.61"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）は省略にする。 日本言語地図資料用紙　注記一覧 054 89.90 A 普通注記 (B 除いた共通語) (C 除いた特殊語) いびきをかく 054 (31) 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注] 0294.93 n'iki sun) 両形 主分立分 n'iki sumu 「を」は略す 1213.76 panagasi: sun] … 自分の動作についていう形 panagasi: suji] … 自分以外の人の動的を見ていう形 「何れも『を』は略されている。」 2141.61 pano:du narast (panaudu narast) バナナゲ・ナラスに当るが「ツ」はそれほど強い意味はない。ハナススにほぼ近い。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02171.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02171",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02171.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n日本言語地図資料用紙　注記一覧\n21-72\n質問番号　地図番号\n054   89.90\n項目名　いびきをかく　054\nA 普遍注記　(B 除いた共通語)　(C 除いた特殊語)　(32)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n2/41.71　(?) ni:tsi ast aʃt（「寝息をする」(?) でいびきではなかろうと思う。）\n2/51.51　(?) ni:ki ssi（被調査者は「しびき」といびき といっているが寝息ではあるまいか。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02172.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02172",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02172.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "1770.18",
+      "2734.05",
+      "2750.44",
+      "2785.74",
+      "4672.19",
+      "4771.58",
+      "4784.41",
+      "5587.74",
+      "5588.78",
+      "5676.52"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　21-73\n質問番号　054　地図番号　89.90\n項目名　いびきをかく　054\nA　普通注記　B　(除いた共通語)　C　(除いた特殊語)　ページ (1)\n地点番号\n1770.18　イビキオカク〈今〉　ハナオドスル\n2734.05　イシビキカフ〈新〉　ハナオドスル\n2750.44　イビキカフ（新）　ハナオドスル\n2785.74　ibiki kagu〈共〉　hanaodo siru\n4672.19　Lbiki kakw〈共〉　（外の言い方はありません）対語 Lbiki sjirw\n4771.58　ebigi kagu〈新〉　hanaywra taderw\n4784.41　ebigï kagu??（エ?）　hanäg??tra tader??\n5587.74　イビキヨカク〈共〉　イビキヨヒク\n5588.78　イビキヨカク〈共〉　イビキカフ\n5676.52　イビキオカク---〈改まったとき〉　ネプスリ オカク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02173.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02173",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02173.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "5685.37",
+      "5686.31",
+      "5710.84",
+      "5742.65",
+      "5722.0",
+      "5791.68",
+      "6349.80",
+      "6429.30",
+      "6474.83",
+      "6485.14"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は敬称にする。\n日本言語地図資料用紙　注記一覧　21-74\n資料番号　054　地図番号　87.90\n項目名　いびきをかく\nA 普通注記　B 除いた共通語　C 除いた特殊語\n（ページ）(2)\n（表見出し）地点番号　—　A語形とその注（B・除いた語形とその注）　A注のない語形（B・\n残した語形とその注）\n\nibi ki'o ka'kw <共>                neguswri'o ka'kw\nibi ki'ʔo ka ku <新>               neguswri'o ka'kw\nイビキオカク <新>                 hanaywrakajü\nebtjtkagü (新)                      hanaywra taderü\ncbtjt kagü (若)                     hanaywra Kagü (老)\nibi ɡjo kakw <新>                   hananara sũ\nibikio kakwo <新>                   !kajlota kw\nイビキカフ <新希>                  ゴロタレク\nイビキオカク <新>                 ゴロダオレク <昔>\nイビキオカク <新>                 ハナナラス <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02174.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02174",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02174.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6485.46",
+      "6487.43",
+      "6487.66",
+      "6518.87",
+      "6553.47",
+      "6562.48",
+      "6580.33",
+      "6605.37",
+      "6605.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-75\n資料番号 地図番号\n054 89.90\n項目名 いびきをかく\n(A 普通注記) (B 除いた共通語) (C 除いた特殊語) (3)\n\n地点番号\n6485.46　イビキカク　〈新、共〉　ハナフラス\n6487.43　イビキオカク　〈新〉　ゴロタヒク\n6487.66　イビキカク　〈新〉　ゴロタヒク\n6518.87　イビキオカク　〈共〉〈改〉　：イビキカク\n6553.47　ibiki kaku　〈新〉〈イビキヨカク人をドロカカしという。〉　dorokaku\n6562.48　イビキオカク　〈子〉（子供のいはで私は使わぬのとよ）　ドロオカク\n6580.33　イビキオカク　〈共〉　イビキカク\n6605.37　イビキオカク　〈共、上〉　イプスリオカク\n6605.84　イビキオカク　〈共〉　イプスリオカク\n6625/17　ibiki o kaku　新　iywswri o kakw",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02175.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02175",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02175.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6642.58",
+      "6645.01",
+      "6665.01",
+      "7376.68",
+      "7400.15",
+      "7403.16",
+      "7404.56",
+      "7430.15",
+      "7430.75"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-76\n質問番号 地図番号\n054 89.90\n項目名 いびきをかく 054\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語 (4)\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は敬称にする。\n\n(表見出し)\n地点番号 | (B・除いた語形とその注) | A(除いた語形とその注)\n\nibiki o kaku 新\t\tigwatji o kaku\nibiki o kaku 新\t\tigwsurio kaku\nibiki o kaku 上\t\tigwswjo: kaku\nibiki o kaku [共]\t\tibikju kaku\nibiki kaku 新> 新しいいい方である。\t\tgorotatihku\nibiki kaku <上> <ibiki kai-de nejowa>\n    (~jorwa は～te iruの意味)\n\nibiki kaku <新>\t\tgoro tihku\nibiki o kaku 上等\nibiki o kaku 上\t\tgoro hikuw",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02176.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02176",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02176.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7431.82",
+      "8345.98",
+      "8393.69"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の＜＞（ ）は敬語にする。 日本語言語地図資料用紙　注記一覧　21-77 管理番号 054　地図番号 89,90 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (5) 項目名 いびきをかく 054 地点番号 項目名（A・Bを除いた語形とその注） Aをのこした語形（Bを残した語形とその注） 7431.82　ibiki o kaku <共>　gorotahiku 8345.98　ibiki o kaku <改まった時>　ibikju kaku 8393.69　ibiki kaku <新>　hana narasu",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02177.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02177",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02177.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "3726.25",
+      "3787.50",
+      "3795.19",
+      "4685.10",
+      "4722.55",
+      "5518.20",
+      "6267.84",
+      "6359.62",
+      "6378.87"
+    ],
+    "other_text": "▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）は厳密にする。\n日本言語地図資料用紙　注記一覧　21-78\n資料番号　地図番号\n054　89.90\n項目名　いびきをかく　054\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(1)\n\n地点番号　（語形とその注）\n3726.25　ハナナススル　ハナオドスル、ハナビギスル\n3787.50　ハナイビギ　ハナオドスル\n3795.19　ハナオドァタケア　ハナオドスル、イビギスル\n4685.10　KE: エwKWw ... <舟方族の語か?> KE: は (被調査者は時々ある) 標、櫻の音に似るようふの言い方? ebiki kaku\n4722.55　Kalado Gippasu ... <非常に音が強い場合> hanaibiki kakw\n5518.20　haura kaku　ebiki kaku\n6267.84　ibik　ibi'kjo'kakw\n6359.62　カゴウタワ（族）　ネイビキオカク\n6378.87　マカンオコロザス（ユ）　イビキュウ カク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02178.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02178",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02178.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6379.31",
+      "6397.24",
+      "6422.93",
+      "6424.20",
+      "6439.77",
+      "6442.35",
+      "6444.25"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。 \n日本語音声地図資料用紙　注記一覧　21-79\n（上欄の小箱） 質問番号　地図番号　054　89.90　項目名　いびきをかく　（C 除いた特殊語）（2）\n表ヘッダ：地点番号　（A・C除いた語形とその注）　（B・C残した語形とその注）\nフロスキョーカラル　<大いびきの時>　イビキ…カク\ntʃagai o takw　<グラグラ音をたてるから>　ibiki o kakw\n?ネポキ　<古>　エボキカフ\niwamokwri　<岩モワリのモワリは、かすこと。>　iwamokwti:sfww　岩モワッチョル（岩ヲモワッチョル）は洪水のとき水が岩を轟かす時のような大きい音の意。従って共に大きい、いびきを言う>　ibiki o kakw\nイビキ　化ビキオカク\nカイオニョル　... ユーモア　イビキオカク\nイカダアクダッス　化ビキュウカク",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02179.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02179",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02179.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6449.19",
+      "6451.14",
+      "6458.08",
+      "6458.40",
+      "6459.52",
+      "6485.14",
+      "6489.01",
+      "6552.71",
+      "6558.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）｛｝は厳密にする。\n\n日本言語地図資料用紙 注記一覧 21-80\n質問番号　054　地図番号　89.90\n項目名　いびきをかく 054\n\n地点番号\n6449.19　イビキ　イビキオカク\n6451.14　ソオスィオタク　(2)　イビキュウカク\n6458.08　イビキ　イビキオカク\n6458.40　イビキ　イビキオカク\n6459.52　イビキ　イビキオカク\n6485.14　タカイビキ（体言形）　ハナナラス　＜古＞\n6489.01　イビキ＜共希＞　ネイキ\n6552.71　イビキがタカイ＜のどを鳴らしている時＞　イビキオカク\n　　イキがタカイ＜鼻を鳴らしている時＞　イビキオカク\n6558.10　eibikio sūrw　＜之は他＞　ibikiosūrw",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02180.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02180",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02180.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6701.46",
+      "7406.25",
+      "7436.68",
+      "8302.55",
+      "0237.79"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）は厳密にする。\n日本言語地図資料用紙　注記一覧　21-81\n質問番号　地図番号\n054　89.90\n項目名　いびきをかく　054\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語　ページ(4)\n地点番号　（欄見出し）\n6701.46    ombana narasw           ibiklo kaku hana narasw\n7406.25    ibiki <昔の小さいとき>    \n7436.68    go:su goisu jute neru <z?>    ibiki o kaku\n8302.55    フトカトヒク               イビキカク、イビキスル\n0237.79    ibiki suri <新>           nikki suri\n(その他の罫線と空欄)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02181.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02181",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02181.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "1699.14",
+      "1781.95",
+      "1867.15",
+      "2713.83",
+      "2720.75",
+      "2722.67",
+      "2731.97",
+      "2733.42",
+      "3740.82",
+      "3771.29"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（）は厳密にする。\n\n日本語言語地図資料用紙　注記一覧　21-82\n\n質問番号　054　地図番号　89.90\n項目名　いびきをかく\nA　普通注記　D\n(B　除いた共通語)　(C　除いた特殊語)　(1)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n1699.14　ハナオドタデル　ハナイビギカブ\n1781.95　ハナオドスル　イビキカブ\n1867.15　イビキカク　ハナイビキダス\n2713.83　エビギカブ　ハナオドスル\n2720.75　ハナオドスル　ハナオドカス\n2722.67　イビキカブ　ハナオドスル\n2731.97　ハナオドスル　イビキカブ\n2733.42　ハナオドスル　ハナオドタデル\n3740.82　hanado sui　hanabiji kajui\n3771.29　hanado taderin　nebigi suinui",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02182.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02182",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02182.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "5628.66",
+      "5628.70",
+      "5629.17",
+      "5629.23",
+      "5638.53",
+      "5649.29",
+      "5659.42",
+      "5689.34",
+      "5771.36",
+      "5720.71"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の〈〉（）は厳密にする。\n日本言語地図資料用紙　注記一覧　21-83\n資料番号　054　地図番号　89.90　A 普通注記 D　(B　除いた共通語)　(C　除いた特殊語)　(2)\n項目名　いびきそか？\n\n地点番号　A 語形とその注記 {B・C除いた語形とその注}　A 注のない語形 {B・C 残した語形とその注}\n5628.66　イビキオカフ　ハナブラ　オタテル\n5628.70　イビキオカフ　ハナブラ　オタテル\n5629.17　ハナブラオソテル　イビキオカフ\n5629.23　イビキオカフ　ハナブラ　オタテル\n5638.53　イビキオカフ　ハナブラ　オタテル\n5649.29　イビキオカフ　ハナブラ　オタテル\n5659.42　ハナブラ　オタテル　イビキオカフ\n5689.34　ibiki o kaku?　hana narasu (handwritten)\n5771.36　ebiki o kaku?　hana narasuu (handwritten)\n5720.71　ネビキオスル、ネビキオカフ、ハナブラオタテル",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02183.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02183",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02183.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "5750.84",
+      "5760.24",
+      "5761.91",
+      "5770.46",
+      "5780.57",
+      "5790.03",
+      "5790.39",
+      "5791.23",
+      "5792.18",
+      "6408.72"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は敬称にする。\n\n日本言語地図資料用紙　注記一覧　21-84\n（右上の小欄）質問番号　地図番号　054　89.90\nA　普通注記　D　ページ\n（B　除いた注記）　（C　除いた特殊注記）\n項目名　いつきそをか? 054\n\n（表ヘッダ）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形（B・C 残した語形とその注）\n\nイビキオカフ　ハナプラオ　フテル\ne'bikika'ku　hananarasu　ha'naciku\nebigi kak　hanayura o taderui\nebigi kagui　hana narasui\nebigi kaju　hana kaju　hana/skii\nibiki : kaku　hana : narasu\nibiki o kaku　hana narasu\nhana narasu　ibiki o kaku\nibiki ka'ku　hananarasu\nibiki o ka'ku　ne'biki kaku　goroo gi ku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02184.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02184",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02184.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6428.26",
+      "6428.76",
+      "6438.33",
+      "6447.08",
+      "6448.23",
+      "6448.61",
+      "6457.18",
+      "6471.26",
+      "6473.65",
+      "6484.43"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく〈〉（）は厳密にする。 項目番号 地図番号 054 29.90 A 普通注記 / D (B 除いた語形) (C 除いた特殊語) 項目名 いびきをかく 054 地点番号 A 語形とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） イビキイ カフ　ゴロタア ヒク ネビキカフ、イビキカフ、ゴロタヒフ イビキオカフ　ゴロタヒク ibiki kaku　gorota siku ゴロタヒフ　イビキカフ ゴロタヒフ　イビキオカフ ゴロタオヒフ　イビキオカフ イビキオカフ　ネイキオカフ イビキュクカフ　ゴロターヒフ イビキカフ　ゴロヒフ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02185.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02185",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02185.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6486.93",
+      "6492.11",
+      "6540.16",
+      "6565.22",
+      "6700.25",
+      "6701.46",
+      "7312.11",
+      "7372.03",
+      "7401.92",
+      "7431.82"
+    ],
+    "other_text": "A・[B]・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　21-86\n質問番号　054　地図番号　89.90\n項目名　いびきをかく　054\nA（普通注記）D　(B 除いた普通語)　(C 除いた特殊語)　ページ（5）\n\n地点番号　A 活形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 表した語形とその注）\n\n6486.93　ハビキカフ　ゴロタヒフ\n6492.11　goro hiku　gorota kakuw\n6540.16　ibiki kaku.　goro cikiu\n6565.22　イビキカフ　ゴロタヒフ\n6700.25　ibiki o kaku　hana o narasu\n6701.46　ibiki o kaku. ombanana narasw hananarasw\n7312.11　ibiki o kaku　goro cikiu\n7372.03　ネンメキスル、オメキスル、イビキカフ\n7401.92　jibiki o kaku　gorota ohiku\n7431.82　gorota hiku　ibiki o kaku",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02186.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02186",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02186.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "8332.07",
+      "8334.63",
+      "8372.47",
+      "8393.69"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 21-87\n質問番号 地図番号\n054 89.90\nA 普通注記 / D\n(6)\n項目名 いびきをかく 054\n\n地点番号　A 音形とその注記（B・C除いた語形とその注）　A注のない語形（B・C除した語形とその注）\n\n8332.07  #hana ibiku kat    hana o narasut\n8334.63  ibiki o kaku       ibikju kal\n8372.47  hana o nakakasu    ibiku kat\n8393.69  hana narasu        ibiki kaku.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02187.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M089Q054/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC02187",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC02187.tif",
+    "source_ljc_id": "LJC-M089Q054",
+    "source_map_numbers": [
+      "089",
+      "090"
+    ],
+    "source_title": "いびき (鼾) をかく"
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "2790.41",
+      "4609.07",
+      "4628.28",
+      "4637.68"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-19\n資料番号 272　地図番号 010\n項目名 カゼ\n(A)普通注記　(B)除いた共通語　(C)除いた特殊語　ページ (1)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n2790.41　kandze　〈新〉　kandza\n4609.07　ze　(dzよりも後寄りでzよりも前より)。zeの表記となる（担当者ラルス）\n4628.28　dze　〈普通〉　dze\n4637.68　k^nze　村上桜丘高校の国語科教師で笹川の隣部落に住む人の言では、この辺の老人は[ze]と言うとのことであるが、調査には現れなかった。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00219.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00219",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00219.tif",
+    "source_ljc_id": "LJC-M010Q272",
+    "source_map_numbers": [
+      "010"
+    ],
+    "source_title": "カゼ (風)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4639.10",
+      "4653.84",
+      "4658.42",
+      "4695.87"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-20\n\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞〈〉（）[]は厳密にする。\n\n質問番号　地図番号　272　010　項目名　カゼ　A　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (2)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n4639.10　dze　(zeに近い)\n4653.84　kaze　zeは時にzとなる。\n4658.42　kᵃze　( zがかすかにɟに近い音である )　(久保ではkazeと発音しているという。)\n4695.87　kaze　(araji; 二度目に答えた語であるが、被調査者及び娘達にはくぎくと、どうもこれは「夏の風」を意味するらしい。「座敷にいいあらしが入る」等と言う。娘が)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00220.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00220",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00220.tif",
+    "source_ljc_id": "LJC-M010Q272",
+    "source_map_numbers": [
+      "010"
+    ],
+    "source_title": "カゼ (風)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4716.72",
+      "4725.92",
+      "4726.80",
+      "4733.91",
+      "4743.44"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 2-21\n資料番号 272　地図番号 010　項目名 カセー　A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (3)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n（表の見出し）　地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n他所で風をあらしといって笑われたと語れ。\nkadze\nka~dze（最後の母音が、ほかのeよりせまいように感じた。dの前の鼻音は正確には軽いnのようである）\nkadze\nka^dze　→　~dze の併用する\nkaɡe　→　ze　加藤シルス\nkadze",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00221.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00221",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00221.tif",
+    "source_ljc_id": "LJC-M010Q272",
+    "source_map_numbers": [
+      "010"
+    ],
+    "source_title": "カゼ (風)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4744.32",
+      "4746.20",
+      "4760.02",
+      "5586.56",
+      "5697.53",
+      "6441.71",
+      "6482.75",
+      "6540.79",
+      "6542.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-22\n資料番号 地図番号\n272 010\n項目名 カゼ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n4744.32  kādze\n4746.20  kadze\n4760.02  kaze （改まった言い方）\n         kadze （普通の言い方）\n5586.56  kaze  zはややｚに近し\n5697.53  kaze\n6441.71  カゼ → z]e に近い\n6482.75  kaze\n6540.79  カゼ （このゼ音はデに近い）\n6542.71  kade",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00222.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00222",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00222.tif",
+    "source_ljc_id": "LJC-M010Q272",
+    "source_map_numbers": [
+      "010"
+    ],
+    "source_title": "カゼ (風)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6556.03",
+      "6562.64",
+      "6572.55",
+      "6575.40",
+      "6583.45",
+      "6583.93",
+      "6584.90",
+      "6591.57"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧　2-23 資料番号　地図番号　272　010　項目名　カゼ (A)普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (5)\n▶ A・(B)・(C)ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）は厳密にする。\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6556.03　kaze\n6562.64　カゼ [ze] (090ではzeniと言れ。)\n6572.55　kaze　妻音 kade\n6575.40　[kaze]　kaze\n6583.45　kade　(z → d)\n6583.93　kadze　音の位置はdで少し摩擦音を加えれた音\n6584.90　kaʣe　そは:舌先が歯茎の少し奥に上がるもの。\n6591.57　kade　＜少＞(ときに、こうなるときもある) kadze",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00223.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00223",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00223.tif",
+    "source_ljc_id": "LJC-M010Q272",
+    "source_map_numbers": [
+      "010"
+    ],
+    "source_title": "カゼ (風)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6677.70",
+      "6697.59",
+      "7229.75",
+      "7239.90",
+      "7246.45",
+      "7266.92",
+      "7302.66",
+      "7303.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-24\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（ ）［ ］は厳密にする。\n\n資料番号 272  地図番号 010  項目名 カゼ\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (6)\n\n地点番号　A語形とその注記（B・C除いた語形とその注記）　A注のない語形（B・C残した語形とその注記）\n6677.70  kaze / kade 〈両方使う〉 (z~dn 口蓋化 なし)\n6697.59  kadze (僅かの palatali. あり)\n7229.75  kaze (口蓋化はほとんど認められない)\n7239.90  kaze 口蓋化せず\n7246.45  kaze 軽い口蓋化で、[s]ほどではない。\n7266.92  kaze …わずかな口蓋化\n7302.66  kaze\n7303.37  kaze",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00224.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00224",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00224.tif",
+    "source_ljc_id": "LJC-M010Q272",
+    "source_map_numbers": [
+      "010"
+    ],
+    "source_title": "カゼ (風)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "7303.38",
+      "7313.34",
+      "7313.68",
+      "7320.95",
+      "7324.24",
+      "7324.47",
+      "7324.96",
+      "7325.57",
+      "7329.87",
+      "7332.27"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 2-25\n資料番号　地図番号\n272　010\n項目名　カゼ\n(A 普通注記)　(B 除いた共通語)　(C 除いた特殊語)　ページ（？）\n\n地点番号　　A語形とその注記（B・C除いた語形とその注）　　A注のない語形（B・C残した語形とその注）\n\n7303.38　kaze\n7313.34　kadz e（軽いdを伴いdʒであった。）\n7313.68　kaze（ze、dzeでなかった。）\n7320.95　kaze\n7324.24　kaze（zeでなかった。）\n7324.47　kadze（zeでない）\n7324.96　kage\n7325.57　kadz e-（kadze-）　　　kade-\n7329.87　kadze\n7332.27　kaze",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00225.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00225",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00225.tif",
+    "source_ljc_id": "LJC-M010Q272",
+    "source_map_numbers": [
+      "010"
+    ],
+    "source_title": "カゼ (風)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "7332.52",
+      "7338.48",
+      "7342.10",
+      "7351.06",
+      "7365.51",
+      "7385.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 2-26 資料番号 地図番号 272 010 項目名 カゼ A 普通注記 (B 除いた共通語) (C 除いた特殊語) (8)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[ ]は厳密にする。\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n7332.52    kaze\n7338.48    kaze\n7342.10    kaze    軽い口蓋化\n7351.06    kaze\n7365.51    kade-\n7385.84    kaze\n(口蓋化しない)\n(セセが口蓋化しないのは、この地方の特徴である。延岡藩所領であった所は一体にそういう傾向のようである)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00226.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00226",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00226.tif",
+    "source_ljc_id": "LJC-M010Q272",
+    "source_map_numbers": [
+      "010"
+    ],
+    "source_title": "カゼ (風)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "7395.63",
+      "7400.11",
+      "7403.86",
+      "7411.27",
+      "7412.31",
+      "7414.87",
+      "7416.34",
+      "7503.48"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n日本言語地図資料用紙注記一覧    2-27\n資料番号　地図番号　272 010\n項目名　カゼ\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (9)\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C 残した語形とその注)\nkaze, kaze と kaze との中間音。\nkaze\nkaze\nkaze　＜松山の生石や斎院では、kaze, jenje がきかれる＞\nkaze\nkaze　（やや [se] に近い。）\nka dze　s に近い、d の要素があり、de に近いときもある。\nkaze　s は第一回の発音のときだけ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00227.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00227",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00227.tif",
+    "source_ljc_id": "LJC-M010Q272",
+    "source_map_numbers": [
+      "010"
+    ],
+    "source_title": "カゼ (風)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "8306.42",
+      "8315.46",
+      "8342.69",
+      "0248.00"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 2-28\n資料番号 272　地図番号 610\n項目名 カゼ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(10)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\nあらわれん。\nkaze　zeとzeとの中間ぐらい。\nkadze　（kadzeではない。）\nkaze　口蓋化はごく軽い\nkazi　〈古〉\nkaze",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00228.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M010Q272/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00228",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00228.tif",
+    "source_ljc_id": "LJC-M010Q272",
+    "source_map_numbers": [
+      "010"
+    ],
+    "source_title": "カゼ (風)"
+  }
+]

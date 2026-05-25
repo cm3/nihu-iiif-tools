@@ -1,0 +1,961 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "1863.48",
+      "2795.66",
+      "3714.96",
+      "3722.32",
+      "3757.09",
+      "4589.83",
+      "4598.33",
+      "4619.23",
+      "4619.29",
+      "4644.10"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は略記にする。\n\n日本語地図資料用紙　注記一覧　41-95\n質問番号　地図番号　145\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n項目名　お手玉 083\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nアヤコ〈ナツ〉\tアアコ\najako〈新〉\tdamako\n〈古〉 dzaji\tdama\nNR　名なしという\nda'mma〈古〉\tte'mari\ntama〈古〉\tjjinago\nsimedama〈新〉\tkajaji\ndzākūro　（表記不明）\n saku〈昔〉 zaguro〈今〉\n[azukidama]\ttarntam bukuro\n\n（注：上は画像の手書き文字の読み取りに基づく概略的な転写。綴りや括弧内注記は判読できる範囲での推定）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04195.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04195",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04195.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4647.87",
+      "4652.79",
+      "4666.42",
+      "4695.87",
+      "4711.41",
+      "4721.36",
+      "4723.58"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　41-96\n質問番号　地図番号　145\n項目名　お手玉　085\nA 普通注記　（ページ）\n[B　除いた共通語]　[C　除いた特殊語]　（2）\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n\nチャク（ktsaku）\n*[tantan]…〈くれを用いることが一番多かった〉\nazukidama と答えた者に ?nan kindama と答えたが、これを打消し、半ミ者のあった tan-tan を認めた。\nazukidama\nojitotsu [zakki]　後藤藤吉\n[zatku]　zakum\n[dziu:i suidzū]\n[kçinago]\nsinadama（古） ojidotsum〈新〉（いずれも...）\n\n（下部注記）逆界と遊びとの語の使いわけはない",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04196.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04196",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04196.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4724.28",
+      "4724.75",
+      "4731.15",
+      "4731.42",
+      "4731.85",
+      "4742.37",
+      "4743.61",
+      "4744.10",
+      "4746.20",
+      "4753.76"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙　注記一覧　41-97 質問番号　地図番号　/ 145 項目名　お手玉　085 A 普通注記 ページ (3) [B　除いた共通語] [C　除いた特殊語] 地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注) onge:ki <上>　　ge:ki [onnjaku] kji'nanyo <ち>　o~za' mi [tsu:nanyo] [kçinayo] dzamme:si　dzamme:si (新) dzammesi (084 上の呼び方の違いに注意) #otedama [dzamme:si?] (浅野八三郎氏) dama (中にあずきを入れておく) gakest (gakest o tsukumi[?])",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04197.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04197",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04197.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4760.98",
+      "4772.48",
+      "4773.78",
+      "4781.48",
+      "5499.98",
+      "5007.66",
+      "5508.43",
+      "5539.43"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。  ▶ その中での語形は地点番号順に並べる。  ▶ 注記の＜＞（）[]は厳密にする。  日本語語地図資料用紙 注記一覧 41-98　質問番号　地図番号　項目名　お手玉 086　A 普通注記　ページ　[B 除いた共通語]　[C 除いた特殊語]  A 語形とその注記 [B・C除いた語形とその注] A注のない語形 {B・C 残した語形とその注}  tsuika tsuika  --- (手書き注記一部: 低いもの)  ejinago <少> (ejinagoという語は 被調査者の母が 上京したためであろう。 同席した同年輩の人からは 方言形として否定された)  tjakku <新>  dzakkutori (084,085は差別つかない)  イシナゴ ・84との間に混同なし  hajiki <古>  kajasj <赤>  (手書き注: その他の筆記・発音注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04198.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04198",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04198.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5575.93",
+      "5594.02",
+      "5595.20",
+      "5609.26",
+      "5613.33"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-01\n資問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(5)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）[　]は厳密にする。\n\n（表ヘッダ）\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\nodama <古> ozami <新>\n\nNR　ただし、otedamaという語は知ってゐる。ただotedamaと言はないという。\n\nsunan yo  momme (momenではない) の袋に入れるという。mommeは木綿。よけいなことで。\n\nçe:ho: giは摩擦、\n\notedama（交通信号場面のみではない）\n[ositotsu]（5年生の弱娘が答え、これもotedamaより多く使うかもしれない、といった趣旨）\n\n（その他手書きメモや注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04201.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04201",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04201.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5615.28",
+      "5623.85",
+      "5625.32",
+      "5629.98",
+      "5632.83",
+      "5635.48",
+      "5635.65",
+      "5638.54",
+      "5641.99"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-02\n質問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記（丸）　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　(6)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は数節にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注記]　A注のない語形　[B・C　残した語形とその注記]\n\nnango ＜新＞\nohito ttsu ＜ohitotsuで ajaoru と言う＞\nナンゴ（男女とも広く用いる）\nナンゴダマ（男性が用いる）\nエチカサ（古。老人が用いる）\nズズ ＜古＞ [オシドー] ＜新＞\naja ＜なにことも アヤですな＞\nアヤ＜多＞　ナンゴ＜少＞　＜ナンゴワ ドコカラカ ツタワッテ キタモノ＞\nアヤ＜共＞\nジョン ジョン ＜古＞　（右欄）オシトン\nda'mma ＜古＞　（右欄）ciɁumama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04202.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04202",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04202.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5642.67",
+      "5655.57",
+      "5656.62",
+      "5657.73",
+      "5658.89",
+      "5666.10",
+      "5667.24",
+      "5669.12",
+      "5671.94",
+      "5676.52"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-03\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での語形は地点番号順に並べる。\n▶ 注記の＜＞（）[]は原語にする。\n\n質問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記　ページ\n[B　除いた共通語]　[C　除いた特殊語]　(7)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n5642.67　NR　＜オフクロにこしらえておくれや とせがんだの＞\n5655.57　ナンゴ ＜新＞　オヒト＜古＞\n5656.62　オタヌ ＜オテダマト イワサイ＞\n5657.73　ナンゴ ＜古＞\n5658.89　ジョンジョコ ＜古＞\n5666.10　オナンゴ ＜古＞\n5667.24　ナンゴ ＜古＞\n5669.12　ofto ＜古＞\n5671.94　otedama（dammaという窓を期待したが まない）\n5676.52　オタマ（第三者に聞いて）\n\n（手書きの語形注記を粗く転写しています。判読困難な箇所は推定を含みます。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04203.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04203",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04203.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5677.60",
+      "5678.33",
+      "5679.86",
+      "5681.41",
+      "5683.61",
+      "5686.31",
+      "5688.86",
+      "5690.12",
+      "5700.28",
+      "5701.25"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-04\n質問番号　地図番号　145　項目名　お手玉　085\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(8)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の<>()[]は厳密にする。\n（表の上部見出し）地点番号　A 語形とその注記　[B・C除いた語形とその注]　A 注のない語形　[B・C 残した語形とその注]\n5677.60　オテダマ　(084との区別を考えていたのではないか)\n5678.33　ナンゴ〈音〉　オテダマ\n5679.86　oto otedama (荒木へ式) jinakko\n5681.41　otedama　!otedamaで otedama をする。\n5683.61　オテンコ〈古〉　オタマ\n5686.31　\"nango\" ((オマ?))\n5688.86　ナッコ〈古〉　オテダマ〈一般的〉\n5690.12　okasi (オカシ)\n5700.28　ojitotsu (084と085とは同じく言う)\n5701.25　ojitotsu / j 部分 allophone (室家) ocitotsu\n(罫線・枠と手書きメモ等)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04204.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04204",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04204.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5702.07",
+      "5702.52",
+      "5712.70",
+      "5740.43",
+      "5741.25",
+      "5741.66",
+      "5760.24",
+      "5780.57"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-05\n質問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\n（9）\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n表ヘッダ：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　{B・C残した語形とその注}\n\nmemenjko (この地方では ojitotsu ともいう。)\nojitotsu <084と085は同じく言う>\nNR [t]akki\nオシドフ....シは H1 と見なす（誤）　イシナゴ…＜右＞\noʃu'naꜜjo　ありの根棚者から odedama <新しい>　「jīnajō <た>」という答を得た。\n<?> ogitotsuu\noʃire:　＊三者は na'najo というのが 観調査者 は承知である。\nofinako <古>\notedama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04205.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04205",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04205.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5781.22",
+      "5791.23",
+      "5791.68",
+      "5792.02",
+      "6339.44",
+      "6383.77",
+      "6384.25",
+      "6385.98",
+      "6394.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-06\n質問番号　地図番号　145　A　普通注記　ページ\n項目名　お手玉　085　(B 除いた共通語)　(C 除いた特殊語)　(10)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n5781.22　NR. 何というか不明\n5791.23　oji:toko　分布から見て、OHITOKO とする。\n5791.68　temba　[otemba]\n5792.02　otemé　e は狭い e\n6339.44　ジャミ　[=カーオシミ　井田ーゴーズ　川越ーイチダマ]\n6383.77　<若> osa'ra\n6384.25　NR　豊田町（この町が南接する）がきた嫁さん口く　[osa'ra]\n6385.98　くヒナラ?　思い出せない\n6394.43　オサララ（084との区別なし）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04206.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04206",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04206.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6396.08",
+      "6402.94",
+      "6413.29",
+      "6417.14",
+      "6420.34",
+      "6424.89",
+      "6427.40",
+      "6429.61",
+      "6429.65",
+      "6440.25",
+      "6448.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 42-07 質問番号 地図番号 145 項目名 お手玉 085 A 普通注記 ページ [B 除いた共通語] [C 除いた特殊語] A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）［］は略語にする。 地点番号 A語形とその注記（B・C除いた語形とその注） A注のない語形（B・C 残した語形とその注） 6396.08 ?....＜知らない＞ [ogitotsu] 6402.94 チヤヌマ（チギ＝布切れ） 6413.29 kopu <右> ← コブ（窪） o'sara 6417.14 ijinanɡo（石でなくても イシナンゴという） 6420.34 コビトエシン（小人石か） 6424.89 o te'dama〈昔〉 o'dzami 6427.40 kobo 084と別名はない 6429.61 イシナンゴ〈希〉 6429.65 オジャミ〈新〉 6440.25 オシャミ [新] タマ 6448.61 オシト〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04207.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04207",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04207.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6453.64",
+      "6457.18",
+      "6463.38",
+      "6470.11",
+      "6482.52",
+      "6482.75",
+      "6488.85",
+      "6495.18",
+      "6497.00",
+      "6498.93",
+      "6458.08"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本音韻地図資料用紙　注記一覧　42-08\n質問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n地点番号　A 音形とその注記 [B・C 除いた音形とその注]　A 注のない音形（B・C 残した音形とその注）\nイッコン〈普〉　オジャミ〈希〉\nトンキートンキン　イナンゴー　イシナンゴ（室見）\nオジャムームをと認む（室賀）　オヒト\n語 o'zami\noitsji [瀬戸部落では 3jami] 部分者複\nodzami [新？]\nozami　ozami de temaru jitoru\nozami（今）\nイイコ〈古〉　スズダマ〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04208.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04208",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04208.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6500.88",
+      "6501.92",
+      "6508.06",
+      "6508.74",
+      "6510.65",
+      "6517.77",
+      "6522.03",
+      "6523.54",
+      "6526.08"
+    ],
+    "other_text": "日本語地図資料用紙　注記一覧　42-09\n質問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ（13）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\nozami〈新〉\nイシナゴ・(84)と区別しない\nナナタマ――ナナフ\n〈古〉オジャミ\nチョイ〈やや多〉\n〈共〉オジャミ\nナナコ・あそびについても、そのものについても同様の呼び方をする。\nkommedama〈damaは略されることが多い〉\n？オテダマ\n\n（右列の記載）\nオテダマ\nオジャミ\nオテダマ\nオテダマ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04209.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04209",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04209.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6529.88",
+      "6532.93",
+      "6542.58",
+      "6546.73",
+      "6547.09",
+      "6549.69"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-10　質問番号　地図番号　145　項目名　お手玉　085　A 普通注記　(B 除いた共通語)　(C 除いた特殊語)　(14)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 (B・C 残した語形とその注)\n\n6529.88　odzami <古> … <昔、子供の時代にはこう言ったが今では otedama という>　otedama\n6532.93　オシネメ　.84と区別なし\n6542.58　イッツコ（最古）　オジャミ（古）　オテダマ　・イッツコは今は全く用いぬ。親類調査者の子供の頃お祖母さんが時々用いたとのことである。・.84との間には.84はみとめられない。\n6546.73　ojito [ittjakau といった]\n6547.09　ogitotsu [小さいときは ogiroidama と言った。大きくなってから ogitotsu と言うようになったと思う]\n6549.69　odzami <新> tsumidama",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04210.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04210",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04210.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6551.52",
+      "6551.77",
+      "6552.46",
+      "6552.90",
+      "6553.22",
+      "6553.47",
+      "6553.52",
+      "6553.99",
+      "6556.03"
+    ],
+    "other_text": "日本音語地図資料用紙　注記一覧　42-11　資田番号　地図番号　145　A 普通注記　ページ（15）　項目名　お手玉　085\nA・[B]・[C]ごとに別紙を使用する。　その中での語形は地点番号順に並べる。　注記の＜＞（）［］は厳密にする。\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形（B・C残した語形とその注）\n6551.52　オシトブクロ　＜あずきを入れる＞\n6551.77　ozami　（084と085 の割なし）\n6552.46　ojito　（084と085との割りなし）\n6552.90　ozami　（084と085との割りはない）\n6553.22　oitji　（084,085 共に同語）\n6553.47　tentfan ＜多＞ nanatsuko ＜少＞\n6553.52　oitji　（084,085 割りなし）\n6553.99　tentfan oitotsu　（084と085との割りはない）\n6556.03　[ojito] 又は [ojito]（調査の時、報告者は思い…）\nせとなかったか？　後にハガキで連絡のあったものを［］に示す。本人自身で思い出したかどうか分からないので一応［］をつけることにする。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04211.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04211",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04211.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6559.67",
+      "6562.48",
+      "6565.17",
+      "6565.22",
+      "6566.51",
+      "6567.79",
+      "6568.13"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n\n日本言語地図資料用紙　注記一覧　42-12\n調査番号　地図番号　145\n項目名　お手玉　085\nA　普通注記　ページ\n(B　除いた共通語)\n(C　除いた特殊語)　(16)\n\nodzami [私の方は（oci:）という]\nテンシャン？ <同じことばです>\nN.R. [osara] <私の部落の女の子はあまりこんな遊びをしなかった>\nイシダンゴ (084と28例なし)\nodzami <084に同じ> (084との28例については...)\n<今> odzami\nNR (調査後、別の老人（土着）にたずねたら。odzami otedama（新）という解をえた)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04212.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04212",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04212.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6571.34",
+      "6571.63",
+      "6572.04",
+      "6573.71",
+      "6574.52",
+      "6575.40",
+      "6575.82",
+      "6577.71",
+      "6577.86"
+    ],
+    "other_text": "日本音語地図資料用紙 注記－ 42-13 地図番号 145 項目名 お手玉 085 A 普通注記 B 除いた共通語 C 除いた特殊語 (17) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6571.34 moitji (アクセントは「モイチ」。) 6571.63 ogito このgはfとrの中間音。 6572.04 ozamu' <少> mu'部分をNに入れる（室奥） tent[sara]〈3〉 6573.71 oikko (084と085も同語音。) 6574.52 okojare (084と085との間に区別はない。) 6575.40 [osara'e] 6575.82 ?ozamma [ozammi] 6577.71 #ozami ( -は +.-の一 ) 6577.86 ozami <新>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04213.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04213",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04213.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6582.73",
+      "6583.41",
+      "6583.45",
+      "6586.32",
+      "6587.42",
+      "6591.81",
+      "6593.30",
+      "6600.97",
+      "6603.82"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙 注記一覧 42-14\n資料番号 地図番号 145\n項目名 お手玉 085\nA 普通注記  (B 除いた共通語)  (C 除いた特殊語)\n\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n6582.73  イッキンショ <古>    ナナコ\n6583.41  oikko <古>  ozami <新>  (084と085とは別に区別しない。)\n6583.45  tamotori  084と085と区別なし。\n6586.32  ozami  (注記あり)\n6587.42  オッサラ 〈此の地方では砂を入れる〉\n6591.81  オサラ <少い>\n6593.30  mari <巨> 草で作ったことも有り  temmari\n6600.97  ijidama 〈azukiを入れて〉 ijidama\n6603.82  オタマ (注記)  \n\n(ページ下部罫線までの手書き注記や記号等あり。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04214.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04214",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04214.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6604.98",
+      "6606.35",
+      "6607.84",
+      "6611.68",
+      "6620.53",
+      "6621.94",
+      "6625.17",
+      "6630.43",
+      "6630.58"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での措置は地点番号順に並べる。\n注記のく＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　42-15\n資料番号　地図番号　/ 145\n項目名　お手玉　085\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6604.98　テダマ〈右〉　オシヤアミ\n6606.35　otedama〈遊びをやるときは [ohi:to] のように言ってやる〉\n6607.84　onanko〈おなんこを数えることを [gi:Fu: otoru]という〉\n6611.68　ijinayo〈石を入れて作るから〉\n6620.53　tedama　otekko〈両方とも昔から使ってきた〉\n6621.94　odama〈希〉　odamma\n6625.17　ozammi　新\n6630.43　ote'kko〈左〉　ozamme\n6630.58　odzami〈古〉〈昔は（子供のころ）odzami tsunjidama といったが その後 tsunjidama と言うようになった〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04215.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04215",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04215.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6631.53",
+      "6651.32",
+      "6655.87",
+      "6665.01",
+      "7229.75",
+      "7248.15",
+      "7258.82",
+      "7266.60",
+      "7302.87",
+      "7303.29"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-16\n質問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記　ページ\n[B　除いた共通語]　(C)　除いた特殊語　(20)\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6631.53　odamma　上　damma\n6651.32　odanma　<古>　otedama\n6655.87　jiko　<今は見かけない>\n6665.01　ozami　新\n7229.75　<?> otedama\n7248.15　otedama　[新]\n7258.82　[ogito]\n7266.60　temal　(語尾　そり舌音的)\n7302.87　kireno ijinago　<オテダマとは　それか>\n7303.29　ozami　<紙芝居など漫画等をして遊ぶ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04216.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04216",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04216.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "7303.61",
+      "7304.26",
+      "7311.68",
+      "7312.11",
+      "7313.68",
+      "7320.59",
+      "7324.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での並びは地点番号順に並べる。 注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙　注記一覧　42-17\n質問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　(21)\n\n地点番号　A　語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n\n7303.61　ojitotsumi　ji部分を /hi/ と解する。 kat.　ezami\n7304.26　[ikku:]（昔）　NR\n7311.68　ozami（昔）　ij i nago egitotsum\n7312.11　giiroi（拾いの音転）\n7313.68　mutsuu（数かーったから）\n7320.59　zap:ui:　単独には使わない　zap:u: suru の様に使う\n7324.47　otedama?（女の遊びなのでよく知らん）\n\n（手書きのローマ字表記や注記を含む。上は読み取りに基づく概略）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04217.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04217",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04217.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "7336.71",
+      "7338.55",
+      "7339.27",
+      "7349.07",
+      "7354.23",
+      "7357.31",
+      "7362.42",
+      "7362.67"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-18　質問番号　地図番号　145　A 普通注記　ページ　(B 除いた共通語)　(C 除いた特殊語)　(22)　項目名　お手玉　085\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（）[]は厳密にする。\n（表見出し）　地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形（B・C残した語形とその注）\n7336.71 otedama (？)（方言形かどうか疑わしい？）\n7338.55 tentfan 〈新〉× tentfan senka? という〉 itjidori\n7339.27 tentfan 〈tentfan moto: oruka?〉 のように使う。\n7349.07 tama 〈tama tsukukuru という。〉\n7354.23 オジャメ 〈新〉　イシナゴ\n7357.31 temariko (オシナゴ イシナゴというのか この地区では ふつう)\n7362.42 〈トンキン〉\n7362.67 オジャミ 〈新〉　オシト",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04218.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04218",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04218.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "7363.12",
+      "7373.56",
+      "7373.99",
+      "7375.30",
+      "7381.47",
+      "7381.97",
+      "7391.94",
+      "7392.94"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-19\n質問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記（ページ）　[B　除いた共通語]　[C　除いた特殊語]　(23)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞・（ ）・［ ］は厳密にする。\n\n表ヘッダ：地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n7363.12　オナナ　　ナゴ\n7373.56　ジャメ（優）　　オジャメ\n7373.99　オジャメ　＜イシナゴはオジャメの代りに石ころを用いる場合　その石をイシナゴという＞\n7375.30　[toriko]　　ozami\n7381.47　オジャメ　（現地の古くからの形はセボダマ　オイチコダマであって、オジャメは余所から流入した語であろう）\n7381.97　<?>　オジャメ\n7391.94　ソレソレ　オロイ\n7392.94　オジャメ（新・希）　ジャコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04219.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04219",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04219.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "7395.09",
+      "7400.15",
+      "7404.56",
+      "7412.26",
+      "7412.31",
+      "7440.72",
+      "7450.20",
+      "7500.43",
+      "7501.14"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-20\n資料番号　地図番号　145\n項目名　お手玉　085\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語]　(24)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n\n地点番号\tA 語形とその注記 (B・C除いた語形とその注)\n7395.09\tozjami (遊びも、それらのものも同じ)\n7400.15\tozjami (遊び方と品物とともに ozjami という由である。)\n7404.56\tozjami <新>\n7412.26\tsusuro [新]\n7412.31\tisinago (道具にも使う。084と同じ語形であるが)\n7440.72\ttentsan <tentsan mote: koija>\n7450.20\titjidori (ozami という人もある。32年調)\n7500.43\tナナコ <多い>　オサラ <少い>\n7501.14\tオヒドワ <多い>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04220.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04220",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04220.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "7502.91",
+      "7510.18",
+      "7511.66",
+      "7513.15",
+      "7514.21",
+      "7533.11",
+      "8300.80",
+      "8300.87",
+      "8301.76",
+      "8302.91"
+    ],
+    "other_text": "日本語語地図資料用紙 注記一覧 42-21\n頁間番号 地図番号 145\n項目名 お手玉 085\nA 普通注記  ページ\n[B 除いた共通語]  [C 除いた特殊語] (25)\n\n地点番号   A 語形とその注記 (B・C 除いた語形とその注)\n75 02.91   マナナコ\n75 10.18   ナナコ <多い>\n75 11.66   ナナコ → <こちらの方 多い.>\n75 13.15   誘 \"odgami\" \n75 14.21   ozami <新>\n75 33.11   オテダマ <新>    オサラ\n83 00.80   シット シッタ <希> <若い年齢には普通 用いられる形> (ヒッタ ヒッタミヤ)\n83 00.87   ikkozo <希・新> <子供の時はマイと呼んでいた>\n83 01.76   #<?>  イッチョ = チョ\n83 02.91   <?> オザメ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04221.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04221",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04221.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "8303.47",
+      "8306.42",
+      "8312.33",
+      "8315.89",
+      "8341.46",
+      "8342.51",
+      "8345.74",
+      "8355.23"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙　注記一覧　42-22 質問番号　地図番号　145 項目名　お手玉　085 A 普通注記 (ページ) [B 除いた共通語] [C 除いた特殊語] (26) 地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注） 8303.47　ジャアコ　ジャアコ イシ　} SYSKO（室貫） 8306.42　ikkjo nikkjo（珍しい語形である） 8312.33　ijinago <古> 8315.89　tsegi ＜遊びも　そのものも同じに言う＞　ojitotsu 8341.46　ijinago（イシナゴの註り。シとかチを濁る傾向　南薩地方） 8342.51　tjorozo <古>　otedama 8345.74　itijimonko ＜遊びも姿も同じにいう＞ 8355.23　itsikoitsi ＜遊びもその発音も同じに言う＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04222.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04222",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04222.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "8362.34",
+      "8372.87",
+      "8373.08",
+      "8373.43",
+      "0237.79",
+      "1211.69",
+      "1213.76",
+      "1231.72",
+      "1242.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-23\n質問番号　地図番号　145　項目名　お手玉　085\nA　普通注記　ページ　(B 除いた共通語)　(C 除いた特殊語)　(27)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n地点番号　A 語形とその注記　[B・C除いた語形とその注]　A注のない語形　(B・C 残した語形とその注)\n\ntorodo [稀]　　　　　tedama\ndzungara <ズンガラという草の実を中に入れる>\ntedama <新>\ntedamabukuro (質問文に盛が出るから ひかれて答えたか)\nojitotsu <今度の子供は tedama という>\nutidama 新\nutidama [古] utedama\n'tama zokori <?>\n[to:re:nizu:]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04223.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04223",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04223.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "1242.72",
+      "1251.27",
+      "1261.01",
+      "2067.52",
+      "2076.98",
+      "2085.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での語形は地点番号順に並べる。 注記の＜＞（）[]は欄外にする。 質問番号　地図番号　145　項目名　お手玉　085 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (28) 地点番号　A語形とその注記 [B・C除いた語形とその注] A注のない語形 (B・C 残した語形とその注) 1242.72　NR　＜知らない＞ 1251.27　NR　＜知らない＞ 1261.01　otedama　新 2067.52　otedama　＜若い人がいう＞ 2076.98　NR　＜交通語をそのまま、オテダマという＞ 2085.69　utidama　＜？＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04224.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04224",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04224.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "2700.48",
+      "2734.05",
+      "5567.46",
+      "5597.78",
+      "5602.99",
+      "5625.32",
+      "5638.54",
+      "5642.17",
+      "5657.73"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-25\n質問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記\nB　除いた共通語\nC　除いた特殊語\n(1)\n\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜＞（）[]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 {B・C 残した語形とその注}\n\n2700.48　オテダマ〈新〉　アヤコ\n2734.05　オテダマ〈新〉　アヤコ\n5567.46　〈共〉オテダマ　オチョダマ?\n5597.78　〈共〉オテダマ　#オシヤミ?\n5602.99　otedama〈3〉　tama\n5625.32　オテダマ（児）\n5638.54　オテダマ〈新〉　オシトン　ジョン ジョン（古）\n5642.17　otedama〈新〉　aja\n5657.73　オテダマ〈新〉　ナンゴ〈古〉\n\n（手書き語形は読み取りにくいため一部推定を含む）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04225.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04225",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04225.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5658.89",
+      "5667.08",
+      "5667.24",
+      "5676.28",
+      "5699.42",
+      "6383.77",
+      "6395.61",
+      "6407.43",
+      "6413.43",
+      "6423.75",
+      "5742.65",
+      "5772.00"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-26\n質問番号　地図番号　145\n項目名　お手玉　086\nA　普通注記　(B)除いた共通語　(C)除いた特殊語　(2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n5658.89    オテダマ　＜新＞　　　ジョレンジョコ　＜古＞\n5667.08    オテダマ　＜新＞　　　テナレゴ\n5667.24    オテダマ　＜新＞　　　ナンフク＜古＞\n5676.28    otedama　[新]　　　　gi:φu: (手書き)\n5699.42    otedama　＜新＞　　　nakko\n6383.77    ótedama　〈今〉　　　〈替〉 oŝâra\n6395.61    otedama　＜新＞　　　ogitotsüi\n6407.43    オテダマ　＜失＞　　　イシナレゴ\n6413.43    otedama　＜新＞　　　tjoko kobui\n6423.75    otedama　＜新＞　　　ogitotsüi / kobu\n\n下段（枠外）:\n5742.65　(新) odedama　oftozii oftots (手書き)\n5772.00　(新) odedama　ogtodzii (手書き)\n\n（上記は原稿の手書き注記を読み取ったおおよその転写）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04226.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04226",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04226.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "6448.61",
+      "6458.08",
+      "6508.06",
+      "6592.10",
+      "6621.34",
+      "6623.28",
+      "6631.69",
+      "6655.97",
+      "7401.60",
+      "7402.47"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n質問番号　地図番号　145\n項目名　お手玉　085\nA 普通注記　B 除いた共通語　C 除いた特殊語\n（3）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 {B・C 残した語形とその注}\n6448.61　オテダマ＜新＞　オシト＜古＞\n6458.08　オテダマ＜新＞　イイチコ＜古＞　スズダマ＜古＞\n6508.06　＜共＞オテダマ\n6592.10　オテダマ＜共＞\n6621.34　上　otedama　odama\n6623.28　オテダマ＜共・上＞　オジャミ\n6631.69　otedama　新　odamma\n6655.97　otedama　新　ozami\n7401.60　otedama＜上＞　ozami\n7402.47　otedama＜上＞　ozami",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04227.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04227",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04227.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "3702.89",
+      "4710.18",
+      "4783.74",
+      "5527.94",
+      "5615.28",
+      "5674.11",
+      "5742.65",
+      "5772.00",
+      "6428.13",
+      "6428.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-28\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は略語にする。\n（右上の枠）質問番号　地図番号　145　項目名　お手玉　085　A 普通注記　ページ　B 除いた共通語　C 除いた特殊語\n（表の見出し）地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n3702.89　<古> fyanarako　ajako\n4710.18　zui:suidama　dama\n4783.74　tamendama <tamendamaは子どものとき使った>　tjakku\n5527.94　fittfoko <希>　odzame\n5615.28　agedama　nango <新>\n5674.11　oniyko　okaeji\n5742.65　(新) odedama　oftozu / oftots\n5772.00　(新) odedama　octodzu\n6428.13　ｲﾜﾌﾎﾞｺ <古希>　木サアラ\n6428.26　ｲﾜﾌﾎｺ　ｲｼﾅﾝｺﾞ\n（下部余白に枠線あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04228.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04228",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04228.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "6429.15",
+      "6436.33",
+      "6459.87",
+      "6489.01",
+      "6491.49",
+      "6500.88",
+      "6526.08",
+      "6533.31",
+      "6539.60"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-29\n資料番号　地図番号　145\n項目名　お手玉　085\nA 普通注記　ページ\nB 除いた共通語\nC 除いた特殊語　(2)\n\n地点番号　A 語形とその注記（B・C 除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\nイチニスゝ 〈古〉　　　イナゴ\n# dango　　　　　　　[nango]\nオンバラ 〈希〉　　　　イイチコ\nオテナワ 〈希〉　　　　テンチャン\nhiko ohi:ko　　　　　　その他\notfaboko（別に調査した被調査者は ijinayo という）　ozami 〈新〉\n?オシダマ?　　　　　　?オテダマ?\nサイコ 〈古〉　　　　　オジャミ\nofuriko 〈?〉 …（注記）　# [ozami]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04229.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04229",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04229.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6556.03",
+      "6567.79",
+      "6575.40",
+      "6577.86",
+      "6591.81",
+      "6595.90",
+      "6665.01",
+      "7258.82"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）[]は厳密にする。 日本言語地図資料用紙　注記一覧　42-30 質問番号　地図番号　145 項目名　お手玉　085 A　普通注記　ページ (B　除いた共通語) (C　除いた特殊語) (3) 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 6556.03　NR　[oçito] x [oçito] ( )内は後日の回答。詳しくは084記録及び085A記録。 6567.79　〈昔〉 donˈtsum　〈今〉 ozami 6575.40　NR　[osara'e] 6577.86　dontsubaki　ozami 6591.81　（手書き注記） 6595.90　tamadori　oçitotsu 6665.01　ko:ito:　ozami〈新〉 7258.82　NR　[oçito]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04230.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04230",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04230.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7303.75",
+      "7309.37",
+      "7322.79",
+      "7324.96",
+      "7332.97",
+      "7342.10",
+      "7342.12",
+      "7353.51",
+      "7385.61",
+      "7501.14"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > () []は厳密にする。 日本言語地図資料用紙 注記一覧 42-31 質問番号 地図番号 145 項目名 お手玉 085 A 普通注記 ページ [B 除いた共通語] (C 除いた特殊語) (4) 地点番号 A 語形とその注記 (B・C除いた語形とその注) A注のない語形 (B・C 残した語形とその注) 7303.75 ku riko egitotsu 7309.37 [çikineko] ozami 7322.79 oteâge egitotsu 7324.96 ombara itjiko? 7332.97 (五) iki:i (新) jinodoma 7342.10 mii kjo ozame 7342.12 itf:in rikisuru <ijinago et uu> 7353.51 トンキンナゴ 7385.61 [saka/saka] nago 75 01.14 11コ <古> オヒトフ <多い> ナナコ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04231.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04231",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04231.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7510.18",
+      "8373.08"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　42-32\n質問番号　地図番号　145\n項目名　お手玉　085\nA　普通注記　ページ\n[B]　除いた共通語\n(C)　除いた特殊語　(5)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n7510.18　オジャ　　　ナナコ〈多い〉\n8373.08　to:do (上杵日、一つ二つ三つ四つ五つ…九つ)\n＋(トーウォ)と教えていた\nto:woをトーボというのではないかと思う\ntedama〈新〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04232.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M145Q085/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04232",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04232.tif",
+    "source_ljc_id": "LJC-M145Q085",
+    "source_map_numbers": [
+      "145"
+    ],
+    "source_title": "おてだま (お手玉)"
+  }
+]

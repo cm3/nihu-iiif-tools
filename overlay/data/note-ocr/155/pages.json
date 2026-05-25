@@ -1,0 +1,308 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "2700.48",
+      "2763.89",
+      "3619.08",
+      "3699.55",
+      "3741.16",
+      "4609.68",
+      "4619.23",
+      "4637.68"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　46-3\n質問番号　地図番号\n167　155\nA　普通語（○）\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(　/　)\n項目名　きぬ糸\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nカナ〈希〉　　　　　　キヌイト\nkinuyana ?\nkinwëto ëは非常に狭いe　シガポド　（ガ→ya、ド→to、do。えはイとエの）　シガネド　中間音（示）\nk¿niüe to ëは非常に狭いe\nsinga（シガはマユから気にする場合の一本一本について主としていう。）\nsinga <古>\nkinwedo　生系であった。　（はじめsunaedoと答えたがそれは生系であった。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04603.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04603",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04603.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4638.43",
+      "4666.99",
+      "4667.76",
+      "4676.67",
+      "4710.55",
+      "4713.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 46-4\n質問番号 167    地図番号 155\n項目名 きぬ糸\nA 普通語   [B 除いた共通語]   [C 除いた特殊語]   ページ (2)\n\n地点番号  A語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n\n4638.43    (はじめ suna と答えたが、169でそれは識...) kinueto 糸と分かり、この欄に訂正した。\n4666.99    edo <女は kinuedo と言うか、男だから単に edo と言う。> （だから kinuedo の語を知っているが、使用語彙であるかどうか不明。）\n4667.76    suŋa edo しくしつけ系として使うと説明した。\n4676.67    suŋa edo <古く若い頃これを買うことを家人に命じられたことがあるので知っている。今は使わない。>\n4710.55    kinuido (本来なら kinuedo となるところ・・・)\n4713.45    kiito (製品になっている絹糸のことを言う。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04604.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04604",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04604.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "5565.12",
+      "5613.48",
+      "5614.68",
+      "5696.13",
+      "6287.42",
+      "6349.23",
+      "6374.64",
+      "6386.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 46 - 5\n質問番号　地図番号\n167　155\n項目名　きぬ糸\nA　普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (3)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5565.12　[イト]　　キヌイト\n5613.48　kinuito　ki:toとはじめ答えた。\n5614.68　kinue to　はじめki:toと答えて訂正した。\n5696.13　キヌイト　(昔藍を煮てのばして作った。糸をシケといった。)\n　　　　えはキヌイトとはちがう\n6287.42　kinito〈古〉\n6349.23　<?>キヌイト\n6374.64　キヌイト〈よってある糸〉\n6386.66　nebaito〈縫ってないもの〉　kinuito",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04605.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04605",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04605.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "6403.60",
+      "6406.92",
+      "6416.31",
+      "6422.16",
+      "6436.60",
+      "6440.67",
+      "6484.78",
+      "6494.08"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　46-6\n質問番号　167　地図番号　155\n項目名　きぬ糸\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n（表ヘッダ）地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nシガエト　〈古〉　　キノエト\nキイト　〈希〉　　　キヌイト\njikeito　〈自分は言わないが言う人がある〉　kimuito\nキイト　〈細い機・用のもの〉　キヌイト\nキヌイト　〈よったもので太い〉\nスガー　〈細い〉　　スガイト\nスガー　〈とりたての糸〉\nキヌイト　〈使う時の称〉\n（下部に続く注記や手書きの語例）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04606.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04606",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04606.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "6517.65",
+      "6536.39",
+      "6539.12",
+      "6554.45",
+      "6559.22",
+      "6563.58",
+      "6571.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 46-7\n質問番号 167 地図番号 155  A 普通注  ページ (5)\n[B 除いた共通語]  [C 除いた特殊語]\n項目名 きぬ糸\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞〈　〉［　］は厳密にする。\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n6517.65  キイト〈くねらないもの〉\n6536.39  キヌイト〈くねったもの〉\n6539.12  ito〈特にkunu itoということはない。ただし〉\n6554.45  kiito〈方言ではkii toだ〉\n6559.22  sodai〈古〉\n6563.58  kinnuito〈一世代前のことば〉\n6571.15  NR(使ったことがないから知らぬ。此土地ではキヌイトと言うはず)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04607.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04607",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04607.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "6586.27",
+      "6657.96",
+      "6697.49",
+      "6697.59",
+      "6698.20",
+      "7218.26",
+      "7239.85",
+      "7249.35"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 46-8\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号　167　155\n項目名　きぬ糸\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (6)\n\n表ヘッダ: 地点番号 / 語形とその注記 [B・C除いた語形とその注] / A注のない語形 [B・C 残した語形とその注]\n\nmagai <漁師>\nkinuito <女>\nN.R <kaiko no ito?>\nsuyaito <古, なおsuyatoとは蚕のこと>\nsuyaito <古>\nsuyaito <古>\nkinuito kinuitoをまぜた織物を 'itoori'という\nキンノイト <多>\nマイト <古>\nカライト <古>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04608.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04608",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04608.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "7312.11",
+      "7323.17",
+      "7324.24",
+      "7331.27",
+      "7332.97",
+      "7342.12",
+      "7362.42",
+      "7365.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 46-9\n質問番号 167 地図番号 155 項目名 きぬ糸 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (7)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n（表見出し）語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\nkinuito（練った糸）\nkiito（希、生のままのイト）\nnebaito（旧）\nnebaito（＝ここでは neba であった）\nkinuito＜nebaitoとは言わない＞\nkiito（少）\nkinuito（多）\nmebaito（吉）\n(?) ツムギイト＜少しこぶのある糸。わるいキヌイトで作った糸＞\nnebaito＜特の織じ糸＞    Kinu ito",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04609.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04609",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04609.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "7374.15",
+      "7375.96",
+      "7385.38",
+      "7392.45",
+      "7394.85",
+      "7452.54",
+      "7514.21",
+      "8301.19",
+      "8303.70",
+      "8304.66"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 46-10\n質問番号 地図番号 167 155\nA 普通注記 ページ (8)\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名 まぬ糸\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n表見出し: 地点番号 | A語形とその注記 [B・C除いた語形とその注] | A注のない語形 [B・C 残した語形とその注]\n表中の語例（該当地点の語形、注記）:\n<??>キイト (（キメイト）)\nKinito <古>    kinuito\n(kaikonito)    ki:to\n<<キヌイト>>\nkinito <昔>    kinuito\nki:to (?)\nkunu;ito <新><新>    ki:to\nキンイト（希）\nキイト (生糸ではない)\nキイト (生糸ではない)\nkaiko no ito <古>    kinuito",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04610.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04610",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04610.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "8324.83",
+      "0256.76",
+      "0256.89",
+      "0265.96",
+      "0276.50",
+      "1232.75",
+      "1232.29",
+      "1241.96",
+      "1242.72",
+      "1251.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 46-11\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )( )[ ]は厳密にする。\n質問番号 167 地図番号 155\n項目名 きぬ糸\nA 普通話\n[B 除いた共通語]\n[C 除いた特殊語]\n(9)\n地点番号　語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C表した語形とその注】\n8324.83 kegONito (飼い子或は蚕の転化 kego)\n0256.76 itsu <古>\n0256.89 itsu <古>\n0265.96 ?itsu: (特別 名を言わねらしい)\n0276.50 itsu <け(its)とだけいって特に名を知らない>\n1232.75 ?kinuittsu;\n1232.29 kinu itsu:(?)\n1241.96 ittu <絹のことも・ittuという>\n1242.72 ?itsu ?<昔はなかった>\n1251.27 kaigonu?; itsu <戦後はない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04611.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04611",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04611.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "1260.78",
+      "1261.80",
+      "1270.26",
+      "2075.22",
+      "2076.97",
+      "2140.49",
+      "2140.96",
+      "2141.71"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）は厳密にする。\n日本言語地図資料用紙 注記一覧 46-12\n質問番号 167　地図番号 155\n項目名 きぬ糸\nページ (10)\n（表ヘッダ）地点番号　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 表した語形とその注]\n1260.78　kinu ?i:tsu; <zi:tsu は絹>\n1261.80　kinuzitu くご(新?)\n1270.26　?kinu i: su:\n2075.22　itsu <絹の着物は itsukin>\n2076.97　kinuitu <新>\n2140.49　?kinuitu <新>\n2140.96　kinuitu <新>\n2141.71　?kinuitu (標準語的な言い方)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04612.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04612",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04612.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "1781.95",
+      "4643.47",
+      "4676.67",
+      "5614.24",
+      "5772.00",
+      "6642.58",
+      "7323.17",
+      "7342.12"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　46-13\n質問番号　地図番号\n167　155\n項目名　手ぬ糸\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ ( / )\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n1781.95　コマチイト　キヌイト\n4643.47　kinugana <こういう人をあらう。>　kinuito\n4676.67　kinuedo〈新〉　sugaedo〈古　若い頃これを買うこ...〉\n5614.24　kiito (はじめこゝ答えた。)　kinueto\n5772.00　okinaido　ktido\n6642.58　kinuito 新　sunga / sungaito\n7323.17　kinuito (新)　nebaito (旧)\n7342.12　kinuito (新)　mebaito (古)\n（下部に続く行ありが部分的に読取不能）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04613.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04613",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04613.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "0256.89"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　46-14\n質問番号　地図番号\n167　155\n項目名　きぬ糸\nA　普通注記\nB　除いた共通語\nC　除いた特殊語\nページ　(2)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n地点番号　A　語形とその注記　[B・C除いた語形とその注]\nA 注のない語形　[B・C 残した語形とその注]\nkinuito〈新〉\nitufu〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04614.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M155Q167/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04614",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04614.tif",
+    "source_ljc_id": "LJC-M155Q167",
+    "source_map_numbers": [
+      "155"
+    ],
+    "source_title": "きぬいと (絹糸)"
+  }
+]

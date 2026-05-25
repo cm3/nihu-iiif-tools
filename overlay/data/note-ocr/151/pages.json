@@ -1,0 +1,2401 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0737.94",
+      "0840.33",
+      "0861.48",
+      "0894.61",
+      "0990.97",
+      "1715.53",
+      "1719.38",
+      "1739.85",
+      "1742.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-51\n質問番号 地図番号 151\n項目名 銭 000\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nokane … <多>    kāne\ndzent … <多> , dzen'ko- <少>\n<昔> … zenko\ndzene? … <子供の時> dze'ni\nze'ni … <越中の人 zenko'>\nzeni , dara … (satsu は銭のや)\nzeni … <古>　オカネ\nzeni … <普通使う>\nzenko … （後略 のダラという）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04451.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04451",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04451.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "1744.60",
+      "1747.04",
+      "1747.55",
+      "1762.10",
+      "1781.95",
+      "1798.13",
+      "1814.25",
+      "1862.48"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　44-52\n質問番号　地図番号　151\n項目名　銭 090\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (2)\n\n地点・番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nゼンコ…〈昔は殆んどゼンコだけ使った〉　オカネ，ゼニ\nゼンコ…〈希〉　zeni\nzenko…〈児〉　zeni\nゼンコ…〈昔随分使ったものだが、此頃は余り使わない〉　ゼニ，カネ\nゼンコ…〈昔父皆ゼンコとだけ言った。〉〈今でも使うこともある。〉　ゼニ\nzeni…（z→3に近いか）　okane\nオカネ…〈小さい時はオカセ、ゼンコ〉\nオゼン…〈多〉　ゼンコ，オカネ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04452.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04452",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04452.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "1863.48",
+      "1867.15",
+      "1893.10",
+      "1942.03",
+      "2720.75",
+      "2734.05",
+      "2750.44",
+      "2763.89",
+      "2791.15"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-53\n質問番号 地図番号 51\n項目名 銭 090\nA 普通注記 ぺージ (3)\n[B 除いた共通語] [C 除いた特殊語]\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\nゼンコ...＜こまいは＞ 「こまいは」は幼い時のこと) ぜー\nぜーに...＜子＞ オカネ\nzeni', zenko' ...＜昔＞ okane\nzēni ...＜子供の時＞\nゼンコ...貨幣のみを「ダラコ」という\nゼンコ...＜サツコ、ダラコ 両方共ゼンコという＞\nゼンコ...＜昔はオカネなどという人はなかった。皆ゼンコだった。＞\ndzenko...＜古＞ dzeniko\ndzenko...＜古＞ dzeni",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04453.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04453",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04453.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "2792.40",
+      "2795.66",
+      "2800.52",
+      "3619.08",
+      "3699.25",
+      "3705.47",
+      "3715.51",
+      "3727.21",
+      "3736.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧\n質問番号　地図番号　15/\n項目名　銭　090\nA　普通注記　(A)\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(4)\n\n地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nokane .... (わざと共通語で言ったか)\n〈稀〉 dzejko\ndzeni .... 〈普通に使う〉\ndzejko\nzenko .... 〈小せたのこと〉\nze'ni .... eは 狭い e\ndzen .... 〈古〉 dzeni\n〈古〉 dzene\nkane .... (紙･･･satsii, 質･･･ dzeni)\nジェネコ\nジェニ = 〈古〉\n(その他手書きメモ多数)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04454.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04454",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04454.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "3741.16",
+      "3744.33",
+      "3750.75",
+      "3757.32",
+      "3760.93",
+      "3765.03",
+      "3780.65",
+      "3783.08",
+      "3783.11",
+      "3791.02"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 44-55\n質問番号　地図番号　151\n項目名　銭 090\nA 普通注記　ページ (5)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n3741.16  džeriko ..... eは非常に狭いe\n3744.33  ジェネ, ジェニ  .... この「ネ、ニ」どちらにもきこえる。\n- \n3750.75  zenko .... (昔), zeni .... (今)\n3757.32  ジェニ ---- 5月10日の破貨はダラという。\n3760.93  dzeniko ... (自然の発話中にあた語形)  dzeni\n3765.03  ジェニ .... (「小銭」に) (私には シヘという) カネ\n3780.65  dzendze ... (子供に対して) dzen\n3783.08  zēne*ko ... eは狭いe\n3783.11  カネ .... (多額の場合) ジェネ\n3791.02  <*　> zeyko ]  zeni",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04455.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04455",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04455.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "3795.19",
+      "3795.86",
+      "4609.07",
+      "4618.87",
+      "4637.20",
+      "4637.68",
+      "4638.22",
+      "4638.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-56\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(6)\n\n● A・[B]・[C]ごとに別紙を使用する。\n● その中での情報は地点番号順に並べる。\n● 注記の＜　＞(　)[　]は厳密にする。\n\n地点番号　　A 語形とその注記〔B・C除いた語形とその注〕\n3795.19　　カネ....(紙幣), ジェニー...(硬貨)\n3795.86　　カネ....(金属貨と紙幣と合せて)(金属貨はジュニー)\n4609.07　　zeno ....〈普通に使う語形〉　kane\n4618.87　　zen (dʒen) ....(一般的)　zēn\n4637.20　　kane, }....「若い時から okaneと言いましたか」\n　　　　　zeN」という語に対する反応として出た。\n4637.68　　ZEN ....(古い言い方であろう)　kane\n4638.22　　zeʔnji .... eは狭いe\n4638.43　　kane ....[大きい額の金銭]　ZEN, dʒEN",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04456.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04456",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04456.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4644.10",
+      "4648.42",
+      "4648.59",
+      "4653.02",
+      "4657.88",
+      "4658.42",
+      "4665.87"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。  ▲ その中での情報は地点番号順に並べる。  ▲ 注記の＜＞（ ）[ ]は厳密にする。  日本言語地図資料用紙 注記一覧 44-57  質問番号　地図番号　151  項目名　銭　090  A　普通注記  [B　除いた共通語]  [C　除いた特殊語]  ページ　(7)  地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］  kane ... ＜多い＞, ze'n ... ＜中年層から上の＞  dzen ... ＜希＞ 幼い時 多く使った。  zene ... ＜古いが用い、現在も使う。＞  ze'n ... ＜硬貨＞  satsum ... ＜紙幣＞  ひっくるめて kaneと言うか。  これは新しいことばだ。 古いことばで総称は D.K. ＞  *zen ... 初め zeni と言い、後で訂正した。 ZENを多く用いる。  ZEN ... （やや改まった発音）  ZEN ...（うちとけた呼の使用）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04457.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04457",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04457.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4666.17",
+      "4666.42",
+      "4666.51",
+      "4667.33",
+      "4668.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44.58\n質問番号　地図番号　15-1\nA 普通注記　ページ (8)\n[B 除いた共通語]\n[C 除いた特殊語]\n項目名　銭 090\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n4666.17  kane, そ… 「外にありませんか」の問いに対する反応\n         zepi, 用例 … kane ni komaru\n         ZEN / zeN wasurereru\n4666.42  [kane] … 用例 kane tameta  ZEN\n         「外にありませんか」の問いに対する反応。\n4666.51  * ZEN … ＜右＞（初め、zeniと言い、後、ZENと訂正した。）\n4667.33  ジェン … （3） ジェジェ … （3）\n4668.27  dzeni …（希）（259頁の調査の時 あた古い zepi 発音である。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04458.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04458",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04458.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4676.39",
+      "4676.42",
+      "4677.65",
+      "4685.10",
+      "4686.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-59 質問番号 地図番号 151 項目名 銭 090 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9)\n地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\ndzepl .... 小銭    kane\n*ゼン ... はじめ ぜにと答えた。\nkane, zeni .... (両倍とも昔から使っているか、現在どちらを多く使うかはっきりしない。「zeni」を多く使うかも知れない。)\n(zeni の方は「外の言い方」は の何に対する答である。)\n子供は「zeni kure」と云う\nokane .... (zeni は硬貨)\nkane .... (自然の話の中にあたものを接続した)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04459.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04459",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04459.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4688.45",
+      "4689.10",
+      "4694.26",
+      "4695.19",
+      "4695.87",
+      "4698.21",
+      "4699.07",
+      "4699.42",
+      "4704.45"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-60\n質問番号 地図番号 151\nA 普通注記  ページ (10)\n項目名 銭 090\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n4688.45  dzen dze ..... <子供に対して>  dzene\n4689.10  -> kane  ------- 紙幣はサツ\n4694.26  zeni  ..... <先人は ZEN という>\n4695.19  ゼン ...... (右)  カネ\n4695.87  ZEN ... (「外に言い方はありませんか」に対する反応。)<古く多く用いた>\n4698.21  dzeni ... <紙幣を サツという>\n4699.07  同上\n4699.42  zeni ... <これを多く使う> 語幣は satsum という\n4704.45  ジェニ .... <小せに>  カネ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04460.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04460",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04460.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4705.20",
+      "4706.53",
+      "4706.84",
+      "4710.18",
+      "4711.49",
+      "4713.45",
+      "4715.33",
+      "4711.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-61\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n（右上の箱）\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記　ページ (11)\n[B　除いた共通語]\n[C　除いた特殊語]\n\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き行（概訳転記）:\n4705.20　ジェニ・・・〈小銭〉\n4706.53　dzent・・・〈金額の多い場合か多い〉\n4706.84　dzeyko・・・〈?〉〈金額の少ない場合が多い〉\n（次行）　dzenko・・・［百円以下］\nkane・・・［千円以上ぐらいの額］\nkaneko・・・［千円以上の額ではあるが、少ないという主観が働いたとき。］\ngene・・・〈少額の場合〉\njamne・・・〈多額の場合〉\n4710.18　kane\n4711.49　ジェニ（稀）\n4713.45　dzent・・・〈主に銅貨の方を指すかも知れない〉\n4715.33　dzen***・・・〈少額の場合は dzen nuko〉\n下部余白手書き：4711.41 [zeni]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04461.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04461",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04461.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4716.20",
+      "4721.36",
+      "4723.51",
+      "4724.00",
+      "4731.15",
+      "4731.85",
+      "4733.91",
+      "4742.43"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 44-62\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (12)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n4716.20　dzeniko ...〈ひどく訛って dzene というものもある〉\n4721.36　[zeni] (抹消)\n4723.51　子 ... ゼンゼコ\n4724.00　dzene ...〈 大金は kane, 硬貨は dzene, 総称は dzene 〉\n4731.15　dzěni ... eは狭いe\n4731.85　[zene] (抹消)\n4733.91　* dzeni ...〈硬貨〉　区別をしていた　satsu ...〈紙幣〉\n4742.43　〈紙幣は satsu〉 〈硬貨は ginka〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04462.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04462",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04462.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "4746.20",
+      "4752.27",
+      "4761.57",
+      "4762.56",
+      "4760.64"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-63 質問番号 地図番号 151 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (13) 項目名 銭 090 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 4746.20 dzent .... <古> okane 4752.27 dzenti .... <100円以下を指す> kane .... <主に100円以上の千円札などの大金を指す。> 4761.57 okane satsui 続帯, ginka 銀貨, do:ka 銅貨 のようにいう 4762.56 zeni (頭音が 〜 にも口蓋化している) <これは主に小金を指すものであって大金になれば satsui という> 4760.64 [zeni]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04463.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04463",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04463.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "4760.98",
+      "4761.93",
+      "4762.90",
+      "4763.45",
+      "4771.98",
+      "4772.33",
+      "4773.70",
+      "4773.78"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n日本言語地図資料用紙 注記一覧 44-64\n調問番号　地図番号　151\n項目名　銭　090\n(A) 普通注記　ページ\n[B　除いた共通語] [C　除いた特殊語] (14)\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\ndze'ni .... eは狭いe\ndzeni .... <紙幣をサツという。>\ndzeni .... <サリは紙幣のことである。>\ndzeni .... <dzeneという人もこの町に居る>\ndzeni .... <紙幣をサツという>\nkane .... satsui (紙幣), 硬貨は銀貨、銅貨のようにいる。\ndzeni .... <sadzuiは紙幣のこと>\ndzeni .... <右> (あるいは dzene)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04464.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04464",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04464.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "4780.26",
+      "4780.60",
+      "4780.64",
+      "4781.48",
+      "4782.96",
+      "4783.38",
+      "4790.30",
+      "4791.12",
+      "4791.39",
+      "4791.61",
+      "4791.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-65\nA 普通注記 (151) 銭 090\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]\n4780.26    dzeni .... <紙幣は satsui と言う>\n4780.60    kane .... <紙幣は satsui>\n4780.64    dzeni ... <金額のさい時>\n4781.48    dzeni .... <紙幣 satsui>\n4782.96    dzeni .... 紙幣 satsui\n4783.38    okane ...\n4790.30    dzeni .... <紙幣は satsui という>\n4791.12    okane 同\n4791.39    okane\n4791.61    kane ... <satsui は 紙幣 のことに使う>\n4791.65    dzeni ... <satsui は 紙幣のこと>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04465.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04465",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04465.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "4792.80",
+      "4793.41",
+      "4794.30",
+      "5499.98",
+      "5538.50",
+      "5547.25",
+      "5555.09",
+      "5558.09",
+      "5569.02",
+      "5575.00",
+      "5577.06"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-66\n(右上枠) 質問番号 地図番号 151 ページ (16)\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]\n地点番号  A 語形とその注記 [B・C除いた語形とその注]\n4792.80    kane  ..... <satsumは紙幣、硬貨ついては特になし>\n4793.41    kane, dzeni .... 紙幣 satsum\n4794.30    dzeni  ..... 同上\n5499.98    ぜに  ..... 特に区別なし\n5538.50    ゼン  ..... <下>\n5547.25    dzeN  ..... <新>\n5555.09    djiN  ..... <右>\n5558.09    dzendze  ..... <右>\n5569.02    カネ  ..... <総称>, ジェニ  ..... <総称>\n5575.00    djen  ..... 子供の俗, 使用\n5577.06    カネ、ぜに  ..... <総称>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04466.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04466",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04466.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5577.88",
+      "5578.27",
+      "5579.10",
+      "5587.74",
+      "5590.53"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-67\n質問番号　地図番号　151\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (17)\n項目名　銭　090\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n表見出し：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n手書きメモ（概略）：\nゼニ … <ゼニはお金の総称であるが、硬貨という意味に昔は使っていた。>　サツは紙幣の意味である。\nオカネ … <総称>　ゼニ＜銅、金貨＞\n同上\nゼニ … <硬貨><総称>，オカネ … <総称>．ゼニ\nジェニ … <古> [ge]の音はこの地方では一般に保存されていない。 この場合に限り、[zeni]という形が残されていた訳である。 たもシャケ（鮭）等と同様、或る心理的要因によって、[ze]←[ge]の変化を起したとも考えられる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04467.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04467",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04467.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5595.05",
+      "5598.67",
+      "5599.75",
+      "5603.35",
+      "5604.28",
+      "5604.52",
+      "5604.65",
+      "5606.83",
+      "5607.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-68\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (18)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\ndzen ... z は やや子に近し\nオカネ ... <総称> ぜに は 銅貨、サワは紙幣（手書き）\nzeN ... <古、希>\nzen ... <希>\nZEN ZEN ... <？>\n＊ ゼン ... ゼニを訂正\nkane ... <大きい額のものを表った様な意味か?>\nokane (右欄手書き)\nkane (右欄手書き)\nzen (右欄手書き)\n\ntable handwritten notes and annotations (複数の手書き日本語注記)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04468.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04468",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04468.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5608.16",
+      "5609.26",
+      "5609.81",
+      "5611.39",
+      "5611.81",
+      "5612.22",
+      "5612.39",
+      "5613.33",
+      "5613.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-69\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n質問番号　地図番号　151\n項目名　銭　090\n(A) 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (19)\nA 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n\ndzeni 〈紙幣はサツという。〉\nze~ni e は狭い e 、〜っ ないこともある。\nzeni 紙幣は satsu という。\nzeN 〈古〉\nzeN (現在はあまり使わぬという。妻や子供に対して使うらしい。)\nzeni 〈多〉\nゼン (古)　オカネ\nzepi 〈希〉\nzenze 〈子〉　zeni",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04469.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04469",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04469.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5613.53",
+      "5613.80",
+      "5614.24",
+      "5614.62",
+      "5614.68",
+      "5615.74",
+      "5617.28",
+      "5625.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-70\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n資問番号　地図番号　151\n項目名　銭　090\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ（20）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5613.53    zeni 〈〉    zen\n5613.80    tfintsi 〈古〉〈3残の時用いん〉    zepi\n5614.24    zeni 〈友人や家族の者に対して 用いる〉    kane 〈家庭内で用いる〉\n5614.62    zene 〈希〉〈古い言い方が今は希んなう〉 zeni\n5614.68    *zene　初め zeniと答えた。\n5615.74    zene 〈若い者は kane と云う〉\n5617.28    dzeni 〈銭幣は サッという〉\n5625.91    [zeni] zene",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04470.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04470",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04470.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5629.98",
+      "5631.16",
+      "5636.49",
+      "5638.54",
+      "5641.94",
+      "5641.99",
+      "5643.33",
+      "5644.74",
+      "5645.89"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-71\n質問番号　地図番号　151\n項目名　銭　090\nA) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (2/)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n地 点 番 号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n\nゼニ　＜古＞\nkane　＜多額の時＞\ndzeni　＜10円や20円などの時＞\nゼネ　＜多＞\nゼニ　＜どんなさいな言い方＞\nkane　＜硬貨について云う時は dzeni？＞\nokane　＜今＞＜satsum は紙幣のことだけ＞ ze?ni\ndzeni　＜昔から＞\nゼニ　＜多＞ , ジェニ　＜多＞\nゼニ　＜古＞\nオカネ、オアシ\nカネ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04471.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04471",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04471.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5646.39",
+      "5646.71",
+      "5647.37",
+      "5652.37",
+      "5652.81",
+      "5656.56",
+      "5657.78",
+      "5658.01",
+      "5659.46"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-72\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( )[ ]は厳密にする。\n質問番号　地図番号　151\n項目名　銭　090\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(22)\n\n表見出し：地点番号　A語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n5646.39　オカネ〈古〉, ゼニ〈児〉, ゼネ〈児〉\n5646.71　ゼネ〈古〉, ゼンゼ〈子〉\n5647.37　ゼニ〈古〉\n5652.37　kane〈硬貨は dzeni〉\n5652.81　dzeni〈硬貨の時は 主として〉\n5656.56　オアシ〈古〉\n5657.78　ゼネ〈多〉\n5658.01　オカネ〈新〉\n5659.46　オカネ -- 普通の言い方\n　　　　ぜに -- 昔多く使用した。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04472.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04472",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04472.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5661.68",
+      "5663.01",
+      "5663.64",
+      "5665.46",
+      "5665.89",
+      "5666.22",
+      "5666.85",
+      "5667.24",
+      "5667.41",
+      "5667.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-73\n質問番号　地図番号　15/\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (23)\n項目名　銭 090\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈〉［］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5661.68　dzemi　〈少ない場合〉, kane 〈多額の場合〉\n5663.01　oaji　〈店で使うことは〉, dzemi 〈子〉\n5663.64　kane 〈硬貨を dzemi という〉\n5665.46　ゼネ〈古〉\n5665.89　ゼニ〈古〉\n5666.22　ゼニ〈児〉\n5666.85　ゼニ〈古〉\n5667.24　ゼネ〈古〉\n5667.41　オカネ〈古〉\n5667.77　dzene",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04473.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04473",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04473.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5671.00",
+      "5671.36",
+      "5671.38",
+      "5673.78",
+      "5674.59",
+      "5675.87",
+      "5676.10",
+      "5676.28",
+      "5676.84"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-74\n質問番号　地図番号　15/\n項目名　銭　090\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]　(24)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は敬称にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\ndzeni　<小わしのは>　kane　<銀行へ入れたり出したりするば>\ndzeni　<主として硬貨>　kane　okane\ndzeni　<希>　okane\n[dzeni]\nゼネ　<多>\nゼネ　普通\norkane　<総称><小額の硬貨は ze'ni>\ndzeni　(総称の意も、硬貨の意もあり)\nゼネ　...<普><うは特に多い>、ザク<硬貨をす>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04474.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04474",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04474.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5677.28",
+      "5677.60",
+      "5677.85",
+      "5678.33",
+      "5678.59",
+      "5679.86",
+      "5680.34",
+      "5683.77"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧 44-75\n質問番号　地図番号　151\n項目名　銭 090\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(25)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5677.28　ゼニ　〈硬貨〉，サツ〈紙幣〉\n5677.60　オカネ〈普通〉　硬貨はゼニ。\n5677.85　カネ〈物を買う時に〉，ゼニ〈今実際使う〉\n5678.33　オカネ〈昔〉\n5678.59　zeni〈くも〉\n5679.86　zeni …（荒） zene\n5680.34　okane ….〈ze'ne はコインのこと〉\n「南田コトバの研究」には　ゼネ（お金）とある。\n5683.77　ゼニ……〈古〉　カネ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04475.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04475",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04475.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5684.26",
+      "5686.67",
+      "5687.32",
+      "5687.60",
+      "5687.86",
+      "5688.01",
+      "5688.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-76\n質問番号 地図番号 151\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (26)\n項目名 銭 090\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n表見出し: 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n handwritten notes:\n[dzenj] … <kaneともいうかこの方をふつうに使う>\nゼニ　＜子＞ , カネ ＜普通＞\nゼニ　＜普通＞　カネ\nゼニ　＜昔＞\nゼニ　＜昔＞（・・・）\nオアシ　＜客のいる時＞（丁寧な感じらしい）\nオカネ　＜今、非常に言い易い＞\nゼニ　＜店員に対して＞（但し小銭にのみ 札でない）\nゼニ … 普通　　カネ … 金額のまとまっている時\nゼニ　＜右＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04476.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04476",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04476.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5688.86",
+      "5690.12",
+      "5696.13",
+      "5696.54",
+      "5696.68",
+      "5697.24",
+      "5697.53",
+      "5698.19",
+      "5698.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-77\n質問番号 地図番号 151\n項目名 銭 090\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (27)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\n5688.86　オカネ…〈一般的〉、ぜに…〈古〉\n5690.12　dzeni…〈小金〉, kane…〈多い時〉\n5696.13　オカネ…(古) 硬貨 ぜに (紙幣 サツ)\n5696.54　dze'ne 〈古〉\n5696.68　dze'pi 〈昔からのことは〉\n5697.24　(古) ぜネ\n5697.53　dzene 〈古〉\n5698.19　dze?ni 〈古〉〈主として硬貨〉\n5698.30　*dze'ne (はじめ [dze'ni] と言ったが [dze'ne] と訂正。)\n（手書き注記、ローマ字表記や語義注記多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04477.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04477",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04477.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5698.69",
+      "5698.91",
+      "5699.25",
+      "5699.42",
+      "5699.89",
+      "5700.28",
+      "5700.32",
+      "5700.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-78\n質問番号　地図番号　151\n項目名　銭\n(A) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ　(28)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）［　］は厳密にする。\n\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n5698.69    okane    ＜今の子供の使うことば＞    oafi\n5698.91    dzeni   ＜子供のことば＞\n5699.25    kane-   [zeni] 硬貨\nokane-    [satsu] 紙幣\n5699.42    zeni   ＜有力＞\noafi  （自然 会話に〜来た）\n5699.89    zene   ＜右＞    kane\n5700.28    dzeni  (satsum 紙幣)．硬貨だけをさす形（はない）\n5700.32    dzeni  ＜紙幣をサツという＞\n5700.96    kane   ＜同上＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04478.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04478",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04478.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5701.73",
+      "5702.07",
+      "5702.52",
+      "5703.03",
+      "5703.19",
+      "5703.70",
+      "5710.29",
+      "5710.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-79\n質問番号 地図番号 151\n項目名 銭 090\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (29)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\ndzeni 〈satsui は紙幣〉\nokane, dzeni 〈satsui は紙幣〉\ndzeni 〈satsui は紙幣。硬貨は金貨銅貨のようにいう〉\ndzeni （紙幣を satsui、硬貨を ginka、do:ka という）\ndzeni ・・・ 紙幣 satsui\ndze ne 〈古〉\ndzeni ・・・ satsui 紙幣\nゼニ 〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04479.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04479",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04479.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5711.18",
+      "5712.17",
+      "5712.70",
+      "5712.88",
+      "5713.65",
+      "5714.10",
+      "5720.34",
+      "5721.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-80\n質問番号　地図番号　151\n項目名　銭\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ , ]は厳密にする。\n\n表ヘッダ: 地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C　残した語形とその注]\n\n5711.18　dzeni … <satsui は紙幣をいう>\n5712.17　dzeni … <紙幣をサツ、硬貨をその度に よって 金貨、銅貨など言う。>\n5712.70　okane … <多> [oasi?]\n5712.88　dzeni … 紙幣は satsui\n5713.65　kane　同上\n5714.10　dzeni　同上\n5720.34　ゼニ、カネ … 小銭の時はゼニ、多額の時はカネという 傾向あり。\n5721.26　dzeni … (サツは紙幣のこと)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04480.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04480",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04480.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5721.27",
+      "5721.77",
+      "5723.02",
+      "5732.13",
+      "5740.43",
+      "5741.25",
+      "5741.66",
+      "5750.30",
+      "5751.78"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-81\n質問番号　地図番号　15/\n項目名　銭　090\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (31)\n地點番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5721.27: kane ... 紙幣 (satsu) 硬貨 (これをえすものはない)\n5721.77: kane ... satsu は紙幣。硬貨は金貨、銀貨のようにいう。\n5723.02: dzeni (紙幣はサツという)\n5732.13: dzeni <こまかいお金の時に使う>\n5740.43: ゼニ <古>\n5741.25: zeni <古>\n5741.66: zepi <古>\n5750.30: ゼニ <古からの言い方で、現在も使う>\n5751.78: oaji, z.../ 小額の時。昔ゼニ、今はオカネが普通。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04481.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04481",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04481.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5751.89",
+      "5752.32",
+      "5752.94",
+      "5760.57",
+      "5770.57",
+      "5782.25",
+      "5782.79",
+      "5782.94"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-82\n質問番号　地図番号　15/\n項目名　銭　090\n(A)　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（32）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）[　]は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n5751.89　zeni　〈右〉　　　okane\n5752.32　dzeni　〈この地方、紙幣は含まない〉　　　kane\n5752.94　zeni　〈右〉　　　okane\n5760.57　[sadziu] …　紙幣、[dzeni] … （貨幣）\n5770.57　oaji　〈総称〉　〈硬貨は dzeni〉\n5782.25　dzeni　〈右〉　　　okane\n5782.79　zene　〈右〉　　　kane\n5782.94　okane（取り消し） , oaji 〈農家の方では〉, ze'ni　〈子供がいる。段々少なくなる〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04482.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04482",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04482.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5791.23",
+      "5792.02",
+      "5792.18",
+      "5792.62",
+      "6287.71",
+      "6296.27",
+      "6338.99",
+      "6348.77",
+      "6349.23",
+      "6349.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-83\n質問番号 地図番号 151\n項目名 銭 090\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (33)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n(0) kane ... 硬貨は zene\n紙幣は satsu という\nze'ni ぜに どはでく 狭いe\n同 上 ka'ne\n[dzeni] <古> ... 被調査者の妹の助言。\nzen (いくらか 口蓋化)\nzen (kaneともいうがこちらが普通)\nzeni ゼニ <紙幣をサッという>\n<古> ゼニ\nゼニ <経幣をサッという>\nゼリ <古> <紙幣は カミノゼニ>\n硬貨は カネノゼニ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04483.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04483",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04483.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6376.33",
+      "6383.77",
+      "6384.25",
+      "6395.61",
+      "6401.89",
+      "6404.83",
+      "6406.77",
+      "6406.92",
+      "6408.88",
+      "6409.00"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-84\n質問番号 地図番号 151\n項目名 銭 090\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (34)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nzeni 〈紙幣 硬貨〉 kami no zeni do:sen\ndze'ni 〈古〉 o'kane\ndze'ni 〈古〉 kane\nde ni; dende 〈?〉 [zeni, okane 〈?〉]\nゼネ 〈紙幣＝サチ, 銅貨＝ドーセン, 銀貨＝ギンクワ〉\nジェニ 硬貨, 紙幣 共に使う. サツは紙幣のみ.\ndzeni (ジェニより ゼニに聞えた)\nぜに 〈サツは 紙幣〉\nゼニ 〈古〉\nゼネ 〈古〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04484.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04484",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04484.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6409.35",
+      "6409.72",
+      "6410.77",
+      "6412.48",
+      "6413.76",
+      "6419.50",
+      "6421.26",
+      "6422.93",
+      "6424.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-85\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (35)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）［ ］は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nカネ... ＜1000円ぐらい以上＞ ＜10円ぐらいは コゼニ＞\nゼニ... ＜100円ぐらい＞\nゼニ ＜古＞\nゼネ... ＜紙幣は サチ＞\nゼネ - ＜紙幣 = シヘ、サチ、ガミ＞\nジェネ... 硬貨 紙幣とも。紙幣のみは フダという。\nゼニ ＜右＞　オカネ\nガネ ＜エンサチは 札＞\nゼネ ＜右＞、サチ ＜数＞\nokane dei ＜今は オカネという人が多くなった＞（代の意味）　zeni",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04485.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04485",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04485.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6425.41",
+      "6426.04",
+      "6429.15",
+      "6429.61",
+      "6437.94",
+      "6439.01",
+      "6439.17",
+      "6440.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-86\n質問番号 地図番号 151\n項目名 銭 090\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (36)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )( )[ ]は厳密にする。\n地点番号  A語形とその注記 [B・C除いた語形とその注]  A注のない語形 [E・C 残した語形とその注]\n6425.41  ゼンゼ? … <子> , ゼニ … <普>\n6426.04  dzeni 〈紙幣の方は ensatsu 〉\n6429.15  カネ, ゼニ 〈古〉\n(注) 〈紙幣はサツ, 硬貨はキンカ, ギンカ, ドオカ。ゼニは幼時の言い方が今でも稀に用う〉\n6429.61  ゼニ 〈右希〉\n6437.94  ゼニ 〈右〉\n6439.01  ジェニ 〈右〉\n6439.17  dzeːni 〈昔〉\n6440.25  ゼニ 〈紙幣は サツ〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04486.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04486",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04486.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6443.61",
+      "6446.69",
+      "6447.84",
+      "6452.98",
+      "6457.18",
+      "6457.45",
+      "6457.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-87\n質問番号　地図番号　151\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (37)\n項目名　銭　090\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6443.61　ゼニ　…　係くは　紙幣　キンサツ　硬貨　ゼニ\n6446.69　オカネ　…　〈普〉　ゼニ\n6447.84　オカネ　〈硬貨〉　一ゼニ　紙幣一シエ(新)、サツ〉\n6452.98　ゼニ　…　2/e　ジェニ―ということもある　或は ze か？\n6457.18　チンチン　〈チ〉\n6457.45　ゼニ　〈右〉〈紙幣はサツ〉\n6457.51　o'kane　〈札は kinsatsu　後帯は issendo':ka〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04487.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04487",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04487.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6458.08",
+      "6458.91",
+      "6459.29",
+      "6459.52",
+      "6460.10",
+      "6463.73",
+      "6464.90",
+      "6469.77",
+      "6470.11",
+      "6472.05"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-88\n質問番号　地図番号　151\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (38)\n項目名　銭　090\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nチンチン　〈右〉〈子〉　ゼニ\nジェニ　〈右〉　カネ\nゼニ　〈左〉　（表記あり）\nゼニ　〈右〉　zeni\nbita　〈右〉　zeni\nぜーぜ　子供に対して言う　ぜに\nぜに　〈上〉　デニ\nぜに　（紙幣はザツ）\nze?ni　〈右〉　o'kane\nzepenè　dzg と似た音　SAT",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04488.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04488",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04488.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6473.04",
+      "6476.17",
+      "6482.26",
+      "6484.43",
+      "6487.66",
+      "6489.01",
+      "6491.49",
+      "6500.22"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-89\n資問番号　地図番号　151\n項目名　銭　090\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (39)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞( )[ ]は厳密にする。\n（表見出し） 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6473.04　ゼニー　(deniに近かったようだ)　　カネ、オカネ\n6476.17　ゼニ＝　＜古＞\n6482.26　子　ぜんぜん(?)\n6484.43　ゼニ　＜紙幣はサク、他にギンワ、ドオフ(?)といって○○したものである。＞\n6487.66　ゼニ　紙幣はサク、硬貨はキンコ。\n6489.01　ゼニ　＜古＞\n6491.49　zeni　（昔はこういったと言うが、今も使わ）ないわけではないらしい。　okane\n6500.22　ゼネ　＜右＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04489.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04489",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04489.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6500.83",
+      "6505.58",
+      "6505.60",
+      "6507.13",
+      "6507.48",
+      "6507.72",
+      "6508.06"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-90\n質問番号　地図番号　151\n項目名　銭　090\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　(40)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )は厳密にする。\n\n地点番号　A語形とその注記・[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n6500.83　ぜに　〈やや古〉　オカネ\n6505.58　〈総称〉ぜに　〈硬貨だけれん使うこともある〉　〈“　”〉カネ\n6505.60　zjeni　〈多〉　kane\n6507.13　ぜに　〈総称であり、又、紙幣に対して銅貨でもある。紙幣はサツという。〉\n6507.48　カネ　〈総称〉〈銅貨をぜに、紙幣をサツという。〉\n6507.72　カネ　〈総称〉〈同上〉\n6508.06　オカネ　[総称]　〈サツは紙幣のこと〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04490.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04490",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04490.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6508.36",
+      "6508.74",
+      "6511.85",
+      "6512.09",
+      "6516.15",
+      "6517.65",
+      "6517.70"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-91\n質問番号　地図番号　15/\n項目名　銭　090\n(A) 普通注記　ページ (41)\n[B] 除いた共通語　[C] 除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )［ ］は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nゼニ　〈ひっくるめている〉\nゼニ　〈総称〉　　オカネ\nzeni　〈子は殆ど気がつかない位の変化〉\nzēN　〈古〉　okane\nゼニ　〈総称であり、又、銅貨などの意でもある〉\nオゼニ　〈丁寧〉　（紙幣はオサツという。）\nゼゼ　〈子〉\nゼニ＝　〈昔は札を除く、穴のあいた金を言った〉\n\n（手書き注記・ローマ字表記あり：okane, okanè 等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04491.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04491",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04491.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6518.30",
+      "6518.87",
+      "6519.43",
+      "6520.50",
+      "6520.94",
+      "6521.17",
+      "6522.03",
+      "6522.79",
+      "6523.54"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞（　）［　］は厳密にする。 日本言語地図資料用紙 注記一覧 44-92 質問番号 地図番号 151 項目名 銭 090 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (42) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] ゼニ（紙幣はサツという） ゼニ（総称であり、又、硬貨の意でもある）　カネ　紙幣はサツという。 ぜに（総称；硬貨） デンテラ〈古、幼〉 ぜに〈古〉 カネ　最近 じぇに（総称）（紙幣はサツという） じぇに　主に硬貨をいう。 dze dze〈子〉 dzeni",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04492.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04492",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04492.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6526.08",
+      "6526.98",
+      "6527.44",
+      "6527.73",
+      "6531.53",
+      "6532.93",
+      "6534.41",
+      "6537.06"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-93\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n（右上欄）項目名　銭　090　地図番号　15/　ページ（43）\n地点番号　A 語形とその注記［B・C 除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n6526.08　オカネ　〈銭〉〈硬貨はゼニ、紙幣はサツ〉\n6526.98　サツ　〈紙幣〉、ゼニ〈硬貨〉\n6527.44　dzeṗi　〈この方がより普通〉\n6527.73　zeni　〈硬貨をさす。昔は紙幣が全り…　kane〉\n6531.53　テニ　〈古〉\n6532.93　ぜニ　今…\n6534.41　okane　〈硬貨をzeni、紙幣をsatsuという〉\n6537.06　dzeṗi　〈主として硬貨、昔（子供時代）はdzeṗiということばだった。〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04493.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04493",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04493.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6538.02",
+      "6538.46",
+      "6539.12",
+      "6539.78",
+      "6540.52",
+      "6540.79",
+      "6541.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-94\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞( )( )[ ]は厳密にする。\n質問番号 地図番号 151\n項目名 銭 090\nA 普通注記 ページ (44)\n[B 除いた共通語]\n[C 除いた特殊語]\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n6538.02  dzeni  ＜主として硬貨＞  kane\n6538.46  kane  ＜紙幣、硬貨 両方を含める時は dzeniとはいわない。dzeniは主として硬貨だと思う。＞\n6539.12  dzeni  ＜小額のもの＞\n6539.78  kane  ＜大きいもの＞\n        dzeni  ＜小さい、主として硬貨＞\n6540.52  ゼニ (このぜ音は de に近い)\n6540.79  ゼニ  ＜古＞\n6541.27  テニ  [カネ]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04494.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04494",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04494.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6542.27",
+      "6542.32",
+      "6542.71",
+      "6543.56",
+      "6545.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-95 質問番号 地図番号 151 項目名 銭 090 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (45) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n\n6542.27 ゼニ — 紙幣の意には余り用いられないという答を得た。その場合は紙幣はあえてオサツというわけである。\n\nオカネ 〈やや幼〉\n\n6542.32 テニ, ゼニ — 紙幣の意を含む場合が多いが含む場合もある。\n\n6542.71 depi 〈oafi は女, 古?〉 (タシカ)\n\n6543.56 ジェニ 〈右〉 ごく老人に…（記載不明瞭）\n\n6545.88 okane 〈紙幣は satsum、硬貨は dzeni〉 ふつうはこのいづれかを用い、総称としては余り用いないが OKane というより仕方がない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04495.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04495",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04495.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6544.26",
+      "6547.67",
+      "6548.02",
+      "6549.03",
+      "6551.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-96\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(46)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nzen　<zeniとはいけない>\ndzepi　...　<小金を指すことが多い。>\ndzepi　...　<具体的な金（銭幣、硬貨）で多少少ない数のもの。>\nkane　...　<金額として考えた抽象的なもので、大きいもの。>\ndzeji　...　<主として硬貨で少額の場合>\nkane　...　?<共> <主として多額の場合。妙かたい言い方のような気がする>\noaji　<昔> <硬貨は dzeji、札は satsu>\n\n(手書きの注記、その他の行書き)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04496.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04496",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04496.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6552.71",
+      "6552.88",
+      "6552.90",
+      "6553.22",
+      "6553.52",
+      "6554.45",
+      "6559.46"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　44-97　質問番号　地図番号　(151)　項目名　銭　090　A　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　(47)\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞〈〉（　）（　）［　］は厳密にする。\n表見出し：地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\nゼニ　〈硬貨も紙幣も。〉　紙幣に限るのはサツ\nzeni　〈oasiと半々くらい使われるか。被調査者はzeniの方が多く使う〉\nzeze　〈？〉　「ゼゼ」は丁種など厚いものが使うので言ってはならぬ。オカネと言えど (オカネ) Okane\nzeni　(別音は、この語に限るようで「桐金」や風?)　(注：[]については参照。)\nzeje　〈子供〉　zeni\ndzeɲi　〈昔はこの方が多かった。〉　okane\nkane　〈zeniは硬貨のことと思う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04497.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04497",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04497.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6562.22",
+      "6562.48",
+      "6564.51",
+      "6569.12",
+      "6570.89",
+      "6572.22",
+      "6573.71",
+      "6575.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 44-98\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(48)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6562.22　ゼニ　＜右＞\n6562.48　ゼニ　＜下＞＜これは下品で、私は滅多に使ったことがない＞\n6564.51　zeni　＜ふつう＞\n6569.12　zeni　＜紙幣を zeni ともいうか、特に言う時は satsui＞\n6570.89　チンチ　＜子供に向って使う＞\n6572.22　ゼニ　＜硬貨、紙幣をカミサツという＞\n6573.71　dzeɲi　＜札のお金を berasatsu と言った＞\n6575.17　ゼニ　（c.f. 055）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04498.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04498",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04498.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6576.32",
+      "6576.56",
+      "6577.13",
+      "6577.71",
+      "6580.06",
+      "6580.66",
+      "6583.41",
+      "6583.45",
+      "6583.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-01 質問番号 地図番号 15/ 項目名 銭 A) 普通注記 B) 除いた共通語 C) 除いた特殊語 ページ (49) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）［ ］は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6576.32 zeni <少数>, kane <多数> 6576.56 dzeny ---- 丁寧な発音は dzeni 6577.13 dzepi <子>, okane <一般> 6577.71 dZEN (古) dzeni 6580.06 チンチ <子> ぜーに 6580.66 同上 ぜー 6583.41 tintfin? dzepi 6583.45 dede <普通> <テテクランシ> (銭くれば) depi <共> 6583.93 zeni 舌先を上にあげて、dの位置での発音",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04501.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04501",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04501.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "6584.90",
+      "6585.25",
+      "6585.83",
+      "6591.57",
+      "6595.32",
+      "6600.53",
+      "6600.97",
+      "6601.25",
+      "6601.93",
+      "6609.05"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-02\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)［　］は厳密にする。\n質問番号　地図番号　151\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (50)\n項目名　銭 090\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き一覧:\n6584.90  zeni ... ぜは舌先を上にあげての z\n6585.25  カネ 〈近畿はカネの方が多い〉  ゼニ\n6585.83  zen, *zeni ...(これが訂正を重ねた最後の形)\n6591.57  チンチ 〈チ〉  ゼニ\n6595.32  ジェニ 〈昔多かった〉, オカネ〈今〉\n6600.53  kane 〈硬貨を dzeni という〉\n6600.97  okane 〈多数の場合 使うが多い〉  dzeni\n6601.25  okane 〈硬貨を dzeni という〉\n6601.93  dzeni 〈希〉\n6609.05  ぜネ  古",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04502.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04502",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04502.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "6613.77",
+      "6617.75",
+      "6618.25",
+      "6618.46",
+      "6619.76",
+      "6620.20",
+      "6626.06",
+      "6626.30"
+    ],
+    "other_text": "日本音語地図資料用紙 注記一覧 45-03\n質問番号 地図番号 151\n項目名 銭 090\nA) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (51)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き欄:\n6613.77　ゼニ　〈古〉　　　　オカネ\n6617.75　ゼネ　（左）\n6618.25　- okane　〈音は硬貨は dzeni, 紙幣は satsu と言った〉\n6618.46　ゼネ　（右）　　　オカネ\n6619.76　zeni　紙幣も含めるが、をとして硬貨に多く使う。\n6620.20　ゼニ　〈総称〉\n6626.06　okane　〈硬貨のことは dzeniと言う〉\n6626.30　okane　〈貨幣は zene, 紙幣は satsu〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04503.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04503",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04503.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "6626.71",
+      "6630.82",
+      "6631.69",
+      "6634.32",
+      "6635.20",
+      "6639.79",
+      "6640.34",
+      "6640.76",
+      "6642.51"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-04\n質問番号 地図番号 151\n項目名 銭 090\nA) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語 (52)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく括( )[ ]は厳密にする。\n\n地点番号　A. 語形とその注記 [B・C除いた語形とその注]\n6626.71  dzeni 〈えとして硬貨をさす〉\n6630.82  kane ・・・ 紙幣は satsum, 硬貨は zeni.\n6631.69  zeni ・・・ 普通。(kane ともいうか)\n6634.32  zeni ・・・ ぜを含て z e といるのではない\n6635.20  okane ・・・ zeni は硬貨だけ。\n6639.79  kane 〈紙幣は satsum, 硬貨は zeni〉\n6640.34  dzepi 〈方言〉, kane 〈多額〉\n6640.76  kane 〈dzeniよりも多額の金をさす〉 dzepi\n6642.51  zeni 最も多く使う\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04504.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04504",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04504.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "6650.12",
+      "6650.70",
+      "6655.51",
+      "6655.87",
+      "6657.96",
+      "6677.41",
+      "6677.70",
+      "6697.39",
+      "6697.59",
+      "6698.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-05\n質問番号　地図番号　15\n項目名　銭　090\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ（53）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞( ) [ ] は厳密にする。\n\n地点番号　A語形とその注記〔B・C除いた語形とその注〕　A注のない語形〔B・C 残した語形とその注〕\n6650.12    okane    zeni は硬貨だけ\n6650.70    zeni 〈右〉, kane 〈古くは多額の金をさす〉\n6655.51    zene 〈多〉\n6655.87    zene 〈多〉\n6657.96    oaji　総称。札は satsu, 硬貨は dzeni\n6677.41    〈紙幣は satsu, 硬貨は dzeni〉\n6677.70    dzipni 〈昔の女案?〉\n6697.39    dzepikko 〈愛称的〉\n6697.59    dzene 〈僅かな palatali あり〉\n6698.20    dzeni 〈右〉　okane, oaji",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04505.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04505",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04505.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "6702.71",
+      "7218.58",
+      "7238.12",
+      "7248.15",
+      "7249.35",
+      "7269.51",
+      "7284.16",
+      "7301.67",
+      "7303.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-06\n► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜　＞(　)［　］は厳密にする。\n（上部右の枠）質問番号　地図番号　151　項目名　銭　090　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (54)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6702.71    dzeɲi　＜多＞　　　　　　　　　　　　　　　oafi\n7218.58    zeüzen　＜児童塔＞　　　　　　　　　　　　ze'ni\n7238.12    zen …　ねと見る\n7248.15    dzen …　多　　　　　　　　　　　　　　　kane\n7249.35    ゼン … zen（zeはzeに近い）\n7269.51    kane … 硬貨は dzeN\n7284.16    dzen …（29と蓋化はわずか、接尾は\n　　　　　れがら知らない。又、れとNの\n　　　　　二重拍音かも知れない。）\n7301.67    ze'ni … をアクセントと認む。\n7303.37    zeni …　同上　SAT",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04506.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04506",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04506.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "7403.21",
+      "7320.95",
+      "7321.46",
+      "7324.24",
+      "7329.57",
+      "7340.24",
+      "7341.42",
+      "7341.47"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-07 質問番号 地図番号 151 項目名 銭 090 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (55) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >( )[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 7403.21  zeni 〈下〉  okane 7320.95  zen （筆写難読） 7321.46  zeː e zeːn 〈子供に対して〉 3e?n 7324.24  zeni （zeでなかった） 7329.57  zeŋi 下  kane 7340.24  zen-ze n （zenに近い響き） 7341.42  dʒen  その子音はやや破裂を伴ったまさつ音。 7341.47  zen … （ゼは いくらか口蓋化している）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04507.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04507",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04507.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "7350.96",
+      "7356.70",
+      "7361.82",
+      "7362.42",
+      "7383.98",
+      "7385.84",
+      "7386.56"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-08\n質問番号　地図番号　151\n項目名　銭　090\nA) 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　ページ (56)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7350.96　zen (zeは 軽く口蓋化。 ze か)\n7356.70　zeˈni <紙幣 eˈnsatsu 又は kamisatsu, 硬貨は zeˈni <- 総称も。>\n7361.82　dzeˈn (Nではない)\n7362.42　ジェン <古>\n7383.98　ジェニ -> <やや古、今でもよく用いる>　カネ\n7385.84　zenzen <小さい子供に対して言う>　zeni\n7386.56　zen ... z -> z とその中間音。 母音、半母音、s, r などの ...\n\n(下部に小書きの注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04508.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04508",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04508.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "7393.62",
+      "7394.85",
+      "7395.09",
+      "7395.88",
+      "7401.60",
+      "7402.42",
+      "7404.12"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙　注記一覧　45-09\n質問番号　地図番号　151　A 普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（57）\n項目名　銭　090\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7393.62　zen　どちらでも同じ　(zenの基?)\n7394.85　zeni?　〈紙帯 は ensatsu という。〉　総称は zeni。\n7395.09　zeni　(やや口蓋化して聞える)\n7395.88　(手書き注記、不明瞭)\n7401.60　zenze　〈子〉〈絵帯を ensatsu〈紐〉〉 zeji ということもある。\n7402.42　zeni　(子供は zeni をだけ言うらしい)\n7404.12　zeni　〈deni という人もある〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04509.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04509",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04509.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "7430.15",
+      "7430.80",
+      "7431.08",
+      "7440.72",
+      "7461.23",
+      "7461.77",
+      "7500.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-10\n質問番号　地図番号\n項目名　銭　090\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n地点番号　A　話形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\nokane　＜念の入れえいすで普通にはいわない＞　zeni\nzenze　＜3＞　同上\nzeni　＜本当は硬貨なのだろうか？ 紙幣も含めていう。＞\nozenze　＜3＞　zeni\nzeni　＜夕＞　okane\ndze'ni　da位置のz.\nチンチ　＜3＞　オカネ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04510.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04510",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04510.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "7501.14",
+      "7502.91",
+      "7503.48",
+      "7513.69",
+      "7522.94",
+      "7523.05",
+      "7523.27",
+      "7533.11",
+      "7659.53",
+      "8301.19"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-11\n質問番号　地図番号　151\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(59)\n項目名　銭　090\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n表ヘッダ:\nA 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n手書き注記（各行、地点番号欄を除く）:\nチンチ　〈3〉　　　オカネ\nチンチ　〈3〉　　　ゼニ\nze'ni　〈3〉　　　kane\nチンチ　〈3〉　　　ゼニ\nゼニ　〈硬貨を主としてます。　紙幣のみをさすのはサツ。〉\nチンチ　〈3〉　　　ゼニ\n同上　　　　　　ゼニ\nデニ　（ゼニの転訛）\n? kane\nジェン　（古くから今までの基ぎ語）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04511.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04511",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04511.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "8305.40",
+      "8312.75",
+      "8325.56",
+      "8345.24",
+      "8355.62",
+      "8373.43",
+      "0248.00",
+      "0257.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-12\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(60) ページ\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n8305.40    zen　うし口蓄化する(?)\n8312.75    zen　[稀]    okane\n8325.56    zeni　(zeni がも知れない、口蓄化がよく わからない。)\n8345.24    zeni 或いは zen\n8355.62    zeni　全然口蓄化しない。\n8373.43    zen　(タカ)　(窓の大きい所 kane)\n0248.00    zeni　〈約〉\n0257.12    kani　〈80才以上は dzin という〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04512.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04512",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04512.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "0716.46",
+      "0776.88",
+      "1706.82",
+      "1736.84",
+      "1739.85",
+      "1744.60",
+      "1755.53",
+      "1756.32",
+      "1942.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-13\n質問番号 地図番号 151\n項目名 銭 090\nA 普通注記  (B 除いた共通語) (C 除いた特殊語)  ページ ( )\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞( )[ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A注のない語形 [B・C 残した語形とその注]\n0716.46    オカネ・・・(上)                       ゼンコ, オワレ\n0776.88    kane ・・・〈綴〉                       zenko, zeni\n1706.82    オカネ・・・〈雅〉                      ゼンコ\n1736.84    オカネ・・・〈上〉                      ゼニ, カネ\n1739.85    okane・・・〈上品〉                     zeni 〈普通 使〉\n\n（欄外）A注記 ← 1942.24\n1744.60    カネ\n1755.53    オカネ\n1756.32    カネ・・・〈新〉, オカネ・・・〈最も改まった語〉\n\n（下部に手書き注記、破線と矢印、読み取り困難な走り書き等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04513.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04513",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04513.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "1763.60",
+      "1786.13",
+      "1793.14",
+      "1942.03",
+      "2700.48",
+      "2750.44",
+      "2800.52",
+      "2812.96",
+      "6329.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-14\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n質問番号　地図番号　151\n項目名　銭　090\nA　普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (2)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n1763.60　オカネ・・・〈上品な俗〉　ゼンコ\n1786.13　オカネ・・・〈改まった口〉　ゼンコ\n1793.14　オカネ・・・〈上〉（kはgに近い）　ゼニ\n1942.03　okane・・・〈今〉　zeni・・・〈子供の時〉\n2700.48　オカネ　〈共〉　センコ\n2750.44　（横線で抹消）\n2800.52　オカネ・・・〈上〉〈相手にf3?〉　ゼンコ・・・〈小ゼニのこと〉\n2812.96　kane・・・〈改まった〉　zenko, zeni\n6329.43　（下方で抹消）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04514.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04514",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04514.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "3757.32",
+      "3765.03",
+      "3777.86",
+      "3795.86",
+      "4609.07",
+      "4629.43",
+      "4637.20",
+      "4648.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-15 質問番号 地図番号 151 項目名 銭 090 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ (3)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\nA ← 3757.32 ダラー（5円、10円の硬貨）　　　ジェニー\nA ← 3765.03 シー（札）　　　　　　　　　　カネ・ジェニー（「小銭に」）\n3777.86 オアシ〈古、掌〉　　　　　　　　　ジェニッコ、ゼンコ、カネ\nA ← 3795.86 ジェニー（全島貨のし字）　　　　カネ（全属貨と...）\n46 09.07 oasi〈余り言わない〉　　　　　　　{ 3eno〈普通に使う語形〉, kane }\n46 29.43 kane〈新〉　　　　　　　　　　　　zen, kane\n46 37.20 okane〈共〉　　　　　　　　　　　kane, zen\n46 48.42 kane〈新〉　　　　　　　　　　　　{zen, dzen〈希〉, ...}\n(手書き注記や破線で囲んだ補足説明などあり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04515.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04515",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04515.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "4648.59",
+      "4653.47",
+      "4657.64",
+      "4657.88",
+      "4665.87",
+      "4666.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-16\n質問番号　地図番号　15/\n項目名　銭　090\nA　普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (4)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4648.59    kane 〈新〉    zene 〈古くから用い、現在も使う。〉\n4653.47    okane 〈共〉   ZEN\n4657.64    zeni 〈共〉    zen\n4657.88    kane 〈新〉    初めzeniと云い、＊ZEN・・・後で訂正した。ZENを多く用いる。\n4665.87    zeni（改まった言い方か）    -> ZEN\n4666.17    okane 〈上〉    kane, zeni, ZEN\n（下部に更なる手書き注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04516.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04516",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04516.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "4666.51",
+      "4667.33",
+      "4672.19",
+      "4675.62",
+      "4676.60",
+      "4676.67",
+      "4685.72",
+      "4686.02",
+      "4687.37",
+      "4689.12"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-17\n質問番号 地図番号 151\n項目名 銭 090\nA 普通注記 (B) 除いた共通語 (C) 除いた特殊語 ページ (5)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく〉〈〉[ ]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n4666.51 okane <新>    * zeni <く右> (初め zeni と えん後, zen と訂正)\n4667.33 zeni (新)    ジェン(子), ジェンジェ (子)\n4672.19 oaji <共X希><家庭内でも使うことがある>    zen\n4675.62 zepi <上>    zen\n4676.60 kane <新,希>, okane <新,希,上>    zen\n4676.67 zeni <新><希>    zen\n4685.72 kane <共>    zen\n4686.02 okane (上)    kane を採録した\n4687.37 zeni <共>    dzeni\n4689.12 satsu (取消線)\n\nA注記 <-",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04517.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04517",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04517.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "4695.87",
+      "4696.82",
+      "4699.42",
+      "4700.78",
+      "4710.18",
+      "4711.82",
+      "4713.60",
+      "4715.98"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく＞＜( )[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 45-18 質問番号 地図番号 151 項目名 銭 090 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (6) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] kane <共> やや共通語的であるか。普通の時も多く用いる。 zeni (「外に言い方はありませんか」に対する反応) <古く多く用いた> zene (これを多く使う) 続響はsatsu mu? zeni kane <あまり使わない> zeni <これを多く使う> dzeni (硬貨) kane ogane <上> zene <少数の場合> kane <多数> zeni <上> zeni <上> kane <新> 同上 dzeni zene dzeni",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04518.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04518",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04518.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "4733.91",
+      "4741.44",
+      "4742.43",
+      "4753.76",
+      "5527.89",
+      "5538.50",
+      "5568.92",
+      "5577.88"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-19 質問番号 地図番号 151 項目名 銭 090 A 普通注記 (B) 除いた共通語 (C) 除いた特殊語 ページ (7) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 4733.91 okane 総称、最近のことば * dzeni〈硬貨〉 4741.44 カネ（最近） 4742.43 N.R.（？） 4753.76 kane〈新〉 5527.89 okane〈新〉 5538.50 オカネ〈上〉 5568.92 〈共〉オカネ 5577.88 〈上〉オカネ  （注釈や手書きメモあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04519.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04519",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04519.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "5585.09",
+      "5587.02",
+      "5589.30",
+      "5595.89",
+      "5597.78",
+      "5598.53",
+      "5598.67",
+      "5605.70",
+      "5611.39",
+      "5611.81"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-20\n質問番号　地図番号　151\n項目名　銭　099\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語　ページ (8)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nokane 〈上〉　　 zen\n〈共〉 オカネ　　 ゼニ\n同上　　 ゼニ\n〈上〉 オカネ 〈上品なことば〉　　 カネ\n〈共〉 オカネ　　 ゼニ\n〈丁〉 オカネ　　 ゼニ、カネ\n〈丁〉 オカネ・・・〈総称〉　　 カネ・・・〈総称〉\nzeni 〈共〉　　 zen\nokane (新)　　 zen 〈古〉（現在はあまり使わぬといふ）\nOkane (共)(最初に答えん)　ZEN (..)\n\n（手書きの語形注記や小さなメモあり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04520.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04520",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04520.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "5612.22",
+      "5613.33",
+      "5613.53",
+      "5614.24",
+      "5615.28",
+      "5615.65",
+      "5615.78",
+      "5625.32",
+      "5625.91"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-21\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (9)\n• A・[B]・[C]ごとに別紙を使用する。\n• その中での情報は地点番号順に並べる。\n• 注記の< >( )[ ]は厳密にする。\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5612.22　[kane] (希)　zeni <多>\n5613.33　okane <新>　zepi <希>\n5613.53　kane <新>　zeni...<子> , zen\n5614.24　oafi <共,上>　zeni<友や家族の者に対して用いる>\n5615.28　okane <共>　zene\n5615.65　zepi <共>　zeN\n5615.78　kane <新>　zene\n5625.32　ぜ=　(希, 共)　ゼネ\n5625.91　okane <共><新>　zene, [zeni]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04521.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04521",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04521.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "5626.99",
+      "5629.98",
+      "5631.26",
+      "5631.75",
+      "5632.28",
+      "5633.81",
+      "5633.96",
+      "5635.65",
+      "5642.17",
+      "5642.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-22 質問番号 地図番号 151 項目名 銭 090 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (10)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n5626.99  カネ <新>    ぜに\n5629.98  オカネ <移>   ぜに <古>\n5631.26  kane <共>     dzeni\n5631.75  okane <影>    dzeni\n5632.28  okane <影,上> dzeni\n5633.81  okane <上>     dzeni\n5633.96  okane <上>     dzeni\n5635.65  okane <上> <移>  (手書き)\n5642.17  kane <共>     dzeni\n5642.67  okane <希,上>  dzeni",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04522.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04522",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04522.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "5643.33",
+      "5645.89",
+      "5646.71",
+      "5647.27",
+      "5651.45",
+      "5652.06",
+      "5652.37",
+      "5653.08",
+      "5653.60",
+      "5653.65"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-23\n質問番号 地図番号 151\n項目名 銭 090\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ ( / )\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5643.33    kane <銭>    dzeni <昔から>\n5645.89    モチアワセ <隠>  1地美しかないし 作のみゆえ 注記化。  ゼニ <古>, カネ\n5646.71    ゼニ <銭> , オアシ <女.子>    ゼネ <古> , ゼンセン <子>\n5647.27    オカネ <上>    カネ , ゼニ <古>\n5651.45    oafi <上>    kane\n5652.06    kane <上>    dzeni\n5652.37    oafi <上>\n5653.08    kane <共>    dzeni\n5653.60    okane <共>\n5653.65    kane <共>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04523.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04523",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04523.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "5658.01",
+      "5661.34",
+      "5662.78",
+      "5663.68",
+      "5664.51",
+      "5666.85",
+      "5667.24",
+      "5672.52",
+      "5672.75",
+      "5673.78"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-24\n質問番号　地図番号　151\n項目名　銭　090\nA　普通注記　ページ\n(B)　除いた共通語\n(C)　除いた特殊語\n（12）\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5658.01　ゼニ　<古>　　　　　　　　　　オカネ　<新>\n5661.34　okane　<上> <位かわい>　　　　dzeni\n5662.78　kane　<新>　　　　　　　　　　'\n5663.68　kane　<共>　　　　　　　　　　'\n5664.51　kane　<希>　　　　　　　　　　dzeni\n5666.85　オカネ　<対>　　　　　　　　　ゼニ　<古>\n5667.24　カネ　<妙>　　　　　　　　　　ゼネ　<古>\n5672.52　okane　<岩>　　　　　　　　　　dzeni\n5672.75　okane　<上>　　　　　　　　　　'\n5673.78　kane　<共>　　　　　　　　　　[dzeni]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04524.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04524",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04524.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_072.jpg",
+    "page_index": 72,
+    "location_numbers": [
+      "5675.87",
+      "5676.84",
+      "5681.47",
+      "5682.92",
+      "5684.11",
+      "5686.15",
+      "5686.31",
+      "5686.67",
+      "5687.32"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-25\n質問番号 地図番号 151\n項目名 銭 090\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (13)\n地 点 番 号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 [B・C 残した語形とその注]\n5675.87  オアシ --- 若い人のことば    ゼネ... 普通\n5676.84  カネ  <共×両方に使う>         ゼネ... <普> 子は特に多い\n                                サツ... <硬貨もさす>\n5681.47  kane  <共>                      dzeni\n5682.92  oafi  <上>\n5684.11  okane <勢>\n5686.15  orafi <上品>\n5686.31  dze'ni <形>                     dzēne\n5686.67  オアシ <稀>                     ゼニ <3>, カネ <普通>\n5687.32  オカネ <シャレテル> オアシ <地とみて 高尚な人>  ゼニ <普通>, カネ\n(下部手書き) ジニ語の質問によっての答",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04525.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04525",
+    "source_canvas_label": "73",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04525.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_073.jpg",
+    "page_index": 73,
+    "location_numbers": [
+      "5687.60",
+      "5688.01",
+      "5691.37",
+      "5694.82",
+      "5696.68",
+      "5697.24",
+      "5698.19",
+      "5699.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-26\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (14)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5687.60　オカネ　〈今〉　ゼニ　〈昔〉\n5688.01　オカネ　改まった時　ゼニ、ゼネー、普通　カネ...全額のまとまっているは\n5691.37　新... okane　dzeni\n5694.82　オカネ...［共］　ゼニ\n5696.68　kane 〈共〉　dzepi 〈昔からのことば〉\n5697.24　新）オカネ　古）ゼネ\n5698.19　oafi ... 〈新,俗に用〉, okane 〈節止〉 dzeni 〈古〉 〈主として硬貨〉\n5699.42　okane 〈波〉 zepi 〈有力〉 oaji（自然/会話にあてられ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04526.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04526",
+    "source_canvas_label": "74",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04526.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_074.jpg",
+    "page_index": 74,
+    "location_numbers": [
+      "5710.84",
+      "5711.85",
+      "5723.60",
+      "5750.30",
+      "5772.00",
+      "5780.57",
+      "5793.20",
+      "6377.65",
+      "6379.68",
+      "6408.88"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-27\n質問番号　地図番号　151\n項目名　銭　090\nA　普通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ　(15)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\nオカネ　〈衝〉\noafi　〈上〉\noafi　〈J. よく使う〉\nオカネ　〈衰〉\n(衝) ogane\noafj\nokane　〈衰〉\noaji　〈ていねい〉\nオカネ　〈教〉\nオカネ　〈今〉\nオカネ　〈新〉\n\n右欄（見える語例）: ぜに〈な〉　dzeni　dzene　ぜに〈古くからの言い方で今も使う〉　oaf, dzeni　dzeni, oaf(j)　zēni　ぜに　ぜに　ぜーに〈E〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04527.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04527",
+    "source_canvas_label": "75",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04527.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_075.jpg",
+    "page_index": 75,
+    "location_numbers": [
+      "6409.00",
+      "6409.72",
+      "6411.66",
+      "6418.13",
+      "6418.75",
+      "6421.82",
+      "6431.41",
+      "6439.17",
+      "6439.61",
+      "6448.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-28\n質問番号　地図番号　151\n項目名\n銭 090\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (15)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nカネ〈新〉\tぜに〈右〉\nオカネ〈新〉\tぜに〈右〉\nカネ〈約〉\tぜに\nオカネ〈共〉\tぜに\nオカネ〈英.希〉\tぜに\nokane〈上〉\tdzeni\nオカネ〈約〉\tぜに\nokane〈今〉\tdzeni〈音〉\nカネ〈少.希〉\tジェニ\nオカネ〈上〉\tぜに",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04528.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04528",
+    "source_canvas_label": "76",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04528.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_076.jpg",
+    "page_index": 76,
+    "location_numbers": [
+      "6448.61",
+      "6449.84",
+      "6455.31",
+      "6457.45",
+      "6458.40",
+      "6451.91",
+      "6459.52",
+      "6469.77",
+      "6476.13",
+      "6480.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-29\n質問番号　地図番号　151\nA 普通注記　ページ　(17)\n[B] 除いた共通語　[C] 除いた特殊語\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><( ) [ ] は厳密にする。\n項目名　銭　090\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6448.61　オカネ　〈外〉　ゼニ\n6449.84　オカネ　〈共〉　ゼニ\n6455.31　okane　〈外〉　dzeni\n6457.45　オカネ　〈外〉，カネ〈外〉　ゼニ　〈右〉〈紙幣はサツ〉\n6458.40　オカネ　〈外〉　ゼニ\n6451.91　カネ　〈外〉　ジェニ〈右〉\n6459.52　オカネ　〈外〉　ゼニ〈右〉\n6469.77　オカネ　〈共〉　ゼニ（紙幣はサツ）\n6476.13　オカネ　〈外〉　ゼニ\n6480.41　オカネ　〈外〉　ゼニ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04529.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04529",
+    "source_canvas_label": "77",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04529.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_077.jpg",
+    "page_index": 77,
+    "location_numbers": [
+      "5482.75",
+      "6486.93",
+      "6487.43",
+      "6489.81",
+      "6491.65",
+      "6494.21",
+      "6505.58",
+      "6506.55",
+      "6507.13"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-30\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）［　］は厳密にする。\n質問番号 地図番号 151\n項目名 銭 090\nA 普通注記\n(B) 除いた共通語\n(C) 除いた特殊語\nページ (18)\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]\nA 注のない語形 [B・C 残した語形とその注]\nokane ＜上＞\nzeni\nカネ ＜約＞　ゼニ\nオカネ ＜幼＞　ゼニ\nカネ ＜幼＞　ゼニ\nokane ＜約＞　zeni\n同　上\nオアシ ＜丁.総称＞　（手書き注）\nオアシ ＜約＞　ゼニ、カネ\nオカネ ＜上＞＜総称＞，オアシ＜上＞他\n（手書き注）総称であり、又紙幣として用いられる。紙幣はサツという。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04530.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04530",
+    "source_canvas_label": "78",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04530.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_078.jpg",
+    "page_index": 78,
+    "location_numbers": [
+      "6507.48",
+      "6508.06",
+      "6509.38",
+      "6509.43",
+      "6516.15",
+      "6517.65"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-31\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）［　］は厳密にする。\n（右上欄） 質問番号　地図番号　15?　項目名　銭　A 普通注記　(B)除いた共通語　(C)除いた特殊語　ページ（19）\n表ヘッダ：地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n（欄内手書き）　〈雅〉オカネ〈総称〉　カネ〈総称〉　〈銅貨をゼニ、紙幣をサツという。〉\nイノシシ〈昔の10円札のこと〉　オカネ〈総称〉　オカネ〈総称〉　サツは紙幣のこと\nオカネ〈上〉　ゼニ，カネ\nオカネ〈丁〉　ゼニ\nオカネ〈共〉　ゼニ〈総称、銅貨などのこと〉\nオカネ〈共〉　ゼニ〈昔は札を除く。次のあいた金をゼニという〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04531.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04531",
+    "source_canvas_label": "79",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04531.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_079.jpg",
+    "page_index": 79,
+    "location_numbers": [
+      "6518.30",
+      "6518.87",
+      "6519.43",
+      "6519.67",
+      "6520.50",
+      "6521.94",
+      "6526.04",
+      "6520.94"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-32\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　15/\n項目名　銭　090\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語　ページ(20)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nオカネ　〈共〉〈珍〉　ゼニ（紙幣はサツという）\nオカネ　〈雅〉　ゼニ（総称であり、又硬貨の意でもある）　カネ（紙幣はサツという）\nオカネ　〈雅,英〉　（オカネは上品なことばだから標準語であるという、被調査者の考え方を示す。）\nオサツ　〈共〉〈紙幣の意〉\nオカネ　〈共〉\nゼニ　〈幼〉\nオカネ　〈幼〉\nカネ　〈共〉〈カネよりオカネの方が丁寧〉\nオカネ　〈幼〉〈約〉（手書きの注）\n（両表現における相が見える。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04532.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04532",
+    "source_canvas_label": "80",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04532.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_080.jpg",
+    "page_index": 80,
+    "location_numbers": [
+      "6526.45",
+      "6526.98",
+      "6527.44",
+      "6527.73",
+      "6529.15",
+      "6531.53",
+      "6532.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-33\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (21)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\nオカネ ＜上＞\nゼニ、カネ\n\nオカネ ＜共＞\nサツ〈紙幣〉、ゼニ〈貨幣〉\n\nkane（共と思われる）\ndze'ni〈このすがり〉普通\n\nokane ＜上＞　0をつければ、それなり丁寧な言い方。\nkane, zeni〈硬貨をさす。昔は紙幣が金にならなかったので皆 zeni と言った。〉\n\nオカネ ＜共，上＞\nゼニ\n\nオカネ ＜新＞\nテニ〈右〉\n\nサツ（左）　キンカ（右）\n戦前は紙幣をサツ、ギザをキンカといったが、今は共に用いぬ。代わりにオサワリという形が用いるようである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04533.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04533",
+    "source_canvas_label": "81",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04533.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_081.jpg",
+    "page_index": 81,
+    "location_numbers": [
+      "6537.06",
+      "6540.79",
+      "6541.52",
+      "6542.58",
+      "6545.41",
+      "6546.73",
+      "6547.09"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-34\n質問番号　地図番号　15/\n項目名　銭　090\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ (22)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n6537.06　okane ＜銭,上＞, kane ＜例＞　dzeni...　主として硬貨。昔はこのことばばかり。物の方も硬貨だけしか知らなかったろう。\n6540.79　オカネ ＜幼＞　ゼニ＜古＞\n6541.52　オカネ ＜共＞　ゼニ\n6542.58　オゼゼ（右）　被調査者の子供の頃（明治）小額の貨幣をオゼゼといったらしい。今は全く用いぬ。\n6545.41　owaji [エ] くまりて上品な言い方　zeni\n6546.73　oaji [dzeniに比べて上品な感じ]　okane ＜最(上)＞　dzeni\n6547.09　dzeni ＜次に何か話を続ける時＞　zeni",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04534.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04534",
+    "source_canvas_label": "82",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04534.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_082.jpg",
+    "page_index": 82,
+    "location_numbers": [
+      "6547.67",
+      "6548.82",
+      "6549.60",
+      "6551.20",
+      "6551.52",
+      "6555.65",
+      "6558.37",
+      "6559.22",
+      "6560.40"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-35\n質問番号　地図番号　15/\n項目名　銭　090\nA　普通注記　(B)除いた共通語　(C)除いた特殊語　ページ（23）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）（　）は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6547.67　okane　〈上〉　dzeŋi? (小金を指すことが多い) kane\n6548.82　kane　〈俗,上,共通俗的〉　dzeŋi\n6549.60　kane　〈やや俗〉　dzeŋi\n6551.20　オカネ　〈俗,共〉　ゼニ\n6551.52　ゼニ　〈単語という程でもないが、私は使わな…〉　オカネ\n6555.65　okane　〈例〉　dzeŋi\n6558.37　kane　〈上〉　普通 dzeŋi という方が多いか kane という字もある。多少上品な感じがする。\n6559.22　oasi?　〈稚〉　dzeŋi, kane\n6560.40　オカネ　〈俗〉　ゼニ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04535.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04535",
+    "source_canvas_label": "83",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04535.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_083.jpg",
+    "page_index": 83,
+    "location_numbers": [
+      "6564.51",
+      "6572.04",
+      "6580.33",
+      "6581.52",
+      "6581.68",
+      "6582.73",
+      "6583.45",
+      "6590.35",
+      "6591.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-36 質問番号 地図番号 151 項目名 銭 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (24) ► A・[B]・[C]ごとに別紙を使用する。 ► その中での情報は地点番号順に並べる。 ► 注記の＜＞（ ）[ ]は厳密にする。 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 6564.51 oafi ＜上品＞　zeni ＜ふつう＞ 6572.04 okane ＜上品＞　zeji 6580.33 カネ ＜共＞　ゼニ 6581.52 オカネ ＜共＞　ゼニ 6581.68 オカネ ＜共＞　カネ 6582.73 同上　ゼニ 6583.45 kane ＜共＞　dede ＜普通＞ × （ラテン？クラシン） （銭＜くれよ＞） deni ＜共＞ 6590.35 ゼニ　オカネ 6591.02 オカネ ＜上＞ , カネ ＜自分は余り使わない＞　ゼニ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04536.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04536",
+    "source_canvas_label": "84",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04536.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_084.jpg",
+    "page_index": 84,
+    "location_numbers": [
+      "6593.98",
+      "6601.93",
+      "6603.24",
+      "6604.38",
+      "6605.37",
+      "6607.68",
+      "6609.05",
+      "6611.61",
+      "6611.68",
+      "6613.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-37\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n質問番号　地図番号\n151\n項目名　銭　090\nA　普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (25)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nzeni <共>    kane\nokane <上>   dzeni <希>\nカネ <上>    ゼニ\nオカネ <共>  ゼニ\nオカネ <共,上> ゼニ\nokane <上品> dze'ni\nオカネ 新    ゼネ 右\noaji <移,共,上> dzeni\noaji <上,共>\nkane <移>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04537.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04537",
+    "source_canvas_label": "85",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04537.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_085.jpg",
+    "page_index": 85,
+    "location_numbers": [
+      "6615.02",
+      "6617.75",
+      "6620.20",
+      "6621.57",
+      "6624.13",
+      "6625.17",
+      "6629.24",
+      "6633.27",
+      "6633.89",
+      "6634.07"
+    ],
+    "other_text": "A・[B]・[C] ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の< >( )( )[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　45-38\n質問番号　地図番号　15-1\n項目名　銭　090\nA　普通注記　(B)除いた共通語　(C)除いた特殊語　ページ (26)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nオカネ　<勢、上、共>　ゼニ\nオカネ　(女)　ゼボ (古?)\nオカネ　<総称、改>　ゼニ　<総称>\nokane　竹　zeni\n同上　zeni\nokane　上　zeni, kane\nokane　<上>　zeni\nokane ... 竹　zeni\nokane ... 上　zeni\n同上",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04538.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04538",
+    "source_canvas_label": "86",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04538.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_086.jpg",
+    "page_index": 86,
+    "location_numbers": [
+      "6634.32",
+      "6634.33",
+      "6635.87",
+      "6641.39",
+      "6641.97",
+      "6642.58",
+      "6643.16",
+      "6643.72",
+      "6646.23"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-39\n質問番号　地図番号　151\n項目名　銭　090\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (27)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）[ ]は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6634.32\toafi　...　希\tzeni\t（手書き注記）\n6634.33\tokane\t詞\tzeni\n6635.87\tokane　希、上\t（手書き）\n6641.39\tmaru　陰...　- 地実のみで借のみ ゆえ 注記化。\n6641.97\tokane\t（手書き）\n6642.58\toafi　上、 okane 上\t... 最も多く使う。\n6643.16\tokane 上\tzeni\n6643.72\tokane 上 , oafi 上\tzeni\n6646.23\toafi　〈上〉\tzeni",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04539.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04539",
+    "source_canvas_label": "87",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04539.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_087.jpg",
+    "page_index": 87,
+    "location_numbers": [
+      "6649.13",
+      "6650.79",
+      "6652.06",
+      "6652.77",
+      "6655.87",
+      "6661.02",
+      "6697.39",
+      "6711.95",
+      "7249.95",
+      "7329.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜ ＞( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 45-40 質問番号 地図番号 151 項目名 銭 090 A 普通注記 (B) 除いた共通語 (C) 除いた特殊語 ページ (28) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] okane ＜上＞ zeni, kane okane zeni okane 上 zeni (handwriting) zeni zene ＜多＞ zeni okane ＜外＞ zene kane ＜上＞ okane ＜上＞ ぜに ＜希＞ (handwritten notes and kana: dzeni, dzepikko (愛称的) etc.)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04540.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04540",
+    "source_canvas_label": "88",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04540.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_088.jpg",
+    "page_index": 88,
+    "location_numbers": [
+      "7336.71",
+      "7342.12",
+      "7359.78",
+      "7363.85",
+      "7374.15",
+      "7401.60",
+      "7402.42",
+      "7404.56",
+      "7411.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-41\n質問番号 地図番号 15/ 項目名 銭 090\nA 普通注記  B (除いた共通語)  C (除いた特殊語)  ページ (29)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく ><()[] は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n7336.71   kaine 〈幼,英〉    dzepi\n7342.12   okane  今          zeni\n7359.78   okane 〈上〉       zepi\n7363.85   オアシ 〈希〉      ゼツ, オカネ\n7374.15   オカネ 〈幼〉      ゼン; ゼニ\n7401.60   okane 〈上〉       zepi\n7402.42   kane 〈上〉        zepi (張は zepi w付言う由)\n7404.56   okane 〈上〉       okane / morau / haramu など  zeni\n7411.61   okane 〈上〉       zepi\n\n(その他手書き注記、括弧内注釈あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04541.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04541",
+    "source_canvas_label": "89",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04541.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_089.jpg",
+    "page_index": 89,
+    "location_numbers": [
+      "7420.18",
+      "7431.08",
+      "7433.37",
+      "7440.69",
+      "7501.14",
+      "7501.72",
+      "7513.01",
+      "7521.79"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　45-42\n質問番号　地図番号　15/\n項目名　銭　090\nA　普通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ　(30)\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜　＞(　)(　)[　]は厳密にする。\n表見出し：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nokane　〈上〉\nokane　〈上〉\nkane　〈共〉\nokane　〈上〉\nゼニ　〈ツ〉　オカネ，チンチ〈子〉\nオカネ　〈ていねい〉\nオカネ　〈新〉\nオカネ　〈共〉\n（右側の欄に手書き注記）　本当は硬貨なのだろうか，紙幣も含めていう。　など",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04542.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04542",
+    "source_canvas_label": "90",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04542.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  },
+  {
+    "source_image": "page_090.jpg",
+    "page_index": 90,
+    "location_numbers": [
+      "7522.48",
+      "7523.05",
+      "7523.30",
+      "8301.69",
+      "8393.69",
+      "0246.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 45-43\n質問番号　地図番号　151\n項目名　銭　090\nA　普通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ (31)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n地点番号　A・語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n7522.48　カネ　＜女＞　ゼニ\n7523.05　カネ　＜共＞　ゼニ，チンチ＜子＞\n7523.30　オカネ　＜共＞　ゼニ=\n8301.69　カネ　＜共＞　ジェン（古くから今までの基準語）\n8393.69　dzeni　＜やや共＞　dzen\n0246.48　kane　＜幼＞　zen",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04543.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M151Q090/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04543",
+    "source_canvas_label": "91",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04543.tif",
+    "source_ljc_id": "LJC-M151Q090",
+    "source_map_numbers": [
+      "151"
+    ],
+    "source_title": "おかね (貨幣)"
+  }
+]

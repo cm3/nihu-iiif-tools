@@ -1,0 +1,1120 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0896.22",
+      "1715.53",
+      "1786.13",
+      "1893.10",
+      "4598.33",
+      "4648.59",
+      "4653.47"
+    ],
+    "other_text": "日本雪諺地図資料用紙 注記一覧 47-51\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n質問番号 地図番号 157 161\n項目名 せと も? （手書き）\nページ ( / )\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n0896.22    [からつ] [古]    セトモノ\n1715.53    setomon    (なよりはdo?)    セトモノ\n1786.13    セトモン    <くち>\n1893.10    karatsumono <菓>\n4598.33    setomon <新>    karatsumon\n4648.59    setomono <名>    seto\n4653.47    jakimon <せまい範囲のもの> と説明した。\n（下部にさらに手書き注記あり：setomon (佐渡には無名異焼きや地質の差がある)）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04751.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04751",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04751.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "4666.42",
+      "4686.96",
+      "4721.36"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-52\n質問番号　地図番号　157　161\n項目名　せともの\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(2)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n(setomoNはない変。×高濱\n焼きのものを差している様に\n感じられるが、陶磁をはっきり\n区別してはいない)\nsarabati; <希>\n<もくは用いぬが、今はまれ>\nsetomoN　<新>\n*setomon、はじめsetomonoと答えた\nsedomono　(このあたりはsedomonoが\n普通だが、改まったんめか)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04752.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04752",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04752.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4723.14",
+      "4731.15",
+      "4735.37",
+      "4771.58"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-53\n質問番号　地図番号　157　161\n項目名　せどもの\nA（○）普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（3）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n（手書きの記入例）\n4723.14  Gedomono  （「セトモノ」といった念を　おしなが同じ。）\n　（語頭 -- とヒの中間）　くらいの音\n4731.15  sedo  <名>  sedomono\n4735.37  #NR.  （続柄は失念したらしい）\n4771.58  sedo, sedomono\n（sedomonoは器物、sedoは材料といった区別か　あるように思う。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04753.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04753",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04753.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "5508.43",
+      "5527.15",
+      "5538.63",
+      "5565.19",
+      "5578.27",
+      "5595.20",
+      "5597.26"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-54\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）［］は厳密にする。\n質問番号　地図番号　157　161　項目名　せともの\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（4）\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n5508.43　setomoN　＜希＞　　　　　　　karatsumoN.\n5527.15　setomoN　＜希＞　　　　　　　karatsumoN.\n5538.63　karatsi　バス停前（国道〜い）の陶器店の看板はからっつやとあった。\n5565.19　setomoN　＜新＞　　　　　　　karatsumoN\n5578.27　［セトモン］　＜セトモンをきいう＞　中村ン\n5595.20　setomono　一括まとめてsetomonoとい うが実際には一と名前を\n5597.26　チャクン　＜疑称＞　●セトモノ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04754.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04754",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04754.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "5602.99",
+      "5603.35",
+      "5609.26"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-55\n質問番号 157　地図番号 161\n項目名 せともり\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (5)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nsetomoN. （昔の人も setomoN と えった。）\nsetomono （被調査者は瀬戸物屋の主人である。）\nkaratsu <古>\n<karatsu が普用いられた。 普（瀬戸物は知船で一九七から送られて来たものらしい） と返べた。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04755.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04755",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04755.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "5611.39",
+      "5611.81",
+      "5612.98",
+      "5613.48"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-56\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\n質問番号 157 地図番号 161\n項目名 せとも9\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >〈 〉[ ]は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n5611.39  karatsum <ち>    setomono\n<karatsuja (せともや) という>\nことはつもよく使った。\nto:ki: (共>)\n\n5611.81  karatsumono    setomono.\n\n5612.98  setomoxo  (瀬戸物屋のことを karatsuja\nとも、setomoijaともいう。)\n\n5613.48  setomoN. <karatsuja (瀬戸物屋) の...>\n(手書き注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04756.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04756",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04756.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5614.68",
+      "5621.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-57\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　）は厳密にする。\n\n質問番号　地図番号\n157　　161\n項目名　せともつ\n\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (7)\n\n他所の人のことばってある。>\n（高田方面の人の言葉でもあろうか。）\nsetomono. (沈お、丸発音)\nsetomo N. ＜早く発音した場合＞\nkaratsumon\nsetomo N. ＜共＞\n＜音から karatsumon を＞\njaとゝう、改まった場合は",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04757.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04757",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04757.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5622.68",
+      "5625.91",
+      "5626.92",
+      "5631.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-58\n質問番号 地図番号 157 161\n項目名 せともの\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (8)\n地点番号 A 語形とその注記 [B・C 除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\nsetomono を使う。\n<被調査者の友人が setomono は瀬戸産つものに限るべきで>\nは瀬戸産つものに限るべきであり、総称としては karatsumono を用いるつきたと違ったえう>\n56 22.68. setomono karatsumono とは全く使わない。\n56 25.91. setomono [setomon]\n56 26.92. setomono [新 ?]\n56 31.16. karatsumono <希> setomono",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04758.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04758",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04758.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5631.26",
+      "5636.74",
+      "5641.73",
+      "5642.31",
+      "5646.38",
+      "5656.62",
+      "5661.34",
+      "5675.89",
+      "5677.85"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-59\n質問番号　地図番号\n157　161\n項目名　せともの\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(19)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5631.26　setomono　[karatsu]　<知っこ/はいろ?>\n5636.74　セトモン　<お>\n5641.73　Karatsumono　セトは新\n5642.31　[karatsu]\n(karatsumono)\n5646.38　いつやす　<セトモノ/トイワナイ>\n5656.62　色セトモン　<ザックバラン／トキ>　セトモノ\n5661.34　[Karatsumono]　setomono\n5675.89　セトモン　普通のことば\n5677.85　ヤセノ　<手寄りのことば>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04759.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04759",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04759.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5678.86",
+      "5680.34",
+      "5685.02",
+      "5687.86",
+      "5688.01",
+      "5688.86"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-60\n質問番号　地図番号\n157　161\n項目名　せともの\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(10)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）（　［　］は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n5678.86　セトモノ／セトモノ，＜普通＞\n5680.34　セトモノ，＜普通のことば＞　セトヤキ\n5685.02　setomono　[[jakimono]]\n5687.86　N.R.　＜個この物の名をいう＞\n5688.01　セトモノ　...（本人）\n5688.86　セトモノ　...＜多し＞\n5688.01?　セトモノ　＜総称＞\n（以下手書きの注記あり、判読困難）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04760.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04760",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04760.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5687.98",
+      "5698.30",
+      "5699.42",
+      "5712.70",
+      "5792.02",
+      "5792.78",
+      "6338.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-61\n質問番号 地図番号 157 161\n項目名 せとも の\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (11)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >( )[ ]は厳密にする。\n表見出し: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n手書き行 (対応する地点番号の横):\n5687.98  井くひっくるめての言い方はない >\ndojaki 以外は setomono\nスリハゲ等\n5698.30  * setomono (jakimono) を訂正\n5699.42  setomono N. (自然会話にまってきた) setomono\n5712.70  setomono. [seto] [seto moN]\n5792.02  setomono. そは狭い e.\n5792.78  emadojapi <土祭>\n6338.99  からつもの / <磁岩>  (やまそり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04761.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04761",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04761.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6339.86",
+      "6348.77",
+      "6349.67",
+      "6349.80"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 47-62 質問番号 157 地図番号 161 項目名 せともの A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (12.) 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] マルモノ。 <陶器、江戸は佐で産するので、からつものと区別する。> からつものと区別する。 Pキモン <からつは言わない> <鎌鈴及び大鉢をかつのと呼ぶ> ヤキモノ、 <新?> からつ? jakimono. <名> marumono. 札を売る人をチャウンナと 説。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04762.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04762",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04762.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6369.32",
+      "6376.68",
+      "6379.68",
+      "6384.25",
+      "6385.10",
+      "6387.48",
+      "6398.07"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-63\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( ) [ ] は厳密にする。\n\n質問番号 157　地図番号 161\n項目名 せともの\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(13.)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nかういつもの　（昔）\njakimono　＜薬をかけないで焼いたものを＞\nスヤキ、薬をかけて焼いたものを\nクスリカケと言う。\nからつわ　（昔）\njakimono\nsetomono\nN.R.　＜呼び名を知らない。＞\nkaratsu　＜工房・・・su; jaki＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04763.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04763",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04763.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "6398.42",
+      "6407.28",
+      "6409.43",
+      "6409.72",
+      "6410.77",
+      "6413.29"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-64\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は厳密にする。\n\n質問番号 157    地図番号 161\n項目名 せともの。\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (14)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\n6398.42    陶器・磁器 ... i;jaki;>    ? karatsu   <菓をかけて焼いたものを>\n            kaw-suri kake. かけないで\n6407.28    からつ。  <窯>\n6409.43    からつ。  石見藩  からつ セトモン\n6409.72    からつ。  <からつモンの下略>  からつモン\n6410.77    からうモン  <店 = カラチやP>\n6413.29    清 karatsumon\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04764.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04764",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04764.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "6414.17",
+      "6418.75",
+      "6419.50",
+      "6424.20"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-65\n質問番号　地図番号\n157　161\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ (15)\n項目名　せともつ\n地 点 番 号　　A 語形とその注 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n64 14.17　karatsum <客>　(からつとセトモンは　setomon <ケ>　新旧不明のよし。)\n（筆記） karatsumon <客>\n64 18.75　からつモノ　<上>\nトオキ　<共>\n64 19.50　セトモン　<新>\nトオキ　<共>\n64 24.20　setomono.　<音ひろ両方を言うか。　セトモノの方がやや限られ　...>\n（下部に手書き注記あり、こまかい字で読み取りにくい）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04765.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04765",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04765.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6424.82",
+      "6428.13",
+      "6428.76",
+      "6428.91"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-66\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく＞( ) [ ] は厳密にする。\n\n質問番号　地図番号\n157　161\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(16)\n項目名　せともつ\n\n地点番号　A　語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6424.82　からり。　〈喜〉　セトモン　〈上〉\n6428.13　ヤキモン　〈上希〉　からりモン\n6428.76　セトモン　〈荒、新希〉\n6428.91　セトモン　〈新〉\n\n（原稿の手書き語形等をおおよそ転記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04766.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04766",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04766.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6430.53",
+      "6436.57",
+      "6438.33",
+      "6439.61",
+      "6446.05"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-67\n質問番号　地図番号\n157　161\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (17)\n項目名　せともの\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6430.53　かうつもン　<店、希>\n6436.57　かうつモ!　<店 = からつヤ>\n6438.33　セトモノ／からつモン、セトモンとも\n　　註が: 高級品の場合である>\n6439.61　セトモノ／からつモノ\n6446.05　からつ。 <菓>　\n\n（手書きの注記・語形が欄に記入されている）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04767.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04767",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04767.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6447.08",
+      "6453.64",
+      "6454.24",
+      "6455.88",
+      "6457.18",
+      "6458.91",
+      "6459.29",
+      "6464.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-68 質問番号 地図番号 157 161 項目名 せともの A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (18) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜　＞（　）［　］は厳密にする。 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6447.08 setomoy [新?] karatsumoy 6453.64 セトモン <菅> カラツモン 6454.24 からつモノ <柄> セトモノ 6455.88 セトモン <上><柄> カラツモン 6457.18 カラツ (カラツが普通) 6458.91 セトモン <新> 6459.29 セトモン #.名づけ方強いていえば 6464.90 カラツ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04768.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04768",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04768.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6466.36",
+      "6466.41",
+      "6470.11",
+      "6472.05",
+      "6472.58",
+      "6474.83",
+      "6476.17",
+      "6476.92",
+      "6477.02"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-69\n質問番号　157　　地図番号　161\n項目名　せともの\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (19)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n地点番号　　A 語形とその注記［B・C除いた語形とその注］　　A 注のない語形［B・C 残した語形とその注］\n6466.36　セトモノ　＜菓＞　カラツ\n6466.41　シトモン　＜希＞　カラツモン\n6470.11　唐　karatsumon　＜古＞　karatsu\n6472.05　utsuiwa（?）　karatsu\n6472.58　カラツ　（菓）\n6474.83　カラツ　＜菓＞　セトモノ\n6476.17　セトモン　＜希＞　カラツモン\n6476.92　カラツ　（工器についての後続名はなかった。）\n6477.02　カラツ、カラツモン　＜工器はスヤキという。＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04769.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04769",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04769.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6479.26",
+      "6482.75",
+      "6484.43",
+      "6485.14",
+      "6485.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-70\n質問番号 157   地図番号 161   項目名 せとも\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (20.)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () [] は厳密にする。\n\n（表見出し） 地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n#カウワフ　[カラハフ]    #カウワモン\nKaratsu  <かんれんにこういうすが多い。>  karatsumono\nかうワモン　上葉をつけずに焼いたのは\nスヤキ、また、スヤキのうち黒く\n焼けていて、ナベ、などに作って\nあるものをホオロクという。\nホオロクナーへともいう。\nせともん　<割>  カラワ？\nホオロクモン　<くわ>  場所横線（すやきの） クラワモン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04770.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04770",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04770.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6485.46",
+      "6485.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-71\n質問番号　地図番号\n157　161\n項目名　せともの\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(2/)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n6485.46\nままのもの) はとくにホオロワモンと\nいろ。昔はそれなりを売る店が\nあって、ホオロワやといった。\nセトモニ　<新?><セトモニはすりばちの　カラリモン\nより容易のわるいものをいり様に\n思う。>\n\n6485.82\nからり？<か>　<からり、セトモノ、はウリワズリを\nセトモノ。　かけて焼いたかたいものを\nホオロワ（か）いい、ホオロワは土をかためた\nのをそのまま焼いたような土器",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04771.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04771",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04771.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6486.07",
+      "6487.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-72\n質問番号　地図番号\n157　161\n項目名　せともの\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(22.)\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n（土瓶、カメのやきもの、≪削除≫）\n又それらをのみ売る店があって、\nそれはホオロクヤといった。>\n\n6486.07　セトモン　陶器を売る店を　セトモンヤ\nカラツモン　カラツヤの店の名でーいう由。\n\n6487.43　カラツモン。\nセトモン　く新?　土をこねて焼いた\nものについてはひっくるめて\nドロヤキという、両濁\n地方でーホオロクといふのに",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04772.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04772",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04772.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6492.11",
+      "6494.08",
+      "6494.55",
+      "6509.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-73\n質問番号　地図番号　157　161\n項目名　せともの\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (23)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞（　）（　）は厳密にする。\n（表見出し）地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nあれるものである。\nkaratsu　karatsu-ja　(karatsu-wuri)\nからつもん　＜工芸はホオロクという。＞\nかうつ？　＜渡度の塔はくるめて…＞\nホオロクという。からつは\n陶器　磁器類をひっくめていう。セトモン（瀬戸物）は\nあまり使わないことばである。\n（セトモンではない。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04773.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04773",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04773.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6510.65",
+      "6511.85",
+      "6512.02",
+      "6512.67",
+      "6514.38",
+      "6520.94",
+      "6522.79"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-74\n質問番号 157    地図番号 161\n項目名 せともの\nA 普通注記    [B] 除いた共通語    [C] 除いた特殊語    ページ (24)\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n6510.65    からつ（やつる）    セトモン\n6511.85    karatsumon <少し改まった言いかた>    karatsu\n6512.02    karatsue <句>    \n6512.67    setomono <新>    setomono\n6514.38    karatsumono <希>    setomono\n6520.94    setomon. <これも使わないことはない> jakimon.\n6522.79    からつもん    江トモノ    ヤキモノ（一般的） 江トモノは最近用いる\n（手書き注記あり、筆記は原文のまま）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04774.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04774",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04774.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6520.23",
+      "6541.27",
+      "6542.71",
+      "6545.88",
+      "6554.08"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（ ）[ ]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　47-75\n質問番号　157　地図番号　161\n項目名　せともの　ページ（25）\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]\n\n（表ヘッダ） 地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n6520.23　カラワ、　<動>　使われていない、　トオキ\n6541.27　ヤキモノ　（セトモン）\n6542.71　セトモノ　<多>\n6545.88　setomono　<多>\n6554.08　N.R.　<まつ。4ケシ? とか トークリとか>\n\n（ページ下部） jakimono  <多>　setomono",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04775.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04775",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04775.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6554.88",
+      "6555.65",
+      "6560.22",
+      "6571.15",
+      "6575.40",
+      "6582.12",
+      "6591.02",
+      "6603.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-76\n質問番号   地図番号\n157   161\n項目名 せともの\nA 普通注記   ページ\n[B 除いた共通語]\n[C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号    A 語形とその注記［B・C除いた語形とその注］    A 注のない語形［B・C 残した語形とその注］\n65 54.88    jakimonoN    <む>    setomoN.\n65 55.65    jakimonoN    <む>\n65 60.22    setomoN    <新>    セトモノ\n65 71.15    ? セトモノ/\n65 75.40    [setomono]    jakimono\n65 82.12    セトモン    <新>    ヤキモン\n65 91.02    セトモン    <鉄などの大きいものを>    ヤキモノ／という人もある。\n66 03.52    setomono    setomonoとはきかない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04776.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04776",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04776.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "6606.38",
+      "6609.02",
+      "6613.54",
+      "6620.20",
+      "6626.30",
+      "6628.59",
+      "6639.29",
+      "6650.79",
+      "6652.30"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-77\n質問番号 157    地図番号 161\n項目名 せともの\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (27)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\nこの方言には se と se と se とある。\n6606.38    to:ki    [setomono ともいう]\n6609.02    setomon    (会話中)    setomono\n6613.54    jaki mono    <黄>    setomono\n6620.20    チャワン    <総称>\n6626.30    jakimono    setomono (黄)　淡\n6628.59    setomono    <setomonoという人もある>\n6639.29    setomon    <黄>（清義）    jakimono\n6650.79    jaki mono    み.    setomono\n6652.30    setomono    主格は特に dajaki; \n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04777.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04777",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04777.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "6652.77",
+      "6697.59",
+      "6698.20",
+      "6701.01",
+      "6711.60",
+      "7208.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-78\n質問番号　地図番号\n157　161\n項目名　せともの\n(A) 普通注記　(B) 除いた共通語　(C) 除いた特殊語　ページ (28)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6652.77　jakimono.　きることがある　setomono\n6697.59　seto murno　<案内?>　setomono\n6698.20　kawarake　(神社で使うことばらしい)　setomono\n6701.01　#setomono　<土器はセトモノとは言わない>\n6711.60　setomono　<土器で木を木鉢に使う>　setokaki\n　　　　setokaki　ものは dojak;　神殿にあがること 入る\n7208.99　nayemon　jakimon",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04778.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04778",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04778.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7218.26",
+      "7218.58",
+      "7231.29",
+      "7246.45",
+      "7266.92",
+      "7279.01",
+      "7303.29"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-79\n質問番号　地図番号\n157　161\n項目名　せともの\n(A) 普通注記　ページ (29)\n[B 除いた共通語]\n[C 除いた特殊語]\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞(　)[　]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7218.26　jakimon.　<ち>　←　(手書き注記)\n7218.58　nanaremoN　<どういう natta物>\n7231.29　jakimon　(語尾は目処の音声の時は…)\n7246.45　jakimon.\n7266.92　jakimon.\n7279.01　ヤキモノ/　ドキともいう。\n7303.29　jakimono, setomono\n\n(かうつとはいわぬ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04779.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04779",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04779.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7308.48",
+      "7317.29",
+      "7321.93",
+      "7322.81",
+      "7323.02",
+      "7324.47"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］）は厳密にする。\n\n日本言語地図資料用紙 注記一覧 47-80\n質問番号　地図番号\n157　161\n項目名　せともの\nA　普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]（30）\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\njakimono. <??> jakimono.\njakimono.　葉のかけてあるもの　Furi-bake\n〈葉のかけてないもの、dorajaki〉\nセトモン　＜サフ＞　中キモン\ntonki　サ\nutsuwa　（単なる器具でないと会を）おしれが、せとモノ、からつ\nkaratsumon（唐）　setomon（せともの）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04780.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04780",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04780.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7324.96",
+      "7332.27",
+      "7332.52",
+      "7338.48",
+      "7339.27",
+      "7340.50",
+      "7342.72",
+      "7346.63"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-81\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞〔〕（）は厳密にする。\n質問番号　地図番号　157　161\n項目名　せともの\nA 普通注記　ページ\n[B 除いた共通語]\n[C 除いた特殊語] (3/)\n（表見出し） 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nkaratsumon (唐津物)    jakimon\nsetomono (瀬戸)        waremon\naritamon (有田モノの意) setomon\n# karatsumono (これもたに/はならなかっ?)\nkaratsu (陶器商 は karatsuja)\njakimon. <碗、皿を一合わせて>\ngokisarago:tsu:egi? ＞\njakimoN.\nkaratsu <壺に陶器を語る> jakimon.\n（下部手書き注記、判読困難な箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04781.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04781",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04781.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7351.09",
+      "7352.61",
+      "7352.97",
+      "7353.51",
+      "7356.70",
+      "7361.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-82\n質問番号    地図番号\n157          161\n項目名 せともの\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n(右上の欄) A 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (32)\n表ヘッダ: 地点番号 | A 語形とその注記 [B・C除いた語形とその注] | A 注のない語形 [B・C 残した語形とその注]\n\n7351.09    jakimono    <ドテなし、びろう、セトモン ?なし>\n7352.61    ヤキモン    <クレモンという? はかろうる なども よくめている>\n7352.97    チャワン    (ヤキモンとも いらしい)\n7353.51    <?> チャワンドオフ\n7356.70    jakimono    <工器はちゅうじ; jaki という。\n           陶磁器は karatsu, jaki; という。\n           絵柄が左の答え>\n7361.17    *ヤキモン (もっとも優勢)    # チャワン\n\n下部に「トオキ」",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04782.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04782",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04782.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "7362.42",
+      "9370.16",
+      "7371.93",
+      "7372.27",
+      "7373.92",
+      "7373.99"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧\n質問番号　地図番号\n157　161\n項目名　せともの\nA　普通注記\n(B　除いた共通語)\n(C　除いた特殊語)\n(73)\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記のく　>( ) [ ] は厳密にする。\n\n地点番号　　A　語形とその注記　[B・C除いた語形とその注]　　A注のない語形 [B・C　残した語形とその注]\n7362.42　　セトモノ、　(ヤキモンとは言わない)\n9370.16　　tjawansara　(jakimono という語はないらしい)\n7371.93　　tjawansara　(jakimono という語はない)\n　　　　　　tjawansara ifji のように　具体的に〜をいうとのこと\n7372.27　　# <?>　セトモン\n　　　　　　<?>　トオシナ\n7373.92　　# <ヤキモン>\n7373.99　　カワモン　<新>\n　　　　　　セトモン　<希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04783.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04783",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04783.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "7374.15",
+      "7374.75",
+      "7375.71",
+      "7376.68",
+      "7380.74",
+      "7381.38",
+      "7381.97"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-84\n質問番号 157　地図番号 161\n項目名 せともの\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (34)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n地点番号　A語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\nN.R. <?> ショッキ\n井カラソ（希）\n[karatsumon] utsuwamon\nkaratsumon <?多> <多く使う> かどうか　jakimon\nセトモン <希>　#ヤキモン\n#<??> チャワンドオグー\n<??> ヤキモン\nウワワモン 1.く土のものなけをえとめる\n絵柄はない >",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04784.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04784",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04784.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "7382.0"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-85\n質問番号　地図番号　157　161\n項目名　せともの\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(35)\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C 残した語形とその注]\n\n2.<ヤキモンという店は使わない>\n3.<ウワモンとは概観を>\nよくめた総称である。\n7382.0\ntjaːan　(総称としてはちょっと変だが)\nこういうものを売っている店を—\n焼き物を売っていて—タウンクやと\njaki:mon　<近ごろいう>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04785.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04785",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04785.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "7370.26",
+      "7391.44",
+      "7391.94"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞〈 〉[ ]は厳密にする。\n日本言語地図資料用紙　注記一覧　47-86\n質問番号　地図番号　157　161\n項目名　せともの\nA　普通注記　(B　除いた共通語)　(C　除いた特殊語)　ページ　(36)\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\nドオプ？　＜もっと広い道具類をよくめれ＞\nことば→でもあるが、まつうはドオプで　代用しておく\n＊く？＞　ヤキモン\n#く？　チャワンールイ　くらいうりものをうる店を\nチャワン→というからチャワンールイ\nとてもいうつきであろうか。\n# N.R.　[チャワンードオフー]\n御竹浦中学校長",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04786.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04786",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04786.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "7392.45",
+      "7392.94",
+      "7393.62",
+      "7394.85",
+      "7401.11",
+      "7403.16"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 47-87\n質問番号　地図番号\n(157)　161\n項目名　せともの\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (37)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n7392.45　#＜[クレモン]＞　＜[ウワワコ]＞\n7392.94　クレモン　＜ヤキモン, がうつモンとは　えわない!＞\n7393.62　カラモノ　＜希,＞＜やつ方＞　ヤキモノ\n7394.85　karatsumono　＜菓＞\njakimono\n7401.11　setomono　＜売っている店は setomonoya ＞\n7403.16　karatsumo-no (karatsu-mono は ... )",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04787.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04787",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04787.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "7404.12",
+      "7404.56",
+      "7406.53",
+      "7416.34",
+      "7420.18"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　47-88\n質問番号　地図番号　157　161\n項目名　せともの\nA　普通注記　ページ\n[B]　除いた共通語\n[C]　除いた特殊語　(38)\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の< >( )[ ]は厳密にする。\n\n地 点 番 号    A　語形とその注記　[B・C除いた語形とその注]　A 注のない語形 [B・C　残した語形とその注]\n7404.12    karatsumon　<karatsumonを売る店を>\n7404.56    karatsumono　(dorojaki: かめ、すりばちのような焼きもの)\n7406.53    karatsu　〈くち〉\n7416.34    karatsu　土器は tsu(ji)aki という。\n7420.18    karatsu　<karatsumを売る店を karatsum-jaという。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04788.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04788",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04788.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7423.80",
+      "7427.8",
+      "7430.15",
+      "7431.13",
+      "7434.02",
+      "7440.69",
+      "7440.72",
+      "7450.20"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-89\n質問番号 157 地図番号 161\n項目名 せともの\nA 普通注記 ページ (39?)\n[B 除いた共通語]\n[C 除いた特殊語]\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n7423.80  [karatsu]  N.R.  setomono\n7427.80  karatsu <こみ>  setomono\n7430.15  jakimono  <陶器をいう>\n7431.13  karatsumono  <磁器をいう>\n7434.02  setomono\n7440.69  karatsu (no) mono <陶磁器商は karatsuja>\n7440.72  karatsu  <陶磁器商は karatsuja>\n7450.20  karatsumono  <陶磁器商は karatsuja>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04789.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04789",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04789.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "7470.72",
+      "7513.69",
+      "8300.80",
+      "8301.19",
+      "8302.19",
+      "8302.55",
+      "8303.70",
+      "8305.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-90\n質問番号　地図番号　157　161\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　ページ (40)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n（表ヘッダ）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7470.72    karatsu   <くち>    setomono\n7513.69    セトモノ    <共>    ヤキモン\n8300.80    セトモン    <共>\n8301.19    #<?> ヤキモン\n8302.19    チャワン　(ヤキモンとはえらない)\n8302.55    かうモン　<先>    ヤキモン\n8303.70    <?>　ヤキモン (ノショタイトオグ)\n8305.73    * karatsu mon\n\n（下部枠線）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04790.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04790",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04790.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "8312.33",
+      "8313.72",
+      "8314.52",
+      "8322.43",
+      "8323.59",
+      "8325.77"
+    ],
+    "other_text": "日本音語地図資料用紙　注記一覧　47-91\n質問番号　地図番号\n157　161\n項目名　せともの\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(41)\n\nA・[B]・[C] ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C　残した語形とその注］\n\n8312.33    tjawan sara.    （使っているよりである。）　[せとものやを tjawan ja ...]\n8313.72    jatmonN.         （zakimoN aki;a）\n8314.52    N.R.             （かいつとかせとものとか）\n8322.43    jagumon          （guに注意）\n8323.59    <?> ja?mun       （jakimonoの形音）\n8325.77    karatsumon       (<る>)　jakiMON",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04791.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04791",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04791.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "8331.12",
+      "8333.79",
+      "8373.43",
+      "8393.69",
+      "8394.01",
+      "9310.27",
+      "0256.08",
+      "0257.43",
+      "0294.66"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）［　］は厳密にする。\n\n日本言語地図資料用紙・注記一覧 47-92\n質問番号　地図番号\n157　　161\n項目名　せとも9\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (42)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n8331.12  jakimon  <多?>    setomona\n8333.79  ja?mon  <希?>    tsamansara\n8373.43  (?) t[a: sara.   (○) jakmon (族導)\n8393.69  ? jakimon\n8394.01  #? jakimono\n9310.27  tsutsu (i)\n0256.08  maha:ru  <む>\n0257.43  jakmun  <新>\n0294.66  naimun  <鳴り物の意である>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04792.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04792",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04792.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "2072.20",
+      "2150.17"
+    ],
+    "other_text": "日本雪語地図資料用紙　注記一覧　47-93\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）[　]は厳密にする。\n\n質問番号　157　　地図番号　161\n項目名　せとり9\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(43)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n2072.20    magaisabay    <飯茶碗　湯吞の意>\n2150.17    nại munu / natjimunu    <タ゚>    jatsimunu\n( nại は「サリ」ってひびが入る変であろうと思う。 )",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04793.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04793",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04793.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "1893.10",
+      "3757.59",
+      "4629.43",
+      "4701.73",
+      "5549.09",
+      "5558.08",
+      "5631.75",
+      "6369.32",
+      "6429.61"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-94 質問番号 157 地図番号 161 A 普通注記 B 除いた共通語 C 除いた特殊語 ページ ( / ) 項目名 せとも 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] setomono <今> karatsumono <苅> トオキ <新> セトモノ sedomono <上> hedomono hedo sedomono <上品> sedomono <上品> setomono <新> karatsumono setomono <新> karatsumono setomono <新> karatsumono セトモノ 今 からつもの からつもの",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04794.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04794",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04794.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6444.89",
+      "6452.83",
+      "6456.57",
+      "6464.90",
+      "6470.11",
+      "6472.58",
+      "6474.03",
+      "6477.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-95\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n\n質問番号　地図番号\n157　161\n項目名　せとも の\nA　普通注記　ページ（2）\nB　除いた共通語\nC　除いた特殊語\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（手書き）\nせとも/　<上>　<せトモノはあまり使わない>　かうりつモノ\nセトモノ（新）\n#? セトモノ\nせトモノ、<新>\nsetomono <う>\nセトモノ（今）\nセトモノ　<上>\nセトモノ <新>\nかうりつ（かうりつが普通）\nかうりつ　<く> \n持 karatsumono <く>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04795.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04795",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04795.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6481.15",
+      "6492.50",
+      "6520.50",
+      "6620.20",
+      "6625.17",
+      "7308.33",
+      "7324.24",
+      "7349.86",
+      "7400.11",
+      "6697.59"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-96 質問番号 地図番号 157 161 項目名 せともの A 普通注記 B(除いた共通語) C(除いた特殊語) ページ (3) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 6481.15 セトモノ (今) かうつもの 6492.50 setomono <新> karatsumono 6520.50 セトモノ <新青> かうつモン 6620.20 セトモノ <共> ﾁｬﾔﾜｰﾝ <疑称> 6625.17 setomono 希 setomono 7308.33 setomono <新> karatsm 7324.24 setomono (最近20〜30年來、聞くことは: jakimon という。) 7349.86 setomono <新> karatsumono 7400.11 setomono 新 karatsumono 6697.59 setomono <新> setomon",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04796.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04796",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04796.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "7401.92",
+      "7406.53",
+      "7423.77",
+      "7430.15",
+      "7435.07",
+      "9521.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 47-97\n質問番号　地図番号　157　161\nA 普通注記　B 除いた共通語　C 除いた特殊語　ページ (4)\n項目名　せともの\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7401.92　setomono　せともの　karatsumono\n7406.53　setomono　ずっとこのごろになってからいった　karatsu <くる>\n7423.77　setomono　<共>　karatu\n7430.15　setomono　上　jakimono（陶器をいう）　karatsumono\n7435.07　setomono　〈改まった言い方〉　karatʃu mon o\n9521.16　セトモノ　〈共〉　セトモン",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04797.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M161Q157/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC04797",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC04797.tif",
+    "source_ljc_id": "LJC-M161Q157",
+    "source_map_numbers": [
+      "161"
+    ],
+    "source_title": "せともの (陶磁器)"
+  }
+]

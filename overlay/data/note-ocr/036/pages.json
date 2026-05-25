@@ -1,0 +1,965 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0861.48",
+      "0894.61",
+      "1715.53",
+      "1739.10",
+      "1761.74",
+      "2699.89",
+      "2785.74",
+      "2795.01",
+      "0776.88",
+      "2765.02"
+    ],
+    "other_text": "0776.88 kobikwsai (-kusai 'hatkusae' ?) 2765.02 ebirikusai <?>\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< [] は厳密にする。\n日本言語地図資料用紙 注記一覧 8-50\n質問番号 041 地図番号 036\n項目名 コゲクサイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (/)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n0861.48 kobikusai <ごはん kobita>\n0894.61 imbukwsai <?>\n1715.53 konekusai <火のつかぬ前>\n1739.10 koyekusai nioi suru <希>\n1761.74 ユナクサイ (もとはこう言った)　コーヒークサイ\n2699.89 jagedzigikusae <老人はこれを普通使う>\n2785.74 kusai (接頭辞がいろいろ問うても出ない)\n2795.01 sitorikuse:, si (飯が上の方まで...)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00850.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00850",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00850.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3609.17",
+      "3619.58",
+      "3726.25",
+      "3727.81",
+      "3742.82",
+      "3741.16"
+    ],
+    "other_text": "3741.16. ko'bekuse, eiは狭いe\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉（ ）[ ]は厳密にする。\n日本語語地図資料用紙 注記一覧 8-51\n質問番号 041 地図番号 036\n項目名 コゲクサイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (2)\n\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n(こげて茶色に色がついたもの。)\n3609.17 koyekuse\njakekuse　<共に普通に用いる>\n3619.58 jagitsuギkuisse (古)\nkobi kuisse (新)\n3726.25 2) ユブクセ?　コビクセ?, コゲクセ?\n3727.81 コゲカモリス、形容詞の終止形\nヒャトータ、はどうにもみえてこられた\n3742.82 jagitsukji kuusse (女)\nkobi kuusse (女)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00851.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00851",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00851.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3753.88",
+      "3762.22",
+      "3784.87",
+      "4598.24",
+      "4609.07",
+      "4648.59",
+      "4679.65",
+      "3762.42",
+      "4644.10",
+      "4652.79",
+      "4657.88",
+      "4676.42",
+      "4676.60",
+      "4676.67"
+    ],
+    "other_text": "3762.42 konbikuuse, konbi, 小文字れは1/2音節程度.\n4644.10 [kogekuse?]\n4652.79 konekusae:\n4657.88 jagikusae (040と同じ答えであった.)\n4676.42 コゲクサを用居.\n4676.60 kogekuse\n4676.67 konekusae\n▶ 注記のく<>[]は厳密にする。\n\n日本言語地図資料用紙 注記一覧 8-52\n質問番号   地図番号  04/036\n項目名 コケクサイ\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語\nページ (3)\n\n地点番号  A 語形とその注記 [B·C 除いた語形とその注]   A 注のない語形 [B·C 残した語形とその注]\n\n3753.88  コビクセァ <食べるとき>           コケクセァ\n3762.22  コビカマリ <スル> (どうしても形容詞でい わなかれ.)\n3784.87  コビクセァ (新しい)               ヤギヅ・ギクセァ\n4598.24  kusai <希>                        konekusai\n4609.07  kobits:ta (kaori) (縁止形は出るかも)\n4648.59  kobitsukikusae <古>\n         jakitsukikusae <新> .. <最近用いるように> \n4679.65  ibukwuse: (他の表現があるらしいか:思)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00852.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00852",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00852.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4684.77",
+      "4700.78",
+      "4703.88",
+      "4712.16",
+      "4685.28",
+      "4686.52",
+      "4695.87",
+      "4701.14",
+      "4704.96",
+      "4711.41"
+    ],
+    "other_text": "4685.28 kogekuse\n4686.52 [kogekuse:]\n4695.87? [kogetku sae?]\n4700.78 jakjitsū ke kuse (傍線部分言等)\n4701.14 jagjidzuike kuse (gjは口蓋化された語)\n▶ A・[B]・[C]ごとに別紙を使用する。\n4704.96 <イブケル>\n4711.41 [koyekusae]\n（注記の< >()は厳密にする。）\n本言語地図資料用紙 注記一覧 8-53\n質問番号 041 地図番号 036\n項目名 コゲクサイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語]\n出してもらえなかった。\n4684.77 kogekuse; 連体形である。\n経止形も同形であろう。\n4700.78 jakjitsuuke kuse (傍線部分諸等)\n4703.88 köbi kuse: ぐおこげ\"はkōbi;\n\"焦げる\"は kobi しぃと言う>\n4712.16 jakitstige kuse, [ibakuse] 台\nkoge kuse〈新〉 所から妻か声をかけ, 被調査者が\nそれに同意した。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00853.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00853",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00853.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4712.54",
+      "4713.60",
+      "4714.22",
+      "4715.98",
+      "4714.68"
+    ],
+    "other_text": "4714.68. kôbikuse:\n日本言語地図資料用紙 注記一覧 8-54\n質問番号 041   地図番号 036\n項目名 コゲクサイ\n(A) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (5)\n\njagitsutage ta (形容詞の終止形か？ はよいが、このほかに、ひき出すことができるかもしれん。 jagitsutage ta no e のように使う。)\n\nkoyekause: <新>\njakitsukekause: <古>\n\nkôbikuse: <焦げけた> は kobita と言う。>\n\nkôbikusae <焦げるを kôbi よしといふ>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00854.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00854",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00854.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4722.40",
+      "4723.58",
+      "4724.00",
+      "4725.92",
+      "4734.56",
+      "4735.37",
+      "4721.36",
+      "4731.15",
+      "4742.37"
+    ],
+    "other_text": "4721.36. 4731.15. 4742.37?\nLjagidzügekusae? ë'bukuse', ë'はきめてに寄りのe jakidzükikuse', jは摩擦が強い koneykuse; (ëbuk kuse:])〔jakitsukekuse:〕\n本土言語地図資料用紙 注記一覧 8-55\n資料番号 041 地図番号 036\n項目名 コゲクサイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注]\n4722.40 jakjitsui kekusai (2)\n4723.58 koneykusae <一般に>\njagitsuut kekusae <特に、御飯や、煮物の時そりけ>\n4724.00 koneykuse: <稀>\n4725.92 kobikuse: <新>\n4734.56 konekuse: <新>\njagitsuutgekusee <焦げる>ことを、j2gitstt kumと言う。 j2k'ttsuu gekuse: jagit tsuagekuse\n4735.37 jagidzaugekkusae <土>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00855.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00855",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00855.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4742.37",
+      "4743.61",
+      "4743.95",
+      "4745.27",
+      "4760.54",
+      "4760.64",
+      "4742.95"
+    ],
+    "other_text": "4742.95. *jzakitsutagekuse\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は破線にする。\n\n日本言語地図資料用紙　注記一覧　8-56\n\n質問番号　041　地図番号　036\n項目名　コゲクサイ\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (ク)\n\n地点番号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\nkobidzugekuse <下>\n4742.37 kone kuse: ([ēburkuse:]) [jakitssu kekuse:]\n4743.61 kone kuse・(荒)　　　　jakittsuu kekuse\n4743.95 kusae <何臭いとは言わず:たれ> “古い”とか言わない>\n4745.27 jakitsukekuse: <多>　　　　kobikuse:\n4760.54 yakitsui kekusai <普通>　　　kogekusai\n4760.64 koje kusae <上は程度の軽い> ebukusae　場合、下は程度か。\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00856.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00856",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00856.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4761.07",
+      "4762.56",
+      "4783.74"
+    ],
+    "other_text": "日本言語地図資料用紙　注意一覧　8-57\n資料番号 041　地図番号 036　項目名 コゲクサイ　(8)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく<>[]は厳密にする。\n\n地点番号　A 語形とその注記 (B・C 除いた語形とその注)\nA 注のない語形 [B・C 残した語形とその注]\n\n相当ひとつい場合に使う。>\n4761.07  konekuse: (1040 まどを含めている e~bukmuse いろの場合一般に)\n4762.56  e~bukmuse <火里を出すことを e~buhum という。しかし e~bukmuse はごはんの焦げた場合にだけ使う。>\n4783.74  kusae <jagidzuilda2 garakusae というふうに言い、特別な語形はない。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00857.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00857",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00857.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "5585.09",
+      "5595.05",
+      "5605.11",
+      "5605.70",
+      "5614.62",
+      "5591.60",
+      "5604.65",
+      "5606.83"
+    ],
+    "other_text": "5591.60. コゲクサイ [sə:]\n5604.65. コゲクセ\n5606.83. kogekuse\n\n日本言語地図資料用紙 注記一覧 8-58\n質問番号 041 地図番号 636\n項目名 コゲクサイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (9)\n\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 (B・C 残した語形とその注)\n\n5585.09. koneru (koneru は, koneru kazza: のように言う.)                      koyekusai\n5595.05. koyetsuki, koyetsuki kadza??    のように言う。形容詞の終形を求め得ず。\n5605.11. kogekuse <多>                                                      kogeru niol\n5605.70. ko:baji: <穀類のこげれにおいを言う>\n[kogeTkuse:] (娘の発音を認めた)\n5614.62 [kinaTkuse] <希>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00858.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00858",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00858.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "5614.68",
+      "5625.91",
+      "5626.99",
+      "5631.26",
+      "5631.75",
+      "5635.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 8-59\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）［］は厳密にする。\n\n質問番号 041 地図番号 036\n項目名 コデクサイ\n(A) 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (10)\n\n地点番号 5614.68.\nA 語形とその注記: kogeTkuse <こちらを用いることが多い>\n[koge kkusae] 妻、子孫とも、この様に答え、被調査者も認めん。\n\n5625.91. kogekusae, [kogekkuse:]\n5626.99. ヤキッソキノニオイ <コゲルト、ムカシ ワイワナイ>\n\n5631.26. kopekuse: <俗に>    kopekusai\n5631.75. kope kusai <共>      kopekuse:\n5635.98. ヤキツキクセエ <古、多>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00859.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00859",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00859.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "5635.65",
+      "5638.53",
+      "5642.31",
+      "5644.74",
+      "5657.95",
+      "5652.81",
+      "5642.67"
+    ],
+    "other_text": "5642.67 [koyekuse] konjitsukikuse:\n日本言語地図資料用紙 注記一覧 8-60\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく><()[]は厳密にする。\n質問番号 041 地図番号 036 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (11)\n項目名 コデクサイ\n地点番号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\nコゲクセエ〈新〉\n5635.65 ヤキツキクセエ〈少〉\nコゲックセエ〈共〉\n5638.53 コケクサイ〈多〉    イブクサイ\n5642.31 konekusai〈上〉\nkobikusai〈俗な感じ〉\n5644.74 コゲックセエ（共）\nコゲクセエ（共）\n5657.95 konekusai〈上〉    konekkuse:\n5652.81 konekkusai〈共〉    konekkuse:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00860.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00860",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00860.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "5653.65",
+      "5655.57",
+      "5665.97",
+      "5657.73",
+      "5661.34",
+      "5666.18",
+      "5674.54"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく > () [] は厳密にする。 日本言語地図資料用紙 注記一覧 8-61 質問番号 041 地図番号 036 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (V2) 項目名 コゲクサイ 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5653.65 konekusae <共> iburi kusae <希> 5655.57 コゲッキ / ニオイガスル (共) 5665.97 N.R. ハナオツクニ=オイ 5657.73 コゲックサイ (共) 5661.34 kojekkuse: <そんさいれん> konekkusai <共> 5666.18 コテックサイ (共) コゲックセエ <共> 5674.54 kone ttsukikusai <上> kobittsykikuse:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00861.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00861",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00861.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5675.87",
+      "5677.28",
+      "5678.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 8-62\n資料番号 041 地図番号 036\n項目名 コゲクサイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (13)\n\n地点番号\n5675.87  コゲツッキニオイ…何度も口の中で言ふよ\nコゲツッキクセエカ から、しかも大部分考えて、答えた。\nゴハンカクサイゾ／そもそも、コゲツツイタン？\n\n5677.28  ! コゲノクサイ（どうして笑ったのか不明）\n\n5678.71  kobitsuki no nioi, kobitsuku nioi（kobitsuki no nioi）\nkobitsuki no nioi nasuru k, kobitsuku nioi ga suru 以外の言い方はどうしても多られなかった。終りには。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00862.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00862",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00862.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5679.86",
+      "5682.37",
+      "5688.01",
+      "5700.32",
+      "5712.70",
+      "5741.25",
+      "5699.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　8-63\n質問番号　地図番号　041　036\n項目名　コゲクサイ\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（14）\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > () [] は厳密にする。\n\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C　残した語形とその注）\n\n「キナクサイ」と同じように、何とかクサイという言い方はないかとまで聞いたが：「ない」という返事があった。\n\n5679.86  koyekkse, (荒) konekse\n5682.37  konekusai <上>　　　koyekuse:\n5688.01  コゲクサイ <普>　　　コケクセエ\n5699.42* konekusai （諸筆）　kusai\n5700.32  konekusai <方>　　　jakitsukikusai\n5712.70  jajitsūki kusai [konikusai]\n5741.25  konekuse: 別に調査した他の",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00863.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00863",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00863.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5760.57",
+      "5770.11",
+      "5782.79",
+      "5791.07",
+      "6349.80",
+      "6376.68",
+      "6338.99",
+      "6356.98",
+      "6367.09"
+    ],
+    "other_text": "6338.99 コゲクサアド (こげぐさいど?)\n* コゲクサイ\n6356.98 キジメクサイ (40と同じ)\n6367.09 <?> コゲクサイ\n日本言語地図資料用紙 注記一覧 8-64\n質問番号 041 地図番号 036\n項目名 コゲクサイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (15)\n（説明文の箇所）\n被調査者によれば；\njakiʔzukikukuse; konyeʔzukikukuse:\n5760.57 konerii nioi (名)(誘)koneyksae\n5770.11 kobikse (誘) koneksae\n5782.79 kusuburikutse: <希> (この方が元に聞) konek kuse:\n5791.07 konekuse: <程度弱>\n（取り消し線）he ji porikause: <程度度強>\n6349.80 kugi kusai <古> kogekusai\n6376.68 koge kusai (クレ集サトゥぐらいの時は kabajii と言う>\n（表の枠や見出し等、他の細かい注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00864.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00864",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00864.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "6402.94",
+      "6403.60",
+      "6410.77",
+      "6413.43",
+      "6413.76",
+      "6414.17",
+      "6424.89",
+      "6426.47",
+      "6396.08",
+      "6407.28",
+      "6411.66",
+      "6425.57",
+      "6435.12"
+    ],
+    "other_text": "6396.08 ? koge kusai\n6407.28 コゲクセヤ (セヤ SE?)\n6411.66 コゲクセ (クセ＝くさい)\n6425.57 N.R. クサイカザ\n6435.12 N.R. クサイ=ニオイ\n\n日本言語地図資料用紙 注記一覧 8-65\n資料番号 041 地図番号 036\n項目名 コゲクサイ\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n6402.94  コゲクシャ <焦げる…>\n6403.60  ソコ=4エタクサェ (底についた臭い)\n6410.77  リコン/4キクセ (底付臭い)\n6413.43  sokotsuki kusai <下品>  kogekuusai  ソコクシャ\n6413.76  クギクシャ <多>\n6414.17  soko zuk i kusai <外>  koge kusai <外>\n6424.89  kogekusai, 湯原町種  tjikitsuki kazagasuru\n6426.47  sokotsuki kazagasuru <底にこげっくから>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00865.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00865",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00865.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "6429.61",
+      "6445.57",
+      "6446.69",
+      "6447.39",
+      "6452.98",
+      "6454.88",
+      "6472.58",
+      "6441.71",
+      "6447.84"
+    ],
+    "other_text": "(handwritten top left) 6441.71 シキィ ツキョル -> 形容詞出す。 6447.84 ゴハンガッコニツイテクサイア（庭について） 64\n\n日本言語地図資料用紙 注記一覧　8-66\n\n（小箱） 質問番号　041　地図番号　836\n項目名　ユテクサイ\nA 普通注記　[B 除いた共通語] [C 除いた特殊語] ページ (17)\n\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜＞（ ）は厳密にする。\n\n（表見出し） 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n（行1） コゲクサイ <上、苔>　　　　　　　　　　　　　コゲクセァ\n（行2） N.R.　クサエェ　カザ：\n（行3） カザ <普>　　　　　　　　　　　　　　　　コゲタ = オエ\n（行4） koge kusai [そのにおいを soko- tsüikinokaza という…とのこと。]\n\n（空行）\n（行5） クギクサァ <シキニッツキョル>\n（行6） シキツキノカザ <普通>　　　　　　　　　シキツキノ ニウェエ\n（行7） コゲクサェ、ここではコゲクシャァとは言わず。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00866.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00866",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00866.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "6473.65",
+      "6474.83",
+      "6477.02",
+      "6479.51"
+    ],
+    "other_text": "日本言語地図資料用紙 記記一覧 8-67\nA・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）は厳密にする。\n質問番号 041　地図番号 036\n項目名 コゲクサイ\n(A) 普通注記 (B) 除いた共通語 (C) 除いた特殊語  ページ (18)\n地点番号／A 語形とその注記（B・C 除いた語形とその注）／A 注のない語形（B・C 残した語形とその注）\nクギクサイ ＜ソコイツキヨルデ＞\nコゲクサイ ＜くれている時＞\nソコツキフサイ ＜くれる時＞\nコゲクサイ，（コブツイートンシャナイカ？ サイゾと女言めは答えた。あとで考えてからコゲクサイと答えた。）\nsoko ni tsuku, こう言えば: こぜくさい kogekusai, の意として。kogekusai のザリに用いられると。",
+    "model": "gpt-5",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00867.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00867",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00867.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "6484.43"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 8-68\n\n質問番号 041． 地図番号 036． A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (19)\n項目名 コゲクサイ\n\n地点番号 6484.43\n\nコゲクサイ。くフスボリがアガルという言い方がある。それは、船の大女手（カシキ）と云って舟の中で大きな釜（はがま）で一斗位の米を炊く時、火がとろくまったりすると、釜の中の真中の部分だけが早く煮えて、粒が立ったようにそこだけ黄色になってしまう。それをフスボリがアガッタという。その部分の飯はくさい匂いがし",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00868.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00868",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00868.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "6485.46",
+      "6486.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 8-69 資料番号 041 地図番号 036 項目名 コデクサイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ R01 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] てますいのである。周囲は普通に出来る。 6485.46 カサル。<こんなとき、カサルリをむけて コゲクサイ、言うこともある。>(カサムとは別、これは自動詞である。) 6486.93* コゲクサイ（はじめはソコクサイ/ソコニイットンジャ） SOKOKUSAI との併用。 ナイカとのみ答えて、庭についたと言う言方だけで答えていた。結局コゲクサイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00869.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00869",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00869.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "6492.11",
+      "6538.46",
+      "6539.78",
+      "6542.71",
+      "6494.21"
+    ],
+    "other_text": "6494.21 (?) フスボックサイ\n日本言語地図資料用紙 注記一覧 8-70\n質問番号 041　地図番号 036\n項目名　コゲクサイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (21)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）は厳密にする。\n\nという共通語になったのである。\n6492.11  sotsuki kusai  … \"こげている\" にあ  sotsukikusai\nれると認められるか? 調査者がこういうと答えたので、あけておく。\n\n6538.46  [Koyekusai] （最初、どうしても出 まかれたが、後で、同 部落生れの女の（50歳程）の答えをそのまま認めた）\n\n6539.78 koyeksai ＜共＞  kopekse:\n6542.71 koyekusai  -タシカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00870.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00870",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00870.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "6551.52",
+      "6556.60",
+      "6557.14",
+      "6556.03",
+      "6559.22"
+    ],
+    "other_text": "6556.03 Konekusai\n6559.22 ?kojeksai\n\n日本言語地図資料用紙 注記一覧 8-71\n質問番号 041 地図番号 036\n項目名 コゲクサイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (22)\n\n地点番号 6551.52 コワシイニオイ。（コゲクサイという形容詞も行われている地域である。）\n6556.60＊ コゲクサイ〈荒〉\n6557.14 koyetonu(s)kazai yaseru (nijoi)\n\n〈臭い自体の名前はない。〉\n（二度尋ねてみたが結局臭い自体の名前に当る語を得られなかった。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00871.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00871",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00871.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "6566.51",
+      "6566.89",
+      "6577.86",
+      "6582.48",
+      "6586.27",
+      "6603.82",
+      "6571.68",
+      "6593.98",
+      "6603.08"
+    ],
+    "other_text": "6571.68.\n6593.98.\n6603.08 ＊コゲックサエ\n（上部手書きメモ）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞［］は厳密にする。\n041 / 036\n項目名　コゲクサイ\n（A 普通注記）　（ページ）(23)\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n\n6566.51 koge kusai ＜普通は kadzagazurun などと言う＞\n6566.89 kusa'i ＜koge kusa'i は使わない＞\n6577.86 kibita (kibita ka (省)というようである。)\n6582.48 iriborikūsai，鼻につんときてくさい意。\n6586.27 ikiburikusai ＜多＞　kogekusai\n6603.82 コゲックサイ＜普通＞　コゲックサイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00872.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00872",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00872.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "6604.38",
+      "6607.03"
+    ],
+    "other_text": "・A・[B]・[C]ごとに別紙を使用する。\n・その中での情報は地点番号順に並べる。\n・注記の＜＞（）[]は厳密にする。\n\n日本言語地図資料用紙　注記一覧　8-73\n\n質問番号　041　地図番号　036\n項目名　コゲクサイ\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ　24p\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6604.38　コピッツキクサイ＜古＞　コプッツキ クサイ\n6607.03　konekusai＜はじめは gohizan kone-teru＞と答えんが、脱線してゆく中に、「まあ、ユゲクサイ」ともいうか。焦げついた時はそんなことを言う余裕がなく、すぐにこげついていることを知らせなければならないから「ごはん、こげてる」というのだと言れた。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00873.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00873",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00873.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "6618.25",
+      "6626.06",
+      "6642.58",
+      "6645.62",
+      "6640.34"
+    ],
+    "other_text": "6640.34 ?koyetsukiksai\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >()[]は厳密にする。\n日本言語地図資料用紙 注記一覧 8-74\n質問番号 041 地図番号 036\n項目名 コゲクサイ\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語] (25)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\nN.R. ([koneyunioi to ju:]と言ったが:形容詞の終止形としては出さか, たので N/R とする.)\nKusai くさった物のにおいも [ku-sai]と言う。>\niburi kusai 中  koye kusai\nkobi tsuki kusae <飯の焦げつくことを kobi tsukun と言う。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00874.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00874",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00874.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "6646.74",
+      "6652.77",
+      "6655.38",
+      "6662.38",
+      "6710.70",
+      "7238.82",
+      "7249.95",
+      "6677.70",
+      "7246.45",
+      "7249.86"
+    ],
+    "other_text": "6677.70 Kinakusai\n7246.45 kogarku sak? (五島, rec? まく r, reの音韻変化である。上村)\n7249.86 igaritsukkusaka, 代口蓋北\n資図資料用紙 注記一覧 8-75\n041 036 項目名 コゲクサイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞( )[]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]\n6646.74 kobi'tsuki kusai (多)    koge kusai\n6652.77 wazumburi kusai, こげること,\n6655.38 kobi kusai, こげつくを kobitsuu-ku と言う。\n6662.38 kopetsuki kusai 上.    kobitsukikusai\n6710.70 kojekunse <普> (諸藩)\n7238.82 kogare kusaka <多>    kogekusaka\n7249.95 トゲクサカ, トゲクサカは御飯の時\nコガレクサカ、に限るが: コガレクサカは生けくさいという一般",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00875.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00875",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00875.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "7302.87",
+      "7303.17",
+      "7312.11",
+      "7326.91",
+      "7266.60",
+      "7266.92",
+      "7284.16",
+      "7303.29"
+    ],
+    "other_text": "7266.60 Kogarekusaka (ga..は正確には鼻音化せず)\n7266.92 Kogakkusaka, KOGARE からの変化。加藤シルス\n7284.16 Kogakkusaka, KOGARE からの変化。加藤シルス\n7303.29 kogekusai (力語尾まし)\n\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の < > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 8-76\n資料番号 041 地図番号 036\n項目名 コゲクサイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (27)\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]\n\n的な用法。\n7302.87 kogetsuki joru <koganruと言う>\n(ユゲクサイと形容詞の品詞として言おうとしない)\n\n7303.17 kogekusai, 具は異うか? 同じに言うと笑う。\n\n7312.11 kogekusai (外)\ntaki tsukijoru (多) (文型で単語化しているらしい。)\n\n7326.91 kogarekuse・<新> kinne:ku'se・",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00876.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00876",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00876.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "7325.57",
+      "7340.24",
+      "7340.50",
+      "7354.23",
+      "7361.82",
+      "7373.92",
+      "7382.93",
+      "7382.97",
+      "7342.12",
+      "7342.76",
+      "7372.27",
+      "7377.72",
+      "7381.38",
+      "7382.98"
+    ],
+    "other_text": "7342.12 Kogekusai (ーkaともまる)\n7342.76 Kogarekusa i (ーkaともまる)\n7372.27 <?>コガレクサカ\n7377.72 Kogarekuse:\n7381.38 キメクサカ(?)\n(一部線引き・訂正あり) 7382.98 コガレクサカ(やや古)\n\n日本言語地図 資料用紙注記一覧 8-77\n質問番号 041 地図番号 036\n項目名 コゲクサイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) (28)\n\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\n7325.57 kogekusai <上>  kogekusa:\n7340.24 コガレクサカ <こゝはんの場合に特にヤケ?サカ用いる>\n7340.50 todjikukasaka (todjiはこげのこと) → kogarekusaka\n7354.23 コガレクサイ <やや上>  コゲクセエ\n7361.82 語形 kogairekusaka.\n7373.92 スボレクサカ <焦げ方のひどいもの> コゲクサカ.\n7382.93 コガレクサカ <やや古> コゲクサカ\n7382.97 スボレクサカ <臭いの強い時に使う> コガレクサカ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00877.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00877",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00877.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "7383.98",
+      "7386.63",
+      "7391.94",
+      "7396.16"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 8-78\n質問番号 041　地図番号 036\n項目名 コゲクサイ\n(○) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　(29)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）は厳密にする。\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\n7383.98　コガレクサカ ＜古くからの言い方、今も基本＞　コガレクサイ\n7386.63　kogare kuse: ＜タ＞　jaketsukikuse:\n7391.94　コガレクサカ。＜こげた飯をコガレという。コガレカマンカイなど＞　ユゲクサカ\n7396.16　jaketsukikuse:（被調査者は、）kogarekuse:　jakeーの方が人語で、何分も良く使い、kogaーの方は中年以下の人で、自分は時たましか使わない、と言",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00878.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00878",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00878.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "7403.16",
+      "7403.86",
+      "7404.56",
+      "7412.31"
+    ],
+    "other_text": "7403.16. koge-ta pioi <koge-ta pioi ga suru> kogekusai (上)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n日本言語地図資料用紙 注記一覧 8-79\n質問番号 041 地図番号 036\n項目名 コゲクサイ\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (30)\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\nろか; kogaーは県内一般の慣用で老人も若い者も皆使のである。\n\nkogekusai <上>          koge-ta pioi\nkogekusai 新,           sokotuzuki kusai\nkogekusai <この時には boro-kusaiと言わない>\n\nkogari kusai (焦げついているにおいて性質を与えるには、<kogari ni tsuitoru>という由)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00879.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00879",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00879.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "7417.72",
+      "7420.18",
+      "7431.08",
+      "7432.44",
+      "7440.69",
+      "7431.67"
+    ],
+    "other_text": "7431.67 kogekusai (gの前鼻音化ほとんどなし)\n日本言語地図資料用紙 注記一覧 8-80\n資料番号 041 地図番号 036\n項目名 コゲクサイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞［　］は厳密にする。\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (31)\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A 注のない語形（B・C 残した語形とその注）\nN.R.  kazarjoru\nkoge kusai <kogekusai というように うにいラシともある。>\nN.R. (koge ni tsuita kaza ga suru ga > というと言って該当する単語は出まかれ。)\nkōge kusai <ク>\nkogekusai <希> <koge-tazo: ということが多い。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00880.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00880",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00880.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "7440.72",
+      "7503.11",
+      "7659.53",
+      "8239.31",
+      "7451.22",
+      "7471.38"
+    ],
+    "other_text": "7451.22 ko:baji:(?)\n7471.38 [kôgekusai]\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n日本言語地図資料用紙 注記一覧    8-81\n質問番号 041    地図番号 036\n項目名 コゲクサイ    A 普通注記  [B 除いた共通語]  [C 除いた特殊語]  (32)\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形 [B・C 残した語形とその注]\n7440.72  Kogetoru nioi (ふつうの形容詞の形で出なかった。)\n7503.11  konekusae (単独の形としては「コゲクサエ」であって「コゲクサー」とはならぬ。)\n7659.53  jigi tsukiga kamarowa\n    最初、N、Rえられがこのあたりに、このように言うと。\n8239.31  koarekusaga (kogarek/usaka の訛り。従って、9は... )",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00881.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00881",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00881.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "8300.11",
+      "8313.88",
+      "8316.20",
+      "8300.87",
+      "8301.19",
+      "8312.33"
+    ],
+    "other_text": "8300.87 Kizimeykusaka (キジメノクサイという?)\n8301.19 米スポリクサカ\n8312.33 N.R. (形容詞としてはまとまった形がいって良い)\n日本言語地図資料用紙 注記一覧 8-82\n質問番号 041 地図番号 036\n項目名 コゲクサイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞()[]は厳密にする。\n地点番号 A 語形とその注記 [B・C除いた語形とその注]\n落ちている、但し、このgは本来であったと思われる。参考 ガ行\nタラテは語中語尾で濁音化\n8300.11 コカレクサカ（希） コゲクサカ\n8313.88 Kogare kuse <希> / tetsukaza ga sui というのが普通\n(tetsu ... たきっく、tettjita ... たきっれ)\n8316.20 Kogekuse: 夕\nKogarekuse: 夕",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00882.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00882",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00882.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "8324.26",
+      "8352.40",
+      "8362.81",
+      "8342.69"
+    ],
+    "other_text": "8342.69 Kogarekuse, r は軽く, 抜けることもある。\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) は厳密にする。\n日本言語地図資料用紙 注記一覧 8-83\n質問番号 041　地図番号 036　項目名 コデクサイ\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (34)\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n\nkogarekuse: (何れとも言う。--語。)\njaketsuki kuse: (の形容詞としては、) kogarekuse: を持つべきであろう。\n\n(kogeta nie ga suru という言い方で答えた) (形容詞 絶止形は、ひき出せなかった。)\n\nkoyarekusa ga. (最初は: \"飯カナベーヒッタ\" と言っていた。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00883.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00883",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00883.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "8362.85",
+      "8373.93",
+      "9310.27",
+      "0249.17",
+      "0256.08",
+      "0294.66",
+      "275.99"
+    ],
+    "other_text": "0275.99 jakitsikikadza (jun) (上段のは動詞) (動詞の終止形の語尾の感じは 021.022.023 の注を参照)\n*nantsikikusahar? jakitsikikadzo juri\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () は厳密にする。\n\n日本言語地図資料用紙 注記一覧 8-84\n資料番号 041  地図番号 036  項目名 コゲクサイ\nA 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (35)\n\nA 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n\nkoge kuse <新,斎>  (（上段の語が取り消されている）)\nkoge ga kuse (一語らしくない)\nkamatsu ita, 最初 N.R た;\n\n'tekkani hada: suri - その他となる\ncf. te:tsikagukasasan タキツカル\n\nkogare kusasa (一語也)\nkogare kysasa <kogare kyusasan, nandzitjikusasa, nandzitjikusasa->",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00884.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00884",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00884.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "0294.93",
+      "1213.76",
+      "1261.32",
+      "2072.20",
+      "2074.69"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧\n資料番号 64/036　地図番号 036\n項目名 コテクサイ\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]\nページ (36)\nsanという人もある>\nte:tjikaikusasaran,\nte:tjikaikysasaでも発生とする。\nnandzikikugsasaji;\nnandzikikusasaで発生とすることも多い。\nnantjitjikaba <nantjitjika-dzaとは言わない>\nmuitfjadai <もえついたにちかの意>\ngaga fusadaru (fusadaruはクザリアルに当る語形)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00885.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00885",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00885.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "0861.48",
+      "1739.10",
+      "4644.10",
+      "4742.95",
+      "5791.07",
+      "6435.03",
+      "6446.69",
+      "6449.33",
+      "6477.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 8-86\n質問番号 地図番号 041 036\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (1/)\n項目名 コゲクサイ\n地点番号 A 音形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n0861.48 kobita 〈ごはんを言う〉 kobikusai\n1739.10 konetsuita (nioi) 〈普通〉 konyekusai 〈希〉\nkusai\n4644.10 kuseže [kogekuseže]\n4742.95 jaki·tsungeta *jzakittsungekuse\n5791.07 heli·pori kuse: 〈程度強〉 konekuse: 〈程度弱〉\n6435.03 クサイカザ シキイツワカザ\n6446.69 カザ 〈普〉 コゲタニオエ\n6449.33 コゲルカザ コゲクサイ\n6477.02 クサイ コゲクサイ.(コゲツイトン)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00886.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00886",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00886.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6530.23",
+      "6556.60",
+      "6560.22",
+      "6710.70",
+      "7266.09",
+      "7322.17",
+      "7332.27"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 8-87 質問番号 041 地図番号 036 項目名 コゲクサイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) (2) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] ジャナイカ、クサイゾ、と答めは答えれ。あとで考えてからコゲクサイと答えれ。 コゲクサイ ＊コゲクサイ（共） コゲクサイ Koyekuse（普）（諸尊） kogai kusaka kogekusai（形にでもいう） kogare kusai 6530.23 カザカプスル 6556.60 カンコクサイ 6560.22 クサイ 6710.70 kuse 7266.09 i:tsuki kusaka 7322.17 suboritsuki yoru (動が多い) 7332.27 kogare jo:ru",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00887.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00887",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00887.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "7377.72",
+      "7403.86",
+      "7432.44",
+      "8301.19",
+      "2157.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 8-88\n質問番号 041 地図番号 036\n項・目名 コゲクサイ\nA 普通注記（B除いた共通語）（C除いた特殊語） ページ (3)\n地点番号    A 語形とその注記（B・C除いた語形とその注）    A 注のない語形【B・C 残した語形とその注】\n7377.72 jakekuse:\n*kogarekuse:\n7403.86 kogekusai, 新.    sokotsuki kusai\n7432.44 kusai <多>    kōgekusai <少>\n8301.19 スポツ, タニオイ    ＊スポツクサカ\n2157.67 tsimbi:kada    nantsitsifusarikada",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00888.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M036Q041/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00888",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00888.tif",
+    "source_ljc_id": "LJC-M036Q041",
+    "source_map_numbers": [
+      "036"
+    ],
+    "source_title": "こげくさい (焦げ臭い)"
+  }
+]

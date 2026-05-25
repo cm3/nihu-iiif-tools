@@ -1,0 +1,617 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0896.22",
+      "2790.38",
+      "3735.77",
+      "3742.82",
+      "3746.09",
+      "3752.89",
+      "3771.29",
+      "3772.73",
+      "2754.11",
+      "2783.48",
+      "2795.66",
+      "3699.55",
+      "3702.89",
+      "3715.59",
+      "3733.22",
+      "3767.18"
+    ],
+    "other_text": "2754.11 <?> me.\n2783.48 dari (甘えるる意?)\n2795.66 ome\n3699.55 シミェ.[ミュ]は[ミ]をいう際の口の○の\nアミ…紙 カツラウで(メ)を発音した音。\n3702.89 ome\n3715.59 ama:\n3733.22 mε, mmε\n\n日本言語地図資料用紙 注記一覧\n52 037\n項目名 アマイ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語) ページ (1)\n\n地点番号  A 語形とその注記 (B・C 除いた語形とその注)  A 注のない語形 (B・C 残した語形とその注)\n0896.22  アマイ．〈ごくあまい時、アマッタルイ〉\n2790.38  mmε 〈普通〉\n3735.77  アマツコエ 〈砂糖の甘さのうすい時〉\n3742.82  amatsukoi (濃い)\n3746.09  mmme e 〈昔〉\n3752.89  amε, mmεと出そうなものだ  amatarae か? 出ない。\n3771.29  amataraε (ひとつい方)\n3772.73  mmε ... オイシイという意味も内包していることし\n\n右欄注記: 2mε  シメァ、アメァ、 mmmε  amεe  amadzukoi\n\n3767.18 アンメァ ... \"1051\" と同じ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00889.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00889",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00889.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "3782.38",
+      "4609.54",
+      "4618.87",
+      "4619.63",
+      "3784.87"
+    ],
+    "other_text": "3784.87 * アメア\n日本言語地図資料用紙注記一覧\n調査番号 052    地図番号 039\n項目名 アマイ\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）＜　＞は厳密にする。\n（A 普通注記）（B 除いた共通語）（C 除いた特殊語） ページ (2)\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A注のない語形 (B・C残した語形とその注)\n3782.38 mmε ・・・ これはにどろみ、おいしいと '甘い'ことが混在してあるようだ\n4609.54 mmε （おいしい意味にも） 2mmε\n4618.87 mmε （尚、これはウマイことも意味す る。つまり、糖砂糖の味をあらわす方の語が多いとし、てもよいわけである。）\n4619.63 amad3ikkol くものに砂糖を入れた amε とき。砂糖の直接の味ではない。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00890.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00890",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00890.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "4652.79",
+      "4663.06",
+      "4663.49",
+      "4666.42",
+      "4694.26",
+      "4637.68",
+      "4648.04",
+      "4667.33",
+      "4703.88"
+    ],
+    "other_text": "4637.68 amattarae\n4648.04 [lamattarae]\n4667.33 アマゲエ、ゲエは ge:であるか、ge:であるか、判定しょかんたん。\n4703.88 amakoe (051のようをときには、このことは) (は使われない。)\n052 037\n項目名 アマイ\nA（普通注記） B（除いた共通語） C（除いた特殊語） (3)\n地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n4652.79 amatare: ＜濃い甘さを言う＞ ame:\n4663.06 ame: , 甘味が足りまへんは、amo:ne:\n4663.49 2me: 「甘くない」は amo:ne:\n4666.42 amage: 後藤藤吉 [amattare:] [amagoe] (いずれも濃い甘さを言う)\n4694.26 [amagoe] …〈柿などの味〉（熟した amae 柿などの濃い甘さを言うのであろう）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00891.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00891",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00891.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4714.68",
+      "4715.33",
+      "4716.20",
+      "4725.92",
+      "4726.87",
+      "4734.20",
+      "4732.18",
+      "4734.56"
+    ],
+    "other_text": "4732.18 *ame:\n4734.56 amakoe (ostの意味には、このことばは使われない) ame:\n\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n資料番号 地図番号 052 037\n項目名 アマイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (4)\n\n地点番号 4714.68  Lamakoe].. (子乗のことばに同意。 *ame:\nなお、このことばはお汁の場合には使わないとのことである。)\n4715.33 *amakoe <お汁の場合には、使わない>\n4716.20 amakoe <本当に出す場合に使う>\n4725.92 ame: <この場合、今の子供たちは、amakoeと言っているが自分は使わない。>\n4726.87 amadz2sue <あまさがきついもの>\n4734.20 amakoe <ame:よりも、もっと甘いぞ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00892.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00892",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00892.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4742.37",
+      "4743.61",
+      "4744.32",
+      "4752.11",
+      "4742.95",
+      "4743.95",
+      "4745.27"
+    ],
+    "other_text": "4742.95. amakoe <051のame:とはちがって、もっと甘味の多い場合に使う。>\n4743.95 *amakoe, [amakoe]の方を普通使う。\n4745.27 *amatare:\n日本言語地図資料用紙 注記一覧\n資料番号 052 地図番号 037 項名 アマイ (A 普通注記) (B 除いた共通語) (C 除いた特殊語) ページ (5)\n地点番号  A 語形とその注記 (B・C 除いた語形とその注)  A 注のない語形 (B・C 残した語形とその注)\nを表わす。>\n4742.37 amakoe <非常に甘い味の場合。砂糖や飴を含めた場合など>\name: <煮物などに砂糖の味がついているような場合。>\n4743.61 amakoe <ame:より甘味の強いものに使う。>\n4744.32 amake: <ame:よりはもっと甘味の強いものを表わす。>\n4752.11 amakoe <amaeよりも甘さが強い>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00893.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00893",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00893.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4752.27",
+      "4760.64",
+      "5598.67",
+      "5615.78",
+      "5631.16",
+      "5635.48",
+      "5635.65",
+      "5636.74",
+      "4753.52",
+      "4761.07",
+      "5603.38"
+    ],
+    "other_text": "4753.52 amakoe (この場合は、amakoe であって、ame: とは言わない。)\n4761.07 amangoe\n4762.?? *ame:\n5603.38 amai\n\n日本言語地図資料用紙 注記一覧\n調査番号 地図番号 052 037\n項目名 アマイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (6)\n\n地点番号   A 語形とその注記 [B・C 除いた語形とその注]   A 注のない語形 (B・C 残した語形とその注)\n\n4752.27   amakoe <お汁の味がうすいときには amakoe とは 2me: <共> 言わない。>    2makoe\n4760.64   amangoek (取り消し線)\n5598.67   アマイ (アマシとも答えれ。)\n5615.78   amae. (自然に出た音であるかにややていねいな場合の発音)    2me:\n5631.16   ame: <田舎式>    amai\n5635.48   アメエ <古>    アマイ\n5635.65   アマイ (共)\n5636.74   サトオアメエ <ニモノノナドサトオガキキ スギタトキ>    アメエ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00894.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00894",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00894.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "5643.33",
+      "5644.74",
+      "5655.57",
+      "5657.73",
+      "5665.46",
+      "5666.18",
+      "5671.36",
+      "5676.84",
+      "5677.60"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧\n質問番号 052 地図番号 037\n項目名 アマイ\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語)\n地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n5643.33   amai (共)            ame:\n5644.74   アメエ (共)\n5655.57   アマイ (共)\n5657.73   アマイ (共)\n5665.46   アマイ〈新〉         アメエ\n5666.18   アメエ (共)\n5671.36   amai〈上〉           ame:\n5676.84   アマイ〈共〉、しかし子供の前で、アメとアメエと言うと、しかられる。\n5677.60   アマッタルイ…砂糖の味が強くてアマイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00895.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00895",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00895.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "5686.31",
+      "5688.86",
+      "5696.84",
+      "6402.53",
+      "6411.66",
+      "6384.25",
+      "6389.98",
+      "6407.28",
+      "6410.45"
+    ],
+    "other_text": "6384.25 amai (ilはもか) 6389.98 ウマイ 6407.28 アミャア (ミャ mɛɜ?) 6410.45 マイ (アマイのアを脱) sato:amai 8-96 8-95 日本言語地図資料用紙注記一覧 資料番号 052 地図番号 037 項目名 アマイ A 普通注記 [B 除いた共通語] [C 除いた特殊語] (8) 地点番号 A.語形とその注記（B・C除いた語形とその注） A注のない語形 [B・C 残した語形とその注] 3と-ろしている時 5686.31 ame:〈古〉 5688.86 アマイ。 アマタルイ…液状の物を食べた時 アマスギル…固形の物を食べた時 両方とも あますぎる時の表現 5696.84 ameる〈俗な言い方〉 6402.53 アマイ〈アミャと発音〉 6411.66 PX〈菓子ならマエ(うまい)〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00896.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00896",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00896.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "6413.10",
+      "6413.76",
+      "6415.23",
+      "6415.83",
+      "6420.34",
+      "6464.90",
+      "6481.94",
+      "6482.52",
+      "6411.80",
+      "6424.20",
+      "6452.98",
+      "6471.26"
+    ],
+    "other_text": "6411.80 *アマイ 6424.20 amai (iはeに近い) 6452.98 アマエ, ai -> ae, or amxe: 6471.26 アマイ, Eらにおよぶ\n\n(印刷) A・(B)・(C)ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。\n\n日本言語地図資料用紙 注記一覧\n資料番号 052 地図番号 037 (A)普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (9)\n項目名 アマイ\n\n地点番号    A語形とその注記 (B・C除いた語形とその注)    A注のない語形 (B・C 残した語形とその注)\n\n6413.10    amja <古>                                          amai\n6413.76    アミャ---タシい                                   アマエ\n6415.23    amja:<古>                                         amai\n6415.83    amai (老人には amja: と言う人がいるが自分は言わない。)\n6420.34    <＊> アマタラン (非常にあまいこと)                 アマイ\n6464.90    amxe:<上>                                         mmxe:\n6481.94    ウマア (古)                                         ウマイ\n6482.52    amai <砂糖の味がずっと濃いときは、amatoroiと言う>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00897.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00897",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00897.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "6495.82",
+      "6508.24",
+      "6518.30",
+      "6548.82",
+      "6557.77",
+      "6553.83",
+      "6556.60",
+      "6500.83"
+    ],
+    "other_text": "6500.83 [amæ:]  A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）（　）は厳密にする。 日本言語地図資料用紙 注記一覧 資料番号 052 地図番号 037 項目名 アマイ A 普通注記 (B 除いた共通語) (C 除いた特殊語) (10) 項目名 アマイ A注記とその注記（B・C除いた語形とその注） A注のない語形（B・C残した語形とその注） amatjikoi -> 甘さがつよい 2mai アマイ（甘いからうまいということ） アマイ アマタラコイ（あまたるい、あますぎるほどあまいの意） アメァ amat-taraji: <amiの強調表現> amai <過度の甘さは、アマッタルイ> amai amattarui（特にこってり甘い時） amai アマイ〈アマイとは砂糖のことを言う と共に、炊いたものの味の薄い時に言う〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00898.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00898",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00898.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "6587.36",
+      "6581.52",
+      "6587.68",
+      "6582.23",
+      "6590.35",
+      "6607.84",
+      "6565.17",
+      "6604.98"
+    ],
+    "other_text": "6565.17 2mai (cf.051)\n6604.98 アミイ〈2mai:〉\nA・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n日本言語地図資料用紙注記一覧    9-1\n資調番号 652   地図番号 037\n項目名 アマイ\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] (1)\n地点番号    A語形とその注記 (B・C除いた語形とその注)    A注のない語形 [B・C残した語形とその注]\n6587.36  アマイ〈強調にいう時、アマタルイと言う。〉\n6581.52  アマチロコイ〈希〉\n6587.68  アマチコイ〈ものすごくあまい時〉\n6582.23  アマイ〈普通はこれを用いる。他の二\n          アマコイ形を強調の時などに用\n          アマタルイという人がある。〉\n6590.35  アマタルイ〈とくべつアマイと言う〉\n6607.84  2mai〈ame:〉とは言わないと強調した。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00901.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00901",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00901.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "6608.69",
+      "6621.94",
+      "6625.17",
+      "6628.69",
+      "6631.60",
+      "6655.87"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（）は厳密にする。\n日本言語地図資料用紙 注記一覧 9-2\n資料番号 052   地図番号 037\n項目名 アマイ\n(A) 普通注記  (B 除いた共通語)  (C 除いた特殊語)  ページ (12)\n（表見出し）地点番号　A語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C残した語形とその注）\n6608.69  ame: 〈俗〉\t\tamai\n6621.94  sato: amai 〈希〉\t\tamai\n6625.17  amai 新。\t\tame:\n6628.69  amai（[-ai]の形と[-e:]の形とか）\n         ame: ともに出ているが、[ -e:]が昔からの形で、[ -ai]は教員(?)しての矯正された形かと思\n         われる。）\n         （[-ai]　[-e:]　両出） 040 050 052\n                        041 053\n                        049\n6631.60  〈amaʔta?rui〉 甘さの強い時\t\tamai\n6655.87  ame: 〈新〉\t\tume:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00902.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00902",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00902.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "6665.25",
+      "7312.11",
+      "7321.93",
+      "6721.31"
+    ],
+    "other_text": "6721.31（取り消し線）\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）〔〕は厳密にする。\n（右上ボックス）調査番号 0252   地図番号 037?   項目名 アマイ   普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (13)\n地点番号　A 語形とその注記（B・C除いた語形とその注）\n6665.25  mmai 〈くち甘様のきいているのにも、美味にも言う〉\n〈下田の宿のせ中ー下賀茂出身（東崎村隣村ーに、宿で確めたところ、上のことを認めている。）〉\n7312.11  amai 〈amakaは少し〉（強意を表す時はkaの語尾をとる。）\n7321.93  アマイ。 アマカと言へんことも多い。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00903.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00903",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00903.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "7332.46",
+      "7332.97",
+      "7338.55",
+      "7342.12"
+    ],
+    "other_text": "A・(B)・(C)ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は略記にする。\n\n日本言語地図資料用紙注記一覧 9-4\n資料番号 052   地図番号 037\n項目名 アマイ\nA 普通注記   (B 除いた共通語)   (C 除いた特殊語)   ページ (Vd)\n\n(表の見出し)\n地点番号   A 語形とその注記 (B・C 除いた語形とその注)   A 注のない語形 (B・C 残した語形とその注)\n\namai <amakaとは言わん>\namai (e:) (タ?)\n(アマカと言う人もあるが少し。よそから来た人である。)\namai <amo: no:! というのが普通>\namai  ame: とはこの地域かともなる。 これは連母音の長母音化は見られまい。対岸（筑波川北岸）では ame: の形をとる。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00904.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00904",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00904.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "7343.76",
+      "7352.14",
+      "7364.34",
+      "7372.27",
+      "7373.56",
+      "7383.88",
+      "7383.98",
+      "7372.96",
+      "7375.96",
+      "7385.61",
+      "4403.2"
+    ],
+    "other_text": "7372.96 アマカ\n7375.96 2mē: 説明書参照\n7385.61 ame: e: 説明書参照\n\n日本語語地図資料用紙 注記一覧 9-5\n資料番号 地図番号 052 037\n項目名 アマイ\n\n地点番号\tA 語形とその注記（B・C除いた語形とその注）\tA 注のない語形（B・C残した語形とその注）\n\n7343.76 amai (ame: か、他の形/変音 ai> e:がある。)\n7352.14 アマカ〈アミャアとは言わない、そういうのは熊本方面だ〉\n7364.34 アマカ〈新〉\n7372.27 アミャア〈親近法〉\n7373.56 アメア〈古来のいい方〉\n7383.88 アマク?(?)（黒砂糖はシロカラクという〉\n7383.98 アミャア〈希〉(?)\n44032/ amai しまま\n\n（右欄）アメェ、アマイ／アマカ／アマカ／アマイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00905.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00905",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00905.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "7403.21",
+      "7420.18",
+      "7440.72"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（｛｝は厳密にする。\n\n資料番号 052    地区番号 037\n項目名　アマイ\n普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\n(16)\n\n地点番号　A 語形とその注記（B・C除いた語形とその注）　A注のない語形（B・C 残した語形とその注）\n\n7403.21　amai [あまみのうすいのを amatlikoi; あまみが濃すぎるのを amata:re]\ntekuen のように言う。]\n\n74.11.27　amatai <つけた味で、砂糖掛けの濃いのに言う。>　amai\n\n7420.18　amatoroi <煮れものなどの砂糖あじが濃すぎるのに言う。>　amai\n\n7440.72　amatakuru? / amatarui <料理したものの、砂糖味が濃厚なときに言う。>　amai",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00906.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00906",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00906.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "7501.14",
+      "7502.91",
+      "7503.48",
+      "7510.18",
+      "7512.43",
+      "7513.07",
+      "7513.43",
+      "7521.16",
+      "7503.11"
+    ],
+    "other_text": "7503.11 amae (ai は [ae] であった。)\n日本語語地図資料用紙注記一覧 9-7\n項目番号 052  地図番号 037\n項目名 アマイ    (ページ (17))\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ] は厳密にする。\n\n（見出し）A 語形とその注記【B・C除いた語形とその注】　A 注のない語形【B・C 残した語形とその注】\n\nアマッタルイ <あまさの程度の強いもの> アマイ\nアマチコイ <とくに甘いもの> アマイ\nama: <古> amai\nアマチュイ <あますぎて、べたべたした感じのとき言う。> アマイ\nアマチチコイ <ねっとりしたあまさ> アマイ\nアマタルイ <たいへんあまいもの> アマイ\nアマイ <ものすごくあまいことをアマダルイと言う。> アマイ\nアマチチコイ <あま味のとくに強いもの> アマイ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00907.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00907",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00907.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "7522.48",
+      "7523.27",
+      "7533.11",
+      "8306.42",
+      "8313.84",
+      "8322.43",
+      "8325.77",
+      "8341.46"
+    ],
+    "other_text": "日本語語地図資料用紙注記一覧 9-8\n調査番号 052 地図番号 037\n項目名 アマイ (18)\n(A) 普通注記 (B 除いた共通語) (C 除いた特殊語)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）〔 〕は厳密にする。\n\n地点番号　A 語形とその注記 (B・C除いた語形とその注)　A 注のない語形 (B・C 残した語形とその注)\n7522.48　アマチュイ <すぐなく用いる。>　アマイ\n7523.27　アマタルイ <ものすごく甘い時>　アマイ\n7533.11　アンマイ <多少、強調の感がある>　アマイ\n　　　　アマタルイ <こういう人もある>\n8306.42　ame: <この方を普通使うように思う>　amai <共>\n8313.84　amaka <タ?>　ame:\n8322.43　mogwi <非常に甘い時>　ame\n8325.77　amai <上>　ame:\n8341.46　moge <甘すぎるときに言う>　ame",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00908.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00908",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00908.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "8343.97",
+      "0228.96",
+      "0249.17",
+      "0275.36",
+      "0275.97",
+      "0294.66",
+      "0294.93",
+      "0340.00",
+      "8342.35",
+      "8352.92",
+      "8362.81"
+    ],
+    "other_text": "8342.35. mme 〈057のameとの混同をさけて、うまいというのだ〉\n8352.92 umaka\n8362.81 mimaga (ウマイという形)\n■ A・(B)・(C)ごとに別紙を使用する。\n■ その中での情報は地点番号順に並べる。\n■ 注記の〈〉（）は厳密にする。\n日本語語地図資料用紙注記一覧     9-9\n頁番号 052  地区番号 037  ①普通注記\n項目名 アマイ  [B 除いた共通語]  [C 除いた特殊語] (19)\n\n地点番号    A語形とその注記（B・C除いた語形とその注）    A注のない語形（B・C残した語形とその注）\n\n8343.97    mmai 〈古〉                                      mme\n0228.96    a:ka 〈amakaの変化〉\n0249.17    amasari 〈今の若い人〉                         nurusari\n0275.36    その他〈sa'ta azi sui 砂糖味する,と言う〉\n0275.97    amahan 〈amahaniという人もあり〉\n0294.66    amasa 〈amasaのという人あり〉\n0294.93    ?masan  , ?masaでもよい。\n0340.00    nurusai 〈若い人はamasaiという〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00909.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00909",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00909.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "1213.76",
+      "1231.72",
+      "2076.96",
+      "1261.16",
+      "1271.05",
+      "2072.20",
+      "2076.25",
+      "2141.61"
+    ],
+    "other_text": "2141.61 azima (語幹で終止に用いる。azima:m あまいもの意は azima:m)\n日本音調地図資料用紙注記一覧 9-10\n052 037 アマイ (20)\n\n地点番号  A 語形とその注記\n1213.76 nurube:saji, nurubesaで終止することも多い。\n1231.72 その他 〈砂糖は甘いよ。sat'a nu 12dge je:i〉\n2076.96 azimasa:ŋ 〈タ〉\n        amasa:ŋ\n1261.16 ma:hay, amahay とは言わない。\n1271.05 Iamaθan, θ = !\n2072.20 amandu 〈甘いよ〉\n        amang (非常に言いにくいらしく, -du をる)\n2076.25 atsi masan (atsi'masan の小さい m は非音節的)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00910.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00910",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00910.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "3777.48",
+      "3782.38",
+      "4714.68",
+      "3699.55"
+    ],
+    "other_text": "日本語音声地図資料用紙 注記一覧 9-11\n調音番号 地図番号 052 037\n項目名 アマイ\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [] は厳密にする。\n\n地点番号   A 語形とその注記 (B・C除いた語形とその注)   A 注のない語形 [B・C 残した語形とその注]\n\n3699,55  /メェ    ソミェ [ミェ] は [ミ] をいう\n                       アミェ 際の口のカッコウで [メ] を発音した音。\n\n3777.48  ソマイ (菓子のとき)    アメァ\n\n3782.38  amagomii arii    mmxe, これはどうも おいしいと『甘い』とかが 混融してあるようだ。\n\n4714.68  amae    *ame:\n                      [amako e]･･･(子孫のことばに 同意。なお、このことばは...)\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00911.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00911",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00911.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "4715.33",
+      "4732.18",
+      "4743.95",
+      "4745.27",
+      "4760.64",
+      "4762.77"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    9 12\n（上部小見出し）A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（　）は厳密にする。\n（右上の欄）資料番号 052　地図番号 037　A 普通注記（B除いた共通語）（C 除いた特殊語） ページ (2)\n項目名　アマイ\n（表の見出し）地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n（表中）4715.33　ame\n4732.18　amae\n4743.95　amae\n4745.27　ame\n4760.64　amae（共）、上、希.改で、katシルス。\n4762.77　amae\n（右側注記欄、手書き）お汁の場合には使われないとのことである。＊amakoe（お汁の場合は使わない。）＊ame:＊amakoe、[amakoe]の方を普通に使う。＊amatare: amanoe ＊ame:",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00912.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00912",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00912.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "4773.27",
+      "5517.57",
+      "6411.80",
+      "6491.49",
+      "6500.83",
+      "6580.06",
+      "7400.11",
+      "1231.72"
+    ],
+    "other_text": "日本言語地図資料用紙注記一覧 9-13\n管理番号 052 地図番号 037\n項目名: アマイ\nA 普通注記  B 除いた共通語  C 除いた特殊語 (3)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n\n地点番号    A 語形とその注記 [B・C除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n4773.27    ame:\n5517.57    amai〈共〉    *amae\n6411.80    ウマイ    mmai  *アマイ\n6491.49    amakureru〈煮つけたものの味が?砂糖 amai けがひどく濃いときに言う〉    amai\n6500.83    アマイ    (amz:)\n6580.06    アマイ〈共〉    アンマイ\n7400.11    共. amai (〈amai zake n'do ama: no: 2ma: to jiu:〉と言っていた。)    ama:\n1231.72    1adze.〈砂糖味 甘いよ sat'amu その他〉",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00913.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00913",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00913.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [],
+    "other_text": "9-14\n日本言語地図資料用紙 注記一覧\n\n► A・[B]・[C] ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の＜ ＞（ ）［ ］は厳密にする。\n\n質問番号: 052\n地図番号: 037\n項目名: アマイ\n\nA 普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　（4）　ページ\n\n地点番号 ／ A 語形とその注記 [B・C 除いた語形とその注]　／　A 注のない語形 [B・C 残した語形とその注]\n\nʔadʒe jeːi＞",
+    "model": "claude-sonnet-4-6",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00914.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M037Q052/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC00914",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC00914.tif",
+    "source_ljc_id": "LJC-M037Q052",
+    "source_map_numbers": [
+      "037"
+    ],
+    "source_title": "あまい (甘い)"
+  }
+]

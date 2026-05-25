@@ -1,0 +1,1725 @@
+[
+  {
+    "source_image": "page_000.jpg",
+    "page_index": 0,
+    "location_numbers": [
+      "0724.12",
+      "0724.95",
+      "0779.03",
+      "0861.48",
+      "0715.53",
+      "0747.55",
+      "1848.24",
+      "1859.84",
+      "1862.48",
+      "2608.90"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-07\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ ( / )\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の<　> (　) [　]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n0724.12 aze <ここにはない>\n0724.95 aze <しばらく考えていた、利尻には田がながらか>\n0779.03 adz(e) 長谷川氏記入せず〜記入もれか\n0861.48 a'ze' <ここにはないが知っている>\n0715.53 NR <知らない>\n0747.55 aze (aze?) keihan\n1848.24 a'ze' <聞くだけ>\n1859.84 <　>\n1862.48 NR <近くにならいから使わない>\n2608.90 アゼ <水田　奥尻にはない>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05907.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05907",
+    "source_canvas_label": "1",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05907.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_001.jpg",
+    "page_index": 1,
+    "location_numbers": [
+      "2713.83",
+      "2722.67",
+      "2731.97",
+      "2782.67",
+      "2811.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-08\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜ ＞（ ）[ ]は厳密にする。\n質問番号　地図番号　/87\n項目名　あぜ　182\n(A) 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (2)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n2713.83　NR　鹿部村にタンボなし\n2722.67　フロというのがある\n2731.97　フロ　〈アゼとはいわない〉\n2782.67　oma　〈太…他人の田との境〉　kstro\n2811.01　アゼ　浦河町旭町\n最初のカードにはタンボとあり不審に思って　問：あわせたところアゼの答を得た。（別\nあやまりとのこと）しかしタンボはいちあう不審\nだが、アゼのことをタンボという地方もありめ\n写しあやまりという理由はあとでつけたのかも\nない。　TOk",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05908.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05908",
+    "source_canvas_label": "2",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05908.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_002.jpg",
+    "page_index": 2,
+    "location_numbers": [
+      "3699.25",
+      "3712.89",
+      "3727.81",
+      "3741.57",
+      "3767.18",
+      "3775.11",
+      "4609.07",
+      "4609.68",
+      "4619.29"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-09\n質問番号　地図番号　/ 187\n項目名　あぜ　182\n(A) 普通注記　ページ\n[B] 除いた共通語\n[C] 除いた特殊語　(3)\n\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜　＞(　)[　]は厳密にする。\n\n地点番号　　A 語形とその注記［B・C 除いた語形とその注］　　A 注のない語形［B・C 残した語形とその注］\n3699.25　kuyo　〈土を盛って起しにおく〉\n3712.89　node　〈草の生えているところ〉\n3727.81　onagūro（音）　kuro\n3741.57　kūiro（古）　アゼー\n3767.18　kūiro（小さいもの）、nodzo（大きいもの）\n3775.11　ドテ（大）、クニ（小）\n4609.07　aze〈最近〉　kuro\n4609.68　node〈段々の場の場合の大きな畦〉　kuro\n4619.29　tanosage（旧の場）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05909.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05909",
+    "source_canvas_label": "3",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05909.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_003.jpg",
+    "page_index": 3,
+    "location_numbers": [
+      "4619.63",
+      "4637.20",
+      "4637.68",
+      "4638.43",
+      "4644.10",
+      "4647.87",
+      "4648.59"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく ><()[] は厳密にする。\n\n日本言語地図資料用紙 注記一覧 59-10\n質問番号　地図番号　187\nA 普通注記　ページ\n[B 除いた共通語]　[C 除いた特殊語]　(4)\n項目名　あぜ 182\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nadze <共>　　　　　　　　　　　　　　　　tanokuro\na'ze anze の様にもきかれる。\nkuro (これが古くからの言い方か)\ng'ze (新しい言い方か)\nkuruw <互に水平等(高さの間のあぜ)>\ndode <高さの異なる田の間のあぜ>\n\na'ze\n商人故、種類についての知識あり。\n\nkuro ... <平場の旧の細いあぜ>\ndode ... <傾斜地の田の間の大きいあぜ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05910.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05910",
+    "source_canvas_label": "4",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05910.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_004.jpg",
+    "page_index": 4,
+    "location_numbers": [
+      "4654.52",
+      "4658.42",
+      "4659.85",
+      "4663.92",
+      "4665.87",
+      "4666.99"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-11\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）［ ］は厳密にする。\n質問番号　地図番号　／187　項目名　あぜ　182　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (上)\n表ヘッダ：地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書きメモ（行ごとに概略）:\ndge [keihan] は青年が登記この場合など (=用) ..3.\n[tanokuro]\nkuro, aze\nkeu中o＜一般に＞, Remro＜改まっているば＞（図示の矢印）\na'ze ＜平坦地＞\nkuro＜傾斜地の下のところのアゼをいう＞\nkeihan ＜新＞（昭和の時代、耕地整理があり） aze\naze（最も細かい語形） nakaze（自己の...）\n（下方にさらに注記と手書き説明あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05911.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05911",
+    "source_canvas_label": "5",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05911.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_005.jpg",
+    "page_index": 5,
+    "location_numbers": [
+      "4667.33",
+      "4667.76",
+      "4668.27",
+      "4676.39"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ] は厳密にする。 日本言語地図資料用紙 注記一覧 59-12 質問番号 地図番号 /87 A 普通注記 [B 除いた共通語] [C 除いた特殊語] （6） 頁 項目名 あぜ 182 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 幅広く人も通れる一丈中位のあぜ> クロバダく草など生えているえい余斜面を持つあぜ>  dode<高さのちがう田の間の傾余斜を持った大きいあぜ。 あぜ。草が生えている。 kuro <あぜの半面の土をつけ。(これはkurotsukeという) 豆を植える部分の名? awa) seguro (両方からkurotsukeにあぜ) dode <1m〜1m50位の大きいあぜ。 kuro (傾余斜地のあぜであろう) aze … 細くなっていて歩けないところ ONO … 歩けるところ（株のものはo〜nのように）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05912.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05912",
+    "source_canvas_label": "6",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05912.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_006.jpg",
+    "page_index": 6,
+    "location_numbers": [
+      "4676.67",
+      "4677.65",
+      "4678.71",
+      "4685.10",
+      "4685.72",
+      "4685.88",
+      "4686.52"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-13\n質問番号　地図番号　187\n項目名　あぜ　182\nA 普通注記 　[B 除いた共通語]　[C 除いた特殊語]　ページ (7)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（　）（　）［　］は厳密にする。\n\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n4676.67　kuro tanokuro　（く若い者は9zeという。）\n4677.65　aze　水平な（二枚の田の間のあぜ）\n　　　　kuro\ndote　（高さのちがう田の間のあぜ）\nke:han（新）（新しい農業用語）\n4678.71　g'dze　（上部及び全体）\n4685.10　[aze]（はじめnazeと答えた）\n4685.72　aze mitji（これは道路になっているあぜ） aze\n4685.88　aze　kuroは島の境をいう。\n4686.52　aze　せまいあぜ\n\nO:no - azeより小さくて人間の歩ける程度の道のあぜ。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05913.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05913",
+    "source_canvas_label": "7",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05913.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_007.jpg",
+    "page_index": 7,
+    "location_numbers": [
+      "4687.01",
+      "4687.37",
+      "4696.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-14\n質問番号　地図番号\n( A ) 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語]\n項目名　あぜ　182\n\n▶　A・[B]・[C]ごとに別紙を使用する。\n▶　その中での情報は地点番号順に並べる。\n▶　注記の＜＞〈〉〔〕は厳密にする。\n\n地点番号　　A 語形とその注記［B・C 除いた語形とその注］　　A 注のない語形［B・C 残した語形とその注］\n\n4687.01　kuro <…> あぜや田のわきを tanokuro という。\n        … aze <旧主 塗りと kuro nuri とも aze kake とも言う>\n        kuro も aze とも同じもので…\n\n4687.37　doteguro <中のえ… 傾斜土やにあるあぜ> kuro\n        aze <kuroと同じ普通のあぜ、…>\n\n4696.82　tanokuro (草の生えている長い斜面のあぜ)\n        aze (普通のあぜ。互いに同一平面… =める田の内のあぜ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05914.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05914",
+    "source_canvas_label": "8",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05914.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_008.jpg",
+    "page_index": 8,
+    "location_numbers": [
+      "4699.07",
+      "4701.14",
+      "4701.73",
+      "4704.46",
+      "4706.53",
+      "4710.18"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-15 質問番号 地図番号 187 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (9) 項目名 あぜ 182 A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞( )[ ]は厳密にする。 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 4699.07 kuro <ろく使う> 4701.14 mote <くまんなかの道> 4701.73 kuro <一般> 4704.46 タンボ (系後のカードとの記入ちが…ではない、(OK)) 4706.53 tambo <ち> …〈田をto, 昔をtamboと言っていた〉 kuxo <新・希> 4710.18 ono -> 草をメイるとき… オノクソ オノホ渡す (田を渡るな) (以下、手書き注記が続く)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05915.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05915",
+    "source_canvas_label": "9",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05915.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_009.jpg",
+    "page_index": 9,
+    "location_numbers": [
+      "4711.82",
+      "4721.36",
+      "4724.00",
+      "4732.86"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-16\n質問番号　地図番号　187\n項目名　あぜ　182\nA 普通注記　ページ　(10)\n[B 除いた共通語]　[C 除いた特殊語]\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜ ＞（ ）[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4711.82　ono <但し草を刈る時だけ>　kuro, tanokuro\n4721.36　kuro <自分の田の境>\n4724.00　ona <他人の田との境> <kuroより云...>\n4732.86　tanokuro? dote(?) <この辺には田んぼ>\n\nkosi (表記の誤りかも知れないが—一応)\n調査のままかうつす。ほかの地名は省\nkuroであったがここだけkokruであった\nという記憶は…まのところない…\n今後を見ると間違いかな… プロセス\n（以下、さらに手書きの注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05916.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05916",
+    "source_canvas_label": "10",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05916.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_010.jpg",
+    "page_index": 10,
+    "location_numbers": [
+      "4736.63",
+      "4243.44",
+      "4745.27",
+      "4753.16",
+      "4760.64"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-17\nA・[B]・[C]ごとに別紙を使用する。　その中での情報は地点番号順に並べる。　注記の＜＞（ ）［ ］は厳密にする。\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ (//)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\naze　＜この島には田はない＞\nNR　eyuune　＜?＞（?）\njizose　＜自分の田から見て外側の壁＞\nkuro　＜自分の田から見て内側の壁＞\n＜外側がそのまま山につながって＞\nkuro　＜古＞, keihan　＜新＞\ntanokuro（トコの音は一種特殊な adje）\n発音である。子音は[ ]と[中]の中間的（以下手書きの注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05917.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05917",
+    "source_canvas_label": "11",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05917.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_011.jpg",
+    "page_index": 11,
+    "location_numbers": [
+      "4762.56",
+      "4762.99",
+      "4773.78",
+      "5472.94",
+      "5472.91",
+      "5574.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-18\n▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の＜＞( )[ ]は厳密にする。\n（右上の箱） 質問番号 地図番号 87 項目名 あぜ 182 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (1/2)\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C 残した語形とその注］\n4762.56  tanoguro （これだけで一語である）\n4762.99  kuro ＜この方を昔から使っている＞\njope ＜土を「寄せる」からか？＞\n4773.78  kuro ＜tateyuro, jokoyuro etc＞\ndote  あり＞\n5472.94 (取り消し線)\n5472.91  dote adenmuri ということはいう。\n5574.42  aje ＜△こういう側面のあぜ＞\n(以下省略、手書き注記あり)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05918.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05918",
+    "source_canvas_label": "12",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05918.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_012.jpg",
+    "page_index": 12,
+    "location_numbers": [
+      "5575.55",
+      "5576.60",
+      "5584.22",
+      "5585.63",
+      "5595.05",
+      "4663.92"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-19\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(13)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n（表ヘッダ）\n地点番号　A語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き注記（抜粋）:\naze　<旧のへつを kuro、これは aze のコト（便）である>\naze mbo <子>\nadze　和目、、kuro　人が通れるようなえいところ\naje\n普通の場合、kuro　タンボが段々\n4663.92 に（図）\nx ざろ e ・kuro（図）　ではない、とみる\n5595.05 adze はそらなにこの辺、この辺は段々に回る、その時間のような\n\n（図や走り書きの注記多数）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05919.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05919",
+    "source_canvas_label": "13",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05919.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_013.jpg",
+    "page_index": 13,
+    "location_numbers": [
+      "5604.65",
+      "5605.87",
+      "5606.83"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-20\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\n(1/4)\n\nアゼ　大豆など植えられる普通のアゼ\nテアゼ　水を(せきる)ためだけの細いアゼ\nドテ　草が生えている余地間の広いあぜ\nアゼ　普通のあぜ\nテアゼ　（極めて細いあぜ）\naze（田のみについていう）\nKUMO（田にも畑にもあるという。形、位置など）\nおそらく（ない…この諸は稀に用いるという）\n傾斜地の田又は畔の一部のやつひろい地斜の部分を言うのであろう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05920.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05920",
+    "source_canvas_label": "14",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05920.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_014.jpg",
+    "page_index": 14,
+    "location_numbers": [
+      "5607.17",
+      "5608.5",
+      "5611.74",
+      "5612.98",
+      "5613.53"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-21\n質問番号　地図番号　187\n項目名　あぜ 182\nA 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (15)\n\n地点番号　A 語形とその注記【B・C除いた語形とその注】　A注のない語形【B・C 残した語形とその注】\n\n5607.17 adze <これも使う> \ntanokumuro\n5608.5/ tanokulo <kuloだけで通用するが\n通常上の地く言うことが多い>\n5611.74 ドテ (斜面のえいあぜ) \nアゼ\n5612.98 aze (平地の田の農道の小さ..あぜ)\ndote (傾斜地にある田の大きなあぜ)\n5613.53 aze (稲・杵か？)\nkuryo aze <草を刈るだけで土を上げずり塗らぬ>\nあぜという>\nnuridaze <こんと交射に土を塗るようのあぜ>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05921.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05921",
+    "source_canvas_label": "15",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05921.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_015.jpg",
+    "page_index": 15,
+    "location_numbers": [
+      "5615.28",
+      "5621.43",
+      "5622.48",
+      "5623.42"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-22\n質問番号　地図番号　187\n項目名　あぜ　182\nA 普通注記\n[B　除いた共通語]\n[C　除いた特殊語] (1/6)\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5615.28 aze　普通のあぜ\n5621.43 aze　(普通のあぜ)\nteaze　<低い・細…水を(きる/きるためのあぜ)>\n薄く清水を周の他の部分に流さぬ\n為に作るあぜなど。>\n5622.48 aze　<小さく細いがそこに大豆を植える程度の普通のあぜ>\n5623.42 aze\n[simple sketch: mamadote]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05922.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05922",
+    "source_canvas_label": "16",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05922.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_016.jpg",
+    "page_index": 16,
+    "location_numbers": [
+      "5624.05",
+      "5625.32",
+      "5625.91",
+      "5628.23",
+      "5628.70",
+      "5629.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-23\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n質問番号 地図番号 187\n項目名 あぜ 182\nA) 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (／7)\n地 点 番 号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5624.05 kobumaze (kobuの生えているようなあぜ。大 aze)\n豆などは作らない。あぜである\n\n5625.32 アゼ（人が通れ、大豆などを植えられる程度の畦）\nナカアゼ＜細いあぜで通ることはま、車ない。＞\nドテ＜大き．．傾斜面をまった土手状のあぜ＞\n\n5625.91 水田のな．．エゼだがきいた。\n\n5628.23 kuro <希>\n\n5628.70 N/R（この辺にはタンボがない、従ってタンボ\nの境もないので村もない）\n\n5629.98 ドテ＜よく使う＞ フロに同一所有者が居る時 アゼ\n（に作った境という。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05923.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05923",
+    "source_canvas_label": "17",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05923.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_017.jpg",
+    "page_index": 17,
+    "location_numbers": [
+      "5731.13",
+      "5635.65",
+      "5636.49",
+      "5636.74",
+      "5639.80",
+      "5641.07",
+      "5641.99",
+      "5644.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-24 質問番号 地図番号 187 項目名 あぜ 182 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (10) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5731.13 dode (kuroの倍次上) kuro, aze 5635.65 ドテ <オオキイ/ナイグン?> 5636.49 タンボン プ04 <多> 5636.74 アゼ (〈クロスリトユラシ、アゼガリトモ？〉) 5639.80 ドテ <草が生えているところ> 5641.07 aze (---このような場合は kuro haba) 5641.99 aze eはちょっと狭め 5644.24 aze <田:ここに=なし>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05924.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05924",
+    "source_canvas_label": "18",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05924.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_018.jpg",
+    "page_index": 18,
+    "location_numbers": [
+      "5645.89",
+      "5646.71",
+      "5648.53",
+      "5649.29",
+      "5651.95",
+      "5652.37",
+      "5653.08",
+      "5654.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-25\n質問番号　地図番号　187\n項目名　あぜ　182\n普通注記\n[B] 除いた共通語\n[C] 除いた特殊語　(19)\n\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5645.89　フロく多><フロスリ>, アゼ<クサ・アゼクサ>\n5646.71　クロくウェノメンダケ?, アゼ<イネ/ワンネ? エトロ?>\n5648.53　アゼ <草の生えている畔之様な境>\n5649.29　KURO 土を盛りあげて作ったものはクロという。 チェハン\n5651.95　bota <中もえくて大きいもの> adze\n5652.37　aze <畦の場合はkuro>\n5653.08　qdze <畦のみについて> <(しかしには関係がない)>\n5654.98　アゼ <サカイナアアゼ・ミズエモチセルヨニヌルトコロ>\n\n(下部手書きメモ、ワク口)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05925.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05925",
+    "source_canvas_label": "19",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05925.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_019.jpg",
+    "page_index": 19,
+    "location_numbers": [
+      "5655.57",
+      "5655.97",
+      "5656.56",
+      "5658.01",
+      "5658.89",
+      "5659.42"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-26\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語　ページ　(20)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）[　]は厳密にする。\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5655.57　712〈くち〉, ケイハン〈く新〉, アゼ〈くち〉\n5655.97　アデ〈く多〉\n5656.56　ク口〈自分の家の中のサカイ〉　サカイく自分の家と他家とのサイ\n5658.01　ク口〈毎年作りかえる境〉　ドテ〈岸の生えているところ〉\n5658.89　アゼ　普通の言い方\n5659.42　アゼ　他人の田と、自分の田との境をいう。ク／ロ　自分の所有地の中の境をいう。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05926.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05926",
+    "source_canvas_label": "20",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05926.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_020.jpg",
+    "page_index": 20,
+    "location_numbers": [
+      "5662.78",
+      "5665.11",
+      "5665.46",
+      "5667.08",
+      "5667.24"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 59-27 質問番号 地図番号 項目名 あぜ 182 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (2/) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] 5662.78 ke:han <新> アゼ 2dZe 5665.11 ＜ミズのムラナイヨテニ(エモ)ヌルダケノトコロ＞ 5665.46 ナカグロ＜自家のサカイ＞ ドテ＜他家トノサカイ＞ 5667.08 クロ＜セマイ＞ ミチ＜ヒロイ＞ 5667.24 アゼ：＜両方とも同じ、人のあける所＞ オオナ クロ＜ミズオセギルダケデアルカナイワクロ＞ ミズをモタセルホウワシタグロ、オオナヨリ材 キイミナワ（ウマイレ） 大きい",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05927.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05927",
+    "source_canvas_label": "21",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05927.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_021.jpg",
+    "page_index": 21,
+    "location_numbers": [
+      "5667.41",
+      "5667.81",
+      "5668.38",
+      "5669.12",
+      "5669.19",
+      "5669.96",
+      "5674.84",
+      "5675.87",
+      "5676.28"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-28\n質問番号　地図番号　/87　項目名　あぜ 182\n(A) 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (22)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5667.41　フロ <アゼフトナリバタ> / ケイカイ?\n5667.81　チイハン <新>\n5668.38　オオナ <くち>\n5669.12　kuiro <普通>\n5669.19　tambo(え), tanokuiro(秣)\n5669.96　ke:han <専門語>\n5674.84　aze\n5675.87　アゼ　語彙と|こめる程度らし...\n5676.28　tanokuro <azeは主として畑の境界とする盛土をさす>\n\n（原稿は手書きで読み取りに曖昧な箇所があります）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05928.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05928",
+    "source_canvas_label": "22",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05928.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_022.jpg",
+    "page_index": 22,
+    "location_numbers": [
+      "5676.52",
+      "5676.84",
+      "5677.16",
+      "5678.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-29 質問番号 地図番号 187 項目名 あぜ 182 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (23)\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）[ ]は厳密にする。\n地 点 番 号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n手書き欄（おおむね）:\n5676.52　サウネ（181と同様 田がないなら答は不完全）\n5676.84　チェハン〈書きことば〉\n5677.16　アゼ（談） 余の為、アゼとは何かたずねる（手書きで続きあり）\n5678.33　フロ〈賓〉（以降手書きメモ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05929.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05929",
+    "source_canvas_label": "23",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05929.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_023.jpg",
+    "page_index": 23,
+    "location_numbers": [
+      "5678.86",
+      "5679.86",
+      "5680.11",
+      "5685.37",
+      "5686.15",
+      "5686.31",
+      "5686.67",
+      "5687.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-30\n質問番号　地図番号　187\n項目名　あぜ　182\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (24)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5678.86　アゼ　〈歩くところ〉，クロ〈田の境〉\n5679.86　kūro, koymuro, oina (大きなの)　　aze\n5680.11　aze　\"\" mama\n5685.37　NR　〈米は作らない〉\n5686.15　ku'ro〈多〉, ku'ro'muriと言うが\n5686.31　a'ze, a'ze'nuriとは言わない\n5686.67　アゼ？（絵にかいて指摘したので間違い）　ウネ\n5687.32　クロ　〈特別に土を塗ったアゼ〉　アゼ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05930.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05930",
+    "source_canvas_label": "24",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05930.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_024.jpg",
+    "page_index": 24,
+    "location_numbers": [
+      "5688.74",
+      "5688.86",
+      "5689.34",
+      "5689.43",
+      "5689.78",
+      "5690.12"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-31\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）[ ]は厳密にする。\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　ページ（25）\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n5688.74　kuro ＜タンボとハタケや道との境でに＞（になっているところはアゼという。）\n5688.86　クロ ＜クロだけではわからぬ時もある＞　tamokuro　大きなもの\n5689.34　kuro\n5689.43　tanokuro ＜普通＞　kuro\n5689.78　kuro ＜[o:ju]kuro＞ と＜koguro＞がある。［o:ju kuro は中三尺ぐらい…］\n5690.12　aze ＜タンボとタンボとの水半(?)の境＞　場合はnote>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05931.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05931",
+    "source_canvas_label": "25",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05931.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_025.jpg",
+    "page_index": 25,
+    "location_numbers": [
+      "5690.96",
+      "5693.78",
+      "5696.13",
+      "5697.53",
+      "5698.69",
+      "5698.91",
+      "5699.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-32\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　/87　項目名　あぜ　182\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (26)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n5690.96  bota (まだ他の言い方が ありますかという向に対?)  adze, adzema\n5693.78  アデ　＜アゼの言化り＞\n5696.13  クロ　＜火田ならハタチプロという＞\n5697.53  ドテ　＜田でも草が生えている所ならばドテ＞\n5698.69  tebi ＜冷い水が田に入らぬように作った＞\n5698.91  つ形の土を盛った所、アゼではない　＊a'zemitji\n5699.25  kuro たきな滝を＜kuro＞\n(下部に図入り手書きメモ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05932.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05932",
+    "source_canvas_label": "26",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05932.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_026.jpg",
+    "page_index": 26,
+    "location_numbers": [
+      "5703.68",
+      "5711.85",
+      "5712.70",
+      "5720.34",
+      "5720.71",
+      "5722.37"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-33\n質問番号 地図番号 187\n項目名 あぜ 182\nA) 普通注記  [B 除いた共通語]  [C 除いた特殊語]  ページ (27)\n\n地 点 番 号    A 語形とその注記 [B・C 除いた語形とその注]    A 注のない語形 [B・C 残した語形とその注]\n\nkuro <土を塗った部分をさす>    dote\nkeihan <新>    kuro\ntanokuro [kuro, keihanともいうが、これは登記関係用語]\nドテ    やがて2尺ほどあってその上を歩ける。\nク12    中も狭く歩けない。\nクロ    水どめに土を盛ったものをいう。\nドテ    草が生えていて歩けるもの\nKauro ... 泥をはりつける。 dote ... 2,3尺の高の\n草を見やしておく道。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05933.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05933",
+    "source_canvas_label": "27",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05933.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_027.jpg",
+    "page_index": 27,
+    "location_numbers": [
+      "5723.60",
+      "5730.71",
+      "5731.67",
+      "5732.13",
+      "5732.73"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-34\n質問番号 地図番号 187\n項目名 あぜ 182\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (28)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\nke:han <共>\nkuro\nkuro <自分の田の境に作るもの。毎年作りなおす>\nドテ <他の家の田との境になっているもの>\nkuro <毎年ぬりなお(する)小さなもの>\ndote <常にある大きなもので人が通れる>\nkuro <毎年つくりかえる小さなもの>\ndote <草なども生えていて大きく、人が通れる>\nkuro <同じ高さの田をくぎる為、毎年つくる尺巾>\nくらいのもので、人はその上を歩けない>\ndote <米坪というところは高低の傾斜のある地> なので田は段々になり、その段を形づくるものがドテである。",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05934.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05934",
+    "source_canvas_label": "28",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05934.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_028.jpg",
+    "page_index": 28,
+    "location_numbers": [
+      "5733.02",
+      "5740.43",
+      "5742.32",
+      "5750.31",
+      "5751.24"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧　59-35\n質問番号　地図番号　187\n項目名　あぜ　182\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (29)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< () [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]\n5733.02  aze <濡れる程度のもの>\n5740.43  kuro <水を止めるために塗る土, 塗ったところ>\n5742.32  あぜ <小さ…境を言う>\n5750.31  ドテ <大きい境を言う>\n5751.24  kuro <田の土をもりあげてつくる。毎年つくりかえる>\n5751.24  dote <つくりかえない大きなもの>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05935.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05935",
+    "source_canvas_label": "29",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05935.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_029.jpg",
+    "page_index": 29,
+    "location_numbers": [
+      "5751.89",
+      "5752.32",
+      "5761.27",
+      "5761.91",
+      "5762.41",
+      "5770.11",
+      "5770.46"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 59-36 質問番号 地図番号 187 項目名 あぜ 182 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (30) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] 5751.89 hazemitji <上面> 5752.32 kuro <手ににつくる・ふつうもの> 5761.27 na:te <いつもある大きいもの> 5761.91 kuro <くすかなところ> 5762.41 tsutsumi <大きな人の寄り集め> 5770.11 kuro <小さな...> 5770.46 kuro (諸) 0ina",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05936.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05936",
+    "source_canvas_label": "30",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05936.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_030.jpg",
+    "page_index": 30,
+    "location_numbers": [
+      "5770.60",
+      "5771.36",
+      "5771.42",
+      "5772.84",
+      "5780.11",
+      "5780.62",
+      "5782.25"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-37\n質問番号　地図番号　187\n項目名　あぜ 182\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (3/1)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n5770.60　kuro <人が通らない境>, o:na <人が通れる>\n5771.36　tsütsümi <と-れも同(もの?)> ke:ha, kuro\n5771.42　kuro <和田もの?>, tambo <大きいもの>\n5772.84　kuro <人が寄けない小さなもの>\n5780.11　o:na <太いの>, ke:han <新>, (誤) kuro <・・・>\n5780.62　kuro <koyauro 小さいもの>\n5782.25　adze <人が寄けるもの>\n\n（以下欄外の手書き注記や罫線等）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05937.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05937",
+    "source_canvas_label": "31",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05937.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_031.jpg",
+    "page_index": 31,
+    "location_numbers": [
+      "5790.39",
+      "5790.79",
+      "5791.07",
+      "5791.23",
+      "5792.02",
+      "5792.18"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-38\n項目番号 地図番号 187\n項目名 あぜ 182\nA 普通注記 ページ (32)\n[B 除いた共通語]\n[C 除いた特殊語]\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n5790.39  tebi  宮代などの囲りの境    kuro\n5790.79  tenyuro  特に小さいものは    kuro, tanokuro\n5791.07  kuro <和>、o:naく太…>    \n5791.23  Kuro  大きな境を <kuro>\n小さな境を <hosokuro>\n（図）\n5792.02  o:na<くち、多>    tsum tsumi\n5792.18  kuro <ただの田と田の境、昔はこれだった、水の…> \n（下部手書き注記）\nke:hanah <朝に整理のあとでできた、それまでにクロで…>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05938.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05938",
+    "source_canvas_label": "32",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05938.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_032.jpg",
+    "page_index": 32,
+    "location_numbers": [
+      "5792.62",
+      "6267.16",
+      "6349.80",
+      "6365.91",
+      "6366.16",
+      "6375.40",
+      "6389.59"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-39\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]　ページ（33）\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >（ ）[ ]は厳密にする。\n\n地点番号　A　語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n5792.62　aze　〈道のようになっている所〉\n6267.16　アゼ（畦の境をシンビエという）\n6349.80　aze　—  ？gili（手書き）\n6365.91　aze〈ここは、ほとんど段々畑であるから、こんな〉\n6366.16　NR〈こういう所をあまり見たことがないから〉\n6375.40　?dotemifji（旧のへりをあまり通ったことがない）\n6389.59　ゲシ〈当地方は段々の畑が多いからアゼとアゼ・・・〉\n\n（手書きの注記やくずし字あり、上はおおよその読み取り）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05939.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05939",
+    "source_canvas_label": "33",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05939.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_033.jpg",
+    "page_index": 33,
+    "location_numbers": [
+      "6395.61",
+      "6408.88",
+      "6413.10",
+      "6419.50"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-40\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< > ( ) [ ]は厳密にする。\n質問番号　地図番号　187\n項目名　あぜ　182　(34)\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6395.61  adze  ①ade オ3/右\n6408.88  アゼ、〈田と田の間〉、コナワ〈田と、山やりの間〉\n6413.10  mitsui (子浜半島には水田が全くない、ことはないがこの附近にはないためアゼとは答えてくれなかった) (ミサが果ててしまい答えてくれなかった) かどうか不明である。\n6419.50  アゼ〈平地〉 (アゼは平地の田の境である。キャくり際〉 キャは刈のそばなどで…)\n（本文は手書きの注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05940.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05940",
+    "source_canvas_label": "34",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05940.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_034.jpg",
+    "page_index": 34,
+    "location_numbers": [
+      "6421.82",
+      "6423.75",
+      "6424.20",
+      "6424.35"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-41\n質問番号　地図番号　187\n項目名　あぜ　182\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]　ページ　(35-)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6421.82　aze , gesl　(手書き図) gesl (長く小垣久95?)　aze (やや臨時的)\n6423.75　aze (azeよりazeに近い)\n（江尾であったテタを聞いたところ）\n（図）アジエ\n6424.20　Keta (山田などのアゼの高いものを言う)　aze\n6424.35　アゼ　＜小さくて人は通れない＞\nヤマアゼ　＜人が通れる＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05941.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05941",
+    "source_canvas_label": "35",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05941.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_035.jpg",
+    "page_index": 35,
+    "location_numbers": [
+      "6428.76",
+      "6429.61",
+      "6431.85",
+      "6432.22",
+      "6433.34",
+      "6437.07",
+      "6438.33",
+      "6448.23",
+      "6452.98"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-42\n質問番号　地図番号　687　A 普通注記　ページ (36)\n項目名　あぜ 182\n▶ A・[B]・[C] ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（ ）[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6428.76　ドテ（山田の境）　アデ\n6429.61　ドテ（山田の境は高いので）　アゼ\n6431.85　ケタ　※アゼよりうしく、歩く道にも利用する。　アゼ\n6432.22　アジェ（小さいもの）、ケタ（大きいもの）\n6433.34　アゼ — 3e にごく近い\n6437.07　アゼ（アゼとアデの中間音で…）\n6438.33　キセ（特に高いアゼを言う）　アゼ\n6448.23　チェハン＜新＞　アゼ\n6452.98　ゲシ ともいうく？　アゼ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05942.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05942",
+    "source_canvas_label": "36",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05942.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_036.jpg",
+    "page_index": 36,
+    "location_numbers": [
+      "6457.18",
+      "6461.27",
+      "6562.48",
+      "6474.83",
+      "6476.13",
+      "6476.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-43\n質問番号　地図番号　187\n項目名　あぜ　182\n(A) 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (37)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< >（ ）[ ]は厳密にする。\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6457.18　チェハンく新・公用語?　アゼ\n6461.27　チェハン（新）　アジエ\n6562.48　アゼ〈ケイハンより少し大きい〉\n6474.83　アゼ（旧のない島であよ）\n6476.13　キシ〈隣の田と差し・高低かつあり、t 異が〉　アゼ\n6476.93　アゼ…平坦地の田の境\n\n（下部に続く手書き注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05943.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05943",
+    "source_canvas_label": "37",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05943.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_037.jpg",
+    "page_index": 37,
+    "location_numbers": [
+      "6477.02",
+      "6484.43",
+      "6484.78",
+      "6485.14",
+      "6485.0"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。 ▶ その中での情報は地点番号順に並べる。 ▶ 注記のく＞＜（）[ ] は厳密にする。 日本言語地図資料用紙・注記一覧 59-44 質問番号　地図番号　187 項目名　あぜ　182 (A) 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (38) 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注] 6477.02　キシ・・・（m2以上の高位のある場合の差のようになった境を言う。） のようになった境を言う。 6484.43　アゼ・・・田と田との間にサカイ（えいのはアゼミ？）であるかあって、それに、土をかきあげてアゼ＝マメを植えたりする部分を元と（2いう。） 6484.78　(タカギ＝シン) 6485.14　キシく一方が高く一方が低いときにいう。石垣にしたり、コンクリートにしたり（2ある） 6485.",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05944.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05944",
+    "source_canvas_label": "38",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05944.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_038.jpg",
+    "page_index": 38,
+    "location_numbers": [
+      "6486.07",
+      "6486.50",
+      "6486.93"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-45\n質問番号 地図番号 187\n項目名 あぜ 182\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (39)\n\n地点番号  A 語形とその注記 [B・C除いた語形とその注]  A注のない語形 [B・C 残した語形とその注]\n\n6486.07　アゼ　平田の境\nキシ　一方が高い田である時の低い田との境をいう。堺をいう。涯のようになった斜面／余地面全体を含めていう。\n\n6486.50　キシ　一方の田より高い田の境である。アゼ\n斜面をあわせてキシという。\n\n6486.93　アゼ　く水田にするとき、堺の小さな上土（田の土）を盛りあげてきれいに塗って、その上にあぜを植えたりする部分\n\n（以下手書きの注記が続くが判読不可の箇所あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05945.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05945",
+    "source_canvas_label": "39",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05945.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_039.jpg",
+    "page_index": 39,
+    "location_numbers": [
+      "6487.66",
+      "6494.08",
+      "6494.21",
+      "6494.55",
+      "6501.92",
+      "6512.02"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-46 質問番号 地図番号 項目名 あぜ 182 A 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ (×0) A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（）（）[ ]は厳密にする。 キシク一方が高く一方が低いときの際どう　アゼ キシク三尺ソス上の高低の差がある場合の 境の崖のようになったところ。 アゼ＜畦畔の間を通る為に作られているものをいう。＞ アゼ＜高い所と低いところとの場は6,7尺程度＞ よあればガケという。1,2尺程度 の差の度のあぜはヨイという。 NR　田はない。 Kijiという",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05946.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05946",
+    "source_canvas_label": "40",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05946.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_040.jpg",
+    "page_index": 40,
+    "location_numbers": [
+      "6512.14",
+      "6522.79",
+      "6525.75",
+      "6532.70",
+      "6533.89",
+      "6568.82"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-47\n■ A・[B]・[C]ごとに別紙を使用する。\n■ その中での情報は地点番号順に並べる。\n■ 注記の＜　＞（　）[　]は厳密にする。\n地 点 番 号    A 語形とその注記 [B・C 除いた語形とその注]\n6512.14    adze  そのへりは kiji という。\n6522.79    アジェ（田畦のこと）、＜ノミチ＞（旧よりも、もう少し ゆのうい道（リヤカーの通れるぐらい） とい うか）\n6525.75    hota く歩けるあぜ -> aze くすりない…あぜ\n6532.70    アデー [2] -> [d]の位置の非常に着し 地方であるが、この言形ではとれが…\n6533.89    keihan（漢語の方 わりあいよく使うらしい） adze\n6568.82    āzeˈmitɕi  azeのことであるが、＜azeˈiは余り用い＞",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05947.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05947",
+    "source_canvas_label": "41",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05947.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_041.jpg",
+    "page_index": 41,
+    "location_numbers": [
+      "6554.88",
+      "6557.36",
+      "6562.22",
+      "6565.56",
+      "6570.89",
+      "6572.29",
+      "6572.55",
+      "6575.17"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-48\n資問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ（42）\n• A・[B]・[C]ごとに別紙を使用する。\n• その中での情報は地点番号順に並べる。\n• 注記の＜＞（ ）[ ]は厳密にする。\n\n地点番号　A語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n6554.88  aze　<アゼにそえた草を kuro, それを kurogari という。>\n6557.36  [adze]\n6562.22  うネくアゼより来り表・道> , アぜくやミ天の道\n6565.56  kuroga <土のもう方の多いもの> aze\n6570.89  アジェ [aze]\n6572.29  「アゼ」(単にあぜというと泥でぬりこめた aze mitji　境界をいう。)\n6572.55  aze (書音 ade)\n6575.17  アゼ　(少し不明瞭な注記)\n\n（下部にメモ）ほどでない　TOK, 転写",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05948.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05948",
+    "source_canvas_label": "42",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05948.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_042.jpg",
+    "page_index": 42,
+    "location_numbers": [
+      "6581.36",
+      "6581.52",
+      "6582.73",
+      "6584.90",
+      "6591.02",
+      "6600.53",
+      "6605.84"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-49\n質問番号　地図番号　/87-\nA 普通注記　(B 除いた共通語)　[C 除いた特殊語]　ページ (43)\n項目名　あぜ　182\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6581.36　アデ（アゼの訛り。土地の発音としてはアゼの方が多い。。）\n6581.52　アデ（アゼの訛り）\n6582.73　アデ（””）\n6584.90　アデ（　）　A'de まはちの位置がdに近い？\n6591.02　アゼ（フヶ、サカテという人もある。これは国の境がかけになっているときに用いる）\n6600.53　botaくえい。 他余料をもつての > adze\n6605.84　テアゼ……オオアゼの内側に設けられていて アゼ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05949.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05949",
+    "source_canvas_label": "43",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05949.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_043.jpg",
+    "page_index": 43,
+    "location_numbers": [
+      "6606.38",
+      "6608.07",
+      "6616.22",
+      "6619.76",
+      "6620.53",
+      "6621.34",
+      "6626.30"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< >（ ）[ ]は厳密にする。 日本言語地図資料用紙 注記一覧 59-50 質問番号 地図番号 187 項目名 あぜ 182 (A)普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (44) 地点番号 A語形とその注記 [B・C除いた語形とその注] A注のない語形 [B・C 残した語形とその注] kuro …… 畠の境にいう。 -aze kuro …… たんぼの境 aze く田のまわりの、水を通すところは [temizo]と言う。 kuro (kuroの種類は知らないようである。） aze くえ…（傾斜地や耕作にくまないもの） botd く草の生えているところは aze く歩いていけないところ sar-kumba'miti く歩くところ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05950.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05950",
+    "source_canvas_label": "44",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05950.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_044.jpg",
+    "page_index": 44,
+    "location_numbers": [
+      "6626.46",
+      "6628.23",
+      "6630.43",
+      "6631.69",
+      "6639.43"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-51\n質問番号　地図番号　187　項目名　あぜ　182　A 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (45)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の〈〉( )[ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6626.46  aze'mitʃi 〈歩ける所（え···）〉\n6628.23  kuro 〈歩けない所（狭い）〉\n6630.43  kuro 〈水がもらないように泥でおよ···だ所〉\n　　　〈これを作ることを [kubotsuku] という〉\n6631.69  d͡ze' 〈田と田の間で耕作にのみ必要であり 人の通る為のものではない〉\n　　　d͡ze'mitʃi [aze'] よりややひろく人が通ることがを来るもの。\n6639.43  aze 田は全くない。\n[以下手書き注記、読みにくい部分あり]",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05951.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05951",
+    "source_canvas_label": "45",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05951.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_045.jpg",
+    "page_index": 45,
+    "location_numbers": [
+      "6639.79",
+      "6645.01",
+      "6657.96",
+      "6677.41",
+      "6686.75",
+      "6700.25",
+      "6700.48",
+      "6701.01"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-52\n質問番号　地図番号　187\n(A)普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (46)\n項目名　あぜ　182\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（[ ]）は厳密にする。\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6639.79   kuro <希>    taykuro\n6645.01   dote  ち     āze\n6657.96   ?do  <水田はないが、陸稲の次の辺の...>  (手描き図)\n6677.41   dote <azu は...>\n6686.75   a'dze <上の半らなところは a'dze do::ki>\n6700.25   kuro  たぶん koguro\n6700.48   <o:naguro 太...もの>    kuro\n6701.01   kuro … 総称、watarinuuro 人が通りすぎたもの\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05952.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05952",
+    "source_canvas_label": "46",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05952.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_046.jpg",
+    "page_index": 46,
+    "location_numbers": [
+      "6701.46",
+      "6710.02",
+      "6710.55",
+      "6711.95"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-53\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（ ）［ ］は厳密にする。\n質問番号　地図番号　187\n項目名　あぜ　182\nA 普通注記\n(B 除いた共通語)\n(C 除いた特殊語)\nページ (47)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6701.46　kuro・・・総称, o:ma・・・やがて大きな口\n6710.02　kuro teppen guro・・・小さく細い境。　kuro\n6710.55　kuro <人の通れる大きなもの>, teguro <小さいもの>\n6711.95　[watariguro] 大きい“クロ”つこと。[teguro] watariguro = えだに(?)一枝田の…\n\n（下部に小図）\nオオグロ　ワタリグロ\n\n（手書き注記・線図等あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05953.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05953",
+    "source_canvas_label": "47",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05953.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_047.jpg",
+    "page_index": 47,
+    "location_numbers": [
+      "6720.23",
+      "6720.67"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-54\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく >< ( ) [ ] は厳密にする。\n\n質問番号　地図番号\n項目名　あぜ　182\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\nページ (408)\n\n(表見出し) 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nkuro... 人が通れるような大きいものをいう。\ntebi... 小さい境をいう。（wt}iguroともいう。）\n(図のスケッチ)\nkuro... 喜(道?)大きいものをする。\nteguro... kuroを仕切る小さいものをいう。\n> 大きいフロの中にまた「くろ」を作った場合に\n[wt]iguroという。 (図のスケッチ)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05954.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05954",
+    "source_canvas_label": "48",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05954.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_048.jpg",
+    "page_index": 48,
+    "location_numbers": [
+      "6721.31",
+      "6721.33",
+      "6730.33",
+      "6731.03",
+      "7208.97",
+      "7229.50"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-55\n質問番号　地図番号\n/187\n項目名　あぜ 182\nA 普通注記　ページ\n[B　除いた共通語]\n[C　除いた特殊語] (49)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記のく >< () [ ] は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n6721.31  taykuro (希)    kuro\n6721.33  kuro (普通は人がその上を通ることが出来...)  る大きいものをこういう。\n[teguro] 上のより細く小さいものに\n[je:gu:ro] こういうのがある。\n6730.33  [ade] 棚にいうこともある。\n6731.03  tanokuro (次のつにもあるのかと思ってきいてみる)  kuro\n7208.97  aze (道のあるものに限らず...)  kuru (kul)\n7229.50  aze <ぬりかえたりするとこ。次回には使わない>\n\nkuru (他にも次回にも使う。田でもすきで すりだいところをkuru などという。)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05955.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05955",
+    "source_canvas_label": "49",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05955.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_049.jpg",
+    "page_index": 49,
+    "location_numbers": [
+      "7229.75",
+      "7237.67",
+      "7238.12",
+      "7238.82",
+      "7238.40",
+      "7239.24"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-56\n質問番号　地図番号　/187\n項目名　あぜ　182\nA 普通注記　[B] 除いた共通語　[C] 除いた特殊語　ページ (5-0)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜　＞（　）［　］は厳密にする。\n\n（表見出し）\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A注のない語形［B・C残した語形とその注］\n\n7229.75　aže (やっ?藍化)\n7237.67　kisi (石垣の方)\n7238.12　Aže ＜山田の下の方が azeで上の方は kiji＞\n（手書き図と注記）\nkuri ＜旧につ…こそ? 使う、但し塗＞\nたくするのは AZEnuri\n\n7238.82　kuru ＜この方がようだ＞\n7238.40　Aze ＜旧に つ..つ＞\n7239.24　A'ze ＜平地＞ [a'zeに塗るものの名]\nkuru ＜山の田のkijiに…＞\n(tano kuri より)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05956.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05956",
+    "source_canvas_label": "50",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05956.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_050.jpg",
+    "page_index": 50,
+    "location_numbers": [
+      "7239.85",
+      "7239.90",
+      "7246.45",
+      "7247.86",
+      "7249.35",
+      "7251.98",
+      "7266.01"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。 日本言語地図資料用紙 注記一覧 59-57 質問番号 地図番号 187 項目名 あぜ 182 A 普通注記 [B 除いた共通語] [C 除いた特殊語] (51) 地点番号 A 語形とその注記 [B・C 除いた語形とその注] A 注のない語形 [B・C 残した語形とその注] aze (azeとはまけない..) aze → 下 kuru → まわり全部について kiji → 上 adze あぜを作ることは kukukuri という kuru 次回のもう アゼ (azeとazeの中間的な言い方) aze (口蓋化せず) kui (kuriにあたるものの上音の脱落)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05957.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05957",
+    "source_canvas_label": "51",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05957.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_051.jpg",
+    "page_index": 51,
+    "location_numbers": [
+      "7269.96",
+      "7279.93",
+      "7309.37",
+      "7321.93",
+      "7324.24",
+      "7326.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-58 質問番号 地図番号 187 項目名 あぜ 182 A 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (5-2) 地点番号 A 語形とその注記 [B・C除いた語形とその注] A 注のない語形 [B・C 残した語形とその注]\n7269.96 sakumitji <あぜで道をかねたもの> aze\n7279.93 aze <次田の境合、kuriという。>\n7309.37 ade 下を見て。 (図示) - giji ade (矢印図)\n7321.93 ヌリドテ > (上下差あるとき)(歩ける道) ドテ\n7324.24 a'dze (zeでなかった)\n7326.41 a'ze <旧の一方が高くなっているとき その高い方の壁を kutronagi という。> (図示)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05958.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05958",
+    "source_canvas_label": "52",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05958.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_052.jpg",
+    "page_index": 52,
+    "location_numbers": [
+      "7331.41",
+      "7334.44",
+      "7341.42",
+      "7342.12",
+      "7349.91",
+      "7350.96"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-59\n質問番号　地図番号　187\nA　普通注記\n[B　除いた共通語]\n[C　除いた特殊語]\nページ　(5-3)\n項目名　あぜ　182\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞( )[ ]は厳密にする。\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nアゼ　ふつうのあぜはアゼで、やっ高いもの\n(デェ)　が　デェ　である。\nkuiro　<くち>\nアゼミセ　(ぜは ze と ze の中間？)\nアゼ dze\naze (にこでは ze と発音しなかった。)\n(再内) にがやはり ze\nNRE (段取りなので、一方ない(三方が店)\n(崖になって居り…わかる田畑がない…)\nAze <畑の湯の場合は kui といってる>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05959.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05959",
+    "source_canvas_label": "53",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05959.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_053.jpg",
+    "page_index": 53,
+    "location_numbers": [
+      "7352.38",
+      "7353.03",
+      "7353.51",
+      "7354.23",
+      "7356.70"
+    ],
+    "other_text": "日本雪語地図資料用紙 注記一覧 59-60\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n\n地図番号 187\n項目名 あぜ 182\nA 普通注記　ページ (54)\n[B 除いた共通語]\n[C 除いた特殊語]\n\n表ヘッダ: 地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7352.38  (tano)aze\n(tano)kuro\ndote 一段落ちのところ\n\n7353.03  tanokuro (これは産になった旧の境上の)\nkuro\n\n7353.51 (711) クロ <希> アジエ\n\n7354.23 チイハン <新> アゼ\n\n7356.70 aze (に様に発音した) a'de ta\n(図)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05960.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05960",
+    "source_canvas_label": "54",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05960.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_054.jpg",
+    "page_index": 54,
+    "location_numbers": [
+      "7364.34",
+      "7372.96",
+      "7373.89",
+      "7374.15",
+      "7376.62",
+      "7385.84",
+      "7386.55",
+      "7392.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-61\n質問番号　地図番号　187\n項目名　あぜ　182\nA 普通注記\n[B 除いた共通語]\n[C 除いた特殊語]\n(55)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7364.34　アゼ [aze], ケイハン <新>\n7372.96　〈[アゼ]〉\n7373.89　ケイハン〈新〉　アセー\n7374.15　[アゼ]\n7376.62　aze (全然口蓋化しない)\n7385.84　aze (家代はせ、ぜがほとんど口蓋化(ない))\n7386.55　aze<絵が悪い..ぐるり四方に道があるの>\n7392.33　ケイハン〈新〉、役所の用語をまねて使う　アジェ",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05961.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05961",
+    "source_canvas_label": "55",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05961.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_055.jpg",
+    "page_index": 55,
+    "location_numbers": [
+      "7394.12",
+      "7411.87",
+      "7418.33"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-62\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記　[B　除いた共通語]　[C　除いた特殊語]　ページ (15-6)\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）[]は厳密にする。\n\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C　残した語形とその注]\n\n7394.12 aze (日常の会話内では aɟeと言うと思う)\n7411.87 kiji ……この地方は段々畑が多く旧よりも高い境をこうよぶ\n　高い境をこうよぶ\naze ……旧よりも低い方の境をこうよぶ\n7418.33 a ze.\nkiji (山手側のものは kijiと言う) 風、北は\n（南は海に…）\n（手書きの注記が続く）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05962.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05962",
+    "source_canvas_label": "56",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05962.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_056.jpg",
+    "page_index": 56,
+    "location_numbers": [
+      "7421.38",
+      "7430.15",
+      "7431.13",
+      "7470.72",
+      "7471.38"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-63\n\n質問番号　地図番号　187\n項目名　あぜ　182\n[A] 普通注記　(B 除いた共通語)　(C 除いた特殊語)　ページ (57)\n\n地 点 番 号　　A 語形とその注記 [B・C 除いた語形とその注]　　A 注のない語形 [B・C 残した語形とその注]\n\n7421.38  aze (\"高うねを [d90]\", \"椿きみぞ\" を [gazyi] という由。)\n7430.15  dze <kuro-gari - azekwusa o karu-> azekwusa o karu: こと。 (かし dze ekurok ...)\n7431.13  dze (多くは段になって居り、azeの部分 は石で積みあげてあるので <giji>という由。)\n7470.72  aze <平地>\ngiji <石を積んだ境>\n7471.38  aze 番の境はキシ\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05963.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05963",
+    "source_canvas_label": "57",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05963.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_057.jpg",
+    "page_index": 57,
+    "location_numbers": [
+      "7504.27",
+      "7510.18",
+      "7522.48",
+      "7523.74",
+      "8300.25",
+      "8302.15",
+      "8303.82"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-64\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく　>(　)(　)[　]は厳密にする。\n\n質問番号　地図番号\n項目名　あぜ　182\nA　普通注記　ページ\n(B　除いた共通語)\n(C　除いた特殊語)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n7504.27　aze　石垣のある、段になったものにはくぼりという。\n7510.18　アデー（アゼーの訛り）\n7522.48　アテ（　）\n7523.74　aze … kuru の内側 又 kuruで囲ま\n（れた田を更に区切ったもので水もんを防）\n（ぢ土をぬったもの。字かす）\nkuru… 旧の堀にあたり、小さい土手、歩ける。\n\n8300.25　aze（kuroという語は知らない）\n8302.15　ケイハン（農協ことば）\n8303.82　ドテ（ドテ／イワフェラなどという）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05964.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05964",
+    "source_canvas_label": "58",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05964.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_058.jpg",
+    "page_index": 58,
+    "location_numbers": [
+      "8304.66",
+      "8305.76",
+      "8306.04",
+      "8324.26",
+      "8325.03",
+      "8334.25",
+      "8334.63",
+      "8335.48",
+      "8342.69"
+    ],
+    "other_text": "A・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記のく > ( ) [ ] は厳密にする。\n日本言語地図資料用紙注記一覧　59-65\n（右上ボックス）地図番号 187　項目名　あぜ　182\nA 普通注記　[B 除いた共通語]　[C 除いた特殊語]　ページ (59)\n表ヘッダ：地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n手書き項目（A 語形と注記）の抜粋：\naze　子は a と d との中間音\naze ～ aze（かなり口蓋化が著しい）\naze（多少口蓋化する）\naze（aze と dze との中間音）\naze（aze と dze との中間のような言い方）\ndote　<（きりの大きい場合）>\naze　<（きりの小さい場合）>\naze\na'ze　<多>\n（その他の手書き注記あり）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05965.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05965",
+    "source_canvas_label": "59",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05965.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_059.jpg",
+    "page_index": 59,
+    "location_numbers": [
+      "8345.18",
+      "8352.92",
+      "8361.28",
+      "8373.43",
+      "9322.52",
+      "0237.79",
+      "0340.00",
+      "1260.28",
+      "1261.01"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-66\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の< > ( ) [ ]は厳密にする。\n質問番号 地図番号 項目名 あぜ 182\nA 普通注記 [B 除いた共通語] [C 除いた特殊語] ページ (60)\n地点番号  A 語形とその注記 [B・C 除いた語形とその注]  A 注のない語形 [B・C 残した語形とその注]\n8345.18  aze (azeは聞きょうではあぜとも聞こえる)\n8352.92  dote <多?>  a\"ze\n8361.28  dote <希>\n8373.43  gij <多>\n9322.52  aze <夷?>\n0237.79  aze <新>\n0340.00  abuji <希>\n1260.28  ta:mitji <abuji> は親をささえ立がずりお\n（ちな..ように|こあろところという。）\n1261.01  ta:mitji gwa: （手書き注記）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05966.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05966",
+    "source_canvas_label": "60",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05966.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_060.jpg",
+    "page_index": 60,
+    "location_numbers": [
+      "1261.16",
+      "2150.17"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-67\n質問番号　地図番号　87\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ　(61)\n項目名　あぜ　182\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の< > ( ) [ ]は厳密にする。\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n1261.16 ta: bukkwa mitji　言葉と(とっている)。\n2150.17 katsimi　<垣根から転じた意味>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05967.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05967",
+    "source_canvas_label": "61",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05967.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_061.jpg",
+    "page_index": 61,
+    "location_numbers": [
+      "1731.89",
+      "2619.28",
+      "2722.67",
+      "2732.39",
+      "3774.61",
+      "4637.68",
+      "4638.43",
+      "4648.04"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-68\n質問番号 地図番号 187\n項目名 あぜ 182\nA 普通注記 (B 除いた共通語) (C 除いた特殊語) ページ\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記のく〈〉[ ]は厳密にする。\n地点番号   A 語形とその注記 [B・C除いた語形とその注]   A注のない語形 [B・C 残した語形とその注]\n1731.89   アゼ〈希〉   712\n2619.28   フジ (手書き: タノフジ?)\n2722.67   アゼ (新)   712\n2732.39   [アゼ] く他アゼは内地から来て間もなくの人   712\n3774.61   アゼ (上品)   712\n4637.68   takaguro / たかくぐろ これは高さのことなる旧の… kuro (これがちくからの言い方か)\n4638.43   aze〈新〉   kuro\n4648.04   enayumuro … nakakuro … sitakuro … (以下、手書きの注記が続く)\n(下段に小さな手書き注記: nakakuro (中ぐろ) 一枚の田の中間に作った低いあぜ 等)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05968.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05968",
+    "source_canvas_label": "62",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05968.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_062.jpg",
+    "page_index": 62,
+    "location_numbers": [
+      "4648.42",
+      "4653.84",
+      "4666.99",
+      "4667.33",
+      "4678.71"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-69\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（［］）は厳密にする。\n\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記　ページ\n(B)　除いた共通語　(2)\n(C)　除いた特殊語\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\nanze <希> \t\tkuro\na'ze' \t\t a'ze\nsakgeaze (他の人の旧と墾墓のあぜ?)\t\t g^dze (最も多く用いる。稀に株で...)\n\n4667.33　ユグロにくゎォやくらいの人の通れない、豆などに植えられるあぜ>\nオオミジくりやかーなども通れるあぜの道>\n\n4678.71 kuro (側部)\ng^dze (上部及び全体)\nkeihan (近年の使用)",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05969.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05969",
+    "source_canvas_label": "63",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05969.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_063.jpg",
+    "page_index": 63,
+    "location_numbers": [
+      "4762.77",
+      "4771.58",
+      "5615.28",
+      "5618.43",
+      "5625.32"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-70\n質問番号　地図番号　182\n項目名　あぜ　182\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ（3）\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n4762.77　aze く矢？　（右欄に手書きメモ）\n4771.58　adze <新> <山際になっている adze は 0; josee という?>　kuro\n5615.28　takadaze　標高の異なる間に作られた az e — 普通のあぜ　大きめあぜ\n5618.43　Kado　その他語形　sagae\n5625.32　コアぜ？〈細かあぜで通ることはまれない〉　アゼ（人が通れ大段などを...）　植えられる程度のもの\n（ページ下部に手書き注記が続くが一部不明瞭）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05970.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05970",
+    "source_canvas_label": "64",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05970.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_064.jpg",
+    "page_index": 64,
+    "location_numbers": [
+      "5731.13",
+      "5636.49",
+      "5639.13",
+      "5664.74",
+      "5648.53",
+      "5652.81",
+      "5653.08",
+      "5655.41"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-71\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記\n[B]　除いた共通語\n[C]　除いた特殊語\nページ　(4)\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n5731.13　ke:kal (渡そのもの)　kūro, aze, dode (kūroの移動?)\n5636.49　アゼ <新>　メンボシ? <多>\n5639.13　クロ <自分の所有する田の中に作った境で、年々とりわすものという。>　アゼ\n5664.74　クロ <稲><クロネギリ/トキダケ/クロトイラ>　アゼ\n5648.53　クロ <田と田の間に臨時に作るもの>　アゼ <草の生えている小直人?>\n5652.81　haba <tambo 図>　aze\n5653.08　kuro <畑のみにいう>　adze <畑のみにいう.>\n5655.41　アゼ <新>　クロ、タンボ、クロ\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05971.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05971",
+    "source_canvas_label": "65",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05971.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_065.jpg",
+    "page_index": 65,
+    "location_numbers": [
+      "5663.64",
+      "5668.38",
+      "5671.38",
+      "5675.87",
+      "5679.86",
+      "5686.31"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-72\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記　B　除いた共通語　C　除いた特殊語　ページ（ ）\nA・[B]・[C]ごとに別紙を使用する。 その中での情報は地点番号順に並べる。 注記の＜＞（ ）[ ]は厳密にする。\n地点番号　A　語形とその注記　[B・C除いた語形とその注]　A注のない語形　[B・C残した語形とその注]\n5663.64　haba　＜二枚の田の間に高低の差がある場合＞　aze\n5668.38　（アゼミサく新）　オオナくも>\n5671.38　bota　＜段になっている場合への土手＞　aze\n5675.87　フロ　普通、畦のすみ（火田はない）　アゼー語彙と1/2ある\n5679.86　koyumro, o:jumro　aze, kukro, koyumro\n5686.31　aze＜新＞　kuro、次田に使う　takkuwiro",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05972.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05972",
+    "source_canvas_label": "66",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05972.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_066.jpg",
+    "page_index": 66,
+    "location_numbers": [
+      "5688.86",
+      "5689.34",
+      "5691.37",
+      "5696.68",
+      "5722.37",
+      "5751.89",
+      "5782.79",
+      "5790.39"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧    59-73\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（　）［　］は厳密にする。\n\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記　(B)除いた共通語　(C)除いた特殊語　ページ（6）\n\n地点番号　A 語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n5688.86　[アゼコ] <畑の小道>　タノクロ、クロ（クロだけではわからぬ時もあり）\n5689.34　koyuro　小さなもの　kuro / tanokuro / 大きなもの？\n5691.37　adze (田の内側側のぬる所だけを>)　bota\n5696.68　adze <芥?>　kuro\n5722.37　seme <細…三角ににつくる、口の(きり)>　kuro…泥をはりつける。\n　　　dode…2,3尺の高さの草をえたり\n\n5751.89　kuro <斜面>　hazemitji <上面>\n5782.79　adze <希>　kuro\n5790.39　ojyuro 人の通れる大きさの道　kuro, tebi 普段などの囲りの意\n\n下部手書き: koyuro 人の通いるものであるが小さなもの\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05973.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05973",
+    "source_canvas_label": "67",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05973.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_067.jpg",
+    "page_index": 67,
+    "location_numbers": [
+      "5792.62",
+      "6428.15",
+      "6457.51",
+      "6484.43"
+    ],
+    "other_text": "▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の＜＞（）（）［］は厳密にする。\n日本言語地図資料用紙 注記一覧 59-74\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記　　B（除いた共通語）　C（除いた特殊語）　ページ（7）\n地点番号　A 語形とその注記［B・C除いた語形とその注］　A 注のない語形［B・C 残した語形とその注］\n\n5792.62　kuro ＜一枚の田の中に臨時的に作るもの、畦耕。aze＜道のようになっている所＞＞\n耕転機の発達により今は作らない。aze\nより小さい一枚の田の中での水を（きるためのもの）だった。>\n\n6428.15　ワキ＜山田の境＞　アデ、サカエ\n\n6457.51　ko'aze ＜中段に塗りつけるもの＞　A'ze\n\n6484.43　キシ…高い田と低い田との境の差になった斜アゼ…旧とはとの間にサカイ\n（えい・のはアゼ＝ミクである）があって\nそれに土をかきあげてアゼマメ\nを植えたりする部分を云う。>",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05974.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05974",
+    "source_canvas_label": "68",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05974.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_068.jpg",
+    "page_index": 68,
+    "location_numbers": [
+      "6484.78",
+      "6486.93"
+    ],
+    "other_text": "日本言語地図資料用紙　注記一覧　59-75\n質問番号　地図番号　　187\n項目名　あぜ　182\nA　普通注記\n(B)　除いた共通語\n(C)　除いた特殊語\nページ　(8)\n\nA・[B]・[C]ごとに別紙を使用する。\nその中での情報は地点番号順に並べる。\n注記の＜＞（）（［］は厳密にする。\n\n地点番号　A　語形とその注記　[B・C 除いた語形とその注]\nA 注のない語形　[B・C　残した語形とその注]\n\n（手書き）\nキシ・・・うちのアゼハ、タカギシジャモン／木。\n（ダカウナアの意）のような場合にキシのよ\nうな語が用いられる。少し丘のような\n高い田のアゼをキシという事が多く、（注）\n（タカギシと言う・・・方）普通はアゼであり、アゼ、（タカギシ）\nアゼを水田にするとき、堀の土\n又は工事の上に田の土を盛り上げ\nきれいに塗ってその上にあぜ豆\nを植えたりする部分>\nタカアゼ（広い水田の仕切りを作る）\nキシ（隣の田と高低の差があるあぜ）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05975.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05975",
+    "source_canvas_label": "69",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05975.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_069.jpg",
+    "page_index": 69,
+    "location_numbers": [
+      "6494.21",
+      "6532.70",
+      "6575.40",
+      "6582.73",
+      "6605.84"
+    ],
+    "other_text": "▲ A・[B]・[C]ごとに別紙を使用する。\n▲ その中での情報は地点番号順に並べる。\n▲ 注記の < > ( ) [ ] は厳密にする。\n\n日本言語地図資料用紙 注記一覧　59-76\n\n質問番号　地図番号　187\n項目名　あぜ　182\nA 普通注記\nB 除いた共通語\nC 除いた特殊語\nページ (9)\n\n地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n\n6494.21　サカイく畑ばかりであるから色画の為にはねをならべて境界を示(サカイという。)　アゼ（畑の間を通る為に作られているものをいう。）\n6532.70　アゼ（ウ）　アデ［Z］→［d］の化傾向\n6575.40　［aze］　非常に著しい地方であるが\n6582.73　マブ～、アゼ（く夫）　アデ（アゼの言い方）\n6605.84　オオアゼ　アゼ、テアゼ……オオアゼ（慣になっているアゼ。内側に設けられて、水を通す所としている。冷い水をアゼで通す間に温かくしてあるように作られたものである。）",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05976.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05976",
+    "source_canvas_label": "70",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05976.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_070.jpg",
+    "page_index": 70,
+    "location_numbers": [
+      "6608.07",
+      "6620.53",
+      "6621.34",
+      "6700.48",
+      "6701.01",
+      "6711.95"
+    ],
+    "other_text": "日本言語地図資料用紙 注記一覧 59-77\n質問番号　地図番号　187\n項目名　あぜ　182\nA　普通注記　(B)　除いた共通語　(C)　除いた特殊語　ページ (10)\n▶ A・[B]・[C]ごとに別紙を使用する。\n▶ その中での情報は地点番号順に並べる。\n▶ 注記の< >( )[ ]は厳密にする。\n\n表ヘッダ: 地点番号　A　語形とその注記 [B・C除いた語形とその注]　A注のない語形 [B・C 残した語形とその注]\n\n手書き注記（概略）:\n6608.07: aze? … 山に接近に田があるとき、山の根 kuro … 「たんぼの畦」\n6620.53: bota -> bota (図で傾斜地も含まないもの) ta, tambo\n6621.34: aze <ぬる所>\n6700.48: [koguro] 和田… ??? kuro, <o:naguro 大きいもの>\n6701.01: [koyuro] … 道ることの出来ない小さ… も?\n6711.95: [ojuro] 大きいジョロのこと。 (watariguro) 人が通れる大きさの…\n\n（右側の細かい注釈や取り消し線、矢印などの手書き注記あり。）」} }",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05977.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05977",
+    "source_canvas_label": "71",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05977.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  },
+  {
+    "source_image": "page_071.jpg",
+    "page_index": 71,
+    "location_numbers": [
+      "7238.40",
+      "7309.37",
+      "7316.65",
+      "7372.27",
+      "7412.26",
+      "8361.28",
+      "2150.17"
+    ],
+    "other_text": "► A・[B]・[C]ごとに別紙を使用する。\n► その中での情報は地点番号順に並べる。\n► 注記の< > ( ) [ ]は厳密にする。\n日本言語地図資料用紙 注記一覧 59-78\n質問番号　地図番号　(手書き)187\n項目名　あぜ 182\nA 普通注記　(ページ)\n(B) 除いた共通語　(C) 除いた特殊語\n表ヘッダ: 地点番号　A 語形とその注記 [B・C 除いた語形とその注]　A 注のない語形 [B・C 残した語形とその注]\n7238.40　kuru <畑について…>　aze <田に つ...?>\n7309.37　giji　上を見て　ade 下を見て,\n7316.65　d'ze　　*a^de\n7372.27　アゼ ミチ　*アゼ\n7412.26　Kiwa　その他語形　a2e\n8361.28　dzube　\"　dote <希>\n2150.17　nakabaki <一般に用いる中分けの意>　katsini <垣根から車引...>\n",
+    "model": "gpt-5-mini",
+    "source_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05978.tif",
+    "source_manifest": "https://iiif.nihu.jp/iiif/archives/LJC-M187Q182/manifest.json",
+    "source_canvas_id": "https://iiif.nihu.jp/iiif/2/archives/LJC05978",
+    "source_canvas_label": "72",
+    "source_service_id": "https://iiif.nihu.jp/iiif/2/laj_note%2FLJC05978.tif",
+    "source_ljc_id": "LJC-M187Q182",
+    "source_map_numbers": [
+      "187"
+    ],
+    "source_title": "あぜ (畦畔)"
+  }
+]
