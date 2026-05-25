@@ -31,10 +31,11 @@ function noteOcrSetForMapId(id) {
   const n = extractLajMapNumber(id);
   if (!n) return null;
   if (LAJ_NOTE_OCR_SETS.includes(n)) return n;
-  const mapNumber = Number(n);
   return LAJ_NOTE_OCR_SETS.find(set => {
     const m = set.match(/^(\d{3})-(\d{3})$/);
-    return m && mapNumber >= Number(m[1]) && mapNumber <= Number(m[2]);
+    if (!m) return false;
+    if (n === m[1] || n === m[2]) return true;
+    return ['017-019', '171-173'].includes(set) && Number(n) > Number(m[1]) && Number(n) < Number(m[2]);
   }) || null;
 }
 

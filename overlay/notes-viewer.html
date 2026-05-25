@@ -170,6 +170,11 @@
 <script src="scripts/note-sync.js"></script>
 <script>
 const noteIndexUrl = 'data/laj_note_index.json';
+const mapsWithoutNoteCards = new Set([
+  '042', '051', '057', '058', '069', '073', '074', '075', '076',
+  '095', '098', '099', '100', '120', '126', '135', '150', '154',
+  '184', '227', '246', '257', '289', '290', '292', '295', '297',
+]);
 const manifestCache = new Map();
 const ocrPagesCache = new Map();
 let noteIndex = null;
@@ -211,12 +216,25 @@ function ocrSetFromUrl() {
   return url.searchParams.get('set') || noteOcrSetForMapId(url.searchParams.get('map') || activeMapNumber);
 }
 
-function ocrPagesUrlFromUrl() {
+function noteOcrSetForEntry(entry) {
+  const m = String(entry?.ljcId || '').match(/^LJC-M(\d+)Q/i);
+  return m ? noteOcrSetForMapId(`LAJ_${m[1]}`) : null;
+}
+
+function ocrPagesUrlsFromUrl(entries = []) {
   const url = currentUrl();
-  if (url.searchParams.get('ocr')) return url.searchParams.get('ocr');
-  const set = ocrSetFromUrl();
-  if (!set) return null;
-  return `data/note-ocr/${encodeURIComponent(set)}/pages.json`;
+  if (url.searchParams.get('ocr')) return [url.searchParams.get('ocr')];
+  const sets = [];
+  const addSet = set => {
+    if (set && !sets.includes(set)) sets.push(set);
+  };
+  addSet(url.searchParams.get('set'));
+  entries.forEach(entry => addSet(noteOcrSetForEntry(entry)));
+  return sets.map(set => `data/note-ocr/${encodeURIComponent(set)}/pages.json`);
+}
+
+function ocrPagesUrlFromUrl() {
+  return ocrPagesUrlsFromUrl()[0] || null;
 }
 
 function applyImageColumns(value) {
@@ -290,6 +308,23 @@ function imagesFromManifest(manifest) {
   }).filter(item => item.src);
 }
 
+function imagesFromEntryCards(entry, mapNumber = null) {
+  const cards = (entry.cards || []).filter(card => {
+    if (!mapNumber) return true;
+    return !card.mapNumbers?.length || card.mapNumbers.includes(mapNumber);
+  });
+  return cards.map((card, index) => {
+    const serviceId = card.serviceId || null;
+    const src = serviceId ? `${serviceId}/full/900,/0/default.jpg` : null;
+    return {
+      label: card.cardNumber || `画像 ${index + 1}`,
+      src,
+      canvasId: card.canvasId || null,
+      serviceId,
+    };
+  }).filter(item => item.src);
+}
+
 async function loadManifest(url) {
   if (!manifestCache.has(url)) {
     manifestCache.set(url, fetch(url).then(r => {
@@ -342,16 +377,19 @@ function renderImages(container, images, entryPages = []) {
   });
 }
 
-async function ensureOcrPages() {
-  const ocrPagesUrl = ocrPagesUrlFromUrl();
-  if (!ocrPagesUrl) return [];
-  if (!ocrPagesCache.has(ocrPagesUrl)) {
-    ocrPagesCache.set(ocrPagesUrl, fetch(ocrPagesUrl).then(r => {
-      if (!r.ok) throw new Error(`OCR pages fetch failed: ${r.status}`);
-      return r.json();
-    }));
-  }
-  return ocrPagesCache.get(ocrPagesUrl);
+async function ensureOcrPages(entries = []) {
+  const ocrPagesUrls = ocrPagesUrlsFromUrl(entries);
+  if (!ocrPagesUrls.length) return [];
+  const pageSets = ocrPagesUrls.map(ocrPagesUrl => {
+    if (!ocrPagesCache.has(ocrPagesUrl)) {
+      ocrPagesCache.set(ocrPagesUrl, fetch(ocrPagesUrl).then(r => {
+        if (!r.ok) throw new Error(`OCR pages fetch failed: ${r.status}`);
+        return r.json();
+      }));
+    }
+    return ocrPagesCache.get(ocrPagesUrl);
+  });
+  return (await Promise.all(pageSets)).flat();
 }
 
 function pagesForEntry(entry, pages) {
@@ -380,7 +418,7 @@ function focusLocation(locationNumber) {
   );
 }
 
-async function renderNoteCard(entry, pages) {
+async function renderNoteCard(entry, pages, mapNumber) {
   const article = document.createElement('article');
   article.className = 'panel note-card';
   article.dataset.ljcId = entry.ljcId;
@@ -400,9 +438,12 @@ async function renderNoteCard(entry, pages) {
   const imagesEl = article.querySelector('.images');
   try {
     const manifest = await loadManifest(entry.manifestUrl);
-    renderImages(imagesEl, imagesFromManifest(manifest), entryPages);
+    const images = imagesFromManifest(manifest);
+    renderImages(imagesEl, images.length ? images : imagesFromEntryCards(entry, mapNumber), entryPages);
   } catch (e) {
-    imagesEl.innerHTML = `<p class="muted">manifest 読み込み失敗: ${e.message}</p>`;
+    const images = imagesFromEntryCards(entry, mapNumber);
+    if (images.length) renderImages(imagesEl, images, entryPages);
+    else imagesEl.innerHTML = `<p class="muted">manifest 読み込み失敗: ${e.message}</p>`;
   }
   return article;
 }
@@ -418,26 +459,30 @@ async function renderMap(mapNumber, payload = {}) {
     setStatus('対応辞書の読み込み待ち…');
     return;
   }
+  const entries = noteIndex.maps?.[mapNumber] || [];
+  activeNoteEntries = entries;
+  const ocrPagesUrls = ocrPagesUrlsFromUrl(entries);
   let ocrPages = [];
   try {
-    ocrPages = await ensureOcrPages();
+    ocrPages = await ensureOcrPages(entries);
   } catch (e) {
     setStatus(`OCR データ読み込み失敗: ${e.message}`);
   }
   activeOcrPages = ocrPages;
-  const entries = noteIndex.maps?.[mapNumber] || [];
-  activeNoteEntries = entries;
   const source = payload.page ? ` / 受信元: ${payload.page}` : '';
   setStatus(entries.length ? `${entries.length}件の注記を表示中${source}` : `該当注記なし${source}`);
-  const ocrState = ocrPagesUrlFromUrl() ? ` / OCR: ${ocrPages.length}ページ` : ' / OCR未指定';
+  const ocrState = ocrPagesUrls.length ? ` / OCR: ${ocrPages.length}ページ` : ' / OCR未指定';
   setSummary(`現在の地図番号 <strong>${mapNumber}</strong> に対応する注記を表示します。${ocrState}`);
   const list = $('noteList');
   list.innerHTML = '';
   if (!entries.length) {
-    list.innerHTML = '<div class="panel muted">この地図番号に対応する注記は対応辞書に見つかりませんでした。</div>';
+    const message = mapsWithoutNoteCards.has(mapNumber)
+      ? 'この地図番号に対応する注記カードはありません。'
+      : 'この地図番号に対応する注記は対応辞書に見つかりませんでした。';
+    list.innerHTML = `<div class="panel muted">${message}</div>`;
     return;
   }
-  const cards = await Promise.all(entries.map(entry => renderNoteCard(entry, ocrPages)));
+  const cards = await Promise.all(entries.map(entry => renderNoteCard(entry, ocrPages, mapNumber)));
   if (activeMapNumber !== mapNumber) return;
   cards.forEach(card => list.appendChild(card));
   if (activeLocationNumber) focusLocation(activeLocationNumber);
