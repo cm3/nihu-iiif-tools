@@ -24,7 +24,7 @@ overlay/
 │   ├── 017-mapping-rk.tsv         # LAJ_017 琉球・奄美インセット用 GCP
 │   ├── 017-mapping-sk.tsv         # LAJ_017 先島諸島インセット用 GCP
 │   ├── LAJ_017_LAJ_NNN.json       # overlay.html で記録したキャリブレーション対応点
-│   └── NNN-mapping*.tsv           # json-to-mapping.py で自動生成した GCP TSV
+│   └── NNN/Sxx-mapping*.tsv       # json-to-mapping.py で自動生成した GCP TSV
 └── scripts/
     ├── csv-to-json.js             # laj_maps.json 生成スクリプト
     ├── json-to-mapping.py         # キャリブレーション JSON → GCP TSV 生成
@@ -182,6 +182,7 @@ python scripts/notes-csv-to-json.py
 
 `data/{NNN}-mapping.tsv`、`data/{NNN}-mapping-h1.tsv`〜`-h4.tsv`、
 `data/{NNN}-mapping-hk.tsv`、`-rk.tsv`、`-sk.tsv` を生成する。
+参考図 `LAJ_S01`〜`LAJ_S06` は `data/{Sxx}-mapping*.tsv` として生成する。
 フォーマットは `017-mapping*.tsv` と同一（`px py lon lat`）。
 
 ---

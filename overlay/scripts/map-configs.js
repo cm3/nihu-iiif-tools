@@ -22,8 +22,8 @@ const MASK_RYUKYU    = [{ label: '琉球・奄美', svg: REGION_DEFS.ryukyu    }
 const MASK_SAKISHIMA = [{ label: '先島諸島',   svg: REGION_DEFS.sakishima }];
 
 // ===== 地図別設定 =====
-// 命名規約: data/{NNN}-mapping.tsv, data/{NNN}-mapping-hk.tsv, ...
-// NNN = LAJ_NNN の3桁数字部分（例: LAJ_001 → 001）
+// 命名規約: data/{KEY}-mapping.tsv, data/{KEY}-mapping-hk.tsv, ...
+// KEY = LAJ_NNN の3桁数字部分、または参考図 LAJ_S01 の S01
 
 function splitMapConfigFromNnn(nnn) {
   return {
@@ -53,10 +53,15 @@ function legacyMapConfigFromNnn(nnn) {
 }
 
 function defaultMapConfig(id) {
-  const m = id.match(/(\d+)$/);
-  if (!m) return null;
-  const nnn = m[1].padStart(3, '0');
+  const nnn = mapIdToDataKey(id);
+  if (!nnn) return null;
   return legacyMapConfigFromNnn(nnn);
+}
+
+function mapIdToDataKey(id) {
+  const m = id.match(/^LAJ_(S\d+|\d+)$/);
+  if (!m) return null;
+  return m[1].startsWith('S') ? m[1] : m[1].padStart(3, '0');
 }
 
 // 例外設定のみ記載（命名規約に従えば defaultMapConfig と同一だが明示）

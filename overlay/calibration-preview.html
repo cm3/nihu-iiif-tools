@@ -278,12 +278,11 @@ async function hasSplitConfig(nnn) {
 
 async function resolveMapConfig(id) {
   const fallback = MAP_CONFIGS[id] ?? defaultMapConfig(id);
-  const m = id.match(/(\d+)$/);
-  if (!m) {
+  const nnn = mapIdToDataKey(id);
+  if (!nnn) {
     setSplitAvailability(false);
     return fallback;
   }
-  const nnn = m[1].padStart(3, '0');
   const splitAvailable = await hasSplitConfig(nnn);
   setSplitAvailability(splitAvailable);
   if (splitAvailable && preferSplit) return splitMapConfigFromNnn(nnn);

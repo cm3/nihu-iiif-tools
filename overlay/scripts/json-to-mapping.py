@@ -17,7 +17,7 @@ calibration-preview.html 用の GCP TSV を生成する。
   統合版 main、北海道・琉球・先島の各 TSV を一括生成する。
 
 【使用法】
-  python scripts/json-to-mapping.py                         # data/ 内の全 JSON を処理
+  python scripts/json-to-mapping.py                         # data/ 内の全 JSON（数字図・参考図）を処理
   python scripts/json-to-mapping.py data/LAJ_017_LAJ_001.json  # 個別指定
   python scripts/json-to-mapping.py --base-id LAJ_018 data/LAJ_018_LAJ_*.json
 """
@@ -94,9 +94,14 @@ def build_cross_map_transform(src: np.ndarray, dst: np.ndarray):
         return build_affine(src, dst), "affine"
 
 
-def map_id_to_nnn(map_id: str) -> str | None:
-    m = re.search(r"(\d+)$", map_id)
-    return m.group(1).zfill(3) if m else None
+def map_id_to_data_key(map_id: str) -> str | None:
+    m = re.fullmatch(r"LAJ_(S\d+|\d+)", map_id)
+    if not m:
+        return None
+    suffix = m.group(1)
+    if suffix.startswith("S"):
+        return suffix
+    return suffix.zfill(3)
 
 
 # ===== JSON 1ファイルを処理 =====
@@ -114,8 +119,8 @@ def process_json(json_path: Path, ref_gcps: dict, base_id: str) -> bool:
         print(f"  Skip: points が空")
         return False
 
-    nnn = map_id_to_nnn(overlay_id)
-    if nnn is None:
+    data_key = map_id_to_data_key(overlay_id)
+    if data_key is None:
         print(f"  Skip: overlayId 解析失敗: {overlay_id}")
         return False
 
@@ -133,7 +138,7 @@ def process_json(json_path: Path, ref_gcps: dict, base_id: str) -> bool:
         out_px  = cross(ref_px)                            # (m, 2): 対象地図 px
 
         suffix_str = f"-{suffix}" if suffix else ""
-        out_name   = f"{nnn}-mapping{suffix_str}.tsv"
+        out_name   = f"{data_key}-mapping{suffix_str}.tsv"
         out_path   = json_path.parent / out_name
 
         lines = [
@@ -186,7 +191,7 @@ def main():
     if args.json_files:
         json_files = list(args.json_files)
     else:
-        pattern = re.compile(rf"^{re.escape(base_id)}_LAJ_\d+\.json$")
+        pattern = re.compile(rf"^{re.escape(base_id)}_LAJ_(?:\d+|S\d+)\.json$")
         json_files = sorted(
             f for f in DATA_DIR.glob("*.json") if pattern.match(f.name)
         )
