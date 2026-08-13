@@ -9,18 +9,17 @@ from pathlib import Path
 def build_parser():
     here = Path(__file__).resolve()
     overlay_dir = here.parent.parent
-    repo_root = overlay_dir.parent
     parser = argparse.ArgumentParser(
         description="注記一覧 CSV から地図番号対応辞書 JSON を生成する"
     )
     parser.add_argument(
         "--input",
-        default=str(repo_root / "_local" / "注記一覧metadata_1.csv"),
+        default=str(overlay_dir / "source-data" / "laj_note_metadata_items.csv"),
         help="入力 CSV パス",
     )
     parser.add_argument(
         "--cards-input",
-        default=str(repo_root / "_local" / "注記一覧metadata_2.csv"),
+        default=str(overlay_dir / "source-data" / "laj_note_metadata_cards.csv"),
         help="注記カード一覧 CSV パス",
     )
     parser.add_argument(

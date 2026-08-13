@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 // CSV ファイルのパス
-const csvPath = path.resolve(__dirname, '../../data/laj_map_0 (2)_0.csv');
+const csvPath = path.resolve(__dirname, '../source-data/laj_map_metadata.csv');
 const outputPath = path.resolve(__dirname, '../data/laj_maps.json');
 
 // CSV を読み込んでパース
